@@ -1,0 +1,151 @@
+name: Daily Data Update
+
+on:
+  # schedule:
+    # Run daily at 2 AM EST (7 AM UTC)
+    # - cron: '0 7 * * *'
+  workflow_dispatch:  # Allow manual trigger
+
+# Needed for pushing changes back to repo and creating PRs
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+
+jobs:
+  update-data:
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    timeout-minutes: 120  # 2 hour timeout for data update
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 0  # Need full history for git operations
+        lfs: true  # Pull Git LFS files
+        ref: main  # Always start from main
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+        cache: 'pip'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Configure git
+      run: |
+        git config --global user.name "GitHub Actions Bot"
+        git config --global user.email "actions@github.com"
+
+    - name: Create or switch to data-updates branch
+      run: |
+        # Fetch all branches
+        git fetch origin
+        
+        # Always start from main for a clean state
+        git checkout main
+        git pull origin main
+        
+        # Create a fresh data-updates branch from main
+        # This ensures we always have the latest code and data
+        git checkout -B data-updates
+        echo "Created fresh data-updates branch from main"
+
+    - name: Pull Git LFS files
+      run: |
+        git lfs pull
+        echo "Checking data files:"
+        ls -lh data/*.parquet | head -5
+
+    - name: Run daily data update
+      env:
+        USAJOBS_API_TOKEN: ${{ secrets.USAJOBS_API_TOKEN }}
+        GITHUB_ACTIONS: true
+      run: |
+        cd update
+        python update_all.py
+
+    - name: Run data integrity tests
+      id: data_tests
+      run: |
+        cd update
+        python test_data_integrity.py
+        # If tests fail, the script returns non-zero and this step will fail
+
+    - name: Commit and push to data-updates branch
+      # Only runs if tests pass
+      run: |
+        # Check if there are changes
+        if [ -n "$(git status --porcelain)" ]; then
+          git add .
+          git commit -m "Daily data update - $(date +'%Y-%m-%d')"
+          git push -f origin data-updates
+          echo "CHANGES_MADE=true" >> $GITHUB_ENV
+        else
+          echo "No changes to commit"
+          echo "CHANGES_MADE=false" >> $GITHUB_ENV
+        fi
+
+    - name: Create Pull Request
+      if: env.CHANGES_MADE == 'true'
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        # Check if PR already exists
+        PR_EXISTS=$(gh pr list --base main --head data-updates --state open --json number --jq length)
+        
+        if [ "$PR_EXISTS" -eq "0" ]; then
+          echo "Creating new PR..."
+          gh pr create \
+            --base main \
+            --head data-updates \
+            --title "Daily data update - $(date +'%Y-%m-%d')" \
+            --body "Automated daily data update from USAJobs API"
+        else
+          echo "PR already exists, skipping creation"
+        fi
+
+    - name: Auto-merge PR if tests pass
+      if: env.CHANGES_MADE == 'true' && steps.data_tests.outcome == 'success'
+      run: |
+        # Wait a moment for PR to be created
+        sleep 10
+        
+        # Find the PR number
+        PR_NUMBER=$(gh pr list --base main --head data-updates --json number --jq '.[0].number')
+        
+        if [ -n "$PR_NUMBER" ]; then
+          echo "Auto-merging PR #$PR_NUMBER"
+          gh pr merge $PR_NUMBER --merge --auto
+        fi
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Check for failures
+      if: failure() || (env.CHANGES_MADE == 'true' && steps.data_tests.outcome == 'failure')
+      uses: actions/github-script@v7
+      with:
+        script: |
+          const issue = {
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            title: `Daily Data Update Failed - ${new Date().toISOString().split('T')[0]}`,
+            body: `The daily data update workflow had issues. 
+            
+            ${context.job.status === 'failure' ? 'The workflow failed to complete.' : 'Tests failed but a PR was created.'}
+            
+            Test Results:
+            - Data Integrity Tests: ${{ steps.data_tests.outcome }}
+            
+            [View the workflow run](${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId})
+            
+            Please check the logs for details.`,
+            labels: ['bug', 'automated']
+          };
+          await github.rest.issues.create(issue);
