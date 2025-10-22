@@ -71,14 +71,14 @@ jobs:
       env:
         GITHUB_ACTIONS: true
       run: |
-        cd questionnaires
+        cd src
         python run_questionnaire_pipeline.py
       continue-on-error: true  # Don't fail the workflow if scraping times out
 
     - name: Run questionnaire tests
       id: questionnaire_tests
       run: |
-        cd questionnaires
+        cd src
         python test_questionnaire_artifacts.py
         # If tests fail, this step will fail and stop the workflow
 
@@ -159,7 +159,7 @@ jobs:
     - name: Run questionnaire site tests
       id: questionnaire_tests
       run: |
-        cd questionnaires
+        cd src
         python test_questionnaire_artifacts.py
     
     - name: Push to prod-questionnaires if tests pass
@@ -180,3 +180,14 @@ jobs:
         git push -f origin prod-questionnaires
         
         echo "✅ Deployed to prod-questionnaires branch"
+
+    - name: Deploy to Netlify
+      uses: jsmrcaga/action-netlify-deploy@v2.0.0
+        with:
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_DEPLOY_MESSAGE: "Deployed from GitHub action"
+          NETLIFY_DEPLOY_TO_PROD: true
+          install_command: "echo Skipping installing the dependencies"
+          build_command: "echo Skipping building the web files"
+          build_directory: "src/analysis"
