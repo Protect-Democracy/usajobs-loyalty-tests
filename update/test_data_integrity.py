@@ -232,38 +232,6 @@ def create_baseline(filepath):
     with open(filepath, 'w') as f:
         json.dump(baseline, f, indent=2)
 
-def check_data_consistency():
-    """Check for data consistency issues"""
-    try:
-        # Check current year files
-        current_2025 = pd.read_parquet('../data/current_jobs_2025.parquet')
-        historical_2025 = pd.read_parquet('../data/historical_jobs_2025.parquet')
-        
-        # Current should be subset of or equal to historical for same year
-        current_ids = set(current_2025['PositionID'].unique()) if 'PositionID' in current_2025.columns else set()
-        historical_ids = set(historical_2025['PositionID'].unique()) if 'PositionID' in historical_2025.columns else set()
-        
-        # Check for control numbers if PositionID doesn't exist
-        if not current_ids and 'usajobsControlNumber' in current_2025.columns:
-            current_ids = set(current_2025['usajobsControlNumber'].unique())
-        if not historical_ids and 'usajobsControlNumber' in historical_2025.columns:
-            historical_ids = set(historical_2025['usajobsControlNumber'].unique())
-        
-        if current_ids and historical_ids:
-            missing_in_historical = current_ids - historical_ids
-            overlap = len(current_ids & historical_ids)
-            print(f"{Colors.GREEN}✅ PASS{Colors.RESET} Data consistency check")
-            print(f"     {len(missing_in_historical):,} current jobs not yet in historical (normal)")
-            print(f"     {overlap:,} jobs appear in both files")
-        else:
-            print(f"{Colors.GREEN}✅ PASS{Colors.RESET} Could not check ID overlap (different schemas OK)")
-        
-        return True
-        
-    except Exception as e:
-        print(f"{Colors.YELLOW}⚠️  WARN{Colors.RESET} Could not check consistency: {e}")
-        return True
-
 def run_tests():
     """Run all data integrity tests"""
     print(f"{Colors.BLUE}DATA INTEGRITY TESTS{Colors.RESET}")
@@ -311,10 +279,6 @@ def run_tests():
         all_passed = False
         print(f"{Colors.RED}CRITICAL: Job IDs were lost! This must be fixed immediately!{Colors.RESET}")
     
-    # Test 6: Data consistency
-    print_header("6. DATA CONSISTENCY")
-    if not check_data_consistency():
-        all_passed = False
     
     # Summary
     print_header("TEST SUMMARY")

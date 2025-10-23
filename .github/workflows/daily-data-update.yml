@@ -14,7 +14,6 @@ permissions:
 
 jobs:
   update-data:
-    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     timeout-minutes: 120  # 2 hour timeout for data update
     
@@ -63,13 +62,24 @@ jobs:
         echo "Checking data files:"
         ls -lh data/*.parquet | head -5
 
+    - name: Check for api key
+      id: key_check
+      run: |
+        if [ "${{ secrets.USAJOBS_API_TOKEN }}" != '' ]; then
+          echo "USAJobs Api Key found."
+        else
+          echo "Data collection requires a USAJobs Api Key!"
+          exit 1
+        fi
+
     - name: Run daily data update
+      if: steps.key_check.outcome == 'success'
       env:
         USAJOBS_API_TOKEN: ${{ secrets.USAJOBS_API_TOKEN }}
         GITHUB_ACTIONS: true
       run: |
         cd update
-        python update_all.py
+        python update_current.py
 
     - name: Run data integrity tests
       id: data_tests

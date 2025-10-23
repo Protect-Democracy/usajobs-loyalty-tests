@@ -368,10 +368,10 @@ def main():
             return obj
     
     # Write to JSON file
-    with open('analysis/analysis_data.json', 'w') as f:
+    with open('public/analysis_data.json', 'w') as f:
         json.dump(analysis_data, f, indent=2, default=str)
     
-    print(f"\nAnalysis data written to analysis/analysis_data.json")
+    print(f"\nAnalysis data written to public/analysis_data.json")
     print(f"Total data points: {sum(len(v) if isinstance(v, list) else 1 for v in analysis_data.values())}")
 
 if __name__ == '__main__':
