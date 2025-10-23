@@ -1,10 +1,14 @@
 name: Daily Questionnaire Analysis
 
 on:
-  # schedule:
-    # Run daily at 4 AM EST (9 AM UTC) - 2 hours after data update
-    # - cron: '0 9 * * *'
+  # When our data files are updated and merged to main
+  push:
+    branches:
+      - 'main'
+    paths:
+      - '**.parquet'
   workflow_dispatch:  # Allow manual trigger
+
 
 # Needed for pushing changes back to repo and creating PRs
 permissions:
@@ -14,7 +18,6 @@ permissions:
 
 jobs:
   analyze-questionnaires:
-    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     timeout-minutes: 180  # 3 hour timeout for questionnaire analysis
     
@@ -133,7 +136,7 @@ jobs:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
   deploy-to-prod:
-    if: github.event_name == 'workflow_dispatch' || (github.event_name == 'schedule' && needs.analyze-questionnaires.result == 'success')
+    if: needs.analyze-questionnaires.result == 'success'
     needs: analyze-questionnaires
     runs-on: ubuntu-latest
     
@@ -143,43 +146,18 @@ jobs:
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         fetch-depth: 0
-        ref: questionnaire-updates  # Checkout the branch with the actual changes
+        ref: main
     
-    - name: Set up Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.11'
-        cache: 'pip'
-    
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install -r requirements.txt
-    
-    - name: Run questionnaire site tests
-      id: questionnaire_tests
-      run: |
-        cd src
-        python test_questionnaire_artifacts.py
-    
-    - name: Push to prod-questionnaires if tests pass
-      if: steps.questionnaire_tests.outcome == 'success'
+    - name: Merge to main
       run: |
         git config --global user.name "GitHub Actions Bot"
         git config --global user.email "actions@github.com"
         
-        # First merge to main
         git checkout main
         git pull origin main
-        git merge questionnaire-updates --no-ff -m "Merge questionnaire-updates after tests pass"
+        git merge questionnaire-updates --no-ff -m "Merge questionnaire-updates"
         git push origin main
         echo "✅ Merged to main branch"
-        
-        # Then create or update prod-questionnaires branch from the updated main
-        git checkout -B prod-questionnaires
-        git push -f origin prod-questionnaires
-        
-        echo "✅ Deployed to prod-questionnaires branch"
 
     - name: Deploy to Netlify
       uses: jsmrcaga/action-netlify-deploy@v2.0.0
@@ -190,4 +168,4 @@ jobs:
           NETLIFY_DEPLOY_TO_PROD: true
           install_command: "echo Skipping installing the dependencies"
           build_command: "echo Skipping building the web files"
-          build_directory: "src/analysis"
+          build_directory: "src/public"

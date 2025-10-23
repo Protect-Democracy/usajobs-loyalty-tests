@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Run questionnaire analysis after update_all.py
+Run questionnaire analysis after update_current.py
 """
 import subprocess
 import sys

@@ -60,7 +60,7 @@ This site uses data from the [USAJobs API](https://developer.usajobs.gov/) but *
 
 ```bash
 # Collect current jobs
-python update/update_all.py      # Update data
+python update/update_current.py      # Update data
 ```
 
 **Historical data collection (if needed):**
@@ -75,41 +75,12 @@ scripts/run_single.sh range 2024-01-01 2024-12-31
 scripts/run_parallel.sh 2020 2021 2022
 ```
 
-### Monitoring Data Collection
-
-Sometimes the USAJobs API has issues. Monitor your runs and check log files for any failed dates:
-
-#### Retrying Failed Dates
-
-If dates fail to collect, the system provides specific retry commands:
-
-```bash
-# The system will show failed dates and provide exact retry commands:
-python scripts/collect_data.py --start-date 2024-01-15 --end-date 2024-01-15 --data-dir data
-python scripts/collect_data.py --start-date 2024-01-20 --end-date 2024-01-20 --data-dir data
-
-# Or retry the entire range to catch any missed dates:
-python scripts/collect_data.py --start-date 2024-01-01 --end-date 2024-01-31 --data-dir data
-```
-
-**Check logs for:** 
-- `logs/historical_YYYY-MM-DD_to_YYYY-MM-DD_TIMESTAMP.log` - Full run details
-- `logs/DATA_GAPS_TIMESTAMP.log` - Critical data gap warnings with retry commands
-
 ### Data Storage
 
 - **Parquet Files**: Storage format
   - `historical_jobs_YEAR.parquet`: Historical job announcements by year
   - `current_jobs_YEAR.parquet`: Current job postings by year
 - **Logs**: Stored in `logs/` directory with aggressive data gap detection
-
-### Data Architecture
-
-The pipeline uses a "keep everything + overlay" approach:
-
-- **Historical API**: Keeps all 40+ original fields (these field names are our standard)
-- **Current API**: Keeps all original nested fields PLUS adds overlay fields using historical API names
-- **Result**: No data loss + consistent querying across both APIs
 
 ## Contributing
 

@@ -145,7 +145,7 @@ def check_no_job_id_loss():
     
     # Collect current job IDs from analysis data
     try:
-        with open('analysis/analysis_data.json', 'r') as f:
+        with open('public/analysis_data.json', 'r') as f:
             analysis_data = json.load(f)
             if 'job_postings' in analysis_data:
                 for job in analysis_data['job_postings']:
@@ -266,7 +266,7 @@ def create_baseline(filepath):
         # Collect all job IDs from analysis data
         job_ids_set = set()
         try:
-            with open('analysis/analysis_data.json', 'r') as f:
+            with open('public/analysis_data.json', 'r') as f:
                 analysis_data = json.load(f)
                 if 'job_postings' in analysis_data:
                     for job in analysis_data['job_postings']:
@@ -366,7 +366,7 @@ def check_for_error_pages():
 def check_analysis_data():
     """Check the analysis data JSON structure and validate all counts"""
     try:
-        with open('analysis/analysis_data.json', 'r') as f:
+        with open('public/analysis_data.json', 'r') as f:
             data = json.load(f)
         
         # Check required top-level keys
@@ -504,8 +504,8 @@ def run_tests():
         ('questionnaire_links.csv', 'Questionnaire links CSV'),
         ('all_jobs_clean.csv', 'All jobs clean CSV'),
         ('all_jobs_stats.json', 'Job statistics JSON'),
-        ('analysis/analysis_data.json', 'Analysis data JSON'),
-        ('analysis/index.html', 'Analysis site HTML')
+        ('public/analysis_data.json', 'Analysis data JSON'),
+        ('public/index.html', 'Analysis site HTML')
     ]
     
     for filepath, desc in files_to_check:
