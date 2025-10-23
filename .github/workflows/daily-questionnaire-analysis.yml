@@ -74,14 +74,14 @@ jobs:
       env:
         GITHUB_ACTIONS: true
       run: |
-        cd src
+        cd src/generate_site
         python run_questionnaire_pipeline.py
       continue-on-error: true  # Don't fail the workflow if scraping times out
 
     - name: Run questionnaire tests
       id: questionnaire_tests
       run: |
-        cd src
+        cd src/generate_site
         python test_questionnaire_artifacts.py
         # If tests fail, this step will fail and stop the workflow
 

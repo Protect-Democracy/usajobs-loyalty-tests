@@ -28,6 +28,6 @@ __pycache__/
 # Session files - NEVER commit these!
 usajobs_session.json
 *_session.json
-src/usajobs_session.json
+src/generate_site/usajobs_session.json
 session_base64.txt
-src/session_base64.txt
+src/generate_site/session_base64.txt

@@ -1,3 +1,0 @@
-./monster_177718.txt
-./monster_27505.txt
-./monster_27511.txt
