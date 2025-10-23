@@ -60,19 +60,28 @@ This site uses data from the [USAJobs API](https://developer.usajobs.gov/) but *
 
 ```bash
 # Collect current jobs
-python update/update_current.py      # Update data
+cd src/generate_data
+python ./run_data_pipeline.py
+```
+
+**Workflow for questionnaire site updates:**
+
+```bash
+# Collect current jobs
+cd src/generate_site
+python ./run_questionnaire_pipeline.py
 ```
 
 **Historical data collection (if needed):**
-- Single year: [scripts/run_single.sh](./scripts/run_single.sh)
-- Multiple years: [scripts/run_parallel.sh](./scripts/run_parallel.sh)
+- Single year: [src/generate_data/run_single.sh](./src/generate_data/run_single.sh)
+- Multiple years: [src/generate_data/run_parallel.sh](./src/generate_data/run_parallel.sh)
 
 ```bash
 # Single year:
-scripts/run_single.sh range 2024-01-01 2024-12-31
+src/generate_data/run_single.sh range 2024-01-01 2024-12-31
 
 # Multiple years:
-scripts/run_parallel.sh 2020 2021 2022
+src/generate_data/run_parallel.sh 2020 2021 2022
 ```
 
 ### Data Storage

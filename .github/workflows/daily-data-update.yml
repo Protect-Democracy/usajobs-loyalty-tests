@@ -78,13 +78,13 @@ jobs:
         USAJOBS_API_TOKEN: ${{ secrets.USAJOBS_API_TOKEN }}
         GITHUB_ACTIONS: true
       run: |
-        cd update
-        python update_current.py
+        cd src/generate_data
+        python run_data_pipeline.py
 
     - name: Run data integrity tests
       id: data_tests
       run: |
-        cd update
+        cd src/generate_data
         python test_data_integrity.py
         # If tests fail, the script returns non-zero and this step will fail
 
