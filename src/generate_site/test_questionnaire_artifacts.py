@@ -366,7 +366,7 @@ def check_for_error_pages():
 def check_analysis_data():
     """Check the analysis data JSON structure and validate all counts"""
     try:
-        with open('public/analysis_data.json', 'r') as f:
+        with open('../public/analysis_data.json', 'r') as f:
             data = json.load(f)
         
         # Check required top-level keys

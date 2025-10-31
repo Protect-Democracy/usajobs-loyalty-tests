@@ -6,7 +6,7 @@ on:
     branches:
       - 'main'
     paths:
-      - '**.parquet'
+      - 'data/**'
   workflow_dispatch:  # Allow manual trigger
 
 
