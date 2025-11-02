@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "total_jobs": 69423,
+    "total_jobs": 69424,
     "cutoff_date": "2025-06-01",
-    "generation_date": "2025-11-01T15:03:15.631598"
+    "generation_date": "2025-11-02T15:56:18.202454"
   },
   "by_service_type": {
-    "Competitive": 40115,
+    "Competitive": 40116,
     "Excepted": 29109,
     "Senior Executive": 199
   },
@@ -55,7 +55,7 @@
   },
   "by_agency": {
     "Department of Veterans Affairs": 27748,
-    "Department of the Navy": 8621,
+    "Department of the Navy": 8622,
     "Department of Defense": 6973,
     "Department of the Air Force": 6969,
     "Department of the Army": 5995,
@@ -81,7 +81,7 @@
     "0185 - Social Work": 2353,
     "0301 - Miscellaneous Administration And Program": 1922,
     "0679 - Medical Support Assistance": 1635,
-    "1702 - Education And Training Technician": 1582,
+    "1702 - Education And Training Technician": 1583,
     "2210 - Information Technology Management": 1412,
     "0189 - Recreation Aid And Assistant": 1406,
     "1101 - General Business And Industry": 1355,
