@@ -1,12 +1,9 @@
 name: Daily Questionnaire Analysis
 
 on:
-  # When our data files are updated and merged to main
-  push:
-    branches:
-      - main
-    paths:
-      - 'data/**'
+  schedule:
+    # Run daily at 4 AM EST (9 AM UTC) - 2 hours after data update
+    - cron: '0 9 * * *'
   workflow_dispatch:  # Allow manual trigger
 
 
