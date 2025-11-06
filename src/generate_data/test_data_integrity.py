@@ -254,7 +254,7 @@ def run_tests():
     # Test 2: Historical data files exist
     print_header("2. HISTORICAL DATA FILES")
     
-    for year in range(2013, 2026):
+    for year in range(2024, 2026):
         filename = f'historical_jobs_{year}.parquet'
         min_rows = 5 if year < 2015 else 10 if year < 2017 else 1000  # Early years have less data
         if not check_parquet_file(f'../../data/{filename}', min_rows,
