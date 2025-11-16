@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "total_jobs": 74620,
+    "total_jobs": 74626,
     "cutoff_date": "2025-06-01",
-    "generation_date": "2025-11-15T09:52:29.894015"
+    "generation_date": "2025-11-16T09:21:01.798491"
   },
   "by_service_type": {
-    "Competitive": 42947,
+    "Competitive": 42953,
     "Excepted": 31458,
     "Senior Executive": 215
   },
@@ -13,7 +13,7 @@
     "GS-12": 5797,
     "VN-00": 5204,
     "GS-13": 4837,
-    "GS-11": 3452,
+    "GS-11": 3453,
     "GS-9": 2851,
     "GS-6": 2632,
     "GS-7": 2421,
@@ -29,7 +29,7 @@
     "GS-15": 1044,
     "GS-8": 1022,
     "GS-11/12": 982,
-    "NF-4": 945
+    "NF-4": 946
   },
   "by_location": {
     "Washington, District of Columbia": 2610,
@@ -38,7 +38,7 @@
     "Phoenix, Arizona": 600,
     "Battle Creek, Michigan": 503,
     "Indianapolis, Indiana": 501,
-    "Portland, Oregon": 468,
+    "Portland, Oregon": 469,
     "Albuquerque, New Mexico": 455,
     "Aurora, Colorado": 442,
     "San Antonio, Texas": 407,
@@ -49,14 +49,14 @@
     "Anchorage, Alaska": 363,
     "Fort Bragg, North Carolina": 351,
     "Seattle, Washington": 332,
-    "Camp Foster, Japan": 329,
+    "Camp Foster, Japan": 331,
     "Philadelphia, Pennsylvania": 327,
     "Boise, Idaho": 322
   },
   "by_agency": {
-    "Department of Veterans Affairs": 30290,
-    "Department of the Navy": 9089,
-    "Department of Defense": 7448,
+    "Department of Veterans Affairs": 30291,
+    "Department of the Navy": 9093,
+    "Department of Defense": 7449,
     "Department of the Air Force": 7364,
     "Department of the Army": 6450,
     "Department of Homeland Security": 3620,
@@ -76,13 +76,13 @@
     "Executive Office of the President": 66
   },
   "by_occupation": {
-    "0610 - Nurse": 5298,
+    "0610 - Nurse": 5299,
     "0602 - Medical Officer": 2638,
     "0185 - Social Work": 2575,
     "0301 - Miscellaneous Administration And Program": 2044,
     "0679 - Medical Support Assistance": 1779,
-    "1702 - Education And Training Technician": 1704,
-    "0189 - Recreation Aid And Assistant": 1520,
+    "1702 - Education And Training Technician": 1706,
+    "0189 - Recreation Aid And Assistant": 1521,
     "2210 - Information Technology Management": 1505,
     "0620 - Practical Nurse": 1450,
     "1101 - General Business And Industry": 1435,
