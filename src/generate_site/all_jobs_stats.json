@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "total_jobs": 78111,
+    "total_jobs": 78115,
     "cutoff_date": "2025-06-01",
-    "generation_date": "2025-11-22T09:53:10.043468"
+    "generation_date": "2025-11-23T09:22:20.186013"
   },
   "by_service_type": {
-    "Competitive": 45040,
+    "Competitive": 45044,
     "Excepted": 32850,
     "Senior Executive": 221
   },
@@ -13,7 +13,7 @@
     "GS-12": 6098,
     "VN-00": 5421,
     "GS-13": 5094,
-    "GS-11": 3643,
+    "GS-11": 3644,
     "GS-9": 2997,
     "GS-6": 2762,
     "GS-7": 2545,
@@ -57,8 +57,8 @@
     "Department of Veterans Affairs": 31614,
     "Department of the Navy": 9417,
     "Department of the Air Force": 7927,
-    "Department of Defense": 7722,
-    "Department of the Army": 6801,
+    "Department of Defense": 7723,
+    "Department of the Army": 6804,
     "Department of Homeland Security": 3781,
     "Department of Justice": 3617,
     "Department of the Interior": 1272,
