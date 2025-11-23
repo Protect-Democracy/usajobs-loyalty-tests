@@ -1,8 +1,8 @@
 {
-  "created_at": "2025-11-22T07:27:36.978216",
+  "created_at": "2025-11-23T07:28:26.621545",
   "row_counts": {
     "historical_jobs_2024.parquet": 367186,
-    "current_jobs_2025.parquet": 71458,
+    "current_jobs_2025.parquet": 71462,
     "historical_jobs_2025.parquet": 131319,
     "current_jobs_2024.parquet": 584
   },
@@ -438653,7 +438653,11 @@
       "850787400",
       "850686800",
       "850691400",
-      "850740500"
+      "850740500",
+      "850525600",
+      "850680300",
+      "850749100",
+      "850752800"
     ],
     "historical_jobs_2025.parquet": [
       "816320100",
