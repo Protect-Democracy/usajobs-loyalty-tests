@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "total_jobs": 80611,
+    "total_jobs": 80616,
     "cutoff_date": "2025-06-01",
-    "generation_date": "2025-11-29T09:30:03.499584"
+    "generation_date": "2025-11-30T09:21:50.510912"
   },
   "by_service_type": {
-    "Competitive": 46517,
+    "Competitive": 46522,
     "Excepted": 33868,
     "Senior Executive": 226
   },
@@ -24,7 +24,7 @@
     "NF-2": 1617,
     "WG-10": 1543,
     "GS-3/6": 1521,
-    "NF-3": 1329,
+    "NF-3": 1330,
     "GS-3/5": 1213,
     "GS-15": 1131,
     "GS-8": 1093,
@@ -56,7 +56,7 @@
   "by_agency": {
     "Department of Veterans Affairs": 32596,
     "Department of the Navy": 9639,
-    "Department of the Air Force": 8303,
+    "Department of the Air Force": 8308,
     "Department of Defense": 7898,
     "Department of the Army": 7032,
     "Department of Homeland Security": 3902,
@@ -85,7 +85,7 @@
     "2210 - Information Technology Management": 1653,
     "0189 - Recreation Aid And Assistant": 1622,
     "0620 - Practical Nurse": 1580,
-    "1101 - General Business And Industry": 1513,
+    "1101 - General Business And Industry": 1514,
     "0303 - Miscellaneous Clerk And Assistant": 1377,
     "0180 - Psychology": 1359,
     "0343 - Management And Program Analysis": 1150,

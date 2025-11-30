@@ -71186,6 +71186,11 @@ Competitive,"Richmond, Virginia",5823,Automotive Mechanic,WG-10,10,10,851154100,
 Competitive,"Miami-Dade County, Florida",6907,Materials Handler,WS-03,03,03,851162100,Materials Handler Supervisor (Warehouse Worker Foreman),Department of Justice,2025-11-28 12:01:09.240,2025-12-12T23:59:59.9970,6907 - Materials Handler,WS-03
 Competitive,"Fort Sill, Oklahoma",6912,Materials Examining And Identifying,WG-6,6,6,851151600,Materials Examiner and Identifier (Fork Lift Operator),Department of Defense,2025-11-28 08:46:01.403,2025-12-07T23:59:59.9970,6912 - Materials Examining And Identifying,WG-6
 Competitive,"Memphis, Tennessee",7408,Food Service Working,WG-4,4,4,851165800,Food Service Worker,Department of Veterans Affairs,2025-11-28 13:09:09.130,2025-12-09T23:59:59.9970,7408 - Food Service Working,WG-4
+Competitive,"Fort Sam Houston, Texas",1101,General Business And Industry,NF-3,3,3,851179300,Tournament and Pro Shop Supervisor,Department of the Air Force,2025-11-29 14:56:16.957,2025-12-08T23:59:59.9970,1101 - General Business And Industry,NF-3
+Competitive,"Fort Sam Houston, Texas",5003,Gardening,NA-6,6,6,851179000,Gardener (Motor Vehicle Operator),Department of the Air Force,2025-11-29 14:13:40.370,2025-12-08T23:59:59.9970,5003 - Gardening,NA-6
+Competitive,"Fort Sam Houston, Texas",7404,Cooking,NA-4,4,4,851179100,Cook,Department of the Air Force,2025-11-29 14:27:00.653,2025-12-08T23:59:59.9970,7404 - Cooking,NA-4
+Competitive,"Fort Sam Houston, Texas",7405,Bartending,NA-5,5,5,851179400,Bartender,Department of the Air Force,2025-11-29 15:11:30.047,2025-12-08T23:59:59.9970,7405 - Bartending,NA-5
+Competitive,"Fort Sam Houston, Texas",7420,Waiter,NA-3,3,3,851179200,Waiter,Department of the Air Force,2025-11-29 14:39:13.637,2025-12-08T23:59:59.9970,7420 - Waiter,NA-3
 Excepted,"Hanscom AFB, Massachusetts",0391,,GS-11,11,11,816418500,TELECOMMUNICATIONS SPECIALIST,Department of the Army,2025-10-29 00:00:00.000,2025-11-08,0391 - Unknown,GS-11
 Competitive,"Rockville, Maryland",2210,,GS-14,14,14,818315700,IT Specialist - Network Engineer - PD 22R054 - Office of Information Technology,Department of Health and Human Services,2025-11-01 00:00:00.000,2025-11-05,2210 - Unknown,GS-14
 Excepted,"Westfield, Massachusetts",5413,,WG-9,9,9,800116900,FUEL DISTRIBUTION SYSTEM WORKER,Department of the Air Force,2025-10-23 00:00:00.000,2025-11-22,5413 - Unknown,WG-9
@@ -71484,11 +71489,11 @@ Excepted,"Boise, Idaho",1601,,GS-12,12,12,837955800,Biomedical Equipment Support
 Excepted,"Redding, California",0610,,VN-1/3,1,3,837956400,HBPC Registered Nurse Case Manager,Department of Veterans Affairs,2025-06-02 00:00:00.000,2025-06-12,0610 - Unknown,VN-1/3
 Competitive,"Danville, Illinois",7404,,WG-6,6,6,837956600,Cook - Full-time,Department of Veterans Affairs,2025-06-02 00:00:00.000,2025-06-09,7404 - Unknown,WG-6
 Excepted,"Arlington, Virginia",1802,,SV-D,D,D,837956700,Transportation Security Officer,Department of Homeland Security,2025-06-02 00:00:00.000,2025-06-06,1802 - Unknown,SV-D
-Excepted,"Dulles Airport, Virginia",1802,,SV-D,D,D,837956800,Transportation Security Officer,Department of Homeland Security,2025-06-02 00:00:00.000,2025-06-06,1802 - Unknown,SV-D
-Excepted,"Lexington, Kentucky",0621,,GS-3/5,3,5,837957000,Nursing Assistant - Inpatient Mental Health,Department of Veterans Affairs,2025-06-02 00:00:00.000,2025-06-23,0621 - Unknown,GS-3/5
-Competitive,"Kennedy Space Center, Florida",1910,,GS-11,11,11,837957600,Quality Assurance Specialist,Department of Defense,2025-06-02 00:00:00.000,2025-06-11,1910 - Unknown,GS-11
-Excepted,"Grand Junction, Colorado",0610,,VN-00,00,00,837957900,Nurse Surgery Peri Op,Department of Veterans Affairs,2025-06-02 00:00:00.000,2025-06-12,0610 - Unknown,VN-00
-Excepted,"Washington, District of Columbia",0343,,GS-12,12,12,837958000,Management and Program Analyst,Legislative Branch,2025-06-02 00:00:00.000,2025-06-16,0343 - Unknown,GS-12
+Excepted,"Dulles Airport, Virginia",1802,,SV-D,D,D,837956800,Transportation Security Officer,Department of Homeland Security,2025-06-02,2025-06-06,1802 - Unknown,SV-D
+Excepted,"Lexington, Kentucky",0621,,GS-3/5,3,5,837957000,Nursing Assistant - Inpatient Mental Health,Department of Veterans Affairs,2025-06-02,2025-06-23,0621 - Unknown,GS-3/5
+Competitive,"Kennedy Space Center, Florida",1910,,GS-11,11,11,837957600,Quality Assurance Specialist,Department of Defense,2025-06-02,2025-06-11,1910 - Unknown,GS-11
+Excepted,"Grand Junction, Colorado",0610,,VN-00,00,00,837957900,Nurse Surgery Peri Op,Department of Veterans Affairs,2025-06-02,2025-06-12,0610 - Unknown,VN-00
+Excepted,"Washington, District of Columbia",0343,,GS-12,12,12,837958000,Management and Program Analyst,Legislative Branch,2025-06-02,2025-06-16,0343 - Unknown,GS-12
 Excepted,"Fresno, California",0185,,GS-12,12,12,837958200,Social Worker (General Caregiver Support Program Coordinator),Department of Veterans Affairs,2025-06-02,2025-06-16,0185 - Unknown,GS-12
 Excepted,"Chesapeake County, Virginia",0679,,GS-6,6,6,837958300,Advanced Medical Support Assistant (Prosthetic Treatment Center),Department of Veterans Affairs,2025-06-02,2025-06-17,0679 - Unknown,GS-6
 Excepted,"Chesapeake County, Virginia",0679,,GS-6,6,6,837958400,Advanced Medical Support Assistant (Prosthetic Treatment Center),Department of Veterans Affairs,2025-06-02,2025-06-17,0679 - Unknown,GS-6
