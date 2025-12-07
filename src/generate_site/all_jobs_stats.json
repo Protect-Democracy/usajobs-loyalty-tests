@@ -1,25 +1,25 @@
 {
   "metadata": {
-    "total_jobs": 84058,
+    "total_jobs": 84069,
     "cutoff_date": "2025-06-01",
-    "generation_date": "2025-12-06T09:50:58.805858"
+    "generation_date": "2025-12-07T09:23:11.527021"
   },
   "by_service_type": {
-    "Competitive": 48538,
-    "Excepted": 35285,
+    "Competitive": 48545,
+    "Excepted": 35289,
     "Senior Executive": 235
   },
   "by_grade_level": {
-    "GS-12": 6573,
+    "GS-12": 6574,
     "VN-00": 5825,
     "GS-13": 5489,
     "GS-11": 3943,
-    "GS-9": 3272,
+    "GS-9": 3273,
     "GS-6": 2938,
     "GS-7": 2749,
     "GS-14": 2545,
     "VM-15": 2340,
-    "GS-9/11": 2299,
+    "GS-9/11": 2300,
     "GS-5": 1811,
     "NF-2": 1682,
     "WG-10": 1615,
@@ -37,7 +37,7 @@
     "San Diego, California": 702,
     "Phoenix, Arizona": 698,
     "Indianapolis, Indiana": 563,
-    "Battle Creek, Michigan": 541,
+    "Battle Creek, Michigan": 542,
     "Albuquerque, New Mexico": 510,
     "Portland, Oregon": 509,
     "Aurora, Colorado": 483,
@@ -54,14 +54,14 @@
     "Richmond, Virginia": 364
   },
   "by_agency": {
-    "Department of Veterans Affairs": 33810,
+    "Department of Veterans Affairs": 33811,
     "Department of the Navy": 9963,
-    "Department of the Air Force": 8781,
-    "Department of Defense": 8215,
-    "Department of the Army": 7371,
+    "Department of the Air Force": 8782,
+    "Department of Defense": 8218,
+    "Department of the Army": 7376,
     "Department of Homeland Security": 4043,
     "Department of Justice": 4042,
-    "Department of the Interior": 1541,
+    "Department of the Interior": 1542,
     "Department of Transportation": 1226,
     "Other Agencies and Independent Organizations": 1164,
     "Department of Agriculture": 969,

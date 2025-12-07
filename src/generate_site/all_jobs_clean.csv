@@ -74637,6 +74637,17 @@ Competitive,"Montrose, New York",7408,Food Service Working,WG-2,2,2,851780600,Fo
 Excepted,"Milwaukee, Wisconsin",8268,Aircraft Pneudraulic Systems Mechanic,WG-10,10,10,851727700,AIRCRAFT PNEUDRAULIC SYSTEMS MECHANIC - Title 32,Department of the Air Force,2025-12-05 12:05:16.037,2025-12-21T23:59:59.9970,8268 - Aircraft Pneudraulic Systems Mechanic,WG-10
 Competitive,"McGuire AFB, New Jersey",8602,Aircraft Engine Mechanic,WG-10,10,10,851754800,AIRCRAFT ENGINE MECHANIC,Department of the Air Force,2025-12-05 14:17:36.690,2025-12-12T23:59:59.9970,8602 - Aircraft Engine Mechanic,WG-10
 Excepted,"Forbes AFB, Kansas",8852,Aircraft Mechanic,WG-12,12,12,851740000,AIRCRAFT MECHANIC,Department of the Air Force,2025-12-05 13:02:22.157,2025-12-19T23:59:59.9970,8852 - Aircraft Mechanic,WG-12
+Excepted,"Battle Creek, Michigan",0501,Financial Administration And Program,GS-9,9,9,851791600,TITLE 32 FINANCIAL MANAGEMENT ANALYST (MI 110 CPTF),Department of the Air Force,2025-12-06 09:20:07.470,2025-12-26T23:59:59.9970,0501 - Financial Administration And Program,GS-9
+Competitive,"Providence, Rhode Island",0671,Health System Specialist,GS-9/11,9,11,851792200,Health System Specialist,Department of Veterans Affairs,2025-12-06 00:00:00.000,2025-12-09T23:59:59.9970,0671 - Health System Specialist,GS-9/11
+Excepted,"Smyrna, Tennessee",1670,Equipment Services,GS-12,12,12,851791300,EQUIPMENT SPECIALIST (BIOMEDICAL EQUIPMENT) (TITLE 32),Department of the Army,2025-12-06 08:48:38.357,2025-12-20T23:59:59.9970,1670 - Equipment Services,GS-12
+Excepted,"Beaufort, South Carolina",1750,Instructional Systems,AD-10,10,10,851220000,ISS (PK-12 CONTENT),Department of Defense,2025-12-07 00:00:00.000,2025-12-16T23:59:59.9970,1750 - Instructional Systems,AD-10
+Excepted,"Beaufort, South Carolina",1750,Instructional Systems,AD-10,10,10,851220200,ISS (PK-12 CONTENT),Department of Defense,2025-12-07 00:00:00.000,2025-12-16T23:59:59.9970,1750 - Instructional Systems,AD-10
+Competitive,"Alleghany County, North Carolina",5705,Tractor Operating,XA-7,7,7,851698400,Tractor Operator (Seasonal),Department of the Interior,2025-12-07 00:00:00.000,2026-03-31T23:59:59.9970,5705 - Tractor Operating,XA-7
+Competitive,"Mattydale, New York",5803,Heavy Mobile Equipment Mechanic,WG-8,8,8,851578400,Heavy Mobile Equipment Repairer,Department of the Army,2025-12-07 00:00:00.000,2025-12-22T23:59:59.9970,5803 - Heavy Mobile Equipment Mechanic,WG-8
+Competitive,"Coraopolis, Pennsylvania",5803,Heavy Mobile Equipment Mechanic,WG-8,8,8,851594200,Heavy Mobile Equipment Repairer,Department of the Army,2025-12-07 00:00:00.000,2025-12-22T23:59:59.9970,5803 - Heavy Mobile Equipment Mechanic,WG-8
+Competitive,"Indiantown Gap, Pennsylvania",5803,Heavy Mobile Equipment Mechanic,WG-8,8,8,851607600,Heavy Mobile Equipment Repairer,Department of the Army,2025-12-07 00:00:00.000,2026-12-04T23:59:59.9970,5803 - Heavy Mobile Equipment Mechanic,WG-8
+Competitive,"Anniston Army Depot, Alabama",6502,Explosives Operating,WS-8,8,8,851584300,Explosives Operator Supervisor,Department of the Army,2025-12-07 00:00:00.000,2025-12-13T23:59:59.9970,6502 - Explosives Operating,WS-8
+Competitive,"Fort McCoy, Wisconsin",6914,Store Working,WG-5,5,5,851791800,Store Worker (Fork Lift Operator),Department of Defense,2025-12-05 00:00:00.000,2025-12-15T23:59:59.9970,6914 - Store Working,WG-5
 Excepted,"Hanscom AFB, Massachusetts",0391,,GS-11,11,11,816418500,TELECOMMUNICATIONS SPECIALIST,Department of the Army,2025-10-29 00:00:00.000,2025-11-08,0391 - Unknown,GS-11
 Competitive,"Rockville, Maryland",2210,,GS-14,14,14,818315700,IT Specialist - Network Engineer - PD 22R054 - Office of Information Technology,Department of Health and Human Services,2025-11-01 00:00:00.000,2025-11-05,2210 - Unknown,GS-14
 Excepted,"Westfield, Massachusetts",5413,,WG-9,9,9,800116900,FUEL DISTRIBUTION SYSTEM WORKER,Department of the Air Force,2025-10-23 00:00:00.000,2025-11-22,5413 - Unknown,WG-9
@@ -78622,17 +78633,17 @@ Competitive,"Nimitz Hill, Guam",0950,,GS-11,11,11,838496600,PARALEGAL SPECIALIST
 Competitive,"Lakeview, Oregon",0391,,GS-11,11,11,838506200,Telecommunications Specialist,Department of the Interior,2025-06-12 00:00:00.000,2025-06-23,0391 - Unknown,GS-11
 Competitive,"Piti, Guam",1601,,GS-13,13,13,838513500,PRODUCTION RESOURCES NUCLEAR DIRECTOR,Department of the Navy,2025-06-12 00:00:00.000,2025-06-27,1601 - Unknown,GS-13
 Competitive,Landstuhl,2210,,GS-11,11,11,838518500,IT Specialist (Policy and Planning),Department of Defense,2025-06-12 00:00:00.000,2025-06-18,2210 - Unknown,GS-11
-Competitive,"Jackson, Mississippi",5803,,WG-9,9,9,838519100,Heavy Mobile Equipment Repairer,Department of the Army,2025-06-12 00:00:00.000,2025-06-30,5803 - Unknown,WG-9
-Excepted,"Seattle, Washington",0602,,VM-15,15,15,838521400,Physician - Associate Chief of Education,Department of Veterans Affairs,2025-06-12 00:00:00.000,2025-06-27,0602 - Unknown,VM-15
-Competitive,"Fort Bragg, North Carolina",5803,,WL-9,9,9,838523100,Heavy Mobile Equipment Repairer Leader,Department of the Army,2025-06-12 00:00:00.000,2025-06-25,5803 - Unknown,WL-9
-Competitive,Kadena Air Base Okinawa,0086,,NF-3,3,3,838526800,Security Assistant,Department of the Air Force,2025-06-12 00:00:00.000,2025-06-23,0086 - Unknown,NF-3
-Excepted,"Edgewood, Maryland",8852,,WS-14,14,14,838531100,AIRCRAFT MECHANIC SUPERVISOR,Department of the Army,2025-06-12 00:00:00.000,2025-06-22,8852 - Unknown,WS-14
-Competitive,"Birmingham, Alabama",1801,,GS-13,13,13,838533400,Supervisory Law Enforcement Specialist (Area Commander),Department of Homeland Security,2025-06-12 00:00:00.000,2025-06-26,1801 - Unknown,GS-13
-Competitive,"Fort Hood, Texas",0640,,GS-5,5,5,838538300,Health Technician (Phlebotomy),Department of Defense,2025-06-12 00:00:00.000,2025-06-16,0640 - Unknown,GS-5
-Competitive,"Washington, District of Columbia",0343,,GS-13,13,13,838538700,Management and Program Analyst,Department of Homeland Security,2025-06-12 00:00:00.000,2025-06-18,0343 - Unknown,GS-13
-Competitive,"Pentagon, Arlington, Virginia",1811,,GS-12/13,12,13,838538900,Criminal Investigator,Department of Defense,2025-06-12 00:00:00.000,2025-06-23,1811 - Unknown,GS-12/13
-Competitive,"Bethesda, Maryland",0671,,GS-9,9,9,838544300,Health System Specialist (PEBLO),Department of Defense,2025-06-12 00:00:00.000,2025-06-19,0671 - Unknown,GS-9
-Excepted,"Fayetteville, North Carolina",0610,,VN-00,00,00,838553000,Registered Nurse - Nurse Manager,Department of Veterans Affairs,2025-06-12 00:00:00.000,2025-06-25,0610 - Unknown,VN-00
+Competitive,"Jackson, Mississippi",5803,,WG-9,9,9,838519100,Heavy Mobile Equipment Repairer,Department of the Army,2025-06-12,2025-06-30,5803 - Unknown,WG-9
+Excepted,"Seattle, Washington",0602,,VM-15,15,15,838521400,Physician - Associate Chief of Education,Department of Veterans Affairs,2025-06-12,2025-06-27,0602 - Unknown,VM-15
+Competitive,"Fort Bragg, North Carolina",5803,,WL-9,9,9,838523100,Heavy Mobile Equipment Repairer Leader,Department of the Army,2025-06-12,2025-06-25,5803 - Unknown,WL-9
+Competitive,Kadena Air Base Okinawa,0086,,NF-3,3,3,838526800,Security Assistant,Department of the Air Force,2025-06-12,2025-06-23,0086 - Unknown,NF-3
+Excepted,"Edgewood, Maryland",8852,,WS-14,14,14,838531100,AIRCRAFT MECHANIC SUPERVISOR,Department of the Army,2025-06-12,2025-06-22,8852 - Unknown,WS-14
+Competitive,"Birmingham, Alabama",1801,,GS-13,13,13,838533400,Supervisory Law Enforcement Specialist (Area Commander),Department of Homeland Security,2025-06-12,2025-06-26,1801 - Unknown,GS-13
+Competitive,"Fort Hood, Texas",0640,,GS-5,5,5,838538300,Health Technician (Phlebotomy),Department of Defense,2025-06-12,2025-06-16,0640 - Unknown,GS-5
+Competitive,"Washington, District of Columbia",0343,,GS-13,13,13,838538700,Management and Program Analyst,Department of Homeland Security,2025-06-12,2025-06-18,0343 - Unknown,GS-13
+Competitive,"Pentagon, Arlington, Virginia",1811,,GS-12/13,12,13,838538900,Criminal Investigator,Department of Defense,2025-06-12,2025-06-23,1811 - Unknown,GS-12/13
+Competitive,"Bethesda, Maryland",0671,,GS-9,9,9,838544300,Health System Specialist (PEBLO),Department of Defense,2025-06-12,2025-06-19,0671 - Unknown,GS-9
+Excepted,"Fayetteville, North Carolina",0610,,VN-00,00,00,838553000,Registered Nurse - Nurse Manager,Department of Veterans Affairs,2025-06-12,2025-06-25,0610 - Unknown,VN-00
 Competitive,Landstuhl,0636,,GS-6,6,6,838564100,Occupational Therapy Assistant,Department of Defense,2025-06-12,2025-06-23,0636 - Unknown,GS-6
 Competitive,"Patuxent River, Maryland",0346,,NH-3,3,3,838565000,LOGISTICS MANAGEMENT SPECIALIST,Department of the Navy,2025-06-12,2025-06-18,0346 - Unknown,NH-3
 Competitive,Landstuhl,0636,,GS-6,6,6,838567600,PHYSICAL THERAPY ASSISTANT,Department of Defense,2025-06-12,2025-06-23,0636 - Unknown,GS-6
