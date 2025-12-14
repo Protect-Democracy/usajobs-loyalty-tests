@@ -78177,6 +78177,10 @@ Excepted,"Grand Island, Nebraska",8852,Aircraft Mechanic,WG-8,8,8,852322400,AIRC
 Excepted,"Grand Island, Nebraska",8852,Aircraft Mechanic,WG-5/10,5,10,852322600,AIRCRAFT MECHANIC,Department of the Army,2025-12-12 11:13:41.093,2026-09-26T23:59:59.9970,8852 - Aircraft Mechanic,WG-5/10
 Excepted,"Birmingham, Alabama",8852,Aircraft Mechanic,WG-10,10,10,852377100,AIRCRAFT MECHANIC (T32),Department of the Army,2025-12-12 15:27:54.620,2026-01-11T23:59:59.9970,8852 - Aircraft Mechanic,WG-10
 Excepted,"Mobile, Alabama",8852,Aircraft Mechanic,WG-12,12,12,852378700,AIRCRAFT MECHANIC (T32),Department of the Army,2025-12-12 15:34:12.380,2026-01-02T23:59:59.9970,8852 - Aircraft Mechanic,WG-12
+Competitive,"Alleghany County, North Carolina",4749,Maintenance Mechanic,XA-7,7,7,852163900,Maintenance Worker,Department of the Interior,2025-12-14 00:00:00.000,2026-03-31T23:59:59.9970,4749 - Maintenance Mechanic,XA-7
+Competitive,"Wilkes Barre, Pennsylvania",5803,Heavy Mobile Equipment Mechanic,WG-8,8,8,852209100,Heavy Mobile Equipment Repairer,Department of the Army,2025-12-14 00:00:00.000,2026-12-11T23:59:59.9970,5803 - Heavy Mobile Equipment Mechanic,WG-8
+Competitive,"Fort Dix, New Jersey",5803,Heavy Mobile Equipment Mechanic,WG-9,9,9,852246000,Heavy Mobile Equipment Repairer,Department of the Army,2025-12-14 00:00:00.000,2025-12-29T23:59:59.9970,5803 - Heavy Mobile Equipment Mechanic,WG-9
+Competitive,"Middletown, Connecticut",5803,Heavy Mobile Equipment Mechanic,WG-8,8,8,852253900,Heavy Mobile Equipment Repairer,Department of the Army,2025-12-14 00:00:00.000,2026-12-11T23:59:59.9970,5803 - Heavy Mobile Equipment Mechanic,WG-8
 Excepted,"Hanscom AFB, Massachusetts",0391,,GS-11,11,11,816418500,TELECOMMUNICATIONS SPECIALIST,Department of the Army,2025-10-29 00:00:00.000,2025-11-08,0391 - Unknown,GS-11
 Competitive,"Rockville, Maryland",2210,,GS-14,14,14,818315700,IT Specialist - Network Engineer - PD 22R054 - Office of Information Technology,Department of Health and Human Services,2025-11-01 00:00:00.000,2025-11-05,2210 - Unknown,GS-14
 Excepted,"Westfield, Massachusetts",5413,,WG-9,9,9,800116900,FUEL DISTRIBUTION SYSTEM WORKER,Department of the Air Force,2025-10-23 00:00:00.000,2025-11-22,5413 - Unknown,WG-9
@@ -78628,10 +78632,10 @@ Competitive,"Agana, Guam",0675,,GS-7,7,7,837998800,Medical Records Technician (C
 Competitive,Baumholder,0189,,NF-1,1,1,838001300,Recreation Aid (Trainee-Lifeguard) NF-01,Department of the Army,2025-06-02 00:00:00.000,2025-06-30,0189 - Unknown,NF-1
 Excepted,"Stewart AFB, New York",5803,,WG-11,11,11,838023500,HEAVY MOBILE EQUIPMENT MECHANIC,Department of the Air Force,2025-06-02 00:00:00.000,2025-06-18,5803 - Unknown,WG-11
 Excepted,"Prescott, Arizona",0602,,VM-15,15,15,838064600,Physician Geriatrics & Extended Care (GEC ACOS),Department of Veterans Affairs,2025-06-02 00:00:00.000,2025-06-13,0602 - Unknown,VM-15
-Competitive,"Fort Sam Houston, Texas",0621,,GS-4,4,4,838073200,Nursing Assistant,Department of Defense,2025-06-02 00:00:00.000,2025-06-09,0621 - Unknown,GS-4
-Excepted,"Walla Walla, Washington",0101,,GS-9/11,9,11,838078300,Addiction Therapist (Licensed Master's),Department of Veterans Affairs,2025-06-02 00:00:00.000,2025-06-17,0101 - Unknown,GS-9/11
-Excepted,"Seattle, Washington",0610,,VN-00,00,00,838082800,Registered Nurse (Cardiology Nurse Coordinator),Department of Veterans Affairs,2025-06-02 00:00:00.000,2025-06-18,0610 - Unknown,VN-00
-Excepted,"Ann Arbor, Michigan",0649,,GS-8,8,8,838103500,Medical Instrument Technologist (Diagnostic Ultrasound),Department of Veterans Affairs,2025-06-02 00:00:00.000,2025-06-10,0649 - Unknown,GS-8
+Competitive,"Fort Sam Houston, Texas",0621,,GS-4,4,4,838073200,Nursing Assistant,Department of Defense,2025-06-02,2025-06-09,0621 - Unknown,GS-4
+Excepted,"Walla Walla, Washington",0101,,GS-9/11,9,11,838078300,Addiction Therapist (Licensed Master's),Department of Veterans Affairs,2025-06-02,2025-06-17,0101 - Unknown,GS-9/11
+Excepted,"Seattle, Washington",0610,,VN-00,00,00,838082800,Registered Nurse (Cardiology Nurse Coordinator),Department of Veterans Affairs,2025-06-02,2025-06-18,0610 - Unknown,VN-00
+Excepted,"Ann Arbor, Michigan",0649,,GS-8,8,8,838103500,Medical Instrument Technologist (Diagnostic Ultrasound),Department of Veterans Affairs,2025-06-02,2025-06-10,0649 - Unknown,GS-8
 Excepted,"Asheville, North Carolina",0610,,VN-00,00,00,838135200,Clinical Nurse Educator,Department of Veterans Affairs,2025-06-02,2025-06-12,0610 - Unknown,VN-00
 Competitive,"Kaneohe, Hawaii",4819,,NA-07,07,07,838649300,BOWLING EQUIPMENT REPAIRER A07* (RFT) KBAY LANES,Department of the Navy,2025-06-02,2025-06-30,4819 - Unknown,NA-07
 Competitive,"Kaneohe, Hawaii",7408,,NA-02,02,02,838649400,FOOD SERVICE WORKER (BARISTA) A02* (FLEX) STARBUCKS,Department of the Navy,2025-06-02,2025-06-30,7408 - Unknown,NA-02
