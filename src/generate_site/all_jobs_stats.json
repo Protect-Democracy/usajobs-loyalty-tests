@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "total_jobs": 87598,
+    "total_jobs": 87602,
     "cutoff_date": "2025-06-01",
-    "generation_date": "2025-12-13T09:56:19.992035"
+    "generation_date": "2025-12-14T09:23:32.942286"
   },
   "by_service_type": {
-    "Competitive": 50701,
+    "Competitive": 50705,
     "Excepted": 36644,
     "Senior Executive": 253
   },
@@ -46,8 +46,8 @@
     "Atlanta, Georgia": 450,
     "Fort Meade, Maryland": 438,
     "Anchorage, Alaska": 417,
-    "Seattle, Washington": 416,
     "Los Angeles, California": 416,
+    "Seattle, Washington": 416,
     "Fort Bragg, North Carolina": 407,
     "Camp Foster, Japan": 381,
     "Philadelphia, Pennsylvania": 379,
@@ -58,10 +58,10 @@
     "Department of the Navy": 10317,
     "Department of the Air Force": 9308,
     "Department of Defense": 8549,
-    "Department of the Army": 7734,
+    "Department of the Army": 7737,
     "Department of Justice": 4236,
     "Department of Homeland Security": 4223,
-    "Department of the Interior": 1766,
+    "Department of the Interior": 1767,
     "Department of Transportation": 1315,
     "Other Agencies and Independent Organizations": 1201,
     "Department of Agriculture": 1000,
