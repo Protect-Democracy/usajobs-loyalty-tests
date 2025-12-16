@@ -1,0 +1,195 @@
+Position Title
+SUPV ITSPEC (PLCYPLN)
+Agency
+Air National Guard Units
+Announcement Number
+DE-12853616-AF-26-006 Opens in new window
+Open Period
+Dec 15, 2025 to Jan 05, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+All on-board National Guard Title 32 Excepted Technicians within the state for which you are applying (Title 32 Permanent and Excepted Indefinite).  Are you a current on-board National Guard Title 32 Excepted Technician within the state for which this position is being advertised?
+
+To verify your eligibility, you must submit a copy of your most recent Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Tenure in Block 24 (1, 2, or 3).
+ Yes
+ No
+
+
+2.
+US Citizens.  Are you a US Citizen?
+ Yes
+ No
+
+
+3.
+Are you a current Permanent full-time Dual Status National Guard Technician within the state for which this position is being advertised?
+
+To verify your eligibility, you must submit a copy of your Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Permanent full-time status with the state National Guard.
+ Yes
+ No
+
+
+4.
+Are you a current Temporary Indefinite full-time Dual Status National Guard Technician within the state for which this position is being advertised?
+
+To verify your eligibility, you must submit a copy of your Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Indefinite full-time status with the state National Guard.
+ Yes
+ No
+
+
+Assessment 1
+1.
+Are you an active member of the Delaware Air National Guard?
+
+ I am a member of the Delaware Army National Guard
+ No, I am not an active member of the Delaware Army National Guard however I am willing to join
+ No, I am not an active member of the Delaware Army National Guard but I am NOT willing to join
+
+
+2.
+This position requires membership in the Delaware Air National Guard and is only open to applicants in (Area 1 ). Please indicate your status below.
+
+ I am a Permanent or Indefinite On-Board Title 32 Employee. (Area 1)
+ I am a Delaware National Guard On-Board Title 5 Employee with Military Membership in the Delaware Air National Guard. (Area 2)
+ I am a current Temporary Title 32 Employee, Traditional military member (M-Day & DSG), or AGR Member. (Area 3)
+ I am a current State employee with military membership and or an out of state resident with military membership in the Air National Guard (Area 4)
+ I am not a member of the Delaware Army National Guard.
+
+
+3.
+This position is only open to military members in the ranks of E-7/MSgt - E-8/SMSgt. Choose the option below that fits your status.
+
+ My rank falls within the requirements for the position.
+ My rank exceeds the maximum rank, however I am willing to take a reduction to become qualified for this position.
+ My rank does NOT fall within the requirements for this position.
+ I am a civilian.
+
+
+4.
+Compatibility is suspended, however do you already possess the 1D7XXX series AFSC and if not are you eligible to obtain the following AFSC: 1D7XXX series?
+ No, I do not have this AFSC however I am eligible to obtain it.
+ No, I do not have this AFSC but I am NOT eligible to obtain it.
+ Yes, I do have this AFSC
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+5.
+Specialized Experience: GS-12 and above - at least 1 year experience at the next lower grade GS-11, or training that approaches techniques and requirements appropriate to an assigned computer applications area or computer specialty area in an organization. Experience planning the sequence of actions necessary to accomplish the assignment where this entailed coordination with others outside the organizational unit and development of project controls. Experience that required adaptations of guidelines or precedents to meet the needs of the assignment. Experience preparing documentation on cost/benefit studies where is involved summarizing the material and organizing it in a logical fashion. Do you meet these requirements?
+ Yes
+ No
+
+
+6.
+Supervisory Positions, Specialized Experience: Experience in managing the function of the work to be performed. Experience which includes leading, directing and assigning work of personnel. Do you meet these requirements?
+
+ Yes
+ No
+
+
+For each item, select the one response that most accurately describes your current level of experience and capability using the scale below.
+
+
+7.
+Task include the knowledge and experience that analyzes requirements and establishes plans of action for improving IT applications. Analyzes existing and planned IT applications, both hardware and software, to determine current and future potential for enhancements. Based upon the organization's goals and objectives, an assessment of available resources, and extrapolation of cost benefit analysis data, recommends adjustments to IT priorities to meet changing business needs, program plans, goals and objectives. Develops project plans to meet those needs by identifying problem areas and considering a variety of possible solutions and alternatives. Analyzes existing systems to determine if enhancements are appropriate or if an entirely new system would be more cost effective. Analyzes plans and specifications, prepares justifications for new or enhanced information technology. Do you meet these requirements?
+
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+8.
+Task include the knowledge and experience that performs as plans and policy advisor to functional users of information technology. Maintains required information assurance certification IAW DoD 8570.01-M, Federal Information Security Management Act of 2002, Clinger Cohen Act of 1996, in order to ensure the rigorous application of information security/information assurance policies, principles, and practices in the delivery of all information technology services. Develops and interprets policy for administering IT systems. Assesses policy needs and reviews, revises, and develops policies to govern IT activities and presents recommendations to higher-level management. Where necessary, modifies established plans and policies in response to changes in legislation or other directives. Through feasibility studies, assesses impact of changes on current programs and recommends changes to existing plans to ensure compliance. Do you meet these requirements?
+
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+9.
+Task include the knowledge and experience to plan and develops methods, procedures, policies, and techniques concerning telecommunication systems. Performs work involved in developing, refining, and complying with telecommunications systems planning and policy direction including short- and/or long-range planning. Develops planning documentation, reviews requests for communication services, prepares budgetary justifications, coordinates the allocation of resources, designs networks/systems, prepares/reviews equipment and facility specifications, monitors/resolves technical communications problems, and/or conducts operational acceptance tests. Do you meet these requirements?
+
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+10.
+Task include the knowledge and experience that Implements IT and communications programs and special projects. Implements various IT and communications programs. Updates documentation and maintains listings of all authorized equipment for assigned programs. Performs annual inventories. Performs special staff and/or feasibility studies and economic analysis. May serve on committees or planning groups concerned with future systems, plans, and policy. Do you meet these requirements?
+
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+11.
+Task include the knowledge and experience assists with contracting functions and budget preparation. Upon completion of feasibility studies and other projects designed to identify functional needs and changing business requirements for advancements in technology, prepares budgetary data for inclusion in financial plans in support of programs and projects. Based upon findings, recommends funding priority adjustments to meet new business needs. Do you meet these requirements?
+
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+12.
+Task include the knowledge and experience to attend meetings and presents briefings. Participates in discussions, meetings, conferences, committees or special projects. Analyzes areas of concern, identifies problems, and resolves conflicts through persuasive discussions with management and user representatives. Consults with base officials and working groups, customers and other organization personnel on IT and communications concerns. Do you meet these requirements?
+
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+13.
+Task include the knowledge and experience that plans work to be accomplished by subordinates, sets and adjusts short-term priorities, and prepares schedules for completion of work. Assigns work to subordinates based on priorities, selective consideration of the difficulty and requirements of assignments, and the capabilities of employees. Evaluates work performance of subordinates. Gives advice, counsel, or instruction to employees on both work and administrative matters. Interviews candidates for positions in the unit; recommends appointment, promotion, or reassignment to such positions. Do you meet these requirements?
+
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+14.
+Did you provide the documents listed below with your application?
+
+Current resume (Required)
+Certification (If Applicable)
+DD-214 (Not Required)
+DNG 51-R (Required)
+Transcripts (If Required)
+
+Other Branches of Military Service must provide documents that provide the following information: Current military rank, career code, ASVAB Scores, security clearance.
+
+APPLICATIONS DETERMINED TO BE INCOMPLETE, INCORRECT OR INSUFFICIENT UPON INITIAL REVIEW WILL NOT RECEIVE FURTHER CONSIDERATION.
+
+ Yes
+ No
+
+
+15.
+Please take this opportunity to review your ratings to ensure their accuracy. By agreeing to the statement below, you are confirming that you: (1) understand this warning, (2) have reviewed your responses to this questionnaire for accuracy, and (3) verify that your responses accurately describe your current level of experience and capability.
+
+ Yes, I verify that all of my responses to this questionnaire are true and accurate. I accept that if my supporting documentation and/or later steps in the selection process do not support one or more of my responses to the questionnaire that I will be removed from consideration.
+ No, I do not accept this agreement and/or I no longer wish to be considered for this position.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2025 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
