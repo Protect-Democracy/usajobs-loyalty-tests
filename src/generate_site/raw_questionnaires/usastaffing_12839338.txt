@@ -1,0 +1,135 @@
+Position Title
+IT SPECIALIST (INFOSEC) T32
+Agency
+Air National Guard Units
+Announcement Number
+AZ-12839338-26-SW-26-048T Opens in new window
+Open Period
+Dec 19, 2025 to Jan 03, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+US Citizens.  Are you a US Citizen?
+ Yes
+ No
+
+
+Preferences
+1.
+Are you a current member of the Arizona Air National Guard ?
+ Yes
+ No
+
+
+2.
+Do you possess the rank/grade of SrA/E-4 to SSgt/E-5?
+ Yes
+ No
+
+
+3.
+Do you possess the AFSC of 1D7X5?
+ Yes
+ No
+
+
+4.
+Do you possess a Top Secret Security Clearance?
+ Yes
+ No
+
+
+5.
+Must have at least 12 months of experiences as a Defense Personnel  Cyberspace Operations CPT-ICS Team Member and performed cyberspace operations that protected and defended (or assessed the capability to protect and defend) information and information systems by ensuring their availability, authentication, confidentiality, integrity and non-repudiation. Experienced in mission assurance of information systems by incorporating protection, detection, and reaction capabilities. Competent in conducting risk and vulnerability assessments of DoD information systems to identify associated vulnerabilities, risks and protection needs. Experiences included working with in-garrison and deployed cyberspace weapon systems. Competent in configuring and monitoring hardware and software for systems operation, processing and control of data flow, and client-server multi-user system support, including network management or administration. Experiences must include two or more of the following business tasks: Evaluating and assessing vulnerabilities of customer network and application server hardware, operating systems, and peripheral network equipment, such as routers, bridges, switches, attached cabling system, network interface cards, modems, multiplexers, and concentrators. Experienced in searching and illuminating advanced persistent threats in DOD Cyber systems and protects priority DOD missions for a specified duration. Skilled in performing analysis and design of automated and manual systems related to the network. Identified and provided data for intrusion detection analysis. Experienced in replicating tactics, techniques, and procedures of specific cyber threats as appropriate to evaluate cyber defenses and prepare DOD defensive cyber operations; and assessed postures and processes from an outside perspective. Conducted cyber key terrain analysis and mission oriented mapping that identified cyber dependencies in mission owner network. Skilled in developing courses-of-action for risk mitigation and mission defense into written plans that integrated team capabilities. Experiences included work accomplished to prepare and coordinate operators, resources, facilities and equipment schedules, in coordination with unit and flight commanders, in order to ensure training, currency, and mission timelines and objectives were met. Experiences may include the assessment and evaluation of mission vulnerabilities and/or adversary activity in ICS enclaves. Experienced in detecting,  characterizing, and resolving insecurities in ICS networks. Experienced in conducting  reviews and analyzing ICS network traffic, configurations, and operating procedures and provided methods to improve system security posture. Experienced in the Air Force  currency and additional national-level requirements to execute US Cyber Command's Defend-the-Nation priority. Skilled in presenting formal and informal briefing and written reports in regard to the Cyber program mission readiness. Competent in preparing Unit Training Assembly, Annual Training and currency training events for Mission Ready Cyberspace Operators to optimize training times. Knowledgeable on unit military members' go-or-no-go readiness status and skilled to recognize deficiencies. Experiences included providing opportunities for assigned members to maintain full mission readiness. Experienced in coordinating with the unit's maintenance section to ensure all assigned equipment is in good working condition and ready for each training and mission event. Competent in consulting with Wing supervisors, Drill Status Guardsmen, specialists, vendors, and sister Cyberspace Operations Units that resulted in procuring and maintaining the range devices and software that provided realistic mission networks training in order to prepare for Cyber Protection and Industrial Control System defense missions. 
+
+Do you meet the above qualification standard?
+ Yes
+ No
+
+
+6.
+Do you meet the below Basic Qualification Requirements?
+
+? Skilled in collecting and analyzing data effectively, efficiently, and accurately;
+? Ability to plan, direct, and coordinate difficult and complex programs;
+? Ability to develop, apply, and adjust cyber program plans to attain agency objectives;
+? Ability to select, develop, and supervise a subordinate staff;
+? Ability to establish and maintain effective working relationships, not only with 
+subordinate staff, but with all levels of key management officials, the latter 
+particularly requiring the exercise of tact, ingenuity, and resourcefulness;
+? Ability to make oral and written presentations in a clear and concise manner;
+? Ability to apply a high level of sound and independent judgment in the solution of 
+cyber program problems and cyber mission requirements;
+? A broad knowledge of and ability to utilize principles, methods, techniques, and 
+systems;
+? Ability to write proper English in reports and presentation formats; 
+? Ability to communicate clearly and effectively;
+? Skilled in training, mentoring, and problem solving; and, 
+? Skilled in applying procedures and directives by reading and interpreting program 
+material
+ Yes
+ No
+
+
+7.
+Do you meet the below Information Technology (IT) Management Series 2210 (Alternative A) Individual Occupational Requirements?
+
+1. Attention to Detail - Is thorough when performing work and conscientious about attending to detail.
+
+2. Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services.
+
+3. Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately.
+
+4. Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.
+ Yes
+ No
+
+
+Assessment 1
+Respond to all statements and questions. These statements and questions allow applicants to highlight their Knowledge, Skills and Abilities (KSAs) which are applicable to the position for which you are applying. If it is necessary to limit the number of applicants for a position, these KSAs will be used to determine the "Best Qualified".  For each KSA please identify below in the space provided how you have either demonstrated the KSA or have shown the potential to acquire them. Give specific examples describing related project, details, work assignments, outside activities, and the time frames involved in each. If you do not answer these statements and questions an accurate evaluation of your qualifications may not be possible. This may result in your application not being certified.
+
+
+
+1.
+Knowledge and experience in Computer Security (COMPUSEC) program
+
+
+2.
+Knowledge and experience in Communications Security (COMSEC) program
+
+
+
+3.
+Knowledge and experience in TEMPEST program
+
+
+4.
+Knowledge and experience in Risk Management Framework (RMF) program
+
+
+5.
+Ability to communicate verbally and written to prepare and present reports, interpret and create policies and instructions
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+6.
+Must have at least 12 months experience as a Cyberspace Operator. Experienced in the work at an acceptable level of expertise for the preparation and execution of tasked unit missions. Experiences included preparing, maintaining currency for, and executing an advanced role in Cyberspace Operations. Knowledgeable of systems security principles and concepts of emerging Information Technology (IT) security developments. Experiences included duties directed within the infrastructure protection environment and the selection of appropriate tools for team members. Experienced in the methodologies for determining 
+the better techniques needed to secure computer systems and to protect cyber key terrains from exploitation of information within these cyberspace systems. Experiences included the ability to leverage knowledge of multiple entities with a stake in current operations to plan and build appropriate courses of action and training scenarios. Some work experiences were in one or more of the following unit assignments: Cyber-space Crew Commander; Cyberspace Operations Controller; Operations Planner and Scheduler; Industrial Control Systems (ICS) Cyberspace Operator; and National Mission Team Cyberspace Operator. Experiences may include one or more of the following business tasks: Developing tactical objectives or tactical taskings for Cyberspace Operators; liaison duties between assigned team and other teams or external entities; directing tactical execution for a team of Cyberspace Operators; developing tactical approaches and synchronizes actions of multiple qualified operators in order to achieve objectives; representing the unit's capability, availability, and interests at high-level Operational Planning Team (OPT) meetings to define the missions, environments, enemy, effects, capabilities, overall plans, phasing, operational agreements and contingencies needed to conduct the operation or exercise; developing tactical plans for assigned missions and exercises; translating operational objectives into tactical objectives comprised of specific tactical tasks. May have experiences in developing Measures of Effectiveness and Measures of Performance that were used in mission exercise assessments. Experiences include work accomplished to prepare and coordinate operators, resources, facilities and equipment schedules, in coordination with unit and flight commanders, in order to ensure training, currency, and mission timelines and objectives were met. Experiences may include the assessment and evaluation of mission vulnerabilities and/or adversary activity in ICS enclaves. Experienced in detecting, characterizing, and resolving insecurities in ICS networks. Experienced in conducting reviews and analyzing ICS network traffic, configurations, and operating procedures and provided methods to improve system security posture. Experienced in the Air Force currency and additional national-level requirements to execute US Cyber Command's Defend-the-Nation priority. Skilled in presenting formal and informal briefing and written reports in regard to the Cyber program mission readiness. Competent in preparing Unit Training Assembly, Annual Training and currency training events for Mission Ready Cyberspace Operators to optimize training times. Knowledgeable on unit military members' go-or-no-go readiness status and skilled to recognize deficiencies. Experiences included working with assigned members to maintain full mission readiness. Experienced in coordinating with the unit's maintenance section to ensure all assigned equipment is in good working condition and ready for each training and mission event. Experienced in conducting extensive researches of new vulnerabilities and insecurities in operating systems, application software, infrastructure, and boundary protection devices. Experiences included investigations, analysis, and the development of actions used to exploit these vulnerabilities. Competent on conducting tests to validate findings and to develop and refine methods and procedures to mitigate vulnerabilities within the cyberspace community tactics, techniques, and procedures. Experienced in providing customers with the best possible evaluations of their security postures. 
+
+Do you meet the above qualification standard?
+ Yes
+ No
+
+
+7.
+Do you certify that all of your responses to this questionnaire are true and accurate; and do you accept that if your supporting documentation does not support one or more of your responses to the questionnaire that your application may be rated lower or you may be removed from further consideration?
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2025 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
