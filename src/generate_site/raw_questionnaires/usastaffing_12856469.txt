@@ -1,0 +1,213 @@
+Position Title
+SUPERVISORY IT SPECIALIST (PLCYPLN)
+Agency
+Defense Commissary Agency
+Announcement Number
+DECA-26-12856469-DE Opens in new window
+Open Period
+Dec 19, 2025 to Jan 05, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+Are you a current or former federal employee displaced from a position in a federal agency other than the agency hiring for this position?
+
+If yes, confirm:
+• you are located in the same local commuting area of the vacancy
+• your grade is equivalent to or above the grade level of the vacancy and
+• your last performance rating of record is at least fully successful or the equivalent.
+
+You will be required to submit supporting documentation to validate your claim of ICTAP eligibility such as a Reduction in Force (RIF) separation notice or a Proposed Removal/Separation notice and a copy of your latest Notification of Personnel Action, Standard Form 50.  For more information, review the USAJOBS Resource Center.
+ Yes
+ No
+
+
+3.
+Eligible: I am a PPP DoD retained grade preference eligible. I am exercising my preference eligibility to positions within the local commuting area. I certify that I am within my 2-year period of grade retention and have not accepted nor declined a permanent, continuing Federal or non-appropriated fund position in the local commuting area.
+
+Supporting Documentation:  You must provide a signed Retained Grade PPP Self-Certification Checklist, DD3145-1 (whs.mil), a copy of your Notification of Personnel Action, Standard Form (SF) 50 effecting the placement in retained grade status; or a copy of the notification letter you received regarding the RIF or classification downgrade.
+
+Are you a Priority Placement Program DoD Retained Grade Preference Eligible?
+
+
+ Yes
+ No
+
+
+4.
+Eligible: I am a military spouse who has relocated or will relocate within 30 days with my active duty sponsor on a permanent change of station (PCS) move to a new active duty assignment. I am exercising my preference eligibility to positions within the local commuting area of the new duty station. I certify that I have not accepted nor declined a permanent, continuing Federal or non-appropriated fund position in the local commuting area of the new duty location.
+
+NOTE 1: Military spouses are eligible for one noncompetitive appointment using their preference eligibility for the duration of the active duty sponsor's relocation to the new permanent duty station, as long as the military spouse has not declined or accepted a permanent, continuing Federal or non-appropriated fund position in the geographical area of the PCS orders. If you certify that you have not used your preference at your sponsor's new duty location and it is discovered to be untrue, you may be subject to loss of MSP and possible disciplinary action.
+
+NOTE 2: MSPs using eligibility EO 13473 cannot be appointed until they have relocated with the military sponsor to the new duty station.
+
+Supporting Documentation:  You must provide a signed Military Spouse PPP Self-Certification Checklist, https://publicfileshare.chra.army.mil/USAStaffing/DD_3145-4_Military_Spouse_PPP_SelfCertification_Checklist_v2.pdf  
+PCS orders/verification of duty location assignment, a copy of marriage certificate or license and documents as listed on the Military Spouse PPP Self-certification Checklist. 
+
+Are you a Priority Placement Program DoD Military Spouse Preference Eligible?
+
+
+
+
+ Yes
+ No
+
+
+Announcement Screen Out
+1.
+Are you a former Federal employee who has retired and is receiving an annuity either under the Civil Service Retirement System (CSRS) or Federal Employees Retirement System (FERS)?
+NOTE: If you are receiving a temporary medical disability retirement OR are a retired Military Service Member your response should be NO.
+ Yes
+ No
+
+
+Assessment 1
+15.
+From the following responses, please select the statement that best describes your experience managing enterprise-wide IT or data programs, including planning and budgeting.
+
+ I have led multi-year enterprise IT/data programs with full budget and strategic oversight.
+ I have managed program-level IT/data initiatives with assigned resources.
+ I have assisted with program administration or budgeting.
+ I have not performed these duties through the course of my job.
+
+
+16.
+From the following responses, please select the statement that best describes your experience applying program or project management methodologies to data modernization efforts.
+
+ I have directed enterprise modernization using formal methodologies (e.g., Agile, PMI).
+ I have applied project management practices for program-level modernization.
+ I have assisted in project planning or documentation.
+ I have not performed these duties through the course of my job.
+
+
+17.
+From the following responses, please select the statement that best describes your experience leading or deploying analytics, AI, or ML solutions to improve mission performance.
+
+ I have not performed these duties through the course of my job.
+ I have assisted with analytics development or model testing.
+ I have implemented analytics or AI/ML solutions within a program or department.
+ I have directed enterprise analytics/AI/ML initiatives with measurable mission impact.
+
+
+18.
+From the following responses, please select the statement that best describes your experience operationalizing analytics or AI/ML models from prototype to enterprise implementation.
+
+ I have successfully operationalized analytics or AI/ML at enterprise scale with governance and monitoring.
+ I have supported transition of models from prototype to production in program-level scope.
+ I have assisted with deployment or testing under supervision.
+ I have not performed these duties through the course of my job.
+
+
+19.
+From the following responses, please select the statement that best describes your experience establishing governance or ethical frameworks for AI and data analytics.
+
+ I have developed enterprise-level AI/analytics ethical and governance frameworks.
+ I have applied governance frameworks to projects or units.
+ I have assisted with documentation or compliance tasks.
+ I have not performed these duties through the course of my job.
+
+
+20.
+From the following responses, please select the statement that best describes your experience defining and implementing KPIs or metrics to measure data or program outcomes.
+
+ I have designed and applied enterprise-level KPIs to measure performance and outcomes.
+ I have developed KPIs for a program or functional area.
+ I have assisted with KPI tracking or data collection.
+ I have not performed these duties through the course of my job.
+
+
+21.
+From the following responses, please select the statement that best describes your experience using data analytics to inform strategic or policy decisions.
+
+ I have led use of analytics for agency-wide strategic decision-making.
+ I have applied analytics to inform decisions within a program or business unit.
+ I have assisted in analysis or preparation of reports.
+ I have not performed these duties through the course of my job.
+
+
+22.
+From the following responses, please select the statement that best describes your experience developing performance dashboards or scorecards for leadership reporting.
+
+ I have directed enterprise-level dashboards and reporting systems for senior leaders.
+ I have developed dashboards for program or department-level reporting.
+ I have assisted in dashboard creation or report preparation.
+ I have not performed these duties through the course of my job.
+
+
+23.
+From the following responses, please select the statement that best describes your experience identifying and implementing emerging technologies to enhance enterprise data capabilities.
+
+ I have led enterprise technology adoption, pilot programs, and scaled solutions.
+ I have implemented new technologies within a program or department.
+ I have assisted with testing or deployment of new tools.
+ I have not performed these duties through the course of my job.
+
+
+24.
+From the following responses, please select the statement that best describes your experience establishing mechanisms for testing or piloting innovative data or analytics solutions.
+
+ I have directed enterprise pilot programs with metrics and decision frameworks.
+ I have managed program-level pilot initiatives.
+ I have assisted with testing or data collection for pilot programs.
+ I have not performed these duties through the course of my job.
+
+
+25.
+From the following responses, please select the statement that best describes your experience embedding continuous improvement practices into data operations.
+
+ I have not performed these duties through the course of my job.
+ I have assisted with monitoring and documenting improvement efforts.
+ I have applied improvement practices within a program or domain.
+ I have led organization-wide continuous improvement initiatives and adoption of best practices.
+
+
+26.
+From the following responses, please select the statement that best describes your experience leading multidisciplinary teams through major transformation efforts.
+
+ I have led cross-functional teams in enterprise transformations with measurable outcomes.
+ I have managed team efforts in program-level transformation initiatives.
+ I have contributed to team efforts supporting transformation projects.
+ I have not performed these duties through the course of my job.
+
+
+27.
+From the following responses, please select the statement that best describes your experience building and sustaining a data-driven culture that promotes evidence-based decision-making.
+
+ I have directed enterprise culture initiatives to embed data-driven practices across the organization.
+ I have supported culture-building initiatives within a program or department.
+ I have assisted with training or awareness activities.
+ I have not performed these duties through the course of my job.
+
+
+28.
+From the following responses, please select the statement that best describes your experience leading change management initiatives to increase adoption of new data tools or processes.
+
+ I have directed enterprise change management, including communication, training, and adoption metrics.
+ I have managed program-level change initiatives to support new tools or processes.
+ I have assisted with communications or training activities.
+ I have not performed these duties through the course of my job.
+
+
+29.
+From the following responses, please select the statement that best describes your experience presenting complex data or analytics findings to senior executives or congressional staff.
+
+ I have regularly briefed executives/congressional staff and influenced decision-making with insights.
+ I have presented findings to program leadership or small teams.
+ I have assisted in preparing presentations or supporting materials.
+ I have not performed these duties through the course of my job.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2025 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
