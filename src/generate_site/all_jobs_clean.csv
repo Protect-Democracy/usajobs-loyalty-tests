@@ -81800,6 +81800,13 @@ Excepted,"Martinsburg, West Virginia",8602,Aircraft Engine Mechanic,WG-10,10,10,
 Excepted,"Martinsburg, West Virginia",8602,Aircraft Engine Mechanic,WL-10,10,10,852965800,TITLE 32 AIRCRAFT ENGINE MECHANIC LEADER WL-8602-10,Department of the Air Force,2025-12-19 14:05:11.567,2026-01-19T23:59:59.9970,8602 - Aircraft Engine Mechanic,WL-10
 Excepted,"Morrisville, North Carolina",8852,Aircraft Mechanic,WG-10,10,10,852916800,AIRCRAFT MECHANIC (TITLE 32),Department of the Army,2025-12-20 00:00:00.000,2026-01-19T23:59:59.9970,8852 - Aircraft Mechanic,WG-10
 Excepted,"Tupelo, Mississippi",8852,Aircraft Mechanic,WS-11,11,11,852939000,AIRCRAFT MECHANIC SUPERVISOR,Department of the Army,2025-12-19 11:45:01.157,2026-01-09T23:59:59.9970,8852 - Aircraft Mechanic,WS-11
+Competitive,"Great Lakes, Illinois",0189,Recreation Aid And Assistant,NF-2,2,2,853000400,RECREATION ASSISTANT (SPECIALTY RETAIL),Department of the Navy,2025-12-20 09:21:22.520,2026-01-05T23:59:59.9970,0189 - Recreation Aid And Assistant,NF-2
+Competitive,"Great Lakes, Illinois",0326,Office Automation Clerical And Assistance,NF-3,3,3,853000500,ADMINISTRATIVE ASSISTANT,Department of the Navy,2025-12-20 09:24:28.400,2026-01-05T23:59:59.9970,0326 - Office Automation Clerical And Assistance,NF-3
+Competitive,"Great Lakes, Illinois",1101,General Business And Industry,NF-5,5,5,853000300,MWR INSTALLATION PROGRAM DIRECTOR,Department of the Navy,2025-12-19 00:00:00.000,2026-01-04T23:59:59.9970,1101 - General Business And Industry,NF-5
+Competitive,"Fort Sam Houston, Texas",1702,Education And Training Technician,CY-1/2,1,2,853000700,Child and Youth Program Assistant,Department of the Air Force,2025-12-20 15:12:25.860,2026-01-04T23:59:59.9970,1702 - Education And Training Technician,CY-1/2
+Competitive,"Fort Sam Houston, Texas",1702,Education And Training Technician,CY-1/2,1,2,853000800,Child and Youth Program Assistant,Department of the Air Force,2025-12-20 15:38:30.793,2025-12-30T23:59:59.9970,1702 - Education And Training Technician,CY-1/2
+Competitive,"Alleghany County, North Carolina",4749,Maintenance Mechanic,XA-5,5,5,852555700,Maintenance Worker,Department of the Interior,2025-12-21 00:00:00.000,2026-03-31T23:59:59.9970,4749 - Maintenance Mechanic,XA-5
+Competitive,"Moon Run, Pennsylvania",6914,Store Working,WG-4,4,4,853000200,Store Worker,Department of Defense,2025-12-20 06:05:22.463,2026-01-05T23:59:59.9970,6914 - Store Working,WG-4
 Excepted,"Hanscom AFB, Massachusetts",0391,,GS-11,11,11,816418500,TELECOMMUNICATIONS SPECIALIST,Department of the Army,2025-10-29 00:00:00.000,2025-11-08,0391 - Unknown,GS-11
 Competitive,"Rockville, Maryland",2210,,GS-14,14,14,818315700,IT Specialist - Network Engineer - PD 22R054 - Office of Information Technology,Department of Health and Human Services,2025-11-01 00:00:00.000,2025-11-05,2210 - Unknown,GS-14
 Excepted,"Westfield, Massachusetts",5413,,WG-9,9,9,800116900,FUEL DISTRIBUTION SYSTEM WORKER,Department of the Air Force,2025-10-23 00:00:00.000,2025-11-22,5413 - Unknown,WG-9
@@ -85779,13 +85786,13 @@ Competitive,"Fort Bragg, North Carolina",0631,,GS-12,12,12,838441000,Occupationa
 Competitive,"Mayport, Florida",0830,,GS-13,13,13,838461300,MECHANICAL ENGINEER,Department of the Navy,2025-06-12 00:00:00.000,2025-06-18,0830 - Unknown,GS-13
 Competitive,"Naval Medical Center, Portsmouth, Virginia",2005,,GS-6,6,6,838476000,Supply Technician,Department of Defense,2025-06-12 00:00:00.000,2025-06-16,2005 - Unknown,GS-6
 Competitive,Rota,0301,,GS-13,13,13,838485000,INSTALLATION PLANS PROGRAMS AND READINESS INTEGRATOR,Department of the Navy,2025-06-12 00:00:00.000,2025-06-23,0301 - Unknown,GS-13
-Competitive,"Naval Shipyard, Portsmouth, Virginia",0675,,GS-5,5,5,838486800,Medical Records Technician,Department of Defense,2025-06-12 00:00:00.000,2025-06-16,0675 - Unknown,GS-5
-Competitive,"Fort Riley, Kansas",0610,,GS-12,12,12,838490000,Advanced Practice Nurse,Department of Defense,2025-06-12 00:00:00.000,2025-06-30,0610 - Unknown,GS-12
-Competitive,"Nimitz Hill, Guam",0950,,GS-11,11,11,838496600,PARALEGAL SPECIALIST,Department of the Navy,2025-06-12 00:00:00.000,2025-06-16,0950 - Unknown,GS-11
-Competitive,"Lakeview, Oregon",0391,,GS-11,11,11,838506200,Telecommunications Specialist,Department of the Interior,2025-06-12 00:00:00.000,2025-06-23,0391 - Unknown,GS-11
-Competitive,"Piti, Guam",1601,,GS-13,13,13,838513500,PRODUCTION RESOURCES NUCLEAR DIRECTOR,Department of the Navy,2025-06-12 00:00:00.000,2025-06-27,1601 - Unknown,GS-13
-Competitive,Landstuhl,2210,,GS-11,11,11,838518500,IT Specialist (Policy and Planning),Department of Defense,2025-06-12 00:00:00.000,2025-06-18,2210 - Unknown,GS-11
-Competitive,"Jackson, Mississippi",5803,,WG-9,9,9,838519100,Heavy Mobile Equipment Repairer,Department of the Army,2025-06-12 00:00:00.000,2025-06-30,5803 - Unknown,WG-9
+Competitive,"Naval Shipyard, Portsmouth, Virginia",0675,,GS-5,5,5,838486800,Medical Records Technician,Department of Defense,2025-06-12,2025-06-16,0675 - Unknown,GS-5
+Competitive,"Fort Riley, Kansas",0610,,GS-12,12,12,838490000,Advanced Practice Nurse,Department of Defense,2025-06-12,2025-06-30,0610 - Unknown,GS-12
+Competitive,"Nimitz Hill, Guam",0950,,GS-11,11,11,838496600,PARALEGAL SPECIALIST,Department of the Navy,2025-06-12,2025-06-16,0950 - Unknown,GS-11
+Competitive,"Lakeview, Oregon",0391,,GS-11,11,11,838506200,Telecommunications Specialist,Department of the Interior,2025-06-12,2025-06-23,0391 - Unknown,GS-11
+Competitive,"Piti, Guam",1601,,GS-13,13,13,838513500,PRODUCTION RESOURCES NUCLEAR DIRECTOR,Department of the Navy,2025-06-12,2025-06-27,1601 - Unknown,GS-13
+Competitive,Landstuhl,2210,,GS-11,11,11,838518500,IT Specialist (Policy and Planning),Department of Defense,2025-06-12,2025-06-18,2210 - Unknown,GS-11
+Competitive,"Jackson, Mississippi",5803,,WG-9,9,9,838519100,Heavy Mobile Equipment Repairer,Department of the Army,2025-06-12,2025-06-30,5803 - Unknown,WG-9
 Excepted,"Seattle, Washington",0602,,VM-15,15,15,838521400,Physician - Associate Chief of Education,Department of Veterans Affairs,2025-06-12,2025-06-27,0602 - Unknown,VM-15
 Competitive,"Fort Bragg, North Carolina",5803,,WL-9,9,9,838523100,Heavy Mobile Equipment Repairer Leader,Department of the Army,2025-06-12,2025-06-25,5803 - Unknown,WL-9
 Competitive,Kadena Air Base Okinawa,0086,,NF-3,3,3,838526800,Security Assistant,Department of the Air Force,2025-06-12,2025-06-23,0086 - Unknown,NF-3
