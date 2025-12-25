@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "total_jobs": 92548,
+    "total_jobs": 92551,
     "cutoff_date": "2025-06-01",
-    "generation_date": "2025-12-24T09:54:59.048564"
+    "generation_date": "2025-12-25T09:26:46.379973"
   },
   "by_service_type": {
-    "Competitive": 53911,
-    "Excepted": 38357,
+    "Competitive": 53912,
+    "Excepted": 38359,
     "Senior Executive": 280
   },
   "by_grade_level": {
@@ -32,7 +32,7 @@
     "NF-4": 1136
   },
   "by_location": {
-    "Washington, District of Columbia": 3339,
+    "Washington, District of Columbia": 3341,
     "Salt Lake City, Utah": 801,
     "Phoenix, Arizona": 739,
     "San Diego, California": 732,
@@ -58,15 +58,15 @@
     "Department of the Navy": 10881,
     "Department of the Air Force": 10075,
     "Department of Defense": 8987,
-    "Department of the Army": 8322,
+    "Department of the Army": 8323,
     "Department of Justice": 4521,
     "Department of Homeland Security": 4492,
     "Department of the Interior": 2087,
     "Department of Transportation": 1426,
-    "Other Agencies and Independent Organizations": 1252,
+    "Other Agencies and Independent Organizations": 1253,
     "Department of Agriculture": 1074,
     "Department of Health and Human Services": 910,
-    "Legislative Branch": 686,
+    "Legislative Branch": 687,
     "Department of Energy": 352,
     "Department of Commerce": 334,
     "Department of the Treasury": 287,
