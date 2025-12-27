@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "total_jobs": 92567,
+    "total_jobs": 92570,
     "cutoff_date": "2025-06-01",
-    "generation_date": "2025-12-26T09:27:17.899554"
+    "generation_date": "2025-12-27T09:24:12.316072"
   },
   "by_service_type": {
-    "Competitive": 53926,
-    "Excepted": 38361,
+    "Competitive": 53927,
+    "Excepted": 38363,
     "Senior Executive": 280
   },
   "by_grade_level": {
@@ -17,7 +17,7 @@
     "GS-9": 3702,
     "GS-6": 3173,
     "GS-7": 3055,
-    "GS-14": 2851,
+    "GS-14": 2852,
     "VM-15": 2533,
     "GS-9/11": 2508,
     "GS-5": 2043,
@@ -34,7 +34,7 @@
   "by_location": {
     "Washington, District of Columbia": 3341,
     "Salt Lake City, Utah": 801,
-    "Phoenix, Arizona": 739,
+    "Phoenix, Arizona": 740,
     "San Diego, California": 732,
     "Indianapolis, Indiana": 643,
     "Battle Creek, Michigan": 599,
@@ -62,7 +62,7 @@
     "Department of Justice": 4521,
     "Department of Homeland Security": 4492,
     "Department of the Interior": 2090,
-    "Department of Transportation": 1426,
+    "Department of Transportation": 1428,
     "Other Agencies and Independent Organizations": 1253,
     "Department of Agriculture": 1074,
     "Department of Health and Human Services": 910,
@@ -71,7 +71,7 @@
     "Department of Commerce": 334,
     "Department of the Treasury": 287,
     "Judicial Branch": 174,
-    "Department of State": 107,
+    "Department of State": 108,
     "National Aeronautics and Space Administration": 87,
     "Executive Office of the President": 74
   },
