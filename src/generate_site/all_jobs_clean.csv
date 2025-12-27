@@ -83159,6 +83159,9 @@ Competitive,"Fort Carson, Colorado",5803,Heavy Mobile Equipment Mechanic,WL-9,9,
 Competitive,"Fort Belvoir, Virginia",5803,Heavy Mobile Equipment Mechanic,WG-8,8,8,853135900,Heavy Mobile Equipment Repairer,Department of the Army,2025-12-26 00:00:00.000,2026-01-08T23:59:59.9970,5803 - Heavy Mobile Equipment Mechanic,WG-8
 Competitive,"Fort Carson, Colorado",6610,Small Arms Repairing,WG-9,9,9,852676900,Small Arms Repairer,Department of the Army,2025-12-26 00:00:00.000,2026-01-08T23:59:59.9970,6610 - Small Arms Repairing,WG-9
 Competitive,"Schenectady County, New York",6610,Small Arms Repairing,WG-9,9,9,853131000,Small Arms Repairer,Department of the Army,2025-12-26 00:00:00.000,2026-01-08T23:59:59.9970,6610 - Small Arms Repairing,WG-9
+Competitive,"Williamsburg, Kentucky",0340,Program Management,GS-14,14,14,853210600,Program Manager,Department of State,2025-12-26 09:59:21.660,2026-01-12T23:59:59.9970,0340 - Program Management,GS-14
+Excepted,"Phoenix, Arizona",2152,Air Traffic Control,AT-KK,KK,KK,853169000,"Supervisory Air Traffic Control Specialist,  (Operations Manager, AT-2152-KK)",Department of Transportation,2025-12-27 00:00:00.000,2026-01-05T23:59:59.9970,2152 - Air Traffic Control,AT-KK
+Excepted,"Hampton, Georgia",2152,Air Traffic Control,AT-LK,LK,LK,853192700,Supervisory Air Traffic Control Specialist (Operations Manager),Department of Transportation,2025-12-27 00:00:00.000,2026-01-05T23:59:59.9970,2152 - Air Traffic Control,AT-LK
 Excepted,"Hanscom AFB, Massachusetts",0391,,GS-11,11,11,816418500,TELECOMMUNICATIONS SPECIALIST,Department of the Army,2025-10-29 00:00:00.000,2025-11-08,0391 - Unknown,GS-11
 Competitive,"Rockville, Maryland",2210,,GS-14,14,14,818315700,IT Specialist - Network Engineer - PD 22R054 - Office of Information Technology,Department of Health and Human Services,2025-11-01 00:00:00.000,2025-11-05,2210 - Unknown,GS-14
 Excepted,"Westfield, Massachusetts",5413,,WG-9,9,9,800116900,FUEL DISTRIBUTION SYSTEM WORKER,Department of the Air Force,2025-10-23 00:00:00.000,2025-11-22,5413 - Unknown,WG-9
@@ -85784,9 +85787,9 @@ Excepted,"Iron Mountain, Michigan",0610,,VN-00,00,00,838377400,Home Telehealth R
 Excepted,"Fayetteville, North Carolina",0647,,GS-9,9,9,838377500,Diagnostic Radiologic Technologist (Ultrasound),Department of Veterans Affairs,2025-06-09 00:00:00.000,2025-06-24,0647 - Unknown,GS-9
 Excepted,"Fayetteville, North Carolina",0649,,GS-9,9,9,838377600,Medical Instrument Technician (Ultrasound),Department of Veterans Affairs,2025-06-09 00:00:00.000,2025-06-24,0649 - Unknown,GS-9
 Competitive,Camp Foster,1101,,NF-02,02,02,838378800,"CLUB OPERATIONS SHIFT LEADER, NF-02/RFT, CAMP KINSER (SURFSIDE)",Department of the Navy,2025-06-09 00:00:00.000,2025-06-23,1101 - Unknown,NF-02
-Competitive,Camp Foster,0189,,NF-02,02,02,838379300,"SWIM INSTRUCTOR/LIFEGUARD, NF-02/FLX, ALL CAMPS",Department of the Navy,2025-06-09 00:00:00.000,2025-06-23,0189 - Unknown,NF-02
-Competitive,PYONG TAEK,1701,,NF-4,4,4,838379800,CYS Facility Director NF-04,Department of the Army,2025-06-09 00:00:00.000,2025-06-16,1701 - Unknown,NF-4
-Competitive,PYONG TAEK,1701,,NF-4,4,4,838379900,CYS Training Specialist NF-04,Department of the Army,2025-06-09 00:00:00.000,2025-06-16,1701 - Unknown,NF-4
+Competitive,Camp Foster,0189,,NF-02,02,02,838379300,"SWIM INSTRUCTOR/LIFEGUARD, NF-02/FLX, ALL CAMPS",Department of the Navy,2025-06-09,2025-06-23,0189 - Unknown,NF-02
+Competitive,PYONG TAEK,1701,,NF-4,4,4,838379800,CYS Facility Director NF-04,Department of the Army,2025-06-09,2025-06-16,1701 - Unknown,NF-4
+Competitive,PYONG TAEK,1701,,NF-4,4,4,838379900,CYS Training Specialist NF-04,Department of the Army,2025-06-09,2025-06-16,1701 - Unknown,NF-4
 Competitive,Camp Foster,0503,,NF-01,01,01,838380000,"CASHIER, NF-01/FLX, CAMP HANSEN (PALMS)",Department of the Navy,2025-06-09,2025-06-23,0503 - Unknown,NF-01
 Competitive,PYONG TAEK,1701,,NF-3,3,3,838380100,CYS Assistant Director NF-03,Department of the Army,2025-06-09,2025-06-16,1701 - Unknown,NF-3
 Competitive,Camp Foster,4749,,NA-08,08,08,838380200,"MAINTENANCE TECHNICIAN, NA-08/RFT, CAMP FOSTER (LODGING PROGRAM)",Department of the Navy,2025-06-09,2025-06-23,4749 - Unknown,NA-08
