@@ -1,0 +1,268 @@
+Position Title
+IT Specialist (CUSTSPT) - Service Branch Director Type 1
+Agency
+Federal Emergency Management Agency
+Announcement Number
+FEMA-MVS-12858249-IMAT Opens in new window
+Open Period
+Dec 29, 2025 to Jan 12, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Are you a current Federal Emergency Management Agency (FEMA) employee?
+
+To verify your eligibility, you must provide a FEMA SF-50 Notification of Personnel Action. We recommend submitting your last promotion SF-50, current SF-50, or within-grade increase SF-50.  Award SF-50's do not include all the required information and will not be accepted.
+ Yes
+ No
+
+
+Preferences
+1.
+Would you accept a temporary appointment?
+ Yes
+ No
+
+
+2.
+How did you hear about this Federal Emergency Management Agency (FEMA) job opportunity?
+ USAJOBS
+ FEMA's Social Media (Facebook, LinkedIn, Twitter, etc.)
+ Online Job board (Indeed, Zip Recruiter, etc.)
+ FEMA.gov Careers Website
+ FEMA Virtual Hiring Event
+ FEMA On-Site Hiring Event
+ College/University/Alumni Organization
+ FEMA Employee Referral
+ Other
+
+
+3.
+Are you a retiree receiving a federal annuity (either military or civilian)? Or have you accepted a buyout from a federal agency within the past 5 years? (Select all that apply.)
+ A. Yes, I'm receiving a military annuity.
+ C. Yes, I'm receiving a civilian annuity.
+ B. Yes, I've received a buyout from a federal agency within the past 5 years.
+ D. No, I am not receiving a federal annuity and have not accepted a buyout from a federal agency within the past 5 years.
+
+
+4.
+Are you a current FEMA employee?
+ I'm a current FEMA Local Hire Employee
+ I'm a current FEMA Reservist Employee
+ I'm a current FEMA CORE Employee
+ I'm a current FEMA PFT Employee
+ I'm a current FEMA Senior Executive Service Employee
+ I'm not a current FEMA Employee
+
+
+5.
+Are you currently serving, or have served within the last five years, as a political Schedule A, Schedule C, or non-career Senior Executive Service (SES) employee in the Executive Branch?
+ Yes
+ No
+
+
+6.
+Please provide the following information regarding your political appointment(s): 1. Official Title of Position; 2. Type of Appointment (i.e. Schedule A, Schedule C, or non-career SES); 3. Name of Agency; 4. Date Position began; and 5. Date Position ended. (NOTE: If you have never held a political appointment, please enter N/A.)
+
+
+7.
+Within the past five years, have you received a buyout or payment through the Voluntary Separation Incentive Payment Authority (VSIP) when separating from a federal position?
+ No
+ Yes, and I understand candidates who are reemployed with the federal government within five years after receiving a buyout or payment under VSIP are required to repay the entire amount of the incentive prior to their onboarding date.
+
+
+8.
+Did you elect to voluntarily resign or retire through the Deferred Resignation Program (DRP) or Workforce Transition Program (WTP)
+ Yes
+ No
+
+
+9.
+I authorize my application information being shared with hiring managers for similar positions. I understand this option may not result in further consideration for additional positions nor will it impact my application for this announcement.
+ Yes
+ No
+
+
+Conditions of Employment
+1.
+If you are a male at least 18 years of age, born after December 31, 1959, have you registered with the Selective Service System?
+
+Select "Not Applicable" if this question does not apply to you.
+ Yes
+ No, but I have an exemption
+ I am a male at least 18 years of age, born after December 31, 1959, and have NOT registered with the Selective Service System and do NOT have an exemption.
+ Not Applicable
+
+
+2.
+All FEMA employees are subject to 24-hour on-call in the event of an emergency and all Federal employees may be subject to emergency deployment. In the event of an emergency deployment, travel requirements may be extensive in nature (weeks to months), with little advance notice, and may require relocation to emergency sites, some of which are quite austere. The length of deployment may last anywhere from days to months, depending upon the nature of the emergency or disaster.
+
+Every FEMA employee is considered an emergency manager and each employee has regular and recurring emergency management responsibilities, although not every position requires routine deployment to disaster sites. Your emergency management duties may vary depending on the needs of the Agency, your particular skills, and certain personal circumstances. All positions may require irregular work hours, work at locations other than the official duty station, and may include duties other than those specified in the employee's official position description.
+
+Are you able to meet this commitment?
+ Yes
+ No
+
+
+3.
+
+In order to be hired for this position, applicants must undergo and successfully pass a background investigation. This may include a review of financial issues, such as delinquency, child support and/or tax obligations, as well as certain criminal offenses and illegal use of or possession of drugs.
+
+Are you willing to undergo a background investigation?
+
+ Yes
+ No
+
+
+Assessment 1
+1.
+Which of the following IT system(s) have you worked with?
+ B. Microsoft Windows 2003
+ D. Microsoft Windows 2008
+ A. Microsoft Windows 2012
+ F. Windows Workstation Version 7
+ G. Windows Workstation Version 8
+ H. Windows Workstation Version 10
+ I. Operating System: Linux RHEL 4
+ J. Operating System: Linux RHEL 5
+ K. Operating System: Linux RHEL 6
+ C. Operating System: Unix
+ L. Operating System: HP-UX
+ M. Operating System: IBM AIX
+ N. Operating System: Sun Solaris
+ O. Database: Oracle
+ P. Database: PostGres
+ Q. Database: SQL
+ R. Database: Informix
+ S. Database: Other
+ T. Network switches and routers
+ E. None of the above
+
+
+2.
+IT Specialists must have experience in network administration and information systems management including, but not limited to: LAN file servers, routers, switches, wiring infrastructure, networking theory, interface issues, operating systems and software applications. From the choices below, please select all that apply.
+ A. Customize, analyze and implement complex hardware and software to support large-scale LAN/WAN systems including NT account creation and authentication, protocols, SMTP management systems, communications controllers, bridges, routers and other network devices that support extensive operations.
+ B. Implement, monitor, and support Local Area Network high-speed data-transfer connectivity to the customer's data and applications.
+ C. Implement, monitor, and support Wide Area Network services to interconnect geographically diverse organization, as well as local offices.
+ E. Coordinate the planning, deployment, and maintenance of network devices and servers.
+ D. Monitor and support the deployment of infrastructure information and networking services.
+ F. Provide guidance to other IT Specialists regarding testing, troubleshooting, and decommissioning of network devices and systems.
+ G. Identify and share best practices to improve availability, confidentiality and integrity of information and network services.
+ H. Analyze HSPD-12 systems installation of computer operating systems, network, and applications software, and computer/network hardware.
+ I. Evaluate network system performance, identify trends and recommend improvements.
+ J. Identify network service impacts and resolve them as they occur.
+ K. Monitor network traffic to identify and resolve system anomalies.
+ L. Install and configure network operating systems.
+ N. Implement configuration management plans for complex LANs and WANs.
+ P. Configure hubs and switches, monitor network performance, perform network diagnostics, analyze network traffic patterns and install network software fixes and upgrades.
+ M. Work as a member of a Help Desk or IT support team to upgrade network switches and/or routers.
+ O. Use operating system monitoring tools to verify telecommunications network performance characteristics.
+ Q. Establish connectivity between remote sites.
+ S. Create network maps.
+ R. Perform trouble shooting functions associated with local and wide area telecommunications network problems and provide recommendations for resolution.
+ U. Provide training to other IT Specialists in the structure of LAN systems, protocols and trouble-shooting techniques.
+ T. Write technical and/or programmatic reports, documents and correspondence to a variety of groups on LAN/WAN systems management and interoperable communications planning.
+ V. None of the above.
+
+
+3.
+I have performed the tasks below as part of my recurring duties (Select all that apply):
+ A. Establish priorities for accomplishment of work.
+ B. Develop plans for future contingencies.
+ D. Evaluate program effectiveness through multiple methods to include inspections and management improvement studies.
+ E. Identify and execute renovation and modernization projects for real property assets to ensure sustainment of real property.
+ F. Prepare and review documents necessary to obtain contracts for operation, maintenance and repair of facilities.
+ G. Independently plan and conduct appropriate course of action in recognizing and resolving complex requirements encountered in facilities renovation and new designs.
+ C. None of the above.
+
+
+4.
+Do you have experience providing Information Technology (IT) systems customer support and service?
+ Yes
+ No
+
+
+5.
+Have you established an IT Service Desk?
+ Yes
+ No
+
+
+6.
+From the list below, select the supervisory task(s) that you have performed on a regular and recurring basis. (Select all that apply):
+ B. Oversaw, directed or developed work to be accomplished by subordinates
+ A. Set and adjusted priorities
+ D. Prepared schedules for completion of work
+ C. Responsible for the first line supervision of employees
+ F. Assigned work to subordinates based on priorities, consideration of the difficulty of assignments, and the capabilities of employees
+ H. Developed performance standards and evaluated employees' work
+ J. Gave advice, counsel or instruction to employees on both work and administrative matters
+ E. Interviewed candidates for positions in a unit
+ G. Recommended and/or selected individuals for appointment, promotion, or reassignment
+ I. Worked with employees to identify their developmental and training needs based on organizational goals and budget realities
+ L. Conducted workforce/succession planning
+ N. Delegated authority to the lowest levels
+ K. Resolved office conflicts through meetings
+ P. Resolved office conflicts by providing written guidance
+ Q. Resolved office conflicts through mediation or other forms of alternative dispute resolution
+ R. Addressed employee conduct issues by taking appropriate human resources actions such as oral admonishments or suspensions
+ S. Coached, counseled and/or disciplined employees on performance issues
+ M. Coached, counseled and/or disciplined employees on conduct issues
+ T. Followed necessary steps when an employee's performance did not improve
+ U. Developed performance improvement plans
+ O. Recognized and rewarded employees for their contributions
+ V. I have not performed any of the above listed supervisory tasks
+
+
+7.
+Select all of the areas in which you have specific experience managing a staff as it relates to Emergency Operations.
+ A. Implementing emergency operations for an organization.
+ B. Developing doctrine, policy, guidance and other documents for an organization.
+ D. Developing briefings for a variety of audiences.
+ C. Presenting briefings to a variety of audiences.
+ F. Creating Spot/Incident reports or similar organizational situation reports.
+ E. Providing Intelligence reports or analysis products.
+ G. None of the above.
+
+
+8.
+Do you have experience with imaging, troubleshooting, maintaining and supporting desktops, laptops and peripherals?
+ Yes
+ No
+
+
+9.
+Do you have experience installing, configuring, maintaining and troubleshooting computer hardware and software?
+ Yes
+ No
+
+
+10.
+Which of the following computer based programs do you have experience? (Please select all that apply)
+ B. Microsoft Office Suite
+ A. Microsoft SQL Server
+ C. Sharepoint
+ D. Arc GIS
+ E. None of the above
+
+
+11.
+From the list below, please select the telecommunications and/or audiovisual devices that you have experience installing, configuring, and testing.
+ A. Servers
+ C. Cable/Satellite Television distribution system
+ B. Conference Bridges
+ D. Video teleconferencing Systems
+ E. Voice communications Systems/Devices
+ F. None of the above
+
+
+12.
+Do you have experience coordinating assigned portions of an Incident Action Planning Process to support incident objectives and strategies?
+ Yes
+ No
+
+
+Assessment 2
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2025 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
