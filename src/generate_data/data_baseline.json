@@ -1,8 +1,8 @@
 {
-  "created_at": "2026-01-03T07:30:39.426603",
+  "created_at": "2026-01-04T07:32:27.964852",
   "row_counts": {
     "historical_jobs_2024.parquet": 367186,
-    "current_jobs_2026.parquet": 445,
+    "current_jobs_2026.parquet": 446,
     "current_jobs_2025.parquet": 87348,
     "historical_jobs_2025.parquet": 131319,
     "current_jobs_2024.parquet": 584
@@ -367641,7 +367641,8 @@
       "853496600",
       "853467600",
       "853469100",
-      "853471300"
+      "853471300",
+      "853081200"
     ],
     "current_jobs_2025.parquet": [
       "686668700",
