@@ -1,0 +1,228 @@
+Position Title
+Seasonal IT Specialist (CustSpt)
+Agency
+National Park Service
+Announcement Number
+IM-1540-YELL-26-12832574-DE Opens in new window
+Open Period
+Jan 05, 2026 to Jan 18, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+Are you a United States Citizen?
+
+For more information, review Employment of U.S Citizens.
+ Yes
+ No
+
+
+3.
+Are you a current or former federal employee displaced from the agency hiring for this position?   If yes, confirm:
+you are located in the same local commuting area of the vacancy; AND,
+you are applying to a position that is at or below the grade level of the position from which you were or will be separated; AND,
+you are applying to a position that does not have greater promotion potential than the position from which you were or will be separated; AND,
+your last performance rating of record is at least fully successful or the equivalent.
+ 
+For more information, review the USAJOBS Help Center. 
+ 
+To verify your eligibility, you must submit supporting documentation such as a Reduction in Force (RIF) separation notice or a Proposed Removal/Separation notice to include your latest performance rating (if the notice does not have this information included, you must submit a copy of your most recent performance appraisal) and a copy of your latest Notification of Personnel Action, Standard Form 50.
+ Yes
+ No
+
+
+4.
+Are you a current or former federal employee displaced from a position in a Federal agency other than the agency hiring for this position?  If yes, confirm:
+you are located in the same local commuting area of the vacancy; AND,
+you are applying to a position that is at or below the grade level of the position from which you were or will be separated; AND,
+you are applying to a position that does not have greater promotion potential than the position from which you were or will be separated; AND,
+your last performance rating of record is at least fully successful or the equivalent.
+ 
+For more information, review the USAJOBS Help Center.  
+ 
+To verify your eligibility, you must submit supporting documentation such as a Reduction in Force (RIF) separation notice to include your latest performance rating (if the notice does not have this information included, you must submit a copy of your most recent performance appraisal) and a copy of your latest Notification of Personnel Action, Standard Form 50.
+ Yes
+ No
+
+
+Preferences
+1.
+Would you accept a temporary appointment?
+ Yes
+ No
+
+
+2.
+When you applied to this job, did you have any engagement with a National Park Service (NPS) Recruiter?
+ A. No. I did not have any engagement with an NPS recruiter.
+ B. Yes. I attended an NPS Federal Resume Webinar.
+ C. Yes. At a virtual or in-person recruitment or job fair.
+ D. Yes. I received an email from an NPS Recruiter.
+
+
+A review of your resume and supporting documentation will be made and compared against your responses to the Assessment Questionnaire to determine if you are qualified for this job. If your resume is incomplete or does not support the responses provided in the Assessment Questionnaire, or if you fail to submit all required documentation, you will be rated 'ineligible', 'not qualified', or your score will be adjusted accordingly. If a determination is made that you have inflated your qualifications or experience, you can lose consideration for this position. Please follow all instructions carefully; errors or omissions can affect your rating.
+
+
+Assessment 1
+Thank you for your interest in the GS-2210-7 Information Specialist with Yellowstone National Park. Your responses to this questionnaire in conjunction with other portions of your completed application will be evaluated to determine your qualifications. Please carefully follow all instructions before submitting your responses. Please note: any skill you indicate you have experience with in the following occupational questionnaire must be specifically documented in your resume. Read all responses before making your selection. MARK ONLY ONE RESPONSE. If you select more than one response, or leave questions blank you will be rated ineligible. If you do not meet basic requirements or minimum qualifications, you will be considered not qualified and will not receive consideration for this position. YOUR RESUME OR APPLICATION MATERIALS YOU SUBMIT FOR THIS ANNOUNCEMENT MUST SUPPORT THE ANSWER YOU CLAIM UNDER THIS AND OTHER QUESTIONS. IF NOT, YOU WILL BE FOUND NOT QUALIFIED OR YOUR SCORE WILL BE LOWERED.
+
+
+1.
+From the description below, select the one response that best describes how your background meets the specialized experience or education requirements for an Information Technology Specialist, GS-2210-07 position. Read all responses before making your selection. MARK ONLY ONE RESPONSE. If you select more than one response, or leave this question blank you will be rated ineligible. If you do not meet these requirements, you will be considered not qualified and will not receive consideration for this position.
+
+ I have one year of specialized experience equivalent to at least the GS-05 grade level. Specialized experience demonstrates the knowledge, skills, and abilities to successfully perform the duties of an Information Technology Specialist. Examples of specialized experience include: performing IT Service Desk activities, IT customer service, first call resolution for tier one diagnosis. Resolves recurring problems, determining hardware, software, and telecommunications equipment. Installs, configures, and tests software on customer workstations; and installs, configures, upgrades, and provides basic troubleshooting for hardware and software components. Provides routine advice and guidance to customers requesting information on established policy or procedures, including those related to information security.
+ Successful completion of one year of graduate education in computer science, engineering, information science, information systems management, mathematics, operations research, statistics, or technology management or degree that provided a minimum of 24 semester hours in one or more of the fields identified above and required the development or adaptation of applications, systems, or networks.
+ My education or experience are not reflected in any of the above statements.
+
+
+NOTE: TO QUALIFY BASED ON EXPERIENCE, you must have IT-related experience in the following four competencies. Be sure to describe your background/experience that demonstrates possession of these four competencies in your application/resume. Attention to Detail - Please describe your experience showing you are able to review moderately complex data from multiple sources and determine relevant information to a given situation; and drafting, editing, and disseminating written reports and status updates that are factual, timely and relatively error free. Customer Service - Please describe your experience that demonstrates your ability to maintain relationships with customers with diverse needs; provide moderately technical or complex information about products and services; assess customers' needs and identifying products and/or services to meet their needs; resolve fairly complex or non-routine problems, questions, or complaints; direct the most complex problems, questions or complaints to the appropriate person. Oral Communication - Please describe your experience that demonstrates your skill in communicating or explaining moderately complex ideas or information clearly in which thoughts are well organized; listening to others and recognizing potential miscommunications. Problem Solving - Please describe your experience that demonstrates your ability to use logic to identify alternatives to solve moderately difficult problems; identify and solve problems by gathering and applying information from a variety of materials or sources that provide several alternatives.
+
+
+Technology Awareness
+
+
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+
+
+2.
+Configure. Install, and troubleshoot WiFi connections in developed and remote locations.
+
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+3.
+Troubleshoot and coordinate needed repairs on network connectivity to include Local Area Network (LAN), Wide Area Network (WAN), Digital Subscriber Line (DSL) and Satellite equipment, PTP connections in developed and remote locations.
+
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+Customer Service
+
+
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+
+
+4.
+Assist computer users whose computer skills range from minimal to intermediate.
+
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+5.
+Provide customer training in IT Security, application use and acceptable use based on government regulations for IT equipment.
+
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+6.
+Provide two technical support via phone/email and utilizing remote tools or on-site visits if remote assistance is not successful for geographically diverse areas consisting of many customers, computers, servers, mobile devices, and software applications.
+
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+Interpersonal Skills
+
+
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+
+
+7.
+Provide written and oral project and work status to various audiences as required.
+
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+8.
+Deliver presentations to contractors, consultants, vendors, technical specialists, non-technical managers, and other decision makers.
+
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+9.
+Contribute to discussions at staff meetings, in service-wide workgroups and other project meetings.
+
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+Network Management
+
+
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+
+
+10.
+Create, test, and install new images on desktop, laptop, and tablet equipment before deployment to information technology (IT) users.
+
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+11.
+Install, configure and troubleshoot IT components (software, services, security settings, etc.) on laptops, thin clients, and desktop PCs.
+
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+12.
+Install, configure and troubleshoot other network devices such as switches, bridges, and wireless access points.
+
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
