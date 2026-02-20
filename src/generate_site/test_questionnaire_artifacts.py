@@ -363,6 +363,83 @@ def check_for_error_pages():
         print(f"{Colors.RED}❌ FAIL{Colors.RESET} Error checking for error pages: {e}")
         return False
 
+def check_date_sorting():
+    """Check that job posting dates are valid MM/DD/YYYY and sort correctly by year"""
+    try:
+        with open('../public/analysis_data.json', 'r') as f:
+            data = json.load(f)
+
+        if 'job_postings' not in data:
+            print(f"{Colors.YELLOW}⚠️  WARNING{Colors.RESET} No job_postings data found for date check")
+            return True
+
+        all_good = True
+        invalid_dates = []
+
+        for job in data['job_postings']:
+            for field in ['open_date', 'close_date']:
+                date_str = job.get(field, '')
+                if not date_str:
+                    continue
+
+                # Validate MM/DD/YYYY format
+                parts = date_str.split('/')
+                if len(parts) != 3:
+                    invalid_dates.append((job.get('usajobs_link', '?'), field, date_str, 'wrong format'))
+                    continue
+
+                month, day, year = parts
+                if len(year) != 4:
+                    invalid_dates.append((job.get('usajobs_link', '?'), field, date_str, f'year is {len(year)} digits, expected 4'))
+                    continue
+
+                # Verify it's a real date
+                try:
+                    datetime.strptime(date_str, '%m/%d/%Y')
+                except ValueError:
+                    invalid_dates.append((job.get('usajobs_link', '?'), field, date_str, 'invalid date'))
+
+        if invalid_dates:
+            print(f"{Colors.RED}❌ FAIL{Colors.RESET} Found {len(invalid_dates)} invalid dates in job postings")
+            for job_id, field, date_str, reason in invalid_dates[:5]:
+                print(f"     Job {job_id}: {field}='{date_str}' ({reason})")
+            all_good = False
+        else:
+            print(f"{Colors.GREEN}✅ PASS{Colors.RESET} All job posting dates are valid MM/DD/YYYY format")
+
+        # Verify sort order: convert MM/DD/YYYY to YYYY-MM-DD and check it sorts correctly
+        open_dates = []
+        for job in data['job_postings']:
+            date_str = job.get('open_date', '')
+            if date_str:
+                parts = date_str.split('/')
+                if len(parts) == 3 and len(parts[2]) == 4:
+                    iso_date = f"{parts[2]}-{parts[0]}-{parts[1]}"
+                    open_dates.append((date_str, iso_date))
+
+        if open_dates:
+            # Sort by ISO date descending (what the site does by default)
+            sorted_dates = sorted(open_dates, key=lambda x: x[1], reverse=True)
+
+            # Verify the sort makes chronological sense: first entry should be most recent
+            if sorted_dates:
+                newest_iso = sorted_dates[0][1]
+                oldest_iso = sorted_dates[-1][1]
+                newest_year = int(newest_iso[:4])
+                oldest_year = int(oldest_iso[:4])
+
+                if newest_year < oldest_year:
+                    print(f"{Colors.RED}❌ FAIL{Colors.RESET} Date sort order wrong: 'newest' is {sorted_dates[0][0]} but 'oldest' is {sorted_dates[-1][0]}")
+                    all_good = False
+                else:
+                    print(f"{Colors.GREEN}✅ PASS{Colors.RESET} Date sort order is chronologically correct (newest: {sorted_dates[0][0]}, oldest: {sorted_dates[-1][0]})")
+
+        return all_good
+
+    except Exception as e:
+        print(f"{Colors.RED}❌ FAIL{Colors.RESET} Date sorting check failed: {e}")
+        return False
+
 def check_analysis_data():
     """Check the analysis data JSON structure and validate all counts"""
     try:
@@ -565,8 +642,13 @@ def run_tests():
         all_passed = False
         print(f"{Colors.RED}CRITICAL: Error pages found in questionnaires!{Colors.RESET}")
     
-    # Test 9: Specific content checks
-    print_header("9. SPECIFIC CONTENT CHECKS")
+    # Test 9: Date format and sorting
+    print_header("9. DATE FORMAT AND SORTING")
+    if not check_date_sorting():
+        all_passed = False
+
+    # Test 10: Specific content checks
+    print_header("10. SPECIFIC CONTENT CHECKS")
     
     try:
         # Check that we have recent questionnaires

@@ -878,8 +878,30 @@
                     { data: 'location' },
                     { data: 'grade' },
                     { data: 'service' },
-                    { data: 'open_date' },
-                    { data: 'close_date' },
+                    {
+                        data: 'open_date',
+                        render: function(data, type) {
+                            if (type === 'sort' && data) {
+                                var parts = data.split('/');
+                                if (parts.length === 3) {
+                                    return parts[2] + '-' + parts[0] + '-' + parts[1];
+                                }
+                            }
+                            return data;
+                        }
+                    },
+                    {
+                        data: 'close_date',
+                        render: function(data, type) {
+                            if (type === 'sort' && data) {
+                                var parts = data.split('/');
+                                if (parts.length === 3) {
+                                    return parts[2] + '-' + parts[0] + '-' + parts[1];
+                                }
+                            }
+                            return data;
+                        }
+                    },
                     { data: 'questionnaire_status' },
                     { 
                         data: 'usajobs_link',
