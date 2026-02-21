@@ -216,14 +216,18 @@ def scrape_questionnaire(url, output_dir, timeout_seconds=60, headless=True, ses
                         return None  # Return None to trigger retry
                 
                 # Check if content is too small (likely an error)
-                if len(text_content) < 1000:
+                if len(text_content) < 500:
                     print(f"    ⚠️  Content too small ({len(text_content)} chars) - likely an error")
                     return None  # Return None to trigger retry
-                
+
+                if len(text_content) < 1000:
+                    print(f"    ℹ️  Short content ({len(text_content)} chars):")
+                    print(f"    {text_content[:200]}...")
+
                 # Save text file only if content passes validation
                 with open(txt_path, 'w', encoding='utf-8') as f:
                     f.write(text_content)
-                
+
                 elapsed = time.time() - start_time
                 print(f"    Saved: {txt_path} ({elapsed:.1f}s)")
                 return text_content
@@ -394,10 +398,14 @@ def scrape_questionnaire(url, output_dir, timeout_seconds=60, headless=True, ses
                         return None  # Return None to trigger retry
                 
                 # Check if content is too small (likely an error)
-                if len(page_text) < 1000:
+                if len(page_text) < 500:
                     print(f"    ⚠️  Content too small ({len(page_text)} chars) - likely an error")
                     browser.close()
                     return None  # Return None to trigger retry
+
+                if len(page_text) < 1000:
+                    print(f"    ℹ️  Short content ({len(page_text)} chars):")
+                    print(f"    {page_text[:200]}...")
                 
                 # Save text file only if content passes validation
                 with open(txt_path, 'w', encoding='utf-8') as f:

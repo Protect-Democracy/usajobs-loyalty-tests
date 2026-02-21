@@ -1,13 +1,14 @@
 #!/usr/bin/env python3
 """
-Current data update script for USAJobs data pipeline
+Data update script for USAJobs data pipeline
 
 This script:
-1. Collects current jobs
-2. Provides summary of what was updated
+1. Collects current jobs from the Search API
+2. Collects historical jobs from the Historical API (last 7 days)
+3. Provides summary of what was updated
 
 Usage:
-    python update/update_current.py
+    python run_data_pipeline.py
 """
 
 import os
@@ -99,7 +100,7 @@ def record_initial_file_sizes():
     """Record initial file sizes before data collection"""
     print("📏 Recording initial file sizes...")
 
-    data_files = glob.glob('../../data/current_jobs_*.parquet')
+    data_files = glob.glob('../../data/current_jobs_*.parquet') + glob.glob('../../data/historical_jobs_*.parquet')
     initial_sizes = {}
 
     for file in data_files:
@@ -118,7 +119,7 @@ def record_initial_job_counts():
     global initial_counts
     print("📊 Recording initial job counts...")
 
-    data_files = glob.glob('../../data/current_jobs_*.parquet')
+    data_files = glob.glob('../../data/current_jobs_*.parquet') + glob.glob('../../data/historical_jobs_*.parquet')
 
     for file in data_files:
         try:
@@ -226,7 +227,7 @@ def calculate_job_additions(initial_counts):
     """Calculate how many jobs were added to each file"""
     print("📊 Calculating job additions...")
 
-    data_files = glob.glob('../../data/current_jobs_*.parquet')
+    data_files = glob.glob('../../data/current_jobs_*.parquet') + glob.glob('../../data/historical_jobs_*.parquet')
     job_additions = {}
 
     for file in data_files:
@@ -254,7 +255,7 @@ def check_file_sizes_vs_initial(initial_sizes):
     """Check that data files haven't lost any jobs"""
     print("🔍 Checking data integrity (ensuring no job loss)...")
 
-    data_files = glob.glob('../../data/current_jobs_*.parquet')
+    data_files = glob.glob('../../data/current_jobs_*.parquet') + glob.glob('../../data/historical_jobs_*.parquet')
     size_checks = []
     files_changed = False
     shrunken_files = []
@@ -336,6 +337,18 @@ def main():
     else:
         print("❌ Current data collection failed.")
         collection_errors.append("Current data collection failed")
+
+    # Step 3: Collect historical jobs (catches jobs that opened and closed between daily runs)
+    end_date = datetime.now().strftime('%Y-%m-%d')
+    start_date = (datetime.now() - timedelta(days=7)).strftime('%Y-%m-%d')
+    historical_cmd = f"python ./collect_data.py --start-date {start_date} --end-date {end_date} --data-dir ../../data"
+    hist_success, hist_output = run_command(historical_cmd, f"Collecting historical jobs ({start_date} to {end_date})", stream_output=True)
+
+    if hist_success:
+        print(f"   📊 Historical data collection completed")
+    else:
+        print("⚠️  Historical data collection failed (non-critical, continuing).")
+        collection_errors.append("Historical data collection failed")
 
     # Step 4: Check data file integrity
     print("\\n🔍 Checking data file integrity...")

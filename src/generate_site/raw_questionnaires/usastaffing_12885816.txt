@@ -1,0 +1,204 @@
+Position Title
+Deli-Bakery Department Manager
+Agency
+Defense Commissary Agency
+Announcement Number
+DECA-26-12885816-MP Opens in new window
+Open Period
+Feb 13, 2026 to Feb 24, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Are you an employee of the agency advertising this position and applying to be considered for a Reassignment, Change-to-Lower Grade or Re-promotion to a grade previously held? You must submit a copy of your most recent SF-50, Notification of Personnel Action.
+
+
+ Yes
+ No
+
+
+2.
+Are you an employee of the agency advertising this position and applying to be considered for a Promotion? You must submit a copy of your most recent SF-50, Notification of Personnel Action.
+ Yes
+ No
+
+
+Preferences
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+
+
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+
+
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+
+
+3.
+How would you help advance the President's Executive Orders and policy priorities in this role? Identify one or two relevant Executive Orders or policy initiatives that are significant to you, and explain how you would help implement them if hired.
+
+
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+
+
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+
+
+Announcement Screen-Outs
+1.
+Are you able to frequently lift, push, pull, carry, or handle products weighing up to 40 pounds without assistance, and occasionally more than 40 pounds with assistance?
+ Yes
+ No
+
+
+2.
+Are you able to perform duties involving prolonged standing, stooping, kneeling, bending, climbing and walking?
+ Yes
+ No
+
+
+3.
+Are you a former Federal employee who has retired and is receiving an annuity either under the Civil Service Retirement System (CSRS) or Federal Employees Retirement System (FERS)?
+NOTE: If you are receiving a temporary medical disability retirement OR are a retired Military Service Member your response should be NO.
+ Yes
+ No
+
+
+Assessment 1
+18.
+How often should a manager check the temperature of Time/Temperature Control for Safety (TCS) foods in a holding unit?
+ At least every 2 hours.
+ At least every 4 hours.
+ Once at the beginning of the shift.
+ At the beginning and end of the day.
+
+
+19.
+You notice the bakery's proofing oven is not reaching the correct temperature, leading to under-proofed dough. What is your first step?
+ Call an external repair technician immediately.
+ Adjust the thermostat to a higher setting and see if it corrects the issue.
+ Refer to the equipment's owner's manual for troubleshooting steps and check for simple fixes, such as a tripped circuit breaker.
+ Switch to a different oven to avoid production delays and report the issue later.
+
+
+20.
+When setting the price for a new specialty sandwich, which of the following is an example of considering the factor of competitive pricing?
+ Calculating the total cost of all ingredients and adding a fixed markup percentage.
+ Charging a higher price because the sandwich uses premium, locally sourced ingredients.
+ Surveying other local delis to see what they charge for similar sandwiches.
+ Raising the price because ingredient costs have increased since the last menu update.
+
+
+21.
+A manager notices a significant discrepancy between the deli-bakery's perpetual inventory records and the results of a physical count. What is the most important step to take next?
+ Immediately order more of the missing stock.
+ Adjust the perpetual inventory records to match the physical count and move on.
+ Investigate potential causes like theft, shrinkage, data entry errors, or incorrect receiving procedures.
+ Place the employee who conducted the physical count on suspension.
+
+
+22.
+Upon receiving a new, expensive piece of bakery equipment, what is the best procedure to ensure its accountability?
+ Unpack and begin using it immediately.
+ Inform the supplier that it has arrived safely.
+ Log the new equipment in the department's asset tracking system and store the warranty information.
+ Have employees use it without any formal training to speed up adoption.
+
+
+23.
+What is the correct sequence for manually cleaning and sanitizing food-contact surfaces?
+ Sanitize, wash, rinse, and air-dry
+ Wash, sanitize, rinse, and air-dry
+ Wash, rinse, sanitize, and air-dry
+ Rinse, wash, sanitize, and air-dry
+
+
+24.
+A master cleaning schedule should specify all of the following EXCEPT:
+ What needs to be cleaned
+ Who is responsible for cleaning
+ The type of equipment used to prepare food
+ When cleaning should be done
+
+
+25.
+What is the final step in the three-compartment sink method for cleaning and sanitizing utensils?
+ Rinsing with clean water.
+ Soaking in a sanitizer solution.
+ Washing with a detergent.
+ Allowing the items to air-dry.
+
+
+26.
+A food handler has a small, open cut on their hand. What is the correct procedure?
+ Cover the cut with a bandage.
+ Use a hand antiseptic and wear a glove.
+ Cover the cut with a waterproof bandage and wear a single-use glove.
+ Exclude the food handler from working with any food.
+
+
+27.
+What is the MINIMUM amount of time a food handler should spend scrubbing their hands and arms with soap?
+
+ 5 seconds
+ 10 seconds
+ 15 seconds
+ 20 seconds
+
+
+28.
+What is the primary purpose of a "cutting test" for a deli-bakery manager when pricing specialty items like artisan meats or cheeses?
+ To calculate the retail markup percentage based on competitors' pricing strategies.
+ To determine the exact weight and cost of usable product versus trim and waste.
+ To evaluate the taste and quality of the finished specialty product before setting a price.
+ To estimate the amount of time and labor required to prepare and package the item.
+
+
+29.
+When using historical data to forecast product demand, which of the following time series patterns refers to a repeatable increase or decrease in demand that occurs during a period of one year or less, such as holidays or specific days of the week?
+ Trend
+ Cyclic
+ Seasonal
+ Random
+
+
+30.
+What is the primary benefit of accurately forecasting demand for perishable products like those found in a deli-bakery?
+ It makes it easier to track employee sales performance.
+ It allows for more efficient staff scheduling and reduced labor costs.
+ It prevents stockouts of popular items while minimizing overstock and waste.
+ It helps in negotiating better prices with suppliers.
+
+
+31.
+The deli-bakery manager is conducting a morning inspection and notices that an employee's personal coat is stored on a food prep table. What is the correct protocol for storing employee personal belongings?
+ They should be stored on a shelf in the main dry storage area.
+ They can be placed on any unused surface in the kitchen.
+ They must be stored in a designated area or closet, away from food and food-contact surfaces.
+ They should be hung on a hook in the back of the kitchen.
+
+
+32.
+Where are handwashing stations required in a retail food establishment?
+ In the restrooms only.
+ Near chemical, dirty linen, and garbage storage areas.
+ In food prep, service, and ware washing (dishwashing) areas.
+ In break rooms and designated smoking areas.
+
+
+33.
+A new employee is consistently underperforming despite verbal coaching. What is the most appropriate next administrative step?
+ Immediately write a formal performance improvement plan.
+ Schedule a meeting with the employee and a witness from human resources.
+ Document the coaching instances and the employee's performance in a written warning.
+ Terminate the employee's employment to avoid further issues.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
