@@ -1,0 +1,178 @@
+Position Title
+IT Specialist (NETWORK) TITLE 32 INDEFINITE
+Agency
+Air National Guard Units
+Announcement Number
+NH-12857321-AF-25-055 Opens in new window
+Open Period
+Jan 28, 2026 to Feb 23, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Are you a current National Guard member within the state for which this position is being advertised?
+ Yes
+ No
+
+
+Preferences
+1.
+Select the lowest grade you are willing to accept for this position.
+9
+11
+
+
+NATIONAL GUARD REQUIREMENTS
+Please choose the best options for ALL questions in this section. Read the question(s) carefully. Applicant is solely responsible for the accuracy of their answers. HR will not correct or modify your answers. If you have any questions or would like to verify only, we have successfully received your application, please feel free to contact us.
+
+
+1.
+THIS POSITION REQUIRES MILITARY MEMBERSHIP IN THE NEW HAMPSHIRE NATIONAL GUARD. IF YOU DO NOT WANT TO JOIN THE NATIONAL GUARD YOU WILL NOT QUALIFY FOR THIS POSITION.
+
+ AREA 1 - Are you a Permanent or indefinite Military Technicians (Army and Air) currently employed with the NHNG? This includes NHNG AGR’s who are covered under the Uniformed Service Employment and Reemployment Rights Act (USERRA) and have rights back to a Military Technician position.
+ AREA 2 - Are you AGRs, Temporary Military Technicians, traditional/M-Day Soldiers and Airmen currently serving in the NHNG?
+ AREA 3 - Are you an individual eligible for immediate military membership in the New Hampshire National Guard (Army or Air, depending on compatibility) as a military member in the Military grade/rank listed in this announcement?
+ None of the above.
+
+
+2.
+Do you meet the military grade/rank listed on the announcement?    
+
+By clicking yes, I acknowledge that either, 
+
+(1) I am within the military grade/rank(s) listed
+(2) I am currently promotable (today) to the minimum military grade/rank listed or meet eligibility to attend a military commissioning school as applicable 
+(3) I am willing to take a reduction in military grade/rank to be at the maximum military grade/rank listed
+(4) I am currently able to attend a military school to acquire the military grade/rank listed (Must attach Memorandum from Recruiting and Retention to be considered for position)
+ 
+I further acknowledge that, if selected, any personnel action (i.e. appointment, promotion, reassignment, etc) that results from my selection will not be completed until I am within the military grades listed on the announcement.
+
+If 1, 2, 3 or 4 are not applicable, answer No.    
+
+ Yes
+ No
+
+
+3.
+Do you currently have the AFSC listed in the Job announcement?
+
+ Yes
+ No
+
+
+Assessment 1
+Thank you for your interest in the IT Specialist (Network), (GS-2210-9/11) position at our Agency.  We will evaluate your resume and your responses to this Assessment Questionnaire to determine if you are among the best qualified for this position.  Your responses are subject to verification.  The experience stated in your resume must support your assessment responses. In describing your experience, please be clear and specific.  We will not make assumptions regarding your experience.   Please review your responses for accuracy before you submit this questionnaire.  Applicants are solely responsible for the accuracy of their questionnaire answers.  HR will not change, add or modify any answers.  Human Resources WILL NOT divulge if you are qualified or not for the position.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+1.
+Do you have experience administering, developing, delivering, and supporting information technology (IT) systems and services. Knowledge of IT principles, concepts, and methods, e.g., data storage, software applications, networking. Experience, education or training that has provided a basic knowledge of data processing functions and general management principles that enabled the applicant to understand the stages required to automate a work process.
+ Yes
+ No
+
+
+2.
+GS-09 - Do you have 12 months of specialized experience equivalent to the next lower grade (GS-07). specialized experience, education, or training receiving, maintaining, and issuing data storage media for computer operations. Experience in scheduling the use of computer time for program processing. Experience collecting and sequentially staging input media with associated program instructions for processing. Experience in at least one programming language. Translating detailed logical steps developed by others into language codes that computers accept where this required understanding of procedures and limitations appropriate to use of a programming language. Experience interviewing subject-matter personnel to get facts regarding work processes and synthesizing the resulting data into charts showing information flow. Experience in analysis of the interrelationship of pertinent components of the system. Experience planning the sequence of actions necessary to accomplish the assignment. Experience scheduling the sequence of programs to be processed by computers where alternatives had to be weighed with a view to production efficiency
+ Yes
+ No
+
+
+3.
+GS-11 - Do you have 12 months of specialized experience equivalent to next lower grade (GS-09). Specialized experience, education, or training that approaches techniques and requirements appropriate to an assigned computer applications area or computer specialty area in an organization. Experience planning the sequence of actions necessary to accomplish the assignment where this entailed coordination with others outside the organizational unit and development of project controls. Experience that required adaptations of guidelines or precedents to meet the needs of the assignment. Experience preparing documentation on cost/benefit studies where is involved summarizing the material and organizing it in a logical fashion.
+ Yes
+ No
+
+
+The following section will be used to determine your level of knowledge, skill, and ability for this position.  The knowledge, skills and abilities must be reflected in your resume as relevant experiences in order to be considered for the position.  
+
+
+
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+
+
+4.
+Knowledge of IT network systems design principles, methodologies, and approaches used in developing, testing, installing, operating, managing, and maintaining network services that support functional requirements.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+5.
+Knowledge of the organization's network architecture, topology, and protocols sufficient to plan, design, develop, and integrate network systems and security plans and procedures consistent with existing or planned network infrastructures.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+6.
+Knowledge of methods, techniques, and processes for the integration and optimization of LAN/WAN components, infrastructure requirements, and test and evaluation methods sufficient to install and operate base wide programs and provide technical guidance to others in designing, testing, operating, and maintaining network programs.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+7.
+Knowledge of a wide variety of established commercial network design programs and how they interrelate and function within various environments.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+8.
+Skill in applying IT network development concepts and techniques to provide computer applications which provide optimal functional support for users.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+9.
+Ability to analyze functional IT network system requirements, translate findings into functional requirements, develop supportable recommendations for enhancement, and apply a wide range of methodologies and tools.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+10.
+Ability to serve as a team leader or member of special projects and to coordinate and document the work of the team.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+11.
+Ability to communicate both orally and in writing.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+12.
+Ability to maintain an up-to-date awareness of technological advances and predict how management can meet future requirements.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
