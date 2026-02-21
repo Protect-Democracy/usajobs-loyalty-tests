@@ -1,0 +1,103 @@
+Position Title
+ELECTRONIC INTEGRATED SYSTEMS MECHANIC
+Agency
+Air National Guard Units
+Announcement Number
+NE-12860940-AF-26-015 Opens in new window
+Open Period
+Jan 08, 2026 to Sep 26, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Preferences
+1.
+Select the lowest grade you are willing to accept for this position.
+12
+13
+
+
+CONDITIONS OF EMPLOYMENT
+1.
+This position is open to applicants Area 1, 2 and 3 applicants. What is your current area of consideration?
+
+AREA 1: Current permanent and indefinite technicians of the Nebraska Army or Air National Guard; and current Title 5 employees of the Nebraska Military Department who are military members of the Nebraska National Guard.
+AREA 2: All Drill Status/M-Day members and temporary technicians of the Nebraska Air or Army National Guard.
+AREA 3: Current military service members who are willing and eligible to become members of the Nebraska Air or Army National Guard.
+AREA 4: All qualified candidates eligible and willing to become a member of the Nebraska National Air or Army National Guard prior to the effective date of hire.
+ Area 1; I am a current permanent or indefinite technician of the Nebraska Army or Air National Guard; or a current Title 5 employee of the Nebraska Military Department and military member of the Nebraska National Guard.
+ Area 2; I am a Drill Status/M-Day Member or temporary technician of the Nebraska Air or Army National Guard.
+ Area 3; I am a current military service member who is willing and eligible to become a member of the Nebraska Air or Army National Guard. I understand I must become a member of the respective Nebraska National Guard prior to the effective date of hire.
+ Area 4; I am a qualified candidate, eligible and willing to become a member of the Nebraska National Air or Army National Guard. I understand I must become a member of the respective Nebraska National Guard prior to the effective date of hire.
+ I am unwilling to join the Nebraska National Army or Air National Guard.
+
+
+MILITARY MEMBERSHIP IS REQUIRED FOR THIS POSITION. FOR QUESTIONS REGARDING ELIGIBILITY TO JOIN THE NEBRASKA AIR NATIONAL GUARD PLEASE CONTACT THE LOCAL RECRUITING OFFICE AT 402-309-1172.
+
+
+2.
+Are you an enlisted member in the grades of E1 - E6?
+ Yes. I am an enlisted member in the grades of E1 - E6.
+ No. I am not an enlisted member in the grades of E1 - E6.
+ I am unwilling to join the Nebraska Air National Guard.
+
+
+3.
+APPLICANTS MUST BE ABLE TO OBTAIN AN MINIMUM OF A SECRET CLEARANCE TO BE CONSIDERED ELIGIBLE. Do you currently possess a Secret or higher security clearance, OR ABLE TO OBTAIN a Secret Clearance?
+ Yes
+ No
+
+
+Assessment 1
+Please answer all questions.
+
+
+1.
+Experience or training which demonstrates the applicant's knowledge to perform duties such as, install, modify, overhaul, maintain, troubleshoot, repair, align, calibrate, and rebuild multi-system avionics complexes. Ability to collect and analyze data effectively, efficiently, and accurately. Able to apply procedures and directives by reading and interpreting material. Ability to communicate clearly and effectively. Applicant must have a validated understanding of the basic principles and concepts of the occupational series and grade.
+ Yes
+ No
+
+
+2.
+
+WG-12: Do you possess 18 months experience or training demonstrating the ability to repair, align, and adjust major integrated electronic systems such as inertial navigation system, automatic flight control, or fire control system. Extensive knowledge of electronic, pneumatic, hydraulic, and mechanical systems in order to understand and predict the progressive effects of malfunctions throughout the interrelated units, and to predict areas of technical difficulty in order to assist lower grade employees. Through knowledge of the application of electronic theories and practices to one or more complex integrated systems such as fire control, inertial navigation, or automatic landing control systems. Broad knowledge of such applications as radar, digital or analog computers, digital or cathode ray tube display devices, etc., and specific knowledge of the technology and practices which integrate these components into a total functional system. Knowledge of mathematics including algebra and basic trigonometric functions in order to adapt standard formulas to the specific requirements of the integrated system. Ability to follow drawings for integrated electronic systems such as radar navigation systems which integrate terrain information from the radar, pitch, roll, and turn rate, etc. from sensing devices and actuate control relays. Ability to trace the effect of a change in one subsystem to other integrated subsystems and determine which controls and devices must be changed or adjusted to compensate. Ability to diagnose and determine needed repairs for malfunctions in electronics systems such as weapons control where knowledge of the entire system is necessary to interpret error data and trace back through a number of units of the system to locate the deficiency.
+
+ Yes
+ No
+
+
+3.
+WG-13: Do you posses 18 months experience or training demonstrating the ability to repair, overhaul, rebuild, align, and adjust complete multi-systems such as the electronics package in a highly automated aircraft where target acquisition and tracking, weapons control, aircraft attitude control, navigation, and other complex functions are performed by numerous systems which are extensively interconnected with data feedback loops. Applies comprehensive knowledge of all major units of the complete multisystem, i.e., how they function independently, how they are interfaced in the integrated subsystems, and how the subsystems interact to achieve operating specifications. Able to determine proper sequence of operations and start point in sequential operations in order to pinpoint areas of malfunction. Extensive practical knowledge of the theories and practices of electromagnetic propagation, electronic circuits, computer theory, hydraulic or pneumatic control and power systems, and many other areas covering a wide range of system applications. Broad knowledge of the interactions among a number of closely integrated complex systems. Knowledge of mathematics, including trigonometry, to calculate power relation ships, signal phasing, etc. Ability to interpret drawings for multisystem complexes such as the complete electronics package for an aircraft including numerous interconnections of signal paths both between and within individual subsystems of the multisystem complex. Ability to isolate malfunctions of complete multiple integrated systems consisting of closely interrelated fire control, bombing-navigation, flight control, countermeasures or similar systems and to determine the methods of repair where extremely complex relationships exist among numerous interconnected units and control circuits not only within the individual control systems but between them as well, requiring complete knowledge of all electronic, mechanical, and or optical systems and units. Performs on-equipment or off-equipment maintenance on one or more complete electronic integrated systems associated with the assigned aircraft, and/or maintenance on automatic flight control systems, instrument systems, inertial and radar navigation systems.
+ Yes
+ No
+
+
+4.
+Describe a time you were responsible for troubleshooting a complex, multi-system malfunction on an aircraft. Please detail the initial symptoms, the specific steps you took to isolate the fault using technical orders, schematics, and test equipment, and how you ultimately returned the integrated system to full operational status.
+
+
+5.
+Provide an example of a situation where you analyzed maintenance data and identified a negative trend or an opportunity for improvement. How did you use this analysis to propose changes to maintenance procedures or suggest equipment modifications? What was the outcome of your recommendation?
+
+
+6.
+Think about a challenging on- or off-equipment repair you performed that required diagnosing a fault down to the component or circuit-card level. What specific test equipment (e.g., ATE, oscilloscope, signal analyzers) did you use, and how did you use it in conjunction with technical diagrams to pinpoint the defective component and complete the repair?
+
+
+7.
+Describe an instance where you identified a deficiency in equipment, software, or technical data based on your maintenance work or from an aircrew debriefing. What was the issue? Explain the process you followed to document the malfunction, report the deficiency, and recommend a change to improve performance or procedures.
+
+
+8.
+As previously explained, your ratings in this Occupational Questionnaire are subject to evaluation and verification based on the documents and references you submit. Later steps in the selection process are specifically designed to verify your responses. Deliberate attempts to falsify information will be grounds for not selecting you from employment following acceptance.
+
+I understand that if I make an intentional false statement, or commit deception or fraud in this application and its supporting materials, or in any documents or interview associated with the examination process, I may be fined or imprisoned (18 USC 1001); my eligibility may be canceled, I may be denied an appointment or I may be removed and debarred from Federal Service (5 CFR part 731). I understand that any information I give will be investigated.
+
+Please take this opportunity to review your ratings to ensure their accuracy. By agreeing to the statement below, you are confirming that you: (1) understand this warning, (2) have reviewed your responses to this questionnaire for accuracy, (3) verify that your responses accurately describe your current level of experience and capability; and (4) realize you must join the respective Nebraska National Guard and wear the military uniform.
+
+Failure to agree to this statement or answer this question will make you ineligible from further consideration for the position.
+ Yes, I certify that all of my responses to this questionnaire are true and accurate. I accept that if my supporting documentation and/or later steps in the selection process do not support one or more of my responses to the questionnaire that I will be removed from consideration and I understand that information provided above.
+ No, I do not accept this agreement provided above and or I no longer wish to be considered for this position.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙

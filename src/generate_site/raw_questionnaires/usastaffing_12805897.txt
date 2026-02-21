@@ -1,0 +1,192 @@
+Position Title
+Computer Scientist (Data Scientist)
+Agency
+U.S. Coast Guard
+Announcement Number
+20250909-71178-43977-AP-EXC Opens in new window
+Open Period
+Feb 11, 2026 to Feb 25, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+Assessment 1
+1.
+From the description below, choose the letter beside the statement that BEST describes your experience and/or education that you possess that demonstrates your ability to perform the duties of this position, GS-1550-14. SELECT ONLY ONE RESPONSE
+ I have at least one year of specialized experience equivalent to the GS-13 level in the Federal service or equivalent in other pay systems that equipped me with the particular knowledge, skills and abilities (KSAs) to perform successfully the duties of this position, and that is in or related to the position to be filled. An example of this experience includes developing software systems, high-speed computing systems; real time data acquisitions systems, simulation modeling, data analysis and complex electronic instrumentation systems for testing weapon system installation, and developing and applying system evaluation methods and techniques to major portions of large projects of studies. (NOTE: YOUR RESUME MUST SUPPORT THIS STATEMENT.)
+ I do not have the specialized experience described in statement A above.
+
+
+2.
+From the descriptions below, select the letter corresponding to the statement that most clearly and accurately describes your Computer Scientist education. SELECT ONE RESPONSE. NOTE: YOUR RESUME MUST SUPPORT THE RESPONSE YOU SELECT. (NOTE: YOU MUST SUBMIT A COPY OF YOUR OFFICIAL COLLEGE TRANSCRIPT)
+
+ I have a bachelor's degree in computer science or a Bachelor's degree from an accredited or pre-accredited institution with 30 semester hours in a combination of mathematics, statistics, and computer science. At least 15 of the 30 semester hours included a combination of statistics and mathematics that consisted of differential and integral calculus.
+ I do not meet the requirements described in statements A above.
+
+
+3.
+Select the statements that best describe your experience with machine learning or statistical modeling.
+ A. Supervised/unsupervised learning
+ B. Model validation & performance metrics
+ C. Feature engineering
+ D. Deployment or operationalization.
+ E. No experience.
+
+
+4.
+Which statement best describes your experience applying advanced data science techniques?
+ I have led the design and implementation of advanced analytics, machine learning, or statistical models to solve complex organizational problems.
+ I have independently developed data models and analytics to support decision-making.
+ I have assisted in developing models under supervision.
+ I have education or training but limited practical experience.
+ I have no experience in this area.
+
+
+5.
+Describe your experience designing or managing large-scale data systems.
+ I have no experience in performing this work, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+6.
+What best describes your experience conducting research or developing innovative analytical approaches?
+ I have no experience in performing this work, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+7.
+Which statement best describes your experience applying advanced data science techniques to intelligence, cyber, law enforcement, or operational data?
+ I have led the design, development, and implementation of advanced analytics, machine learning, or statistical models to support intelligence, cyber, or operational decision-making at the organizational or enterprise level.
+ I have independently developed advanced analytics to support mission objectives.
+ I have assisted with analytics development under supervision.
+ I have completed education or training but have limited practical experience.
+ I have no experience.
+
+
+8.
+Select the statement that best describes your experience working with intelligence, cyber, or law enforcement data sources.
+ I have served as a technical authority integrating, analyzing, and interpreting sensitive or classified intelligence, cyber, or law enforcement data to support mission operations.
+ I have independently analyzed mission data to support operational decisions.
+ I have assisted with data analysis efforts.
+ Education/training only.
+ No experience.
+
+
+9.
+What is your level of experience developing and deploying machine learning or statistical models?
+ I have led the development, validation, and deployment of machine learning or statistical models, established best practices, and advised senior leadership on model results and limitations.
+ I have performed this work independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have no experience in performing this work, but I am willing to learn.
+
+
+10.
+Describe your experience designing or overseeing data architecture and analytical systems.
+ I have designed or overseen end-to-end data architectures, including ingestion, storage, processing, and analytics, ensuring compliance with security, privacy, and governance requirements.
+ I have assisted with the design or monitored end-to-end data architectures, including ingestion, storage, processing, and analytics, ensuring compliance with security, privacy, and governance requirements.
+ I have worked with design and looked at end-to-end data architectures, including ingestion, storage, processing, and analytics, ensuring compliance with security, privacy, and governance requirements.
+ I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have no experience in performing this work, but I am willing to learn.
+
+
+11.
+Which statement best describes your experience applying statistical or machine-learning techniques?
+ I am not familiar with statistical or machine-learning concepts.
+ I am familiar with statistical or machine-learning concepts.
+ I applied predefined models or methods to routine datasets.
+ I selected and applied appropriate models for moderately complex problems.
+ I independently selected, adapted, and applied advanced statistical or machine-learning techniques to solve complex, non-routine analytical problems.
+
+
+12.
+Select the statement that best describes your experience conducting research or developing innovative analytical solutions.
+ I have no experience in performing this work, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work
+
+
+13.
+What is your experience working in secure or controlled computing environments?
+ I have led or advised on data science or analytics solutions in secure, classified, or restricted environments, ensuring compliance with cybersecurity and information assurance requirements.
+ I have performed this work independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have no experience in performing this work, but I am willing to learn.
+
+
+14.
+Which statement best describes your experience contributing to policy, standards, or strategic initiatives?
+ I have no experience in performing this work, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+15.
+Which statement best describes your experience working with complex data environments?
+ I worked with small, well-structured datasets from a single source.
+ I queried databases or datasets using predefined queries.
+ I integrated data from multiple sources using established processes.
+ I independently worked with large-scale, complex, or unstructured data environments including data extraction, transformation, integration, and management across multiple systems.
+ I have not worked with datasets
+
+
+For each item, select the one response that most accurately describes your current level of experience and capability using the scale below.
+
+
+16.
+Which of the following statements best describes your experience in leading complex data analysis projects that cross organizational boundaries to inform strategic decision-making?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+17.
+Which statement best describes your experience solving analytical or computational problems?
+ I solved routine problems with clear precedents.
+ I applied established analytical techniques to defined problems.
+ I adapted existing methods to address moderately complex issues.
+ I independently solved complex, novel analytical or computational problems where precedents were limited and required innovation or adaptation of methods.
+ I have no experience in this area.
+
+
+18.
+Senior CGCIS leadership requests a briefing on insider threat risk trends but has limited technical background.  What is the most effective approach?
+ Provide raw datasets for transparency.
+ Present detailed model architecture and algorithms.
+ Use visual analytics and clearly explain risk implications and confidence levels.
+ Focus exclusively on historical incidents.
+ I'll present a 40-slide deck of raw system logs, and complex encryption protocols.
+
+
+19.
+Failure to agree or respond to the statement below will disqualify you from further consideration for the position. Select the most appropriate response below.
+ Yes, I verify that all of my responses to this questionnaire are true and accurate. I accept that if my supporting documentation and/or later steps in the selection process do not support one or more of my responses to the questionnaire that my rating will be lowered and/or I may be removed from further consideration.
+ No, I do not accept this agreement and/or I no longer wish to be considered for this position.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
