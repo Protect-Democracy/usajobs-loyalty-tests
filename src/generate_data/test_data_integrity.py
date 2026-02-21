@@ -241,12 +241,18 @@ def run_tests():
     
     # Test 1: Current data files exist and are valid
     print_header("1. CURRENT DATA FILES")
-    
+
+    current_year = datetime.now().year
     current_files = [
         ('current_jobs_2024.parquet', 100, ['positionTitle'], 'Current jobs 2024'),
         ('current_jobs_2025.parquet', 100, ['positionTitle'], 'Current jobs 2025')
     ]
-    
+    # Add current year's file if it's 2026 or later
+    if current_year >= 2026:
+        current_files.append(
+            (f'current_jobs_{current_year}.parquet', 1, ['positionTitle'], f'Current jobs {current_year}')
+        )
+
     for filename, min_rows, cols, desc in current_files:
         if not check_parquet_file(f'../../data/{filename}', min_rows, cols, desc):
             all_passed = False
@@ -263,9 +269,12 @@ def run_tests():
     
     # Test 3: Data recency
     print_header("3. DATA RECENCY")
-    
-    # Current data should be no more than 7 days old
-    if not check_data_recency('../../data/current_jobs_2025.parquet', 7, 'Current 2025 data recency'):
+
+    # Check recency on the current year's file (or most recent available)
+    recency_file = f'../../data/current_jobs_{current_year}.parquet'
+    if not os.path.exists(recency_file):
+        recency_file = f'../../data/current_jobs_{current_year - 1}.parquet'
+    if not check_data_recency(recency_file, 7, f'Current data recency ({os.path.basename(recency_file)})'):
         all_passed = False
     
     # Test 4: No data loss

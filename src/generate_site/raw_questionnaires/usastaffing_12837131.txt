@@ -1,0 +1,98 @@
+Position Title
+ELECTRONIC INTEGRATED SYSTEMS MECHANIC (Title 32)
+Agency
+Air National Guard Units
+Announcement Number
+TX-12837131-AF Opens in new window
+Open Period
+Feb 09, 2026 to Feb 23, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Preferences
+1.
+Select the lowest grade you are willing to accept for this position.
+12
+13
+
+
+2.
+Are you a current member of the state National Guard for which this position is being advertised, or are you willing and eligible to become a member?
+ Yes
+ No
+
+
+3.
+For positions requiring the operation of motor vehicles, candidates must have a valid state driver's license for the state in which they live or are principally employed. Do you meet this requirement?
+ Yes
+ No
+
+
+Assessment 1
+Answer each question to the best of your ability and knowledge. Responses will be verified against your Resume and may be adjusted based on the results of your application review. In describing your experience in your resume, please be clear and specific. Assumptions regarding your experience will not be made.
+
+
+1.
+What is your current Federal Technician or Military status? Please make an appropriate choice.
+
+ I am currently a Permanent, Indefinite, or Temporary Federal Technician with the Texas Air National Guard.
+ I am currently a traditional member of the Texas Air National Guard.
+ I am currently a member of another component.
+ I am a former member of another component.
+ I am a civilian with no prior military experience or training.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+2.
+Are you an E-3/A1C not to exceed E-6/TSgt? Members of another branch of service, or prior service members should ensure they are eligible and willing to join the Texas Air National Guard in the rank of E-3/A1C not to exceed E-6/TSgt. Civilians without prior service should respond "No".
+ Yes
+ No
+
+
+3.
+Do you currently possess one of the following primary or secondary Compatible Military Assignments? Or are you eligible and able to complete the MOS qualifications and requirements to fall within the listed Compatible Military Assignment within 12 months of your appointment?
+AFSC: 2A3X4, 2A9X4X, 2A3X5X
+ Yes
+ No
+
+
+4.
+Please type your rank and AFSC in the space provided below. If you are a member of another branch of service, please include your branch, rank and military specialty. Prior service members should include their last rank held and military specialty. Civilians should type "N/A".
+
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+5.
+To qualify for the WG-2610-12 Electronic Integrated Systems Mechanic you must have experience or training demonstrating the ability to repair, align, and adjust major integrated electronic systems such as inertial navigation system, automatic flight control, or fire control system. Extensive knowledge of electronic, pneumatic, hydraulic, and mechanical systems in order to understand and predict the progressive effects of malfunctions throughout the interrelated units, (e.g., trace an apparent operating error in the hydraulic controls of a gun mount back to the failure of a tactical computer to integrate yaw, pitch, azimuth, and velocity inputs) and to predict areas of technical difficulty in order to assist lower grade employees. Through knowledge of the application of electronic theories and practices to one or more complex integrated systems such as fire control, inertial navigation, or automatic landing control systems. Broad knowledge of such applications as radar, digital or analog computers, digital or cathode ray tube display devices, etc., and specific knowledge of the technology and practices which integrate these components into a total functional system. Knowledge of mathematics including algebra and basic trigonometric functions in order to adapt standard formulas to the specific requirements of the integrated system. Ability to follow drawings for integrated electronic systems such as radar navigation systems which integrate terrain information from the radar, pitch, roll, and turn rate, etc. from sensing devices and actuate control relays. Ability to trace the effect of a change in one subsystem to other integrated subsystems and determine which controls and devices must be changed or adjusted to compensate. Ability to diagnose and determine needed repairs for malfunctions in electronics systems such as weapons control where knowledge of the entire system is necessary to interpret error data and trace back through a number of units of the system to locate the deficiency. Do you meet these qualifications?
+
+ Yes
+ No
+
+
+6.
+To qualify for the WG-2610-13 Electronic Integrated Systems Mechanic you must have experience or training demonstrating the ability to repair, overhaul, rebuild, align, and adjust complete multi-systems such as the electronics package in a highly automated aircraft where target acquisition and tracking, weapons control, aircraft attitude control, navigation, and other complex functions are performed by numerous systems which are extensively interconnected with data feedback loops. Applies comprehensive knowledge of all major units of the complete multisystem, i.e., how they function independently, how they are interfaced in the integrated subsystems, and how the subsystems interact to achieve operating specifications. Able to determine proper sequence of operations and start point in sequential operations in order to pinpoint areas of malfunction. Extensive practical knowledge of the theories and practices of electromagnetic propagation, electronic circuits, computer theory, hydraulic or pneumatic control and power systems, and many other areas covering a wide range of system applications. Broad knowledge of the interactions among a number of closely integrated complex systems. Knowledge of mathematics, including trigonometry, to calculate power relation ships, signal phasing, etc. Ability to interpret drawings for multisystem complexes such as the complete electronics package for an aircraft including numerous interconnections of signal paths both between and within individual subsystems of the multisystem complex. Ability to isolate malfunctions of complete multiple integrated systems consisting of closely interrelated fire control, bombing-navigation, flight control, countermeasures or similar systems and to determine the methods of repair where extremely complex relationships exist among numerous interconnected units and control circuits not only within the individual control systems but between them as well, requiring complete knowledge of all electronic, mechanical, and or optical systems and units. Performs on-equipment or off-equipment maintenance on one or more complete electronic integrated systems associated with the assigned aircraft, and/or maintenance on automatic flight control systems, instrument systems, inertial and radar navigation systems. Do you meet these qualifications?
+
+ Yes
+ No
+
+
+7.
+Do you currently have a Secret security clearance? -OR- Are you eligible to obtain a Secret clearance within one year of appointment?
+
+ Yes
+ No
+
+
+8.
+Your responses in this questionnaire are subject to evaluation and verification based on the documents and references you submit. Later steps in the selection process are specifically designed to verify your responses. Deliberate attempts to falsify information may be grounds for not selecting you or for dismissing you from the position/agency, if selected. Review your responses to ensure their accuracy. By agreeing to the statement below, you are confirming that you 1) understand this warning, 2) have reviewed your responses for accuracy, and 3) verify that your responses accurately describe your current level of experience and capability.
+
+ Yes, I verify that all of my responses to this questionnaire are true and accurate. I accept that if my supporting documentation and/or later steps in the selection process do not support one or more of my responses to the questionnaire that my application may be rated lower and/or I may be removed from consideration.
+ No, I do not accept this agreement and/or I no longer wish to be considered for this position.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙

@@ -1,0 +1,246 @@
+Position Title
+IT Cybersecurity Specialist
+Agency
+National Endowment for the Humanities
+Announcement Number
+26-12889913-DH-PO Opens in new window
+Open Period
+Feb 20, 2026 to Mar 06, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+Are you a current or former federal employee displaced from the agency hiring for this position? If yes, confirm:
+you are located in the same local commuting area of the vacancy
+your grade is equivalent to or below the grade level of the vacancy AND
+your last performance rating of record was at least fully successful or the equivalent.
+You will be required to submit supporting documentation to validate your claim of CTAP eligibility such as a Reduction in Force (RIF) separation notice or a Proposed Removal/Separation notice and a copy of your latest Notification of Personnel Action, Standard Form 50.
+
+For more information on CTAP eligbility, review the USAJOBS Resource Center here.
+ Yes
+ No
+
+
+3.
+Are you a current or former federal employee displaced from a position in a federal agency other than the agency hiring for this position?
+
+If yes, confirm:
+you are located in the same local commuting area of the vacancy
+your grade is equivalent to or below the grade level of the vacancy and
+your last performance rating of record is at least fully successful or the equivalent.
+You will be required to submit supporting documentation to validate your claim of ICTAP eligibility such as a Reduction in Force (RIF) separation notice or a Proposed Removal/Separation notice and a copy of your latest Notification of Personnel Action, Standard Form 50. 
+
+For more information, review the USAJOBS Resource Center here.
+ Yes
+ No
+
+
+Short Essay Questions
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+
+
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+
+
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+
+
+3.
+How would you help advance the President's Executive Orders and policy priorities in this role? Identify one or two relevant Executive Orders or policy initiatives that are significant to you, and explain how you would help implement them if hired.
+
+
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+
+
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+
+
+Assessment 1
+1.
+From the following descriptions, please select the one (1) statement that best describes your experience that qualifies you for the IT Cybersecurity Specialist GS-2210-13.
+ I possess at least one (1) year of specialized work experience equivalent to at least the GS-12 level in the federal service. Specialized experience is (1) coordination, implementation, and enforcement of cybersecurity policies; (2) continuously monitors, periodically reviews, manages, and reports on IT systems, related tasks, processes, policies, and procedures; (3) develops policies, guidelines, training material, documentation, and technical drawings related to cybersecurity; (4) stays informed on government-wide laws, regulations, and guidelines related to cybersecurity including FISMA, NIST’s Risk Management Framework, Special Publications SP-800-53, and CISA’s Strategies, Models, and Pillars for Zero Trust; (5) provides cybersecurity coaching, advice, and instruction to organization staff.
+ I do not meet the qualification requirements above.
+
+
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+
+
+2.
+Coordinate, implement, and enforce cybersecurity policies and procedures to ensure agency compliance with government-wide and agency specific requirements
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+3.
+Ensure the confidentiality, integrity, and availability of systems, networks, and data through the planning, analysis, development, implementation, maintenance, and enhancement of information systems security programs, policies, procedures, and tools.  Identifies the need for changes based on new security technologies or threats.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+4.
+Conduct cybersecurity reviews and risk assessments for on premises, network, mobile, telework, and cloud services systems.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+5.
+Coordinate the implementation of security programs across platforms and disciplines including web-based applications, network, and systems architecture. This includes initial design, system lifecycle, change review, and configuration management.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+6.
+Review and evaluate change requests for proposed new systems, hardware, networks, and software for security compliance, risks, and vulnerabilities. Recommends cybersecurity resources for acquisition and participates in identifying and writing specifications to meet IT security requirements.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+7.
+Continuous monitoring of cybersecurity activity and system configurations through audits and reviews.  Engage information technology workers to address progress and goal achievement.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+8.
+Report on organization systems for FISMA and other cybersecurity related data calls.  Collects and formats evidence to be provided to OMB, CISA, Inspector General, and auditors.  Follows provided guidance to submit accurate and timely information.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+9.
+Maintain and support agency processes to meet organizational policy for IT security.  Oversee security review schedule and work with colleagues to ensure activities are completed as required by IT security policies.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+10.
+Coordinate IT security awareness training program for end users throughout the organization.  Tracks measures to ensure awareness and compliance.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+11.
+Document and update configuration, policy, and procedural changes to organizational systems. This includes governance documents pertaining to NIST SP 800-53 Security and Privacy Controls, IT System Security Plans, and other related IT security artifacts.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+12.
+Write easy to understand guidelines and tips for users to follow.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+13.
+Expert on government security laws and regulations.  Comprehends the NIST Risk Management Framework and related guidance including SP 800-53.   Expert on CISA cybersecurity programs, frameworks, and strategies like zero trust.  Interprets government-wide cybersecurity requirements and applies it to information technology systems to ensure compliance.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+14.
+Modify, adapt, and/or refine broader guidelines to resolve specific complex and/or intricate issues and problems; and identify and research trends and patterns to develop new methods and criteria and/or propose new policies and practices.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+15.
+Promote the identification and use of best practices (Government or industry) for software application configurations, devices, cloud systems, networks, and support tools.  Stays abreast of state-of-the-art activities related to cybersecurity.   Promote metrics and dashboards to measure the effectiveness of information system cybersecurity efforts.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+16.
+Establish and maintain liaison with internal and external groups working on cybersecurity, legal, internal audit, physical security, and other information security matters.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+17.
+Provide helpdesk support to users to improve cybersecurity including coaching, advice, and instruction to employees and supervisors on security issues.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+18.
+As noted in the vacancy announcement, your ratings in this Occupational Questionnaire are subject to evaluation and verification based on the documents and references you submit. Deliberate attempts to falsify information may be grounds for not selecting you or for dismissing you from the position/agency during the probation period. Please take this opportunity to review your ratings to ensure their accuracy. By agreeing to the statement below, you are confirming that you:
+
+* Understand this warning;* Have reviewed your responses to this questionnaire for accuracy; and
+
+* Verify that your responses accurately describe your current level of experience and capability.
+
+Failure to agree to the statement below will disqualify you from further consideration for this position.
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
