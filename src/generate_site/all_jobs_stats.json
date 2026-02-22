@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "total_jobs": 124533,
+    "total_jobs": 124535,
     "cutoff_date": "2025-06-01",
-    "generation_date": "2026-02-21T09:24:36.260658"
+    "generation_date": "2026-02-22T09:16:21.502911"
   },
   "by_service_type": {
-    "Competitive": 74916,
-    "Excepted": 49175,
+    "Competitive": 74917,
+    "Excepted": 49176,
     "Senior Executive": 442
   },
   "by_grade_level": {
@@ -15,14 +15,14 @@
     "VN-00": 7732,
     "GS-11": 6138,
     "GS-9": 5113,
-    "GS-7": 4334,
+    "GS-7": 4335,
     "GS-6": 4284,
     "GS-14": 4079,
     "VM-15": 3245,
     "GS-9/11": 3171,
     "GS-5": 2870,
     "WG-10": 2430,
-    "NF-2": 2428,
+    "NF-2": 2429,
     "GS-3/6": 2019,
     "GS-15": 1969,
     "NF-3": 1915,
@@ -32,12 +32,12 @@
     "NF-4": 1464
   },
   "by_location": {
-    "Washington, District of Columbia": 4928,
+    "Washington, District of Columbia": 4927,
     "Salt Lake City, Utah": 1011,
     "San Diego, California": 960,
-    "Phoenix, Arizona": 922,
+    "Phoenix, Arizona": 923,
     "Indianapolis, Indiana": 732,
-    "San Antonio, Texas": 728,
+    "San Antonio, Texas": 729,
     "Battle Creek, Michigan": 727,
     "Fort Meade, Maryland": 681,
     "Portland, Oregon": 658,
@@ -55,10 +55,10 @@
   },
   "by_agency": {
     "Department of Veterans Affairs": 45730,
-    "Department of the Air Force": 14514,
+    "Department of the Air Force": 14515,
     "Department of the Navy": 14375,
     "Department of Defense": 12394,
-    "Department of the Army": 11528,
+    "Department of the Army": 11529,
     "Department of Justice": 6386,
     "Department of Homeland Security": 5938,
     "Department of the Interior": 3029,
@@ -83,7 +83,7 @@
     "0679 - Medical Support Assistance": 2389,
     "1702 - Education And Training Technician": 2387,
     "2210 - Information Technology Management": 2358,
-    "0189 - Recreation Aid And Assistant": 2198,
+    "0189 - Recreation Aid And Assistant": 2199,
     "1101 - General Business And Industry": 2044,
     "0620 - Practical Nurse": 1955,
     "0610 - Unknown": 1948,
