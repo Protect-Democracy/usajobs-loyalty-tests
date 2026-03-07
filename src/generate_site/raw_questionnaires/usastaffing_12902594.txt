@@ -1,0 +1,208 @@
+Position Title
+Data Scientist (Artificial Intelligence Risk)
+Agency
+Defense Logistics Agency
+Announcement Number
+DLAJ6-26-12902594-DHA Opens in new window
+Open Period
+Mar 06, 2026 to Mar 14, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+Are you the spouse of a current Department of Defense, Department of State, or intelligence community employee who is being transferred in the interest of the Government from one official station within the Department to another within the Department for permanent duty?
+
+Supporting Documentation: You are required to submit proof of marriage AND permanent change of station (PCS) orders: spouse's PCS orders (showing you as a dependent) and/or copy of marriage certificate. If you are a current or previous Federal employee, please include  your most recent SF-50.
+ Yes
+ No
+
+
+Preferences
+1.
+Your responses in this Assessment Questionnaire are subject to evaluation and verification. Later steps in the selection process are specifically designed to verify your responses. Information provided in the application process may be investigated. Deliberate attempts to falsify your application information may result in being removed from consideration and could be grounds for disqualifying you or for dismissing you from employment should you be selected for this position. Please ensure the responses you provide are accurate and truthful.
+
+Certification of Information Accuracy - I certify that, to the best of my knowledge and belief, all of the information submitted by me in this application, supporting materials and/or information provided in any interview associated with the examination process will be true and accurate; and that misrepresenting my experience or education, or providing false or fraudulent information, may be grounds for not hiring me, disciplinary action or termination; and that false or fraudulent statements may be punishable by fine or imprisonment (18 U.S.C. 1001).
+
+ Yes, I verify that all of my responses to the questionnaire will be true and accurate. I accept that if my supporting documentation and/or later steps in the selection process do not support one or more of my responses to the questionnaire that my application may be rated lower and/or I may be removed from consideration.
+ No, I do not accept this agreement and/or I no longer wish to be considered for this position.
+
+
+2.
+Select the location(s) you want to be considered for. You must choose at least one location.
+ A. Battle Creek, MI
+ B. Whitehall, OH
+ C. Wright-Patterson AFB, OH
+ D. New Cumberland Defense Logistics Center, PA
+ E. Philadelphia, PA
+ F. Hill AFB, UT
+ G. Fort Belvoir, VA
+ H. Richmond, VA
+
+
+3.
+Are you a former Federal employee who has retired and is receiving an annuity either under the Civil Service Retirement System (CSRS) or Federal Employees Retirement System (FERS)?
+NOTE: If you are receiving a temporary medical disability retirement OR are a retired Military Service Member your response should be NO.
+ Yes
+ No
+
+
+4.
+This question is for informational purposes only. Please select from the following to indicate how you discovered the position you are currently applying for. You may select more than one item.
+ A. Referred by a Current or Former Defense Logistics Agency Employee
+ B. LinkedIn
+ C. Handshake
+ D. Facebook
+ E. Yello
+ F. USAJOBS
+ G. Virtual Career Event
+ H. In-Person Career Event
+ I. Veteran Employment Services
+ J. State Labor Office
+ K. Internal Defense Logistics Agency Posting
+ L. Other Social Media Site
+ M. Other Recruitment Boards
+ N. Other Federal Agency Referral
+ O. Television/Radio Advertisement
+
+
+Assessment 1
+1.
+The purpose of this next question is to verify that you meet the basic requirements for this position. Please select the best answer that fits your situation. FAILURE TO ANSWER THIS QUESTION WILL MAKE YOU INELIGIBLE. *ALL APPLICANTS MUST PROVIDE SUPPORTING DOCUMENTATION TO SUPPORT THIS BASIC REQUIREMENT.
+
+ I have a bachelor's or higher degree in Mathematics, statistics, computer science, data science or field directly related to the position.
+ I have a combination of education with courses equivalent to a major field of study (30 semester hours) as shown in paragraph A above, plus additional education or appropriate experience.
+ I do not possess the required level of education to qualify for this position.
+
+
+2.
+From the descriptions below, select the letter that BEST describes the highest level of education and/or experience that you fully possess in order to minimally qualify for this position. Read all of the statements completely before making your selection.
+
+ I possess one year of specialized experience at the GS-14 grade level or equivalent under other pay systems in the Federal service, military, or private sector. My creditable specialized experience includes: Implements AI guidance ensuring responsible AI for AI acquisition, development, and deployment within organizations; Identifies methods, processes, algorithms, tools, and systems to extract and interpret varied structured and unstructured data sets findings related to the execution of data science and artificial intelligence program in developing and implementing responsible AI ethics reporting methods; Provides implementation program oversight, advice, and recommendations in designing the implementation of responsible AI adoption strategy.
+ I do not possess the required level of specialized experience and/or education to qualify for this position.
+
+
+In this part you will respond to questions about your experience as it relates to the position for which you are applying. Carefully review the level descriptions (A to E) listed below. For each task question, choose the level description that best describes your experience and/or training. Your responses must be fully supported within the text of your resume. Failure to properly identify your experience may result in the lowering of your overall score and/or your disqualification for this position.
+
+
+3.
+Which action BEST demonstrates enterprise-level AI risk governance within a DLA mission environment?
+
+ Reviewing model accuracy metrics after deployment
+ Conducting bias testing during development
+ Establishing a program-level AI risk checklist
+ Designing and implementing an Agency-wide AI governance framework aligned to NIST AI RMF and integrating it across acquisition, development, deployment, and sustainment
+
+
+4.
+A deployed AI solution supporting logistics decision-making shows statistically significant disparate impact. What is the MOST appropriate course of action?
+
+ Continue operations and monitor periodically
+ Adjust model thresholds without documentation
+ Conduct root-cause analysis; document findings; implement corrective mitigation plan
+ Immediately terminate the system without analysis
+
+
+5.
+Which combination BEST reflects comprehensive model risk evaluation in a high-impact DLA operational environment?
+
+ Accuracy only
+ Accuracy and precision
+ Accuracy, recall, ROC-AUC
+ Accuracy, fairness metrics, robustness testing, explainability, data lineage review, and mission impact assessment
+
+
+6.
+Prior to approving deployment of a generative AI capability supporting enterprise operations, the AI Risk Lead should FIRST ensure:
+
+ Vendor licensing terms are complete
+ End-user training materials are available
+ Risk tiering, data sensitivity review, cybersecurity assessment, oversight mechanisms, and continuous monitoring plan are documented
+ The capability demonstrates cost savings
+
+
+7.
+Which responsibility BEST reflects GS-15 leadership in AI risk management at DLA?
+
+ Performing model validation independently
+ Leading enterprise AI governance policy development and advising senior leaders on Agency AI risk posture
+ Conducting routine IT compliance reviews
+ Managing AI software procurement
+
+
+8.
+Model drift introduces operational and mission risk. The MOST effective mitigation strategy is:
+
+ Retrain annually regardless of performance
+ Ignore minor degradation
+ Implement automated continuous monitoring with predefined performance and fairness thresholds triggering review
+ Delegate monitoring solely to vendor
+
+
+9.
+The primary purpose of the NIST AI Risk Management Framework in federal AI oversight is to:
+
+ Mandate specific algorithms
+ Provide structured processes to identify, measure, manage, and govern AI risks
+ Replace agency governance policies
+ Certify vendors
+
+
+10.
+An AI-enabled forecasting tool improves operational efficiency but lacks documented training data lineage. The MOST appropriate executive recommendation is:
+
+ Ignore documentation gaps due to mission benefit
+ Suspend operations indefinitely
+ Quantify mission benefit, assess compliance risk, establish corrective documentation plan, and strengthen governance controls
+ Publicly disclose deficiencies immediately
+
+
+11.
+Responsible AI within DLA is BEST defined as:
+
+ Rapid deployment of innovative AI capabilities
+ AI systems that are lawful, ethical, transparent, reliable, secure, and aligned to mission objectives
+ Cost-saving automation initiatives
+ Vendor-certified tools
+
+
+12.
+Which governance structure MOST effectively manages high-risk AI systems at the enterprise level?
+
+ Ad hoc program reviews
+ Independent cross-functional AI Risk Review Board with authority to approve, conditionally approve, or disapprove deployments
+ Sole reliance on CIO approval
+ Vendor self-certification
+
+
+13.
+An effective AI continuous monitoring strategy MUST include:
+
+ Performance metrics only
+ Manual review only
+ Performance monitoring, bias detection, drift analysis, cybersecurity review, and incident response triggers
+ Vendor updates
+
+
+14.
+At the GS-15 level, AI risk should be communicated to DLA senior leadership by:
+
+ Providing raw technical reports only
+ Translating technical findings into mission, legal, operational, financial, and reputational impact
+ Minimizing uncertainty
+ Delegating communication to technical staff
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
