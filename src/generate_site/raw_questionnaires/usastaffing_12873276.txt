@@ -1,0 +1,134 @@
+Position Title
+IT SPECIALIST (CUSTSPT) T32
+Agency
+Air National Guard Units
+Announcement Number
+AZ-12873276-26-SW-26-076T Opens in new window
+Open Period
+Mar 06, 2026 to Mar 21, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+US Citizens.  Are you a US Citizen?
+ Yes
+ No
+
+
+Preferences
+1.
+Select the lowest grade you are willing to accept for this position.
+9
+11
+
+
+2.
+Are you a current member of the Arizona Air National Guard?
+ Yes
+ No
+
+
+3.
+Do you possess the rank of E-4/SrA to E-6/TSgt?
+ Yes
+ No
+
+
+4.
+Do you possess or are you able to obtain the AFSC of 1D7X2R?
+ Yes
+ No
+
+
+5.
+Do you possess or are you able to obtain a Top Secret Security Clearance?
+ Yes
+ No
+
+
+6.
+Do you meet the below Information Technology (IT) Management Series 2210 (Alternative A) Individual Occupational Requirements?
+Attention to Detail - Is thorough when performing work and conscientious about attending to detail.
+Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services.
+Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately.
+Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.
+ Yes
+ No
+
+
+7.
+Must possess at least 1-year specialized experience equivalent to the next lower grade. In addition to the OPM IORs (Alternative A) specialized experience examples, specialized experience includes experience, education, or training receiving, maintaining, and issuing data storage media for computer operations. Experience in scheduling the use of computer time for program processing. Experience collecting and sequentially staging input media with associated program instructions for processing. Experience in at least one programming language. Translating detailed logical steps developed by others into language codes that computers accept where this required understanding of procedures and limitations appropriate to use of a programming language. Experience interviewing subject-matter personnel to get facts regarding work processes and synthesizing the resulting data into charts showing information flow. Experience in analysis of the interrelationship of pertinent components of the system. Experience planning the sequence of actions necessary to accomplish the assignment. Experience scheduling the sequence of programs to be processed by computers where alternatives had to be weighed with a view to production efficiency.
+
+Do you meet the above qualification standard?
+ Yes
+ No
+
+
+8.
+Must possess at least 1-year specialized experience equivalent to the next lower grade. In addition to the OPM IORs (Alternative A) specialized experience examples, specialized experience includes experience, education, or training that approaches techniques and requirements appropriate to an assigned computer applications area or computer specialty area in an organization. Experience planning the sequence of actions necessary to accomplish the assignment where this entailed coordination with others outside the organizational unit and development of project controls. Experience that required adaptations of guidelines or precedents to meet the needs of the assignment. Experience preparing documentation on cost/benefit studies where is involved summarizing the material and organizing it in a logical fashion.
+
+Do you meet the above qualification standard?
+ Yes
+ No
+
+
+9.
+The individual selected will receive an Indefinite Appointment and may be converted to permanent based on availability of funds or position no longer being encumbered.
+
+Please select the appropriate response for consideration.
+ I have read and understand the terms as stated above and would like to be considered for the position.
+ I have read and understand the terms as stated above and would not like to be considered for the position.
+
+
+Assessment 1
+Respond to all statements and questions. These statements and questions allow applicants to highlight their Knowledge, Skills and Abilities (KSAs) which are applicable to the position for which you are applying. If it is necessary to limit the number of applicants for a position, these KSAs will be used to determine the "Best Qualified". For each KSA please identify below in the space provided how you have either demonstrated the KSA or have shown the potential to acquire them. Give specific examples describing related project, details, work assignments, outside activities, and the time frames involved in each. If you do not answer these statements and questions an accurate evaluation of your qualifications may not be possible. This may result in your application not being certified.
+
+
+1.
+Knowledge of applying analysis concepts to IT network systems and independent IT platforms, integration methods, performance tuning methods, test and evaluation methods and procedures, IT security principles and methods plus, project management principles and methods sufficient to plan and coordinate the installation of new products or equipment.
+
+
+2.
+Ability to analyze, apply methods and practices for recovering, adjusting and modifying IT systems to solve complex problems, while improving customer support practices, that minimizes interruptions in service.
+
+
+3.
+Knowledge of network operations, security methods, and network architecture optimization techniques; the capabilities and limitations of the IT systems, infrastructure and software configuration in order to manage the tenant network, carry out network and/or independent platform projects and coordinate efforts with others affected in the organization.
+
+
+4.
+Knowledge of systems development, modification, testing, installation, operations, and support concepts as well as the organization's network and infrastructure architecture and protocols to provide support related to: test, evaluation, installation, configuration and modification of hardware and software for operating systems, network platform, and interface connectivity. Provision of network services and planning for increased or changed requirements; modifications and integration of network systems and infrastructure consistent with existing or planned infrastructure/architecture; configuration management changes and upgrades; and connectivity between remote sites.
+
+
+5.
+Knowledge of the interrelationship of multiple IT systems, utilizing methods, principles, and practices covering restoral from complex computer and infrastructure system failures, recovery of systems, adjusting, modifying, and improving systems to include hardware and software components.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+6.
+GS-09 - 1-year specialized experience equivalent to at least the next lower grade. In addition to the OPM IORs (Alternative A) specialized experience examples, specialized experience includes experience, education, or training receiving, maintaining, and issuing data storage media for computer operations. Experience in scheduling the use of computer time for program processing. Experience collecting and sequentially staging input media with associated program instructions for processing. Experience in at least one programming language. Translating detailed logical steps developed by others into language codes that computers accept where this required understanding of procedures and limitations appropriate to use of a programming language. Experience interviewing subject-matter personnel to get facts regarding work processes and synthesizing the resulting data into charts showing information flow. Experience in analysis of the interrelationship of pertinent components of the system. Experience planning the sequence of actions necessary to accomplish the assignment. Experience scheduling the sequence of programs to be processed by computers where alternatives had to be weighed with a view to production efficiency.
+
+Do you meet the above qualification standards?
+ Yes
+ No
+
+
+7.
+GS-11 - 1-year specialized experience equivalent to at least the next lower grade. In addition to the OPM IORs (Alternative A) specialized experience examples, specialized experience includes experience, education, or training that approaches techniques and requirements appropriate to an assigned computer applications area or computer specialty area in an organization. Experience planning the sequence of actions necessary to accomplish the assignment where this entailed coordination with others outside the organizational unit and development of project controls. Experience that required adaptations of guidelines or precedents to meet the needs of the assignment. Experience preparing documentation on cost/benefit studies where is involved summarizing the material and organizing it in a logical fashion.
+
+Do you meet the above qualification standards?
+ Yes
+ No
+
+
+8.
+Do you certify that all of your responses to this questionnaire are true and accurate; and do you accept that if your supporting documentation does not support one or more of your responses to the questionnaire that your application may be rated lower or you may be removed from further consideration?
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
