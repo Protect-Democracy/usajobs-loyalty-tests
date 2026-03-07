@@ -1,0 +1,196 @@
+Position Title
+Data Scientist (AI)
+Agency
+Defense Logistics Agency
+Announcement Number
+DLAJ6-26-12872132-DHA Opens in new window
+Open Period
+Mar 06, 2026 to Mar 13, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+Are you the spouse of a member of the Armed Forces on active duty? 
+-OR-
+Are you the spouse of a member of the Armed Forces who retired with a disability rating at the time of retirement of 100 percent or the spouse of a member of the Armed Forces who retired or separated from the Armed Forces and has a disability rating of 100 percent from the Department of Veterans Affairs?
+-OR-
+Are you the un-remarried widow or widower of a member of the Armed Forces killed while in active duty status?
+For more information, review USAJOBS Veterans resources.
+ Yes
+ No
+
+
+Preferences
+1.
+Select the location(s) you want to be considered for. You must choose at least one location.
+ A. Battle Creek, MI
+ B. Whitehall, OH
+ C. Wright-Patterson AFB, OH
+ D. New Cumberland Defense Logistics Center, PA
+ E. Philadelphia, PA
+ F. Hill AFB, UT
+ G. Fort Belvoir, VA
+ H. Richmond, VA
+
+
+2.
+Your responses in this Assessment Questionnaire are subject to evaluation and verification. Later steps in the selection process are specifically designed to verify your responses. Information provided in the application process may be investigated. Deliberate attempts to falsify your application information may result in being removed from consideration and could be grounds for disqualifying you or for dismissing you from employment should you be selected for this position. Please ensure the responses you provide are accurate and truthful.
+
+Certification of Information Accuracy - I certify that, to the best of my knowledge and belief, all of the information submitted by me in this application, supporting materials and/or information provided in any interview associated with the examination process will be true and accurate; and that misrepresenting my experience or education, or providing false or fraudulent information, may be grounds for not hiring me, disciplinary action or termination; and that false or fraudulent statements may be punishable by fine or imprisonment (18 U.S.C. 1001).
+
+ Yes, I verify that all of my responses to the questionnaire will be true and accurate. I accept that if my supporting documentation and/or later steps in the selection process do not support one or more of my responses to the questionnaire that my application may be rated lower and/or I may be removed from consideration.
+ No, I do not accept this agreement and/or I no longer wish to be considered for this position.
+
+
+3.
+Do you have a current (or last) performance rating of at least Fully Successful or the equivalent?
+ Yes. I am a current Federal employee or have been within the previous 52 weeks and my most recent performance rating of record is at or above the Fully Successful or equivalent level.
+ I am a current Federal employee but have not yet received a Federal performance rating.
+ I am not a current Federal employee or have not been during the previous 52 weeks, therefore I do not possess a Federal performance rating.
+ No. My performance rating is below the Fully Successful or equivalent.
+
+
+4.
+Have you received a Voluntary Separation Incentive Payment (VSIP) in the past 5 years?
+ Yes
+ No
+
+
+5.
+Are you a former Federal employee who has retired and is receiving an annuity either under the Civil Service Retirement System (CSRS) or Federal Employees Retirement System (FERS)?
+NOTE: If you are receiving a temporary medical disability retirement OR are a retired Military Service Member your response should be NO.
+ Yes
+ No
+
+
+6.
+This question is for informational purposes only. Please select from the following to indicate how you discovered the position you are currently applying for. You may select more than one item.
+ A. Referred by a Current or Former Defense Logistics Agency Employee
+ B. LinkedIn
+ C. Handshake
+ D. Facebook
+ E. Yello
+ F. USAJOBS
+ G. Virtual Career Event
+ H. In-Person Career Event
+ I. Veteran Employment Services
+ J. State Labor Office
+ K. Internal Defense Logistics Agency Posting
+ L. Other Social Media Site
+ M. Other Recruitment Boards
+ N. Other Federal Agency Referral
+ O. Television/Radio Advertisement
+
+
+Assessment 1
+1.
+From the descriptions below, select the letter that BEST describes the highest level of education and/or experience that you fully possess in order to minimally qualify for this position. Read all of the statements completely before making your selection.
+
+ I possess one year of specialized experience at the GS-12 grade level or equivalent under other pay systems in the Federal service, military or private sector. My creditable specialized experience includes: Utilizes expert techniques and understanding of the complex interrelationships of multiple IT specialties, data science techniques, statistical analysis, and analytical methods to ensure integration of IT programs and services adhere to AI. Determines appropriate evaluation metrics to measure model accuracy, fairness, transparency, bias, and robustness. Ensures AI testing, evaluation, verification, and validation provide a feedback mechanism for system improvement in building confidence in the use of systems and meeting standards, reliability, and safety requirements. Develops illustrations and visualizations of results that can easily be comprehended and simplified for non-technical stakeholder audiences and for communication statistical modeling results as measures of the business's impact.
+ I do not possess the required level of specialized experience to qualify for this position
+
+
+2.
+Which of the following is a primary advantage of using cloud computing for data analytics and machine learning?
+
+ Eliminates the need for cybersecurity controls
+ Prevents data loss automatically
+ Provides scalable computing resources that can expand as data processing needs grow
+ Removes the need for data governance
+
+
+3.
+Which statement best describes machine learning?
+
+ A process where systems follow only manually programmed rules
+ A method where algorithms learn patterns from data to make predictions or decisions
+ A method used only for storing data
+ A type of computer hardware used in data centers
+
+
+4.
+Why is data preprocessing important in machine learning projects?
+
+ It increases internet speed
+ It replaces the need for model evaluation
+ It decreases data governance requirements
+ It prepares and cleans data so it can be effectively used to train models
+
+
+5.
+What is the main purpose of training data in a machine learning model?
+
+ To provide examples that allow the model to learn patterns and relationships
+ To store backup copies of the model
+ To encrypt model outputs
+ To replace validation data
+
+
+6.
+Which cloud service model allows an organization to manage its own operating systems and applications while the cloud provider manages the underlying infrastructure?
+
+ Software as a Service (SaaS)
+ Data as a Service (DaaS)
+ Infrastructure as a Service (IaaS)
+ Network as a Service (NaaS)
+
+
+7.
+Which metric is commonly used to evaluate the performance of a classification model?
+
+ Accuracy or F1 Score
+ Mean Squared Error
+ Disk utilization
+ Network latency
+
+
+8.
+Why is data governance important in enterprise data environments?
+
+ It eliminates the need for system administrators
+ It helps ensure data quality, security, and proper management of organizational data assets
+ It automatically prevents all cyber threats
+ It reduces the need for cloud storage
+
+
+9.
+Which of the following best describes artificial intelligence (AI)?
+
+ Programs used only for data storage
+ Systems designed to perform tasks that typically require human intelligence
+ Computer hardware used for networking
+ Databases used for storing files
+
+
+10.
+A data scientist develops a machine learning model to forecast supply demand. The model performs well during testing but its accuracy declines after several months in production. What is the most likely reason for this issue?
+
+ The model software was installed incorrectly
+ The underlying data patterns have changed over time
+ The cloud infrastructure stopped working
+ The dataset size increased
+
+
+11.
+A team plans to deploy a machine learning model using a cloud platform so it can be accessed by multiple applications across the organization. Which approach would best support consistent deployment across development, testing, and production environments?
+
+ Running the model manually on a local computer
+ Packaging the model using container technologies such as Docker
+ Sending the model files through email to each system
+ Installing the model separately on each server
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
