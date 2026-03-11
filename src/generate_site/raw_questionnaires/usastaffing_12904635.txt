@@ -1,0 +1,288 @@
+Position Title
+SUPERVISORY IT CYBERSECURITY SPECIALIST (INFOSEC)
+Agency
+Department of the Air Force - Agency Wide
+Announcement Number
+8X-DCIPS-12904635-175007-AG Opens in new window
+Open Period
+Mar 11, 2026 to Mar 17, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+US Citizen - Are you a US citizen (either by birth or naturalization) or national of the United States?
+ Yes
+ No
+
+
+Please answer the following question by selecting a response. NOTE: Applicants are responsible for claiming their appropriate eligibility. Veterans' Preference is NOT an eligibility; it is a hiring preference, where applicable. You must select an eligibility to receive consideration for this position. If you are not a US citizen, you are not "eligible" to apply for this position and your application will not be referred to the hiring manager.
+
+We are not responsible for erroneous eligibilities that you list or fail to list. All competitive eligible candidates must complete the entire Application Questionnaire as part of the application package. Ensure you thoroughly read the instructions for each section.
+
+
+3.
+AF DCIPS Interchange - Are you a current permanent Air Force or Space Force DCIPS employee eligible under the DCIPS interchange agreement (i.e. employee who served continuously for at least one year in a DCIPS position or involuntarily separated from such appointments without personal cause within the preceding year)?  If you indicate "Yes" for this question, you must submit your most recent SF50 and copies of SF50s showing at least one year in a DCIPS position AND a copy of an SF50 that reflects your highest grade held on a permanent basis.
+ Yes
+ No
+
+
+Preferences
+1.
+I am a current or prior military member of the Armed Forces that is retiring or has been retired less than 180 days. Hiring (appointments or transfers) of retiring or retired members of the Armed Forces to positions in any DoD Component during the 180 days immediately following retirement may only be made IAW DoDI 1402.01 and may require a waiver for appointment prior to the 180 days from official military retirement.
+ Yes
+ No
+
+
+2.
+Are you retired from the Federal civilian service or are you in a phased retirement and receiving an annuity?
+ Yes
+ No
+
+
+3.
+Current or Former Political Appointees: The Office of Personnel Management (OPM) must authorize employment offers made to current or former political appointees. If you are currently employed, or have been employed within the last 5 years, in any one of the categories below, you must disclose this information. Failure to disclose this information could result in disciplinary action including removal from Federal Service.
+
+Are you a current or former political appointee as described under 5 U.S.C. sections 5312 through 5316?
+-OR-
+Are you a current or former Schedule A or Schedule C political appointee, or an appointee who serves/served in a political capacity under agency-specific authority in the Executive Branch?
+-OR-
+Are you a current or former political appointee or non-career SES Executive Branch employee?
+ Yes
+ No
+
+
+4.
+Did you voluntarily separate from federal service and receive Voluntary Separation Incentive Pay (VSIP)?
+
+NOTE: If your response is yes, you must provide a copy of your SF 50 or Leave and Earnings statement showing receipt of payment as part of your application submission. If you become reemployed by the federal government within 5 years of separating from federal service and have received a VSIP, you will be required to repay the full VSIP amount paid to you.
+ Yes
+ No
+
+
+Short Essay Questions
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+
+
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+
+
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+
+
+3.
+How would you help advance the President's Executive Orders and policy priorities in this role? Identify one or two relevant Executive Orders or policy initiatives that are significant to you, and explain how you would help implement them if hired.
+
+
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+
+
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+
+
+Assessment 1
+This section will be used to determine if you possess the basic requirements needed to qualify for a Supervisory Information Technology Cybersecurity Specialist (INFOSEC) GG-2210-14. Failure to respond to this question will result in an ineligible rating.
+
+
+1.
+Select the one statement that best describes experience that you possess that demonstrates your ability to perform the work of a Supervisory Information Technology Cybersecurity Specialist (INFOSEC) at the GG-2210-14 grade level or equivalent pay band. Your resume must support the response you select.
+ I have IT-related experience demonstrating each of the following four competencies: Attention to Detail, Customer Service, Oral Communication, and Problem Solving AND I have the quality level of experience, which demonstrates the possession of the knowledge, skills, abilities, and competencies necessary for successful job performance required for this position. My experience includes knowledge and skill in application of concepts, and practices in two or more areas: cyberspace security, computer programming, computer operating systems (Windows, UNIX), malware forensics; threat analysis, artificial intelligence/machine learning; cyber incident handling/response, penetration testing, and software/malware reverse engineering; knowledge of the application of Information Assurance (IA), Mission Assurance (MA) and threat hunting technologies and techniques, analysis of computer systems, operating systems, network communication protocols, computer and network architectures and virtual machine (VM) technology; ability to analyze and correlate data in order to distinguish evidence of attacks or intrusions from normal activity; knowledge of IA and MA technologies such as COMSEC, COMPUSEC, EMSEC, and OPSEC, computer systems, digital communications systems, network protocols, and computer architectures; and computer security penetration tools and techniques; and knowledge and skill in one or more of computer operating systems (Unix, Windows, etc.) enterprise services, file systems, security, configuration and analysis; network operations and security including netflows, protocols, PCAP, etc.; computer programming and scripting; and malware identification and analysis; and system forensics. Note: Creditable experience may include previous military experience, experience gained in the private sector, or experience gained in another government agency.
+ My experience is not reflected in the above statement.
+
+
+For each task in the following groups, choose the statement from the list below that best describes your experience and/or training. Please select only one letter for each item.
+
+
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+
+
+2.
+Exercise broad responsibility and authority for planning and managing the overall efficiency and effectiveness of assigned operations and communicating the cyber strategic plan, mission, vision, and values to employees within the Organization.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+3.
+Establish, revise, or review policies, procedures, mission objectives, and organization design for the staff, as necessary to eliminate work problems or barriers to mission accomplishment, promote team building, implement quality improvements, or in response to concerns with regulatory compliance and/or customer requirements.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+4.
+Plan work for accomplishment by subordinate units, sets and adjusts short-term priorities, and prepare schedules based on consideration of difficulty of requirements and assignments such that the experience, training, and abilities of the staff are effectively utilized to meet organization and customer needs.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+5.
+Provide authoritative answers and direction to senior management on a wide variety of extremely complex and difficult Cybersecurity issues, based on comprehensive analysis and evaluations of existing and emerging operations, security proposals, proposed systems for adequate defenses.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+6.
+Establish metric and analysis systems for units managed to assess efficiency, effectiveness, and compliance with regulatory procedures.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+7.
+Advise and provide counsel to employees regarding policies, procedures, and directives of management.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+8.
+Develop, modify, and/or interpret performance standards.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+9.
+Explain performance expectations to employees and provide regular feedback on strengths and weaknesses.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+10.
+Identify employee developmental needs and provide or arrange for training (formal and on-the-job) to maintain and improve job performance.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+11.
+Apply EEO principles and requirements to all personnel management actions and decisions, and ensure all personnel are treated in a manner free of discrimination.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+12.
+Ensure proper scheduling of personnel for operations and tactics are executed in order counter a rapidly evolving adversary.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+13.
+Conduct in-depth analysis of network data analysis, ensure all personnel are trained to level of expertise necessary to counter cyber intrusions through training, exercises, and malware events to name just a few.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+14.
+Ensure that Host based traffic is monitored on a continuous basis, looking for anomalies to standard desktop and weapon systems actions/events.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+15.
+Development of custom first alert indicators and warnings for malicious activities.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+16.
+Research, interpret, analyze and applies guidelines, policies, regulations, etc.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+17.
+Provide authoritative answers and direction to senior management on a wide variety of extremely complex and difficult Cyber security issues, based on comprehensive analysis and evaluations of existing and emerging operations, security proposals, proposed systems for adequate defensive.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+18.
+Promote awareness of cyber security challenges and ensure sound security principles are reflected in organizations' visions and goals.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+19.
+Implement and advise on cyber security policies and procedures to ensure protection of information transmitted across various networks and systems spanning multiple classification networks.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+CERTIFICATION: I certify that, to the best of my knowledge and belief, all of the information included in this questionnaire is true, correct, and provided in good faith. I understand that if I make an intentional false statement, or commit deception or fraud in this application and its supporting materials, or in any document or interview associated with the examination process, I may be fined or imprisoned (18 U.S.C. 1001); my eligibilities may be cancelled, I may be denied an appointment, or I may be removed and debarred from Federal service (5 C.F.R. part 731). I understand that any information I give may be investigated. I understand that responding "No" to this item will result in my not being considered for this position.
+
+
+20.
+Failure to agree or respond to the statement below will disqualify you from further consideration for the position. Select the most appropriate response below.
+ Yes, I verify that all of my responses to this questionnaire are true and accurate. I accept that if my supporting documentation and/or later steps in the selection process do not support one or more of my response to the questionnaire that my application may be rated lower and/or I may be removed from further consideration.
+ No, I do not accept this agreement and/or I no longer wish to be considered for this position.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
