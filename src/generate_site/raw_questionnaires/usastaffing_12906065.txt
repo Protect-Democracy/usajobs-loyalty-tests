@@ -1,0 +1,187 @@
+Position Title
+Data Scientist (Artificial Intelligence/Machine Learning)
+Agency
+Defense Logistics Agency
+Announcement Number
+DLAJ6-26-12906065-DHA Opens in new window
+Open Period
+Mar 12, 2026 to Mar 22, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+Are you the spouse of a current Department of Defense, Department of State, or intelligence community employee who is being transferred in the interest of the Government from one official station within the Department to another within the Department for permanent duty?
+
+Supporting Documentation: You are required to submit proof of marriage AND permanent change of station (PCS) orders: spouse's PCS orders (showing you as a dependent) and/or copy of marriage certificate. If you are a current or previous Federal employee, please include  your most recent SF-50.
+ Yes
+ No
+
+
+Preferences
+1.
+Select the location(s) you want to be considered for. You must choose at least one location.
+ A. Battle Creek, MI
+ B. Whitehall, OH
+ C. Wright-Patterson AFB, OH
+ D. New Cumberland Defense Logistics Center, PA
+ E. Philadelphia, PA
+ F. Hill AFB, UT
+ G. Fort Belvoir, VA
+ H. Richmond, VA
+
+
+2.
+Your responses in this Assessment Questionnaire are subject to evaluation and verification. Later steps in the selection process are specifically designed to verify your responses. Information provided in the application process may be investigated. Deliberate attempts to falsify your application information may result in being removed from consideration and could be grounds for disqualifying you or for dismissing you from employment should you be selected for this position. Please ensure the responses you provide are accurate and truthful.
+
+Certification of Information Accuracy - I certify that, to the best of my knowledge and belief, all of the information submitted by me in this application, supporting materials and/or information provided in any interview associated with the examination process will be true and accurate; and that misrepresenting my experience or education, or providing false or fraudulent information, may be grounds for not hiring me, disciplinary action or termination; and that false or fraudulent statements may be punishable by fine or imprisonment (18 U.S.C. 1001).
+
+ Yes, I verify that all of my responses to the questionnaire will be true and accurate. I accept that if my supporting documentation and/or later steps in the selection process do not support one or more of my responses to the questionnaire that my application may be rated lower and/or I may be removed from consideration.
+ No, I do not accept this agreement and/or I no longer wish to be considered for this position.
+
+
+3.
+Are you a former Federal employee who has retired and is receiving an annuity either under the Civil Service Retirement System (CSRS) or Federal Employees Retirement System (FERS)?
+NOTE: If you are receiving a temporary medical disability retirement OR are a retired Military Service Member your response should be NO.
+ Yes
+ No
+
+
+4.
+This question is for informational purposes only. Please select from the following to indicate how you discovered the position you are currently applying for. You may select more than one item.
+ A. Referred by a Current or Former Defense Logistics Agency Employee
+ B. LinkedIn
+ C. Handshake
+ D. Facebook
+ E. Yello
+ F. USAJOBS
+ G. Virtual Career Event
+ H. In-Person Career Event
+ I. Veteran Employment Services
+ J. State Labor Office
+ K. Internal Defense Logistics Agency Posting
+ L. Other Social Media Site
+ M. Other Recruitment Boards
+ N. Other Federal Agency Referral
+ O. Television/Radio Advertisement
+
+
+Assessment 1
+1.
+The purpose of this next question is to verify that you meet the basic requirements for this position. Please select the best answer that fits your situation. FAILURE TO ANSWER THIS QUESTION WILL MAKE YOU INELIGIBLE. *ALL APPLICANTS MUST PROVIDE SUPPORTING DOCUMENTATION TO SUPPORT THIS BASIC REQUIREMENT.
+
+ I have a bachelor's or higher degree in Mathematics, statistics, computer science, data science or field directly related to the position.
+ I have a combination of education with courses equivalent to a major field of study (30 semester hours) as shown in paragraph A above, plus additional education or appropriate experience.
+ I do not possess the required level of education to qualify for this position.
+
+
+2.
+From the descriptions below, select the letter that BEST describes the highest level of education and/or experience that you fully possess in order to minimally qualify for this position. Read all of the statements completely before making your selection.
+
+ I possess one year of specialized experience at the GS-13 grade level or equivalent under other pay systems in the Federal service, military or private sector. My creditable specialized experience includes: Conducts large, agency wide, research and development reviews of metrics, measurements, and evaluation methods for emerging and existing areas of AI; Utilizes data science expertise to develop algorithms and tools to support data manipulation and processing as well as the use of data visualization techniques to articulate high risk findings; Ensures the AI systems are designed for auditability to manage AI risk assessment policies and principles which guide automated decisions supporting DLA business operations; Provides expert advice to senior leadership and AI stakeholders to adopt new or revised policy and implementation plans resulting from AI test and evaluation integration; Assesses data quality and establishes standards to validate quality criteria for data to ensure it meets the necessary requirements for AI testing and evaluation.
+ I do not possess the required level of specialized experience to qualify for this position.
+
+
+3.
+Which of the following is a primary advantage of using cloud computing for data analytics and machine learning?
+
+ Eliminates the need for cybersecurity controls
+ Provides scalable computing resources that can expand as data processing needs grow
+ Prevents data loss automatically
+ Removes the need for data governance
+
+
+4.
+Which statement best describes machine learning?
+
+ A process where systems follow only manually programmed rules
+ A method where algorithms learn patterns from data to make predictions or decisions
+ A method used only for storing data
+ A type of computer hardware used in data centers
+
+
+5.
+Which cloud service model allows an organization to manage its own operating systems and applications while the cloud provider manages the underlying infrastructure?
+
+ Infrastructure as a Service (IaaS)
+ Software as a Service (SaaS)
+ Data as a Service (DaaS)
+ Network as a Service (NaaS)
+
+
+6.
+Why is data preprocessing important in machine learning projects?
+
+ It increases internet speed
+ It prepares and cleans data so it can be effectively used to train models
+ It replaces the need for model evaluation
+ It eliminates the need for training data
+
+
+7.
+Which metric is commonly used to evaluate the performance of a classification model?
+
+ Mean Squared Error
+ Accuracy or F1 Score
+ Disk utilization
+ Network latency
+
+
+8.
+What is the main purpose of training data in a machine learning model?
+
+ To store backup copies of the model
+ To provide examples that allow the model to learn patterns and relationships
+ To encrypt model outputs
+ To replace validation data
+
+
+9.
+Which of the following best describes artificial intelligence (AI)?
+
+ Programs used only for data storage
+ Databases used for storing files
+ Computer hardware used for networking
+ Systems designed to perform tasks that typically require human intelligence
+
+
+10.
+Why is data governance important in enterprise data environments?
+
+ It helps ensure data quality, security, and proper management of organizational data assets
+ It eliminates the need for system administrators
+ It automatically prevents all cyber threats
+ It reduces the need for cloud storage
+
+
+11.
+A data scientist develops a machine learning model to forecast supply demand. The model performs well during testing but its accuracy declines after several months in production. What is the most likely reason for this issue?
+
+ The model software was installed incorrectly
+ The underlying data patterns have changed over time
+ The cloud infrastructure stopped working
+ The dataset size increased
+
+
+12.
+A team plans to deploy a machine learning model using a cloud platform so it can be accessed by multiple applications across the organization. Which approach would best support consistent deployment across development, testing, and production environments?
+
+ Running the model manually on a local computer
+ Sending the model files through email to each system
+ Packaging the model using container technologies such as Docker
+ Installing the model separately on each server
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
