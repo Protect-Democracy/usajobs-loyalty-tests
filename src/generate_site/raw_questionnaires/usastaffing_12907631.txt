@@ -1,0 +1,128 @@
+Position Title
+Supervisory IT Specialist (Network Services and Systems Administration)
+Agency
+Commander, Navy Installations Command
+Announcement Number
+26-12907631 Opens in new window
+Open Period
+Mar 11, 2026 to Mar 18, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+Essay Questions
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+
+
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+
+
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+
+
+3.
+How would you help advance the President's Executive Orders and policy priorities in this role? Identify one or two relevant Executive Orders or policy initiatives that are significant to you, and explain how you would help implement them if hired.
+
+
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+
+
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+
+
+Area of Consideration
+1.
+Are you a current CNIC NAF employee?
+
+*If you answer yes to this question, you are required to submit a copy of your most recent Personnel Action Report (PAR) showing your status as a CNIC employee. Failure to provide documentation to support your claim will result in a rating of ineligible.
+ Yes
+ No
+
+
+Assessment 1
+Thank you for your interest in the Department of the Navy Non-appropriated Funds Employment. This section will be used to determine if you possess the education and/or experience to qualify for the Supervisory IT Specialist (Network Services and Systems Administration) position. Failure to respond to the question(s) will result in an ineligible rating.  Please ensure that your resume fully supports the response you choose for each of the questions below.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+1.
+Do you have five or more years of progressively responsible specialized experience with network and systems administration in support of enterprise-level IT environments?
+ Yes
+ No
+
+
+2.
+How many years of direct supervisory experience do you have (including hiring, conducting performance evaluations, and disciplinary actions)?
+ I have 5+ years of experience as described above.
+ I have 3 to 5 years of experience as described above.
+ I have 2 to 3 years of experience as described above.
+ I have less than 2 years of experience as described above.
+ I have no experience as described above.
+
+
+3.
+How many years of experience do you have with network administration in an environment that includes enterprise applications (e.g., POS, ERP)?
+ 5 or more years; I have mastered network administration for complex ERP/POS environments, including integration between the two, for a large enterprise (500+ users).
+ 3 to 5 years; I have supported both POS and ERP systems simultaneously in an environment with 200+ users and multiple sites.
+ 2 to 3 years; I have supported at least one major enterprise application (POS or ERP) in a production environment with 50+ users.
+ Less than 2 years; I have supported enterprise applications in a lab or limited capacity.
+ I have no experience as described above.
+
+
+4.
+How many years of experience do you have troubleshooting and resolving complex system outages or performance issues?
+ 5+ years; I have extensive experience diagnosing root causes of complex, recurring performance issues and implementing permanent solutions to prevent future outages.
+ 3 to 5 years; I have led troubleshooting efforts for enterprise-wide outages affecting 500+ users, coordinating with vendors and multiple internal teams.
+ 2 to 3 years; I have resolved system-wide outages affecting a single department or location.
+ Less than 2 years; I have resolved basic, isolated incidents (e.g., single workstation or printer).
+ I have no experience as described above.
+
+
+5.
+How many years of experience do you have implementing IT security measures to include specific security frameworks or standards (e.g., PCI-DSS, NIST, RMF)?
+ 5+ years; I have mastery of multiple frameworks and have designed and enforced security architectures (e.g., firewalls, encryption, access controls) to meet compliance for PII, PHI, and PCI data.
+ 3 to 5 years; I have led system hardening efforts (e.g., applying CIS benchmarks, configuring ACLs) to align with PCI-DSS or NIST standards for a production environment.
+ 2 to 3 years; I have applied security controls (e.g., patching, account permissions) to maintain compliance with at least one framework.
+ Less than 2 years; I am familiar with security frameworks but have limited hands-on implementation experience.
+ I have no experience as described above.
+
+
+6.
+How many years of experience do you have leading process improvement or technical documentation projects?
+
+ 5+ years; I have a proven track record of identifying workflow inefficiencies, redesigning processes, and implementing new documentation standards that improved productivity (e.g., reduced deployment time, faster troubleshooting) across the organization.
+ 3 to 5 years; I have led initiatives to document complex system configurations and network topologies, creating knowledge bases used across multiple teams or departments.
+ 2 to 3 years; I have created or updated standard operating procedures (SOPs) that were adopted by my team (5+ members).
+ Less than 2 years; I have documented basic troubleshooting steps for my personal use or my immediate team.
+ I have no experience as described above.
+
+
+7.
+Select the response that best represents your experience working with various IT technologies.
+ I have mastered multiple virtualization platforms, server operating systems, and cloud models, and have designed enterprise-wide network architectures from the ground up.
+ I have deep experience architecting virtualized environments, managing hybrid cloud services (e.g., AWS, Azure), and optimizing complex network infrastructures.
+ I have administered virtual machines (e.g., VMWare, Hyper-V), managed Windows/Linux servers, and configured basic network protocols (DNS, DHCP).
+ I have foundational knowledge but limited hands-on deployment experience.
+ I have no experience as described above.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
