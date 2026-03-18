@@ -1,0 +1,145 @@
+Position Title
+Information Technology Specialist (APPSW)
+Agency
+Organization of the Joint Chiefs of Staff
+Announcement Number
+JCS-26-12908269-DH Opens in new window
+Open Period
+Mar 13, 2026 to Mar 22, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+Are you a former Federal employee who has retired and is receiving an annuity either under the Civil Service Retirement System (CSRS) or Federal Employees Retirement System (FERS)?
+NOTE: If you are receiving a temporary medical disability retirement OR are a retired Military Service Member your response should be NO.
+ Yes
+ No
+
+
+3.
+Are you the spouse of a current Department of Defense, Department of State, or intelligence community employee who is being transferred in the interest of the Government from one official station within the Department to another within the Department for permanent duty?
+
+Supporting Documentation: You are required to submit proof of marriage AND permanent change of station (PCS) orders: spouse's PCS orders (showing you as a dependent) and/or copy of marriage certificate. If you are a current or previous Federal employee, please include  your most recent SF-50.
+ Yes
+ No
+
+
+4.
+Are you the spouse of a member of the Armed Forces on active duty? 
+-OR-
+Are you the spouse of a member of the Armed Forces who retired with a disability rating at the time of retirement of 100 percent or the spouse of a member of the Armed Forces who retired or separated from the Armed Forces and has a disability rating of 100 percent from the Department of Veterans Affairs?
+-OR-
+Are you the un-remarried widow or widower of a member of the Armed Forces killed while in active duty status?
+For more information, review USAJOBS Veterans resources.
+ Yes
+ No
+
+
+5.
+Are you a current or former federal employee displaced from a position in a federal agency other than the agency hiring for this position?
+
+If yes, confirm:
+• you are located in the same local commuting area of the vacancy
+• your grade is equivalent to or above the grade level of the vacancy and
+• your last performance rating of record is at least fully successful or the equivalent.
+
+You will be required to submit supporting documentation to validate your claim of ICTAP eligibility such as a Reduction in Force (RIF) separation notice or a Proposed Removal/Separation notice and a copy of your latest Notification of Personnel Action, Standard Form 50.  For more information, review the USAJOBS Resource Center.
+ Yes
+ No
+
+
+6.
+Eligible: I am a PPP DoD retained grade preference eligible. I am exercising my preference eligibility to positions within the local commuting area. I certify that I am within my 2-year period of grade retention and have not accepted nor declined a permanent, continuing Federal or non-appropriated fund position in the local commuting area.
+
+Supporting Documentation:  You must provide a signed Retained Grade PPP Self-Certification Checklist, DD3145-1 (whs.mil), a copy of your Notification of Personnel Action, Standard Form (SF) 50 effecting the placement in retained grade status; or a copy of the notification letter you received regarding the RIF or classification downgrade.
+
+Are you a Priority Placement Program DoD Retained Grade Preference Eligible?
+
+
+ Yes
+ No
+
+
+7.
+Priority Placement Program, DoD Military Reserve (MR) and National Guard (NG) Technician Eligible
+
+I am an MR or NG Reserve Technician who will lose or has lost my military membership through no fault of my own after completing at least 15 years of technician service and a minimum of 20 years of service creditable for non-regular retirement.  I am exercising my preferen­ce eligibility to DoD positions within my local commuting area in accordance with Section 3329(b) of Title 5, U.S.C.  This preference eligibility is valid for 1 year after separation. 
+
+NOTE: By using this eligibility, you certify that you have not obtained permanent Federal employment, nor have you accepted or declined a PPP job offer.
+
+Supporting Documentation: If you indicate "yes" to this question, you must submit a copy of the Military Reserve and National Guard Technician PPP Self-Certification Checklist and copies of the appropriate documentation, such as the notification letter you received showing you are no longer eligible for military or NG membership (through no fault of your own) and that you have completed at least 15 years of technician service and a minimum of 20 years of service creditable for non-regular retirement. 
+
+Are you a Priority Placement Program (PPP) DoD Military Reserve (MR) and National Guard (NG) Technician Eligible?
+
+ Yes
+ No
+
+
+8.
+Eligible: I am a military spouse who has relocated or will relocate within 30 days with my active duty sponsor on a permanent change of station (PCS) move to a new active duty assignment. I am exercising my preference eligibility to positions within the local commuting area of the new duty station. I certify that I have not accepted nor declined a permanent, continuing Federal or non-appropriated fund position in the local commuting area of the new duty location.
+
+NOTE 1: Military spouses are eligible for one noncompetitive appointment using their preference eligibility for the duration of the active duty sponsor's relocation to the new permanent duty station, as long as the military spouse has not declined or accepted a permanent, continuing Federal or non-appropriated fund position in the geographical area of the PCS orders. If you certify that you have not used your preference at your sponsor's new duty location and it is discovered to be untrue, you may be subject to loss of MSP and possible disciplinary action.
+
+NOTE 2: MSPs using eligibility EO 13473 cannot be appointed until they have relocated with the military sponsor to the new duty station.
+
+Supporting Documentation:  You must provide a signed Military Spouse PPP Self-Certification Checklist, https://publicfileshare.chra.army.mil/USAStaffing/DD_3145-4_Military_Spouse_PPP_SelfCertification_Checklist_v2.pdf  
+PCS orders/verification of duty location assignment, a copy of marriage certificate or license and documents as listed on the Military Spouse PPP Self-certification Checklist. 
+
+Are you a Priority Placement Program DoD Military Spouse Preference Eligible?
+
+
+
+
+ Yes
+ No
+
+
+Preferences
+1.
+Select the lowest grade you are willing to accept for this position.
+12
+13
+
+
+Assessment 1
+1.
+From the descriptions below, select the letter that BEST describes the highest-level experience that you fully possess for the Information Technology Specialist (APPSW), GG-2210-12, position. Read all the statements completely before making your selection.
+ I possess one year of specialized experience at the GG-11 grade level or equivalent under other pay systems in the Federal service, military or private sector. My creditable specialized experience includes: Knowledge of software, agile principles, DevSecOps, cloud to modernize legacy software applications and develop assigned software applications. Knowledge of automated system development and design to develop, acquire, implement, and manage the life cycle of automated information systems to satisfy operational requirements; Familiarity with DoW policies and standards related to automated system design, development and management; Ability to understand and support technical review of modern complex computer programs using modem programming languages such as HTML5, Java, C#, Python, Ruby, GO, Rust, Service Oriented Architectures, and advanced data integration and report generator software; Knowledge and skill in monitoring a contracted development effort including the ability to critically evaluate and assess contractor performance to ensure effective and proper solutions. (Experience must be documented in the resume)
+ I do not have the required specialized experience for this position.
+
+
+2.
+From the descriptions below, select the letter corresponding to the statement that most clearly and accurately describes your IT-related experience demonstrating each of the four competencies.
+
+ I have IT related experience demonstrating these four competencies: 1) Attention to Detail - Is thorough when performing work and conscientious about attending to detail; 2) Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services; 3)Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately; and 4) Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations. (Experience must be documented in the resume)
+ I do not have the IT-related experience demonstrating these four competencies listed in A above.
+
+
+Assessment 2
+1.
+From the descriptions below, select the letter that BEST describes the highest-level experience that you fully possess for the Information Technology Specialist (APPSW), GG-2210-13, position. Read all the statements completely before making your selection.
+ I possess one year of specialized experience at the GG-12 grade level or equivalent under other pay systems in the Federal service, military or private sector. My creditable specialized experience includes: Applying systems application software concepts and factors such as structured design, supportability, survivability, reliability, scalability, and maintainability sufficient to ensure that applications are optimized for state-of-the-art technology and functionality and provide advice and guidance to management; Knowledge and experience in modern software development practices such as Agile, DevSecOps, cloud-native development, and user-centered design ; Understanding automated system development and design to develop, acquire, implement, and manage the life cycle of automated information systems to satisfy operational requirements; Understanding state-of-the-art advances in information systems technology to include operating systems, software, system hardware and telecommunications to translate functional specifications into technical requirements, e.g., inform requirement generation from stated user needs. (Experience must be documented in the resume)
+ I do not have the required specialized experience for this position.
+
+
+2.
+From the descriptions below, select the letter corresponding to the statement that most clearly and accurately describes your IT-related experience demonstrating each of the four competencies.
+
+ I have IT related experience demonstrating these four competencies: 1) Attention to Detail - Is thorough when performing work and conscientious about attending to detail; 2) Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services; 3)Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately; and 4) Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations. (Experience must be documented in the resume)
+ I do not have the IT-related experience demonstrating these four competencies listed in A above.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
