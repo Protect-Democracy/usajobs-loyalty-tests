@@ -1,0 +1,156 @@
+Position Title
+IT SPECIALIST (NETWORK) (TEMP-INDEF) (TITLE 32)
+Agency
+Air National Guard Units
+Announcement Number
+UT-26-043-AF-12919025 Opens in new window
+Open Period
+Mar 24, 2026 to Mar 29, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Preferences
+1.
+Priority will be given to all current members of the UTANG.
+Please select your status regarding applying for this position:
+
+ Onboard – You are a current permanent or indefinite Utah Air National Guard Federal Employee (T32 or T5).
+ UTANG Member – You are a current member of the Utah Air National Guard.
+ Public - This position requires military enlistment with the Utah Air National Guard. You are eligible and willing to immediately enlist with the Utah Air National Guard for this position.
+ Public - You are NOT eligible or willing to immediately enlist with the Utah Air National Guard.
+
+
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+
+
+2.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+
+
+3.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+
+
+4.
+How would you help advance the President's Executive Orders and policy priorities in this role? Identify one or two relevant Executive Orders or policy initiatives that are significant to you, and explain how you would help implement them if hired.
+
+
+5.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+
+
+6.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+
+
+Assessment 1
+We will evaluate your resume and responses to this questionnaire to determine if you are qualified for this position. You will be removed from consideration if you do not meet the specialized experience required. Your responses are subject to verification and must be fully supported by your resume and supporting documents.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+1.
+
+Minimum Requirements:
+Do you have experience, education or training that has provided a basic knowledge of data processing functions and general management principles that enabled the applicant to understand the stages required to automate a work process. Experience may have been gained in work such as computer operator or assistant, computer sales representative, program analyst, or other positions that required the use or adaptation of computer programs and systems.
+
+ Yes
+ No
+
+
+2.
+Specialized Experience:
+Do you have 1 year of specialized experience equivalent to GS-2210-09? (Must submit SF 50 to validate response)
+OR
+Do you have: 
+ Knowledge of IT network systems design principles, methodologies, and approaches used in developing, testing, installing, operating, managing, and maintaining network services that support functional requirements.
+Knowledge of the organization's network architecture, topology, and protocols sufficient to plan, design, develop, and integrate network systems and security plans and procedures consistent with existing or planned network infrastructures.
+Knowledge of methods, techniques, and processes for the integration and optimization of LAN/WAN components, infrastructure requirements, and test and evaluation methods sufficient to install and operate base wide programs and provide technical guidance to others in designing, testing, operating, and maintaining network programs.
+Knowledge of a wide variety of established commercial network design programs and how they interrelate and function within various environments.
+Skill in applying IT network development concepts and techniques to provide computer applications which provide optimal functional support for users.
+Ability to analyze functional IT network system requirements, translate findings into functional requirements, develop supportable recommendations for enhancement, and apply a wide range of methodologies and tools.
+Ability to serve as a team leader or member of special projects and to coordinate and document the work of the team.
+Ability to communicate both orally and in writing.
+Ability to maintain an up-to-date awareness of technological advances and predict how management can meet future requirements.
+
+OR
+
+At the GS-11 level, a Ph.D. or equivalent, or 3 years of progressively higher level graduate education leading to such a degree.
+Undergraduate or Graduate Education: Degree in computer science, engineering, information science, information systems management, mathematics, operations research, statistics, or technology management or degree that provided a minimum of 24 semester hours in one or more of the fields identified above and required the development or adaptation of applications, systems or networks.
+
+APPLICANT MUST SUBMIT A COPY OF THEIR EDUCATION TRANSCRIPTS FOR VERIFICATION OF EDUCATION REQUIREMENTS.
+ Yes
+ No
+
+
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+
+
+3.
+Knowledge of, and skill in applying network design principles and concepts, network architecture principles and concepts, network protocols, remote access technology concepts, network operation and maintenance concepts and methods, network management tools, configuration management concepts and practices, network topology concepts, LAN/WAN principles and methods, network optimization techniques and acquisition management policies.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+4.
+Monitors external connections to other state, territorial, or federal network domains as necessary.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+5.
+Skill in configuring hubs and switches, monitoring network performance, performing network diagnostics, analyzing network traffic patterns and installing network software fixes and upgrades.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+6.
+Skill in establishing connectivity between remote sites, creating network maps, troubleshooting network problems (outages) and implementing configuration management plans for complex LANs and WANs.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+7.
+Analyzes equipment and software reliability and utilization reports to identify and define problem areas and to establish end-to-end systems performance levels.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+8.
+Evaluates the effectiveness of systems, devices, procedures, and methods used to safeguard information in computer accessible media and ensures correction of all state deficiencies on systems containing applicable security technologies.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+9.
+I certify that, to the best of my knowledge, all of the information on the questionnaire and documents attached to this application is true, correct, complete, and made in good faith. I understand that false or fraudulent information on the questionnaire and documents attached to this application may be grounds for non-selection or termination?
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
