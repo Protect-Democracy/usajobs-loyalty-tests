@@ -1,0 +1,92 @@
+Position Title
+Program Analyst
+Agency
+Veterans Benefits Administration
+Announcement Number
+101-26-SE-12917942-NB Opens in new window
+Open Period
+Mar 23, 2026 to Mar 26, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+Are you a current federal employee displaced from the agency hiring for this position? If yes, confirm:
+you are located in the same local commuting area of the vacancy; AND,
+you are applying to a specific vacancy at or below your current grade level with no greater promotion potential than your current position; AND,
+your last performance rating of record is at least fully successful or the equivalent.
+
+For more information, review the USAJOBS Help Center.
+
+To verify your eligibility, you must submit supporting documentation such as a Reduction in Force (RIF) separation notice or a Proposed Removal/Separation notice to include your latest performance rating (if the notice does not have this information included, you must submit a copy of your most recent performance appraisal) and a copy of your latest Notification of Personnel Action, Standard Form 50.
+ Yes
+ No
+
+
+Preferences
+1.
+Which of the following items describes your current or recent (within the last five years) political appointee service?
+
+If you responded yes to any of the items below, you will need to include a SF-50 specifying your prior service.
+ A. Yes, I am considered a political appointee as described under 5 U.S.C. sections 5312 through 5316.
+ B. Yes, I am considered a Non-career Senior Executive Service (SES), Limited Term SES, Limited Emergency SES Executive Branch employee.
+ C. Yes, I am considered a political Schedule A, Schedule C, or appointee who served in a political capacity under agency-specific authority in the Executive Branch.
+ D. Yes, I am considered a political appointee in the Executive Branch (as described in a., b. or c above) in a covered position in an agency having an interchange agreement with OPM, which allows movement from the agency's system to the competitive civil service.
+ E. None of the above. I am not considered a current or recent (last 5 years) political appointee as described above in items a, b, c, or d.
+
+
+Assessment 1
+This vacancy is open ONLY to current permanent employees of the Veterans Benefits Administration (VBA) and Veterans Affairs (VA) CTAP eligibles within the Atlanta RO.
+
+
+1.
+Are you a current/former permanent employee of VBA, Atlanta RO?
+ Yes, I am a current/former VA employee who is CTAP eligible and will submit my CTAP documentation as specified in the vacancy announcement..
+ No, I do not meet the criteria listed above.
+
+
+TIME-IN-GRADE - As a current Federal, GS employee you must meet time-in-grade requirements.
+
+
+2.
+At the GS-13 grade level, you must have served 52 weeks at the GS-12 or held the GS-13 or higher grade. Please select the response below that most accurately describes you:
+ I have held a GS-13 grade (or higher).
+ I have at least one year in a GS-12 position.
+ Neither A nor B applies to me.
+
+
+MINIMUM QUALIFICATIONS: This section includes questions about your qualifications for this position.
+
+
+3.
+Based on the descriptions below, please select the response that best reflects your level of experience for the GS-13 Management and Program Analyst position.
+
+Specialized Experience at the GS-12 and above includes: Experience that has equipped the applicant with the particular knowledge, skills, and abilities to perform successfully the duties of the position(s), and that is typically IN OR RELATED TO the work of the position to be filled.
+
+The applicant must have experience extracting data from VBA's EDW or Tableau Server, and analyzing the data using Microsoft Excel, Tableau Desktop, R, Python, or SAS tools. Candidates must have experience analyzing datasets with a one-to-many data relationship.
+ I have at least one year of experience equivalent to at least the GS-12 grade level and specialized experience as described in the job announcement.
+ My experience is not described above.
+
+
+As previously explained, your responses in this Assessment Questionnaire are subject to evaluation and verification. Later steps in the selection process are specifically designed to verify your responses. Deliberate attempts to falsify information will be grounds for disqualifying you or for dismissing you from employment following acceptance. Please take this opportunity to review your responses to ensure their accuracy. If you fail to answer this question, you will be disqualified from consideration for this position.
+
+
+4.
+I certify that, to the best of my knowledge and belief, all of the information included in this questionnaire is true, correct, and provided in good faith. I understand that if I make an intentional false statement, or commit deception or fraud in this application and its supporting materials, or in any document or interview associated with the examination process, I may be fined or imprisoned (18 U.S.C. 1001); my eligibilities may be cancelled, I may be denied an appointment, or I may be removed and debarred from federal service (5 C.F.R. part 731). I understand that any information I give may be investigated. I understand that responding "No" to this item will result in not being considered for this position.
+ Yes, I certify that the information provided in this questionnaire is true, correct and provided in good faith, and I understand the information provided above.
+ No, I do not certify/ understand the information provided above.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
