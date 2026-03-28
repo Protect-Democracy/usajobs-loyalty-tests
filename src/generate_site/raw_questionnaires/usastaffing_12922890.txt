@@ -1,0 +1,139 @@
+Position Title
+IT SPECIALIST (INFOSEC)
+Agency
+Air National Guard Units
+Announcement Number
+KS-12922890-AF-26-105 Opens in new window
+Open Period
+Mar 26, 2026 to Apr 09, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+All on-board National Guard Title 32 Excepted Technicians within the state for which you are applying (Title 32 Permanent and Excepted Indefinite).  Are you a current on-board National Guard Title 32 Excepted Technician within the state for which this position is being advertised?
+
+To verify your eligibility, you must submit a copy of your most recent Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Tenure in Block 24 (1, 2, or 3).
+ Yes
+ No
+
+
+Preferences
+1.
+Are you a current on-board indefinite or permanent federal employee or technician within the 190TH CS?
+
+
+-To verify your eligibility, you must submit a copy of your most recent Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Tenure in Block 24 (1, 2, or 3).
+
+ Yes
+ No
+
+
+2.
+Do you currently hold the rank of E-3 through E-7?
+ 
+ANSWER YES, if you're an enlisted applicant who holds a higher grade and will provide a statement of understanding with your application indicating a willingness to be administratively reduced in grade to the highest grade advertised, if selected for the position.
+
+ Yes
+ No
+
+
+Assessment 1
+Respond to all questions. For each, choose the response that best describes your experience and/or training. Your response should be clearly supported in your resume. 
+
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+1.
+Do you have the basic knowledge of data processing functions and general management principles that enabled the applicant to understand the stages required to automate a work process. Experience may have been gained in work such as computer operator or assistant, computer sales representative, program analyst, or other positions that required the use or adaptation of computer programs and systems?
+ Yes
+ No
+
+
+2.
+Do you have at least 1-year specialized experience equivalent to at least the next lower grade that approaches techniques and requirements appropriate to an assigned computer applications area or computer specialty area in an organization. Experience planning the sequence of actions necessary to accomplish the assignment where this entailed coordination with others outside the organizational unit and development of project controls. Experience that required adaptations of guidelines or precedents to meet the needs of the assignment. Experience preparing documentation on cost/benefit studies where is involved summarizing the material and organizing it in a logical fashion?
+ Yes
+ No
+
+
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+
+
+3.
+In-depth knowledge of a wide range of telecommunications and computer Information Technology security, techniques, requirements, methods, sources and procedures for the following programs: Computer Security (COMPUSEC); network security, communications security (COMSEC), Electronic Key Management System (AFEKMS), Emissions Security (EMSEC), STU III, Secure Voice Device systems, FORTEZZA security, and Security Awareness, Training, and Education (SATE) Information Assurance Awareness Program. This knowledge is necessary to provide appropriate direction to base-level functions.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+4.
+Knowledge of concepts, principles, methods, and practices in the information systems security to design, develop, implement, and maintain secure systems and services, assess the effectiveness of current systems security and services, evaluate the feasibility of new systems security and services, and provide advice and guidance on complex issues.
+
+
+
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+5.
+Knowledge of information systems security principles and methods to design, develop, implement, and manage systems, networks, and data that ensure confidentiality, integrity, and availability.
+
+
+
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+6.
+Knowledge of methods for evaluating, implementing, and disseminating information systems security tools and procedures to ensure, protect, and restore information security systems and network services and capabilities.
+
+
+
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+7.
+Knowledge of a wide variety of security concepts, principles, practices and governing directives in order to disseminate policy, adapt local policy and implement instructions for Wing/Base personnel.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+8.
+Ability to provide technical leadership on projects that require group efforts.
+
+
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+10.
+I certify that, to the best of my knowledge and belief, all of the information included in this questionnaire is true, correct and provided in good faith.  I understand that if I make an intentional false statement or commit deception or fraud in this application or its supporting materials, or in any document or interview associated with the examination process, I may be fined or imprisoned (18 U.S.C 1001); my eligibilities may be canceled; I may be denied an appointment; or I may be removed and debarred from Federal Service (5 C.F.R Part 731).  I understand that any information I give may be investigated. I understand that responding "No" to this item will result in my not being considered for this position.
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
