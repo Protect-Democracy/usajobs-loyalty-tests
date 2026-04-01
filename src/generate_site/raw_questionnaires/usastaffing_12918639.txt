@@ -1,0 +1,134 @@
+Position Title
+Business Information Specialist
+Agency
+Export-Import Bank of the United States
+Announcement Number
+IM26-SR-12918639-IDS Opens in new window
+Open Period
+Mar 30, 2026 to Apr 03, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Career Transition Assistance Plan (CTAP):   I am a current or former Export Import Bank of the United States employee displaced from a position in the same local commuting area of the vacancy. I have a current (or last) performance rating of record of at least fully successful or the equivalent. Applicants eligible under CTAP are provided priority selection for vacancies within the local commuting area for which they apply and are well qualified. NOTE: If you indicate "yes" for this statement, you must submit copies of the appropriate documentation, such as a reduction in force (RIF) separation notice, a SF50 reflecting your RIF separation, or a notice of proposed removal for declining a directed reassignment or transfer of function to another commuting area. You must also submit documentation to reflect your current (or last) performance rating of record.
+ Yes
+ No
+
+
+2.
+Export Import Bank of the United States Employee:  I am a current Export-Import Bank Employee (Current Competitive Service, Career/Career-Conditional Employees).
+
+ Yes
+ No
+
+
+Short Essay Questions
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+
+
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+
+
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+
+
+3.
+How would you help advance the President's Executive Orders and policy priorities in this role? Identify one or two relevant Executive Orders or policy initiatives that are significant to you, and explain how you would help implement them if hired.
+
+
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+
+
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+
+
+Assessment 1
+Your resume and supporting documents must support the responses you select (Failure to provide a response below may result in further lack of consideration for this announcement).
+
+
+
+1.
+Are you a current Export-Import Bank Employee (Current Competitive Service, Career/Career-Conditional Employees)?
+ Yes
+ No
+
+
+2.
+Do you have one year of specialized experience equivalent to the GS-09 level in the Federal service or other equivalent pay system that has equipped you to perform the major duties of this position? This specialized experience includes:
+Experience participating in the development, implementation, and execution of data management and reporting processes;
+Experience developing data standards and implementing measures for the assessment and improvement of existing data management processes, policies, and systems; AND
+Experience working collaboratively with other internal or external data partners (IT, business users, etc.).
+ Yes (Your resume must reflect this specialized experience in order to qualify for the GS-11 grade level).
+ My experience is not reflected in the description above.
+
+
+3.
+Please indicate which position(s) on your resume supports this response (include title, agency/organization, dates of experience (month/year to month/year) DO NOT COPY AND PASTE RESUME or state 'REFER TO RESUME'.
+
+
+4.
+You are responsible for ensuring data consistency across multiple systems in your organization. A new initiative requires you to use a master data management (MDM) system to consolidate and maintain accurate data records. What would you most likely do in this situation?
+
+ Follow established MDM procedures to update or validate data and escalate discrepancies to the appropriate team for resolution.
+ Monitor key data elements in the MDM system, collaborate with stakeholders to address inconsistencies, and update records as issues are identified.
+ Use the MDM system primarily to check data status and track changes, referring complex issues to others for action.
+ Proactively review and reconcile data in the MDM system, ensuring records are accurate, complete, and consistent across all systems, and resolve any conflicts immediately.
+ I would perform none of the above.
+
+
+5.
+You are assigned to review data collected from multiple internal and external sources to support program reporting and trend analysis. During your review, you identify discrepancies that may affect the validity and accuracy of the data and the conclusions drawn from it. Which statement best reflects what you would do?
+
+ I use the data source that appears most reliable and proceed with reporting, assuming minor discrepancies will not significantly impact overall results.
+ I flag the discrepancies and notify my supervisor or data owner, allowing them to determine how the issues should be resolved before finalizing the data.
+ I review the data for inconsistencies and follow up with data providers to clarify discrepancies. Once corrected, I update the dataset and report the revised information, noting any recurring issues I observe.
+ I systematically compare data across all sources to identify discrepancies, verify questionable data by consulting source documentation and stakeholders, and resolve issues through reconciliation or correction. I document findings, explain data limitations, and analyze trends to ensure leadership receives accurate, reliable information.
+ I would perform none of the above.
+
+
+6.
+You are asked to support a system enhancement that will change how users perform key business functions. To ensure consistent implementation, the enhancement requires clearly defined business rules and updated operational process guides. Which statement best reflects what you would do?
+
+ I rely on system requirements provided by IT or leadership and make limited updates to process documentation as needed, referring users to system help materials for additional guidance.
+ I work with subject matter experts to identify business rules for the enhancement and update existing process documentation to reflect the changes, sharing the guidance with users once finalized.
+ I collaborate with stakeholders to gather and validate business requirements, translate them into clearly defined business rules, and document how the enhancement impacts workflows. I develop or update operational process guides to reflect the changes, ensure alignment with policy and system functionality, and maintain the documentation for ongoing use and future updates.
+ I focus primarily on implementing the system enhancement and assume users will adapt to the changes without the need for detailed business rules or updated process guides.
+ I would perform none of the above.
+
+
+7.
+You are assigned to support an initiative to improve reporting and analytics that requires coordination with IT, business, and operational units. Your role includes gathering and translating business requirements, supporting User Acceptance Testing (UAT), and assisting with production support to ensure reporting solutions meet user needs and function as intended. Which statement best reflects what you would do?
+
+ I proceed with the dashboard/report as delivered, assuming discrepancies are normal between systems, and focus on meeting the briefing deadline rather than validating the data or coordinating further testing.
+ I defer primarily to IT to determine requirements and testing approach, and I assist by communicating updates to users and leadership when IT provides status or changes.
+ I convene the right stakeholders (IT, business, and operations) to confirm the reporting purpose and define measurable requirements and acceptance criteria. I translate requirements into clear specifications, support UAT by preparing test scenarios, validating results against source systems, logging defects with reproducible steps, and coordinating fixes. For production support, I monitor deployment outcomes, communicate impacts and workarounds when needed, and ensure documentation is updated so reporting remains accurate and sustainable.
+ I gather requirements from business users, share them with IT, and support UAT by asking users to test and report issues. If numbers don’t match, I escalate to IT and wait for corrections, then share the updated report once it’s fixed
+ I would perform none of the above.
+
+
+8.
+You are assigned to evaluate a master data management (MDM) system that supports enterprise reporting and analysis. Users report inefficiencies in retrieving and analyzing data, inconsistencies in how data is managed across systems, and concerns about data integrity affecting reporting and decision making. Which statement best reflects what you would do?
+
+ I work with stakeholders to identify data quality issues in the MDM system and recommend process or system changes to improve consistency and reporting. Once changes are implemented, I help update documentation and notify users of improvements.
+ I analyze how data is created, maintained, and used across source systems to identify root causes affecting data quality and usability. I develop recommendations to standardize data definitions, improve governance and validation rules, and streamline processes to enhance retrieval, analysis, and reporting. I partner with IT and business owners to implement system and process changes, document updates, and monitor outcomes to ensure data integrity and sustained improvement.
+ I continue using the MDM system as designed and focus on manual workarounds to retrieve and analyze data rather than recommending system or process changes.
+ I report data integrity and usability concerns to system owners or leadership and assist with limited testing or validation once changes are made, relying on existing processes for long term maintenance.
+ I would perform none of the above.
+
+
+9.
+I certify that, to the best of my knowledge and belief, all of the information included in this questionnaire is true, correct, and provided in good faith. I understand that if I make an intentional false statement, or commit deception or fraud in this application and all supporting materials, including my resume, or in any document or interview associated with the examination process, I may be fined or imprisoned (18 U.S.C. 1001); my eligibilities may be cancelled; I may be denied an appointment; or I may be removed and debarred from Federal service (5 C.F.R. part 731). I understand that any information I give may be investigated. I understand that I will not be considered for employment if I do not respond "Yes" to this certification item.
+
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
