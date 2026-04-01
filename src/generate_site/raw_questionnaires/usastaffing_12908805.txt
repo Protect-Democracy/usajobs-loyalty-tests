@@ -1,0 +1,179 @@
+Position Title
+HR SPEC (INFORMATION SYSTEMS)
+Agency
+Army National Guard Units
+Announcement Number
+MS-12908805-AF-26-017 Opens in new window
+Open Period
+Mar 13, 2026 to Mar 27, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+US Citizens.  Are you a US Citizen?
+ Yes
+ No
+
+
+Preferences
+1.
+Select the lowest grade you are willing to accept for this position.
+11
+12
+
+
+Assessment 1
+Please answer the following questions by selecting the appropriate response(s). NOTE: Applicants are responsible for claiming their appropriate eligibility/eligibilities. We are not responsible for erroneous eligibilities that you list or those you fail to list. You must submit proof of eligibility for veteran's preference. Ensure you thoroughly read the instructions for each section.
+
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+1.
+Have you retired from military service in the last 180 days? If so, you must attach your retirement DD 214 to your application.
+ Yes
+ No
+
+
+2.
+Do you have the following seven basic qualification competency factors?
+
+- Skilled in collecting and analyzing data effectively, efficiently, and accurately;
+- Ability to clearly enunciate English without impediment of speech that would interfere or prohibit efficient communication;
+- Ability to write English in reports and presentation formats;
+- Ability to communicate clearly and effectively;
+- Skilled in presenting formal training presentations and briefings;
+- Ability to assess body language and perceive emotional and/or distress levels; and,
+- Skilled in applying procedures and directives by reading and interpreting program material.
+ Yes
+ No
+
+
+3.
+GS-11 Journeyman: Must have at least one year specialized experiences at the GS-09 Novice level or the equivalent which provided a working knowledge of National Guard missions, organizations, and federal civilian or military personnel programs. Experience performing the duties of the position; or, provide a range of competencies that provide familiarity with the subject matter or processes used in human resources programs associated with the OPM, DoD, U.S. Army, and U.S. Air Force Human Resources Programs. Must have experiences in executing personnel programs and Human Resources Information Systems. Must have knowledge and understanding of the personnel and manpower core competencies: Organization Structure; Requirements Determination; Program Allocation and Control; and, Performance Improvement. Experienced in performing technician personnel program requirements that involve advising supervisors and managers; and, experienced in completing accession planning and processing; classification and position management; and, civilian promotions. Experienced in advertising technician positions, processing assignments or reassignment actions; reviewing human resources development programs; applying education and training policy requirements; discussing retraining procedures; and/or providing retirement options. Competent in merit principles, personnel plans, programs, and policies to guide or advise others on their implementation activities. Experienced in performance management and productivity programs; or, advising on process improvement, best practices, and performance techniques. Do you meet this specialized experience? And is it reflected on your resume?
+ Yes
+ No
+
+
+4.
+GS-12 Advanced: In addition to the GS-11 specialized experience, applicants must have at least one year of specialized experiences at the GS-11 level or the equivalent which provided a working knowledge of National Guard missions, organizations, and federal civilian or military personnel programs. Must have experiences in executing personnel programs and Human Resources Information Systems. Experienced in performing personnel program requirements that involve advising supervisors and managers; and, experienced in completing accession planning and processing; classification and position management; and, civilian promotions. Experienced in performance management and productivity programs; or, advising on process improvement, best practices, and performance techniques. Experienced on mentorship activities. Experienced in the allocation of civilian resources through execution and management of the applicable manpower documents and higher headquarters' manpower directives and requirements. Competent in processing organization change actions to activate, inactivate, redesignate, or reorganize structures. Skilled and experienced in assessing program status; and, advising senior leaders or commanders, at all levels. Experienced in managing human resources development programs, education, voluntary education, advanced academic education, promotion testing, and libraries. Do you meet this specialized experience? And is it reflected on your resume?
+ Yes
+ No
+
+
+5.
+This position is designated as Essential Personnel and may be subject to duty in preparation for, or in response to, a state emergency or disaster declaration. Head of Agency requests to exceed 14 calendar days per year must be approved in advance by the National Guard, Director of Manpower and Personnel (NGB J1). Do you agree to this requirement?
+
+ Yes
+ No
+
+
+6.
+Are you aware that this is not a remote job, and that daily attendance in the office (Hours 0700-1630) is required? Do you agree to this condition of employment?
+ Yes
+ No
+
+
+7.
+There are no relocation expenses available with this position and you are expected to report to work within 60 days. Are you able to meet this suspense, if applicable?
+ Yes
+ No
+
+
+8.
+Irregular and overtime (COMPENSATORY) hours may be required to support operational requirements or contingencies. Can you support these requirements?
+ Yes
+ No
+
+
+9.
+Do you understand that failure to provide hours worked per week, along with dates of employment (month/year or month/year to present), and estimated salary on your resume will disqualify your application?
+ Yes
+ No
+
+
+For each task in the following group, choose the statement from the list below that best describes your experience and/or training. Please select only one letter for each item.
+
+
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+
+
+10.
+Manages access for all HR information systems including accountability, verification, and validation of resources. Performs user account management services by identifying user additions, modifications, deletions, group assignments, and system privileges.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+11.
+Reviews data flow actions to ensure that interfacing systems are updated initiating the re-flow process when necessary.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+12.
+Advises applicable personnel of any updates for coding, system transactions, and maintaining system security.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+13.
+Provides technical assistance and guidance to supervisors, leadership, and various staff members in the operation, maintenance, and capabilities of various Human Resource Information Systems (HRISs) such as automated personnel systems, automated records management systems, case management systems, personnel records applications, HR In-Processing via virtual platforms, and virtual personnel services.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+14.
+Working knowledge of HR computer applications and ability to integrate new, existing, and proposed applications into the operating environment. Ability to retrieve and provide HR reports to the serviced population.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+15.
+Advanced knowledge of HR laws, regulations, principles, policies, and concepts related to the assigned functional area sufficient to plan and coordinate activities, provide HR management advisory services, and serve as a strategic and technical resource to management and HR Specialists on difficult or controversial issues.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+16.
+Do you certify that all of your responses to this questionnaire are true and accurate; and do you accept that if your supporting documentation does not support one or more of your responses to the questionnaire that your application may be rated lower or you may be removed from further consideration?
+
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
