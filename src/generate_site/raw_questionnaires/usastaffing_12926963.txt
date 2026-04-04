@@ -1,0 +1,171 @@
+Position Title
+TELECOMMUNICATIONS SPECIALIST
+Agency
+Air National Guard Units
+Announcement Number
+MS-12926963-AF-26-028 Opens in new window
+Open Period
+Apr 02, 2026 to Apr 16, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+US Citizens.  Are you a US Citizen?
+ Yes
+ No
+
+
+Assessment 1
+Please answer the following questions by selecting the appropriate response(s). NOTE: Applicants are responsible for claiming their appropriate eligibility/eligibilities. We are not responsible for erroneous eligibilities that you list or those you fail to list. You must submit proof of eligibility for veteran's preference. Ensure you thoroughly read the instructions for each section.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+1.
+Have you retired from military service in the last 180 days? If so, you must attach your retirement DD 214 to your application.
+ Yes
+ No
+
+
+2.
+Do you possess the following basic qualification competency factors:
+Skilled in collecting and analyzing data effectively, efficiently, and accurately
+Skilled in presenting formal training presentations and briefings
+Skilled in the operational and performance characteristics of communications equipment, automated control and network management systems, transmission media, and the relationships among component parts of telecommunications systems
+Skilled in applying procedures and directives by reading and interpreting program material
+Knowledge of communications equipment, systems, services, and transmission media
+Knowledge of electronic communications concepts, principles, practices, procedures, policies, standards, and operational requirements
+Ability to clearly enunciate English without impediment of speech that would interfere or prohibit effective communication
+Ability to write English in reports and presentation formats
+Ability to communicate clearly and effectively
+Ability to apply specialized communications methods and analytical technique
+ Yes
+ No
+
+
+3.
+Do you possess 36  months of experience meeting the position's specialized experiences and competencies in planning and designing the Information Technology (IT) networks and telecommunications required to support the ACS Weapon System, specializing in the interconnection and integration of tactical radar sites and other participants of the Weapons System; and, to analyze, monitor, and optimize their performances, securities, and capacities during peacetime and wartime operations. Experiences included providing information technology and telecommunications functions and services which support programs essential to Air National Guard daily operations, training, and readiness missions. Skilled in planning and coordinating mission accomplishments and training requirements for ACS members. Skilled in analyzing, planning, and designing data, video, and voicmultiplexers. Experienced in developing and publishing communication plans, such as network priorities; network designs and configurations (IP addresses and phone numbers); secure and un-secure circuits; and, equipment architecture and layout for employment of computer and telecommunications systems to support in-garrison and deployed operations. Relates mission requirements to existing technology, policies and priorities, systems capabilities, available technology and services, operating practices and procedures, equipment and staffing requirements, to provide network services that support operational requirements. Experiences included work in local operating frequency assignments and control programs. Provided technical guidance and direction for different aspects of radio frequency spectrum analysis. Competent to determine the compatibility of frequency assignments for fixed station and/or mobile radio, radar, satellite links, and other systems used by the military. Skilled competencies in coordinating frequency assignments with unit spectrum managers, local Spectrum Managers, networks carried over various transmission systems such as, multichannel satellite, troposphere and copper cable systems and other agencies such as Federal Aviation Agency. Has knowledge and under-standing of the operating characteristics of communications equipment, services, and systems in order to provide guidance and direction pertaining to network systems and circuits of communications equipment/systems. requirements. Skilled in how the network and communications systems interacts with and affects the overall weapons system. Skilled and knowledgeable of a wide variety of telecommunications systems, technology, and operations, as well as methods, procedures, regulations and other guides that relate to a particular area. Knowledgeable of the mission, objectives, terminology, and management practices in the organization to recognize probable areas of interaction and overlap between proposed and existing systems. Skilled in applying DOD, AF, and NGB policies, standards, directives, and operations manuals to perform systems analysis, evaluate approaches, offer advice, define alternative approaches, and coordinate requirements regarding the merits of proposed applications, and design changes. Understands the overall network and communication architecture and overall project scope to evaluate new systems. Experiences include work in maintaining work center training programs. Understands on-the-job training (OJT) requirements and skilled in maintaining OJT records.
+ Yes
+ No
+
+
+4.
+There are no relocation expenses available with this position and you are expected to report to work within 60 days. Are you able to meet this suspense, if applicable? Answer YES if it doesn't apply to you. 
+
+ Yes
+ No
+
+
+5.
+This position is designated as Essential Personnel and may be subject to duty in preparation for, or in response to, a state emergency or disaster declaration. This designation will not exceed 14 calendar days per year unless otherwise approved in advance by the TAG. Do you agree to this requirement?
+ Yes
+ No
+
+
+6.
+For positions requiring a security clearance (Secret or Top Secret) the applicant must possess or be able to obtain a clearance within one year of appointment. Do you agree to this requirement?
+ Yes
+ No
+
+
+INSTRUCTIONS: Respond to all the questions below. For each question, choose the response below that best describes your experience and/or training. Please select only one letter for each item. Please note that your answers will be verified against the information you provide in your resume or application and information your references provide.
+
+
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+
+
+7.
+Knowledge of network systems and telecommunication systems technology and operations, sufficient to design, plan, manage, install, integrate, test, maintain, and/or execute network and telecommunications systems, services, or operations needed to satisfy the mission requirements. Knowledge of how the network and communications systems interacts with and affects the over all weapons system.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+8.
+Knowledge of a wide variety of telecommunications systems, technology, and operations, as well as methods, procedures, regulations and other guides that relate to a particular area.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+9.
+In-depth knowledge of hardware, software, network operations functions, packet switching communications protocols, and diagnostic tools to gather and analyze difficult and complex system and end user problems, furnish assistance, and provide a resolution.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+10.
+Knowledge of the mission, objectives, terminology, and management practices in the organization to recognize probable areas of interaction and overlap between proposed and existing systems.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+11.
+Comprehensive knowledge of a wide range of IT concepts, principles, methods and practices to plan and provide network services that support mission requirements.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+12.
+Comprehensive knowledge and skill in applying DOD, AF, and NGB policies, standards, directives, and operations manuals to perform systems analysis, evaluate approaches, offer advice, define alternative approaches, and coordinate requirements regarding the merits of proposed applications, design changes, etc.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+13.
+Knowledge of the overall network and communication architecture and overall project scope to evaluate new systems to be integrated or converted so they work within current or proposed architecture and provide alternatives, costs, training concerns, and recommendations for conversion and/or integration.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+14.
+Knowledge of a wide range of telecommunications and computer security, techniques, requirements, methods, sources, and procedures. Knowledge of the AFEKMS program and related hardware and software.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+15.
+Your responses in this Assessment Questionnaire are subject to evaluation and verification using your resume. Later steps in the selection process are specifically designed to verify your responses. Deliberate attempts to falsify information will be grounds for disqualifying you or for dismissing you from employment following acceptance. Please take this opportunity to review your responses to ensure their accuracy. If you fail to answer this question, you will be disqualified from consideration for this position.
+I certify that, to the best of my knowledge and belief, all of the information included in this questionnaire is true, correct, and provided in good faith. I understand that if I make an intentional false statement, or commit deception or fraud in this application and its supporting materials, or in any document or interview associated with the examination process, I may be fined or imprisoned (18 U.S.C. 1001); my eligibilities may be cancelled, I may be denied an appointment, or I may be removed and debarred from Federal service (5 C.F.R. part 731). I understand that any information I give may be investigated. I understand that responding "No" to this item will result in my not being considered for this position.
+
+ Yes, I certify that the information provided in this questionnaire is true, correct and provided in good faith, and I understand the information provided above.
+ No, I do not certify the information provided above.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
