@@ -1,0 +1,278 @@
+Position Title
+SUPERVISORY IT SPECIALIST (GROUP MANAGER)
+Agency
+Office of the Chief Information Officer
+Announcement Number
+26-CEC-12926074 Opens in new window
+Open Period
+Apr 03, 2026 to Apr 09, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Are you a surplus or displaced Federal employee eligible under the Career Transition Assistance Plan (CTAP)?  Click CTAP for eligibility and a detailed list of required documents you must submit in order to be eligible.
+ Yes
+ No
+
+
+2.
+Are you a current USDA employee who is eligible for competitive consideration under any of the following categories?
+Current USDA agency employees who are qualifying as Status Eligibles
+Current USDA agency employees currently serving on a permanent Veterans Recruitment Appointment (VRA)
+ Yes
+ No
+
+
+3.
+Are you a current USDA employee under any of the following categories?
+Current USDA employee in the Competitive service on a permanent career or career-conditional appointment, who currently holds (or have previously held) on a permanent basis, a position in the competitive service, with promotion potential equivalent to (or higher than) the full performance level of the position advertised in this vacancy announcement.
+Current USDA employee serving on a VRA appointment
+ Yes
+ No
+
+
+Preferences
+1.
+Are you currently serving or have served in the last five years in a Political Appointment in the Federal Government?
+ Yes
+ No
+
+
+2.
+
+Submit a copy of your most recent, signed, completed annual performance appraisal which includes the final rating, dated within the last 18 months.
+
+Type "yes" in the text box below if you are providing a performance appraisal meeting the above requirements with your application. If you are unable to provide a performance appraisal with your application for any reason (not employed, current employer does not give a performance appraisal, etc.), please provide a reason in the text box below. "N/A" is not considered an acceptable response.
+
+
+
+Reminder: In addition to this questionnaire, you must also submit all information with documents applicable to you as described in the vacancy announcement under "Required Documents." Please read the vacancy announcement carefully. Also please follow the online instructions carefully for submitting documents and check your account to confirm the documents are received in the online hiring system prior to the closing date. If all the required information is not submitted, you will be found ineligible for this position.
+
+
+3.
+If you were born a male after December 31, 1959, and are at least 18 years of age, have you registered with the Selective Service System (select "Not applicable" if this question does not apply to you)?
+ Yes
+ No
+ No, but I have an approved exemption
+ Not applicable
+
+
+Assessment 1
+For the GS-13, you must have one year of specialized experience at a level of difficulty and responsibility equivalent to the GS-12 grade level in the Federal Service. Specialized experience for this position includes:
+- Accomplishing projects that require experience with information technology (IT) requirements and techniques; AND
+- Supervising or leading a team of employees, and/or oversees IT support contract(s) that carry out the daily IT support requirements of end-users, customers, or business partners; AND
+- Interacting with an IT organization on initiatives; AND
+- Providing liaison and pertinent information between an organization and customers; AND
+- Providing progressive improvements and more cost-effective service to the customers.
+
+AND
+
+In addition to meeting specialized experience, individuals must have IT-related experience demonstrating each of the four competencies listed below.
+1. Attention to Detail- Is thorough when performing work and conscientious about attending to detail.
+2. Customer Service- Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services.
+3. Oral Communication- Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately.
+4. Problem Solving- Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.
+
+
+1.
+For the GS-13, select the answer that best describes your experience.
+ I have at least one (1) full year of specialized experience as described above and in the job announcement.
+ I do not have one full year of specialized experience equivalent to the definition as described above.
+
+
+2.
+Please give the dates/resume reference when you gained this experience so it may be found to ensure you receive proper credit.
+
+
+For the GS-12, you must have one year of specialized experience at a level of difficulty and responsibility equivalent to the GS-11 grade level in the Federal Service. Specialized experience for this position includes:
+- Accomplishing projects that required experience with information technology (IT) requirements and techniques; AND
+- Managing projects and tasks that carry out the daily IT support requirements of end-users, customers, or business partners; AND
+- Interacting with an IT organization on initiatives; AND
+- Providing liaison and pertinent information between an organization and customers; AND
+- Providing progressive improvements and more cost-effective service to the customers.
+
+AND
+
+In addition to meeting specialized experience, individuals must have IT-related experience demonstrating each of the four competencies listed below.
+1. Attention to Detail- Is thorough when performing work and conscientious about attending to detail.
+2. Customer Service- Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services.
+3. Oral Communication- Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately.
+4. Problem Solving- Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.
+
+
+3.
+For the GS-12, select the answer that best describes your experience.
+ I have at least one (1) full year of specialized experience as described above and in the job announcement.
+ I do not have one full year of specialized experience equivalent to the definition as described above.
+
+
+4.
+ Please give the dates/resume reference when you gained this experience so it may be found to ensure you receive proper credit.
+
+
+5.
+Select the statement(s) that describe your experience with training and development of other IT specialists. Choose all that apply.
+ A. I provided IT Infrastructure Training (ITIL) or IT Service Management (ITSM) training to others on multiple occasions.
+ B. I routinely provided quality control by reviewing the work of others and maintaining consistent ITIL Incident Management processes.
+ C. I routinely provided mentoring, coaching and development of other IT specialists
+ D. I oversaw the successful onboarding of new hires into an organization.
+ E. I worked with employees to identify their developmental and training needs and goals.
+ F. I assisted my supervisor with training and development of peer employees.
+ G. None of the above.
+
+
+6.
+Which statement best describes your IT leadership experience? Choose the best answer.
+ I have experience as a permanent supervisor over a group of IT employees.
+ I have at least one year of experience as a permanent "Project Leader" or “Team Leader” over a group of IT employees.
+ I have experience overseeing the work of other IT specialists as a senior IT specialist, but not as a permanent supervisor or "Project Leader
+ I have at least one year of experience overseeing a project with a group of peers.
+ None of the above.
+
+
+7.
+Select the statement(s) that describe your experience mentoring, coaching, and assisting other IT specialists? Choose all that apply.
+ A. I have worked in a position that was responsible for inspiring and motivating others toward reaching established goals.
+ B. I am flexible and can easily adapt to different styles of leadership to suit various situations.
+ C. I have been instrumental in helping lead a team to overcome various challenges.
+ D. None of the above.
+
+
+8.
+Select the project leadership function(s) that you have successfully performed and led. Choose all that apply. 
+ A. Set project goals, milestones, and expectations.
+ B. Planned work assignments to be given to project/team members.
+ C. Organized employees’ work, set priorities, and determined resource requirements.
+ D. Reviewed completed work for technical accuracy, completeness, and timeliness.
+ E. Resolved conflicts, differences, or problems among project team members as they arose.
+ F. Reported progress to senior managers and informed them of any issues that may get elevated to a higher level.
+ G. Evaluated the effectiveness of completed projects based on Service Level Agreements, metrics or other standards.
+ H. None of the above.
+
+
+9.
+Select the statement(s) that describe the duties you have performed on a regular and recurring basis. Choose all that apply.
+ A. Planned work to be accomplished by employees, set and adjusted priorities, and prepared schedules for the completion of work.
+ B. Assigned work to employees based on priorities, equity, consideration of the difficulty of assignments, and the capabilities of employees.
+ C. Evaluated employees' work to ensure they were producing positive results or meeting requirements.
+ D. Responsible for interviewing and hiring candidates for positions.
+ E. Instructed employees on both program work and administrative matters.
+ F. Provided formal and informal performance feedback to employees.
+ G. Addressed employee conduct issues by taking appropriate actions such as counseling, reprimands or suspension.
+ H. Coached employees on performance issues to help them improve upon their performance.
+ I. Recommended individuals for details, awards, bonuses, promotions, and reassignments.
+ J. None of the above.
+
+
+10.
+Which of the following best describes your experience working with multiple IT projects? Choose the best answer.
+ I have led multiple IT projects concurrently on a consistent basis.
+ I have performed multiple IT projects concurrently with minimal supervision.
+ I have performed multiple IT projects concurrently with significant assistance from other IT specialists.
+ None of the above.
+
+
+11.
+Which of the following best describes your experience managing, leading, or coordinating IT projects? Choose the best answer.
+ I have supervised or overseen staff or teams who have led IT projects and have provided guidance and direction ensuring successful timely completion of the project.
+ I have led or coordinated IT projects working with customers and other team members to deliver results for the successful completion of the project.
+ I have participated as a member of a project producing deliverables to support the effort.
+ None of the above.
+
+
+12.
+This position is responsible for communicating highly technical information to others with varying levels of IT knowledge. Select the statement(s) that describe the types of interpersonal communication duties you have performed in a job. Choose all that apply.
+ A. Provided direction, guidance, or instruction to a variety of customers.
+ B. Facilitated coordination of efforts between agencies in situations where frequent changes, delays, or unexpected events arose that caused shifts in priorities, timetables, or work assignments.
+ C. Briefed management/customers on the results of my work and project or task status.
+ D. None of the above.
+
+
+13.
+Select the statement(s) that describe(s) your experience providing Service Level Management and metric oversight (overseeing and meeting service delivery levels for customers, achieving and monitoring customer service metrics, engagement and liaison with customers on service delivery, etc.). Choose all that apply.
+ A. I have performed these tasks as a regular part of the job, independently and usually without review by supervisor or senior employee.
+ B. I have supervised or led a team in the performance of this task/competency.
+ C. I have trained other's so they can perform these tasks.
+ D. Others regularly consult me as a subject matter expert for assistance in performing these tasks.
+ E. None of the above.
+
+
+14.
+Which of the following best describes your experience leading a team? Choose the best answer.
+ I have led multiple project teams that included other IT specialists.
+ I have led a project team that included other IT specialists.
+ I have led one or more project teams, but they did not include other IT specialists.
+ I have never led a project team, but I am currently a member of one that includes other IT specialists
+ None of the above.
+
+
+15.
+Select the statement(s) that describe the activities you have successfully demonstrated while leading a project or team. Choose all that apply.
+ A. I fostered team unity and encouraged cooperation between customers, team members, and other departments.
+ B. I found and implemented ways of eliminating or significantly reducing bottlenecks that were barriers to productivity and team success.
+ C. I have actively solicited inputs from other team members to help improve the quality, acceptance, and timing of decisions.
+ D. I have provided positive recognition for team member contributions.
+ E. I have provided others with feedback and encouragement to help them become better team members.
+ F. None of the above.
+
+
+16.
+Which of the following best describes your experience making recommendations on improved IT processes or procedures? Choose the best answer.
+ I have experience as an IT supervisor overseeing and coaching staff to recommend or develop improved IT processes or procedures for implementation
+ I am not an IT supervisor but I have worked collaboratively with other team members or teams to recommend improvements to IT processes or procedures
+ I have experience independently researching and recommending improvements to IT processes or procedures.
+ None of the above.
+
+
+17.
+Select the level of collaboration, engagement, and communication with customers and coordination with other IT teams/management that you have provided in a position you have held which supports the organizational mission. Choose all that apply.
+ A. Collaborated with Agency customers and leadership on controversial or difficult issues resolving contentious or complex problems to the customers’ satisfaction. Kept management informed of pertinent issues.
+ B. Engaged regularly with customers on their IT requirements and support needs
+ C. Responded to data calls and Agency escalations.
+ D. Provided operational status or project updates on a regular basis to customers, other teams, and management.
+ E. Initiated or updated SOPS, documentation, guides, or knowledge articles for processes or functions to assist other teams or customers.
+ F. Provided presentation, training, or briefing materials and sessions to assist customers, other teams, or management.
+ G. None of the above.
+
+
+18.
+Select the statement(s) that describe your experience with leading teams that provide IT operational services to support the organizational mission. Choose all that apply.
+ A. I keep current with organizational strategic plans and Agency priorities and regularly communicate how the group’s efforts align with and support the organization’s goals. I foster a positive workforce.
+ B. I have developed and monitored work plans for staff or teams ensuring successful completion of efforts supporting the Agency’s priority projects, goals, and objectives. I have restructured and reprioritized work based on shifting priorities.
+ C. I have established and implemented goals and objectives that need additional emphasis within my team and area of responsibility.
+ D. In support of leadership decisions, I have led a project or initiative and positively supported the objectives that implemented policies or procedures that I didn't necessarily agree with.
+ E. None of the above.
+
+
+19.
+Select the statement(s) that describe your experience delivering timely, quality IT support for customers to support organizational priorities and goals. Choose all that apply.
+ A. I have supervised and led staff prioritizing, managing, and overseeing my team’s work efforts which directly support Agency goals. I monitor timeliness, quality, delivery of services, technical accuracy, customer satisfaction, and ensure that customer requirements are met. I respond to customer inquiries, provide feedback and directions to staff, and foster teamwork to deliver these services. I maintain close contact with leadership to ensure proper prioritization of work and standardized delivery of services. This oversight has contributed to the successful delivery of IT services which support the organization’s priorities.
+ B. I have communicated organizational priorities and management direction to a team and monitored completion of the efforts to ensure successful, timely delivery. I engaged team members on areas where they are able to provide input and incorporated that input when possible.
+ C. I have supervised or participated on a team of IT specialists that were responsible for completion of a major enterprise project which supported Agency or organizational objectives.
+ D. None of the above.
+
+
+20.
+Which of the following best describes your experience providing technical support to ensure customers can operate with their office IT systems? Choose the best answer.
+ Within the last two years, I have supervised a team responsible for assisting customers with setting up and configuring user accounts (e.g.,user profile, e-mail, and peripheral access), configuring accounts in Windows Active Directory, configuring workstations and software, troubleshooting user problems, and providing daily workstation, peripheral, telecommunications, network, and access support for customers.
+ Within the last two years, I have assisted customers with setting up and configuring user accounts (e.g., user profile, e-mail, and peripheral access), configuring accounts in Windows Active Directory, configuring workstations and software, troubleshooting user problems, and providing daily workstation, peripheral, telecommunications, network, and access support for customers.
+ In the last 2 to 5 years, I have assisted customers with setting up and configuring user accounts (e.g., user profile, e-mail, and peripheral access), configuring accounts in Windows Active Directory, configuring workstations and software, troubleshooting user problems, and providing daily workstation, peripheral, telecommunications, network, and access support for customers.
+ I have limited experience setting up and configuring user accounts and assisting with daily support and access for customers.
+ None of the above.
+
+
+21.
+Select the statement(s) that describe your experience providing IT-related customer support services. Choose all that apply.
+ A. I have led project teams responsible for installing, configuring, updating, and troubleshooting systems and equipment for customers.
+ B. I have participated in activities that resulted in improvements to customer support programs implemented throughout an organization.
+ C. I have negotiated with customers on adjustments to timelines, commitments and/or scope of work when needed.
+ D. I have reviewed customer feedback, responded accordingly, and made necessary adjustments when warranted to improve service.
+ E. I have maintained effective working relationships with customer managers and actively participated in their meetings when requested.
+ F. I have visited customer work centers to ensure the IT support provided is adequate and to check on the condition of facilities.
+ G. I have independently planned and conducted effective meetings with customers to discuss initiatives, performance, and other support issues.
+ H. None of the above.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
