@@ -1,0 +1,230 @@
+Position Title
+SUPERVISORY INFORMATION TECHNOLOGY SPECIALIST (INFOSEC)
+Agency
+Defense Security Cooperation Agency
+Announcement Number
+DSCA-26-12930393-DH Opens in new window
+Open Period
+Apr 06, 2026 to Apr 20, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+Are you the spouse of a current Department of Defense, Department of State, or intelligence community employee who is being transferred in the interest of the Government from one official station within the Department to another within the Department for permanent duty?
+
+Supporting Documentation: You are required to submit proof of marriage AND permanent change of station (PCS) orders: spouse's PCS orders (showing you as a dependent) and/or copy of marriage certificate. If you are a current or previous Federal employee, please include  your most recent SF-50.
+ Yes
+ No
+
+
+3.
+Are you the spouse of a member of the Armed Forces on active duty? 
+-OR-
+Are you the spouse of a member of the Armed Forces who retired with a disability rating at the time of retirement of 100 percent or the spouse of a member of the Armed Forces who retired or separated from the Armed Forces and has a disability rating of 100 percent from the Department of Veterans Affairs?
+-OR-
+Are you the un-remarried widow or widower of a member of the Armed Forces killed while in active duty status?
+For more information, review USAJOBS Veterans resources.
+ Yes
+ No
+
+
+4.
+Are you a current or former federal employee displaced from a position in a federal agency other than the agency hiring for this position?
+
+If yes, confirm:
+• you are located in the same local commuting area of the vacancy
+• your grade is equivalent to or above the grade level of the vacancy and
+• your last performance rating of record is at least fully successful or the equivalent.
+
+You will be required to submit supporting documentation to validate your claim of ICTAP eligibility such as a Reduction in Force (RIF) separation notice or a Proposed Removal/Separation notice and a copy of your latest Notification of Personnel Action, Standard Form 50.  For more information, review the USAJOBS Resource Center.
+ Yes
+ No
+
+
+Preferences
+1.
+Select the location(s) you want to be considered for. You must choose at least one location.
+ A. Mechanicsburg, PA
+ B. Arlington, VA
+
+
+Assessment 1
+1.
+From the descriptions below, select the letter that best describes your level of experience
+ I have the one-year specialized experience equivalent to the GS-14 level in the Federal service (experience may have been gained in the private/military sector) giving the particular knowledge, skills and abilities to perform successfully the duties of the position, and that is typically related to the work of the position. Specialized experience is demonstrated by the following: Plans, develops, and coordinates agency-level information assurance or information security programs and strategies, e.g., security access management, cloud computing, system consolidation, virtualization, security situational awareness, enterprise security risk management, and other emerging innovative security technologies. Reviews proposed new systems, networks, and software designs for potential security risks. Resolves integration issues related to the implementation of new systems within the existing infrastructure.
+ My experience is not reflected in the above statement.
+
+
+2.
+A new, sophisticated phishing campaign is targeting DoW agencies, threatening to compromise sensitive data across multiple systems. As the Senior Information Security Officer (SISO), what is your most critical initial action?
+
+ Immediately block all incoming external emails to contain the threat, and inform leadership of the decision afterward.
+ Personally analyze the phishing emails and begin developing custom code to counter the specific threat
+ Coordinate the implementation of enhanced security measures across all platforms, ensuring integration with higher-level DoD security requirements and directing your team to deploy necessary patches and updates
+ Direct your team to immediately isolate affected systems and begin analyzing the phishing emails to identify the threat vector, while notifying leadership of the situation.
+ Assign the issue to a junior analyst to investigate and wait for their full report before taking further action.
+
+
+3.
+Your agency is preparing for its annual Federal Information Security Management Act (FISMA) audit. A review of pre-audit data suggests potential compliance gaps in a newly adopted cloud environment. What is the most appropriate leadership action to take?
+
+ Direct the team to focus solely on documentation, ensuring all paperwork appears correct for the auditors, and address the technical gaps after the audit.
+ Lead an immediate effort to identify the root causes of the compliance gaps, coordinate with platform managers to implement corrective actions, and ensure the organization's Zero Trust Architecture is properly enforced.
+ Convene a meeting with your team and cloud service provider to discuss the compliance gaps and develop a short-term workaround to address the audit requirements.
+ Inform the auditors that the cloud environment is out-of-scope for the current audit cycle due to its recent implementation.
+ Challenge the pre-audit findings directly with the auditors, arguing that the standards do not fully apply to modern cloud technologies.
+
+
+4.
+The Chief Information Officer (CIO) has asked you to evaluate the feasibility of implementing several emerging, innovative security technologies to modernize the agency's defense posture. How should you proceed?
+
+ Select the technology with the most advanced features and recommend its immediate, agency-wide deployment to demonstrate proactive innovation.
+ Delegate the research to your team and ask for a single recommendation without providing specific evaluation criteria.
+ Ensure a systematic approach by first identifying how these technologies align with agency operational needs, then evaluating their impact on the existing infrastructure, security portfolio, and long-term budget
+ Conduct a preliminary evaluation of the technologies yourself and provide your team with a shortlist of options to research further
+ Advise the CIO that adopting new technologies introduces unnecessary risk and it's better to rely on established, legacy systems.
+
+
+5.
+One of your GS-14 team lead informs you that the branch is struggling to keep up with daily operational security tasks because of a high-priority, short-deadline project from leadership. How do you manage this situation?
+
+ Instruct the team lead to have their staff work overtime and on weekends until both the project and operational tasks are caught up.
+ Advise the team lead to de-prioritize the daily operational tasks to focus exclusively on the high-priority project.
+ Engage with your own leadership to discuss the competing priorities, assess the feasibility of the deadline, and negotiate a more manageable workload for your branch while clearly communicating the risks to daily operations
+ Reassign some of the daily operational tasks to other branches temporarily to allow your team to focus on the high-priority project.
+ mmediately request to hire temporary contractors to handle the operational tasks without addressing the root cause of the workload imbalance.
+
+
+6.
+You are asked to represent the agency at a high-level briefing with senior officials from the Department of War and other government agencies to discuss a new government-wide cybersecurity policy. What is your primary objective in this meeting?
+ To listen and take notes on the new policy to share with your team, without providing any agency-specific input.
+ To negotiate for the acceptance of your agency's position on the policy, using your expertise to influence and persuade stakeholders to support initiatives that align with your agency's mission and objectives.
+ Provide feedback on the policy only when directly asked, ensuring your comments align with your agency's mission and objectives
+ To challenge the technical feasibility of the entire policy, focusing only on the difficulties of implementation.
+ To defer all questions and comments to your director, even on matters where you are the recognized subject matter expert.
+
+
+7.
+A critical IT security incident has exposed a significant vulnerability that was not addressed by existing policies. As the SISO, you are tasked with preventing a recurrence. What long-term strategic action should you take?
+
+ Conduct a one-time training session for all employees on the specific incident that occurred.
+ Formulate a new agency-level IT security program initiative that addresses the vulnerability, defines the scope and level of detail for new security plans, and resolves integration issues with the existing infrastructure.
+ Update existing policies to include specific measures addressing the vulnerability and conduct a series of workshops to educate employees on the changes.
+ Write a report on the incident and file it for future reference without making any policy changes.
+ Blame the technology vendor and recommend switching to a different product as the sole solution.
+
+
+8.
+As the branch chief, you are responsible for developing the annual budget for the IT security program. Your initial analysis shows that to meet new DoW-wide security mandates, you require a 15% budget increase, but the agency is facing a 5% budget cut. What is the most effective course of action?
+
+ Distribute the 5% cut evenly across all security functions and inform your leadership that the new mandates cannot be met.
+ Prepare a detailed justification for the 15% increase, outlining the specific risks of non-compliance, and present data-driven options for phased implementation or risk acceptance to the CIO.
+ Request a meeting with leadership to discuss the budget constraints and propose reallocating resources from lower-priority areas to meet the new mandates.
+ Use last year's budget as a template and accept the 5% cut, hoping to make up for the shortfall with end-of-year funding.
+ Bypass the CIO and appeal directly to the finance department, arguing that security should be exempt from budget cuts.
+
+
+9.
+During a mid-year performance review, a GS-13 cybersecurity analyst on your team expresses that they feel their skills are becoming outdated and that they lack a clear career progression path. As their supervisor, what is the best response?
+
+ Advise them to seek out and pay for their own training, as the agency's training budget is limited.
+ Acknowledge their concerns and work with them to identify specific developmental and training needs, then create a formal individual development plan (IDP) that aligns their career goals with the agency's future security needs.
+ Recommend that the employee participate in free online training programs to update their skills and offer to mentor them on career progression opportunities
+ Inform the employee that career progression is their own responsibility and suggest they apply for other jobs if they are unhappy
+ Reassure them that their current skills are adequate for their present duties and that no further action is needed at this time.
+
+
+10.
+The agency's primary data center has just experienced a major power outage, and initial reports indicate it may be down for over 48 hours. The Continuity of Operations (COOP) and Disaster Recovery (DR) plans have been activated. As the SISO, what is your primary role during this incident?
+
+ Wait for the facilities team to restore power and provide updates to leadership as they come in.
+ Personally travel to the alternate site to begin configuring servers and network hardware.
+ Oversee and coordinate the execution of the IT portion of the COOP/DR plan, ensuring your team is actively managing the failover to the alternate site and keeping leadership informed on the status of critical system restoration.
+ Assign a senior team member to oversee the failover process while you focus on communicating updates to leadership and stakeholders.
+ Immediately draft a report detailing the cause of the outage to submit to the CIO.
+
+
+11.
+An IT platform manager submits a request for an Authority to Operate (ATO) for a new system. During your review, you discover that the System Security Plan is incomplete and several required security controls under the Risk Management Framework (RMF) have not been implemented. What action should you take?
+
+ Grant a temporary ATO with the condition that the platform manager will fix the issues later.
+ Deny the ATO request and return the package, directing the manager to a junior analyst on your team to figure out the deficiencies.
+ Deny the ATO request and provide the platform manager with a clear, written explanation of the specific deficiencies and a list of the exact RMF controls that must be properly implemented and documented before the package can be reconsidered.
+ Request a meeting with the platform manager to discuss the deficiencies and provide verbal guidance on the RMF controls that need to be implemented.
+ Approve the ATO to avoid delaying the project timeline but make a note to audit the system in the next fiscal year.
+
+
+12.
+Your team is tasked with reviewing the security compliance of a new software application that will be used by both DoW personnel and FMS partners. The application handles sensitive but unclassified data related to military equipment specifications. What is your primary security concern?
+
+ Ensuring the application's user interface is translated into the partner nation's language for ease of use.
+ Verifying that the application's data-labeling and access control mechanisms are robust enough to enforce "need-to-know" and prevent foreign partners from accessing data not explicitly authorized for release under the FMS case.
+ Ensure the application's encryption protocols meet DoW standards and verify that foreign partners have signed agreements to comply with data-sharing policies.
+ Confirming that the application is compatible with the partner nation's existing IT hardware.
+ Focusing only on the security controls relevant to DoD users, as the partner nation is responsible for its own security.
+
+
+13.
+A new government-wide IT security defense strategy, such as an updated Trusted Internet Connections (TIC) policy, has been released. As the Cyber Branch Chief, what is your primary responsibility?
+
+ Wait for specific implementation instructions from the DoW before taking any action.
+ Immediately begin planning and coordinating the agency-wide implementation of the strategy, developing new agency-level security programs to ensure compliance.
+ Begin drafting a preliminary implementation plan for the strategy while waiting for further guidance from the DoW.
+ Assign a junior analyst to research the new strategy and provide a summary report on its potential impact.
+ Focus only on implementing the technical aspects of the strategy, leaving the policy and integration issues for other departments to resolve.
+
+
+14.
+When reviewing a proposal for a new enterprise system that relies heavily on cloud computing and virtualization, what is the most critical aspect you must evaluate from a security leadership perspective?
+
+ The vendor's reputation and the total cost of ownership for the new system.
+ Whether the system's design presents potential security risks and how it will integrate with the existing infrastructure and higher-level security requirements.
+ Evaluate the system's scalability and its ability to adapt to future security requirements as part of the decision-making process.
+ The end-user convenience and how the new system will improve operational workflow.
+ The project's timeline and whether it can be delivered ahead of schedule.
+
+
+15.
+Leadership asks you to justify the security program's budget and demonstrate its value. According to the role description, what is the best way to approach this?
+
+ Highlight the number of threats blocked in the past year to show the program's effectiveness.
+ Present a portfolio of IT security investments that have been systematically selected and evaluated to support the prudent operational needs of the agency.
+ Provide a summary of the program's achievements, including successful risk mitigations and compliance improvements, to demonstrate its value.
+ Emphasize that the budget is required to meet the minimum standards of FISMA compliance.
+ Argue that cybersecurity is a cost of doing business and does not need a detailed justification.
+
+
+16.
+An employee in your branch consistently fails to complete their assigned vulnerability assessments on time, impacting the team's ability to meet its compliance deadlines. You have already provided informal counseling and offered additional resources. What is the appropriate next supervisory action?
+
+ Reassign all of the employee's difficult tasks to other team members to ensure the work gets done
+ Formally document the performance deficiencies against their established performance standards and initiate a Performance Improvement Plan (PIP).
+ Schedule weekly check-ins with the employee to monitor their progress and provide additional guidance on completing vulnerability assessments.
+ Advise the employee to look for a different job, as they are clearly not meeting expectations.
+ Take over the employee's duties yourself to ensure they are completed correctly and on time.
+
+
+17.
+Your branch has an urgent, short-notice requirement to provide technical analysis for a time-sensitive security cooperation initiative. As the supervisor, how do you assign this task?
+
+ Assign the task to the first employee who answers your email to ensure a quick start.
+ Announce the task in a team meeting and wait for a volunteer to accept the assignment.
+ Personally handle the analysis, as it is too important to delegate to your staff.
+ Evaluate the skills, experience, and current workload of your employees to select the individual best qualified to handle the urgent task, and then clearly define the priorities and deadline.
+ Assign the task to the most experienced employee on your team, regardless of their current workload, to ensure the analysis is completed accurately.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
