@@ -1,0 +1,202 @@
+Position Title
+IT SPECIALIST (NETWORK) (D0262P01)
+Agency
+Army National Guard Units
+Announcement Number
+PR-12932626-AR-26-035 Opens in new window
+Open Period
+Apr 09, 2026 to Apr 23, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+All on-board federal employees/technicians within the state for which you are applying (Title 32 and Title 5, Permanent and Excepted Indefinite).  Are you a current on-board federal employee or technician within the state for which this position is being advertised?
+
+To verify your eligibility, you must submit a copy of your most recent Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Tenure in Block 24 (1, 2,or 3).
+ Yes
+ No
+
+
+2.
+
+All current (nationwide) federal employees.  Are you a current federal employee?
+
+To verify your eligibility, you must submit a copy of your most recent Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Tenure in Block 24 (1 or 2).
+
+ 
+
+ Yes
+ No
+
+
+3.
+Current nationwide military/prior members willing and eligible to become National Guard members.  Are you a current military or prior member willing and eligible to become a National Guard member?
+ Yes
+ No
+
+
+4.
+US Citizens.  Are you a US Citizen?
+ Yes
+ No
+
+
+5.
+Are you a current National Guard member within the state for which this position is being advertised?
+ Yes
+ No
+
+
+6.
+Are you a current Permanent full-time Dual Status National Guard Technician within the state for which this position is being advertised?
+
+To verify your eligibility, you must submit a copy of your Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Permanent full-time status with the state National Guard.
+ Yes
+ No
+
+
+7.
+Are you a current Temporary Indefinite full-time Dual Status National Guard Technician within the state for which this position is being advertised?
+
+To verify your eligibility, you must submit a copy of your Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Indefinite full-time status with the state National Guard.
+ Yes
+ No
+
+
+Preferences
+1.
+Are you a current member of the state National Guard for which this position is being advertised, or are you willing and eligible to become a member?
+ Yes
+ No
+
+
+2.
+Rank: ___________________
+
+Military email: ___________________________
+
+Unit of assignment: _______________________
+
+MOS/AFSC: ___________________
+
+
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+
+
+3.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+
+
+4.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+
+
+5.
+How would you help advance the President's Executive Orders and policy priorities in this role? Identify one or two relevant Executive Orders or policy initiatives that are significant to you, and explain how you would help implement them if hired.
+
+
+6.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+
+
+7.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+
+
+Assessment 1
+1.
+For the following group, choose the statement that best describe your current military affiliation. This position requires a military membership in the Puerto Rico Army National Guard. If you choose option F or G you must contact the PRARNG Recruiting and Retention Office at (787) 289-1400 extension 2008 and 2015, to request the PRARNG Military Basic Requirements Certification, and it MUST be submitted with your application. Follow the instruction provided in the announcement to request such certification.
+ I am a permanent technician employee (NG T32/NG T5) of the Puerto Rico Army National Guard. (Refer to block 24 of SF 50 Tenure 1 or 2) (Please attach SF 50)
+ I am an Indefinite technician employee (NG T32/NG T5) of the Puerto Rico Army National Guard. (Refer to block 24 of SF 50 Tenure 3) (Please attach SF 50)
+ I am a Temporary technician (Tenure 0) employee of the Puerto Rico Army National Guard. (Refer to block 24 of SF 50)
+ I am currently working in the PRARNG as AGR or ADOS (Active-Duty Operational Support) Orders.
+ I am an M-Day Soldier of the Puerto Rico Army National Guard.
+ I am a Guard member of the PR Air National Guard or Guard member from another state, Reservist/IRR; and/or Active Duty Soldier; willing to join the PRARNG immediately.
+ I am a civilian that meet all requirements to become a member of the Puerto Rico Army National Guard immediately in case that I'm selected for the position.
+ None of the above. (If you select this statement, please do not continue with the application. This position requires military membership.)
+
+
+2.
+Provide current Military Grade/Rank or equivalent (Ex. E4/SPC). If you are a civilian, active-duty Soldier, prior service, guard member from another state, reservist, IRR, State Guard, etc., that comply with all requirements to join the PRARNG immediately, write CIV or your rank and don't forget to include the MBR certification with your application (mandatory).
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+3.
+Do you possess at least ONE (1) year of specialized experience at the next lower grade GS-09, or the equivalent THIRTY-SIX (36) months of specialized experience required in the vacancy announcement for the GS-11 position?
+ Yes
+ No
+
+
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+
+
+4.
+Knowledge of, and skill in applying network design principles and concepts, network architecture principles and concepts, network protocols, remote access technology concepts, network operation and maintenance concepts and methods, network management tools, configuration management concepts and practices, network topology concepts, LAN/WAN principles and methods, network optimization techniques and acquisition management policies.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+5.
+Skill in configuring hubs and switches, monitoring network performance, performing network diagnostics, analyzing network traffic patterns and installing network software fixes and upgrades.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+6.
+Skill in establishing connectivity between remote sites, creating network maps, troubleshooting network problems (outages) and implementing configuration management plans for complex LANs and WANs.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+7.
+Knowledge planning the sequence of actions necessary to accomplish the assignment where this entailed coordination with others outside the organizational unit and development of project controls.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+8.
+Knowledge that required adaptations of guidelines or precedents to meet the needs of the assignment.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+9.
+Skill in preparing documentation on cost/benefit studies where is involved summarizing the material and organizing it in a logical fashion.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+10.
+You certify that all of the information and attached documents to this application is true, correct, and complete and is made in good faith? (This will constitute your official signature)
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
