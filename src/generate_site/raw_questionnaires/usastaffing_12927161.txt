@@ -1,0 +1,230 @@
+Position Title
+Assistant Director - Data Governance
+Agency
+Alcohol and Tobacco Tax and Trade Bureau
+Announcement Number
+26-TTB-12927161 Opens in new window
+Open Period
+Apr 15, 2026 to Apr 30, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+Are you a surplus or displaced Federal employee eligible under the Career Transition Assistance Plan (CTAP)?  Click CTAP for eligibility and a detailed list of required documents you must submit in order to be eligible.
+
+ Yes
+ No
+
+
+3.
+Are you a displaced Federal employee eligible under the Interagency Career Transition Assistance Plan (ICTAP)?  Click ICTAP for eligibility and a detailed list of required documents you must submit in order to be eligible.
+
+ Yes
+ No
+
+
+4.
+Are you a current Excepted Service employee of a Federal Agency covered by an OPM Interchange agreement that conveys noncompetitive eligibility?
+
+For more information, review Interchange Agreements with Other Merit Systems.  https://www.opm.gov/policy-data-oversight/hiring-information/competitive-hiring/#url=InterchangeAgreementsWithOtherMeritSystems
+
+To verify your eligibility, you must submit a copy of your Notification of Personnel Action, Standard Form (SF-50) reflecting your status. 
+
+ Yes
+ No
+
+
+5.
+Are you eligible for competitive consideration under any of the following merit promotion categories?
+Current Federal civilian employee in the Competitive service on a permanent career or career-conditional appointment
+Current Excepted service employee covered by an Interchange Agreement
+Former Federal employee with Reinstatement eligibility
+Veterans Employment Opportunities Act of 1998 (VEOA)
+Current Federal employee serving on a VRA appointment
+Land Management Employee eligible under Public Law 114-47
+Other competitive category not listed above (you must submit proof of eligibility)
+ Yes
+ No
+
+
+6.
+Are you eligible to be appointed under the Military Spouse Noncompetitive Appointing Authority based on any of the following categories?
+You are the spouse of an active duty member of the Armed Forces.
+You are the spouse of a member of the Armed Forces who retired with a disability rating at the time of retirement of 100 percent or the spouse of a member of the Armed Forces who retired or separated from the Armed Forces and has a disability rating of 100 percent from the Department of Veterans Affairs.
+You are the widow or widower of a member of the Armed Forces killed while in active duty status, and you have not re-married.
+For more information, review USAJOBS Veterans resources. (https://www.usajobs.gov/Veterans)
+
+ Yes
+ No
+
+
+7.
+Are you a former federal employee that has been separated for at least one full year and is eligible to be non-competitively reinstated to a higher grade or full-performance level than which you left federal employment?(Note: you MUST provide:  1) a copy of your separation SF-50 (the "position occupied" block on the SF-50 should show a "1" and your "tenure" block should show a "1" or "2"); AND 2) the last performance appraisal you received from your federal employment which shows at least a fully successful rating.)
+ Yes
+ No
+
+
+8.
+Do you currently hold (or have you previously held) on a permanent basis, a position in the competitive service (or in another merit system with which OPM has an interchange agreement), with promotion potential equivalent to (or higher than) the full performance level of the position advertised in this vacancy announcement?
+
+ Yes
+ No
+
+
+9.
+Are you eligible under any other miscellaneous appointing authority not listed thus far, such as (but not all inclusive to):
+Postal Career Service Employee;
+Postal Rate Commission Employee;
+Government Accountability Office (GAO) Employee; 
+Administrative Office of the U.S. Courts Employee; or 
+Foreign overseas employee or eligible family member of former overseas employee
+ 
+For more information, review Miscellaneous Authorities Not Regulated By U.S. Office of Personnel Management.  https://www.opm.gov/policy-data-oversight/hiring-information/competitive-hiring/#url=MiscellaneousAuthoritiesNotRegulated .  
+To verify your eligibility, you must submit a copy of your Notification of Personnel Action, Standard Form (SF-50) reflecting your status. 
+
+For more information on Foreign overseas employment please review the following: https://www.opm.gov/policy-data-oversight/hiring-information/competitive-hiring/#NontemporaryForeignService or https://www.state.gov/global-community-liaison-office/family-member-employment/family-member-employment-in-the-d-c-area/non-competitive-eligibility-nce/#NCE5
+
+
+
+
+ Yes
+ No
+
+
+10.
+Are you eligible for consideration as a Peace Corps, VISTA, or Action volunteer?  If you select this option, you are required to provide acceptable documentation of your appointment eligibility by submitting proof of employment from the appropriate agency with your completed application.
+
+ Yes
+ No
+
+
+11.
+Do you have a severe physical, psychiatric or mental disability that qualifies you for a Schedule A Disability appointment?
+
+For more information, review USAJOBS Individuals with Disabilities resources.
+
+To verify your eligibility, you must provide appropriate medical documentation, i.e., a letter signed by a licensed medical professional or licensed vocational rehabilitation specialist stating your condition and restrictions.
+
+ Yes
+ No
+
+
+Preferences
+1.
+Are you currently serving or have served in the last five years in a Political Appointment in the Federal Government?
+ Yes
+ No
+
+
+2.
+Where did you learn about this Department of the Treasury job opportunity?
+ A. FedExperience website
+ B. USAJOBS website
+ C. Community Organization
+ D. Employment Office (Federal/State or Local)
+ E. Friend/Relative
+ F. Job Fair, Conference, or Convention
+ G. Magazine
+ H. Newspaper
+ I. School, College, Counselor
+ J. Vacancy Announcement Posting
+ K. Professional Organization
+ L. Radio/TV
+ M. Other
+
+
+3.
+Are you a current Federal employee?
+ Yes
+ No
+
+
+4.
+If you are, or ever were a Federal civilian employee, indicate the pay plan and grade level or pay band of the highest graded position you have ever held.
+
+
+5.
+Have you attended any of Treasury's information sessions? (Please click all that apply.)
+ A. Navigating USAJOBS
+ B. Writing Your Federal Resume
+ C. Interviewing Techniques
+ D. Early Career Programs (Students, Recent Graduates, Entry Level, Apprenticeship)
+ E. I have not attended any sessions.
+
+
+6.
+I authorize my application information being shared with hiring managers for similar positions. I understand this option may not result in further consideration for additional positions nor will it impact my application for this announcement.
+ Yes
+ No
+
+
+Assessment 1
+For the GS-15, you must have one year of specialized experience at a level of difficulty and responsibility equivalent to the GS-14 grade level in the Federal service. Specialized Experience for this position includes:
+- Applying results-driven methodologies to elevate an organization's data maturity, including establishing a unified data lexicon and reference data standards, and developing and implementing enterprise data quality and metadata management policies; AND
+- Demonstrating technical expertise across data analytics, data architecture, data integration, including experience with Structured Query Language (SQL), ETL/ELT pipelines, and business intelligence software; AND
+- Providing leadership to cultivate and sustain a data driven culture through development and implementation of enterprise data strategies, data governance frameworks and/or AI governance models.  
+
+
+1.
+Select the answer that best describes your experience.
+ I have one full year of specialized experience at the GS-14 level or equivalent as described above.
+ I do not have one full year of specialized experience at the GS-14 level or equivalent as described above.
+
+
+1a.
+ Please specify where you have documented the above experience in your resume. (Indicate place of employment, job title, and length of time performing the duties).
+
+
+You will now be asked to complete the second assessment comprised of narrative responses. 
+The following questions will be reviewed and assessed by a Subject Matter Expert (SME) to determine your level of proficiency. There is a 2,500-character limit on each response. Please allow sufficient time to complete before midnight on the close date of the announcement. The narrative responses are expected to take one hour, at a minimum. Non-detailed answers such as N/A, See Resume, etc. will be deemed ineligible.
+
+
+2.
+Identify the three technical tools in which you have the highest level of proficiency. For each tool, explain how you used it in a project or task, the type of output you delivered, and any measurable or observable results achieved. 
+
+Your response should address:
+- The three tools and your proficiency in each
+- The work you performed using these tools
+- The organizational context where the experience occurred
+- The results achieved
+
+
+
+3.
+Describe your experience developing and implementing data governance or enterprise data strategies to cultivate a data-driven culture within an organization.  
+
+Your response should address:
+- A brief description of the organization and its goals for improving data governance or enterprise data strategy
+- Your role and level of authority
+- The actions you took and how you addressed and overcame a significant challenge
+- Measurable or clearly described outcomes
+
+
+
+4.
+Describe your experience applying AI techniques and leading or supporting AI governance within an organization.
+
+Your response should address:
+- The organizational environment and objectives
+- Your role and level of responsibility
+- The actions you took, including how you addressed a significant challenge
+- How you applied AI or ML tools, methods, or techniques
+- The impact of your work, including measurable outcomes
+
+
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
