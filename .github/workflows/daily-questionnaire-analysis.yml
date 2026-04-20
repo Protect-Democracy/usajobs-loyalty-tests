@@ -75,6 +75,18 @@ jobs:
         python run_questionnaire_pipeline.py
       continue-on-error: true  # Don't fail the workflow if scraping times out
 
+    - name: Ensure website JSON is regenerated
+      if: always()  # run even if a prior step failed or timed out
+      run: |
+        cd src/generate_site
+        python generate_website_json.py
+        SIZE=$(stat -c%s ../public/analysis_data.json)
+        if [ "$SIZE" -lt 10000 ]; then
+          echo "ERROR: src/public/analysis_data.json is suspiciously small ($SIZE bytes)"
+          exit 1
+        fi
+        echo "analysis_data.json regenerated ($SIZE bytes)"
+
     - name: Run questionnaire tests
       id: questionnaire_tests
       run: |
