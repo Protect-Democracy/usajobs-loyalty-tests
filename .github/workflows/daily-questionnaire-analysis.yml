@@ -16,7 +16,7 @@ permissions:
 jobs:
   analyze-questionnaires:
     runs-on: ubuntu-latest
-    timeout-minutes: 180  # 3 hour timeout for questionnaire analysis
+    timeout-minutes: 350  # Near-max (6h) for questionnaire analysis; hosted-runner hard cap is 360
     
     steps:
     - name: Checkout repository
@@ -67,7 +67,7 @@ jobs:
         git config --global user.email "actions@github.com"
 
     - name: Run questionnaire analysis
-      timeout-minutes: 150  # 2.5 hour timeout
+      timeout-minutes: 330  # 5.5 hour timeout for scraping
       env:
         GITHUB_ACTIONS: true
       run: |
