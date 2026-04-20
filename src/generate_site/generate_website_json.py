@@ -222,6 +222,26 @@ def main():
         analysis_data['agency_analysis'] = []
     
     # Occupation Analysis
+    # DEBUG: sample occupation_full values from each side before normalization
+    print("\n=== DEBUG: occupation_full pre-normalization ===")
+    print(f"all_jobs_df['occupation_series'] dtype: {all_jobs_df['occupation_series'].dtype}")
+    print(f"all_jobs_df['occupation_full'] sample: {all_jobs_df['occupation_full'].dropna().head(5).tolist()}")
+    print(f"scraped_df['occupation_full'] sample: {scraped_df['occupation_full'].dropna().head(5).tolist()}")
+    all_set = set(all_jobs_df['occupation_full'].dropna().unique())
+    scr_set = set(scraped_df['occupation_full'].dropna().unique())
+    print(f"unique occupation_full in all_jobs_df: {len(all_set)}, in scraped_df: {len(scr_set)}, overlap: {len(all_set & scr_set)}")
+    print("=== END DEBUG ===\n")
+
+    # Normalize occupation_full on all_jobs_df using the same zfill derivation as scraped_df,
+    # so a merge on occupation_full finds matches regardless of how pandas inferred
+    # occupation_series dtype when reading the CSV.
+    if 'occupation_series' in all_jobs_df.columns and 'occupation_name' in all_jobs_df.columns:
+        all_jobs_df['occupation_full'] = (
+            all_jobs_df['occupation_series'].astype(str).str.zfill(4)
+            + ' - '
+            + all_jobs_df['occupation_name'].fillna('Unknown')
+        )
+
     if 'occupation_full' in all_jobs_df.columns:
         occupation_stats = calculate_eo_stats(all_jobs_df, scraped_df, 'occupation_full', top_n=None, column_name='Occupation Series')
         analysis_data['occupation_analysis'] = occupation_stats.to_dict('records')
