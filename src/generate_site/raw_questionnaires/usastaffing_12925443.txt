@@ -1,0 +1,87 @@
+Position Title
+IT Specialist (INFOSEC)
+Agency
+Equal Employment Opportunity Commission
+Announcement Number
+DH-12925443-26-MG Opens in new window
+Open Period
+Apr 17, 2026 to Apr 21, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+Are you a current employee of the Equal Employment Opportunity Commission (EEOC) who meets the definition of surplus or displaced from a position in the competitive service? If yes, confirm you meet all of the following requirements:
+you are located in the same local commuting area of the vacancy;
+your grade is equivalent to or below the grade level of the vacancy;
+your last performance rating of record is at least fully successful or the equivalent.
+ Yes
+ No
+
+
+3.
+Are you a current or former federal employee who meets the definition of displaced (CFR 330.702) from a position in the competitive service from a federal agency other than the agency hiring for this position? If yes, confirm you meet all of the following requirements:
+you are located in the same local commuting area of the vacancy;
+your grade is equivalent to or below the grade level of the vacancy;
+your last performance rating of record is at least fully successful or the equivalent;
+it has been less than a year from your separation from Federal Service (see ICTAP eligibility period CFR 330.708.)
+ Yes
+ No
+
+
+4.
+Reasonable Accommodations for taking the online assessments are provided on a case-by-case basis only to qualified individuals with a disability covered by the Rehabilitation Act of 1973, as amended.
+
+Do you have a disability (physical or mental) that you believe will interfere with completing the online assessments and require a Reasonable Accommodation?
+
+ Yes
+ No
+
+
+Preferences
+1.
+Have you served on a Schedule C appointment or as a political appointee anytime within the last 5 years?
+
+ Yes
+ No
+
+
+2.
+Do you receive, or have you ever applied for, retirement pay, pension, or other retired pay based on military, Federal civilian, or District of Columbia Government service? (If you are an annuitant, your salary or annuity may be reduced upon employment).
+
+
+
+
+ Yes
+ No
+
+
+3.
+Have you accepted a buyout from a Federal agency within the past five (5) years?
+
+
+ Yes
+ No
+
+
+Assessment 1
+1.
+FACTOR: Minimum Qualifications GS-14
+Carefully read the following descriptions of experience and select the response that best describes your qualifications for a GS-14 IT Specialist (INFOSEC)(Cybersecurity and Risk Management Division) position.
+ I have at least one year of specialized experience equivalent to the GS-13 level in the federal service. Specialized experience includes: • Leads major INFOSEC initiatives—balancing workload across projects and incidents, keeping leadership dutifully informed while facilitating, executing and directing efforts in GRC, SOC operations, FedRAMP activities, and promotion of varying degrees of role-based enterprise level guidance, in concert with adversarial (blue/red/purple team) exercises. • Guides secure cloud operations and sustainment by ensuring consistent approaches for cloud services, identifying and mitigating technical threat vectors and APT activity, and implementing practical remediation to reduce attack surface. • Enhances cybersecurity operations through improved SOC, SIEM, and SOAR processes, strengthening continuous monitoring (CONMON), maturing operational procedures, and sustaining a hardened security posture. • Advances DEVSECOPS maturity by implementing automated and manual AppSec testing (SAST, DAST, IAST, SCA, container scanning), implementing and enforcing secure coding including hardened deployment standards, and continuously monitoring environments for cybersecurity events. • Applies deep technical expertise in major cloud platforms, scripting/automation (Python, Bash, Golang), and cybersecurity frameworks (NIST, OWASP, CIS), including hands on execution of Zero Trust pillars and secure AI practices. • Oversees federal security compliance by interpreting information security (INFOSEC) laws and FISMA regulations; managing POA&Ms and vulnerability remediation; developing or assessing ATO documentation (SSPs, RAs, CPs); and evaluating controls, baselines, cybersecurity-supply chain risk management (C-SCRM) and compliance across systems to strengthen EEOC's INFOSEC posture.
+ I do not have the experience described above.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
