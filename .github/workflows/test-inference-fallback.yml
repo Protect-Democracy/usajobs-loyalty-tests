@@ -7,6 +7,9 @@ on:
         description: 'Max inferred URLs to actually scrape'
         required: false
         default: '50'
+  push:
+    branches:
+      - test-inference-fallback
 
 permissions:
   contents: read
