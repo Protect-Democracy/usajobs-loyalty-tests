@@ -1,0 +1,50 @@
+name: Test Questionnaire Inference Fallback
+
+on:
+  workflow_dispatch:
+    inputs:
+      max_scrapes:
+        description: 'Max inferred URLs to actually scrape'
+        required: false
+        default: '50'
+
+permissions:
+  contents: read
+
+jobs:
+  test-inference:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          lfs: true
+
+      - name: Pull LFS data files
+        run: |
+          git lfs pull
+          ls -lh data/*.parquet
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install playwright
+          playwright install chromium
+          playwright install-deps
+
+      - name: Run inference fallback test
+        env:
+          MAX_INFERRED_SCRAPES: ${{ inputs.max_scrapes }}
+        run: |
+          cd src/generate_site
+          python test_inference_fallback.py
