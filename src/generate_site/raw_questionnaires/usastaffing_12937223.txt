@@ -1,0 +1,274 @@
+Position Title
+Statistician
+Agency
+Offices, Boards and Divisions
+Announcement Number
+ATR-26-10-DEU Opens in new window
+Open Period
+Apr 21, 2026 to Apr 27, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+Are you a current or former federal employee displaced from the agency hiring for this position? If yes, confirm:
+• you are located in the same local commuting area of the vacancy; AND,
+• you are applying to a position that is at or below the grade level of the position from which you were or will be separated; AND,
+• you are applying to a position that does not have greater promotion potential than the position from which you were or will be separated; AND,
+• your last performance rating of record is at least fully successful or the equivalent.
+
+For more information, review the USAJOBS Help Center.
+
+To verify your eligibility, you must submit supporting documentation such as a Reduction in Force (RIF) separation notice or a Proposed Removal/Separation notice to include your latest performance rating (if the notice does not have this information included, you must submit a copy of your most recent performance appraisal) and a copy of your latest Notification of Personnel Action, Standard Form 50.
+ Yes
+ No
+
+
+3.
+Are you a current or former federal employee displaced from a position in a Federal agency other than the agency hiring for this position? If yes, confirm:
+
+• you are located in the same local commuting area of the vacancy; AND,
+• you are applying to a position that is at or below the grade level of the position from which you were or will be separated; AND,
+• you are applying to a position that does not have greater promotion potential than the position from which you were or will be separated; AND,
+• your last performance rating of record is at least fully successful or the equivalent.
+
+For more information, review the USAJOBS Help Center.
+
+To verify your eligibility, you must submit supporting documentation such as a Reduction in Force (RIF) separation notice to include your latest performance rating (if the notice does not have this information included, you must submit a copy of your most recent performance appraisal) and a copy of your latest Notification of Personnel Action, Standard Form 50.
+ Yes
+ No
+
+
+Merit Hiring Plan Short Essay Questions
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not mandatory and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+
+
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+
+
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+
+
+3.
+How would you help advance the President's Executive Orders and policy priorities in this role? Identify one or two relevant Executive Orders or policy initiatives that are significant to you and explain how you would help implement them, if hired.
+
+
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples and explain how those qualities would enable you to serve effectively in this position.
+
+
+5.
+I certify that the above responses are in my own words, and I did not use a consultant or AI, such as a LLM like ChatGPT or Copilot.
+ Yes
+ No
+
+
+Assessment 1
+1.
+From the descriptions below, select the one response that best describes how you meet the basic education requirement for this position.
+
+ I possess a degree that includes 15 semester hours in statistics (or in mathematics and statistics, provided at least 6 semester hours were in statistics), and 9 additional semester hours in one or more of the following: physical or biological sciences, medicine, education, or engineering; or in the social sciences including demography, history, economics, social welfare, geography, international relations, social or cultural anthropology, health sociology, political science, public administration, psychology, etc. Credit toward meeting statistical course requirements should be given for courses in which 50 percent of the course content appears to be statistical methods, e.g., course that included studies in research methods in psychology or economics such as tests and measurements or business cycles, or courses in methods of processing mass statistical data such as tabulating methods or electronic data processing.
+ I have a combination of education and experience -- Courses equivalent to a major, as described in 'A' above, plus appropriate experience or additional education. The experience should have included a full range of professional statistical work such as (a) sampling, (b) collecting, computing, and analyzing statistical data, and c) applying statistical techniques such as measurement of central tendency, dispersion, skewness, sampling error, simple and multiple correlation, analysis of variance, and tests of significance.
+ I do not have the education and/or experience described above.
+
+
+2.
+From the descriptions below, select the one that best describes your experience and/or education to meet the Minimum Qualification requirements for the Statistician, GS-1530-9. Your response will be used to initially determine if you meet the Minimum Qualification requirements for the position. Specialized experience is experience that has equipped the applicant with the particular knowledge, skills, and abilities to perform successfully the duties of the position, and that is typically in or related to the work of the position to be filled.
+
+ I have at least one year of specialized experience equivalent to the GS-7 level performing the following duties: collecting, verifying and adjusting information expressed numerically or graphically; AND analyzing data, drawing conclusions, and preparing reports after interpretation has been approved.
+ I have a Master's Degree or equivalent graduate degree (such as an LL.B. or J.D., if related); OR 2 full years of progressively higher-level graduate education leading to such a degree. Education at the graduate level must be in an accredited college or university and must demonstrate the knowledge, skills, and abilities necessary to perform the duties of the position.
+ I have a combination of specialized experience and education to meet the minimum qualifications described above.
+ I do not meet the minimum qualifications for this position.
+
+
+For each task in the following groups, choose the statement from the list below that best describes your experience and/or training. Select only one letter for each item.
+
+
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+
+
+3.
+Write efficient programs running regressions in STATA, R, Python, or other statistical programming languages.
+
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+4.
+Accomplish assigned programming tasks utilizing STATA, R, Python, or other statistical programming language.
+
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+5.
+Create and design programs to conduct statistical analysis.
+
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+6.
+Write efficient programs for data visualization in STATA, R, Python, or other statistical programming languages.
+
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+7.
+Conduct clearly defined studies and parts of major projects assigned to senior statisticians.
+
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+8.
+Develop details of a study according to established objectives and specifications.
+
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+9.
+Perform analysis in conjunction with higher level or experienced personnel.
+
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+10.
+Document statistical details of a study or survey from reports.
+
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+11.
+Present information at staff meetings or routine briefings on technical, statistical and econometric issues.
+
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+12.
+Participate in meetings or discussions with others (i.e. supervisors, managers or agency officials) to obtain, clarify or give facts or information of a statistical and econometric nature.
+
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+13.
+Present statistical reports to higher level management.
+
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+14.
+Participate in meetings or discussions with others (e.g., managers, supervisors, or agency officials) to obtain, clarify, or give facts or information of a statistical and econometric nature.
+
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+15.
+Summarize numerical or statistical and econometric analysis results for presentation to higher level authority to justify the results of a statistical study or survey.
+
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+16.
+Update numerical or statistical and econometric reports of a routine nature.
+
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+17.
+Prepare analytical reports of a statistical nature.
+
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+18.
+Prepare written documentation to justify the results of a statistical study or survey.
+
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+Your responses to this Assessment Questionnaire are subject to evaluation and verification. Later steps in the selection process are specifically designed to verify your responses. Deliberate attempts to falsify information will be grounds for disqualifying you or for dismissing you from employment following acceptance. Please take this opportunity to review your responses to ensure their accuracy.
+
+
+19.
+If you fail to answer this question, you will be disqualified from consideration for this position. I certify that, to the best of my knowledge and belief, all of the information included in this questionnaire is true, correct, and provided in good faith. I understand that if I make an intentional false statement, or commit deception or fraud in this application and its supporting materials, or in any document or interview associated with the examination process, I may be fined or imprisoned (18 U.S.C. 1001); my eligibilities may be cancelled, I may be denied an appointment, or I may be removed and disbarred from Federal service (5 C.F.R. part 731). I understand that any information I give may be investigated. I understand that responding, "No," to this item will result in me not being considered for this position.
+
+ Yes, I certify that the information provided in this questionnaire is true, correct and provided in good faith, and I understand the information provided above.
+ No, I do not certify/understand the information provided above.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
