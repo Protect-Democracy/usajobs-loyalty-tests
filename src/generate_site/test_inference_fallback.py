@@ -24,7 +24,7 @@ AUSA_EXPECTED_URL = 'https://apply.usastaffing.gov/ViewQuestionnaire/12855055'
 
 # Cap how many inferred URLs we actually try to scrape in a single CI run.
 # The full list could be thousands; we just need a signal that the path works.
-MAX_SCRAPE = int(os.environ.get('MAX_INFERRED_SCRAPES', '50'))
+MAX_SCRAPE = int(os.environ.get('MAX_INFERRED_SCRAPES') or '50')
 
 
 def write_summary(lines):
