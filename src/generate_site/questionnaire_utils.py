@@ -6,6 +6,7 @@ from pathlib import Path
 # Common paths
 RAW_QUESTIONNAIRES_DIR = Path('./raw_questionnaires')
 QUESTIONNAIRE_LINKS_CSV = Path('./questionnaire_links.csv')
+KNOWN_BAD_URLS_FILE = Path('./questionnaire_known_bad.txt')
 
 
 def transform_monster_url(url):
@@ -61,6 +62,39 @@ def get_questionnaire_filepath(url):
 def questionnaire_exists(url):
     """Check if a questionnaire has already been scraped"""
     return get_questionnaire_filepath(url).exists()
+
+
+def infer_questionnaire_url_from_announcement(announcement_number):
+    """Guess a USAStaffing ViewQuestionnaire URL from an announcement number.
+
+    ~89% of USAStaffing announcement numbers embed the questionnaire ID as an
+    8-digit token (e.g. '26-DC-12855055-AUSA' -> 12855055). Returns the guessed
+    URL or None if no plausible token is found.
+    """
+    if not announcement_number:
+        return None
+    # Prefer 8-digit tokens (typical QID length); fall back to 7 or 9.
+    for width in (8, 7, 9):
+        match = re.search(rf'(?<!\d)(\d{{{width}}})(?!\d)', str(announcement_number))
+        if match:
+            return f'https://apply.usastaffing.gov/ViewQuestionnaire/{match.group(1)}'
+    return None
+
+
+def load_known_bad_urls(path=None):
+    """Load the set of URLs previously confirmed to not exist."""
+    path = Path(path) if path else KNOWN_BAD_URLS_FILE
+    if not path.exists():
+        return set()
+    with open(path) as f:
+        return {line.strip() for line in f if line.strip()}
+
+
+def append_known_bad_url(url, path=None):
+    """Append a URL to the known-bad list so we skip it on future runs."""
+    path = Path(path) if path else KNOWN_BAD_URLS_FILE
+    with open(path, 'a') as f:
+        f.write(url + '\n')
 
 
 def create_git_commit_message(new_count, scraped_count, failed_count, total_links, total_files):

@@ -19,7 +19,8 @@ from threading import Lock, Event
 import threading
 from questionnaire_utils import (
     transform_monster_url, extract_questionnaire_id, get_questionnaire_filename,
-    get_questionnaire_filepath, questionnaire_exists, RAW_QUESTIONNAIRES_DIR
+    get_questionnaire_filepath, questionnaire_exists, RAW_QUESTIONNAIRES_DIR,
+    infer_questionnaire_url_from_announcement, load_known_bad_urls, append_known_bad_url
 )
 
 try:
@@ -152,8 +153,24 @@ def extract_questionnaire_links_from_job(job_row):
             if match not in links:
                 links.append(match)
                 has_monster_link = True
-    
-    return links, occupation_series, occupation_name, position_location, grade_code, position_schedule, service_type, low_grade, high_grade, has_monster_link
+
+    # Fallback: if no direct questionnaire URL was found but the posting both
+    # (a) applies through USAStaffing and (b) explicitly mentions a
+    # questionnaire, guess the URL from the middle 8-digit token of the
+    # announcement number. This avoids firing on jobs that apply through
+    # non-USAStaffing systems (CIA MyLINK, Monster, agency-specific portals).
+    inferred_from_announcement = False
+    if not links:
+        uses_usastaffing = 'apply.usastaffing.gov' in job_str
+        mentions_questionnaire = re.search(r'questionnaire', job_str, re.IGNORECASE) is not None
+        if uses_usastaffing and mentions_questionnaire:
+            ann = job_row.get('announcementNumber')
+            guessed = infer_questionnaire_url_from_announcement(ann)
+            if guessed:
+                links.append(guessed)
+                inferred_from_announcement = True
+
+    return links, occupation_series, occupation_name, position_location, grade_code, position_schedule, service_type, low_grade, high_grade, has_monster_link, inferred_from_announcement
 
 
 def scrape_questionnaire(url, output_dir, timeout_seconds=60, headless=True, session_file=None):
@@ -505,6 +522,13 @@ def scrape_questionnaire_worker(args):
     else:
         questionnaire['questionnaire_text'] = None
         questionnaire['scrape_status'] = 'failed'
+        # If this URL was guessed from the announcement number and the scrape
+        # failed after retries, record it as known-bad so we don't re-add it
+        # to the CSV on subsequent runs. We only blacklist guessed URLs —
+        # URLs that came directly from the API are presumed real.
+        if questionnaire.get('inferred_from_announcement'):
+            with progress_lock:
+                append_known_bad_url(questionnaire['questionnaire_url'])
         with progress_lock:
             failed_count += 1
         return questionnaire, False
@@ -521,6 +545,12 @@ def extract_all_links_to_csv(data_dir='../../data', cutoff_date='2025-06-01'):
         existing_df = pd.read_csv(csv_file)
         existing_urls = set(existing_df['questionnaire_url'].values)
         print(f"  Contains {len(existing_urls)} unique URLs")
+
+    # Load known-bad URLs (previously confirmed to not exist) so we don't
+    # re-add them to the CSV on each run.
+    known_bad_urls = load_known_bad_urls()
+    if known_bad_urls:
+        print(f"  Skipping {len(known_bad_urls)} URLs known to not exist")
     
     # Find all job parquet files - both current and historical
     current_job_files = sorted(Path(data_dir).glob('current_jobs_*.parquet'))
@@ -578,7 +608,7 @@ def extract_all_links_to_csv(data_dir='../../data', cutoff_date='2025-06-01'):
             processed_jobs.add(control_number)
             
             # Extract links and other fields from this job
-            links, occupation_series, occupation_name, position_location, grade_code, position_schedule, service_type, low_grade, high_grade, has_monster_link = extract_questionnaire_links_from_job(row)
+            links, occupation_series, occupation_name, position_location, grade_code, position_schedule, service_type, low_grade, high_grade, has_monster_link, inferred_from_announcement = extract_questionnaire_links_from_job(row)
             
             # Track Monster links
             if has_monster_link:
@@ -586,8 +616,11 @@ def extract_all_links_to_csv(data_dir='../../data', cutoff_date='2025-06-01'):
             
             if links:
                 jobs_with_links += 1
-                
+
                 for link in links:
+                    # Skip URLs we've previously confirmed don't exist
+                    if link in known_bad_urls:
+                        continue
                     # Only add if we haven't seen this URL before
                     if link not in existing_urls:
                         existing_urls.add(link)
@@ -625,7 +658,8 @@ def extract_all_links_to_csv(data_dir='../../data', cutoff_date='2025-06-01'):
                             'position_schedule': position_schedule,  # From MatchedObjectDescriptor
                             'service_type': service_type,  # From MatchedObjectDescriptor
                             'extracted_from_file': parquet_file.name,
-                            'extracted_date': datetime.now().isoformat()
+                            'extracted_date': datetime.now().isoformat(),
+                            'inferred_from_announcement': inferred_from_announcement
                         }
                         all_new_links.append(link_record)
                         
@@ -797,18 +831,29 @@ def main():
     to_scrape = []
     
     print("Checking for unscraped questionnaires (will process ALL unscraped, not just new)...")
-    
+
+    known_bad_urls = load_known_bad_urls()
+    skipped_known_bad = 0
+
     for idx, (_, row) in enumerate(df.iterrows()):
         url = row['questionnaire_url']
         # Transform Monster URLs for checking
         url = transform_monster_url(url)
-        
+
+        # Skip URLs previously confirmed to not exist
+        if url in known_bad_urls or row['questionnaire_url'] in known_bad_urls:
+            skipped_known_bad += 1
+            continue
+
         # Check if file exists
         txt_path = get_questionnaire_filepath(url)
         if os.path.exists(txt_path):
             already_scraped += 1
         else:
             to_scrape.append((row.to_dict(), idx + 1))
+
+    if skipped_known_bad:
+        print(f"Skipped {skipped_known_bad} URLs from known-bad list")
     
     print(f"\n{already_scraped} questionnaires already scraped")
     print(f"{len(to_scrape)} questionnaires to scrape")
