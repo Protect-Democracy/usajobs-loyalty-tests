@@ -154,17 +154,21 @@ def extract_questionnaire_links_from_job(job_row):
                 links.append(match)
                 has_monster_link = True
 
-    # Fallback: if no direct questionnaire URL was found, try to guess one from
-    # the announcement number. Some USAStaffing jobs (e.g. DOJ AUSA postings)
-    # expose only generic /Application/Apply URLs but embed the questionnaire
-    # ID in the announcement number as the middle 8-digit token.
+    # Fallback: if no direct questionnaire URL was found but the posting both
+    # (a) applies through USAStaffing and (b) explicitly mentions a
+    # questionnaire, guess the URL from the middle 8-digit token of the
+    # announcement number. This avoids firing on jobs that apply through
+    # non-USAStaffing systems (CIA MyLINK, Monster, agency-specific portals).
     inferred_from_announcement = False
     if not links:
-        ann = job_row.get('announcementNumber')
-        guessed = infer_questionnaire_url_from_announcement(ann)
-        if guessed:
-            links.append(guessed)
-            inferred_from_announcement = True
+        uses_usastaffing = 'apply.usastaffing.gov' in job_str
+        mentions_questionnaire = re.search(r'questionnaire', job_str, re.IGNORECASE) is not None
+        if uses_usastaffing and mentions_questionnaire:
+            ann = job_row.get('announcementNumber')
+            guessed = infer_questionnaire_url_from_announcement(ann)
+            if guessed:
+                links.append(guessed)
+                inferred_from_announcement = True
 
     return links, occupation_series, occupation_name, position_location, grade_code, position_schedule, service_type, low_grade, high_grade, has_monster_link, inferred_from_announcement
 
