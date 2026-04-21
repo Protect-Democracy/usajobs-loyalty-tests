@@ -434,6 +434,17 @@ def check_date_sorting():
                 else:
                     print(f"{Colors.GREEN}✅ PASS{Colors.RESET} Date sort order is chronologically correct (newest: {sorted_dates[0][0]}, oldest: {sorted_dates[-1][0]})")
 
+                # Freshness: newest open_date must be within the last 4 days,
+                # otherwise the pipeline is silently serving stale data.
+                MAX_STALE_DAYS = 4
+                newest_dt = datetime.strptime(sorted_dates[0][0], '%m/%d/%Y')
+                age_days = (datetime.now() - newest_dt).days
+                if age_days > MAX_STALE_DAYS:
+                    print(f"{Colors.RED}❌ FAIL{Colors.RESET} Newest job posting is {age_days} days old (max allowed: {MAX_STALE_DAYS}) — pipeline may not be ingesting new jobs")
+                    all_good = False
+                else:
+                    print(f"{Colors.GREEN}✅ PASS{Colors.RESET} Newest job posting is {age_days} days old (within {MAX_STALE_DAYS}-day freshness threshold)")
+
         return all_good
 
     except Exception as e:
