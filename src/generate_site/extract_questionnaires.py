@@ -545,6 +545,13 @@ def extract_all_links_to_csv(data_dir='../../data', cutoff_date='2025-06-01'):
         existing_df = pd.read_csv(csv_file)
         existing_urls = set(existing_df['questionnaire_url'].values)
         print(f"  Contains {len(existing_urls)} unique URLs")
+        # One-time schema migration: older CSVs (pre-inference-fallback)
+        # lack this column. Appending rows with the new column would produce
+        # ragged lines that pandas refuses to re-parse.
+        if 'inferred_from_announcement' not in existing_df.columns:
+            print('  Migrating CSV schema: adding inferred_from_announcement column')
+            existing_df['inferred_from_announcement'] = False
+            existing_df.to_csv(csv_file, index=False)
 
     # Load known-bad URLs (previously confirmed to not exist) so we don't
     # re-add them to the CSV on each run.
@@ -809,11 +816,16 @@ def main():
     # Read the CSV
     df = pd.read_csv(csv_file)
     
-    # Sort by extracted_date descending (most recent first)
+    # Sort by job posting date descending (newest jobs first), with
+    # extracted_date as a secondary key for rows missing position_open_date.
+    if 'position_open_date' in df.columns:
+        df['position_open_date'] = pd.to_datetime(df['position_open_date'], errors='coerce')
     if 'extracted_date' in df.columns:
-        df['extracted_date'] = pd.to_datetime(df['extracted_date'])
-        df = df.sort_values('extracted_date', ascending=False)
-        print("Sorted questionnaires by date (most recent first)")
+        df['extracted_date'] = pd.to_datetime(df['extracted_date'], errors='coerce')
+    sort_cols = [c for c in ('position_open_date', 'extracted_date') if c in df.columns]
+    if sort_cols:
+        df = df.sort_values(sort_cols, ascending=False, na_position='last')
+        print(f"Sorted questionnaires newest-first by {', '.join(sort_cols)}")
     
     total_links = len(df)
     print(f"\nTotal questionnaire links in CSV: {total_links}")
