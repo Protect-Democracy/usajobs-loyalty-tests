@@ -1,0 +1,182 @@
+Position Title
+Supervisory IT Specialist (SYSANA/APPSW)
+Agency
+Social Security Administration
+Announcement Number
+SSA-12937137-MP26-CIO Opens in new window
+Open Period
+Apr 21, 2026 to Apr 27, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+Please read the questions carefully. Responding "No" may result in loss of further consideration.
+
+
+1.
+Are you a current SSA employee applying for reassignment, change to lower grade, or repromotion to a grade you previously held on a permanent basis? Select yes if you currently hold or previously held a permanent position at or above the grade level(s) posted in this vacancy announcement. (NOTE: If the posted position has higher promotion potential than you have held on a permanent basis, you must apply for promotion to receive consideration.)
+OR
+Are you applying for non-competitive consideration?  Select yes if you are an SSA employee currently serving under one of the following appointment types:  Schedule A 213.3102(u) for individuals with disabilities; temporary/term appointment for 30% or more disabled veterans; or Veterans Recruitment Appointment (Note: Employees serving on VRA appointments are only eligible for non-competitive consideration for positions at GS-11 or below).
+ Yes
+ No
+
+
+2.
+Are you a current SSA employee applying for promotion? Select yes if you have 52 weeks at the next lower grade AND you have not held a permanent position at the grade level(s) posted in this vacancy announcement, OR if this position has higher promotion potential than the positions you have held on a permanent basis.
+ Yes
+ No
+
+
+Preferences
+1.
+Please enter your Employee Common ID (ECI). Your ECI can be found on the first page of Employee Data. NOTE: The Employee Data website is only viewable from within SSA's firewall.
+
+
+Assessment 1
+Please answer Yes or No for each of the following areas that describe your experience and/or training in that task. Applicants must have IT-related experience demonstrating each of the four competencies below. You may be asked to provide evidence of supporting documentation that you have had this type of experience and. Your responses are subject to verification against the information you provide.
+
+
+1.
+I am thorough when performing work and conscientious about attending to detail.
+ Yes
+ No
+
+
+2.
+I work with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; know about available products and services; and am committed to providing quality products and services.
+ Yes
+ No
+
+
+3.
+I express information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); make clear and convincing oral presentations; listen to others, attend to nonverbal cues, and responds appropriately.
+ Yes
+ No
+
+
+4.
+I identify problems; determine accuracy and relevance of information; use sound judgment to generate and evaluate alternatives, and to make recommendations.
+ Yes
+ No
+
+
+5.
+Do you have 52 weeks of specialized experience at the GS-13 level, or equivalent, which is in or related to the work of the position to be filled, that has equipped you with the particular knowledge, skills, and abilities to successfully perform the duties of the position? To qualify for this GS-14 Supervisory IT Specialist (SYSANA/APPSW) position you must demonstrate at least 52 weeks of Specialized Experience. Such IT-related experience should include the following: leading teams in design, requirements, development, validation, and deployment of complex applications utilizing different SDLCs and experience with providing training and mentorship to employees.
+ Yes
+ No
+
+
+6.
+Are you currently in good standing?
+CAUTION: Employees are not in good standing when they are placed on an OPS plan, and remain in not in good standing until they meet one of the following conditions: Successful completion of the OPS plan; Following the unsuccessful completion of the OPS, receive a successful rating for a new appraisal period under a new plan for a new position (if applicable based on the effectuated performance-based action); or Voluntarily change positions prior to completing the OPS.
+
+In good standing information can be found on the first page of Employee Data (https://eedata.personnel.ba.ssa.gov/).
+NOTE: The Employee Data website is only viewable from within SSA's firewall.
+ Yes
+ No
+
+
+7.
+Please select the statement that best describes your appointment.
+ I am an SSA employee serving under a career or career/conditional appointment.
+ I am an SSA employee serving under a Schedule A, Reg. 213.3102 (U) appointment for individuals with disabilities.
+ I am an SSA employee serving under a time-limited appointment for veterans with a compensable service-connected disability of 30% or more.
+ I am in an appointment other than the ones described above (e.g., excepted service for Attorneys, term appointment or contractor, etc.).
+
+
+8.
+Please select the statement that best describes the component and office where you work. NOTE: Your SSA-45/resume must include your current permanent and/or temporary organizational location. If this information is not included, you will be rated ineligible.
+ My permanent/temporary duty station is in the Chief Information Officer (CIO).
+ My permanent/temporary duty station is outside of the Chief Information Officer (CIO).
+
+
+Please answer Yes or No to the following questions. Your responses will be used to rate your application. Be sure to include specific examples of claimed experience in your resume and supporting documents. If your application materials do not demonstrate the knowledge, skills, abilities, and experience needed for this position, your application will be ineligible for consideration.
+
+
+9.
+Do you have experience leading requirement engineering, software development, software validation, execution, and monitoring of a large-scale enterprise level project?
+ Yes
+ No
+
+
+10.
+Do you have experience managing multiple priorities to successful outcomes as well as establishing priorities for staff and peers?
+ Yes
+ No
+
+
+11.
+Do you have experience collaborating with other Systems and business components to reach consensus when implementing programmatic or information systems?
+ Yes
+ No
+
+
+12.
+Do you have experience in training employees which requires understanding of new technologies and applying their acquired skills to new projects?
+ Yes
+ No
+
+
+13.
+Do you have experience making training assignments based on priorities, relative difficulty of the assignment and the varying capabilities of the employee?
+ Yes
+ No
+
+
+14.
+Do you have experience in requirements engineering, design, development, implementation, and validation of a major programmatic application system?
+ Yes
+ No
+
+
+15.
+Do you have experience leading projects utilizing different SDLCs?
+ Yes
+ No
+
+
+16.
+Do you have experience, which has provided knowledge of all phases of the Systems Development Life Cycle with demonstrated technical skill in at least one of the lifecycle areas (e.g., Planning, Requirements, Development, Testing, Project Management, etc.)?
+ Yes
+ No
+
+
+17.
+Do you have experience negotiating and coordinating with Systems components or groups to ensure major project milestones are met?
+ Yes
+ No
+
+
+18.
+Do you have experience participating, coordinating, or leading cross component discussions, meetings, or conferences?
+ Yes
+ No
+
+
+19.
+Do you have experience presenting information to technical and non-technical audiences?
+ Yes
+ No
+
+
+20.
+Do you have experience obtaining input from peers or subordinates and using the information gathered to make a technical recommendation to management?
+ Yes
+ No
+
+
+21.
+Do you have experience negotiating and collaborating with other organizations to achieve successful project outcomes?
+
+ Yes
+ No
+
+
+22.
+I acknowledge that I have thoroughly read each question and answered all honestly and to the best of my ability.
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
