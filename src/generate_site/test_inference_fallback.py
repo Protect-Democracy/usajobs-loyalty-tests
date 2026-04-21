@@ -86,11 +86,23 @@ def main():
             else:
                 direct_link_jobs += 1
 
+    # How many of the inferred URLs already have a scraped file on disk
+    # (because a different job exposed the direct URL for the same QID)?
+    already_on_disk = 0
+    genuinely_new = []
+    for rec in inferred_records:
+        if get_questionnaire_filepath(rec['url']).exists():
+            already_on_disk += 1
+        else:
+            genuinely_new.append(rec)
+
     print(f'Total jobs:          {total_jobs:,}')
     print(f'  Direct-link jobs:  {direct_link_jobs:,}')
     print(f'  Inferred-link jobs:{inferred_jobs:,}')
     print(f'  No-link jobs:      {no_link_jobs:,}')
     print(f'Unique inferred URLs: {len(inferred_records):,}')
+    print(f'  Already scraped (file on disk): {already_on_disk:,}')
+    print(f'  Genuinely new:                  {len(genuinely_new):,}')
     print(f'AUSA (852814700) inferred URL: {ausa_found_url}')
 
     # --- Loud assertions ---
@@ -105,12 +117,16 @@ def main():
         errors.append('No inferred URLs found at all — the fallback did not fire')
 
     # --- Scrape a capped sample to verify real success ---
+    # Sample only from genuinely-new URLs — re-scraping ones we already have
+    # wastes time and hides whether inference is actually producing new data.
     RAW_QUESTIONNAIRES_DIR.mkdir(parents=True, exist_ok=True)
 
-    sample = inferred_records[:MAX_SCRAPE]
-    # Ensure AUSA is in the sample if it was found
+    sample = genuinely_new[:MAX_SCRAPE]
+    # Ensure AUSA is in the sample if it's still genuinely new
     if ausa_found_url and not any(r['url'] == ausa_found_url for r in sample):
-        sample = [r for r in inferred_records if r['url'] == ausa_found_url][:1] + sample[:-1]
+        ausa_rec = next((r for r in genuinely_new if r['url'] == ausa_found_url), None)
+        if ausa_rec:
+            sample = [ausa_rec] + sample[:-1]
 
     print(f'\nScraping {len(sample)} inferred URLs (cap={MAX_SCRAPE})...')
 
@@ -149,6 +165,8 @@ def main():
     lines.append(f'- Jobs with inferred-from-announcement links: **{inferred_jobs:,}**')
     lines.append(f'- Jobs with no questionnaire link: **{no_link_jobs:,}**')
     lines.append(f'- Unique inferred URLs: **{len(inferred_records):,}**')
+    lines.append(f'  - Already scraped (file on disk): **{already_on_disk:,}**')
+    lines.append(f'  - Genuinely new: **{len(genuinely_new):,}**')
     lines.append('')
     lines.append('### Scrape sample')
     lines.append(f'- URLs attempted: **{len(scrape_results)}** (cap: {MAX_SCRAPE})')
