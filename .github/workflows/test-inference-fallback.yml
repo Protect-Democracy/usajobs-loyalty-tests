@@ -50,7 +50,7 @@ jobs:
 
       - name: Run inference fallback test
         env:
-          MAX_INFERRED_SCRAPES: ${{ inputs.max_scrapes }}
+          MAX_INFERRED_SCRAPES: ${{ inputs.max_scrapes || '50' }}
         run: |
           cd src/generate_site
           python test_inference_fallback.py
