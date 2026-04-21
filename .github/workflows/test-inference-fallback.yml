@@ -1,0 +1,53 @@
+name: Test Questionnaire Inference Fallback
+
+on:
+  workflow_dispatch:
+    inputs:
+      max_scrapes:
+        description: 'Max inferred URLs to actually scrape'
+        required: false
+        default: '50'
+
+permissions:
+  contents: read
+
+jobs:
+  test-inference:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          lfs: true
+
+      - name: Pull LFS data files
+        run: |
+          git lfs pull
+          ls -lh data/*.parquet
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install minimal dependencies
+        run: |
+          python -m pip install --upgrade pip
+          # Only what test_inference_fallback.py + its imports actually need.
+          # Avoid the 142-package requirements.txt and the massive
+          # `playwright install-deps` apt step (ffmpeg/audio libs we never use).
+          pip install pandas pyarrow requests playwright
+          # Just the Chromium binary; ubuntu-latest already ships with the
+          # GUI shared libs Chromium needs for headless text extraction.
+          playwright install chromium
+
+      - name: Run inference fallback test
+        env:
+          MAX_INFERRED_SCRAPES: ${{ inputs.max_scrapes || '50' }}
+        run: |
+          cd src/generate_site
+          python test_inference_fallback.py
