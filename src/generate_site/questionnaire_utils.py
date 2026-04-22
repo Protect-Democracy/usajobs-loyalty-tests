@@ -81,6 +81,43 @@ def infer_questionnaire_url_from_announcement(announcement_number):
     return None
 
 
+# Matches literal and JSON-Unicode-escaped ViewQuestionnaire URLs in HTML.
+_QID_IN_HTML_RE = re.compile(r'ViewQuestionnaire/(\d+)', re.IGNORECASE)
+
+
+def discover_qid_from_usajobs_html(html):
+    """Extract the first USAStaffing questionnaire QID from a USAJobs posting HTML.
+
+    USAJobs postings that list a questionnaire embed the URL as
+    `apply.usastaffing.gov/ViewQuestionnaire/<qid>`, sometimes JSON-escaped
+    (\\u0022 etc.). Returns the QID string or None.
+    """
+    if not html:
+        return None
+    match = _QID_IN_HTML_RE.search(html)
+    return match.group(1) if match else None
+
+
+def discover_qid_from_usajobs_posting(position_uri, session=None, timeout=15):
+    """Fetch a USAJobs posting page and return a discovered QID, or None.
+
+    Last-resort fallback for USAStaffing jobs whose announcement number
+    does not embed the QID. Caller should rate-limit at the loop level.
+    """
+    if not position_uri:
+        return None
+    import requests
+    headers = {'User-Agent': 'Mozilla/5.0 (compatible; questionnaire-tracker/1.0)'}
+    get = session.get if session else requests.get
+    try:
+        resp = get(position_uri, headers=headers, timeout=timeout, allow_redirects=True)
+    except Exception:
+        return None
+    if resp.status_code != 200:
+        return None
+    return discover_qid_from_usajobs_html(resp.text)
+
+
 def load_known_bad_urls(path=None):
     """Load the set of URLs previously confirmed to not exist."""
     path = Path(path) if path else KNOWN_BAD_URLS_FILE
