@@ -20,8 +20,19 @@ import threading
 from questionnaire_utils import (
     transform_monster_url, extract_questionnaire_id, get_questionnaire_filename,
     get_questionnaire_filepath, questionnaire_exists, RAW_QUESTIONNAIRES_DIR,
-    infer_questionnaire_url_from_announcement, load_known_bad_urls, append_known_bad_url
+    infer_questionnaire_url_from_announcement, discover_qid_from_usajobs_posting,
+    load_known_bad_urls, append_known_bad_url,
 )
+
+# Shared session for the USAJobs-HTML fallback. Reuses a single TCP/TLS
+# connection across calls to speed up the ~1-2K fetches per extract run.
+_usajobs_session = None
+
+def _get_usajobs_session():
+    global _usajobs_session
+    if _usajobs_session is None:
+        _usajobs_session = requests.Session()
+    return _usajobs_session
 
 try:
     from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
@@ -45,8 +56,13 @@ def signal_handler(signum, frame):
 signal.signal(signal.SIGINT, signal_handler)
 signal.signal(signal.SIGTERM, signal_handler)
 
-def extract_questionnaire_links_from_job(job_row):
-    """Extract all questionnaire links from a job record"""
+def extract_questionnaire_links_from_job(job_row, fetch_usajobs_html=True):
+    """Extract all questionnaire links from a job record.
+
+    fetch_usajobs_html: if True, use the last-resort USAJobs-HTML fallback
+    (network call). Default True for production; tests/iterators that need
+    to stay offline should pass False.
+    """
     links = []
     has_monster_link = False
     
@@ -155,22 +171,42 @@ def extract_questionnaire_links_from_job(job_row):
                 has_monster_link = True
 
     # Fallback: if no direct questionnaire URL was found but the posting both
-    # (a) applies through USAStaffing and (b) explicitly mentions a
-    # questionnaire, guess the URL from the middle 8-digit token of the
+    # (a) applies through USAStaffing and (b) mentions a questionnaire or
+    # assessment, guess the URL from the middle 8-digit token of the
     # announcement number. This avoids firing on jobs that apply through
     # non-USAStaffing systems (CIA MyLINK, Monster, agency-specific portals).
     inferred_from_announcement = False
+    inferred_from_posting_html = False
     if not links:
         uses_usastaffing = 'apply.usastaffing.gov' in job_str
-        mentions_questionnaire = re.search(r'questionnaire', job_str, re.IGNORECASE) is not None
+        mentions_questionnaire = re.search(r'questionnaire|assessment', job_str, re.IGNORECASE) is not None
         if uses_usastaffing and mentions_questionnaire:
             ann = job_row.get('announcementNumber')
             guessed = infer_questionnaire_url_from_announcement(ann)
             if guessed:
                 links.append(guessed)
                 inferred_from_announcement = True
+            elif fetch_usajobs_html:
+                # Second fallback: announcement number doesn't embed a QID.
+                # Fetch the USAJobs posting HTML once and look for a
+                # ViewQuestionnaire URL rendered on the page. About 25% of
+                # these gap postings actually surface a QID this way.
+                position_uri = None
+                if pd.notna(job_row.get('MatchedObjectDescriptor')):
+                    try:
+                        mod = json.loads(job_row['MatchedObjectDescriptor'])
+                        position_uri = mod.get('PositionURI')
+                    except Exception:
+                        pass
+                if position_uri:
+                    qid = discover_qid_from_usajobs_posting(
+                        position_uri, session=_get_usajobs_session()
+                    )
+                    if qid:
+                        links.append(f'https://apply.usastaffing.gov/ViewQuestionnaire/{qid}')
+                        inferred_from_posting_html = True
 
-    return links, occupation_series, occupation_name, position_location, grade_code, position_schedule, service_type, low_grade, high_grade, has_monster_link, inferred_from_announcement
+    return links, occupation_series, occupation_name, position_location, grade_code, position_schedule, service_type, low_grade, high_grade, has_monster_link, inferred_from_announcement, inferred_from_posting_html
 
 
 def scrape_questionnaire(url, output_dir, timeout_seconds=60, headless=True, session_file=None):
@@ -522,11 +558,11 @@ def scrape_questionnaire_worker(args):
     else:
         questionnaire['questionnaire_text'] = None
         questionnaire['scrape_status'] = 'failed'
-        # If this URL was guessed from the announcement number and the scrape
-        # failed after retries, record it as known-bad so we don't re-add it
-        # to the CSV on subsequent runs. We only blacklist guessed URLs —
-        # URLs that came directly from the API are presumed real.
-        if questionnaire.get('inferred_from_announcement'):
+        # If this URL was guessed (from announcement number or USAJobs HTML)
+        # and the scrape failed after retries, record it as known-bad so we
+        # don't re-add it to the CSV on subsequent runs. We only blacklist
+        # guessed URLs — URLs that came directly from the API are presumed real.
+        if questionnaire.get('inferred_from_announcement') or questionnaire.get('inferred_from_posting_html'):
             with progress_lock:
                 append_known_bad_url(questionnaire['questionnaire_url'])
         with progress_lock:
@@ -548,9 +584,16 @@ def extract_all_links_to_csv(data_dir='../../data', cutoff_date='2025-06-01'):
         # One-time schema migration: older CSVs (pre-inference-fallback)
         # lack this column. Appending rows with the new column would produce
         # ragged lines that pandas refuses to re-parse.
+        schema_changed = False
         if 'inferred_from_announcement' not in existing_df.columns:
             print('  Migrating CSV schema: adding inferred_from_announcement column')
             existing_df['inferred_from_announcement'] = False
+            schema_changed = True
+        if 'inferred_from_posting_html' not in existing_df.columns:
+            print('  Migrating CSV schema: adding inferred_from_posting_html column')
+            existing_df['inferred_from_posting_html'] = False
+            schema_changed = True
+        if schema_changed:
             existing_df.to_csv(csv_file, index=False)
 
     # Load known-bad URLs (previously confirmed to not exist) so we don't
@@ -615,7 +658,7 @@ def extract_all_links_to_csv(data_dir='../../data', cutoff_date='2025-06-01'):
             processed_jobs.add(control_number)
             
             # Extract links and other fields from this job
-            links, occupation_series, occupation_name, position_location, grade_code, position_schedule, service_type, low_grade, high_grade, has_monster_link, inferred_from_announcement = extract_questionnaire_links_from_job(row)
+            links, occupation_series, occupation_name, position_location, grade_code, position_schedule, service_type, low_grade, high_grade, has_monster_link, inferred_from_announcement, inferred_from_posting_html = extract_questionnaire_links_from_job(row)
             
             # Track Monster links
             if has_monster_link:
@@ -666,7 +709,8 @@ def extract_all_links_to_csv(data_dir='../../data', cutoff_date='2025-06-01'):
                             'service_type': service_type,  # From MatchedObjectDescriptor
                             'extracted_from_file': parquet_file.name,
                             'extracted_date': datetime.now().isoformat(),
-                            'inferred_from_announcement': inferred_from_announcement
+                            'inferred_from_announcement': inferred_from_announcement,
+                            'inferred_from_posting_html': inferred_from_posting_html,
                         }
                         all_new_links.append(link_record)
                         
