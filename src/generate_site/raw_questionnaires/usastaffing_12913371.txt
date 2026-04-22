@@ -1,0 +1,69 @@
+Position Title
+IT Cybersecurity Specialist (CUSTSPT-INFOSEC)
+Agency
+U.S. Coast Guard
+Announcement Number
+26-12913371-HQVP-DHA Opens in new window
+Open Period
+Apr 21, 2026 to Apr 25, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+Are you a current or former federal employee displaced from the agency hiring for this position? If yes, confirm:
+• you are located in the same local commuting area of the vacancy; AND,
+• you are applying to a position that is at or below the grade level of the position from which you were or will be separated; AND,
+• you are applying to a position that does not have greater promotion potential than the position from which you were or will be separated; AND,
+• your last performance rating of record is at least fully successful or the equivalent.
+
+For more information, review the USAJOBS Help Center.
+
+To verify your eligibility, you must submit supporting documentation such as a Reduction in Force (RIF) separation notice or a Proposed Removal/Separation notice to include your latest performance rating (if the notice does not have this information included, you must submit a copy of your most recent performance appraisal) and a copy of your latest Notification of Personnel Action, Standard Form 50.
+ Yes
+ No
+
+
+3.
+Are you a current or former federal employee displaced from a position in a Federal agency other than the agency hiring for this position? If yes, confirm:
+• you are located in the same local commuting area of the vacancy; AND,
+• you are applying to a position that is at or below the grade level of the position from which you were or will be separated; AND,
+• you are applying to a position that does not have greater promotion potential than the position from which you were or will be separated; AND,
+• your last performance rating of record is at least fully successful or the equivalent.
+
+For more information, review the USAJOBS Help Center.
+
+To verify your eligibility, you must submit supporting documentation such as a Reduction in Force (RIF) separation notice to include your latest performance rating (if the notice does not have this information included, you must submit a copy of your most recent performance appraisal) and a copy of your latest Notification of Personnel Action, Standard Form 50.
+ Yes
+ No
+
+
+Assessment 1
+Please select the responses to the questions below that best describes your experience as it relates to this position.
+
+
+1.
+Select the one statement that best describes the experience that you possess that demonstrates your ability to perform the work of an IT Cybersecurity Specialist (CUSTSPT-INFOSEC) at the GS-13 grade level in the Federal service.
+ I have one year of specialized experience equivalent to the GS-12 level in the Federal service which includes: - Delivering and managing Identity, Credential, and Access Management (ICAM) solutions and services to a large enterprise, encompassing technical systems, processes, and procedures. - Enabling secure interoperability between DoD systems and external entities (e.g., partners, cloud service providers) using DoD-approved methods for secure authentication and authorization, including PKI, CAC, and multi-factor authentication. -Managing person, persona, and personnel attributes within DoD enterprise directory services and Public Key Infrastructure (PKI/PKE) systems to support identity management and access control. -Designing and implementing technical systems, tactics, techniques, and processes to ensure that individuals and systems have appropriate access to resources while protecting sensitive identity information, adhering to DoD security policies and guidelines. -Securing DoD enterprise directory services environments, including implementing access controls and monitoring for security threats. AND- I have IT experience that demonstrates possession of the following four IT Competencies: 1. Attention to Detail - Is thorough when performing work and conscientious about attending to detail. 2. Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services. 3. Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately. 4. Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.
+ I do not possess the experience described above.
+
+
+2.
+I certify, to the best of my knowledge, that all the information in my application is true, and that I have truthfully and accurately represented my work experience, knowledge, skills, abilities, and education. I understand that providing false or fraudulent information may be grounds for not hiring me or for firing me after I begin work. I also certify that I have read the entire vacancy announcement; that I have reviewed my answers to the eligibility questions for accuracy; and that I understand what supporting documentation, if any, is required for submission and when it's due.
+ Yes, I certify that the information provided in this questionnaire is true, correct and provided in good faith, and I understand the information provided above.
+ No, I do not certify/understand the information provided above.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
