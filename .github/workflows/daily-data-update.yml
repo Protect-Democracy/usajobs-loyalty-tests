@@ -12,6 +12,10 @@ permissions:
   issues: write
   pull-requests: write
 
+# Node 20 runs out of stack walking the 120k-file workspace; opt into Node 24.
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   update-data:
     runs-on: ubuntu-latest
