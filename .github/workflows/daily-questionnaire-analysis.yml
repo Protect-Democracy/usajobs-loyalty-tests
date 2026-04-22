@@ -13,6 +13,10 @@ permissions:
   id-token: write
   pull-requests: write
 
+# Node 20 runs out of stack walking the 120k-file workspace; opt into Node 24.
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   analyze-questionnaires:
     runs-on: ubuntu-latest
