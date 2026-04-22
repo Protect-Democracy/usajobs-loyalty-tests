@@ -98,6 +98,32 @@ def discover_qid_from_usajobs_html(html):
     return match.group(1) if match else None
 
 
+def questionnaire_text_matches_announcement(text, announcement_number):
+    """Return True iff the scraped questionnaire text plausibly belongs to
+    the given announcement number.
+
+    USAStaffing questionnaires render the announcement in a header like
+    `Announcement Number\n<ann> Opens in new window`. For inferred URLs
+    (guessed from announcement or discovered via USAJobs HTML scraping)
+    we verify the questionnaire we actually scraped really is the one for
+    this posting, by checking that the source announcement string appears
+    somewhere in the scraped text.
+
+    Returns True on match, False on clear mismatch, and None if the check
+    is not applicable (no announcement given, empty text, or Monster-style
+    text with no announcement header).
+    """
+    if not announcement_number or not text:
+        return None
+    # Monster preview pages don't include an announcement header; skip the check.
+    if 'Announcement Number' not in text:
+        return None
+    ann = str(announcement_number).strip()
+    if not ann:
+        return None
+    return ann in text
+
+
 def discover_qid_from_usajobs_posting(position_uri, session=None, timeout=15):
     """Fetch a USAJobs posting page and return a discovered QID, or None.
 

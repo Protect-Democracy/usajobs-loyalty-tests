@@ -13,7 +13,10 @@ import json
 import sys
 import pandas as pd
 
-from questionnaire_utils import discover_qid_from_usajobs_html
+from questionnaire_utils import (
+    discover_qid_from_usajobs_html,
+    questionnaire_text_matches_announcement,
+)
 from extract_questionnaires import extract_questionnaire_links_from_job
 
 
@@ -103,6 +106,30 @@ def test_html_fallback_disabled_when_flag_false():
     assert inferred_html is False
 
 
+def test_ann_match_returns_true_when_present():
+    txt = ('Position Title\nDental Assistant\n'
+           'Announcement Number\nOCA-FY25-0681-DentalAsst3 Opens in new window\n')
+    assert questionnaire_text_matches_announcement(txt, 'OCA-FY25-0681-DentalAsst3') is True
+
+
+def test_ann_match_returns_false_on_mismatch():
+    txt = ('Position Title\nSomething Else\n'
+           'Announcement Number\nDIFFERENT-ANN-123 Opens in new window\n')
+    assert questionnaire_text_matches_announcement(txt, 'OCA-FY25-0681-DentalAsst3') is False
+
+
+def test_ann_match_returns_none_for_monster_style_text():
+    # No "Announcement Number" header → we can't run the check, so return None.
+    txt = 'Seeker - Vacancy - Questions Preview Skip to main content ...'
+    assert questionnaire_text_matches_announcement(txt, 'MONSTER-123') is None
+
+
+def test_ann_match_returns_none_for_empty_inputs():
+    assert questionnaire_text_matches_announcement('', 'ANN') is None
+    assert questionnaire_text_matches_announcement('text', None) is None
+    assert questionnaire_text_matches_announcement('text', '') is None
+
+
 TESTS = [
     test_discover_plain_url,
     test_discover_json_escaped_url,
@@ -112,6 +139,10 @@ TESTS = [
     test_gate_skips_non_usastaffing,
     test_gate_skips_when_no_assessment_or_questionnaire_word,
     test_html_fallback_disabled_when_flag_false,
+    test_ann_match_returns_true_when_present,
+    test_ann_match_returns_false_on_mismatch,
+    test_ann_match_returns_none_for_monster_style_text,
+    test_ann_match_returns_none_for_empty_inputs,
 ]
 
 
