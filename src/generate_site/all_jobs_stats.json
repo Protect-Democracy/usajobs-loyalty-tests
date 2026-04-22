@@ -2,7 +2,7 @@
   "metadata": {
     "total_jobs": 169477,
     "cutoff_date": "2025-06-01",
-    "generation_date": "2026-04-22T12:39:51.328344"
+    "generation_date": "2026-04-22T09:05:05.263085"
   },
   "by_service_type": {
     "Competitive": 104996,
@@ -44,8 +44,8 @@
     "Tucson, Arizona": 857,
     "Atlanta, Georgia": 836,
     "Albuquerque, New Mexico": 811,
-    "Los Angeles, California": 787,
     "Pentagon, Arlington, Virginia": 787,
+    "Los Angeles, California": 787,
     "Fort Bragg, North Carolina": 784,
     "Philadelphia, Pennsylvania": 771,
     "Richmond, Virginia": 752,
