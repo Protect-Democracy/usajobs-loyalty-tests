@@ -1,0 +1,129 @@
+Position Title
+ELECTRONIC INTEGRATED SYSTEMS MECHANIC
+Agency
+Air National Guard Units
+Announcement Number
+CA-12890676-AF-26-118 Opens in new window
+Open Period
+Mar 26, 2026 to Apr 16, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+All on-board federal employees/technicians within the state for which you are applying (Title 32 and Title 5, Permanent and Excepted Indefinite).  Are you a current on-board federal employee or technician within the state for which this position is being advertised?
+
+To verify your eligibility, you must submit a copy of your most recent Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Tenure in Block 24 (1, 2,or 3).
+ Yes
+ No
+
+
+2.
+Are you a current National Guard member within the state for which this position is being advertised?
+ Yes
+ No
+
+
+3.
+Are you a current Temporary full-time Dual Status National Guard Technician within the state for which this position is being advertised?
+
+To verify your eligibility, you must submit a copy of your Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Temporary full-time status with the state National Guard.
+ Yes
+ No
+
+
+Preferences
+1.
+Select the lowest grade you are willing to accept for this position.
+12
+13
+
+
+AOC
+1.
+Are you a current military member of the Air Force/Army National Guard, Air Force/Army Reserve, Air Force/Army Active Duty or interested in becoming a military member?
+ Yes
+ No
+
+
+2.
+Do you currently possess the military grade of E-3 through E-6?
+ Yes
+ No
+
+
+Assessment 1
+Thank you for your interest in completing the Occupational Questionnaire. Your responses to this questionnaire, in conjunction with the other portions of your completed application, will be evaluated in making preliminary screening decisions for this position. Do not overstate or understate your level of experience and capability. You should be aware that your ratings are subject to evaluation and verification. Particularly, your resume must support the response to the questions in the Occupational Questionnaire. Additional steps in the selections process are designed to verify your stated level of experience and capability.
+
+
+Carefully read the following description of experience. Select yes/no whichever is applicable to your qualifications for the position which you are applying. Please ensure your resume supports the response you select.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+1.
+Do you posses experience or training which demonstrates the knowledge to perform duties such as, install, modify, overhaul, maintain, troubleshoot, repair, align, calibrate, and rebuild multi-system avionics complexes; Ability to collect and analyze data effectively, efficiently, and accurately; Able to apply procedures and directives by reading and interpreting material; Ability to communicate clearly and effectively; Applicant must have a validated understanding of the basic principles and concepts of the occupational series and grade?
+ Yes
+ No
+
+
+2.
+Do you have at least 18 months of experience or training demonstrating the ability to repair, align, and adjust major integrated electronic systems such as inertial navigation system, automatic flight control, or fire control system; Extensive knowledge of electronic, pneumatic, hydraulic, and mechanical systems in order to understand and predict the progressive effects of malfunctions throughout the interrelated units, (e.g., trace an apparent operating error in the hydraulic controls of a gun mount back to the failure of a tactical computer to integrate yaw, pitch, azimuth, and velocity inputs) and to predict areas of technical difficulty in order to assist lower grade employees; Thorough knowledge of the application of electronic theories and practices to one or more complex integrated systems such as fire control, inertial navigation, or automatic landing control systems; Broad knowledge of such applications as radar, digital or analog computers, digital or cathode ray tube display devices, etc., and specific knowledge of the technology and practices which integrate these components into a total functional system; Knowledge of mathematics including algebra and basic trigonometric functions in order to adapt standard formulas to the specific requirements of the integrated system; Ability to follow drawings for integrated electronic systems such as radar navigation systems which integrate terrain information from the radar, pitch, roll, and turn rate, etc. from sensing devices and actuate control relays; Ability to trace the effect of a change in one subsystem to other integrated subsystems and determine which controls and devices must be changed or adjusted to compensate; Ability to diagnose and determine needed repairs for malfunctions in electronics systems such as weapons control where knowledge of the entire system is necessary to interpret error data and trace back through a number of units of the system to locate the deficiency?
+ Yes
+ No
+
+
+3.
+Do you have at least 18 months of experience or training demonstrating the ability to repair, overhaul, rebuild, align, and adjust complete multi-systems; Applies comprehensive knowledge of all major units of the complete multisystem; Able to determine proper sequence of operations and start point in sequential operations in order to pinpoint areas of malfunction; Extensive practical knowledge of the theories and practices of electromagnetic propagation, electronic circuits, computer theory, hydraulic or pneumatic control and power systems, and many other areas covering a wide range of system applications; Broad knowledge of the interactions among a number of closely integrated complex systems; Knowledge of mathematics, including trigonometry, to calculate power relation ships, signal phasing, etc; Ability to interpret drawings for multisystem complexes; Ability to isolate malfunctions of complete multiple integrated systems consisting of closely interrelated fire control, bombing-navigation, flight control, countermeasures or similar systems and to determine the methods of repair where extremely complex relationships exist among numerous interconnected units and control circuits not only within the individual control systems but between them as well, requiring complete knowledge of all electronic, mechanical, and or optical systems and units; Performs on-equipment or off-equipment maintenance on one or more complete electronic integrated systems associated with the assigned aircraft, and/or maintenance on automatic flight control systems, instrument systems, inertial and radar navigation systems?
+ Yes
+ No
+
+
+Select the answer that best describes your experience level. Please ensure your resume supports the response you select.
+
+
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+
+
+4.
+Documents all discrepancies and maintenance actions performed by inputting information into the electronic records information systems. Submits change recommendations to Technical Orders. Documents maintenance actions in aircraft forms and documents man-hour expenditures and maintenance actions in the maintenance computer system.
+ I know little or nothing about this.
+ I have had study or training in this.
+ I have used my knowledge or ability, but I have been closely supervised.
+ I have used my knowledge or ability on my own, under normal supervision.
+ I am consulted by other journeypersons in difficult situations, or I am called on to do unusually difficult jobs.
+
+
+5.
+Installs, operates, and repairs prototype or experimental electronic systems such as inertial navigation, automatic flight control as assigned. Aligns, adjusts, and performs final calibrations on integrated systems to determine successful repairs. Performs flight operational test, adjusts or replaces units or components as required. Configures complex aircraft ECM equipment to meet critical mission requirements.
+ I know little or nothing about this.
+ I have had study or training in this.
+ I have used my knowledge or ability, but I have been closely supervised.
+ I have used my knowledge or ability on my own, under normal supervision.
+ I am consulted by other journeypersons in difficult situations, or I am called on to do unusually difficult jobs.
+
+
+6.
+Solves complex problems by analyzing installation, circuitry, and operating characteristics of the systems. Installs, modifies, overhauls, maintains, troubleshoots, repairs, rebuilds, aligns, and calibrates complete electronic avionics multi-systems control.
+ I know little or nothing about this.
+ I have had study or training in this.
+ I have used my knowledge or ability, but I have been closely supervised.
+ I have used my knowledge or ability on my own, under normal supervision.
+ I am consulted by other journeypersons in difficult situations, or I am called on to do unusually difficult jobs.
+
+
+7.
+Conducts on-the-job training on assigned systems and related support equipment and tasks to include classroom instruction as necessary. Provides training to lower graded personnel concerned with the repair of integrated avionics systems.
+ I know little or nothing about this.
+ I have had study or training in this.
+ I have used my knowledge or ability, but I have been closely supervised.
+ I have used my knowledge or ability on my own, under normal supervision.
+ I am consulted by other journeypersons in difficult situations, or I am called on to do unusually difficult jobs.
+
+
+Your responses in this Assessment Questionnaire are subject to evaluation and verification using your resume. Later steps in the selection process are specifically designed to verify your responses. Deliberate attempts to falsify information will be grounds for disqualifying you or for dismissing you from employment following acceptance. Please take this opportunity to review your responses to ensure their accuracy.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
