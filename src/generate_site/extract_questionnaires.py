@@ -267,6 +267,12 @@ def scrape_questionnaire(url, output_dir, timeout_seconds=60, headless=True, ses
                 for error_text in error_indicators:
                     if error_text.lower() in content_lower:
                         print(f"    ❌ ERROR PAGE DETECTED: Contains '{error_text}'")
+                        # Monster's error-page response is deterministic: if the
+                        # vacancy doesn't exist in their system, it will return
+                        # this page on every attempt. Blacklist the URL so the
+                        # chain doesn't infinite-loop re-trying it.
+                        with progress_lock:
+                            append_known_bad_url(url)
                         return None  # Return None to trigger retry
                 
                 # Check if content is too small (likely an error)

@@ -1,0 +1,140 @@
+Position Title
+IT SPECIALIST (NETWORK)
+Agency
+Army National Guard Units
+Announcement Number
+VT-12768084-AR-25-29 Opens in new window
+Open Period
+Jul 18, 2025 to Jul 23, 2025
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+All on-board federal employees/technicians within the state for which you are applying (Title 32 and Title 5, Permanent and Excepted Indefinite).  Are you a current on-board federal employee or technician within the state for which this position is being advertised?
+
+To verify your eligibility, you must submit a copy of your most recent Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Tenure in Block 24 (1, 2,or 3).
+ Yes
+ No
+
+
+2.
+All on-board National Guard Title 32 Excepted Technicians within the state for which you are applying (Title 32 Permanent and Excepted Indefinite).  Are you a current on-board National Guard Title 32 Excepted Technician within the state for which this position is being advertised?
+
+To verify your eligibility, you must submit a copy of your most recent Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Tenure in Block 24 (1, 2, or 3).
+ Yes
+ No
+
+
+3.
+
+All current (nationwide) federal employees.  Are you a current federal employee?
+
+To verify your eligibility, you must submit a copy of your most recent Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Tenure in Block 24 (1 or 2).
+
+ 
+
+ Yes
+ No
+
+
+4.
+Are you a current Permanent full-time Dual Status National Guard Technician within the state for which this position is being advertised?
+
+To verify your eligibility, you must submit a copy of your Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Permanent full-time status with the state National Guard.
+ Yes
+ No
+
+
+5.
+Are you a current Temporary Indefinite full-time Dual Status National Guard Technician within the state for which this position is being advertised?
+
+To verify your eligibility, you must submit a copy of your Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Indefinite full-time status with the state National Guard.
+ Yes
+ No
+
+
+6.
+Are you a current Temporary full-time Dual Status National Guard Technician within the state for which this position is being advertised?
+
+To verify your eligibility, you must submit a copy of your Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Temporary full-time status with the state National Guard.
+ Yes
+ No
+
+
+7.
+National Guard- All On-Board In-State National Guard Title 5 Excepted Employees (NG T5 Perm Empl).
+ Yes
+ No
+
+
+Assessment 1
+INSTRUCTIONS: Your responses in this Assessment Questionnaire are subject to evaluation and verification. Later steps in the selection process are specifically designed to verify your responses. Deliberate attempts to falsify information will be grounds for disqualifying you or for dismissing you from employment following acceptance. Please take this opportunity to review your responses to ensure their accuracy. If you fail to answer this question, you will be disqualified from consideration for this position.
+
+
+
+1.
+Do you meet the Area Of Consideration requirement for this position?
+
+OPEN AREAS OF CONSIDERATION: AREA 1
+Area I: Current On-board Title 5 or Title 32 Dual Status Technicians (Tenure: 1-Career, 2-Conditional, 3-Indefinite) - Only those current Vermont National Guard employees who are in a permanent or indefinite technician status as result of being competitively hired by the Vermont National Guard.
+
+ I meet the Area Of Consideration requirement. (Must submit most recent SF-50)
+ I do not meet this requirement.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+2.
+Do you possess the required Specialized Experience?
+
+Specialized Experience: Your resume must demonstrate at least one year of specialized experience at or equivalent to the GS-11 grade level or pay band in the Federal service or equivalent experience in the private or public sector. Specialized experience includes experience, education, or training that approaches techniques and requirements appropriate to an assigned computer applications area or computer specialty area in an organization. Experience planning the sequence of actions necessary to accomplish the assignment where this entailed coordination with others outside the organizational unit and development of project controls. Experience that requires adaptations of guidelines or precedents to meet the needs of the assignment. Experience preparing documentation on cost/benefit studies where is involved summarizing the material and organizing it in a logical fashion.
+ Yes
+ No
+
+
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+
+
+3.
+Your qualifications will be evaluated on the following knowledge, skills, abilities and other characteristics:
+
+-Knowledge of and skill in applying network design principles and concepts, network architecture principles and concepts, network protocols; remote access technology concepts, network operation and maintenance concepts and methods, network management tools, configuration management concepts and practices; network topology concepts; network optimization techniques; and acquisition management policies.
+
+-Skill in configuring hubs, switches, and routers, monitoring network performance, performing network diagnostics, analyzing network traffic patterns, installing network software fixes and upgrades.
+
+-Skill in establishing connectivity between remote sites, creating network maps, troubleshooting network problems (outages), developing and implementing configuration management plans for complex LANs and WANs.
+
+-Knowledge of and skill in implementing and testing of the installation COOP plan to ensure system operation functionality and security in the event of a natural disaster or catastrophic system failures.
+
+-Skill in modifying and adapting existing network configuration, protocol, and user files.
+
+-Skill in modifying workstation and server configurations to support addition and deletion of peripheral devices.
+
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+4.
+Do you meet the FEDERAL TIME-IN-GRADE (TIG) REQUIREMENT FOR GENERAL SCHEDULE (GS) POSITIONS?
+
+FEDERAL TIME-IN-GRADE (TIG) REQUIREMENT FOR GENERAL SCHEDULE (GS) POSITIONS: Merit promotion applicants must meet applicable time-in-­grade requirements to be considered eligible. One year at the GS-11 level is required to meet the time-in-grade requirements for the GS-12 level. TIG applies if you are in a current GS position or held a GS position within the previous 52 weeks.
+ Yes
+ No
+
+
+5.
+I certify that, to the best of my knowledge and belief, all of the information included in this questionnaire is true, correct, and provided in good faith. I understand that if I make an intentional false statement, or commit deception or fraud in this application and its supporting materials, or in any document or interview associated with the examination process, I may be fined or imprisoned (18 U.S.C. 1001); my eligibilities may be canceled, I may be denied an appointment, or I may be removed and debarred from Federal service (5 C.F.R. part 731). I understand that any information I give may be investigated. I understand that responding "No" to this item will result in my not being considered for this position.
+ Yes, I certify that the information provided in this questionnaire is true, correct and provided in good faith, and I understand the information provided above.
+ No, I do not certify/understand the information provided above.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
