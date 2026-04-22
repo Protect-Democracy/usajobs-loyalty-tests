@@ -62,7 +62,13 @@ def main():
         df = pd.read_parquet(pf)
         for _, row in df.iterrows():
             total_jobs += 1
-            links, *_rest, inferred = extract_questionnaire_links_from_job(row)
+            # Disable the USAJobs-HTML network fallback here — this script
+            # iterates all jobs (~150k) and we don't want to fire ~1.8k HTTP
+            # requests inside a CI test. That fallback is covered by its own
+            # offline unit tests.
+            links, *_middle, inferred_from_announcement, inferred_from_posting_html = \
+                extract_questionnaire_links_from_job(row, fetch_usajobs_html=False)
+            inferred = inferred_from_announcement
 
             if not links:
                 no_link_jobs += 1
