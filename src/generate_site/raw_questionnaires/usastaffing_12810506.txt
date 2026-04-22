@@ -1,0 +1,133 @@
+Position Title
+SENIOR FINANCIAL DATA ANALYST
+Agency
+Treasury, Departmental Offices
+Announcement Number
+25-DO-12810506 Opens in new window
+Open Period
+Oct 07, 2025 to Oct 14, 2025
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Are you a surplus or displaced Federal employee eligible under the Career Transition Assistance Plan (CTAP)?  Click CTAP for eligibility and a detailed list of required documents you must submit in order to be eligible.
+
+ Yes
+ No
+
+
+2.
+Are you a current Departmental Offices employee who is eligible for competitive consideration under any of the following categories?
+Current DO employee in the Competitive service on a permanent career or career-conditional appointment.
+Current DO employee with reinstatement eligibility to the competitive service (i.e., previously held a permanent, competitive, career appointment or career-conditional appointment, if within applicable time frames).
+Current DO employee serving on a VRA appointment.
+ Yes
+ No
+
+
+3.
+Are you a current DO employee who currently holds (or have previously held) on a permanent basis, a position in the competitive service (or in another merit system with which OPM has an interchange agreement), with promotion potential equivalent to (or higher than) the full performance level of the position advertised in this vacancy announcement?
+ Yes
+ No
+
+
+4.
+Reasonable Accommodations for taking the online assessments are provided on a case-by-case basis only to qualified individuals with a disability covered by the Rehabilitation Act of 1973, as amended.
+
+Do you have a disability (physical or mental) that you believe will interfere with completing the online assessments and require a Reasonable Accommodation?
+
+ Yes
+ No
+
+
+Preferences
+1.
+Are you currently serving or have served in the last five years in a Political Appointment in the Federal Government?
+ Yes
+ No
+
+
+2.
+Where did you learn about this Department of the Treasury job opportunity?
+ A. FedExperience website
+ B. USAJOBS website
+ C. Community Organization
+ D. Employment Office (Federal/State or Local)
+ E. Friend/Relative
+ F. Job Fair, Conference, or Convention
+ G. Magazine
+ H. Newspaper
+ I. School, College, Counselor
+ J. Vacancy Announcement Posting
+ K. Professional Organization
+ L. Radio/TV
+ M. Other
+
+
+3.
+If you were born a male after December 31, 1959, and are at least 18 years of age, have you registered with the Selective Service System (select "Not applicable" if this question does not apply to you)?
+ Yes
+ No
+ No, but I have an approved exemption
+ Not applicable
+
+
+4.
+Are you a current Federal employee?
+ Yes
+ No
+
+
+5.
+If you are, or ever were a Federal civilian employee, indicate the pay plan and grade level or pay band of the highest graded position you have ever held.
+
+
+6.
+Have you attended any of Treasury's information sessions? (Please click all that apply.)
+ A. Navigating USAJOBS
+ B. Writing Your Federal Resume
+ C. Interviewing Techniques
+ D. Early Career Programs (Students, Recent Graduates, Entry Level, Apprenticeship)
+ E. I have not attended any sessions.
+
+
+7.
+Which of the following describes your eligibility for this announcement?
+ I am a current permanent Departmental Offices employee with competitive status.
+ I am a Departmental Offices employee serving on a Veterans' Recruitment Appointment (VRA).
+ I am an individual eligible for the Career Transition Assistance Program (CTAP).
+ I do not meet any of the above criteria.
+
+
+8.
+I authorize my application information being shared with hiring managers for similar positions. I understand this option may not result in further consideration for additional positions nor will it impact my application for this announcement.
+ Yes
+ No
+
+
+Assessment 1
+For the GS-14: You must have one year of specialized experience at a level of difficulty and responsibility equivalent to the GS-13 grade level in the Federal service. Specialized experience for this position is defined as experience in ALL of the following:
+- Experience developing custom code in Structured Query Language (SQL) and Python programming languages that perform Extract Transform and Load (ETL) procedures to intake financial information from SharePoint, Oracle, and/or other financial feeder systems; AND
+- Experience utilizing government financial regulations and accounting best practices to automate cost allocations, populate financial agreement forms, and calculate associated billing through financial systems (i.e. custom Python and SQL code); AND
+- Experience developing custom labor projections in SQL combining data from human resources and financial data sets that duplicates the US Tax Code and/or other governmental pay adjustments; AND
+- Experience developing data collection in SharePoint to capture financial information not available in the financial system or associated feeder systems.
+
+
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+1.
+Do you meet the specialized experience as stated in this announcement for the GS-14 position?
+ Yes
+ No
+
+
+2.
+Please reference where within your resume this experience is documented.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙

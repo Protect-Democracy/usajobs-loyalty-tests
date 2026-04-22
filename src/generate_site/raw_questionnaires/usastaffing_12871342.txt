@@ -1,0 +1,116 @@
+Position Title
+Node-React Full Stack Web Application Developer
+Agency
+Social Security Administration
+Announcement Number
+SH12871342-26-DHA Opens in new window
+Open Period
+Jan 26, 2026 to Jul 24, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Are you a current or former federal employee displaced from the agency hiring for this position? Select yes if you are located in the same local commuting area of the vacancy; your permanent grade is equivalent to or above the grade level of the vacancy; AND your last performance rating of record is at least fully successful or the equivalent. (Note: You must submit supporting documentation to validate your claim of CTAP eligibility such as a Reduction in Force (RIF) separation notice or a Proposed Removal/Separation notice and a copy of your latest Notification of Personnel Action, Standard Form 50. Please review the Required Documents section of the announcement for more information.)
+ Yes
+ No
+
+
+2.
+Are you a current or former federal employee displaced from a position in a federal agency other than the agency hiring for this position? Select yes if you are located in the same local commuting area of the vacancy; your permanent grade is equivalent to or above the grade level of the vacancy; AND your last performance rating of record is at least fully successful or the equivalent. (Note: You must submit supporting documentation to validate your claim of ICTAP eligibility such as a Reduction in Force (RIF) separation notice or a Proposed Removal/Separation notice and a copy of your latest Notification of Personnel Action, Standard Form 50. Please review the Required Documents section of the announcement for more information.)
+ Yes
+ No
+
+
+Preferences
+1.
+Select the lowest grade you are willing to accept for this position.
+13
+14
+15
+
+
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+
+
+2.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+
+
+3.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+
+
+4.
+How would you help advance the President's Executive Orders and policy priorities in this role? Identify one or two relevant Executive Orders or policy initiatives that are significant to you, and explain how you would help implement them if hired.
+
+
+5.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+
+
+6.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+
+
+Assessment 1
+Please answer Yes or No for each of the following areas that describe your experience and/or training in that task. Applicants must have IT-related experience demonstrating each of the four competencies below. You may be asked to provide evidence of supporting documentation that you have had this type of experience and. Your responses are subject to verification against the information you provide.
+
+
+1.
+I am thorough when performing work and conscientious about attending to detail.
+
+ Yes
+ No
+
+
+2.
+I work with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; know about available products and services; and am committed to providing quality products and services.
+
+ Yes
+ No
+
+
+3.
+I express information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); make clear and convincing oral presentations; listen to others, attend to nonverbal cues, and responds appropriately.
+
+ Yes
+ No
+
+
+4.
+I identify problems; determine accuracy and relevance of information; use sound judgment to generate and evaluate alternatives, and to make recommendations.
+
+ Yes
+ No
+
+
+Please answer Yes or No to the following questions to determine your eligibility for the GS-13, 14, and 15 grade levels. Be sure to include specific examples of claimed experience in your resume and supporting documents. Experience must be IT related; the experience may be demonstrated by paid or unpaid experience. If your application materials do not demonstrate the knowledge, skills, abilities, and experience needed for this position, your application will be ineligible for consideration.
+
+
+5.
+For GS-13:
+Do you have 52 weeks of specialized experience at the GS-12 level, or equivalent, which is in or related to the work of the position to be filled, that has equipped you with the particular knowledge, skills, and abilities to successfully perform the duties of the position? Such IT related experience should include developing and maintaining web applications using React.js and Node.js; building and integrating RESTful APIs and working with databases such as PostgreSQL or MongoDB; writing clean, maintainable code and using version control tools like Git or Bitbucket; collaborating with team members in an agile environment to deliver new features and resolve issues; writing and maintaining unit and integration tests; troubleshooting and debugging web applications; familiarity with cloud platforms (such as AWS or Azure) and CI/CD pipelines is preferred.
+
+ Yes
+ No
+
+
+6.
+For GS-14:
+Do you have 52 weeks of specialized experience at the GS-13 level, or equivalent, which is in or related to the work of the position to be filled, that has equipped you with the particular knowledge, skills, and abilities to successfully perform the duties of the position? Such IT related experience should include designing, developing, and maintaining large-scale, responsive web applications using React.js, CSS, and JSON; building and integrating RESTful APIs using Node.js and Express.js to support enterprise-level web applications; collaborating with cross-functional teams to define, design, and deliver new features in a fast-paced, agile environment; writing clean, maintainable, and efficient code following Test-Driven Development (TDD) practices, including unit and integration testing with React Testing Library (RTL) and other popular testing libraries; utilizing Git or Bitbucket for version control and collaborating with team members using Visual Studio Code; integrating and managing PostgreSQL and MongoDB databases, including writing advanced SQL queries and working with data formats such as JSON and XML; developing and maintaining API documentation using Swagger UI; implementing and maintaining security best practices, including authentication and authorization for web applications; ensuring web applications are compliant with Section 508 accessibility standards; troubleshooting, debugging, and upgrading existing systems, including resolving production outages and issues by analyzing Splunk logs and Dynatrace; integrating Commercial Off-The-Shelf (COTS) solutions into robust, API-driven architectures for real-time connectivity with existing systems; conducting performance analysis and tuning to optimize memory and CPU consumption, as well as leading technical projects or managing workloads for multiple employees.
+ Yes
+ No
+
+
+7.
+For GS-15:
+Do you have 52 weeks of specialized experience at the GS-14 level, or equivalent, which is in or related to the work of the position to be filled, that has equipped you with the particular knowledge, skills, and abilities to successfully perform the duties of the position? Such IT related experience should include designing, developing, and maintaining large-scale, responsive web applications using React.js, CSS, and JSON; building and integrating RESTful APIs using Node.js and Express.js to support enterprise-level web applications; collaborating with cross-functional teams to define, design, and deliver new features in a fast-paced, agile environment; writing clean, maintainable, and efficient code following Test-Driven Development (TDD) practices, including unit and integration testing with React Testing Library (RTL) and other popular testing libraries; utilizing Git or Bitbucket for version control and collaborating with team members using Visual Studio Code; integrating and managing PostgreSQL and MongoDB databases, including writing advanced SQL queries and working with data formats such as JSON and XML; developing and maintaining API documentation using Swagger UI; implementing and maintaining security best practices, including authentication and authorization for web applications; ensuring web applications are compliant with Section 508 accessibility standards; troubleshooting, debugging, and upgrading existing systems, including resolving production outages and issues by analyzing Splunk logs and Dynatrace; integrating Commercial Off-The-Shelf (COTS) solutions into robust, API-driven architectures for real-time connectivity with existing systems; conducting performance analysis and tuning to optimize memory and CPU consumption; and leading, managing, or directing a team or organization responsible for developing, improving, and implementing IT products or solutions.
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
