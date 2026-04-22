@@ -1,0 +1,234 @@
+Position Title
+IT SPECIALIST (NETWORK) (TITLE 32)
+Agency
+Army National Guard Units
+Announcement Number
+FL-12722627-AR-T32-26-062 Opens in new window
+Open Period
+Nov 18, 2025 to Dec 03, 2025
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Are you a current National Guard member within the state for which this position is being advertised?
+ Yes
+ No
+
+
+2.
+Are you a current Permanent full-time Dual Status National Guard Technician within the state for which this position is being advertised?
+
+To verify your eligibility, you must submit a copy of your Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Permanent full-time status with the state National Guard.
+ Yes
+ No
+
+
+3.
+Are you a current Temporary Indefinite full-time Dual Status National Guard Technician within the state for which this position is being advertised?
+
+To verify your eligibility, you must submit a copy of your Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Indefinite full-time status with the state National Guard.
+ Yes
+ No
+
+
+4.
+Are you a current Temporary full-time Dual Status National Guard Technician within the state for which this position is being advertised?
+
+To verify your eligibility, you must submit a copy of your Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Temporary full-time status with the state National Guard.
+ Yes
+ No
+
+
+Preferences
+1.
+Select the lowest grade you are willing to accept for this position.
+7
+9
+11
+
+
+Read the options below carefully and choose the one that best applies.
+
+
+2.
+In the event that you are not found to be NOT qualified, do you consent to the release of your name to the labor organization?
+ Yes
+ No
+
+
+3.
+While serving as a federal employee, have you ever been terminated for cause or resigned after being notified that you would be terminated/separated?
+ Yes
+ No
+
+
+4.
+Are you currently receiving Federal Military retirement pay? If you are retired military or planning on retirement within the next year, you will not be eligible to join the Florida Army or Air National Guard.
+
+ Yes
+ No
+
+
+5.
+This position is only open to Officers, Warrant Officers or Enlisted members in the grade of E3 through O3. Are you CURRENTLY a Officers, Warrant Officers or Enlisted members in the grade of E3 through O3?
+
+If prior service, you must be able to come in at the listed rank-please verify with a military recruiter if unsure.
+ Yes
+ No
+
+
+6.
+Have you completed basic training in at least one branch of the military?
+ Yes
+ No
+
+
+7.
+This position requires dual military status and is only opened to those within the FL guard by closing date. Are you CURRENTLY a member of the FL Air or Army National Guard?
+ Yes
+ No
+
+
+8.
+Have you ever had a security clearance suspended/revoked?
+ Yes
+ No
+
+
+9.
+
+Applicant must ensure to indicate your most current military information on the provided text box.
+** Must follow the format ***
+1. Rank: (If Civilian Type : Civilian)
+2. Duty Army MOS or Air AFSC:
+3. Unit of assignment:
+4. Branch of service: (NG, Reserve, Active)
+5. Current state:
+6. DoD- Email:
+
+
+
+10.
+Are you a current member of the state National Guard for which this position is being advertised, or are you willing and eligible to become a member?
+ Yes
+ No
+
+
+Assessment 1
+Respond to all the questions below. For each question, choose the response below that best describes your experience and/or training. Mark only one response for each question. Please note that your answers will be verified against the information you provide in your resume or application and information your references provide.
+
+
+1.
+Do you have experience, education or training that has provided a basic knowledge of data processing functions and general management principles that enabled you to understand the stages required to automate a work process; experience may have been gained in work such as computer operator or assistant, computer sales representative, program analyst, or other positions that required the use or adaptation of computer programs and systems?
+ Yes
+ No
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+2.
+GS07: Do you have at least one year of specialized experience at the GS-05 level or the equivalent which provides knowledge and/or experience, education, or training receiving, maintaining, and issuing data storage media for computer operations; experience in scheduling the use of computer time for program processing; experience collecting and sequentially staging input media with associated program instructions for processing; experience in at least one programming language?
+ Yes
+ No
+
+
+3.
+GS09: Do you have at least one year of specialized experience at the GS-07 level or the equivalent which provides knowledge and/or experience, education, or training receiving, maintaining, and issuing data storage media for computer operations; experience in scheduling the use of computer time for program processing; experience collecting and sequentially staging input media with associated program instructions for processing; experience in at least one programming language; experience translating detailed logical steps developed by others into language codes that computers accept where this required understanding of procedures and limitations appropriate to use of a programming language; experience interviewing subject-matter personnel to get facts regarding work processes and synthesizing the resulting data into charts showing information flow; experience in analysis of the interrelationship of pertinent components of the system; experience planning the sequence of actions necessary to accomplish the assignment; experience scheduling the sequence of programs to be processed by computers where alternatives had to be weighed with a view to production efficiency?
+ Yes
+ No
+
+
+4.
+GS-11 Do you have at least 1-year specialized experience at the GS-09 level or equivalent to at least the next lower grade that provides knowledge and/or including specialized experience, education, or training that approaches techniques and requirements appropriate to an assigned computer applications area or computer specialty area in an organization; experience planning the sequence of actions necessary to accomplish the assignment where this entailed coordination with others outside the organizational unit and development of project controls; experience that required adaptations of guidelines or precedents to meet the needs of the assignment; experience preparing documentation on cost/benefit studies where is involved summarizing the material and organizing it in a logical fashion?
+ Yes
+ No
+
+
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+
+
+5.
+Perform a variety of network device configuration and connectivity tasks.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+6.
+Execute procedures and coordinate corrective action to optimize network performance. Installs, configures and monitors tested and evaluated software packages that provide performance measurements of the WAN/LAN.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+7.
+Implements the standard configuration software loads for all network devices. Utilizes benchmarks and performance measurement and evaluation data to manage network servers and data communication devices to support normal and surge workload. Works with technical support personnel in resolving critical problems.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+8.
+Uses remote management software tools to maintain and update configuration, protocol and user/system files.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+9.
+Documents and tracks change to configuration, protocol and user/system files.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+10.
+Executes appropriate action to ensure backup processes are completed.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+11.
+Evaluates the performance of network devices such as servers, workstations, and peripheral devices, and remote access systems.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+12.
+Coordinates the development and implementation of configuration management plans for complex LANs and WANs with supported elements to include headquarters staff elements, tenant activities, state government, regional operating activities and national agencies.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+13.
+Implements plans and procedures for remote installation of applications and upgrades using state of the art software distribution methods.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
