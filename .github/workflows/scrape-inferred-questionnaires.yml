@@ -8,6 +8,11 @@ permissions:
   actions: write       # self-dispatch the next link in the chain
   pull-requests: write # open the merge PR when the queue drains
 
+# Node 20 runs out of stack walking the 120k-file workspace after the overlay
+# step; opt into Node 24 (GH's announced default) which has a larger stack.
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 # Only one chain running at a time; do not cancel in-progress work.
 concurrency:
   group: scrape-inferred-questionnaires
