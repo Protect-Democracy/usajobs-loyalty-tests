@@ -1,0 +1,37 @@
+name: Deploy site to Netlify
+
+# Pushes the current src/public/analysis_data.json on main to Netlify
+# without re-running the multi-hour analyze pipeline. Intended for when
+# main has fresher data than the live site (e.g. after merging a scrape
+# PR out-of-band from the daily run).
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'src/public/**'
+
+permissions:
+  contents: read
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+
+      - name: Deploy to Netlify
+        uses: jsmrcaga/action-netlify-deploy@v2.4.0
+        with:
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_DEPLOY_MESSAGE: "Deployed from GitHub action (deploy-site.yml)"
+          NETLIFY_DEPLOY_TO_PROD: true
+          install_command: "echo Skipping installing the dependencies"
+          build_command: "echo Skipping building the web files"
+          build_directory: "src/public"
