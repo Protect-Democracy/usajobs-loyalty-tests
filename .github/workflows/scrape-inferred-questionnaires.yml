@@ -116,6 +116,35 @@ jobs:
               f.write(f'remaining={remaining}\n')
           PY
 
+      - name: Regenerate website JSON on terminal run
+        # Only the run that drains the queue regenerates analysis_data.json.
+        # Including the JSON in the same PR means merging it to main touches
+        # src/public/**, which fires deploy-site.yml and refreshes Netlify —
+        # making the whole chain end-to-end with no manual steps.
+        if: steps.queue.outputs.remaining == '0' && steps.commit.outputs.no_changes == 'false'
+        run: |
+          set -e
+          cd src/generate_site
+          python generate_website_json.py
+          cd ../..
+          SIZE=$(stat -c%s src/public/analysis_data.json)
+          if [ "$SIZE" -lt 10000 ]; then
+            echo "ERROR: analysis_data.json is suspiciously small ($SIZE bytes)" >&2
+            exit 1
+          fi
+          echo "Regenerated analysis_data.json ($SIZE bytes)"
+          git add -f \
+            src/public/analysis_data.json \
+            src/generate_site/all_jobs_clean.csv \
+            src/generate_site/all_jobs_stats.json 2>/dev/null || true
+          if ! git diff --cached --quiet; then
+            git commit --amend --no-edit
+            git push -f origin inferred-questionnaires
+            echo "Amended commit with regenerated JSON and pushed."
+          else
+            echo "No JSON changes to amend."
+          fi
+
       - name: Write run summary
         run: |
           {
