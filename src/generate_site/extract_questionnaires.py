@@ -21,6 +21,7 @@ from questionnaire_utils import (
     transform_monster_url, extract_questionnaire_id, get_questionnaire_filename,
     get_questionnaire_filepath, questionnaire_exists, RAW_QUESTIONNAIRES_DIR,
     infer_questionnaire_url_from_announcement, discover_qid_from_usajobs_posting,
+    questionnaire_text_matches_announcement,
     load_known_bad_urls, append_known_bad_url,
 )
 
@@ -550,6 +551,30 @@ def scrape_questionnaire_worker(args):
         retry_count += 1
     
     if questionnaire_text:
+        # For inferred URLs (guessed from announcement or USAJobs HTML),
+        # verify the scraped questionnaire actually belongs to this posting.
+        # A mismatch means we guessed a QID that scrapes to a real
+        # questionnaire — but for a DIFFERENT job. Treat as failure: delete
+        # the file, blacklist the URL, and don't keep the wrong data.
+        if questionnaire.get('inferred_from_announcement') or questionnaire.get('inferred_from_posting_html'):
+            match = questionnaire_text_matches_announcement(
+                questionnaire_text, questionnaire.get('announcement_number')
+            )
+            if match is False:
+                print(f"    ❌ Announcement mismatch — scraped questionnaire does not reference "
+                      f"{questionnaire.get('announcement_number')!r}; discarding")
+                try:
+                    fp = get_questionnaire_filepath(questionnaire['questionnaire_url'])
+                    if fp.exists():
+                        fp.unlink()
+                except Exception as e:
+                    print(f"    (could not remove mismatched file: {e})")
+                questionnaire['questionnaire_text'] = None
+                questionnaire['scrape_status'] = 'mismatch'
+                with progress_lock:
+                    append_known_bad_url(questionnaire['questionnaire_url'])
+                    failed_count += 1
+                return questionnaire, False
         questionnaire['questionnaire_text'] = questionnaire_text
         questionnaire['scrape_status'] = 'success'
         with progress_lock:
