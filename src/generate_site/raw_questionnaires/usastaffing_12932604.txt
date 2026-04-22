@@ -1,0 +1,107 @@
+Position Title
+IT Specialist (Server Administrator)
+Agency
+Supreme Court of the United States
+Announcement Number
+SCOTUS-12932604-IT Opens in new window
+Open Period
+Apr 10, 2026 to Apr 24, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you have a bachelor's degree?
+
+ Yes
+ No
+
+
+2.
+Are you a current employee of the Supreme Court of the United States?
+ Yes
+ No
+
+
+3.
+Knowledge of Microsoft server technologies, VMWARE virtualization, basic networking, storage area networks and email systems. Linux experience is beneficial but not required
+ Yes
+ No
+
+
+4.
+Are you able to acquire and retain a Top Secret (TS) clearance?
+ Yes
+ No
+
+
+Assessment 1
+All applicants are required to submit a cover letter and resume. Please note that generic or re-used cover letters will not be accepted; resumes may be in any format.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+1.
+Is a resume and cover letter included as part of your application package?
+ Yes
+ No
+
+
+2.
+Do you meet the minimum education and/or experience requirements for this position?
+ Yes, I have at least four years of experience in server administration.
+ Yes, I have a four-year degree in computer science.
+ Yes, I have both a computer science degree and relevant experience.
+ No, I do not meet this requirement.
+
+
+3.
+Are you willing and eligible to obtain and maintain a Top-Secret security clearance during the course of employment?
+ I already have a Top-Secret security clearance
+ Yes
+ No
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+4.
+Are you willing to report to a duty site within the Washington DC metro area multiple times per week?
+ Yes
+ No
+
+
+5.
+Do you have experience with Ansible for deploying containers?
+ Yes
+ No
+
+
+6.
+Do you have experience with containerization like Docker or supporting infrastructure like Kubernetes?
+ Yes
+ No
+
+
+Narrative responses must directly address the subject of the question asked. Comments such as "see resume" will not be accepted.
+
+
+7.
+Briefly describe your experience with server administration and Linux.
+
+
+8.
+Describe your experience in patching Windows operating system and/or Linux.
+
+
+9.
+Describe your experience with Ansible.
+
+
+10.
+Describe your experience with containerization and/or supporting infrastructure.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙

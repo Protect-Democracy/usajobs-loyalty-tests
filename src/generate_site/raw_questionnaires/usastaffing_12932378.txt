@@ -1,0 +1,111 @@
+Position Title
+Senior Information Technology Specialist (Cyber Incident Response Analyst II)
+Agency
+Supreme Court of the United States
+Announcement Number
+SCOTUS-12932378-IT Opens in new window
+Open Period
+Apr 10, 2026 to May 01, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you have a college degree?
+ Yes
+ No
+
+
+2.
+Are you a current employee of the Supreme Court of the United States?
+ Yes
+ No
+
+
+3.
+Are you able to acquire and retain a Top Secret (TS) clearance?
+ Yes
+ No
+
+
+Assessment 1
+All applicants are required to submit a cover letter and resume in order to be eligible for consideration. Please note that generic or re-used cover letters will not be accepted; resumes may be in any format.
+
+
+Please rate your knowledge and experience in the following areas based on the scale provided. Please note that your responses will be reviewed by HR personnel and are not scored by an automated system.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+1.
+Is a resume and cover letter included as part of your application package?
+ Yes
+ No
+
+
+2.
+Do you meet the minimum education and experience requirements for this position?
+ Yes, I have at least three (3) years of experience with Incident Response, plus at least two (2) additional years of applicable Information Technology (IT) or Information Security experience, and a computer-related college degree.
+ Yes, I have at least three (3) years of experience with Incident Response, plus at least five (5) additional years of applicable IT or Information Security experience, for a total of seven (7) total years of relevant experience.
+ Yes, I meet or exceed both of these requirements.
+ No, I do not meet these requirements.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+3.
+Are you willing and eligible to obtain and maintain a Top-Secret security clearance during the course of employment?
+ Yes
+ No
+
+
+4.
+If you have an active security clearance, please select the clearance you currently hold. Otherwise, select none.
+ Public Trust
+ Secret
+ Top Secret
+ Top Scret/SCI
+ Other
+ None
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+5.
+Are you willing to report to a duty site within Washington, DC multiple times per week?
+ Yes
+ No
+
+
+Narrative responses must directly address the subject of the question asked. Comments such as "see resume" will not be accepted.
+
+
+6.
+Describe your experience performing full incident response lifecycles from preparation to containment/eradication and post-incident activity.
+
+
+7.
+Describe experience you have assisting with intrusion detection methodologies and techniques for detecting endpoint and network-based intrusions.
+
+
+8.
+Describe your knowledge of and experience with APT TTPs intrusion vectors and countermeasures against them.
+
+
+9.
+Describe your experience with cyber threat intelligence and proactive hunting for threats and anomalies in systems.
+
+
+10.
+Describe your experience creating incident reports, including after-action recommendations, and presenting them to technical colleagues and non-technical leadership.
+
+
+11.
+Describe the relevant certifications you currently hold.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
