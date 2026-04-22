@@ -1,0 +1,84 @@
+Position Title
+IT Cybersecurity Specialist
+Agency
+U.S. Tax Court
+Announcement Number
+26-12926626 Opens in new window
+Open Period
+Apr 16, 2026 to Apr 30, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+Preferences
+1.
+Select the lowest grade you are willing to accept for this position.
+13
+14
+
+
+2.
+Can you certify that your taxes were filed on time?
+ Yes
+ No
+
+
+3.
+If you have a tax debt, have you made your payments on time?
+ Yes
+ No
+
+
+Assessment 1
+Select “Yes” or “No” to the following question(s).
+
+
+1.
+Do you have a Bachelor's or Master's degree in Computer Science?
+ Yes
+ No
+
+
+2.
+Do you have 8+ years of experience in Cybersecurity, especially in a security engineering role related to networks, mobile devices or application development?
+ Yes
+ No
+
+
+3.
+Do you have 8+ years of experience working with AWS, Microsoft 365, Azure, or other comparable cloud platforms?
+ Yes
+ No
+
+
+4.
+Do you have 6+ years of experience performing Configuration as Code (CaC) and infrastructure as Code (IaC) using modern software and source code practices (e.g., DevOps, CI/CD) with languages such as Terraform, .NET, Go, Java, Javascript, Objective-C, PHP, Powershell, Ruby, and Cisco IOS?
+ Yes
+ No
+
+
+5.
+Do you have 12+ years of experience in cybersecurity, especially in a security engineering role related to networks, mobile devices, or application development?
+ Yes
+ No
+
+
+6.
+Are you a Certified Information Systems Security Professional (CISSP)?
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
