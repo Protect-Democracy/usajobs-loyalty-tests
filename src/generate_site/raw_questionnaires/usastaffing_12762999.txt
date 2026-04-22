@@ -1,0 +1,68 @@
+Position Title
+ELECTRONIC INTEGRATED SYSTEMS MECHANIC
+Agency
+Army National Guard Units
+Announcement Number
+OH-12762999-AR-25-159-T Opens in new window
+Open Period
+Jul 18, 2025 to Aug 18, 2025
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Area of Consideration
+1.
+Are you a current member of the Ohio Army National Guard?
+ Yes
+ No
+
+
+2.
+Are you currently within the grades of E-1 through E-7?
+ Yes
+ No
+
+
+Assessment 1
+We will evaluate your resume and responses to this assessment questionnaire to determine if you are among the best qualified for this position. Your responses are subject to verification and must be supported by your resume and supporting documents.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+1.
+Do you possess experience or training which demonstrates your knowledge to perform duties such as, install, modify, overhaul, maintain, troubleshoot, repair, align, calibrate, and rebuild multi-system avionics complexes; ability to collect and analyze data effectively, efficiently, and accurately; ability to apply procedures and directives by reading and interpreting material; ability to communicate clearly and effectively; validated understanding of the basic principles and concepts of the occupational series and grade?
+ Yes
+ No
+
+
+2.
+
+Do you have experience or training demonstrating the ability to repair, align, and adjust major integrated electronic systems such as inertial navigation system, automatic flight control, or fire control system; extensive knowledge of electronic, pneumatic, hydraulic, and mechanical systems in order to understand and predict the progressive effects of malfunctions throughout the interrelated units, (e.g., trace an apparent operating error in the hydraulic controls of a gun mount back to the failure of a tactical computer to integrate yaw, pitch, azimuth, and velocity inputs) and to predict areas of technical difficulty in order to assist lower grade employees;  thorough knowledge of the application of electronic theories and practices to one or more complex integrated systems such as fire control, inertial navigation, or automatic landing control systems; broad knowledge of such applications as radar, digital or analog computers, digital or cathode ray tube display devices, etc., and specific knowledge of the technology and practices which integrate these components into a total functional system; knowledge of mathematics including algebra and basic trigonometric functions in order to adapt standard formulas to the specific requirements of the integrated system; ability to follow drawings for integrated electronic systems such as radar navigation systems which integrate terrain information from the radar, pitch, roll, and turn rate, etc. from sensing devices and actuate control relays; ability to trace the effect of a change in one subsystem to other integrated subsystems and determine which controls and devices must be changed or adjusted to compensate; ability to diagnose and determine needed repairs for malfunctions in electronics systems such as weapons control where knowledge of the entire system is necessary to interpret error data and trace back through a number of units of the system to locate the deficiency?
+
+ Yes
+ No
+
+
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+
+
+3.
+Performs operational checks, inspections, tests and troubleshooting on electronic integrated systems composed of a number of sensor subsystems: Integrated Vehicle Health Management System (IVHMS), the Common Missile Warning System (CMWS), the Improved Countermeasure Dispenser System (ICMD), the Night Vision Goggle System (NVG), the Air Data Subsystem, the Attitude Heading Reference System (AHRS) and Doppler/GPS Navigation System (DGNS), Command Instrument Set (CIS) ; a logic subsystem-- the Multiplex Data Bus System (MUX), the Multiplex Remote Terminal Units (MRTU), Data Link Terminal Units (DLTU), and Digital Automatic Flight Control System (DAFCS); and actuating subsystems--, and the Digital Automatic Stabilization System (DASS), which includes the Stability Augmentation System (SAS) and Command Augmentation System (CAS) and Hover Augmentation System (HAS).
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+4.
+Completes operational checks, inspections, tests and troubleshooting of Line Replaceable Units (LRU). Isolates unusual malfunctions using technical manuals, schematics, and wiring diagrams, tools and test equipment including automatic test equipment. Solves problems by analyzing installation, circuitry, and operating characteristics of the systems. Adjusts and aligns sensors, transmitters, amplifiers, power supplies, display devices, controls, actuators, servos, computers and other related components. Removes faulty LRUs for shop repair. Installs serviceable components into aircraft and performs total systems alignments in accordance with existing technical manuals and directives. Accomplishes technical manual compliance and modification of components and systems and completes systems checkout for proper operation. Maintains, modifies, calibrates and inspects a wide variety of user test, measurement, and diagnostic equipment (TMDE).
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙

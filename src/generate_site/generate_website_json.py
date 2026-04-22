@@ -327,19 +327,30 @@ def main():
     # Start with all jobs
     all_jobs_for_display = all_jobs_df.copy()
     
-    # Create a mapping of jobs with questionnaires
-    jobs_with_questionnaires = set(links_df['usajobs_control_number'])
+    # Create a mapping of jobs with questionnaires.
+    # Split links into "valid" (still a live URL candidate) and "known-bad"
+    # (URL has been confirmed not to work — bad inference guess or broken
+    # Monster page). A job whose ONLY link is known-bad gets a distinct
+    # status so we don't mislead users into thinking we found a real URL.
+    from questionnaire_utils import load_known_bad_urls
+    known_bad = load_known_bad_urls()
+    valid_links_df = links_df[~links_df['questionnaire_url'].isin(known_bad)]
+    jobs_with_valid_link = set(valid_links_df['usajobs_control_number'])
+    jobs_with_any_link = set(links_df['usajobs_control_number'])
+    jobs_with_only_bad_link = jobs_with_any_link - jobs_with_valid_link
     jobs_with_scraped = set(scraped_df_all['usajobs_control_number'])
     jobs_with_eo = set(scraped_df[scraped_df['has_executive_order']]['usajobs_control_number'])
-    
+
     # Add questionnaire status to all jobs
-    all_jobs_for_display['has_questionnaire'] = all_jobs_for_display['usajobs_control_number'].isin(jobs_with_questionnaires)
+    all_jobs_for_display['has_valid_link'] = all_jobs_for_display['usajobs_control_number'].isin(jobs_with_valid_link)
+    all_jobs_for_display['only_bad_link'] = all_jobs_for_display['usajobs_control_number'].isin(jobs_with_only_bad_link)
     all_jobs_for_display['questionnaire_scraped'] = all_jobs_for_display['usajobs_control_number'].isin(jobs_with_scraped)
     all_jobs_for_display['has_eo_question'] = all_jobs_for_display['usajobs_control_number'].isin(jobs_with_eo)
-    
-    # Create questionnaire status column
+
+    # Create questionnaire status column (later assignments override earlier ones)
     all_jobs_for_display['questionnaire_status'] = 'No questionnaire'
-    all_jobs_for_display.loc[all_jobs_for_display['has_questionnaire'], 'questionnaire_status'] = 'Has questionnaire (not scraped)'
+    all_jobs_for_display.loc[all_jobs_for_display['only_bad_link'], 'questionnaire_status'] = 'Questionnaire URL could not be verified'
+    all_jobs_for_display.loc[all_jobs_for_display['has_valid_link'], 'questionnaire_status'] = 'Has questionnaire (not scraped)'
     all_jobs_for_display.loc[all_jobs_for_display['questionnaire_scraped'], 'questionnaire_status'] = 'Questionnaire without EO question'
     all_jobs_for_display.loc[all_jobs_for_display['has_eo_question'], 'questionnaire_status'] = 'Questionnaire with EO question'
     
