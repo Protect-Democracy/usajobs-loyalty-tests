@@ -1,0 +1,113 @@
+Position Title
+INFORMATION TECHNOLOGY SPECIALIST (DATAMGNT)
+Agency
+Court Services and Offender Supervision Agency for DC - Agency Wide
+Announcement Number
+OP-26-12917968-IMP-DJ Opens in new window
+Open Period
+Mar 26, 2026 to Mar 31, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+You must select one, but may select more than one, eligibility option in order to receive consideration under competitive merit promotion and/or non-competitive consideration.
+
+
+1.
+Current Permanent Career or Career Conditional Federal Employee with Competitive Status - I am currently employed as a permanent career or career-conditional (Dept of Labor, VA, etc.,) employee in the competitive service.
+
+To verify your eligibility as a current or former Federal civilian employee, you must submit a copy of your Notification of Personnel Action, Standard Form 50 (SF-50) or equivalent personnel action form reflecting your permanent, competitive status. Your SF-50 (or equivalent personnel action form) must reflect:
+career or career-conditional (Tenure field is 1 or 2); AND,
+status in the competitive service (Position Occupied field is 1).
+
+
+ Yes
+ No
+
+
+2.
+Are you a Current Federal Employee who currently holds a career or career-conditional appointment in the competitive service and holds a permanent (not time-limited) position in the competitive service at the same or higher full performance level as the position being announced? 
+
+To verify your eligibility as a current Federal civilian employee, you must submit a copy of your Notification of Personnel Action, Standard Form 50 (SF-50), or equivalent personnel action form reflecting your permanent, competitive status. Your SF-50 (or equivalent personnel action form) must reflect:
+career or career-conditional (Tenure field is 1 or 2); AND,
+status in the competitive service (Position Occupied field is 1).
+ Yes
+ No
+
+
+3.
+Reasonable Accommodations for taking the online assessments are provided on a case-by-case basis only to qualified individuals with a disability covered by the Rehabilitation Act of 1973, as amended.
+
+Do you have a disability (physical or mental) that you believe will interfere with completing the online assessments and require a Reasonable Accommodation?
+
+ Yes
+ No
+
+
+Preferences
+You must select one response that best applies to your current status for the Time-In-Grade eligibility option in order to receive consideration under competitive merit promotion and/or non-competitive consideration.
+
+
+
+1.
+Current or former federal employees who have held a GS position in the preceding 52 weeks, must meet the time-in-grade requirement. Applicants must have served 52 weeks as a GS-13 or higher in the Federal service.
+
+In order to be eligible for this position, you must meet the Time-In-Grade (TIG) requirement or one or more of the eligibilities you are applying through for this position is a special appointing authority for which time-in-grade is not applicable.
+ No, I have not been a Federal employee in the GS during the last 52 weeks, OR I do not know my highest grade or equivalent.
+ Yes, I have held a position at, above or equivalent to the GS-13 in the Federal service for at least 52 weeks (or will meet the TIG requirement within 30 days of the closing date of the announcement).
+ One or more of the eligibilities I am applying through is a special appointing authority for which time-in-grade is not applicable. Examples: new VRA appointment, Military Spouse, EO 12721, 30% or more disabled veteran, a person with disability applying under the Schedule A authority, Family Member Preference for Overseas Employment, Peace Corps, VISTA, VEOA, etc.
+ None of the above apply to me.
+
+
+Assessment 1
+ASSESSMENT QUESTIONAIRE INSTRUCTIONS
+
+Click the checkbox of the following statements that apply to you. Check all that apply.
+Your responses to the questions should be supported by experience or education statements on your resume' or you may not be considered for the position.
+
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+1.
+To minimally qualify for the IT Specialist (Data Management), GS-2210-14 position, you must meet both, the BASIC REQUIREMENT and the SPECIALIZED EXPERIENCE as stated below:
+
+BASIC REQUIREMENT
+Ph.D. or equivalent doctoral degree or 3 full years of progressively higher level graduate education leading to a Ph.D. or equivalent doctoral degree in computer science, engineering, information science, information systems management, mathematics, operations research, statistics, or technology management or degree that provided a minimum of 24 semester hours in one or more of the fields identified above and required the development or adaptation of applications, systems or networks.
+OR
+You must have IT-related experience demonstrating each of the four competencies listed below:
+Attention to Detail - Is thorough when performing work and conscientious about attending to detail.
+Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services.
+Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups effectively, considering the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately.
+Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.
+NOTE: Your resume' must demonstrate all the IT-related competencies and experience to be considered qualified.
+
+In addition to meeting the Basic Requirement (positive education or experience), applicants must possess one year of Specialized Experience equivalent to the next lower grade (GS-13 or equivalent in other pay scales) within the Federal service, which demonstrates the ability to perform the duties of the position.
+
+SPECIALIZED EXPERIENCE
+You must have one full year of specialized experience equivalent to the GS-13 level in the Federal service. Specialized experience must demonstrate all the following:
+Designing, developing, and maintaining enterprise data warehouse solutions, including data storage, data transformation, data enhancement, and data integration to support reporting, analytics, and business intelligence.
+Developing, implementing, and monitoring ETL/ELT pipelines that ingest, standardize, normalize, transform, enrich, and aggregate data from multiple source systems for analytical and operational use.
+Applying advanced data modeling techniques, including relational and dimensional modeling, de-normalization of transactional data, and creation of structures optimized for analysis and reporting.
+Implementing data quality assurance processes, including automated data quality checks, anomaly detection, and remediation of data defects to ensure accuracy, completeness, and timeliness of enterprise data assets.
+Contributing to enterprise data architecture, including evaluating existing solutions, recommending improvements, and ensuring scalability, flexibility, and alignment with business and technical requirements.
+Supporting data governance activities, such as developing metadata, maintaining data catalogs, documenting data assets, and applying data lifecycle management practices.
+Ensuring compliance with data security and privacy requirements, including implementing and maintaining access controls, safeguarding sensitive data, and adhering to applicable laws, regulations, and policies.
+Providing customer support to data and analytics users, including responding to inquiries, resolving data access issues, addressing data quality concerns, and communicating technical information clearly to non-technical stakeholders.
+Collaborating with cross-functional teams, participating in technical discussions, identifying process improvements, and contributing to the enhancement of enterprise data solutions.
+
+Do you meet the Basic Requirements and Specialized Experience as stated above?
+ Yes
+ No
+
+
+2.
+CERTIFICATION STATEMENT
+I certify to the best of my knowledge that my responses to the assessment questionnaire are correct and true.
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
