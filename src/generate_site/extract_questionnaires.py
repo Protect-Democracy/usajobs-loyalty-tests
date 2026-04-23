@@ -454,6 +454,12 @@ def scrape_questionnaire(url, output_dir, timeout_seconds=60, headless=True, ses
                 for error_text in error_indicators:
                     if error_text.lower() in content_lower:
                         print(f"    ❌ ERROR PAGE DETECTED: Contains '{error_text}'")
+                        # Deterministic error-page responses (404, access denied,
+                        # unexpected error) mean the URL is broken and won't
+                        # start working. Blacklist to stop the chain from
+                        # infinite-looping on it.
+                        with progress_lock:
+                            append_known_bad_url(url)
                         browser.close()
                         return None  # Return None to trigger retry
                 
