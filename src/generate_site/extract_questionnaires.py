@@ -291,9 +291,13 @@ def scrape_questionnaire(url, output_dir, timeout_seconds=60, headless=True, ses
                 if is_error_page_and_blacklist(text_content, url):
                     return None  # Return None to trigger retry
 
-                # Check if content is too small (likely an error)
+                # Check if content is too small (likely an error). An empty-
+                # skeleton response is as deterministic as a 404 for our
+                # purposes — retrying won't change anything — so blacklist.
                 if len(text_content) < 500:
                     print(f"    ⚠️  Content too small ({len(text_content)} chars) - likely an error")
+                    with progress_lock:
+                        append_known_bad_url(url)
                     return None  # Return None to trigger retry
 
                 if len(text_content) < 1000:
@@ -460,6 +464,8 @@ def scrape_questionnaire(url, output_dir, timeout_seconds=60, headless=True, ses
                 # Check if content is too small (likely an error)
                 if len(page_text) < 500:
                     print(f"    ⚠️  Content too small ({len(page_text)} chars) - likely an error")
+                    with progress_lock:
+                        append_known_bad_url(url)
                     browser.close()
                     return None  # Return None to trigger retry
 
