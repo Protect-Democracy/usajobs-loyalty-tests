@@ -13,11 +13,18 @@ import json
 import sys
 import pandas as pd
 
+import os
+import tempfile
+
 from questionnaire_utils import (
     discover_qid_from_usajobs_html,
     questionnaire_text_matches_announcement,
 )
-from extract_questionnaires import extract_questionnaire_links_from_job
+import questionnaire_utils
+from extract_questionnaires import (
+    extract_questionnaire_links_from_job,
+    is_error_page_and_blacklist,
+)
 
 
 def _job_row(text, announcement='26-ABC-12345678-XY', apply_url='https://apply.usastaffing.gov/Application/Apply'):
@@ -130,6 +137,53 @@ def test_ann_match_returns_none_for_empty_inputs():
     assert questionnaire_text_matches_announcement('text', '') is None
 
 
+def _with_temp_known_bad():
+    """Point the known_bad path at a tempfile for isolated testing."""
+    tf = tempfile.NamedTemporaryFile(delete=False, suffix='.txt')
+    tf.close()
+    questionnaire_utils.KNOWN_BAD_URLS_FILE = type(questionnaire_utils.KNOWN_BAD_URLS_FILE)(tf.name)
+    return tf.name
+
+
+def test_error_page_helper_detects_monster_error():
+    path = _with_temp_known_bad()
+    try:
+        txt = "... We're sorry, we encountered an unexpected error ..."
+        url = 'https://jobs.monstergovt.com/foo/vacancy/previewVacancyQuestions.hms?orgId=1&jnum=99999'
+        assert is_error_page_and_blacklist(txt, url) is True
+        # URL should now be in known_bad
+        assert url in open(path).read()
+    finally:
+        os.unlink(path)
+
+
+def test_error_page_helper_detects_404():
+    path = _with_temp_known_bad()
+    try:
+        txt = 'Page not found'
+        url = 'https://apply.usastaffing.gov/ViewQuestionnaire/99999999'
+        assert is_error_page_and_blacklist(txt, url) is True
+        assert url in open(path).read()
+    finally:
+        os.unlink(path)
+
+
+def test_error_page_helper_passes_valid_text():
+    path = _with_temp_known_bad()
+    try:
+        txt = 'Position Title\nDental Assistant\nAnnouncement Number\nOCA-FY25\n...'
+        url = 'https://apply.usastaffing.gov/ViewQuestionnaire/12345678'
+        assert is_error_page_and_blacklist(txt, url) is False
+        assert url not in open(path).read()
+    finally:
+        os.unlink(path)
+
+
+def test_error_page_helper_handles_empty():
+    assert is_error_page_and_blacklist('', 'http://x') is False
+    assert is_error_page_and_blacklist(None, 'http://x') is False
+
+
 TESTS = [
     test_discover_plain_url,
     test_discover_json_escaped_url,
@@ -143,6 +197,10 @@ TESTS = [
     test_ann_match_returns_false_on_mismatch,
     test_ann_match_returns_none_for_monster_style_text,
     test_ann_match_returns_none_for_empty_inputs,
+    test_error_page_helper_detects_monster_error,
+    test_error_page_helper_detects_404,
+    test_error_page_helper_passes_valid_text,
+    test_error_page_helper_handles_empty,
 ]
 
 
