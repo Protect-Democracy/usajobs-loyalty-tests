@@ -57,6 +57,44 @@ def signal_handler(signum, frame):
 signal.signal(signal.SIGINT, signal_handler)
 signal.signal(signal.SIGTERM, signal_handler)
 
+# Deterministic error-page strings rendered by Monster/USAStaffing when the
+# vacancy doesn't exist or is otherwise broken. Matching text is permanent —
+# the URL won't start working, so we blacklist to stop the chain from
+# infinite-looping on it.
+_ERROR_PAGE_INDICATORS = (
+    "We're sorry, we encountered an unexpected error",
+    "404 - Page Not Found",
+    "404 Error",
+    "Error 404",
+    "HTTP 404",
+    "Page not found",
+    "This page cannot be displayed",
+    "Access Denied",
+    "Forbidden",
+    "The page you requested is unavailable",
+)
+
+
+def is_error_page_and_blacklist(text, url):
+    """Return True if `text` matches a deterministic error-page indicator.
+
+    On match, also prints a diagnostic and appends the URL to the known-bad
+    list so future chain runs skip it. Single source of truth used by both
+    the Monster (requests) and USAStaffing (Playwright) scrape paths — keep
+    new error indicators here, not duplicated at call sites.
+    """
+    if not text:
+        return False
+    lower = text.lower()
+    for indicator in _ERROR_PAGE_INDICATORS:
+        if indicator.lower() in lower:
+            print(f"    ❌ ERROR PAGE DETECTED: Contains '{indicator}'")
+            with progress_lock:
+                append_known_bad_url(url)
+            return True
+    return False
+
+
 def extract_questionnaire_links_from_job(job_row, fetch_usajobs_html=True):
     """Extract all questionnaire links from a job record.
 
@@ -249,32 +287,10 @@ def scrape_questionnaire(url, output_dir, timeout_seconds=60, headless=True, ses
                 text_content = re.sub(r'<[^>]+>', ' ', text_content)
                 text_content = ' '.join(text_content.split())
                 
-                # Content validation - check for error pages
-                error_indicators = [
-                    "We're sorry, we encountered an unexpected error",
-                    "404 - Page Not Found",
-                    "404 Error",
-                    "Error 404",
-                    "HTTP 404",
-                    "Page not found",
-                    "This page cannot be displayed",
-                    "Access Denied",
-                    "Forbidden",
-                    "The page you requested is unavailable"
-                ]
-                
-                content_lower = text_content.lower()
-                for error_text in error_indicators:
-                    if error_text.lower() in content_lower:
-                        print(f"    ❌ ERROR PAGE DETECTED: Contains '{error_text}'")
-                        # Monster's error-page response is deterministic: if the
-                        # vacancy doesn't exist in their system, it will return
-                        # this page on every attempt. Blacklist the URL so the
-                        # chain doesn't infinite-loop re-trying it.
-                        with progress_lock:
-                            append_known_bad_url(url)
-                        return None  # Return None to trigger retry
-                
+                # Content validation - check for deterministic error pages
+                if is_error_page_and_blacklist(text_content, url):
+                    return None  # Return None to trigger retry
+
                 # Check if content is too small (likely an error)
                 if len(text_content) < 500:
                     print(f"    ⚠️  Content too small ({len(text_content)} chars) - likely an error")
@@ -436,33 +452,11 @@ def scrape_questionnaire(url, output_dir, timeout_seconds=60, headless=True, ses
                     browser.close()
                     return None
                 
-                # Content validation - check for error pages
-                error_indicators = [
-                    "We're sorry, we encountered an unexpected error",
-                    "404 - Page Not Found",
-                    "404 Error",
-                    "Error 404",
-                    "HTTP 404",
-                    "Page not found",
-                    "This page cannot be displayed",
-                    "Access Denied",
-                    "Forbidden",
-                    "The page you requested is unavailable"
-                ]
-                
-                content_lower = page_text.lower()
-                for error_text in error_indicators:
-                    if error_text.lower() in content_lower:
-                        print(f"    ❌ ERROR PAGE DETECTED: Contains '{error_text}'")
-                        # Deterministic error-page responses (404, access denied,
-                        # unexpected error) mean the URL is broken and won't
-                        # start working. Blacklist to stop the chain from
-                        # infinite-looping on it.
-                        with progress_lock:
-                            append_known_bad_url(url)
-                        browser.close()
-                        return None  # Return None to trigger retry
-                
+                # Content validation - check for deterministic error pages
+                if is_error_page_and_blacklist(page_text, url):
+                    browser.close()
+                    return None  # Return None to trigger retry
+
                 # Check if content is too small (likely an error)
                 if len(page_text) < 500:
                     print(f"    ⚠️  Content too small ({len(page_text)} chars) - likely an error")
