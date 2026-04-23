@@ -1,16 +1,20 @@
 name: Deploy site to Netlify
 
 # Pushes the current src/public/analysis_data.json on main to Netlify
-# without re-running the multi-hour analyze pipeline. Intended for when
-# main has fresher data than the live site (e.g. after merging a scrape
-# PR out-of-band from the daily run).
+# without re-running the multi-hour analyze pipeline.
+#
+# Fires on every push to main rather than path-filtering on
+# src/public/**. An earlier attempt at path-filtering missed daily-
+# analysis merge commits: GitHub's path filter evaluated the merge
+# commit (whose file list is a subset relative to its parents) and
+# didn't see analysis_data.json as changed, even though it was
+# changed in the interior commit. Running this ~1-min deploy on
+# every push to main is cheap and removes that failure mode.
 
 on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths:
-      - 'src/public/**'
 
 permissions:
   contents: read
