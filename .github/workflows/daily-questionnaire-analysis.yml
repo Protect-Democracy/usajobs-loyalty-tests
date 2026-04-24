@@ -7,11 +7,13 @@ on:
   workflow_dispatch:  # Allow manual trigger
 
 
-# Needed for pushing changes back to repo and creating PRs
+# Needed for pushing changes back to repo, creating PRs, and
+# dispatching the deploy workflow at the end.
 permissions:
   contents: write
   id-token: write
   pull-requests: write
+  actions: write
 
 # Node 20 runs out of stack walking the 120k-file workspace; opt into Node 24.
 env:
