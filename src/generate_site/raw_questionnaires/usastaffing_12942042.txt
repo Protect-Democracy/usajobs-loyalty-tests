@@ -1,0 +1,161 @@
+Position Title
+IT Specialist (INFOSEC)
+Agency
+Washington Headquarters Services
+Announcement Number
+DHA-12942042-26-SNA Opens in new window
+Open Period
+May 04, 2026 to May 08, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+Preferences
+1.
+Select the lowest grade you are willing to accept for this position.
+9
+11
+
+
+2.
+Current or Former Political Appointees: The Office of Personnel Management (OPM) must authorize employment offers made to current or former political appointees. If you are currently employed, or have been employed within the last 5 years, in any one of the categories below, you must disclose this information. Failure to disclose this information could result in disciplinary action including removal from Federal Service.
+Are you a current or former political appointee as described under 5 U.S.C. sections 5312 through 5316?
+-OR-
+Are you a current or former Schedule A or Schedule C political appointee, or an appointee who serves/served in a political capacity under agency-specific authority in the Executive Branch?
+-OR-
+Are you a current or former political appointee or non-career SES Executive Branch employee?
+ Yes
+ No
+
+
+3.
+Are you a current or prior military member of the Armed Forces who is retiring or has been retired less than 180 days?
+
+Hiring (appointments or transfers) of retiring or retired members of the Armed Forces to positions in any DoD Component during the 180 days immediately following retirement may only be made IAW DoDI 1402.01 and may require a waiver for appointment prior to the 180 days from official military retirement.
+ Yes
+ No
+
+
+4.
+Are you a former Federal employee who has retired and is receiving an annuity either under the Civil Service Retirement System (CSRS) or Federal Employees Retirement System (FERS)?
+
+NOTE: If you are receiving a temporary medical disability retirement OR are a retired Military Service Member your response should be NO.
+ Yes
+ No
+
+
+OPM Merit Hiring Questions
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+
+
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+
+
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+
+
+3.
+How would you help advance the President's Executive Orders and policy priorities in this role? Identify one or two relevant Executive Orders or policy initiatives that are significant to you, and explain how you would help implement them if hired.
+
+
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+
+
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+
+
+Assessment 1
+Thank you for applying to the IT Specialist (INFOSEC), GS-2210-09/11, position with Washington Headquarters Services, Facilities Services Directorate. Your resume and the responses you provide will be used to determine if you are among the best qualified for this position. Your responses are subject to verification. Please review your responses for accuracy before you submit your application.
+
+
+MINIMUM QUALIFICATIONS
+
+
+1.
+BASIC REQUIREMENTS: The Information Technology occupation has Individual Occupational Requirements which apply to all positions. From the options below, select the one response which describes your background.
+
+ I have Information Technology-related experience demonstrating each of the following four competencies listed below: (1) Attention to Detail - Is thorough when performing work and conscientious about attention to detail. (2) Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services. (3) Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups effectively, considering the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately. (4) Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.
+ I have successfully completed one full academic year of graduate-level education or superior academic achievement in a field which demonstrates the knowledge, skills, and abilities necessary to do the work
+ I do not have education or Information Technology-related experience demonstrating each of the four competencies listed above.
+
+
+2.
+MINIMUM QUALIFICATION GS-9: Select the one statement that best describes the experience that you possess that demonstrates your ability to perform the work of an IT Specialist (INFOSEC) at the GS-9 grade level or equivalent pay band in the Federal Service or equivalent experience in the private or public sector.
+
+ I have one year of experience in the same or similar work equivalent to at least the next lower grade level (GS-7) requiring application of the knowledge, skills, and abilities of the position being filled. Candidates for this position must clearly demonstrate in their resume that they possess specialized experience in: 1) interpreting and implementing IT policies, standards, and guidelines related to Facilities Related Control Systems (FRCS); 2) assessing information systems reliability and accessibility and preventing and defending against unauthorized access to systems, networks, and data; and 3) evaluating IT related processes/procedures and developing operating procedures.
+ I possess a master's or equivalent graduate degree OR 2 full years of progressively higher-level graduate education leading to such a degree OR LL.B. or J.D., if related.
+ I have the specialized experience as described in A, but less than one year; and I have at least one year of graduate education as described in B, but less than the required two years.
+ I possess the specialized experience in response A AND the education in response B.
+ My experience and/or education is not reflected in the above statements.
+
+
+3.
+MINIMUM QUALIFICATION GS-11:
+Select the one statement that best describes the experience that you possess that demonstrates your ability to perform the work of an IT Specialist (INFOSEC) at the GS-11 grade level or equivalent pay band in the Federal Service or equivalent experience in the private or public sector.
+
+ I have one year of experience in the same or similar work equivalent to at least the next lower grade level (GS-9) requiring application of the knowledge, skills, and abilities of the position being filled. Candidates for this position must clearly demonstrate in their resume that they possess specialized experience in: 1) applying a variety of IT principles, concept's, system architecture, and performing system integration methods; 2) interpreting IT policies, standards, and guidelines; and developing IT architecture and standards for Facilities Related Control Systems (FRCS), analyzing and evaluating methods and techniques to assess system and enterprise architecture; and 3)developing procedures to ensure information systems reliability and accessibility; and preventing and defending against unauthorized access to systems, networks, and data.
+ I have a Ph.D. or equivalent doctoral degree or 3 full years of progressively higher-level graduate education leading to such a degree or LL.M., if related.
+ I have some specialized experience as described in A, but less than one year; and I have less than three years of graduate-level education as described in B.
+ I possess the specialized experience in response A AND the education in response B.
+ My experience and/or education is not reflected in the above statements.
+
+
+This position has Conditions of Employment that must be obtained prior to your start date and maintained for the duration of this employment.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+4.
+This position requires you to obtain and maintain a TOP SECRET security clearance. Are you willing to meet this condition of employment?
+
+ Yes
+ No
+
+
+5.
+This position is designated as Drug Testing Required. The employee is subject to random urinalysis testing in accordance with guidelines. Are you willing to meet this condition of employment?
+
+ Yes
+ No
+
+
+6.
+This position may require you to work other than normal duty hours, which may include evenings, weekends, and/or holidays and/or overtime. Are you willing to meet this condition of employment?
+
+ Yes
+ No
+
+
+7.
+The employee assigned to this position is designated as a MISSION CRITICAL EMPLOYEE. Mission critical employees may be required to report for, or remain at, work in dismissal or closure situations due to adverse weather conditions. Are you willing and able to meet the Mission critical Employee requirement?
+ Yes
+ No
+
+
+8.
+I certify that, to the best of my knowledge and belief, all of the information included in this questionnaire is true, correct, and provided in good faith. I understand that if I make an intentional false statement, or commit deception or fraud in this application and its supporting materials, or in any document or interview associated with the examination process, I may be fined or imprisoned (18 U.S.C. 1001); my eligibilities may be cancelled, I may be denied an appointment, or I may be removed and debarred from Federal service (5 C.F.R. part 731). I understand that any information I give may be investigated. I understand that responding "No" to this item will result in my not being considered for this position.
+
+ Yes, I certify that the information provided in this questionnaire is true, correct and provided in good faith, and I understand the information provided above.
+ No, I do not certify/understand the information provided above.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
