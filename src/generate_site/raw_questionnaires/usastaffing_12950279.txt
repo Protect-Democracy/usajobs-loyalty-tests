@@ -1,0 +1,140 @@
+Position Title
+Cybersecurity Executives
+Agency
+DHS Headquarters
+Announcement Number
+26-12950279-CBWQ Opens in new window
+Open Period
+May 05, 2026 to May 19, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+DHS actively works to recruit members of the veteran community for jobs in the DHS Cybersecurity Service. Select the response that describes your status as a veteran/preference eligible. Note: Depending on your selection, you may be required to submit additional information/documentation later in the application process.
+
+
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+Reasonable Accommodations for taking the online assessments are provided on a case-by-case basis only to qualified individuals with a disability covered by the Rehabilitation Act of 1973, as amended.
+
+Do you have a disability (physical or mental) that you believe will interfere with completing the online assessments and require a Reasonable Accommodation?
+
+ Yes
+ No
+
+
+Preferences
+1.
+In the DHS Cybersecurity Service, executive-level leaders have 5+ years of proven leadership experience tackling complex challenges, managing multi-level workforces, and delivering critical organizational outcomes.
+
+Select the response that best describes your leadership experience. (Please note, this must be explicitly outlined in your resume).
+
+Note: If neither of these responses seem accurate, you may have applied via the wrong career track. Contact cybersecurityservice@hq.dhs.gov for assistance before you proceed.
+ Experienced Senior Manager: I have 5+ years of experience managing cybersecurity programs, projects, or organizations as well as the cybersecurity work of employees or teams
+ Experienced Executive: I have 5+ years of managing complex cybersecurity organizations through multiple subordinate managers
+
+
+2.
+To assist DHS in determining your readiness to step into a DHS Cybersecurity Service executive-level job, list up to two jobs described in your resume in which you worked as a senior leader/manager/executive in an organization.
+
+Be sure to list the job(s) in which you gained the most meaningful cybersecurity senior leadership experience and had the greatest impact on an organization's cybersecurity-related outcomes. For most applicants, this tends to be their most recent leadership job(s).
+
+For each job you list, provide your title and the name of the organization. For example: "Job Title 1, Organization 1"; "Job Title 2, Organization 2"
+
+
+3.
+Select all responses that accurately describe the work you performed in the senior leader/manager/executive role(s) you listed in response to the previous question.
+ A. Reported to a “c-suite” or senior functional leader in the organization (e.g, CEO, COO, CIO, CISO, CTO).
+ B. Directed at least one large-scale, critical cybersecurity program with impact across the entire organization or for a majority of the organization’s customers
+ C. Developed and led the achievement of strategic goals for the cybersecurity functional areas in my scope of responsibility
+
+
+4.
+In the DHS Cybersecurity Service, executive-level leaders generally have worked 8+ years in technical cybersecurity roles during their careers.
+
+Many leaders have primarily worked in roles associated with one cybersecurity specialization-called a technical capability in the DHS Cybersecurity Service. If you are able to, select the technical capability that best describes your technical cybersecurity expertise and experience. To learn more about DHS Cybersecurity Service technical capabilities visit: http://dhscs.usajobs.gov/Jobs
+
+Note: If you are not able to select a technical capability that describes the majority of your work in technical cybersecurity roles during your career, no response is required.
+Cybersecurity Architecture
+Cybersecurity Data Science
+Cybersecurity Defense Defensive Operations – Intelligence Collection and Analysis
+Cybersecurity Defense Operations – Planning, Execution, and Analysis
+Cybersecurity Engineering
+Cybersecurity Policy
+Cybersecurity Program Management
+Cybersecurity Research and Development
+Cybersecurity Risk Management and Compliance
+Cybersecurity Threat Analysis
+Digital Forensics
+Mitigation and Response
+Physical, Embedded, and Control Systems Security
+Secure Network Operations
+Security System Operations and Maintenance
+Vulnerability Assessment
+
+
+5.
+If there is a salary range or lowest salary you are willing to accept, you may provide that information.
+
+Note: Response is not required. To learn more about salaries generally available in the DHS Cybersecurity Service at different career levels visit: http://dhscs.usajobs.gov/Benefits
+
+
+6.
+DHS is actively expanding the DHS Cybersecurity Service and creating new jobs across DHS organizations.
+
+Select all the DHS organizations for which you would like to be considered for DHS Cybersecurity Service jobs.
+ A. Cybersecurity and Infrastructure Security Agency (CISA)
+ B. DHS Office of the Chief Information Officer (OCIO)
+ C. Federal Emergency Management Agency (FEMA)
+ D. All Other DHS Organizations
+
+
+7.
+Consider the type of job, in terms of time period and regular work hours, you are willing to accept, and select all responses that apply.
+ A. Full-time job (80 hours every 2 weeks) with no defined end date
+ B. Part-time job (less than 80 hours every 2 weeks) with no defined end date
+ C. Short-term/project work (either part- or full-time) scheduled to last 1 – 3 years
+
+
+8.
+Are you a current DHS civilian employee?
+ Yes
+ No
+
+
+9.
+Are you a current or former federal employee?
+ Yes
+ No
+
+
+10.
+Are you a current or former federal political employee (e.g., Schedule C, Non-career SES, or Presidential Appointee)?
+ Yes
+ No
+
+
+11.
+May we share your application with others in DHS for positions outside of the DHS Cybersecurity Service?
+ Yes
+ No
+
+
+12.
+May we share your application with other federal agencies for positions outside of the DHS Cybersecurity Service?
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
