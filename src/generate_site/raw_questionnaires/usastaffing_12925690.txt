@@ -1,0 +1,140 @@
+Position Title
+Systems Engineer
+Agency
+DHS Headquarters
+Announcement Number
+DHA-12925690-26-DC Opens in new window
+Open Period
+May 11, 2026 to May 15, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+Are you a current federal employee displaced from the agency hiring for this position? If yes, confirm:
+• this vacancy is in the same local commuting area as your current or last permanent position of record; AND,
+• you are applying to a position that is at or below the grade level of the position from which you were or will be separated; AND,
+• you are applying to a position that does not have greater promotion potential than the position from which you were or will be separated; AND,
+• your last performance rating of record is at least fully successful or the equivalent.
+
+For more information, review the USAJOBS Help Center.
+
+To verify your eligibility, you must submit supporting documentation such as a Reduction in Force (RIF) separation notice or a Proposed Removal/Separation notice to include your latest performance rating (if the notice does not have this information included, you must submit a copy of your most recent performance appraisal) and a copy of your latest Notification of Personnel Action, Standard Form 50.
+ Yes
+ No
+
+
+3.
+Are you a current or former federal employee displaced from a position in a Federal agency other than the agency hiring for this position? If yes, confirm:
+• this vacancy is in the same local commuting area as your current or last permanent position of record; AND,
+• you are applying to a position that is at or below the grade level of the position from which you were or will be separated; AND,
+• you are applying to a position that does not have greater promotion potential than the position from which you were or will be separated; AND,
+• your last performance rating of record is at least fully successful or the equivalent.
+
+For more information, review the USAJOBS Help Center.
+
+To verify your eligibility, you must submit supporting documentation such as a Reduction in Force (RIF) separation notice to include your latest performance rating (if the notice does not have this information included, you must submit a copy of your most recent performance appraisal) and a copy of your latest Notification of Personnel Action, Standard Form 50.
+ Yes
+ No
+
+
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+
+
+4.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+
+
+5.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+
+
+6.
+How would you help advance the President's Executive Orders and policy priorities in this role? Identify one or two relevant Executive Orders or policy initiatives that are significant to you, and explain how you would help implement them if hired.
+
+
+7.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+
+
+8.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+
+
+Preferences
+1.
+In the last five years, based on the closing date of this announcement, have you served or are you currently serving as an Executive Branch political, Schedule C, or Non-career SES appointee? You can find out if you have held one of these appointment types by looking at your Standard Form 50s in your Electronic Official Personnel Folder (eOPF), in Section 5 where the legal authorities are listed.
+A political appointee is an appointment made by the President without confirmation by the Senate (5 CFR 213.3102(c)) OR an assistant position to a top-level federal official if filled by a person designated by the President as a White House Fellow (5 CFR 213.3102(z)).
+A Schedule C appointee occupies a position excepted from the competitive service by the President, or by the Director of OPM, because of the confidential or policy-determining nature of the position duties (5 CFR 213.3301 and 5 CFR 213.3302).
+A Non-career SES appointee is approved by the White House and serves at the pleasure of the appointing official without time limitations (5 CFR 317 Subpart F).
+ Yes
+ No
+
+
+Conditions of Employment
+1.
+This position may be designated as essential personnel. Essential personnel must be able to serve during continuity of operation events without regard to declarations of liberal leave or government closures due to weather, protests, and acts of terrorism or lack of funding. Failure to report for or remain in this position may result in disciplinary or adverse action in accordance with applicable laws, rules, and regulations (5 U.S.C. 7501-7533 and 5 CFR Part 752, as applicable). Do you accept these terms and conditions?
+ Yes
+ No
+
+
+2.
+This position requires a pre-employment drug test and a negative drug test result prior to appointment into the position. A tentative offer of employment will be rescinded if you fail to report to the drug test appointment or fail the test. Are you willing and able to successfully pass a pre-employment drug test?
+ Yes
+ No
+
+
+Assessment 1
+1.
+From the descriptions below, select the letter that describes how you meet the basic requirement for this Systems Engineer, GS-0801-14 position.
+ I possess a Degree in Engineering. To be acceptable, the program must: (1) lead to a bachelor’s degree in a school of engineering with at least one program accredited by ABET; or (2) include differential and integral calculus and courses (more advanced than first-year physics and chemistry) in five of the following seven areas of engineering science or physics: (a) statics, dynamics; (b) strength of materials (stress-strain relationships); (c) fluid mechanics, hydraulics; (d) thermodynamics; (e) electrical fields and circuits; (f) nature and properties of materials (relating particle and aggregate structure to properties); and (g) any other comparable area of fundamental engineering science or physics, such as optics, heat transfer, soil mechanics, or electronics. (Note: You must submit the applicable documentation to support your claim).
+ I have a combination of education and experience -- college-level education, training, and/or technical experience that furnished (1) a thorough knowledge of the physical and mathematical sciences underlying engineering, and (2) a good understanding, both theoretical and practical, of the engineering sciences and techniques and their applications to one of the branches of engineering. The adequacy of such background must be demonstrated by one of the following: 1. Professional registration or licensure -- Current registration as an Engineer Intern (EI), Engineer in Training (EIT)1 , or licensure as a Professional Engineer (PE) by any State, the District of Columbia, Guam, or Puerto Rico. Absent other means of qualifying under this standard, those applicants who achieved such registration by means other than written test (e.g., State grandfather or eminence provisions) are eligible only for positions that are within or closely related to the specialty field of their registration. For example, an applicant who attains registration through a State Board's eminence provision as a manufacturing engineer typically would be rated eligible only for manufacturing engineering positions. 2. Written Test -- Evidence of having successfully passed the Fundamentals of Engineering (FE)2 examination or any other written test required for professional registration by an engineering licensure board in the various States, the District of Columbia, Guam, and Puerto Rico. 3. Specified academic courses -- Successful completion of at least 60 semester hours of courses in the physical, mathematical, and engineering sciences and that included the courses specified in the basic requirements under paragraph A. The courses must be fully acceptable toward meeting the requirements of an engineering program as described in paragraph A. 4. Related curriculum -- Successful completion of a curriculum leading to a bachelor's degree in an appropriate scientific field, e.g., engineering technology, physics, chemistry, architecture, computer science, mathematics, hydrology, or geology, may be accepted in lieu of a bachelor’s degree in engineering, provided the applicant has had at least 1 year of professional engineering experience acquired under professional engineering supervision and guidance. Ordinarily there should be either an established plan of intensive training to develop professional engineering competence, or several years of prior professional engineering-type experience, e.g., in interdisciplinary positions. (The above examples of related curricula are not all-inclusive.) (Note: You must submit the applicable documentation to support your claim).
+ I do not have an Engineering degree or an acceptable combination of education and experience as described above.
+
+
+Select one statement from the choices below to show how you meet the specialized experience requirements for this GS-14 level position.
+
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+2.
+I have at least one full year of specialized experience comparable in scope and responsibility to the GS-13 level in the Federal service (obtained in either the public or private sectors) performing the following duties: Serving as a systems engineering advisor for an IT acquisition program by applying lifecycle engineering practices to support design, development, integration, and testing activities.
+ Yes
+ No
+
+
+3.
+I have at least one full year of specialized experience comparable in scope and responsibility to the GS-13 level in the Federal service (obtained in either the public or private sectors) performing the following duties: Reviewing and validating system requirements to ensure they align with operational needs, technical constraints, and program objectives.
+ Yes
+ No
+
+
+4.
+I have at least one full year of specialized experience comparable in scope and responsibility to the GS-13 level in the Federal service (obtained in either the public or private sectors) performing the following duties: Identifying technical risks affecting system performance or security and recommended mitigation strategies to reduce impact on program execution.
+ Yes
+ No
+
+
+5.
+I have at least one full year of specialized experience comparable in scope and responsibility to the GS-13 level in the Federal service (obtained in either the public or private sectors) performing the following duties: Participating in technical review boards by evaluating program documentation, test results, and system artifacts to support acquisition decision-making.
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
