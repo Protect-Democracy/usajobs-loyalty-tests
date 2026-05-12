@@ -1,0 +1,234 @@
+Position Title
+Supervisory IT Specialist (SYSADMIN)
+Agency
+Bonneville Power Administration
+Announcement Number
+26-BPA-51004-12956525-DOE Opens in new window
+Open Period
+May 11, 2026 to May 20, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Are you a current career/career-conditional federal employee at the Department of Energy applying for a PROMOTION to a position with a higher grade/pay band or higher promotion potential than you previously held on a permanent basis?
+
+Note: also select "Yes" if applying for a change-to-lower grade (CTLG) to a position with higher promotion potential than you previously held on a permanent basis.
+
+Check the REQUIRED DOCUMENTS section in the job announcement for instructions to support your eligibility to apply for this vacancy.
+ Yes
+ No
+
+
+2.
+Are you a current career/career-conditional federal employee at the Department of Energy applying for a REASSIGNMENT, CHANGE-TO-LOWER GRADE, or REPROMOTION and you currently or previously held a position with the same grade/pay band or higher and the same or higher promotion potential on a permanent basis?
+
+Check the REQUIRED DOCUMENTS section in the job announcement for instructions to support your eligibility to apply for this vacancy.
+ Yes
+ No
+
+
+Preferences
+1.
+Do any of your relatives work for the agency to which you are applying? If so, please list any applicable names below. Please enter N/A in the text box, if not Applicable. (Include: father, mother, husband, wife, son, daughter, brother, sister, uncle, aunt, first cousin, nephew, niece, father-in-law, mother-in-law, daughter-in-law, son-in-law, brother-in-law, sister-in-law, stepfather, stepmother, stepson, stepdaughter, stepbrother, stepsister, half brother, and half sister).
+
+
+2.
+Instructions: To provide the hiring manager an opportunity to consider your accomplishments, you may submit/attach copies of your performance appraisals and/or incentive award justification as part of your application by uploading these documents into USA Staffing.
+
+
+All current Federal employees must have at least a fully successful or equivalent performance rating or higher, to be considered for competitive placement. Competitive Federal employees who have a current unacceptable performance rating will be excluded from consideration.
+ I am a current Federal employee, my last performance rating was fully successful (meets expectations) or equivalent, or higher.
+ I am a current Federal employee; my last performance rating was unacceptable (fails to meet expectations).
+ I am a new Federal employee and have not received a performance rating as of the date of this application.
+ I am not a Federal employee; however, I will consider attaching my recent performance appraisal from my employer for consideration.
+ I am not a Federal employee, and I do not have any performance documentation to submit for consideration.
+
+
+3.
+Have you received awards or been recognized as part of your annual performance appraisal for work that was based on one or more of the competencies described in this vacancy announcement?
+ Yes
+ No
+
+
+4.
+Are you currently serving or have served in the last five (5) years in a Political Appointment in the Federal Government?
+ Yes
+ No
+
+
+5.
+Please list the title, agency and dates of the appointments
+
+
+Executive Order 14170
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+
+
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+
+
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+
+
+3.
+How would you help advance the President's Executive Orders and policy priorities in this role? Identify one or two relevant Executive Orders or policy initiatives that are significant to you, and explain how you would help implement them if hired.
+
+
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+
+
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+
+
+Assessment 1
+1.
+BASIC REQUIREMENT - Choose one answer that best describes your experience.
+
+ I have IT-related experience demonstrating each of the four competencies at the level described in the vacancy announcement.
+ I do not possess the required competencies described in the vacancy announcement.
+
+
+2.
+In addition to demonstrating IT-related experience in the four competencies, you must meet the specialized experience requirements. Choose one answer that best describes your experience.
+
+ I possess at least one year of specialized experience equivalent to the GS-13 grade level in the Federal service performing work appropriate to the position advertised in the vacancy announcement.
+ I do not meet the requirement as described above.
+
+
+Assessment 2
+1.
+You are leading a critical server migration project with a tight deadline. Two of your most experienced senior administrators have a strong disagreement on the best technical approach for data replication, causing a stalemate and putting the project schedule at risk. What is the best immediate action to take as the supervisor?
+ Assign a junior administrator to research both approaches and present a recommendation to break the tie.
+ Allow the debate to continue for another day to see if the administrators can resolve it on their own without intervention.
+ Facilitate a meeting with both administrators to have them present the pros and cons of their respective approaches, mediate the discussion to find a consensus or make a final, evidence-based decision to move the project forward.
+ Implement the less risky of the two options to avoid potential project delays, even if it might not be the most optimal solution.
+
+
+2.
+Your team is consistently missing deadlines for routine system patching, citing a heavy workload from unplanned outages. Team morale is low. Which of the following actions would be most effective in addressing the root cause of the issue? (Select all that apply.)
+ A. Request additional headcount based on the team's feedback about being overworked.
+ B. Implement a formal review of the team's workload, ticket prioritization process, and time allocation to identify bottlenecks, and then work with the team to rebalance duties and create a protected time block for maintenance activities.
+ C. Invest in a new, automated patching tool to reduce the manual effort required for maintenance tasks.
+ D. Implement a dedicated on-call rotation to handle unplanned outages, thereby freeing up resources for routine patching, cross-training team members on critical systems to distribute knowledge.
+ E. All of the above.
+
+
+3.
+An administrator on your team, who is typically a solid performer, has made the same critical configuration error twice in the last month, causing brief service interruptions. How should you address this performance issue?
+ Assign a senior peer to shadow the administrator's work for the next month to prevent further errors.
+ Note the pattern and begin compiling documentation for a potential formal disciplinary action if it happens a third time.
+ Meet with the administrator privately to discuss the specific errors, ask questions to understand the cause, review the correct procedure, offer additional support, and establish a plan for additional training or peer review to ensure it doesn't happen again.
+ Update the team's standard operating procedures (SOPs) to add more checks and balances for the specific task that was performed incorrectly.
+
+
+4.
+As the supervisor, you are responsible for developing the annual budget for your systems administration team. Which of the following is the most critical component to include in your budget justification for new server hardware?
+
+ A detailed project plan for the migration, including a full list of personnel and timelines.
+ A technical analysis from the hardware vendor detailing the superior performance of the new models.
+ A business case justifying the investment by demonstrating its alignment with mission-critical objectives, detailing projected capacity demands, analyzing the total cost of ownership (TCO), and outlining the operational hazards associated with neglecting the upgrade.
+ A summary of recent system failures and outages attributed to the aging hardware.
+
+
+5.
+You are drafting a new policy for user account management across the enterprise. According to best practices in administration, which of the following elements should be included? (Select all that apply)
+ A. Procedures for provisioning new user accounts.
+ B. A list of specific managers authorized to approve high-privilege access.
+ C. A requirement for periodic review and recertification of user access rights.
+ D. A process for de-provisioning accounts for departing employees.
+ E. All of the above.
+
+
+6.
+Your organization has decided to outsource its patching of servers responsibilities to a third-party vendor. As the systems administration supervisor, what is your most important contribution to this transition?
+ Documenting your team's current internal processes for patching of servers
+ Developing and negotiating a clear Service Level Agreement (SLA) that defines patching times, downtime procedures, and performance metrics that your team currently has.
+ Creating a knowledge base of common issues and resolutions for the new vendor to use.
+ Establishing a weekly meeting with the vendor's management to review performance.
+
+
+7.
+Users are reporting intermittent and slow access to a critical web application hosted on a server cluster your team manages. Initial checks show that server CPU and memory usage are normal. What is the most logical next step in troubleshooting the problem?
+ Temporarily add more servers to the cluster to see if the increased capacity resolves the issue.
+ Analyze network traffic logs and load balancer performance metrics to identify potential bottlenecks or misconfigurations between the users and the server cluster.
+ Check the application's error logs on each server for any new or unusual entries.
+ Fail over to the disaster recovery site to determine if the issue is site-specific.
+
+
+8.
+A critical database server has failed and will not boot. The root cause is determined to be a failed RAID controller. You have a documented disaster recovery plan. Which of the following actions are part of a logical recovery sequence? (Select all that apply)
+ A. Replace the failed RAID controller with a new, compatible unit.
+ B. Notify business stakeholders of the estimated time to recovery based on the SLA.
+ C. Restore the RAID configuration from the saved configuration file or rebuild it manually according to documentation.
+ D. Perform a full data restore from the most recent known-good backup after the array is rebuilt.
+ E. All of the above.
+
+
+9.
+After a recent OS patch, a legacy application that cannot be easily updated has stopped working. The application vendor states they do not support the new OS version. Reverting the patch is not an option due to security policy. Which of the following is the MOST viable long-term solution?
+ Document the issue as an accepted operational risk and inform users that the application may have stability problems.
+ Procure extended support from the application vendor to develop a custom patch for the new OS version.
+ Keep the server in a separate, un-patched OU (Organizational Unit) in Active Directory and disable automatic updates.
+ Isolate the application on a dedicated virtual machine (VM) with limited network access and additional monitoring, running the older, compatible OS version until a replacement application can be procured.
+
+
+10.
+An automated vulnerability scan of your server environment reports a critical vulnerability on several public-facing web servers. This vulnerability has a known, published exploit. What is the most appropriate immediate action? (Select all that apply.)
+ A. Implement a mitigating control, such as a firewall rule to block the specific type of traffic that exploits the vulnerability, while obtaining and testing the patch for deployment.
+ B. Isolate the servers on a quarantined network segment until a patch can be fully tested and deployed.
+ C. Run a new scan with a different tool to validate that the vulnerability is not a false positive.
+ D. Schedule emergency downtime to install patches and coordinate with affected departments.
+ E. All of the above.
+
+
+11.
+The principle of "least privilege" is a fundamental concept in information security. In the context of systems administration, which of the following best describes its application?
+ Implementing role-based access control (RBAC) where administrators are grouped into tiers with varying levels of access.
+ Ensuring that user accounts and service accounts are granted only the specific permissions required to perform their intended function, and nothing more.
+ Auditing administrative accounts quarterly to ensure they are still needed.
+ Enforcing multi-factor authentication (MFA) for all accounts with administrative rights.
+
+
+12.
+You are hardening a new Linux server according to security best practices. Which of the following actions should be part of your configuration process? (Select all that apply)
+ A. Ensuring all default vendor accounts and passwords are changed or removed.
+ D. Subscribing the server to the vendor's security notification mailing list.
+ C. Disabling unused services and network ports.
+ B. Setting up centralized logging to a secure log aggregation server.
+ E. All of the above.
+
+
+13.
+Your organization requires that all production system changes be managed through a formal change management process. What is the primary goal of such a process?
+ To create a central repository of all system configurations for auditing and compliance purposes.
+ To ensure that management has visibility and approval over all activities performed by the systems administration team.
+ To minimize the risk of service disruption by ensuring that all changes are documented, tested, and approved before being implemented in the production environment, including a rollback plan in case of failure.
+ To schedule and coordinate IT activities to prevent conflicts between different technical teams.
+
+
+14.
+What is the primary benefit of using an automated configuration management tool (e.g., Ansible, Puppet, Chef, or PowerShell DSC) in a large server environment?
+ It creates an audit trail of every command executed on a server for security and compliance reviews.
+ It allows for the automation of repetitive administrative tasks, such as creating user accounts or restarting services.
+ It automatically discovers and inventories all hardware and software assets within the network.
+ It enforces a consistent and repeatable state for all managed servers, reduces configuration drift, and allows for rapid, automated deployment of changes at scale.
+
+
+15.
+You are tasked with updating the version of a critical software library used by dozens of applications across hundreds of servers. Using a configuration management framework, what are the key steps to ensure a successful, low-risk deployment? (Select all that apply)
+ A. Testing the new library in an isolated, non-production environment that mirrors the production setup.
+ B. Deploying the change to a small, limited-impact subset of production servers (a "canary" release) and monitoring for issues before a full rollout.
+ C. Having a documented and tested rollback plan to quickly revert to the previous version if the update causes problems.
+ D. Notifying all application owners about the pending update and the potential for service impact.
+ E. All of the above.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
