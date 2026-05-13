@@ -1,0 +1,203 @@
+Position Title
+IT Specialist (Pol & Plng/Syst Admin)
+Agency
+Administrative Office of the U.S. Courts
+Announcement Number
+26-DPS-12960256 Opens in new window
+Open Period
+May 13, 2026 to May 20, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+Are you a veteran who separated from active duty under honorable conditions and you: 
+
+• have a rating by the Department of Veterans Affairs showing a compensable service-connected disability of 10% or more OR
+• retired from active military service with a service-connected disability rating of 10% or more (**TP or 5 point veterans please do not answer 'yes' to this question.**)
+
+If eligible, submit a copy of your latest Certificate of Release or Discharge from Active Duty, DD-214 (copy indicating character of service) or other proof of your service which includes character of service. Please also provide the disability letter from the Department of Veterans Affairs or Armed Service and the Application for 10-Point Veteran Preference, Standard Form 15.
+
+For more information, review USAJOBS Veterans resources.
+ Yes
+ No
+
+
+3.
+Are you a current employee of the AO or the Federal Judiciary?
+ Yes
+ No
+
+
+4.
+Are you a current or former Federal employee?
+
+All applicants outside of the AO must submit a copy of your latest Notification of Personnel Action (SF-50) to verify current or former Federal employment status.
+ Yes
+ No
+
+
+Preferences
+1.
+Would you accept a temporary appointment?
+ Yes
+ No
+
+
+Assessment 1
+Select “Yes” or “No” to the following question(s).
+
+
+1.
+Do you have one full year (52 weeks) of specialized experience leading or coordinating technical change management activities supporting software development, software security, infrastructure, platform services, or related technical environments?
+ Yes
+ No
+
+
+1a.
+If yes, please identify the time frame and employer(s) where we can locate this information. THIS IS A MANDATORY REQUIREMENT. Please limit your response to 250 words or less.
+
+
+2.
+Please describe experience leading or coordinating technical change management activities supporting software development, software security, infrastructure, platform services, or related technical environments. THIS IS A MANDATORY REQUIREMENT. Please limit your response to 1000 words or less.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+3.
+Do you have one full year (52 weeks) of specialized experience managing technical change intake, impact assessment, approvals, implementation coordination, or validation activities for security-impacting changes?
+ Yes
+ No
+
+
+3a.
+If yes, please identify the time frame and employer(s) where we can locate this information. THIS IS A MANDATORY REQUIREMENT. Please limit your response to 250 words or less.
+
+
+4.
+Please describe experience managing technical change intake, impact assessment, approvals, implementation coordination, or validation activities for security-impacting changes.  THIS IS A MANDATORY REQUIREMENT. Please limit your response to 1000 words or less.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+5.
+Do you have one full year (52 weeks) of specialized experience supporting vulnerability remediation workflows, remediation prioritization, or governance activities across multiple technical or engineering teams?
+ Yes
+ No
+
+
+5a.
+If yes, please identify the time frame and employer(s) where we can locate this information. THIS IS A MANDATORY REQUIREMENT. Please limit your response to 250 words or less.
+
+
+6.
+Please describe experience defining or supporting vulnerability remediation workflows, remediation prioritization, or governance activities across multiple technical or engineering teams. THIS IS A MANDATORY REQUIREMENT. Please limit your response to 1000 words or less.
+
+
+7.
+Please identify certifications that you hold.
+ ITIL 4 Foundation
+ AWS Certified Cloud Practitioner
+ Certified Change Management Professional
+ None
+
+
+For each item, select the one response that most accurately describes your current level of experience and capability using the scale below.
+
+
+8.
+Which level of description best describes your experience maintaining change records, approvals, implementation documentation, and evidence artifacts required to support auditability, risk management, and compliance outcomes?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+9.
+Which level of description best describes your experience leading technical change management in regulated environments?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+10.
+Which level of description best describes your experience partnering with the incident handler, platform operations, and other stakeholders to support emergency change paths, post-change validation, and timely response to operational security needs?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+11.
+Which level of description best describes your experience providing change governance input to security workstream leadership and supporting consistent execution of change management practices across pods?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+12.
+Which level of description best describes your experience monitoring technical changes for completeness, readiness, implementation quality, and post-implementation follow-through?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+13.
+Which level of description best describes your experience supporting process improvement efforts related to technical change governance, documentation, and operational coordination?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+14.
+Which level of description best describes your experience communicating change status, risks, dependencies, and issues to stakeholders and leadership as appropriate?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+15.
+Which level of description best describes your experience working in multi-pod agile delivery models with coordinated cadences and releases?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+16.
+I understand that failure to provide a responsive written statement ("See Resume" or other non-descriptive response is not sufficient) for each requested narrative response could result in non-consideration for this position.
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
