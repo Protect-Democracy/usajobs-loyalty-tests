@@ -1,0 +1,175 @@
+Position Title
+IT Cybersecurity Specialist (InfoSec)
+Agency
+Administrative Office of the U.S. Courts
+Announcement Number
+26-CMM-12960014 Opens in new window
+Open Period
+May 12, 2026 to May 19, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+Are you a veteran who separated from active duty under honorable conditions and you: 
+
+• have a rating by the Department of Veterans Affairs showing a compensable service-connected disability of 10% or more OR
+• retired from active military service with a service-connected disability rating of 10% or more (**TP or 5 point veterans please do not answer 'yes' to this question.**)
+
+If eligible, submit a copy of your latest Certificate of Release or Discharge from Active Duty, DD-214 (copy indicating character of service) or other proof of your service which includes character of service. Please also provide the disability letter from the Department of Veterans Affairs or Armed Service and the Application for 10-Point Veteran Preference, Standard Form 15.
+
+For more information, review USAJOBS Veterans resources.
+ Yes
+ No
+
+
+3.
+Are you a current employee of the AO or the Federal Judiciary?
+ Yes
+ No
+
+
+4.
+Are you a current or former Federal employee?
+
+All applicants outside of the AO must submit a copy of your latest Notification of Personnel Action (SF-50) to verify current or former Federal employment status.
+ Yes
+ No
+
+
+Preferences
+1.
+Would you accept a temporary appointment?
+ Yes
+ No
+
+
+Assessment 1
+Select “Yes” or “No” to the following question(s).
+
+
+1.
+Do you have one full year (52 weeks) of specialized experience leading security architecture efforts for large-scale cloud, enterprise, or modernization programs in regulated or federal environments?
+ Yes
+ No
+
+
+1a.
+If yes, please identify the time frame and employer(s) where we can locate this information. THIS IS A MANDATORY REQUIREMENT. Please limit your response to 250 words or less.
+
+
+2.
+Please describe experience leading security architecture efforts for large-scale cloud, enterprise, or modernization programs in regulated or federal environments. THIS IS A MANDATORY REQUIREMENT. Please limit your response to 1000 words or less.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+3.
+Do you have one full year (52 weeks) of specialized experience applying zero trust concepts and modern security architecture patterns across identity, network, application, and data layers?
+ Yes
+ No
+
+
+3a.
+If yes, please identify the time frame and employer(s) where we can locate this information. THIS IS A MANDATORY REQUIREMENT. Please limit your response to 250 words or less.
+
+
+4.
+Please describe experience applying zero trust concepts and modern security architecture patterns across identity, network, application, and data layers. THIS IS A MANDATORY REQUIREMENT. Please limit your response to 1000 words or less.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+5.
+Do you have one full year (52 weeks) of specialized experience defining or governing security standards, architecture guardrails, or non-functional requirements related to secure solution delivery?
+ Yes
+ No
+
+
+5a.
+If yes, please identify the time frame and employer(s) where we can locate this information. THIS IS A MANDATORY REQUIREMENT. Please limit your response to 250 words or less.
+
+
+6.
+Please describe experience defining or governing security standards, architecture guardrails, or non-functional requirements related to secure solution delivery. THIS IS A MANDATORY REQUIREMENT. Please limit your response to 1000 words or less.
+
+
+7.
+Please identify certifications that you hold.
+ AWS Certified Solutions Architect – Professional
+ AWS Certified Security – Specialty
+ None
+
+
+For each item, select the one response that most accurately describes your current level of experience and capability using the scale below.
+
+
+8.
+Which level of description best describes your experience coordinating with risk and compliance personnel to translate control requirements into implementable architecture standards, solution requirements, and release evidence expectations?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+9.
+Which level of description best describes your experience providing security design review and consultation support to delivery teams?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+10.
+Which level of description best describes your experience identifying, surfacing, and driving resolution of security risks, exceptions, and tradeoffs through established governance, decision, and escalation pathways?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+11.
+Which level of description best describes your experience leading security architecture for large-scale cloud and enterprise modernization programs in regulated or federal environments?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+12.
+Which level of description best describes your experience operating in scaled agile delivery environments and partnering with multi-pod teams while maintaining coherent program-wide standards?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+13.
+I understand that failure to provide a responsive written statement ("See Resume" or other non-descriptive response is not sufficient) for each requested narrative response could result in non-consideration for this position.
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
