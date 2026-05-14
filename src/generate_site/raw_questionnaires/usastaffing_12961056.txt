@@ -1,0 +1,131 @@
+Position Title
+Information Technology Specialist (Security) (Direct Hire)
+Agency
+Headquarters, NASA
+Announcement Number
+HQ-26-DE-12961056-BL Opens in new window
+Open Period
+May 14, 2026 to May 18, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+Are you a current or former federal employee displaced from NASA or any other federal agency?
+
+If yes, confirm:
+you are located in the same local commuting area of the vacancy; AND
+you are applying to a position that is at or below the grade level of the position from which you were or will be separated; AND
+you are applying to a position that does not have greater promotion potential than the position from which you were or will be separated; AND
+your last performance rating of record is at least fully successful or the equivalent.
+For more information on qualifying conditions for ICTAP or CTAP you may go to:The Employee's Guide to Career Transition (opm.gov)
+
+If you answer yes to this question, you must submit the following supporting documentation:
+a Reduction in Force (RIF) separation notice or a Proposed Removal/Separation notice to include your most recent performance rating (if the notice does not have this information included, you must submit your most recent performance appraisal), AND
+your most recent Notification of Personnel Action, Standard Form 50.
+ Yes
+ No
+
+
+Preferences
+1.
+Select the location(s) you want to be considered for. You must choose at least one location.
+ A. Marshall Space Flight Ctr, Huntsville, AL
+ B. Armstrong Flight Research Ctr, Edwards AFB, CA
+ C. Ames Research Ctr, Moffett Field, CA
+ D. NASA Headquarters, Washington, DC
+ E. Kennedy Space Ctr, Kennedy Space Center, FL
+ F. Goddard Space Flight Ctr, Greenbelt, MD
+ G. NASA Shared Services, Bay Saint Louis, MS
+ H. Stennis Space Ctr, Stennis Space Center, MS
+ I. Glenn Research Ctr, Cleveland, OH
+ J. Johnson Space Ctr, Houston, TX
+ K. Langley Research Ctr, Hampton, VA
+
+
+Federal Employment Information
+1.
+
+In the last five years, based on the closing date of this announcement, have you served or are you currently serving as an Executive Branch political, Schedule C, or Non-career SES appointee? You can find out if you have held one of these appointment types by looking at your Standard Form 50s in your Electronic Official Personnel Folder (eOPF), in Section 5 where the legal authorities are listed.
+
+This means you are currently serving or have served in a political appointment requiring Senate confirmation (PAS) or not requiring Senate confirmation (PA); noncareer Senior Executive Service; political appointees under the Executive Schedule; Political Schedule A; Schedule C appointments; or other political appointments based on agency authority.
+
+The Office of Personnel management (OPM) must authorize employment offers made to current or former political appointees. If you are currently, or have been within the last 5 years, a political Schedule A, Schedule C, Non-career SES or Presidential Appointee employee in the Executive Branch, you must disclose this information to the Human Resources Office.
+ Yes
+ No
+
+
+2.
+In the last five years, based on the closing date of this announcement, have you received a federal Voluntary Separation Incentive Payment (VSIP)?
+(If you have not been employed by the federal government within the past 5 years, select "No.")
+
+If you previously received a VSIP and are unsure of the exact date, please refer to your SF-50 Notification of Personnel Action for your separation.
+
+Block 6-A should display 825
+Block 6-B should read Separation Incentive
+Block 4 will display the effective date of the VSIP
+ Yes
+ No
+
+
+Short Essay Questions
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+
+
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+
+
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+
+
+3.
+How would you help advance the President's Executive Orders and policy priorities in this role? Identify one or two relevant Executive Orders or policy initiatives that are significant to you, and explain how you would help implement them if hired.
+
+
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+
+
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+
+
+Assessment 1
+Instructions
+Please select the statement for each item that best describes your qualifications for the position. Please ensure the information in your resume matches your responses to the questions. Your application materials, including transcripts, must support your responses to this questionnaire.
+
+NOTE: If you qualify for this position based on experience, your resume MUST show you have Information Technology (IT) experience demonstrating each of the four competencies as described in the "Qualifications" section of the job announcement: Attention to Detail, Customer Service, Oral Communication, and Problem Solving.
+
+
+1.
+Please select the statement below that best describes how your experience meets the requirements for this position at the GS-14 level as described in the "Qualifications" section of the announcement.
+ I have Information Technology (IT) experience in each of the four competencies described in the job announcement AND I have 1 year of directly related specialized experience equivalent to at least the GS-13 level in the Federal service that included: Providing technical security oversight for complex classified networks and providing guidance to various stakeholders and customers; Applying Risk Management Framework (RMF) process and principles, methods and practices against specified requirements/controls (e.g., National Institute of Standards and Technology (NIST) Special Publications 800-37, 800-53, and 800-60) to develop security plans and continuously monitor the cybersecurity posture of networks and information systems; Collaborating and negotiating with customers and/or business partners to perform oversight and manage compliance with requirements to ensure an organization's cybersecurity posture in a risk-based manner that minimizes operational impact.
+ I do not have the experience described above.
+
+
+Certification
+
+
+2.
+I certify that, to the best of my knowledge and belief, all of the information included in this questionnaire is true, correct, and provided in good faith. I certify that I worked independently and did not get any assistance from generative artificial intelligence applications (e.g., Bard, ChatGPT, Copilot) while completing any part of the application and hiring process. I understand that if I make an intentional false statement, or commit deception or fraud in this questionnaire and its supporting materials, or in any document or assessment associated with the examination process, I may be fined or imprisoned (18 U.S.C. 1001); my eligibilities may be canceled, I may be denied an appointment, or I may be removed and debarred from Federal service (5 C.F.R. Part 731). I understand that any information I give may be investigated. I understand that if my responses to this questionnaire are not substantiated by supporting documentation or later steps in the hiring process that my application may be rated lower or removed from further consideration.
+ Yes, I certify all of the information provided above is true, accurate, and provided in good faith.
+ No, I do not certify all of the information provided above.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
