@@ -1,0 +1,316 @@
+Position Title
+Commissary Management Specialist (CAO)
+Agency
+Defense Commissary Agency
+Announcement Number
+DECA-26-12955970-MP Opens in new window
+Open Period
+May 13, 2026 to May 24, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Are you an employee of the agency advertising this position and applying to be considered for a Reassignment, Change-to-Lower Grade or Re-promotion to a position with higher graded promotional potential than previously held?
+ Yes
+ No
+
+
+2.
+Are you an employee of the agency advertising this position and applying to be considered for a Reassignment, Change-to-Lower Grade or Re-promotion to a grade previously held? You must submit a copy of your most recent SF-50, Notification of Personnel Action.
+
+
+ Yes
+ No
+
+
+3.
+Are you an employee of the agency advertising this position and applying to be considered for a Promotion? You must submit a copy of your most recent SF-50, Notification of Personnel Action.
+ Yes
+ No
+
+
+Preferences
+1.
+Select the lowest grade you are willing to accept for this position.
+11
+12
+
+
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+
+
+2.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+
+
+3.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+
+
+4.
+How would you help advance the President's Executive Orders and policy priorities in this role? Identify one or two relevant Executive Orders or policy initiatives that are significant to you, and explain how you would help implement them if hired.
+
+
+5.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+
+
+6.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+
+
+Announcement Screen-out
+1.
+Are you a former Federal employee who has retired and is receiving an annuity either under the Civil Service Retirement System (CSRS) or Federal Employees Retirement System (FERS)?
+NOTE: If you are receiving a temporary medical disability retirement OR are a retired Military Service Member your response should be NO.
+ Yes
+ No
+
+
+Assessment 1
+1.
+Select the response that best describes how you meet the required qualifications for this position. Creditable specialized experience for this position including managing a commissary store, supermarket, or similar type of commercial retail food store; managing a department in a retail food store; planning, standardizing, or controlling operations in an assigned group of commercial retail food stores; developing, interpreting, or applying policies, procedures, and operating standards for use in a retail food store; providing technical advice on merchandising and operational matters pertaining to grocery, meats, and produce, as well as front end operations.
+ If applying for GS-11: I possess one year of credible specialized experience that equipped me with the particular knowledge, skills and abilities (KSA's) to successfully perform the duties of the position and is directly in or related to this position. My specialized experience is at the GS-09 grade level or equivalent under other pay systems in the federal service, military or private sector (OR) I possess a Ph.D. or equivalent doctoral degree or three full years of progressively higher level graduate education leading to such a degree or LL. M., if related (OR) I possess a combination of education and experience as described, which when combined equals 100% of the qualification requirements.
+ If applying for GS-12: I possess one year of credible specialized experience that equipped me with the particular knowledge, skills and abilities (KSA’s) to successfully perform the duties of the position and is directly in or related to this position. My specialized experience is at the GS-11 grade level or equivalent under other pay systems in the federal service, military or private sector.
+ My experience and/or education are not reflected in the statements above.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+2.
+Within the last 12 months have you had a permanent change of station (PCS) move at government expense?
+
+ Yes
+ No
+
+
+3.
+Identify which of the following awards you have received during the past 12 months:
+ A. Quality Increase/Quality Step Increase or Sustained Superior Performance Award.
+ B. Special Act, Suggestion or other award (includes non-monetary awards).
+ C. None of the above.
+
+
+4.
+My most recent performance appraisal rating is:
+
+
+ Outstanding
+ Excellent or Exceeds Fully Successful
+ Fully Successful
+ Minimally Successful or less than Fully Successful
+ I do not have a government performance appraisal.
+
+
+INSTRUCTIONS: In this part, you will respond to questions about experience you have had that are related to the requirements of the job for which you are applying. Carefully review the level of descriptions listed below. For each narrative question please be as detailed as possible. For each question, select the response(s) that best describes your experience and record your selection(s).
+
+
+RESPONSE TYPE: Narrative and Multiple-Choice Questions
+
+
+
+5.
+Scenario: Your CAO system consistently over-ordering bulky paper products (towels/tissues), leading to backstock congestion in the warehouse. Which procedure should you audit first to resolve this?
+
+
+ The accuracy of the delivery receipt scan.
+ The “Balance on Hand” (BOH) and “Minimum Presentation” (MP) settings in the system.
+ The store’s historical sales data from three years ago.
+ The cashier’s speed at the front end.
+
+
+6.
+Scenario: Your zone has recently transitioned to a 100% CAO-driven ordering model.  However, after three months, you notice a "pendulum effect": some departments are drowning in excess backstock, while others are facing persistent out-of-stocks on "never-out" items. Upon investigation, you find that department managers are manually "padding" orders because they don't trust the system's logic. Describe the specific programs and procedures you would develop to stabilize CAO operations. In your response, address the following:
+
+1. System Integrity: What specific routines will you implement to ensure "Balance on Hand" (BOH) and "Minimum Presentation" (MP) data remains accurate?
+2. Exception Handling: How will you define the procedure for manual overrides to prevent managers from managers from "padding" orders based on gut feeling?
+3. Accountability: What KPIs or "Daily Health Checks" will you use to monitor if the CAO program is being followed correctly by the team"
+
+
+7.
+Scenario: "you are assigned to conduct a Technical Assistance Visit (TAV) at a struggling commissary that has consistently failed to meet operational standards in food safety, merchandising, and inventory accuracy. The store staff is demoralized and views these visits as 'policing' rather than support.
+
+Outline your step-by-step methodology for conducting a technical inspection that balances rigorous compliance with professional development. In your response, explain how you prepare for the visit, how you identify 'root cause' failures during the inspection, and the specific training techniques you use to ensure store personnel can sustain improvements after you leave.
+
+
+
+8.
+Scenario: "A new set of Headquarters (HQ) Standard Operating Procedures (SOPs) and updated Job Aids for high-shrink departments (Meat, Produce, and Deli) was released 30 days ago. During a routine zone walk, you notice that while the Store Manager claims to be 'in compliance,' the actual floor execution varies wildly between departments, and several associates are still using outdated 'cheat sheets' taped to their workstations.
+
+Describe your strategy for auditing and enforcing directive adherence across multiple store locations. How do you verify that HQ manuals are not just 'on the shelf' but are being used in daily operations? Detail your process for identifying non-compliance and the steps you take to retrain staff when job aids are being ignored.
+
+
+
+9.
+Scenario: "You are conducting a review of a commissary that has reported a decline in 'Basket Size' (items per customer) and an increase in front-end congestion during peak hours. Upon inspection, you notice that while the store is fully stocked, the physical placement of display cases, refrigeration units, and check stands appears to be creating 'choke points' that frustrate shoppers and hinder restocking efforts.
+
+Describe your technical process for evaluating the adequacy of a commissary layout.  What specific metrics and visual cues do you use to determine if the arrangement of equipment, refrigeration, and cash registers supports optimal traffic flow and sales velocity? Detail how you would propose a reconfiguration that balances customer convenience with operational efficiency.
+
+
+10.
+A high-volume store is consistently failing to meet its "Pick-Up-At-Store" (PUAS) fulfillment deadlines despite having adequate staffing levels. To find the root cause, what is the first step a manager should take?
+ Implement immediate mandatory overtime for the fulfillment team.
+ Use the “5 Whys” method to investigate if the failure stems from hardware lag, poor aisle mapping, or inaccurate inventory counts.
+ Reprimand the shift supervisors for poor time management.
+ Reduce the number of PUAS orders the store accepts daily.
+
+
+11.
+You observe that sales in the frozen food category have dropped by 10% month-over-month. Upon review, you see that foot traffic in the store is up by 5% and the "Frozen Out-of-Stock" report is at a record low. What is the most logical analytical conclusion?
+ The CAO system is failing to order enough product.
+ Higher store traffic is causing congestion in the frozen aisles, deterring buyers.
+ Pricing or promotional shifts in the frozen category are likely uncompetitive compared to the previous month.
+ Staff are not stocking the frozen cases quickly enough.
+
+
+12.
+You recently completed a "Zero Waste" project to reduce perishables shrink. While total shrink dollars decreased by 5% the labor hours required to manage the new sorting process increased by 15%. How do you evaluate the effectiveness of this project?
+
+
+
+ The project is a success because the primary goal (shrink reduction) was met.
+ The project is a failure because labor costs are always more important than shrink.
+ Perform a cost-benefit analysis comparing the dollar value of the saved shrink against the cost of the additional labor hours.
+ Discontinue the project immediately to save on labor.
+
+
+13.
+After implementing a new CAO training module for supervisors, you notice that while ordering accuracy has improved, the time it takes to complete "daily counts" has doubled. What is the most effective strategy for improvement?
+
+
+
+ Revert to the old training module since it was faster.
+ Conduct a “Time and Motion” study to identify specific bottlenecks in the new process and refine the workflow.
+ Tell the supervisors they must work faster to meet the old-time standards.
+ Accept the slower pace as the necessary cost of accuracy.
+
+
+14.
+A department is experiencing high out-of-stock levels on top-selling items despite the CAO system showing regular orders. During your analysis, you find that the Balance on Hand (BOH) in the system is significantly higher than the physical shelf count. What technical advice do you provide to the Department Manager?
+
+
+ Increase the “Minimum Order Point” for those specific items to force larger orders.
+ Perform an immediate Inventory Audit to reset BOH levels, as the system will not order more if it “thinks” the product is still in stock.
+ Ignore the BOH and manually add cases to the order everyday.
+ Delete the items from the system and re-add them to refresh the data.
+
+
+15.
+You are asked to assist a store with reducing excessive backstock. Upon reviewing the system parameters, you notice that the "Lead Time" is set to 4 days, even through the warehouse delivers daily. What is your technical recommendation?
+
+ Leave the Lead Time as is to ensure a “safety buffer” for emergencies.
+ Adjust the Lead Time parameter to 1 day to synchronize the system’s order cycle with the actual delivery schedule.
+ Turn off the CAO system and switch to manual ordering for one month.
+ Reduce the “Pack Size” for all items in the department.
+
+
+16.
+While providing technical assistance, you notice that a store has a high volume of "CAO Exceptions" (items flagged for review). The staff is simply "clearing" these alerts without investigating. What advice do you give regarding the "Reasonable Cause" of these alerts?
+
+ Clear the alerts faster to improve the time-to-complete” metric.
+ Analyze the underlying data of the alerts to identify control gaps, such as missed deliveries or incorrect unit of measure (UOM) scanning.
+ Only investigate alerts for items that cost more than $10.
+ Disable the alert system to reduce manager workload.
+
+
+17.
+A KPI dashboard shows that "Customer Wait Times" are highest between 2:00 PM and 4:00 PM on weekdays, even though total store sales are lower than the evening rush. What does this data suggest?
+ Customers are just slower shoppers in the afternoon.
+ There is a labor-to-demand mismatch; staff are likely focused on “tasking” (stocking/cleaning) during these hours instead of front-end coverage.
+ The store should close two registers to save on electricity.
+ The KPI is likely incorrect because low sales should mean low wait times.
+
+
+18.
+You need to convince the Director to invest in new handheld scanners for the commissaries. Which structure for your "Business Case" product is most likely to be persuasive?
+
+ A chronological history of every time a scanner has broken in the last year.
+ A list of employee complaints regarding the current equipment.
+ An Executive Summary followed by a ROI (Return on Investment) analysis, comparing the cost of new hardware against the labor hours currently lost to equipment downtime.
+ A 50-page technical manual of the new scanners’ specifications.
+
+
+19.
+When presenting a complicated CAO performance report to store-level employees, how should you adapt the "product" to ensure understanding?
+ Use the exact same technical slides you presented to the IT department.
+ Translate complex system logic into “Actionable Wins” using visual charts to show how accurate scanning directly leads to less time spent in the backroom.
+ Provide them with raw data spreadsheets and ask them to find their own conclusions.
+ Skip the data entirely and just give them new rules to follow.
+
+
+20.
+After a "New Item Launch" project, you realize that 40% of the stores failed to set the display correctly because the instructions were sent via an outdated email list. What is the most effective way to share this "Lesson Learned"?
+
+ Send a frustrated email to the stores that failed.
+ Delete the old email list and assume the problem is solved.
+ Create a “Project Close-out Report” identifying the communication breakdown and propose a centralized digital task-manager for future launches.
+ Tell the leadership that the store managers are not checking their emails.
+
+
+21.
+One store in your zone found a unique way to reduce the time spent on CAO audits by 20%. How do you best share this information with the other assigned stores?
+ Do nothing; let the other stores figure it out on their own.
+ Record a “Best Practice” video or one-page “Spotlight” guide and present it during the next district-wide manager meeting.
+ Tell the other managers they are underperforming compared to the successful store.
+ Move the manager of the successful store to a different location every week.
+
+
+22.
+You are managing a zone-wide rollout of a new CAO update. Three days in, 10% of the stores report a critical syncing error. How do you inform senior leadership?
+
+ Wait until the error is 100% resolved before sending any updates to avoid causing unnecessary panic.
+ Send an “Executive Flash” email outlining the specific scope of the issue, the immediate mitigation steps taken, and the estimated time for a full resolution.
+ Forward every individual error report from the stores directly to the CEO’s inbox.
+ Call a general meeting for all store employees to discuss the system failure.
+
+
+23.
+Corporate has issued a new policy requiring all stores to perform "Live-Load" stocking (stocking directly from the truck to the shelf) instead of using the backroom as a staging area. When briefing your Commissary Officers, what is the most critical "impact analysis" to present?
+
+ A list of the new policy’s page numbers for their records.
+ A comparison of man-hours saved in backroom handling versus the potential congestion of customer aisles during peak hours.
+ A directive to fire any employee who does not follow the new rule immediately.
+ A request for the Commissary Officers to write their own versions of the policy.
+
+
+24.
+During a briefing on a new CAO auditing procedure, several Zone Managers argue that the procedure is too time-consuming and will distract from floor maintenance. How do you persuasively address the impact?
+
+ Acknowledge the time constraint but present data showing that the new procedure will reduce "Ghost Inventory" and prevent future out-of-stocks, ultimately saving time later.
+ Agree with the managers and tell them to ignore the policy if they get too busy.
+ Remind the managers that they are required to follow all corporate policies regardless of the impact.
+ End the briefing and reschedule it for a time when everyone is in a better mood.
+
+
+25.
+When delivering an informal pre-shift briefing to floor associates, what should be the primary objective?
+
+ Reviewing the quarterly financial P&L statement in detail.
+ Aligning the team on immediate daily goals, safety reminders, and “wins.”
+ Distributing 20-page technical manuals for new equipment.
+ Discussing long-term corporate real estate acquisitions.
+
+
+26.
+During a formal briefing, a stakeholder asks a technical question you don't have the immediate data for. What is the most professional response?
+
+ Provide an educated guess to maintain authority.
+ Acknowledge the question, state that you will verify the data, and provide the answer by a specific deadline.
+ Ignore the question and continue with the prepared slides.
+ Ask a subordinate to answer the question on the spot without warning.
+
+
+27.
+What is the "Active Listening" technique most effective for ensuring a team understands a new technical SOP (Standard Operating Procedure) during a briefing?
+ Asking “Does everyone understand?” at the very end.
+ Asking “Check-on-Learning” questions that require the team to explain the process back to you.
+ Reading the SOP aloud three times to ensure it sinks in.
+ Recording the briefing and telling the team to watch it later.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
