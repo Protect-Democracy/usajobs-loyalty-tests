@@ -1,0 +1,215 @@
+Position Title
+IT Specialist (DevSecOps)
+Agency
+Administrative Office of the U.S. Courts
+Announcement Number
+26-CMM-12961290 Opens in new window
+Open Period
+May 15, 2026 to May 22, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+Are you a veteran who separated from active duty under honorable conditions and you: 
+
+• have a rating by the Department of Veterans Affairs showing a compensable service-connected disability of 10% or more OR
+• retired from active military service with a service-connected disability rating of 10% or more (**TP or 5 point veterans please do not answer 'yes' to this question.**)
+
+If eligible, submit a copy of your latest Certificate of Release or Discharge from Active Duty, DD-214 (copy indicating character of service) or other proof of your service which includes character of service. Please also provide the disability letter from the Department of Veterans Affairs or Armed Service and the Application for 10-Point Veteran Preference, Standard Form 15.
+
+For more information, review USAJOBS Veterans resources.
+ Yes
+ No
+
+
+3.
+Are you a current employee of the AO or the Federal Judiciary?
+ Yes
+ No
+
+
+4.
+Are you a current or former Federal employee?
+
+All applicants outside of the AO must submit a copy of your latest Notification of Personnel Action (SF-50) to verify current or former Federal employment status.
+ Yes
+ No
+
+
+Preferences
+1.
+Would you accept a temporary appointment?
+ Yes
+ No
+
+
+Assessment 1
+Thank you for your interest in the Information Technology Specialist (DevSec Ops) position with the Administrative Office of the U.S. Courts. Applicants must have demonstrated experience as listed below. This requirement is according to the AO Classification, Compensation, and Recruitment Systems which include interpretive guidance and reference to the OPM Operating Manual for Qualification Standards for General Schedule Positions.
+
+WHEN MANDATORY NARRATIVE RESPONSES ARE REQUIRED, PLEASE DO NOT DUPLICATE INFORMATION YOU HAVE ALREADY PROVIDED IN YOUR RESUME AS A RESPONSE TO THIS QUESTION. WE ARE SEEKING AN ELABORATION OF THOSE DUTIES AND SKILLS YOU HAVE MENTIONED WHICH ADDRESS THE QUESTION MORE FULLY. THIS IS YOUR OPPORTUNITY TO EXPAND ON YOUR EXPERIENCE AND/OR EDUCATION AS IT RELATES TO THE QUESTION. FAILURE TO DO THIS WILL RESULT IN YOUR BEING CONSIDERED AS INELIGIBLE.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+1.
+Do you have one full year (52 weeks) of specialized experience advancing DevSecOps maturity by implementing automated and manual application security testing, including static application security testing, dynamic application security testing, interactive application security testing, software composition analysis, and container scanning; implementing and enforcing secure coding practices and hardened deployment standards; and continuously monitoring environments for cybersecurity events?
+ Yes
+ No
+
+
+1a.
+If yes, please identify the time frame and employer(s) where we can locate this information. THIS IS A MANDATORY REQUIREMENT. Please limit your response to 250 words or less.
+
+
+2.
+Please describe experience advancing DevSecOps maturity by implementing automated and manual application security testing, including static application security testing, dynamic application security testing, interactive application security testing, software composition analysis, and container scanning; implementing and enforcing secure coding practices and hardened deployment standards; and continuously monitoring environments for cybersecurity events. THIS IS A MANDATORY REQUIREMENT. Please limit your response to 1000 words or less.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+3.
+Do you have one full year (52 weeks) of specialized experience applying deep technical expertise in major cloud platforms, scripting and automation tools such as Python, Bash, or Golang, and cybersecurity frameworks such as NIST, OWASP, and CIS, including hands-on execution of Zero Trust concepts and secure AI practices.
+ Yes
+ No
+
+
+3a.
+If yes, please identify the time frame and employer(s) where we can locate this information. THIS IS A MANDATORY REQUIREMENT. Please limit your response to 250 words or less.
+
+
+4.
+Please describe experience applying deep technical expertise in major cloud platforms, scripting and automation tools such as Python, Bash, or Golang, and cybersecurity frameworks such as NIST, OWASP, and CIS, including hands-on execution of Zero Trust concepts and secure AI practices.  THIS IS A MANDATORY REQUIREMENT. Please limit your response to 1000 words or less.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+5.
+Do you have one full year (52 weeks) of specialized experience leading major information security initiatives by balancing workload across projects and incidents, keeping leadership informed, and facilitating, executing, or directing efforts involving governance, risk, and compliance; security operations center activities; FedRAMP activities; enterprise-level guidance; and adversarial exercises such as blue, red, or purple team activities.
+ Yes
+ No
+
+
+5a.
+If yes, please identify the time frame and employer(s) where we can locate this information. THIS IS A MANDATORY REQUIREMENT. Please limit your response to 250 words or less.
+
+
+6.
+Please describe experience leading major information security initiatives by balancing workload across projects and incidents, keeping leadership informed, and facilitating, executing, or directing efforts involving governance, risk, and compliance; security operations center activities; FedRAMP activities; enterprise-level guidance; and adversarial exercises such as blue, red, or purple team activities.  THIS IS A MANDATORY REQUIREMENT. Please limit your response to 1000 words or less.
+
+
+7.
+Please identify certifications that you hold.
+ A. Certified Cloud Security Professional (CCSP)
+ B. GIAC Cloud Security Automation (GCSA)
+ C. Certified DevSecOps Engineer (ECDE)
+ D. AWS Certified DevOps Engineer – Professional
+ E. None
+
+
+For each item, select the one response that most accurately describes your current level of experience and capability using the scale below.
+
+
+8.
+Which level of description best describes your experience implementing and maintaining CI/CD pipelines with automated security checks, including static application security testing, dynamic application security testing, software composition analysis, and other security validation capabilities?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+9.
+Which level of description best describes your experience developing and maintaining secure infrastructure as code using tools such as Terraform or related automation frameworks to support consistent, secure cloud deployments.
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+10.
+Which level of description best describes your experience configuring, hardening, and managing AWS services and cloud security controls, including identity and access management, network security, encryption, container registries, and Kubernetes environments.
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+11.
+Which level of description best describes your experience supporting secure container operations through the management and hardening of Docker, Kubernetes, and AWS Elastic Kubernetes Service (EKS) environments?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+12.
+Which level of description best describes your experience implementing and maintaining continuous monitoring, logging, audit, and compliance capabilities using cloud-native and related security tools.
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+13.
+Which level of description best describes your experience monitoring, assessing, patching, and remediating security vulnerabilities across applications, infrastructure, and cloud services?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+14.
+Which level of description best describes your experience guiding secure cloud operations and sustainment by identifying and mitigating technical threat vectors, reducing attack surface, and implementing practical remediation strategies?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+15.
+Which level of description best describes your experience advancing DevSecOps maturity through automated and manual application security testing, secure coding practices, hardened deployment standards, and continuous monitoring for cybersecurity events?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+16.
+Which level of description best describes your experience supporting federal information security compliance activities, including vulnerability remediation, security documentation, control assessments, compliance monitoring, and related risk management efforts?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+17.
+I understand that failure to provide a responsive written statement ("See Resume" or other non-descriptive response is not sufficient) for each requested narrative response could result in non-consideration for this position.
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
