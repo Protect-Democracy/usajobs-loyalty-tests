@@ -1,0 +1,356 @@
+Position Title
+IT Specialist (System Analysis & System Administration)
+Agency
+Department of Energy - Agency Wide
+Announcement Number
+26-IG-12956070-DE-DV Opens in new window
+Open Period
+May 15, 2026 to May 19, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+I understand that the responses in this questionnaire must be fully supported in my online resume. I further understand that my resume must provide detailed descriptions and/or examples of my knowledge and competencies as required in the vacancy announcement, and that my failure to do so may result in my being rated "ineligible" or "not qualified" for this position.
+ Yes
+ No
+
+
+2.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+3.
+Are you a U.S. citizen?
+ Yes
+ No
+
+
+4.
+Are you a SURPLUS or DISPLACED federal employee (e.g., Interagency Career Transition Assistance Plan (ICTAP))?
+
+If yes, confirm:
+
+--you are located in the same local commuting area as the vacancy;
+--you are applying to a position that is at or below the grade level of the position from which you were or will be separated;
+--you are applying to a position that does not have greater promotion potential than the position from which you were or will be separated; AND
+--your last performance rating of record is at least fully successful or equivalent.
+
+For more information on eligibility visit:  https://www.usajobs.gov/help/working-in-government/unique-hiring-paths/federal-employees/career-transition/
+
+Check the REQUIRED DOCUMENTS section in the job announcement for instructions to support your eligibility to apply for this vacancy.
+ Yes
+ No
+
+
+5.
+This position requires the incumbent to submit a Confidential Financial Disclosure Report, OGE-450 upon entering the position and annually (5CFR Part 2634, Subpart I USOGE, 6/08). Are you willing to comply with this requirement?
+ Yes
+ No (Failure to accept the Condition of Employment will make you ineligible for consideration.)
+
+
+6.
+This position requires the incumbent to obtain and maintain a Critical Sensitive Q Security Clearance (Top Secret equivalent). Failure to obtain and maintain the required level of security clearance will result in the withdrawal of the job offer or removal. (Select the appropriate response below.)
+ Yes, I understand this position requires the incumbent to obtain and maintain a Critical Sensitive Q Security Clearance.
+ No, I do not accept the security clearance level requirement and I do not want to receive further consideration. (Failure to accept the Condition of Employment will make you ineligible for consideration).
+
+
+7.
+
+This position is a Drug Testing Designated position and is subject to pre-employment and random drug testing. (Select the appropriate response below.)
+
+ Yes, I understand this position is subject to pre-employment and random drug testing.
+ No, I do not accept the drug testing requirement and I do not want to receive further consideration. (Failure to accept the Condition of Employment will make you ineligible for consideration).
+
+
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+
+
+8.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+
+
+9.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+
+
+10.
+How would you help advance the President's Executive Orders and policy priorities in this role? Identify one or two relevant Executive Orders or policy initiatives that are significant to you, and explain how you would help implement them if hired.
+
+
+11.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+
+
+12.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+
+
+Preferences
+1.
+Select the location(s) you want to be considered for. You must choose at least one location.
+ A. Albuquerque, NM
+ B. Oak Ridge, TN
+
+
+2.
+Do any of your relatives work for the agency to which you are applying? If so, please list any applicable names below. Please enter N/A in the text box, if not Applicable. (Include: father, mother, husband, wife, son, daughter, brother, sister, uncle, aunt, first cousin, nephew, niece, father-in-law, mother-in-law, daughter-in-law, son-in-law, brother-in-law, sister-in-law, stepfather, stepmother, stepson, stepdaughter, stepbrother, stepsister, half brother, and half sister).
+
+
+3.
+The Office of Personnel Management (OPM) must authorize employment offers made to current or former political appointees. If you are currently employed, or have been employed within the last 5 years, in any one of the categories below, you must disclose this information. Failure to disclose this information could result in disciplinary action including removal from Federal Service.
+
+Are you a current or former political appointee as described under 5 U.S.C. sections 5312 through 5316?
+OR
+Are you a current or former Schedule A or Schedule C political appointee, or an appointee who serves/served in a political capacity under agency-specific authority in the Executive Branch?
+OR
+Are you a current or former political appointee or non-career SES Executive Branch employee?
+ Yes
+ No
+
+
+4.
+Reasonable Accommodations for completing the online assessments or interview process are provided on a case-by-case basis only to qualified individuals with a disability covered by the Rehabilitation Act of 1973, as amended.
+
+Do you have a disability (physical or mental) that you believe will interfere with completing the online assessments or interview process and require a Reasonable Accommodation?
+
+ Yes
+ No
+
+
+Assessment 1
+Thank you for your interest in the Office of Inspector General, Department of Energy. The IT Specialist (Sysanalysis/Sysadmin), GS-2210-14, position is located in Albuquerque, NM and Oak Ridge, TN. We will evaluate your resume and your responses to this Assessment Questionnaire to determine if you are among the best qualified for this position. Your responses are subject to verification and must be supported by your resume and supporting documents.
+
+
+1.
+
+For all GS-5 through GS-15 IT positions, individuals must have IT-related experience demonstrating each of the four competencies listed below. (This experience must be demonstrated in your resume).
+
+Attention to Detail: Is thorough when performing work and conscientious about attending to detail.
+Customer Service: Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services.
+Oral Communication: Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately.
+Problem Solving: Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.
+
+Select the statement that best describes your experience:
+
+ I have IT-related experience demonstrating all four of the foundational competencies listed above. (This experience is documented in my resume).
+ I do not have IT-related experience demonstrating all four of the foundational competencies listed above.
+
+
+2.
+
+To qualify for the GS-14 grade level, you must have one year of specialized experience equivalent to the GS-13 level in the Federal service. Specialized experience for this position is defined as experience that demonstrates ALL of the following.
+ 
+
+Administering complex IT systems, including managing system resources, performing server maintenance, and coordinating hardware or software modifications.
+Participating in or leading IT projects, including developing project plans, tracking deliverables, and coordinating with stakeholders to meet project goals. 
+Securing IT systems by implementing security frameworks and controls (such as the National Institute of Standards and Technology - NIST), participating in the Authorization and Assessment (A&A) process, and monitoring systems for vulnerabilities. 
+Providing technical advice and detailed recommendations to management or senior specialists on complex IT issues and system improvements.
+
+Please note: To be found qualified for this position, you must meet ALL the specialized experience requirements listed above. Your resume must contain specific, detailed examples that support your claim of experience, as we cannot make assumptions about your duties.
+
+Select the one statement below that best describes your experience:
+ I have at least one year of specialized experience at the GS-13 equivalent level that demonstrates ALL FOUR of the requirements described above.
+ I do not meet all four of the specialized experience requirements described above.
+
+
+3.
+The agency utilizes a commercial off-the-shelf audit management system which is installed on-premise. Over the past three weeks, you notice the audit management system database query response times have gradually increased from an average of 2 seconds to 7 seconds. System logs show no errors, and database diagnostics report normal CPU and memory utilization. Users haven't complained, but you observe the degradation trend continuing. The system supports 45 active audits with daily user activity. What should you do FIRST?
+ Wait for users to report performance issues before taking action, since the system remains functional.
+ Schedule emergency maintenance to rebuild database indexes and restore performance to normal levels.
+ Analyze monitoring data to identify the root cause of the gradual performance degradation.
+ Escalate the performance issue to the audit management system vendor, requesting their technical assistance.
+
+
+4.
+A critical security vulnerability (NIST severity: High) has been identified in the investigative case management system. The vendor has released a patch that requires taking the system offline for approximately 4 hours. The vulnerability could allow unauthorized access to case data if exploited. Currently, 12 active investigations are underway, and investigators access the system daily to document interviews and evidence. Security policy requires the patch to be applied within 7 days. How should you proceed?
+
+ Apply the patch during the next business day to ensure timely compliance with security requirements.
+ Schedule the maintenance for overnight hours when investigators are unlikely to be working.
+ Coordinate with investigators to identify a maintenance window that minimizes impact on active cases.
+ Request a temporary waiver from the security requirement until active investigations are completed.
+
+
+5.
+Field auditors in three different locations (Denver, Albuquerque, Las Vegas) report intermittent connection failures to the commercial off-the-shelf audit management system which is installed on-premise. The failures occur unpredictably but most frequently between 2:00-4:00 PM Eastern time. Local IT support has verified network connectivity with no issues found. System logs show successful user authentication followed by unexpected session terminations approximately 8-12 minutes later. Database and application servers show normal resource utilization. No recent system changes have been deployed. What is your next diagnostic step?
+
+ Immediately restart the application server to clear potential memory or session management issues.
+ Analyze the pattern by correlating the timeframe and session duration with system timeout configurations.
+ Contact the audit management system vendor’s technical support team to escalate the intermittent connection issue.
+ Increase server resources to address potential constraints not visible in average utilization metrics.
+
+
+6.
+The Office of Inspector General (OIG) manages its external website's content management system. A critical security vulnerability was identified during Thursday's midday scan that must be patched within 72 hours per federal security policy. Applying the patch requires taking the website offline for approximately 90 minutes. The website provides public access to published audit reports, OIG hotline contact information and required transparency disclosures. Website analytics show peak traffic occurs weekdays between 9:00 AM - 3:00 PM Eastern, with approximately 2,000 daily visitors. How should you proceed?
+ Apply the patch on Sunday at 2:00 AM Eastern when traffic is at its lowest.
+ Apply the patch during the current evening to minimize disruption while meeting the deadline.
+ Apply the patch immediately to ensure compliance with the 72-hour security requirement.
+ Coordinate with Department of Energy Office of the Chief Information Officer (OCIO) to apply the patch during their scheduled maintenance window.
+
+
+7.
+The agency utilizes a commercial off-the-shelf investigative case management system which is installed on-premise. You notice that the system's backup jobs have been taking progressively longer to complete over the past month. Current backup windows are 6 hours compared to the normal 3-hour duration. All backups are completing successfully with no errors reported. The system is performing normally during business hours, and users report no issues. Storage capacity is at 65% utilization, well below the 80% threshold. What should you do?
+ Continue monitoring backup duration trends since all backups complete successfully within the maintenance window.
+ Investigate the root cause of increasing backup duration through systematic analysis of logs and metrics.
+ Expand storage capacity and backup infrastructure immediately to address the increasing backup duration.
+ Request the system’s vendor investigate potential infrastructure issues affecting backup performance.
+
+
+8.
+The Office of Inspector General (OIG) external website becomes intermittently unresponsive during business hours. Some users can access the site normally while others receive timeout errors. The issue resolves itself after 10-15 minutes but recurs multiple times per day. Web server logs show normal traffic patterns with no error messages. The content management system and database are functioning properly. The hosting infrastructure is shared with other Department of Energy (DOE) components through Department of Energy Office of the Chief Information Officer (OCIO). Network monitoring shows no bandwidth constraints. What is your next diagnostic step?
+ Restart the web server immediately to clear potential connection issues.
+ Request upgraded hosting resources from DOE OCIO to address apparent load-related performance issues.
+ Contact DOE OCIO to report the issue and request investigation of the shared hosting infrastructure.
+ Analyze which users experience timeouts by examining geographic locations, network paths, and timing patterns.
+
+
+9.
+During a security controls assessment, auditors identify that configuration change documentation for the audit management system is incomplete and inconsistent. Some changes are documented in email, others in ticket systems, and several emergency patches have minimal documentation. The system is functioning properly and meets all other security requirements. The auditors recommend implementing better configuration change management practices to ensure complete and consistent documentation going forward. What should you implement FIRST?
+
+ A centralized ticket system to consolidate all future configuration change requests and approvals.
+ Automated change tracking software that integrates with the existing system monitoring tools.
+ Formal configuration baseline documentation standards with defined processes for tracking all changes.
+ Monthly configuration audits and review meetings to verify all changes are properly documented.
+
+
+10.
+The audit management system's database storage utilization has reached 70% capacity. Current growth trends indicate it will reach the 80% warning threshold in approximately 3 months and the 90% critical threshold in 6 months. The system supports 50+ active audits generating approximately 15 GB of new data monthly. Adding storage requires coordination with DOE OCIO and typically takes 4-6 weeks to implement. System performance is currently normal. What is the most effective response?
+
+ Wait until storage reaches the 80% warning threshold before requesting additional capacity.
+ Submit an emergency storage expansion request to DOE OCIO to prevent potential capacity issues.
+ Initiate a planned storage expansion request now to allow adequate time for implementation.
+ Archive older audit data to reduce current utilization and postpone infrastructure expansion.
+
+
+11.
+A major upgrade to the audit management system is planned to add new analytical capabilities requested by the Office of Audits. The upgrade requires 8 hours of system downtime and involves database schema changes that cannot be easily reversed. The vendor recommends scheduling during a weekend. Currently, 30 active audits are underway, with field auditors working across multiple time zones. The upgrade has been tested in a development environment successfully. What is the best implementation strategy?
+ Schedule the upgrade for the upcoming Saturday, notifying all users one week in advance.
+ Coordinate with audit leadership to identify the least disruptive weekend based on audit schedules.
+ Delay the upgrade until the current audit cycle completes in approximately 3 months.
+ Implement the upgrade during weekday evening hours to minimize weekend work requirements.
+
+
+12.
+Automated monitoring alerts show that the investigative case management system's transaction log file has grown to 85% of its allocated space over the past 48 hours, significantly faster than the normal growth rate of 5-10% per week. The system is performing normally, and investigators report no issues. Transaction log backups are running on schedule every 4 hours as configured. Database diagnostics show no errors. This rapid growth started suddenly with no corresponding increase in user activity or system usage. What should you do FIRST?
+ Investigate the root cause by examining recent transactions and checking for long-running queries.
+ Increase the transaction log file size allocation to prevent the log from filling completely.
+ Run an immediate transaction log backup to free up space within the current allocation.
+ Restart the database service during the next maintenance window to clear potential issues.
+
+
+13.
+The Office of Investigations requests a mobile application to allow investigators to access case files and document evidence while in the field. Initial estimates indicate custom mobile app development would cost $400K and take 12 months. The current web-based system is accessible via mobile browsers but has limited offline functionality. Investigators work in locations with intermittent connectivity. Annual budget for IT projects is $300K. How should you proceed?
+ Review alternative options such as enhanced mobile web design and commercial mobile solutions.
+ Recommend deferring the mobile app until sufficient budget is available to develop it properly.
+ Propose reducing scope to essential features only to fit within the $300K budget constraint.
+ Contact Department of Energy Office of the Chief Information Officer (OCIO) to check whether an existing enterprise mobile solution is available.
+
+
+14.
+You are gathering requirements for a new OIG-wide reporting system. The Office of Audits wants customizable templates for different audit types with complex formatting options. The Office of Investigations wants simple, standardized reports that can be generated quickly. Your team, IT operations, wants minimal customization to reduce maintenance complexity. All three groups insist their requirements are "mission-critical." Budget allows for moderate customization. How do you proceed?
+ Prioritize the Office of Audits requirements to ensure their customization needs are fully addressed.
+ Negotiate with stakeholders to identify acceptable trade-offs within budget constraints.
+ Implement a phased approach addressing the highest-priority requirements first, then adding enhancements later.
+ Design a solution with maximum flexibility to satisfy all stakeholder requests regardless of costs and maintenance complexity.
+
+
+15.
+The Office of Audits requests an automated data analytics tool to identify anomalies in financial transactions across Department programs. Commercial solutions range from $50K basic packages to $500K enterprise platforms. Some commercial tools require extensive customization; others work out-of-the-box but with limited flexibility. You have a $200K budget. What is the most effective approach?
+ Purchase the $200K mid-range solution since it fits the budget and avoids extremes.
+ Recommend the basic $50K package, allocating remaining budget to customization as needed.
+ Compare audit needs against commercial tool capabilities at different price points.
+ Request demonstrations from vendors in the $150K-$250K range so the auditors can select their preference.
+
+
+16.
+You are developing a Performance Work Statement (PWS) for a new investigative case management system. Investigators have identified 42 capabilities ranging from essential case tracking to advanced analytical tools. Initial cost estimates indicate the full capability set would exceed budget by 60%. What is the most effective approach?
+ Classify capabilities mentioned most frequently by investigators as minimum requirements and the rest as desired capabilities.
+ Work with investigators to systematically categorize the capabilities as minimum requirements or desired capabilities based on mission criticality and operational efficiency.
+ Reduce the minimum requirements set to fit within budget and move all other features to desired capabilities.
+ Present all capabilities as minimum requirements to ensure vendors propose comprehensive solutions.
+
+
+17.
+The agency wants to procure and implement a new commercial off-the-shelf performance management system. The performance management system must integrate with the existing audit management system that was implemented 12 years ago. Documentation for the audit management system is incomplete, and the vendor is no longer providing development support for the product. The performance management system needs to extract audit milestone data, audit attributes, and resource utilization information. Senior agency leaders want the integration to be "seamless" but cannot specify technical details. What is the most effective approach?
+ Require proposed performance management system vendors to propose integration approaches based on their experience with similar legacy systems.
+ Hire the new performance management system vendor to conduct a technical assessment of the legacy system first.
+ Recommend replacing the legacy audit system entirely to enable modern integration capabilities.
+ Define integration requirements based on the data elements the performance management system needs.
+
+
+18.
+A proposed integration between the audit management system and DOE's enterprise document repository would allow auditors to access Department records directly during audits. However, the two systems use incompatible authentication methods, different data security classifications, and operate on separate networks. Department of Energy's Office of the Chief Information Officer (OCIO) has strict policies about cross-network data access. The integration would significantly improve audit efficiency. What is the most effective approach?
+ Recommend proceeding with the integration using a phased implementation approach to address technical challenges.
+ Propose a manual workaround where auditors request documents through DOE OCIO rather than direct integration.
+ Coordinate with DOE OCIO to analyze the technical and policy requirements for the integration.
+ Request that DOE OCIO modify their policies to allow the integration given its mission value.
+
+
+19.
+You are leading the implementation of a new audit report workflow. Two weeks before the planned go-live date, the vendor informs you they discovered an integration issue with the existing document repository. Fixing it requires an additional month of development work and will delay the launch. Audit report issuance timelines are based on the new system being available on the planned date, and leadership has communicated their timelines to stakeholders. What is the most effective response?
+
+ Notify leadership immediately about the delay and its impact on the audit report issuance timelines.
+ Work with the vendor to find a faster workaround solution that meets the original deadline.
+ Proceed with the launch as planned, addressing the integration issue in a follow-up release.
+ Request additional budget to bring in extra vendor resources to meet the original timeline.
+
+
+20.
+Three weeks into a four-month audit system implementation project, a key stakeholder requests adding a new reporting feature that wasn't in the original scope. They explain it's essential for their work and estimate it should be "quick to add." The vendor confirms they can build it, but it will require three additional weeks and cost $25K more. The project is currently on schedule and within budget. What is the most effective response?
+ Evaluate the request's impact on project timeline and budget before providing a recommendation to the project sponsor.
+ Add the feature since the project has budget available and the stakeholder identifies it as essential.
+ Defer the request to a post-implementation enhancement phase to protect the current timeline.
+ Negotiate with the vendor to reduce the cost and timeline impact before making a decision.
+
+
+21.
+A new investigative case management system is scheduled to launch in 30 days. Training sessions have been offered multiple times, but only 40% of investigators have attended. Several field investigators have expressed concerns about learning a new system during their busy season. Your project plan anticipated 75% of investigators using the system regularly within six months of launch. What is the most effective response?
+ Proceed with the launch as scheduled and provide additional support to users who need help.
+ Delay the launch until training attendance improves and users feel more prepared.
+ Offer additional training sessions prior to the scheduled launch with mandatory attendance directed by leadership.
+ Reduce the usage target from 75% to 40% to align with current training participation levels.
+
+
+22.
+You receive three support requests simultaneously at 1:00 PM on a Tuesday. You are the only IT support staff available. Request 1: An executive needs access to the audit system for a high-priority external briefing at 3:00 PM but has forgotten their password. Request 2: The Denver field office (15 Office of Inspector General employees) reports their shared email distribution list has stopped working. Request 3: An investigator in Idaho Falls cannot access a specific case file needed to complete an interview scheduled for tomorrow morning. What do you address FIRST?
+ The executive's password reset since it's needed within two hours for a high-visibility briefing.
+ The Denver field office distribution list issue since it affects the largest number of users.
+ The investigator's case file access since it impacts an active investigation with a scheduled deadline.
+ Triage all three by first calling each requester to assess actual urgency before prioritizing.
+
+
+23.
+Over the past two weeks, five different users have reported difficulty resetting their passwords for the investigative case management system. The current process requires users to call your team, verify their identity, and wait while your team manually resets the password. Each request takes approximately 15-20 minutes to complete. The password reset process meets security requirements but creates delays for users and consumes significant IT support time. What is the most effective response?
+ Continue the current process since it meets security requirements and handles the volume adequately.
+ Recommend implementing a self-service password reset system that maintains security while reducing support burden.
+ Document the password reset procedures more clearly to help users avoid needing resets.
+ Coordinate with Department of Energy Office of the Chief Information Officer (OCIO) to determine if enterprise identity management provides password reset capabilities.
+
+
+24.
+A National Institute of Standards and Technology (NIST) security control requires implementing multi-factor authentication (MFA) for all access to the investigative case management system. However, several field investigators work in remote locations with unreliable cell phone service, which is needed for the MFA system to send verification codes. These investigators need daily access to the investigative case management system to document interviews and evidence. The security requirement must be implemented within 60 days. What is the most effective response?
+ Implement multi-factor authentication (MFA) for all users, assuming backup authentication methods are available in areas without cell service.
+ Request a waiver from the security requirement for field investigators due to connectivity limitations.
+ Conduct research to identify approved alternative MFA methods that work in low-connectivity environments.
+ Delay multi-factor authentication (MFA) implementation until reliable connectivity is available in all field locations.
+
+
+25.
+A contractor working on a 3-month audit project requests access to the audit document repository. Their supervisor confirms they need access to specific audit files but not to the entire repository. The contractor has a valid Department of Energy (DOE) security clearance and has completed all required training. What is the most effective response?
+ Grant access to the entire repository since the contractor has appropriate clearance and training.
+ Configure access limited to only the specific audit files identified by the supervisor.
+ Refer the request to the supervisor to determine the appropriate level of access.
+ Direct the supervisor to provide the needed documents to the contractor directly.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
