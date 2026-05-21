@@ -1,0 +1,153 @@
+Position Title
+Team Lead/Senior Network Engineer
+Agency
+Railroad Retirement Board
+Announcement Number
+260003-12958719-YA Opens in new window
+Open Period
+May 21, 2026 to Jun 04, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+Are you a current RRB employee who meets the definition of "displaced" or "surplus" and have received official notice that your job is no longer needed or that you will lose your job by Reduction-in-Force (RIF)? If yes, confirm:
+you are located in the same local commuting area of the vacancy; AND,
+you are applying to a position that is at or below the grade level of the position from which you were or will be separated; AND,
+you are applying to a position that does not have greater promotion potential than the position from which you were or will be separated; AND,
+your last performance rating of record is at least fully successful or the equivalent.
+For more information, review the USAJOBS Help Center.
+
+To verify your eligibility, you must submit supporting documentation such as a Reduction in Force (RIF) separation notice or a Proposed Removal/Separation notice to include your latest performance rating (if the notice does not have this information included, you must submit a copy of your most recent performance appraisal) and a copy of your latest Notification of Personnel Action, Standard Form 50.
+
+ Yes
+ No
+
+
+3.
+Are you a current or former federal employee displaced from a position in a federal agency other than the agency hiring for this position?
+If yes, confirm:
+you are located in the same local commuting area of the vacancy; AND,
+you are applying to a position that is at or below the grade level of the position from which you were or will be separated; AND,
+you are applying to a position that does not have greater promotion potential than the position from which you were or will be separated; AND,
+your last performance rating of record is at least fully successful or the equivalent.
+For more information, review the USAJOBS Help Center.
+
+To verify your eligibility, you must submit supporting documentation such as a Reduction in Force (RIF) separation notice to include your latest performance rating (if the notice does not have this information included, you must submit a copy of your most recent performance appraisal) and a copy of your latest Notification of Personnel Action, Standard Form 50.
+ Yes
+ No
+
+
+4.
+Reasonable Accommodations for taking the online assessments are provided on a case-by-case basis only to qualified individuals with a disability covered by the Rehabilitation Act of 1973, as amended.
+
+Do you have a disability (physical or mental) that you believe will interfere with completing the online assessments and require a Reasonable Accommodation?
+
+ Yes
+ No
+
+
+Preferences
+1.
+Select the location(s) you want to be considered for. You must choose at least one location.
+ A. Birmingham, AL
+ AB. Mesa, AZ
+ AE. Little Rock, AR
+ AF. Covina, CA
+ AG. Oakland, CA
+ AH. Roseville, CA
+ AI. Denver, CO
+ AJ. Washington, DC
+ AK. Jacksonville, FL
+ AL. Tampa, FL
+ AM. Atlanta, GA
+ AN. Chicago, IL
+ AO. Decatur, IL
+ AP. Joliet, IL
+ AQ. Indianapolis, IN
+ AR. Des Moines, IA
+ AS. Kansas City, KS
+ AT. Wichita, KS
+ AU. Louisville, KY
+ AV. New Orleans, LA
+ AW. Baltimore, MD
+ AX. Boston, MA
+ AY. Detroit, MI
+ AZ. Duluth, MN
+ BA. Saint Paul, MN
+ BB. Saint Louis, MO
+ B. Billings, MT
+ C. Omaha, NE
+ D. Newark, NJ
+ E. Albuquerque, NM
+ F. Albany, NY
+ G. Buffalo, NY
+ H. Central Islip, NY
+ I. New York, NY
+ J. Charlotte, NC
+ K. Fargo, ND
+ L. Cincinnati, OH
+ M. Cleveland, OH
+ N. Portland, OR
+ O. Altoona, PA
+ P. Harrisburg, PA
+ Q. Philadelphia, PA
+ R. Pittsburgh, PA
+ S. Scranton, PA
+ T. Nashville, TN
+ U. Fort Worth, TX
+ V. Houston, TX
+ W. Salt Lake City, UT
+ X. Richmond, VA
+ Y. Roanoke, VA
+ Z. Seattle, WA
+ AA. Spokane, WA
+ AC. Huntington, WV
+ AD. Milwaukee, WI
+
+
+Assessment 1
+1.
+Do you possess IT-related experience demonstrating each of the four (4) competencies listed below (your resume must demonstrate this experience)?
+Attention to Detail - Is thorough when performing work and conscientious about attending to detail.
+Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services.
+Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately.
+Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.
+ Yes
+ No
+
+
+2.
+From the descriptions below, select the one response (A or B) that most closely and accurately describes your experience and demonstrates your ability to perform Team Lead/Senior Network Engineering work at the GS-13 level.
+ I have one year (52 weeks) of specialized experience equivalent to the GS-12 level or higher in the Federal service. Specialized experience is defined as experience that is typically in or related to the work of the position to be filled and has equipped you with the particular knowledge, skills, and abilities to perform successfully the duties of the position. Specialized Experience is experience that has equipped you with the particular knowledge, skills, and abilities/competencies to perform successfully the duties of the position and is typically in or related to the work of the position to be filled. Specialized experience is defined as demonstrated experience: 1) Serving as a "hands-on" technical lead supporting production IT systems by planning, installing, troubleshooting, and enhancing enterprise Local Area Network (LAN), Wide Area Network (WAN), Wireless Local Area Network (WLAN), and data and telecommunications networks to maintain reliable and efficient operations. 2) Planning, configuring, and troubleshooting Cisco-based network solutions by supporting core and distribution switches, routers, and firewalls/Firepower and assisting with Internet Protocol Security (IPSec) for Virtual Private Network (VPN), Multiprotocol Label Switching (MPLS), Virtual LANs (VLANs), Software-Defined Wide Area Network (SD-WAN), and routing protocols such as Border Gateway Protocol (BGP) and Enhanced Interior Gateway Routing Protocol (EIGRP) to ensure secure, stable, and efficient enterprise connectivity. 3) Resolving issues across Unified Communications, Voice over Internet Protocol (VoIP) technologies, and wireless systems by troubleshooting performance problems, supporting diagnostics, and helping sustain secure and stable communication services. 4) Supporting daily network and telecommunications operations by diagnosing and resolving service disruptions involving firewalls, VPNs, switches, routers, MPLS, VLANs, SD-WAN, VoIP, Unified Communications, and wireless infrastructure to maintain consistent availability of enterprise network and telecommunications services. 5) Resolving hardware and software failures or network outages, analyzing network disruptions using monitoring and packet-level diagnostic tools, and restoring services within Service Level Agreement response and resolution requirements. 6) Providing technical guidance on projects by supporting connectivity planning, documenting network requirements, coordinating with vendors, and ensuring network enhancements incorporate required security and privacy measures.
+ I do not have the specialized experience requirement as described in "A" above
+
+
+3.
+Possession of Cisco Certifications in one or more of the following is preferred, but not required. Please select (if any) of the below certifications that you currently possess. If you possess any of the certifications, please attach a copy with your resume and or/supporting documents.
+
+
+ Cisco Certified Network Associate (CCNA)
+ Cisco Certified Network Professional (CCNP) Enterprise
+ I do not possess any of the Cisco certifications as described above.
+
+
+4.
+I certify that, to the best of my knowledge and belief, all of the information included in this questionnaire is true, correct, and provided in good faith. I understand that if I make an intentional false statement, or commit deception or fraud in this application and its supporting materials, or in any document or interview associated with the examination process, I may be fined or imprisoned (18 U.S.C. 1001): my eligibilities may be cancelled, I may be denied an appointment, or I may be removed and debarred from Federal service (5 C.F.R. part 731). I understand that any information I give may be investigated. I understand that responding "No" to this item will result in my not being considered for this position.
+ Yes, I certify that the information provided in this questionnaire is true, correct and provided in good faith, and I understand the information provided above.
+ No, I do not certify/understand the information provided above.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
