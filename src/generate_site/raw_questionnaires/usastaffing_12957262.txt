@@ -1,0 +1,116 @@
+Position Title
+General Engineer, AST - Payload Processing Operations (Direct Hire)
+Agency
+John F. Kennedy Space Center
+Announcement Number
+KSC-26-DE-12957262-KVF Opens in new window
+Open Period
+May 21, 2026 to May 27, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+Are you a current or former federal employee displaced from NASA or any other federal agency?
+
+If yes, confirm:
+you are located in the same local commuting area of the vacancy; AND
+you are applying to a position that is at or below the grade level of the position from which you were or will be separated; AND
+you are applying to a position that does not have greater promotion potential than the position from which you were or will be separated; AND
+your last performance rating of record is at least fully successful or the equivalent.
+For more information on qualifying conditions for ICTAP or CTAP you may go to:The Employee's Guide to Career Transition (opm.gov)
+
+If you answer yes to this question, you must submit the following supporting documentation:
+a Reduction in Force (RIF) separation notice or a Proposed Removal/Separation notice to include your most recent performance rating (if the notice does not have this information included, you must submit your most recent performance appraisal), AND
+your most recent Notification of Personnel Action, Standard Form 50.
+ Yes
+ No
+
+
+Federal Employment Information
+1.
+
+In the last five years, based on the closing date of this announcement, have you served or are you currently serving as an Executive Branch political, Schedule C, or Non-career SES appointee? You can find out if you have held one of these appointment types by looking at your Standard Form 50s in your Electronic Official Personnel Folder (eOPF), in Section 5 where the legal authorities are listed.
+
+This means you are currently serving or have served in a political appointment requiring Senate confirmation (PAS) or not requiring Senate confirmation (PA); noncareer Senior Executive Service; political appointees under the Executive Schedule; Political Schedule A; Schedule C appointments; or other political appointments based on agency authority.
+
+The Office of Personnel management (OPM) must authorize employment offers made to current or former political appointees. If you are currently, or have been within the last 5 years, a political Schedule A, Schedule C, Non-career SES or Presidential Appointee employee in the Executive Branch, you must disclose this information to the Human Resources Office.
+ Yes
+ No
+
+
+2.
+In the last five years, based on the closing date of this announcement, have you received a federal Voluntary Separation Incentive Payment (VSIP)?
+(If you have not been employed by the federal government within the past 5 years, select "No.")
+
+If you previously received a VSIP and are unsure of the exact date, please refer to your SF-50 Notification of Personnel Action for your separation.
+
+Block 6-A should display 825
+Block 6-B should read Separation Incentive
+Block 4 will display the effective date of the VSIP
+ Yes
+ No
+
+
+Merit Hiring Plan Short Essays
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+
+
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+
+
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+
+
+3.
+How would you help advance the President's Executive Orders and policy priorities in this role? Identify one or two relevant Executive Orders or policy initiatives that are significant to you, and explain how you would help implement them if hired.
+
+
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+
+
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+
+
+Assessment 1
+Instructions
+In this questionnaire, please select the statement for each item that best describes your qualifications for the position. Please ensure the information in your resume matches your responses to the questions. Your application materials, including transcripts, must support your responses to this questionnaire.
+
+
+1.
+Please select the statement below that best describes how you meet the Basic Education Requirements for this position as described in the "Education" section of the announcement.
+
+Note: Degrees in Engineering Technology do NOT meet this requirement.
+ I have completed a bachelor's or graduate degree with a major in engineering from a college or university that has at least one ABET accredited engineering program.
+ I have completed a bachelor's or graduate degree in an accredited college or university with a major in life science, mathematics, physical science, or other fields of science.
+ I have completed a bachelor's degree in an accredited college or university with a major in computer science that included 30 semester hours or 45 quarter hours of course work in any combination of mathematics, statistics, and computer science, AND that provided (1) at least 15 semester hours or 22.5 quarter hours in mathematics and statistics courses that included differential and integral calculus, and (2) in-depth knowledge of theoretical and practical applications of computer science, including digital computer system architecture and system software organization, the representation and transformation of information structures, and the theoretical models for such representations and transformations.
+ I have completed a bachelor’s or graduate degree in an accredited college or university with a major in social science, medical, or other fields directly related to the duties of the position.
+ I do not have the education described above.
+ I have completed a graduate degree in an accredited college or university with a major in computer science.
+
+
+2.
+Please select the statement below that best describes how your experience meets the requirements for this position at the GS-14 level as described in the "Qualifications" section of the announcement.
+ I have 1 year of directly related specialized experience equivalent to at least the GS-13 level in the Federal service that included: Providing insight and/or oversight of spaceflight hardware assembly processes, documentation, and schedules to ensure as-built spacecraft meets design and performance meets plan; Performing independent risk assessments and develop performance metrics to evaluate spaceflight hardware assembly sequences, schedules and to influence process improvements for spacecraft producibility; Coordinating and collaborating on spacecraft production performance, challenges, and improvements with program management and various stakeholders.
+ I do not have the experience described above.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
