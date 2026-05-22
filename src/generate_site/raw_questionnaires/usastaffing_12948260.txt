@@ -1,0 +1,91 @@
+Position Title
+TITLE 32 ELECTRONIC MEASUREMENT EQUIPMENT MECHANIC WG-2602-11
+Agency
+Army National Guard Units
+Announcement Number
+WV-12948260-AR-26-065 Opens in new window
+Open Period
+May 21, 2026 to Jun 21, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+All on-board federal employees/technicians within the state for which you are applying (Title 32 and Title 5, Permanent and Excepted Indefinite).  Are you a current on-board federal employee or technician within the state for which this position is being advertised?
+
+To verify your eligibility, you must submit a copy of your most recent Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Tenure in Block 24 (1, 2,or 3).
+ Yes
+ No
+
+
+2.
+Current Army M-Day and current Air DSG members within the state for which you are applying.  Are you a current Army M-Day or current Air DSG member within the state for which this position is being advertised?
+ Yes
+ No
+
+
+3.
+Are you a current Permanent full-time Dual Status National Guard Technician within the state for which this position is being advertised?
+
+To verify your eligibility, you must submit a copy of your Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Permanent full-time status with the state National Guard.
+ Yes
+ No
+
+
+Assessment 1
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+
+
+1.
+Can you calibrate and repair TMDE within support capability and authority including various levels of calibration as designated in technical bulletins, manuals, etc; performs functional electronic, physical, and radioactive testing involving interpretation and analysis of measurement data, in accordance with cyclic inspection requirements; aligns, troubleshoots, tests, inspects, repairs, modifies, calibrates and certifies precision measurement equipment such as multimeters, microwave equipment, oscilloscopes, temperature analyzers, mercurial barometers, gage blocks and micrometer caliper dimensional equipment, digital voltmeters, signal generators, torque wrenches, pressure gauges, torque testers, weight scales, electronic counters, radiation monitors, radix calibrators, and radiation dosimeters; analyzes and isolates component malfunctions; calculates and determines tolerances; and performs tests and calibrations in accordance with instructions, which are often vague and incomplete, and may require the preparation of diagrams and instructions to facilitate the calibration action?
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+2.
+Are you able to set up system test sets and various types of test equipment such as frequency meters, standing wave ratio meters, radio frequency (RF) power meters, function/ arbitrary waveform generator, distortion analyzers, time frequency work stations, oscillators, voltmeters, electronic counters, oscilloscopes, attenuators, decade resistors and capacitors, signal generators, stroboscope, tachometers, pneumatic and hydraulic pressure standards and other physical and electronic tests; diagnose equipment, makes repairs, and replaces defective parts/components such as integrated circuits, printed circuit boards, electronic condition coils, radiation detector boards/circuits, crystals, transistors, tubes, transformers, condensers, diodes, relays potentiometers, and related components?
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+3.
+Are you able to tests by applying signals in known amplitude and wave shape into oscilloscopes to observe wave pattern; isolate faults by taking measurements and comparisons in voltage, amperage, ohms, henries, power factor, watts, temperature, humidity, microns, foot-pounds, decibels, sensitivity, noise, stability, Voltage Standard Wave Ratio (VSWR), impedance, phase, absolute pressure, time intervals, displacement, flow rate, etc., to determine performance of equipment; trace it through electronic stages to locate malfunctioning part; check sweep rate by feeding known signal to an oscilloscope and observing wave pattern to correct shape and size; operate equipment to complete range checking for proper operation of positioning controls; adjust with trimmer potentiometers; and if calibration is still not possible, adds or removes sufficient resistance to permit balancing of circuit; contact the using organization to obtain information concerning the nature of the malfunction; use equipment schematics to analyze circuits by preparing block diagram showing major components such as amplifiers, filters, oscillators and indicators?
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+4.
+Do you have experience with completing necessary Army Maintenance Management System (TAMMS), calibration, radiation reports and other records and forms on work completed; ensuring maximum number of weapons systems are operationally ready; using TMDE Integrated Maintenance Management Systems (TIMMS) for all supported equipment to track, turn-in, repair, calibrate, and return to the end user in a timely fashion to prevent work stoppages; furnishing technical data to the supervisor for inclusion in reports as well as recommending equipment improvement and solutions for unusual problems related to testing and the use of precision TMDE?
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+5.
+Do you have prior experience or training which demonstrates a working knowledge of electronic principles involved in the generation and measurement of such elements as voltage, current, impedance, capacitance, frequency, and inductance; experience in the use of various precision measurement instruments and standards?
+ Yes
+ No
+
+
+6.
+Do you have prior experience experience or training with basic application of operating principles such as the production and utilization of oscillations over a broad range of frequencies; signal and waveform behavior, distortion, and amplification; pulse, trigger, and synchronization techniques; digital/analog processing and data conversion techniques; and a variety of display and indication methods; experience in tracing signals and voltage paths, and skilled in the analysis of waveform characteristics such as timing, duration, frequency, and phasing. Originates test set-ups to isolate malfunctions and check performance characteristics of special or unique test panels or mockups; experience in interpreting and applying a variety of technical electronic information such as schematic symbols, mathematical expressions and formulas, calibration procedures, and other reference materials; experience in applying established techniques and methods of repair, testing, alignment, and calibration of equipment, which serves as test equipment or precision measurement standards; experience in utilizing electronic circuits to measure electronic or electrical quantities to determine the performance characteristics and accuracy of other instruments and equipment?
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
