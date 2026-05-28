@@ -1,0 +1,258 @@
+Position Title
+Cybersecurity Specialist
+Agency
+DHS Headquarters
+Announcement Number
+26-12966849-CBWQ Opens in new window
+Open Period
+May 22, 2026 to Jun 06, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+DHS actively works to recruit members of the veteran community for jobs in the DHS Cybersecurity Service. Select the response that describes your status as a veteran/preference eligible. Note: Depending on your selection, you may be required to submit additional information/documentation later in the application process.
+
+
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+Reasonable Accommodations for taking the online assessments are provided on a case-by-case basis only to qualified individuals with a disability covered by the Rehabilitation Act of 1973, as amended.
+
+Do you have a disability (physical or mental) that you believe will interfere with completing the online assessments and require a Reasonable Accommodation?
+
+ Yes
+ No
+
+
+Preferences
+1.
+Tell us more about the current stage of your cybersecurity career by selecting all responses that are accurate.
+
+Note: If none of these options seem accurate, you may have applied via the wrong career track; please contact cybersecurityservice@hq.dhs.gov for assistance before you proceed.
+ A. I am a student scheduled to graduate more than 9 months from today
+ B. I am a recent graduate or a current student scheduled to graduate in the next 9 months
+ C. I am experienced professional interested in switching to cybersecurity from another career field.
+ D. I have less than 2 years of cybersecurity work experience (not including internships) and am seeking a job where I can gain more experience and enhance my technical expertise.
+
+
+2.
+Some Entry Track applicants have had exposure to specific types of cybersecurity work through formal training, informal training, and/or brief cybersecurity-focused work experience.
+
+If you have had such exposure, specify a cybersecurity specialization-called a primary technical capability in the DHS Cybersecurity Service. This capability should best describe your current technical cybersecurity expertise and experience. To learn more about DHS Cybersecurity Service technical capabilities visit: http://dhscs.usajobs.gov/Jobs
+
+Note: Many Entry Track applicants have not been learning or working in the field of cybersecurity long enough to have identified a primary technical capability. If you do not yet have a primary technical capability, no response is required.
+Cybersecurity Architecture
+Cybersecurity Data Science
+Cybersecurity Defense Defensive Operations – Intelligence Collection and Analysis
+Cybersecurity Defense Operations – Planning, Execution, and Analysis
+Cybersecurity Engineering
+Cybersecurity Research and Development
+Cybersecurity Risk Management and Compliance
+Cybersecurity Threat Analysis
+Digital Forensics
+Mitigation and Response
+Physical, Embedded, and Control Systems Security
+Secure Network Operations
+Security System Operations and Maintenance
+Vulnerability Assessment
+
+
+3.
+While degrees are not required for jobs in the DHS Cybersecurity Service, DHS is interested in your level of education and the topics you studied.
+
+Select the highest level of education you have obtained-or are scheduled to obtain in the next 9 months.
+
+Note: DHS is only interested in education above the high school level that is from an accredited institution, as identified by the U.S. Department of Education. If education is from a foreign college or university, you may be required to show that it was comparable to that from an accredited institution in the United States.
+ 1. High School Diploma or GED
+ Associate Degree
+ Bachelor’s Degree
+ Master’s Degree
+ Doctorate Degree
+ Other
+
+
+4.
+If you indicated education above the high school level in response to the previous question, select all of the areas in which you obtained a degree(s)-or are scheduled to obtain a degree in the next 9 months.
+
+Note: If you have not completed education above the high school level or obtained degrees in areas other than those listed, no response is required.
+ A. Computer Science
+ B. Computer Engineering
+ C. Cybersecurity (e.g., cyber operations, cyber defense, information security)
+ D. Electrical Engineering
+ E. Applied Mathematics/Statistics/Data Science
+ F. Robotics
+ G. Artificial Intelligence
+ H. Other
+
+
+5.
+Select all cybersecurity-related certifications that you currently have.
+
+Note: Many Entry Track applicants have not yet obtained any cybersecurity-related certifications. If you do not have any cybersecurity-related certifications, no selection is required. If you select "Other," you can specify the cybersecurity-related certification(s) in response to the next question.
+ A. Certified Authorization Professional (CAP)
+ I. Certified Cloud Security Professional (CCSP)
+ J. Certified Ethical Hacker (CEH)
+ K. Certified Forensic Analyst (GCFA)
+ L. Certified Information Security Manager (CISM)
+ M. Certified Information Systems Auditor (CISA)
+ N. Certified Information Systems Security Professional (CISSP)
+ O. Certified Penetration Tester (CPT)
+ P. Certified Secure Software Lifecycle Professional (CSSLP)
+ Q. Cisco Certified Network Professional (CCNP) Security
+ R. CompTIA A+
+ S. CompTIA Advanced Security Professional (CASP)
+ T. CompTIA Cybersecurity Analyst (CYSA+)
+ U. Computer Hacking Forensic Investigator (CHFI)
+ V. Cybersecurity Practitioner (CSXP)
+ W. EnCase Certified Examiner (EnCE)
+ X. Expert Systems Engineering Professional (ESEP)
+ Y. GIAC Certified Incident Handler (GCIH)
+ Z. GIAC Cyber Threat Intelligence (GCTI)
+ AA. GIAC Strategic Planning, Policy, and Leadership (GSTRT)
+ AB. Global Industrial Cyber Security Professional (GICSP)
+ AC. GIAC Response and Industrial Defense (GRID)
+ AD. Information Systems Security Architecture Professional (ISSAP)
+ AE. Information Systems Security Engineering Professional (ISSEP)
+ AF. Network+
+ AG. Offensive Security Certified Expert (OSCE)
+ B. Offensive Security Certified Professional (OSCP)
+ C. Offensive Security Exploitation Expert (OSEE)
+ D. Offensive Security Web Expert (OSWE)
+ E. Offensive Security Wireless Professional (OSWP)
+ F. Security+
+ G. Systems Security Certified Practitioner (SSCP)
+ H. Other
+
+
+6.
+If you selected "Other" in response to the previous question, list the additional cybersecurity-related certification(s) you have.
+
+
+7.
+Select all coding/programming languages in which you are proficient.
+
+Note: Many Entry Track applicants have not yet learned any coding/programming languages. If you are not proficient in any coding/programming languages, no selection is required. If you select "Other," you can specify the language(s) in response to the next question.
+ A. C
+ B. C#
+ C. C++
+ D. Go
+ E. Java
+ F. JavaScript
+ G. Kotlin
+ H. Perl
+ I. PHP
+ J. Python
+ K. R
+ L. Ruby
+ M. Rust
+ N. Scala
+ O. Swift
+ P. Other
+
+
+8.
+If you selected "Other" in response to the previous question, specify the additional coding/programming language(s) in which you are proficient.
+
+
+9.
+Would you accept a term appointment?
+ Yes
+ No
+
+
+10.
+If there is a salary range or lowest salary you are willing to accept, you may provide that information.
+
+Note: Response is not required. To learn more about salaries generally available in the DHS Cybersecurity Service at different career levels visit: http://dhscs.usajobs.gov/Benefits
+
+
+11.
+DHS is actively expanding the DHS Cybersecurity Service and creating new jobs across DHS organizations.
+
+Select all the DHS organizations for which you would like to be considered for DHS Cybersecurity Service jobs.
+ A. Cybersecurity and Infrastructure Security Agency (CISA)
+ B. DHS Office of the Chief Information Officer (OCIO)
+ C. Federal Emergency Management Agency (FEMA)
+ D. All Other DHS Organizations
+
+
+12.
+Consider the type of job, in terms of time period and regular work hours, you are willing to accept, and select all responses that apply.
+ A. Full-time job (80 hours every 2 weeks) with no defined end date
+ B. Part-time job (less than 80 hours every 2 weeks) with no defined end date
+ C. Short-term/project work (either part- or full-time) scheduled to last 1 – 3 years
+
+
+13.
+Consider the work arrangements you are willing to accept, and select all responses that apply.
+
+Note: If you are not interested in any of the listed work arrangements, no selection is required.
+ A. Telework (you would work some of the time from an approved worksite [e.g., your home] other than the physical location of a DHS facility)
+ B. Remote work (you would work most or all of the time from a different geographic area than the physical location of a DHS facility)
+ C. Work schedules other than the traditional 5 consecutive 8-hour days per week (Monday – Friday)
+ D. Work on weekends
+ E. Work at night
+ F. Work on shifts or rotating shifts
+
+
+14.
+Select the location(s) you want to be considered for. You must choose at least one location.
+ A. Chandler, AZ
+ B. Washington, DC
+ C. Pensacola, FL
+ D. Idaho Falls, ID
+ E. Stennis Space Center, MS
+ F. Arlington, VA
+ G. Springfield, VA
+
+
+15.
+Consider whether you are willing to travel away from home as part of your job, and select all responses that apply.
+
+Note: If you are not interested in a job involving travel, no selection is required.
+ A. 1 to 5 nights each month
+ B. 6 to 10 nights each month
+ C. 11 or more nights each month
+
+
+16.
+Are you a current DHS civilian employee?
+ Yes
+ No
+
+
+17.
+Are you a current or former federal employee?
+ Yes
+ No
+
+
+18.
+Are you a current or former federal political employee (e.g., Schedule C, Non-career SES, or Presidential Appointee)?
+ Yes
+ No
+
+
+19.
+May we share your application with others in DHS for positions outside of the DHS Cybersecurity Service?
+ Yes
+ No
+
+
+20.
+May we share your application with other federal agencies for positions outside of the DHS Cybersecurity Service?
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
