@@ -1,0 +1,131 @@
+Position Title
+AI Software Engineer
+Agency
+Office of Personnel Management
+Announcement Number
+26-TAL-12971238-DH Opens in new window
+Open Period
+May 29, 2026 to Jun 04, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+Are you a current employee of the Office of Personnel Management (OPM) who meets the definition of surplus or displaced from a position in the competitive service? If yes, confirm you meet all of the following requirements:
+You are located in the same local commuting area of the vacancy;
+Your grade is equivalent to or below the grade level of the vacancy; 
+Your last performance rating of record is at least fully successful or the equivalent.
+ Yes
+ No
+
+
+3.
+Are you a current or former federal employee who meets the definition of displaced (CFR 330.702)  from a position in the competitive service from a Federal agency?  If yes, confirm you meet all of the following requirements:
+ 
+You are located in the same local commuting area of the vacancy;
+Your grade is/was equivalent to or above the grade level of the vacancy; 
+Your last performance rating of record is at least fully successful or the equivalent;
+It has been less than a year from your separation from Federal service (see ICTAP eligibility period CFR 330.708.)
+ Yes
+ No
+
+
+4.
+Reasonable Accommodations for taking the online assessments are provided on a case-by-case basis only to qualified individuals with a disability covered by the Rehabilitation Act of 1973, as amended.
+
+Do you have a disability (physical or mental) that you believe will interfere with completing the online assessments and require a Reasonable Accommodation?
+
+ Yes
+ No
+
+
+Preferences
+1.
+Select the lowest grade you are willing to accept for this position.
+9
+11
+12
+
+
+Short Essay Questions
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+
+
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+
+
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+
+
+3.
+How would you help advance the President's Executive Orders and policy priorities in this role? Identify one or two relevant Executive Orders or policy initiatives that are significant to you, and explain how you would help implement them if hired.
+
+
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+
+
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+
+
+Assessment 1
+1.
+Basic Requirements: You must have IT-related experience demonstrating each of the four competencies listed. Please respond Yes or No if you possess such experience.
+1) Attention to Detail - Is thorough when performing work and conscientious about attending to detail.
+2) Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services.
+3) Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately.
+4) Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.
+
+ Yes, I have IT-related experience which demonstrates the four competencies listed.
+ No, I do not have IT-related experience which demonstrates the four competencies listed, and do not qualify for this position.
+
+
+2.
+For the GS-9 Grade level: Read the following statements and select the one that best describes your qualifications for the position.
+ I have a Master's or equivalent graduate degree, or successfully completed two full years of progressively higher level graduate education leading to such a degree (including LL.B or J.D. if related). The education must be in computer science, engineering, information science, information systems management, mathematics, operations research, statistics, technology management, or another field that provided at least 24 semester hours in one or more of these fields and required the development or adaptation of applications, systems, or networks.
+ I have one full year (52 Weeks) of specialized experience comparable in scope and responsibility to the GS-7 level (obtained in either the public or private sectors) that is IT-related and included: Developing or modifying application features, modules, or software components using programming languages, frameworks, development tools, or established software development practices; And Testing, debugging, or troubleshooting software, integration, deployment, or system performance issues using logs, error reports, diagnostic tools, or documented procedures; And Gathering, documenting, or updating user or business requirements and translating defined needs into technical specifications, user stories, use cases, or functional requirements; And Preparing or maintaining technical documentation, user guides, configuration records, code documentation, training materials, or lessons-learned materials.
+ My experience and/or education are not reflected in the above descriptions, and I do not qualify for this position.
+
+
+3.
+For the GS-11 Grade level: Read the following statements and select the one that best describes your qualifications for the position.
+ I have a Ph.D. or equivalent doctoral degree, or successfully completed three full years of progressively higher level graduate education leading to such a degree. The education must be in computer science, engineering, information science, information systems management, mathematics, operations research, statistics, technology management, or another field that provided at least 24 semester hours in one or more of these fields and required the development or adaptation of applications, systems, or networks.
+ I have one full year (52 Weeks) of specialized experience comparable in scope and responsibility to the GS-9 level (obtained in either the public or private sectors) that is IT-related and included: Designing, developing, testing, implementing, or maintaining software components, subsystems, application features, or data processing routines to meet defined business or technical requirements; And Integrating or supporting the integration of applications, interfaces, data sources, automation routines, or approved emerging technology capabilities into existing systems; And Analyzing and resolving application, system, integration, configuration, or performance issues and documenting findings, corrective actions, or recommendations; And Eliciting, documenting, validating, or tracing business and technical requirements and preparing technical documentation to support development, implementation, maintenance, training, or knowledge transfer.
+ My experience and/or education are not reflected in the above descriptions, and I do not qualify for this position.
+
+
+4.
+For the GS-12 Grade level: Read the following statements and select the one that best describes your qualifications for the position.
+
+ I have one full year (52 Weeks) of specialized experience comparable in scope and responsibility to the GS-9 level (obtained in either the public or private sectors) that is IT-related and included: Designing, developing, testing, deploying, maintaining, or enhancing enterprise software applications or system components using software development lifecycle methods; And Translating business requirements into functional or technical specifications and validating application functionality, interoperability, accessibility, security, or performance; And Integrating applications, systems, interfaces, data sources, automation capabilities, artificial intelligence capabilities, or analytics capabilities with existing infrastructure or enterprise platforms; And Troubleshooting and resolving application, integration, configuration, performance, security, or operational issues and implementing or recommending corrective actions; And Preparing technical specifications, architecture or process documentation, security or implementation support materials, user guidance, briefings, or recommendations for stakeholders, users, or technical teams.
+ My experience is not reflected in the above description and I do not qualify for this position.
+
+
+Please take this opportunity to review your ratings to ensure their accuracy. By agreeing to the statement below, you are confirming that you: 1) understand this warning; 2) have reviewed your responses to this questionnaire for accuracy, and; 3) verify that your responses accurately describe your current level of experience and capability.
+
+
+5.
+Failure to agree or respond to the statement below will disqualify you from further consideration for this position
+
+ Yes, I verify that all of my responses to this questionnaire are true and accurate. I accept that if my supporting documentation (required documents) and/or later steps in the selection process do not support one or more of my responses to the questionnaire that my application may be rated lower and/or I may be removed from further consideration
+ No, I do not accept this agreement and I no longer wish to be considered for this position.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
