@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "total_jobs": 198764,
+    "total_jobs": 198768,
     "cutoff_date": "2025-06-01",
-    "generation_date": "2026-05-30T10:46:11.771195"
+    "generation_date": "2026-05-31T10:02:15.370632"
   },
   "by_service_type": {
-    "Competitive": 123912,
-    "Excepted": 73912,
+    "Competitive": 123914,
+    "Excepted": 73914,
     "Senior Executive": 940
   },
   "by_grade_level": {
     "GS-12": 16259,
-    "GS-13": 14168,
+    "GS-13": 14170,
     "VN-00": 11074,
     "GS-11": 10467,
     "GS-9": 8538,
@@ -23,7 +23,7 @@
     "GS-5": 4625,
     "GS-15": 4015,
     "WG-10": 3785,
-    "NF-2": 3507,
+    "NF-2": 3508,
     "NF-3": 2759,
     "GS-8": 2731,
     "GS-3/6": 2686,
@@ -54,9 +54,9 @@
     "Anchorage, Alaska": 853
   },
   "by_agency": {
-    "Department of Veterans Affairs": 67832,
+    "Department of Veterans Affairs": 67835,
     "Department of the Air Force": 24519,
-    "Department of the Navy": 22695,
+    "Department of the Navy": 22696,
     "Department of Defense": 19589,
     "Department of the Army": 19128,
     "Department of Justice": 10311,
@@ -83,18 +83,18 @@
     "2210 - Information Technology Management": 4674,
     "0679 - Medical Support Assistance": 3901,
     "0343 - Management And Program Analysis": 3901,
-    "0303 - Miscellaneous Clerk And Assistant": 3865,
+    "0303 - Miscellaneous Clerk And Assistant": 3866,
     "1702 - Education And Training Technician": 3737,
     "1101 - General Business And Industry": 3671,
     "0189 - Recreation Aid And Assistant": 3626,
     "0620 - Practical Nurse": 2873,
-    "0180 - Psychology": 2619,
+    "0180 - Psychology": 2621,
     "0201 - Human Resources Management": 2525,
     "0801 - General Engineering": 2389,
     "0640 - Health Aid And Technician": 2170,
     "None - Unknown": 2096,
     "0905 - Attorney": 2095,
-    "3566 - Custodial Working": 1976,
+    "3566 - Custodial Working": 1977,
     "0610 - Unknown": 1951
   }
 }
