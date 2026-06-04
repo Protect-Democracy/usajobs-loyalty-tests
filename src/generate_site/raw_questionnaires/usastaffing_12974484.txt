@@ -1,0 +1,222 @@
+Position Title
+Intelligence Specialist
+Agency
+Air Force Elements, U.S. Transportation Command
+Announcement Number
+USTC-26-12974484-P Opens in new window
+Open Period
+Jun 03, 2026 to Jun 21, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+Are you a current U.S. Citizen applying for this vacancy?
+
+ Yes
+ No
+
+
+Preferences
+1.
+Are you a former Federal employee who has retired and is receiving an annuity either under the Civil Service Retirement System (CSRS) or Federal Employees Retirement System (FERS)?*
+NOTE: If you are receiving a temporary medical disability retirement OR are a retired Military Service Member your response should be NO.
+ Yes
+ No
+
+
+SHORT ESSAY QUESTIONS
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+
+
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+
+
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+
+
+3.
+How would you help advance the President's Executive Orders and policy priorities in this role? Identify one or two relevant Executive Orders or policy initiatives that are significant to you, and explain how you would help implement them if hired.
+
+
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+
+
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+
+
+Assessment 1
+1.
+From the descriptions below, select the letter that BEST describes the highest level of education and/or experience that you fully possess to qualify for this position minimally. Read all the statements completely before making your selection.
+
+ I possess at least one year of specialized experience at the GG-12 grade level or equivalent. My creditable specialized experience includes: • Performing complex, all-source intelligence analysis by researching, evaluating, and fusing multi-source information to produce finished intelligence products for decision-makers. • Managing the intelligence production process, including creating products in various formats, disseminating them to consumers, and coordinating with other Intelligence Community (IC) and Department of War (DoW) intelligence organizations. • Applying knowledge of U.S. laws and national policies related to intelligence activities, such as those governing Intelligence Oversight or the foreign disclosure of classified information. • Utilizing structured analytic techniques and data-informed methods to enhance the rigor and transparency of intelligence analysis.
+ I do not possess the required level of specialized experience to qualify for this position.
+
+
+In this part, you will respond to questions about your experience as it relates to the position for which you are applying. For each task question, choose the level description that best describes your experience and/or training. Your responses must be fully supported within the text of your resume. Failure to properly identify your experience may result in the lowering of your overall score and/or your disqualification for this position.
+
+
+2.
+Scenario: You are tasked to provide an intelligence assessment on a developing political-military crisis in a region with limited U.S. intelligence assets. Initial reporting from various sources is sparse, contradictory, and contains significant information gaps.
+Question: What is the most effective first step to produce a sound analytic product?
+
+ Formally document all sources, identify the specific contradictions and information gaps, apply structured analytic techniques like Analysis of Competing Hypotheses (ACH) to evaluate the sparse data, and clearly state your confidence levels in the assessment.
+ Focus only on the reports from the most historically reliable sources, disregard the conflicting information, and write the assessment based on that limited subset of data.
+ Fuse all the reporting into a single narrative and smooth over the contradictions to create a simple, easy-to-understand product for the commander.
+ Wait for more intelligence to become available before beginning your analysis, as the
+
+
+3.
+Question: In all-source intelligence, what is the primary purpose of a structured analytic technique?
+
+ To ensure that intelligence products are always written in the same format.
+ To prove that one intelligence discipline (e.g., SIGINT, HUMINT) is more valuable than the others.
+ To mitigate the influence of cognitive bias, increase analytical rigor, and add transparency to the analytical process.
+ To replace the need for analyst judgment with a purely automated, data-driven process.
+
+
+4.
+Scenario: While researching a complex topic, you discover a new, unvalidated data source that appears to offer unique insights but has no established reliability. This new data contradicts some aspects of established, long-held analytic lines.
+Question: What is the most appropriate action to take?
+
+ Incorporate the data into your product but explicitly label it as unevaluated, discuss its potential strengths and weaknesses, and analyze how it would change the assessment if proven true.
+ Immediately change your analytic line to match the new data source, as new information is often the most accurate.
+ Discard the new data source entirely because it has not been validated by the Intelligence Community.
+ Use the new data to support your existing analysis but omit any information from it that contradicts your current assessment.
+
+
+5.
+Scenario: A senior leader requests a briefing on a complex intelligence topic for a non-intelligence audience. The topic is nuanced and filled with technical jargon.
+Question: What is the most effective approach for producing and delivering this briefing?
+
+ Synthesize the complex information, remove the technical jargon, use clear visuals to explain key points, and anticipate questions to provide concise, understandable answers that meet the leader's intent.
+ Provide the leader with the raw intelligence reports so they can read the source material for themselves.
+ Deliver your standard technical briefing but provide a glossary of terms at the end.
+ Delegate the briefing to a junior analyst to give them experience presenting to senior leaders. current information is insufficient to make an assessment.
+
+
+6.
+Question: What is the primary function of "dissemination" in the intelligence production process?
+
+ To store and archive intelligence products after they have been created.
+ To deliver the finished intelligence product to the appropriate consumers in a timely and effective manner.
+ To collect raw data from intelligence sources.
+ To review intelligence products for grammatical errors.
+
+
+7.
+Scenario: After disseminating a major intelligence product, you receive feedback from a key customer that the product, while accurate, was not helpful because it did not address the specific questions they were facing.
+Question: What is the best action to take to improve future production?
+
+ Explain to the customer that the product was accurate and met the initial requirement as written.
+ Send the customer a survey to ask for a better rating.
+ Proactively engage with the customer to understand their decision-making process and information needs more clearly, then adjust future production efforts to provide more tailored, relevant support.
+ Stop providing products to that customer since they did not value your work.
+
+
+8.
+Scenario: A newly issued Department of War (DoW) directive makes significant changes to Intelligence Oversight (IO) reporting requirements and how U.S. Person information must be handled. You are tasked with ensuring the JECC J2 directorate complies with the new policy.
+Question: What is the most effective approach to coordinate and implement this policy change within the command?
+
+ Conduct a thorough cross-walk of the new DoW directive against current JECC standard operating procedures, draft updated local IO guidance, and formally coordinate the draft with the Command Judge Advocate (SJA) and USTRANSCOM oversight officials before publishing it to the staff.
+ Send a copy of the new DoW directive to all J2 personnel via email and instruct them to read and comply with the new rules immediately.
+ Update the J2's internal procedures on your own without coordinating with Legal (SJA), as Intelligence Oversight is strictly an intelligence function.
+ Continue using the old IO procedures until an inspector formally flags the command for non-compliance, as policy updates take too much time away from the analytic mission.
+
+
+9.
+Scenario: An allied partner nation formally requests access to a classified intelligence assessment produced by your team. Upon review, you realize the request falls outside the command's currently delegated disclosure authority under the National Disclosure Policy (NDP-1).
+Question: As a Foreign Disclosure Representative coordinating this policy issue, what is the appropriate course of action?
+
+ Provide the partner nation with a heavily redacted, unclassified version of the assessment without attempting to seek further authorization.
+ Release the classified assessment to the partner nation anyway to maintain good international relations, since they are a trusted ally.
+ Deny the immediate release, but formally draft and coordinate an Exception to National Disclosure Policy (ENDP) request, routing it through the USTRANSCOM Foreign Disclosure Office (FDO) and appropriate intelligence channels for a final releasability decision.
+ Tell the partner nation they must contact the Defense Intelligence Agency (DIA) directly to get the policy waiver, removing your command from the process.
+
+
+10.
+Scenario: You are assigned to represent JECC J2 in a USTRANSCOM-led working group. The group's goal is to draft a new joint policy that will standardize how intelligence production requirements are submitted and prioritized across the enterprise.
+Question: Which action best demonstrates effective policy coordination in this joint environment?
+
+ Passively attend the working group meetings and agree to whatever USTRANSCOM proposes to avoid conflict and speed up the process.
+ Actively participate by clearly articulating the JECC's unique operational capabilities and constraints, identifying potential friction points in the draft, and collaborating with other stakeholders to negotiate a standardized policy that is mutually beneficial and legally compliant.
+ Refuse to compromise on any point, insisting that the new policy must match the JECC’s existing internal processes exactly.
+ Skip the working group meetings, assuming the final policy will not significantly impact your day-to-day analytic duties.
+
+
+11.
+Question: In the JECC intelligence context, which of the following is considered a key external stakeholder that requires routine liaison and coordination?
+
+ The command's contracting office.
+ The USTRANSCOM J2 and the intelligence enterprises of other Combatant Commands.
+ The local university's international affairs department.
+ The on-base Morale, Welfare, and Recreation (MWR) office.
+
+
+12.
+Scenario: You are assigned to represent JECC J2 in a joint planning group with representatives from across the Intelligence Community (IC). The group is tasked with solving a complex problem, and there are conflicting opinions and equities among the different agencies.
+Question: Which action best demonstrates the ability to build a collaborative network?
+
+ Vigorously defend the JECC's equities and refuse to compromise on any point to ensure your command's interests are protected.
+ Actively listen to understand the positions of other agencies, clearly articulate the JECC's perspective and capabilities, and work to find common ground and build consensus toward a solution that benefits the entire IC.
+ Limit your participation and only speak when directly asked about JECC matters, avoiding the larger interagency conflict.
+ Align with the largest, most powerful agency in the room and support their position on all issues.
+
+
+13.
+Scenario: You are performing duties as the Acting J2 Director. A significant world event occurs after hours, and you must ensure the Command's leadership is appropriately informed.
+Question: What is the most effective action to take?
+
+ Send a detailed email with all available reporting to the entire command leadership group.
+ Wait until the next morning to provide an update during the standard daily briefing.
+ Rapidly synthesize the initial reporting, assess the immediate impact on the command's interests, and provide a concise, relevant verbal update to the JECC Commander or designated senior leader.
+ Post an update on the command's internal SharePoint site and assume leaders will see it.
+
+
+14.
+Question: Which of the following best describes the intelligence "Collection Cycle"?
+
+ The process of disseminating finished intelligence products to consumers.
+ The process of developing requirements, tasking assets, collecting data, processing and exploiting it, and feeding it into analysis.
+ The physical route a collector takes to gather information from a source.
+ The daily staff meeting where intelligence updates are presented.
+
+
+15.
+Scenario: A deployed JECC team requires intelligence on a specific, localized threat that is not covered by routine reporting from national-level intelligence agencies. As the reach-back analyst, you are tasked with fulfilling this requirement.
+Question: What is the most effective course of action to get the necessary intelligence?
+
+ Advise the deployed team to conduct their own reconnaissance to find the information.
+ Develop a formal collection requirement, submit it to the appropriate collection requirements manager, and coordinate with theater and national collection assets to seek specific coverage of the threat.
+ Continuously search existing intelligence databases with the hope that the required information will eventually be reported.
+ Inform the deployed team that since the information is not in routine reporting, it is unobtainable.
+
+
+16.
+Question: What is the fundamental purpose of an Intelligence Requirements Manager?
+
+ To validate, prioritize, and translate intelligence needs into specific orders and requests for collection assets and analytical support.
+ To personally collect intelligence on the highest priority targets.
+ To manage the J2 directorate's budget and travel funds.
+ To ensure all intelligence reports are properly filed and stored.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
