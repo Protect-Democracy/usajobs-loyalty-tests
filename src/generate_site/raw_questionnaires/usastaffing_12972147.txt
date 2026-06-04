@@ -1,0 +1,110 @@
+Position Title
+Senior Information Technology Specialist (Cybersecurity/ENTARCH)
+Agency
+Federal Housing Finance Agency
+Announcement Number
+OCIO-26-02-DH Opens in new window
+Open Period
+Jun 03, 2026 to Jun 12, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+
+Are you a current or former FHFA employee who held a career or career-conditional appointment in a position at the EL-15 level or below who has received either: a Reduction in Force (RIF) separation notice, or a notice of proposed removal for declining a directed geographic reassignment or relocation outside the commuting area; and who meets the definition of a surplus or displaced employee under 5 CFR §330.602?
+
+
+If yes, confirm that:
+
+• you are located within the same local commuting area as the vacancy; AND
+• you are applying to a position at or below the grade level of the position from which you were or will be separated; AND
+• you are applying to a position that does not have greater promotion potential than the position from which you were or will be separated; AND
+• your most recent performance rating of record is at least Fully Successful or equivalent. For additional information, please review the USAJOBS Help Center.
+
+
+To verify eligibility, you must submit supporting documentation, such as: your Reduction in Force (RIF) separation notice (must include your most recent performance rating, if available); a copy of your most recent performance appraisal, if the RIF notice does not include your rating; and a copy of your most recent Notification of Personnel Action (SF-50).
+
+ Yes
+ No
+
+
+2.
+Are you a US citizen? If so, you can apply under this eligibility, without having worked for the Federal Government before.  Veteran's preference applies.
+ Yes
+ No
+
+
+3.
+Are you a current or former federal employee displaced from a position in a Federal agency other than the agency hiring for this position?
+
+If yes, confirm:
+• you are located in the same local commuting area of the vacancy; AND,
+• you are applying to a position that is at or below the grade level of the position from which you were or will be separated; AND,
+• you are applying to a position that does not have greater promotion potential than the position from which you were or will be separated; AND,
+• your last performance rating of record is at least fully successful or the equivalent. For more information, review the USAJOBS Help Center. 
+
+To verify your eligibility, you must submit supporting documentation such as a Reduction in Force (RIF) separation notice to include your latest performance rating (if the notice does not have this information included, you must submit a copy of your most recent performance appraisal) and a copy of your latest Notification of Personnel Action, Standard Form 50.
+ Yes
+ No
+
+
+4.
+Reasonable Accommodations for taking the online assessments are provided on a case-by-case basis only to qualified individuals with a disability covered by the Rehabilitation Act of 1973, as amended.
+
+Do you have a disability (physical or mental) that you believe will interfere with completing the online assessments and require a Reasonable Accommodation?
+
+ Yes
+ No
+
+
+Preferences
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+
+
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+
+
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+
+
+3.
+How would you help advance the President's Executive Orders and policy priorities in this role? Identify one or two relevant Executive Orders or policy initiatives that are significant to you, and explain how you would help implement them if hired.
+
+
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+
+
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+
+
+Assessment 1
+Thank you for expressing interest in the Senior Information Technology Specialist (Cybersecurity/ENTARCH) position located in the Office of the Chief Information Officer (OCIO) at the Federal Housing Finance Agency (FHFA). You will be evaluated on your responses to this assessment questionnaire; then, we will compare your responses against your resume and supporting documentation. Please Note: Your resume MUST clearly identify the dates that support your experience (month/year) and the number of hours per week worked for each position.
+
+
+1.
+Basic Requirement: To be eligible for the 2210 series, you must meet the basic entry requirements as described below. Please select the response that describes your experience.
+ I have IT-related experience described in my resume demonstrating each of the following competencies: 1) Attention to Detail - Is thorough when performing work and conscientious about attending to detail; 2) Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services. 3) Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately; 4) Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations. -OR-
+ I do not meet the basic entry requirements described above.
+
+
+2.
+Minimum Qualifications EL-14: This section will be used to determine if you possess the specialized experience needed to qualify for this position. From the description below, choose the letter beside the statement that BEST describes your background relevant to this position at the EL-14 grade level.
+ I qualify for the EL/GS-14 because I have at least one year (52 weeks) of specialized experience at the EL/GS-13 or equivalent demonstrating skill in performing work in the following: (1) Leading Zero Trust-aligned enterprise architectures across identity, cloud, applications, and data AND establishing standards and baselines to ensure compliance with NIST, RMF, and federal directives; (2) Directing or participating in major cybersecurity modernization efforts (i.e. coordinating cross-functional teams, managing architectural risk, overseeing pilots and vendor integrations, and driving enterprise application security); (3) Advancing the security of enterprise applications and platforms by embedding secure designing practices; integrating automated security testing and software-composition analysis; and applying threat analysis, API security, and data protection strategies; and (4) Advising senior leadership on strategy and enterprise risk; leading or participating in architecture boards and interagency councils or industry working groups; and representing the organization to internal and external stakeholders. -OR-
+ I do not possess the specialized experience required at the level described above.
+
+
+3.
+Certification of Application: I understand that the responses I selected in this questionnaire must be fully supported by detailed descriptions of my work experiences in my resume. If my responses are not supported by my resume, the human resources office will rate my application based on the level of competency demonstrated in my resume. (If you select "No" to this question, you will be removed from consideration)
+ Yes, I certify/understand the information provided above.
+ No, I do not certify/understand the information provided above.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
