@@ -28,6 +28,9 @@ jobs:
         with:
           ref: main
           fetch-depth: 1
+          # analysis_data.json is stored in Git LFS; pull it so Netlify
+          # receives the real file rather than the LFS pointer text.
+          lfs: true
 
       - name: Deploy to Netlify
         uses: jsmrcaga/action-netlify-deploy@v2.4.0
