@@ -1,0 +1,176 @@
+Position Title
+Information Technology Specialist (Enterprise Architecture)
+Agency
+Administrative Office of the U.S. Courts
+Announcement Number
+26-CMM-12974041 Opens in new window
+Open Period
+Jun 08, 2026 to Jun 15, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Are you a current employee of the AO or the Federal Judiciary?
+ Yes
+ No
+
+
+2.
+Are you a current or former Federal employee?
+
+All applicants outside of the AO must submit a copy of your latest Notification of Personnel Action (SF-50) to verify current or former Federal employment status.
+ Yes
+ No
+
+
+3.
+Are you a former employee of the AO or the Federal Judiciary?
+ Yes
+ No
+
+
+Preferences
+1.
+Would you accept a temporary appointment?
+ Yes
+ No
+
+
+Assessment 1
+Thank you for your interest in a Application Programming Interface Lead Architect position with the federal government. Applicants must have demonstrated experience as listed below. This requirement is according to the AO Classification, Compensation, and Recruitment Systems which include interpretive guidance and reference to the OPM Operating Manual for Qualification Standards for General Schedule Positions.
+
+WHEN MANDATORY NARRATIVE RESPONSES ARE REQUIRED, PLEASE DO NOT DUPLICATE INFORMATIONYOU HAVE ALREADY PROVIDED IN YOUR RESUME AS A RESPONSE TO THIS QUESTION. WE ARE SEEKING ANELABORATION OF THOSE DUTIES AND SKILLS YOU HAVE MENTIONED WHICH ADDRESS THE QUESTIONMORE FULLY. THIS IS YOUR OPPORTUNITY TO EXPAND ON YOUR EXPERIENCE AND/OR EDUCATION AS ITRELATES TO THE QUESTION. FAILURE TO DO THIS WILL RESULT IN YOUR BEING CONSIDERED AS INELIGIBLE.
+
+
+1.
+Applicants must have at least one full year (52 weeks) of specialized experience which is in or directly related to the line of work of this position. Specialized experience
+for this position is demonstrated experience leading the enterprise API strategy and cross-service integration.
+ Yes, I have one year of specialized experience which is in or directly related to the line of work of this position.
+ No, I do not possess the specialized experience described above.
+
+
+2.
+If A is selected above, a narrative statement must be submitted in the space provided below addressing your experience in leading the enterprise API strategy and cross-service integration. THIS IS A MANDATORY REQUIREMENT. Please limit your response to 1,000 words or less.
+
+
+3.
+In the space provided below, please indicate the time frame and employer(s) where we can locate this information. THIS IS A MANDATORY REQUIREMENT. Please limit your response to 250 characters or less.
+
+
+For each item, select the one response that most accurately describes your current level of experience and capability using the scale below.
+
+
+4.
+Which level description best describes your demonstrated experience in defining and maintaining program-wide standards, including API contract conventions, versioning, and deprecation policies?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+5.
+Which level description best describes your demonstrated experience in overseeing cross-service integration decisions, ensuring architectural alignment across multiple pods, and managing technical escalations?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+6.
+Which level description best describes your demonstrated experience balancing team capacity against program demands, ensuring your time is allocated effectively to support high-priority integration efforts?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+7.
+Which level description best describes your demonstrated experience in driving cross-pod adoption of the standards by identifying gaps, escalating necessary noncompliance,  and enabling teams to implement immediate solutions?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+8.
+Which level description best describes your demonstrated experience in enterprise API governance, contract design, and service integration patterns?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+
+
+9.
+Which level description best describes your demonstrated ability to align technical output with enterprise business objectives and architectural runway?
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+10.
+Do you possess exceptional communication skills, with experience navigating complex stakeholder environments and cross-functional decision-rights models?
+ Yes
+ No
+
+
+11.
+Do you possess experience in API management platforms (e.g., Red Hat API Management, Apigee, MuleSoft, or equivalent)?
+ Yes
+ No
+
+
+12.
+Do you have certifications in API design and integration (e.g., Service/API architecture certifications, API development and architecture programs)?
+ Yes
+ No
+
+
+13.
+How many years of experience do you have working in professional software engineering?
+ 10 years or more.
+ 5-10 years.
+ 1-5 years.
+ Less than 1 year.
+
+
+14.
+How many years of experience do you have designing and delivering APIs and integrations for enterprise systems?
+ 10 years or more.
+ 5-10 years.
+ 1-5 years.
+ Less than 1 year.
+
+
+15.
+How many years of experience do you have leading API standards, governance, or integration architecture across multiple agile teams?
+ 10 years or more.
+ 5-10 years.
+ 1-5 years.
+ Less than 1 year.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+16.
+I understand that failure to provide a written statement ("See Resume" or other non-descriptive response is not sufficient) for each essay question could result in non-consideration for this position.
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
