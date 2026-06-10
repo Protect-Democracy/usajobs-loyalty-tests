@@ -1,0 +1,178 @@
+Position Title
+Supervisory IT Specialist (Chief Data Platform Architect)
+Agency
+Administrative Office of the U.S. Courts
+Announcement Number
+26-CMM-12977649 Opens in new window
+Open Period
+Jun 09, 2026 to Jun 16, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Are you a current employee of the AO or the Federal Judiciary?
+ Yes
+ No
+
+
+2.
+Are you a current or former Federal employee?
+
+All applicants outside of the AO must submit a copy of your latest Notification of Personnel Action (SF-50) to verify current or former Federal employment status.
+ Yes
+ No
+
+
+Preferences
+1.
+Would you accept a temporary appointment?
+ Yes
+ No
+
+
+Assessment 1
+1.
+Applicants must have at least one full year (52 weeks) of specialized experience which is in or directly related to the line of work of this position. Specialized experience is demonstrated experience in ALL of the following:
+Leading enterprise data platform modernization for large-scale analytics, artificial intelligence (AI), machine learning (ML), and cloud operations.
+Directing cross-functional teams in designing scalable and secure enterprise data ecosystems.
+Advising executive leadership on data strategy, governance, and modernization initiatives.
+Developing enterprise architecture standards and cloud adoption strategies aligned with organizational goals.
+ Yes, I have one year of specialized experience which is in or directly related to the line of work of this position.
+ No, I do not possess the specialized experience described above.
+
+
+2.
+In the space provided below, please list the time periods and employers on your resume where your specialized experience can be verified.
+
+THIS IS A MANDATORY REQUIREMENT. Please limit your response to 250 words or less.
+
+
+3.
+If A is selected above for question 1, a narrative statement must be submitted in the space provided below addressing your experience leading enterprise data platform modernization for large-scale analytics, artificial intelligence (AI), machine learning (ML), and cloud operations.
+
+THIS IS A MANDATORY REQUIREMENT. Please limit your response to 2,000 characters or less.
+
+
+4.
+If A is selected above for question 1, a narrative statement must be submitted in the space provided below addressing your experience directing cross-functional teams in designing scalable and secure enterprise data ecosystems.
+
+THIS IS A MANDATORY REQUIREMENT. Please limit your response to 2,000 characters or less.
+
+
+5.
+If A is selected above for question 1, a narrative statement must be submitted in the space provided below addressing your experience advising executive leadership on data strategy, governance, and modernization initiatives.
+
+THIS IS A MANDATORY REQUIREMENT. Please limit your response to 2,000 characters or less.
+
+
+6.
+If A is selected above for question 1, a narrative statement must be submitted in the space provided below addressing your experience developing enterprise architecture standards and cloud adoption strategies aligned with organizational goals.
+
+THIS IS A MANDATORY REQUIREMENT. Please limit your response to 2,000 characters or less.
+
+
+For each item, select the one response that most accurately describes your current level of experience and capability using the scale below.
+
+
+7.
+Which level description best describes your experience leading enterprise-wide data platform modernization across hybrid and multi-cloud environments?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+8.
+Which level description best describes your experience managing cross-functional teams including data architects, engineers, database administrators, DevOps, and cybersecurity professionals?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+9.
+Which level description best describes your experience developing and enforcing enterprise architecture standards and reference frameworks?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+10.
+Which level description best describes your experience defining and executing cloud adoption strategies aligned with business objectives?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+11.
+Which level description best describes your experience implementing data governance, security, and compliance frameworks?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+12.
+Which level description best describes your experience with automation in data engineering, DevOps, or infrastructure provisioning?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+13.
+Which level description best describes your experience handling capacity planning and cost optimization in cloud data environments?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+14.
+Which level description best describes your experience designing data platforms to support both real-time and batch processing workloads?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+15.
+Which level description best describes your experience mentoring and developing technical leaders within your teams?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+16.
+Which level description best describes your experience making technical decisions, setting engineering priorities, and resolving conflicts or tradeoffs in data engineering or operational system design?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+17.
+I understand that failure to provide a written statement ("See Resume" or other non-descriptive response is not sufficient) for each essay question could result in non-consideration for this position.
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
