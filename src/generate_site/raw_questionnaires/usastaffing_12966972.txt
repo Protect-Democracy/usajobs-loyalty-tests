@@ -1,0 +1,188 @@
+Position Title
+ITSPEC (INFOSEC/NETWORK)
+Agency
+Air National Guard Units
+Announcement Number
+NJ-12966972-AF-26-097/98/99 Opens in new window
+Open Period
+Jun 04, 2026 to Jul 07, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+All federal re-employable eligibles.  Are you eligible to be re-employed as a federal employee?
+
+To verify your eligibility, you must submit a copy of your most recent Notification of Personnel Action, Standard Form 50 (SF 50).
+ Yes
+ No
+
+
+2.
+All on-board federal employees/technicians within the state for which you are applying (Title 32 and Title 5, Permanent and Excepted Indefinite).  Are you a current on-board federal employee or technician within the state for which this position is being advertised?
+
+To verify your eligibility, you must submit a copy of your most recent Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Tenure in Block 24 (1, 2,or 3).
+ Yes
+ No
+
+
+3.
+All on-board National Guard Title 32 Excepted Technicians within the state for which you are applying (Title 32 Permanent and Excepted Indefinite).  Are you a current on-board National Guard Title 32 Excepted Technician within the state for which this position is being advertised?
+
+To verify your eligibility, you must submit a copy of your most recent Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Tenure in Block 24 (1, 2, or 3).
+ Yes
+ No
+
+
+4.
+Current Army M-Day and current Air DSG members within the state for which you are applying.  Are you a current Army M-Day or current Air DSG member within the state for which this position is being advertised?
+ Yes
+ No
+
+
+Condition of Employment
+1.
+Are you a current member of the state National Guard for which this position is being advertised, or are you willing and eligible to become a member?
+ Yes
+ No
+
+
+2.
+This position requires a minimum military rank of SrA/E-4 and a maximum rank of MSgt/E-7.
+
+Do you currently hold one of these required ranks?
+ Yes
+ No, my current rank exceeds the maximum rank. However, I am willing to reduce my rank if selected for this position.
+ C. No, I am a prior service military member and have held one of these required ranks prior to separation. (DD-214 must be enclosed within application). I am willing to join NJ Guard
+ D. No, I am not a current military service member, but I am willing to become a member if selected for this position. (Must join at Min Rank)
+ No, I am not a current military service member, and I am NOT willing to become a member if selected for this position
+
+
+3.
+This position(s) requires the incumbent to maintain an active TOP Secret SCI Security Clearance.
+
+Do you possess an active TOP Secret SCI Security Clearance?
+ Yes, I currently possess the Security Clearance requirements as outlined within this vacancy
+ No, while I do not currently possess the Security Clearance requirements, I am willing to obtain it within one (1) year of employment.
+ No, I do not currently possess the Security Clearance requirements, and I am not willing to obtain it within one (1) year of employment.
+
+
+4.
+Select the response which best represents your current employment status.
+
+Note: To verify eligibility, your most recent, non-award, Notification of Personnel Action (SF-50) must be included within your application if Federal Employment is claimed.
+ I am a permanent, Indefinite Title 32 Technician within the agency for which I am applying.
+ I am a member of the New Jersey National Guard as a Drill Status Guardsman or M-Day Soldier. (This response includes Temporary and Active Guard Reserve employees within the New Jersey National Guard)
+ My current employment status is not reflected in any of the above categories BUT, I am willing to become a member of the New Jersey National Guard should I be selected for this position. (must join at min rank).
+ My current employment status is not reflected in any of the above categories, AND I am not willing to join the NJ National Guard
+
+
+Assessment 1
+We will evaluate your resume and responses to this Assessment Questionnaire to determine if you are among the best qualified for this position. Your responses are subject to verification and must be supported by your resume and supporting documents.
+
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+1.
+Do you meet the following General Experience?
+Basic knowledge of data processing functions
+Program analyst or other positions that required the use or adaptation of computer programs
+General management principles that enabled the applicant to understand the stages required to automate a work process
+
+
+ Yes
+ No
+
+
+2.
+Do you have at least 36 months of the following Experience(s)?
+Planning the sequence of actions necessary to accomplish the assignment
+Guidelines or precedents to meet the needs of the assignment
+ Yes
+ No
+
+
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+
+
+3.
+Performs studies and independently establish plans for improving the efficiency of information technology and communications processes.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+4.
+Conducts extensive research of new vulnerabilities and insecurities discovered in operating systems, application software, infrastructure and boundary protection devices.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+5.
+Evaluates mission effectiveness, using standardized and locally developed evaluation programs and processes.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+6.
+Collectively evaluates management effectiveness, performance and technical proficiency of assigned personnel, equipment, and systems condition
+
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+7.
+Develops tactical objectives and/or tactical taskings for a team of Cyberspace Operators
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+8.
+Develops tactical approach and synchronizes actions of multiple qualified operators in order to achieve objectives.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+For each knowledge area, select the one response that most accurately describes your current level of knowledge using the scale below.
+
+
+9.
+Monitors the training status of personnel and ensures that supplemental and/or remedial training is accomplished.
+ I have no knowledge of this area.
+ I have the knowledge to understand general issues and/or contribute opinions during a casual conversation concerning topics in this area.
+ I have the knowledge to teach at the high school level or train novices about issues in this area.
+ I have the knowledge to teach at the college undergraduate level or to train entry-level professionals about issues in this area.
+ I have the knowledge to teach at the graduate level or to train professionals in this area.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+10.
+I certify that, to the best of my knowledge and belief, all of the information included in this questionnaire is true, correct and provided in good faith. I understand that if I make an intentional false statement or commit deception or fraud in this application or its supporting materials, or in any document or interview associated with the examination process, I may be fined or imprisoned (18 U.S.C 1001); my eligibilities may be canceled; I may be denied an appointment; or I may be removed and debarred from Federal Service (5 C.F.R Part 731). I understand that any information I give may be investigated. I understand that responding "No" to this item will result in my not being considered for this position.
+
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
