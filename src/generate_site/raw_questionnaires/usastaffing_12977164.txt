@@ -1,0 +1,236 @@
+Position Title
+Data Science - Technical
+Agency
+DHS Headquarters
+Announcement Number
+26-12977164-CBWQ Opens in new window
+Open Period
+Jun 12, 2026 to Jun 27, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+DHS actively works to recruit members of the veteran community for jobs in the DHS Cybersecurity Service. Select the response that describes your status as a veteran/preference eligible. Note: Depending on your selection, you may be required to submit additional information/documentation later in the application process.
+
+
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+Reasonable Accommodations for taking the online assessments are provided on a case-by-case basis only to qualified individuals with a disability covered by the Rehabilitation Act of 1973, as amended.
+
+Do you have a disability (physical or mental) that you believe will interfere with completing the online assessments and require a Reasonable Accommodation?
+
+ Yes
+ No
+
+
+Preferences
+This position is focused on the technical capability of Cybersecurity Data Science. As part of the assessment process for this position, you will be required to demonstrate your expertise in Cybersecurity Data Science.
+
+If Cybersecurity Data Science is your primary technical capability, reflecting the majority of your cybersecurity technical expertise and experience, please continue.
+
+If not, please contact cybersecurityservice@hq.dhs.gov for assistance before you proceed. To learn more about DHS Cybersecurity Service technical capabilities visit: http://dhscs.usajobs.gov/Jobs.
+
+
+1.
+In the DHS Cybersecurity Service, employees in the Technical Track typically have 5+ years of cybersecurity work experience in progressively-difficult individual contributor roles. They also have fully-formed cybersecurity technical expertise, and some are even resident experts relied on by their organizations to address the most pressing technical challenges.
+
+Select the response that best describes your cybersecurity technical work experience. Please ensure that your resume clearly reflects cybersecurity technical work experience. To ensure that your resume reflects the cybersecurity technical work experience, DHS is seeking, please review our Resume Tips application portal, and the DHS Cybersecurity Service technical capabilities at http://dhscs.usajobs.gov/Jobs to determine whether you need to update your resume to ensure DHS can accurately credit the cybersecurity technical work experience you claim.
+
+Note: If none of these responses seem accurate, you may have applied via the wrong career track. Contact cybersecurityservice@hq.dhs.gov for assistance before you proceed.
+ I have 5 + years of cybersecurity work experience serving in technical individual contributor roles
+ I have 8 + years of cybersecurity work experience serving in technical individual contributor roles
+ I have 12 + years of cybersecurity work experience serving in technical individual contributor roles
+ I have 15 + years of cybersecurity work experience serving in technical individual contributor roles
+
+
+2.
+Based on your selection above regarding the number of years of cybersecurity work experience serving in technical individual contributor roles, please provide the total years and months of cybersecurity technical work experience (e.g., 5 year 3 months) that you claim: ___ years ____ months.
+
+Also, please list the jobs described in your resume that match the cybersecurity technical work experience you claim. For each job you list, provide your title and the name of the organization. For example: "Job Title 1, Organization 1"; "Job Title 2, Organization 2"; Job Title 3, Organization 3, etc.
+
+
+3.
+While degrees are not required for jobs in the DHS Cybersecurity Service, DHS is interested in your level of education and the topics you studied.
+
+Select the highest level of education you have obtained.
+
+Note: DHS is only interested in education above the high school level that is from an accredited institution, as identified by the U.S. Department of Education. If education is from a foreign college or university, you may be required to show that it was comparable to that from an accredited institution in the United States.
+
+ High School Diploma or GED
+ Associate’s Degree
+ Bachelor’s Degree
+ Master’s Degree
+ Doctorate Degree
+ Other
+
+
+4.
+If you indicated education above the high school level in response to the previous question, select all of the areas in which you obtained a degree(s).
+
+Note: If you have not completed education above the high school level or obtained degrees in areas other than those listed, no response is required.
+ A. Computer Science
+ B. Computer Engineering
+ C. Cybersecurity (e.g., cyber operations, cyber defense, information security)
+ D. Electrical Engineering
+ E. Applied Mathematics/Statistics/Data Science
+ F. Robotics
+ G. Artificial Intelligence
+ H. Other
+
+
+5.
+Select all cybersecurity-related certifications that you currently have.
+
+Note: If you do not have any cybersecurity-related certifications, no selection is required. If you select "Other," you can specify the cybersecurity-related certification(s) in response to the next question.
+ A. Certified Authorization Professional (CAP)
+ I. Certified Cloud Security Professional (CCSP)
+ J. Certified Ethical Hacker (CEH)
+ K. Certified Forensic Analyst (GCFA)
+ L. Certified Information Security Manager (CISM)
+ M. Certified Information Systems Auditor (CISA)
+ N. Certified Information Systems Security Professional (CISSP)
+ O. Certified Penetration Tester (CPT)
+ P. Cisco Certified Network Professional (CCNP) Security
+ Q. Certified Secure Software Lifecycle Professional (CSSLP)
+ R. CompTIA A+
+ S. CompTIA Advanced Security Professional (CASP)
+ T. CompTIA Cybersecurity Analyst (CYSA+)
+ U. Computer Hacking Forensic Investigator (CHFI)
+ V. Cybersecurity Practitioner (CSXP)
+ W. EnCase Certified Examiner (EnCE)
+ X. Expert Systems Engineering Professional (ESEP)
+ Y. GIAC Certified Incident Handler (GCIH)
+ Z. GIAC Cyber Threat Intelligence (GCTI)
+ AA. GIAC Strategic Planning, Policy, and Leadership (GSTRT)
+ AB. Global Industrial Cyber Security Professional (GICSP)
+ AC. GIAC Response and Industrial Defense (GRID)
+ AD. Information Systems Security Architecture Professional (ISSAP)
+ AE. Information Systems Security Engineering Professional (ISSEP)
+ AF. Network+
+ AG. Offensive Security Certified Expert (OSCE)
+ B. Offensive Security Certified Professional (OSCP)
+ C. Offensive Security Exploitation Expert (OSEE)
+ D. Offensive Security Web Expert (OSWE)
+ E. Offensive Security Wireless Professional (OSWP)
+ F. Security+
+ G. Systems Security Certified Practitioner (SSCP)
+ H. Other
+
+
+6.
+If you selected "Other" in response to the previous question, list the additional cybersecurity-related certification(s) you have.
+
+
+7.
+Select all coding/programming languages in which you are proficient.
+
+Note: If you are not proficient in any coding/programming languages, no selection is required. If you select "Other," you can specify the language(s) in response to the next question
+ A. C
+ B. C#
+ C. C++
+ D. Go
+ E. Java
+ F. JavaScript
+ G. Kotlin
+ H. Perl
+ I. PHP
+ J. Python
+ K. R
+ L. Ruby
+ M. Rust
+ N. Scala
+ O. Swift
+ P. SQL
+ Q. NoSQL
+ R. Other
+
+
+8.
+If you selected "Other" in response to the previous question, specify the additional coding/programming language(s) in which you are proficient.
+
+
+9.
+If there is a salary range or lowest salary you are willing to accept, you may provide that information.
+
+Note: Response is not required. To learn more about salaries generally available in the DHS Cybersecurity Service at different career levels visit: http://dhscs.usajobs.gov/Benefits
+
+
+10.
+DHS is actively expanding the DHS Cybersecurity Service and creating new jobs across DHS organizations.
+
+Select all the DHS organizations for which you would like to be considered for DHS Cybersecurity Service jobs.
+ A. Cybersecurity and Infrastructure Security Agency (CISA)
+ B. DHS Office of the Chief Information Officer (OCIO)
+ C. Federal Emergency Management Agency (FEMA)
+ D. All Other DHS Organizations
+
+
+11.
+Consider the type of job, in terms of time period and regular work hours, you are willing to accept, and select all responses that apply.
+ A. Full-time job (80 hours every 2 weeks) with no defined end date
+ B. Part-time job (less than 80 hours every 2 weeks) with no defined end date
+ C. Short-term/project work (either part- or full-time) scheduled to last 1 – 3 year
+
+
+12.
+Select the location(s) you want to be considered for. You must choose at least one location.
+ A. Chandler, AZ
+ B. Washington, DC
+ C. Pensacola, FL
+ D. Idaho Falls, ID
+ E. Stennis Space Center, MS
+ F. Arlington, VA
+ G. Springfield, VA
+
+
+13.
+Consider whether you are willing to travel away from home as part of your job, and select all responses that apply.
+
+Note: If you are not interested in a job involving travel, no selection is required.
+ A. 1 to 5 nights each month
+ B. 6 to 10 nights each month
+ C. 11 or more nights each month
+
+
+14.
+Are you a current DHS civilian employee?
+ Yes
+ No
+
+
+15.
+Are you a current or former federal employee?
+ Yes
+ No
+
+
+16.
+Are you a current or former federal political employee (e.g., Schedule C, Non-career SES, or Presidential Appointee)?
+ Yes
+ No
+
+
+17.
+May we share your application with other federal agencies for positions outside of the DHS Cybersecurity Service?
+ Yes
+ No
+
+
+18.
+May we share your application with others in DHS for positions outside of the DHS Cybersecurity Service?
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
