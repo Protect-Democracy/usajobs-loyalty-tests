@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "total_jobs": 209146,
+    "total_jobs": 209151,
     "cutoff_date": "2025-06-01",
-    "generation_date": "2026-06-13T10:58:33.955627"
+    "generation_date": "2026-06-14T10:21:18.269817"
   },
   "by_service_type": {
-    "Competitive": 130433,
-    "Excepted": 77714,
+    "Competitive": 130437,
+    "Excepted": 77715,
     "Senior Executive": 999
   },
   "by_grade_level": {
@@ -16,7 +16,7 @@
     "GS-11": 11059,
     "GS-9": 9014,
     "GS-14": 8088,
-    "GS-7": 7757,
+    "GS-7": 7758,
     "GS-6": 7073,
     "VM-15": 5415,
     "GS-9/11": 5075,
@@ -40,7 +40,7 @@
     "Fort Meade, Maryland": 1224,
     "San Antonio, Texas": 1131,
     "Portland, Oregon": 1086,
-    "Atlanta, Georgia": 1066,
+    "Atlanta, Georgia": 1067,
     "Battle Creek, Michigan": 1062,
     "Los Angeles, California": 1034,
     "Tucson, Arizona": 1015,
@@ -54,9 +54,9 @@
     "Richmond, Virginia": 900
   },
   "by_agency": {
-    "Department of Veterans Affairs": 71329,
+    "Department of Veterans Affairs": 71330,
     "Department of the Air Force": 25892,
-    "Department of the Navy": 23480,
+    "Department of the Navy": 23483,
     "Department of Defense": 20539,
     "Department of the Army": 20098,
     "Department of Justice": 10853,
@@ -66,7 +66,7 @@
     "Department of Transportation": 3731,
     "Department of Agriculture": 2846,
     "Department of Health and Human Services": 2278,
-    "Legislative Branch": 1533,
+    "Legislative Branch": 1534,
     "Department of Commerce": 1268,
     "Department of Energy": 1202,
     "Department of the Treasury": 995,
@@ -77,7 +77,7 @@
   },
   "by_occupation": {
     "0610 - Nurse": 11999,
-    "0301 - Miscellaneous Administration And Program": 7429,
+    "0301 - Miscellaneous Administration And Program": 7430,
     "0602 - Medical Officer": 6294,
     "0185 - Social Work": 5435,
     "2210 - Information Technology Management": 4980,
@@ -85,13 +85,13 @@
     "0679 - Medical Support Assistance": 4147,
     "0303 - Miscellaneous Clerk And Assistant": 4145,
     "1101 - General Business And Industry": 3890,
-    "1702 - Education And Training Technician": 3857,
+    "1702 - Education And Training Technician": 3860,
     "0189 - Recreation Aid And Assistant": 3823,
     "0620 - Practical Nurse": 3043,
     "0180 - Psychology": 2751,
     "0201 - Human Resources Management": 2735,
     "0801 - General Engineering": 2535,
-    "0640 - Health Aid And Technician": 2305,
+    "0640 - Health Aid And Technician": 2306,
     "None - Unknown": 2250,
     "0905 - Attorney": 2239,
     "3566 - Custodial Working": 2075,
