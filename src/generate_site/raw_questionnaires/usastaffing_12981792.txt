@@ -1,0 +1,179 @@
+Position Title
+Forestry Technician (Data Base Administrator)
+Agency
+Forest Service
+Announcement Number
+26-EHT-FIRENC3-FS5438-9DP Opens in new window
+Open Period
+Jun 18, 2026 to Jun 28, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+Are you a current USDA employee who meets the definition of a "surplus" or "displaced" employee, in which received official notice that your job is no longer needed or that you will lose your job by Reduction-in-Force (RIF)? If yes, confirm:
+
+• you are located in the same local commuting area as the vacancy;  AND,
+• you are applying to a position that is at or below the grade level of the position from which you will be separated; AND,
+• you are applying to a position that does not have greater promotion potential than the position from which you will be separated; AND,
+• your last performance rating of record is at least fully successful or the equivalent.
+
+For more information, review the USAJOBS Help Center.
+ 
+ 
+ Yes
+ No
+
+
+3.
+Are you a current or former federal employee displaced from a position in a Federal agency other than USDA? If yes, confirm:
+
+• you are located in the same local commuting area as the vacancy;  AND,
+• you are applying to a position that is at or below the grade level of the position from which you were or will be separated; AND,
+• you are applying to a position that does not have greater promotion potential than the position from which you were or will be separated; AND,
+• your last performance rating of record is at least fully successful or the equivalent.
+
+ For more information, review the USAJOBS Help Center.
+ 
+ 
+ Yes
+ No
+
+
+4.
+Have you registered for reemployment consideration AND meet one of the below: 
+
+• Are you a current or former competitive service USDA employee who will be or was separated by Reduction-In-Force (RIF) and received a rating of satisfactory or above as your last annual performance rating? 
+OR 
+• Are you a former USDA competitive service employee who separated due to a compensable injury or disability?
+ Yes
+ No
+
+
+Preferences
+1.
+Select the location(s) you want to be considered for. You must choose at least one location.
+ A. Baker City, OR
+ B. Joseph, OR
+ C. La Grande, OR
+
+
+2.
+Are you a current or former Political appointee, Presidential appointee, and/or non-career Senior Executive Service (SES) appointee?
+ Yes
+ No
+
+
+3.
+Please enter at least 3 references below. Include first and last name, phone number and email address.
+
+
+
+Short Essay Questions
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot. Responses are optional, but each essay response field requires text to be entered to allow you to submit your application. Type N/A if you choose not to respond to any of the next four essay questions.
+
+
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+
+
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+
+
+3.
+How would you help advance the President's Executive Orders and policy priorities in this role? Identify one or two relevant Executive Orders or policy initiatives that are significant to you, and explain how you would help implement them if hired.
+
+
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+
+
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+
+
+Assessment 1
+This section will be used to determine if you meet the requirements and possess the experience and/or education needed to qualify for this position.
+
+
+For the following questions, select the response that best describes your experience and training. Mark only one response for each question. Please note that your answers will be verified against the information you provide in your resume or application, as well as information provided by your references. Failure to respond to the questions will result in an ineligible rating.
+
+
+1.
+Select the statement that best reflects your experience and/or education for the Database Administrator (FACTS) position at the GS-09 grade level. Experience claimed must be supported in your resume. Transcripts must be provided for experience based on education.
+ You must have one year specialized experience that is equivalent to the GS-08 grade level defined as one or more of the following: Oversaw the management, input, manipulation, retrieval, and reporting of data from a natural resource database system; Assisted customers with natural resource geospatial products, maps, and data products; OR Researched and problem solved to assist customers in natural resource databases.
+ I have a master's or equivalent graduate degree or 2 full years of progressively higher-level graduate education leading to such a degree or LL.B. or J.D., if related. The education must have been obtained in an accredited college or university and demonstrate the knowledge, skills, and abilities necessary to do the work.
+ I have an appropriate combination of specialized experience and education (only graduate education in excess of 18 semester hours may be used to qualify applicants for this grade level).
+ I do not meet the requirements described above.
+
+
+For the following questions, select the option from the list below that best reflects the appropriate description associated with the position. Please select only one response for each question.
+
+
+2.
+Which option best describes the position's responsibilities in managing geospatial and tabular data for FACTS?
+ Creating, maintaining, and validating geospatial and tabular natural resource data; resolving errors; producing analytical products; training users; and ensuring database accuracy and consistency for FACTS.
+ Maintaining geospatial layers and assisting users with FACTS data entry, with involvement in analysis or error resolution.
+ Producing maps and supporting vegetation management, consistently managing database accuracy or providing analytical support.
+ Conducting research and assembling information for reports with responsibility for maintaining FACTS geospatial datasets.
+ Working only with paper maps and not using digital geospatial tools or databases.
+
+
+3.
+Which option best reflects the position's responsibilities in project planning, mapping, and program coordination?
+ Providing geospatial products and mentoring users, with involvement in contract mapping or fund plan coordination.
+ Managing only administrative office tasks without involvement in geospatial analysis, mapping, or FACTS coordination.
+ Assisting with project planning and timelines; producing maps for contracts; updating maps for modifications; overseeing FACTS accomplishment recording; and ensuring accurate input for BD, KV, and Salvage Sale Fund plans.
+ Creating maps for vegetation management and helping with project timelines, consistently overseeing FACTS accomplishment recording.
+ Conducting research for special projects and preparing reports, with regularly supporting FACTS or contract mapping needs.
+
+
+For each item below, use the text box to provide a description of a specific instance from your training and/or experience. In your response, please follow these important guidelines as you write your accomplishment:
+Describe the situation -- i.e., the challenge faced, the problem to be solved...
+Describe the specific actions you took.
+State the outcome, results, or long-term impact of your accomplishment.
+Provide the name and a telephone number, email address, or other method of contacting someone who can verify this information. Failure to provide a full, articulated response may result in an ineligible rating or affect your overall rating.
+
+
+4.
+Please describe one specific instance from your training and/or experience in which you demonstrated experience assisting in project planning, developing timelines and milestones, data analysis assessments (limit of 700 characters).
+
+
+5.
+Please describe one specific instance from your training and/or experience in which you demonstrated experience conducting extensive research and compilation of data from diverse sources (limit of 700 characters).
+
+
+Your responses to the Announcement and Assessment Questionnaires, along with your supporting documentation, are subject to evaluation and verification to ensure accuracy. Please take an opportunity to review your responses for their accuracy.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+6.
+Have you read the "Required Documents" section of the vacancy announcement and understand that failure to submit all required, legible documents prior to the closing date of the announcement may result in loss of consideration?
+ Yes
+ No
+
+
+7.
+Your responses to the Announcement and Assessment Questionnaires, along with your resume and all supporting documentation are subject to evaluation and verification to ensure accuracy. Submitting false information or attempts to falsify information may be grounds for disqualifying you or for terminating you after you have been hired. Please take this opportunity to review your responses to ensure their accuracy.
+ Yes, I certify, to the best of my knowledge and belief, all the information submitted by me with my application for employment is true, complete, and made in good faith, and that I have truthfully and accurately represented my work experience, knowledge, skills, abilities and education (degrees, certifications, accomplishments, etc.). I understand that the information provided is subject to investigation. I understand that misrepresenting my experience or education, or providing false, fraudulent or inaccurate information in or with my application may be grounds for not hiring me or for terminating me after I begin work. I also understand that false or fraudulent statements may be punishable by fine or imprisonment (18 U.S.C. 1001).
+ No, I do not certify, and I understand that by responding "no" to this certification that I will not receive consideration for this position.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
