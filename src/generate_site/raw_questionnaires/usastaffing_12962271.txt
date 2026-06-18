@@ -1,0 +1,155 @@
+Position Title
+Information Technology Specialist (Power BI Developer)
+Agency
+Office of the Inspector General
+Announcement Number
+12962271-BSM-DE Opens in new window
+Open Period
+Jun 17, 2026 to Jul 01, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+Career Transition Assistance Plan (CTAP) - Are you a current employee of the Department of Justice who meets the definition of surplus or displaced from a position in the competitive service? If you indicate "Yes" for this question, confirm you meet all the following requirements:
+
+•    You are located in the same local commuting area of the vacancy;
+•    Your grade is equivalent to or below the grade level of the vacancy;
+•    Your last performance rating of record is at least fully successful or the equivalent.
+
+You MUST also submit supporting documentation to validate your claim of CTAP eligibility such as:
+•    A Reduction in Force (RIF) separation notice or a Certificate of Expected Separation (CES), AND 
+•    A copy of your most recent annual performance appraisal, AND 
+•    A copy of your most recent SF-50 (Notification of Personnel Action)
+
+
+For more information, USAJOBS Help Center..
+ Yes
+ No
+
+
+3.
+Interagency Career Transition Assistance Plan (ICTAP) - Are you a current or former federal employee who meets the definition of displaced from a position in the competitive service from a Federal agency outside of Department of Justice? If yes, confirm you meet all the following requirements:
+•    You are located in the same local commuting area of the vacancy;
+•    Your grade is/was equivalent to or below the grade level of the vacancy;
+•    Your last performance rating of record is at least fully successful or the equivalent;
+•    It has been less than a year from your separation from Federal service
+
+If you indicate "Yes" for this question, you MUST submit supporting documentation to validate your claim of CTAP eligibility such as a Reduction in Force (RIF) separation notice or a Certificate of Expected Separation (CES) AND a copy of your most recent annual performance appraisal, AND a copy of your most recent SF-50 (Notification of Personnel Action).
+For more information, https://www.usajobs.gov/help/working-in-government/unique-hiring-paths/federal-employees/career-transition/
+ Yes
+ No
+
+
+4.
+Reasonable Accommodations for taking the online assessments are provided on a case-by-case basis only to qualified individuals with a disability covered by the Rehabilitation Act of 1973, as amended.
+
+Do you have a disability (physical or mental) that you believe will interfere with completing the online assessments and require a Reasonable Accommodation?
+
+ Yes
+ No
+
+
+Preferences
+1.
+Select the lowest grade you are willing to accept for this position.
+13
+14
+
+
+2.
+If you fail to answer this question, you will be disqualified from consideration for this position. I certify that, to the best of my knowledge and belief, all of the information included in this questionnaire is true, correct, and provided in good faith. I understand that if I make an intentional false statement, or commit deception or fraud in this application and its supporting materials, or in any document or interview associated with the examination process, I may be fined or imprisoned (18 U.S.C.)1001); my eligibilities may be canceled; I may be denied an appointment; or I may be removed and debarred from Federal service (5 C.F.R. Part 731). I understand that any information I give may be investigated. I understand that responding "No" to this item will result in my not being considered for this position.
+ Yes
+ No
+
+
+Essay Questions
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+
+
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+
+
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+
+
+3.
+How would you help advance the President's Executive Orders and policy priorities in this role? Identify one or two relevant Executive Orders or policy initiatives that are significant to you, and explain how you would help implement them if hired.
+
+
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+
+
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+
+
+Assessment 1
+We will evaluate your resume and responses to this Assessment Questionnaire to determine if you are among the best qualified for this position.  Your responses are subject to verification and must be supported by your resume and supporting documents.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+1.
+Specialized Experience GS-13
+To qualify for this position, the incumbent must have at least one year of specialized experience at the GS-2210-12 IT Specialist level, including:
+Serving as  Power BI Developer in Azure and/or on-premises environments;
+Professional  SQL development experience; and
+Familiarity with Python coding. 
+
+Your resume must support the response you select. Do you possess the GS-13 specialized experience listed above?
+ Yes
+ No
+
+
+2.
+Specialized Experience GS-14
+To qualify for this position, the incumbent must have at least one year of specialized experience at the GS-2210-13 IT Specialist level including:
+Serving as a Power BI Senior Developer in Azure and/or on-premises environments;
+Extensive professional experience in designing and developing code in SQL and Python.
+
+Your resume must support the response you select. Do you possess the GS-14 specialized experience listed above?
+ Yes
+ No
+
+
+3.
+Your resume must demonstrate you have IT-related experience demonstrating each of the below competencies. Do NOT copy and paste the duties, specialized experience, or occupational assessment questionnaire from this announcement into your resume as that will not be considered a demonstration of your qualifications for this position. Your resume must describe your work and experience, in your own words.
+Attention to Detail- Is thorough when performing work and conscientious about attending to detail.
+Customer Service-Works with clients and customers (that is any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services. 
+Decision Making-Makes sound, well-informed, and objective decisions; perceives the impact and implications of decisions; commits to action, even in uncertain situations, to accomplish organizational goals; causes change.
+Information Management- Identifies a need for and knows where or how to gather information; organizes and maintains information or information management systems.
+Interpersonal Skills-Shows understanding, friendliness, courtesy, tact, empathy, concern, and politeness to others; develops and maintains effective relationships with others; may include effectively dealing with individuals who are difficult, hostile, or distressed; relates well to people from varied backgrounds and different situations.
+Oral Communication: Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately. 
+Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.
+Teamwork- Encourages and facilitates cooperation, pride, trust, and group identity; fosters commitment and team spirit; works with others to achieve goals.
+Technical Competence- Uses knowledge that is acquired through formal training or extensive on the job experience to perform one's job; works with, understands, and evaluates technical information related to the job; advises others on technical issues.
+Application Development - Uses programming languages to script and automate tasks; applies programming languages and skills across multiple platforms or frameworks.
+Enterprise Report Development - Rapidly develops customer facing visualizations, dashboards and reusable components using Power BI. Works in DataOps delivery environments such as Agile, Azure DevOps, GitLab, Business Intelligence and Data Analytics. Ability to integrate maps from ArcGIS into PBI dashboards, connect external data sets from APIs for dynamic data updates.
+Data Visualization -Utilizes tools, techniques, and software to generate reports or visualizations that convey data analyses, findings, and limitations.
+Data Wrangling - Designs and implement analytical visualizations with Power BI associative data model and DAX Scripts. Employs visual analytics best practices, development processes. Integrates reporting components from multiple data sources. Analyzes and document existing data, data flows, data requirements, and reporting needs
+
+Do you have IT-related experience demonstrating each of competencies above?
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
