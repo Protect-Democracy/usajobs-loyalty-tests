@@ -1,0 +1,217 @@
+Position Title
+Supervisory Operations Research Specialist
+Agency
+Defense Human Resources Activity
+Announcement Number
+DHRADPAC-26-12985234-DHA Opens in new window
+Open Period
+Jun 18, 2026 to Jun 28, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+Are you the spouse of a member of the Armed Forces on active duty? 
+-OR-
+Are you the spouse of a member of the Armed Forces who is retired, released, or discharged from the Armed Forces AND on the date of retirement, release, or discharge, has a 100% disability rating from the Department of Veterans Affairs? 
+-OR-
+Are you the un-remarried widow or widower of a member of the Armed Forces killed while in active duty status?
+
+For more information, review USAJOBS Veterans resources.
+ Yes
+ No
+
+
+3.
+Eligible: I am a military spouse who has relocated or will relocate within 30 days with my active duty sponsor on a permanent change of station (PCS) move to a new active duty assignment. I am exercising my preference eligibility to positions within the local commuting area of the new duty station. I certify that I have not accepted nor declined a permanent, continuing Federal or non-appropriated fund position in the local commuting area of the new duty location.
+
+NOTE 1: Military spouses are eligible for one noncompetitive appointment using their preference eligibility for the duration of the active duty sponsor's relocation to the new permanent duty station, as long as the military spouse has not declined or accepted a permanent, continuing Federal or non-appropriated fund position in the geographical area of the PCS orders. If you certify that you have not used your preference at your sponsor's new duty location and it is discovered to be untrue, you may be subject to loss of MSP and possible disciplinary action.
+
+NOTE 2: MSPs using eligibility EO 13473 cannot be appointed until they have relocated with the military sponsor to the new duty station.
+
+Supporting Documentation:  You must provide a signed Military Spouse PPP Self-Certification Checklist, https://publicfileshare.chra.army.mil/USAStaffing/DD_3145-4_Military_Spouse_PPP_SelfCertification_Checklist_v2.pdf  
+PCS orders/verification of duty location assignment, a copy of marriage certificate or license and documents as listed on the Military Spouse PPP Self-certification Checklist. 
+
+Are you a Priority Placement Program DoD Military Spouse Preference Eligible?
+
+
+
+
+ Yes
+ No
+
+
+Preferences
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+
+
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+
+
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+
+
+3.
+How would you help advance the President's Executive Orders and policy priorities in this role? Identify one or two relevant Executive Orders or policy initiatives that are significant to you, and explain how you would help implement them if hired.
+
+
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+
+
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+
+
+Assessment 1
+1.
+This is a screen out question. From the descriptions below, select the letter that BEST describes the highest level of education and/or experience that you fully possess in order to minimally qualify for this position. Read all of the statements completely before making your selection.
+
+ I possess one year of specialized experience at the GS-13 grade level or equivalent under other pay systems in the Federal service, military or private sector. My creditable specialized experience includes: Ability to plan and execute the full analytic lifecycle, including data ingestion, preparation, feature engineering, modeling, validation, and delivery of results; proficiency in applying advanced analytical techniques (linear/non-linear methods, Bayesian methods, tree-based algorithms, clustering, NLP, LLMs) to large, diverse datasets. Skill in designing, building, and automating data pipelines (ETL, feature tables, jobs, experiments) for efficient, repeatable, and scalable workflows. Ability to develop user-focused analytics and decision-support tools, ensuring reproducibility and documentation.
+ I do not possess the required level of specialized experience to qualify for this position.
+
+
+2.
+Please select the response that most closely represents your Education for the position of Supervisory Operations Research Analyst, GS-1515-14. FAILURE TO ANSWER THIS QUESTION WILL MAKE YOU INELIGIBLE.
+
+ I have a degree with a major or equivalent in in operations research; or at least 24 semester hours in a combination of operations research, mathematics, probability, statistics, mathematical logic, science, or subject-matter courses requiring substantial competence in college-level mathematics or statistics. At least 3 of the 24 semester hours must have been in calculus. Courses acceptable for qualifying for operations research positions may have been taken in departments other than Operations Research, e.g., Engineering (usually Industrial Engineering), Science, Economics, Mathematics, Statistics, or Management Science.
+ I do not have the required education for this position.
+
+
+In this part you will respond to questions about your experience as it relates to the position for which you are applying. For each task question, choose the level description that best describes your experience and/or training. Your responses must be fully supported within the text of your resume. Failure to properly identify your experience may result in the lowering of your overall score and/or your disqualification for this position.
+
+
+3.
+You are tasked with simulating workforce attrition over a five-year period. Which modeling approach is most appropriate for capturing transitions between employment states?
+
+ Linear regression
+ Monte Carlo simulation
+ Markhov chain modeling
+ Decision tree classification
+
+
+4.
+When validating a simulation model for personnel policy changes, which method best ensures the model's predictive reliability?
+
+ Compare simulated outcomes to historical averages.
+ Use out-of-sample testing and sensitivity analysis.
+ Review model assumptions with subject matter experts.
+ Accept results if they match stakeholder expectations.
+
+
+5.
+You need to model the impact of a new policy on workforce diversity. Which technique would best allow you to explore multiple scenarios and their potential outcomes?
+
+ Scenario-based simulation
+ Descriptive statistics
+ Random sampling
+ Logistic regression
+
+
+6.
+You are tasked with identifying latent groupings in a large, unlabeled dataset of personnel records. Which approach is most appropriate?
+
+ Principal Component Analysis (PCA)
+ K-means clustering
+ Logistic regression
+ Time series forecasting
+
+
+7.
+When validating a predictive model, which metric best assesses its accuracy for a classification problem?
+
+ Mean squared error
+ R-squared
+ Confusion matrix
+ Mode of the target variable
+
+
+8.
+You are evaluating the performance of a binary classification model for predicting employee attrition. Which metric would be most appropriate if the cost of false negatives (failing to identify someone who will leave) is much higher than false positives?
+
+ Overall accuracy
+ Area under the ROC curve (AUC)
+ Recall (Sensitivity)
+ Specificity
+
+
+9.
+When preparing data for a predictive workforce model, you discover several features have a high degree of multicollinearity. What is the best course of action?
+
+ Standardize all features to have zero mean and unit variance.
+ Remove or combine highly correlated features to reduce redundancy.
+ Increase the sample size to minimize the effect.
+ Ignore the issue if the model’s accuracy is high.
+
+
+10.
+You are designing a data pipeline to integrate personnel data from multiple sources. Which practice best ensures data quality and consistency?
+
+ Apply basic data cleaning scripts to each source independently.
+ Implement standardized data validation and transformation rules across all sources.
+ Rely on source system documentation for data definitions.
+ Accept all incoming data without checks.
+
+
+11.
+You discover duplicate records in your personnel database. What is the most effective way to resolve this issue?
+
+ Ignore duplicates if they are not causing immediate problems.
+ Use automated deduplication algorithms based on unique identifiers and matching rules.
+ Manually review and delete duplicates.
+ Delete all records and start over.
+
+
+12.
+To ensure reproducibility of your analytics workflow, which practice is most important?
+
+ Save final results in a shared folder.
+ Document steps in a Word file.
+ Use version control (e.g., Git) and maintain code, data, and documentation together.
+ Rely on memory for workflow steps.
+
+
+13.
+A team member is consistently missing deadlines, and their performance is affecting project outcomes. What is your first procedural step as a supervisor?
+
+ Immediately terminate the employee.
+ Reassign all their work to other team members.
+ Meet with the employee to discuss performance concerns, provide feedback, and document the conversation.
+ Ignore the issue and hope it improves.
+
+
+14.
+You notice that your team's skill set does not fully match the requirements for an upcoming analytics project critical to the organization's mission. What is your best course of action as a supervisor?
+
+ Assign the project to the team as-is and hope they learn on the job.
+ Encourage team members to seek out online tutorials on their own.
+ Identify skill gaps, arrange targeted training or mentoring, and adjust assignments to ensure the team is prepared to meet mission requirements.
+ Delay the project until new staff can be hired.
+
+
+15.
+A new organizational priority requires your team to adopt advanced data science techniques. What is the most effective way to ensure your team is ready to support this mission shift?
+
+ Assign the new tasks without preparation.
+ Ask for volunteers who already have the skills.
+ Assess current capabilities, provide targeted upskilling, and foster knowledge sharing to build team readiness.
+ Outsource the work to external consultants.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
