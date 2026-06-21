@@ -1,10 +1,10 @@
 {
-  "created_at": "2026-06-20T08:27:34.995569",
+  "created_at": "2026-06-21T08:48:02.182264",
   "row_counts": {
     "historical_jobs_2025.parquet": 159805,
     "historical_jobs_2026.parquet": 114750,
     "current_jobs_2025.parquet": 87400,
-    "current_jobs_2026.parquet": 99189,
+    "current_jobs_2026.parquet": 99195,
     "current_jobs_2024.parquet": 584,
     "historical_jobs_2024.parquet": 367186
   },
@@ -461159,7 +461159,13 @@
       "873515600",
       "873568800",
       "873745300",
-      "873745400"
+      "873745400",
+      "873748800",
+      "873530900",
+      "873137500",
+      "873145200",
+      "873747500",
+      "873749000"
     ],
     "current_jobs_2024.parquet": [
       "663177200",
