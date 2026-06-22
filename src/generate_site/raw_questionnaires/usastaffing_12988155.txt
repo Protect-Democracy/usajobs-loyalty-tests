@@ -1,0 +1,145 @@
+Position Title
+IT Cybersecurity Specialist (Security Architect)
+Agency
+Federal Retirement Thrift Investment Board
+Announcement Number
+FRTIB-26-DH-022-TM Opens in new window
+Open Period
+Jun 22, 2026 to Jul 06, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+
+Are you a current or former federal employee displaced from the agency hiring for this position?
+
+If yes, confirm:
+
+you are located in the same local commuting area of the vacancy
+your grade is equivalent to or below the grade level of the vacancy AND
+your last performance rating of record is at least fully successful or the equivalent.
+You will be required to submit supporting documentation to validate your claim of CTAP eligibility such as a Reduction in Force (RIF) separation notice or a Proposed Removal/Separation notice and a copy of your latest Notification of Personnel Action, Standard Form 50. For more information, review the USAJOBS Resource Center.
+ Yes
+ No
+
+
+3.
+
+Are you a current or former federal employee displaced from a position in a federal agency other than the agency hiring for this position?
+
+If yes, confirm:
+
+you are located in the same local commuting area of the vacancy
+your grade is equivalent to or below the grade level of the vacancy AND 
+your last performance rating of record is at least fully successful or the equivalent.
+You will be required to submit supporting documentation to validate your claim of ICTAP eligibility such as a Reduction in Force (RIF) separation notice or a Proposed Removal/Separation notice and a copy of your latest Notification of Personnel Action, Standard Form 50. For more information, review the USAJOBS Resource Center.
+ Yes
+ No
+
+
+4.
+Are you eligible for appointment under the Excepted Service authority (Schedule A) for Individuals with intellectual disabilities, severe physical disabilities or psychiatric disabilities? [5CFR 213.3102(u)]
+ Yes
+ No
+
+
+5.
+
+Are you a veteran who separated from active duty under honorable conditions and you:
+
+have a rating by the Department of Veterans Affairs showing a compensable service-connected disability of 30% or more OR
+retired from active military service with a service-connected disability rating of 30% or more
+
+If eligible, submit a copy of your latest Certificate of Release or Discharge from Active Duty, DD-214 (copy indicating character of service) or other proof of your service which includes character of service. Please also provide the disability letter from the Department of Veterans Affairs or Armed Service and the Application for 10-Point Veteran Preference, Standard Form 15.
+
+For more information, review USAJOBS Veterans resources.
+
+ Yes
+ No
+
+
+6.
+Reasonable Accommodations for taking the online assessments are provided on a case-by-case basis only to qualified individuals with a disability covered by the Rehabilitation Act of 1973, as amended.
+
+Do you have a disability (physical or mental) that you believe will interfere with completing the online assessments and require a Reasonable Accommodation?
+
+ Yes
+ No
+
+
+7.
+
+Federal law and OPM regulations require agencies to obtain approval before appointing a current or former political appointee to certain federal positions. To ensure compliance with these requirements, please answer the following question carefully and completely.
+
+A political appointment includes any of the following:
+
+A Presidential appointment requiring Senate confirmation (PAS)
+A Presidential appointment not requiring Senate confirmation (PA)
+A non-career Senior Executive Service (SES) appointment
+A Schedule C excepted service appointment (positions of a confidential or policy-determining nature)
+
+Have you ever served in any of the appointment types listed above in the Federal Government?
+
+ Yes — I currently serve or have previously served in one of the political appointment types listed above.
+ No — I have never served in any of the political appointment types listed above.
+
+
+Assessment 1
+1.
+Basic Requirements for Information Technology Management Series (2210)
+To meet the basic qualifications for this position, applicants must demonstrate at least one year of specialized experience equivalent to the GS-13 grade level in the federal service reflecting a wide range of knowledge of IT requirements and techniques.  Experience must demonstrate proficiency in all nine of the following competencies:
+ 
+Attention to Detail -- performing work thoroughly and independently in complex IT environments
+Customer Service -- assessing needs and resolving complex IT service problems with little or no guidance.
+Decision Making -- making sound, well-informed decisions in uncertain or complex situations
+Information Management -- identifying information needs and organizing or maintaining information management systems
+Interpersonal Skills -- developing effective working relationships across varied and difficult situations
+Oral Communication -- delivering clear presentations on technical or sensitive topics to diverse audiences
+Problem Solving -- identifying complex problems, evaluating alternatives, and generating well-supported documentations
+Teamwork -- fostering cooperation and commitment across teams in difficult situations
+Technical Competence -- applying advanced IT knowledge to perform complex duties and advise others
+
+Which of the following best describes how you meet the basic qualification requirement for this position?  Your response must be supported by your resume.
+ I have at least one year of specialized experience equivalent to the GS-13 grade level that demonstrates all nine competencies described above at an Advanced (Level 4) proficiency level, meaning I apply each competency in considerably difficult situations and generally require little or no guidance.
+ I have at least one year of specialized experience equivalent to the GS-13 grade level that demonstrates the majority of the nine competencies described above at an Advanced (Level 4) proficiency level, with demonstrated strengths in other competency areas that offset any deficit, as supported by my resume.
+ I have IT-related experience or intensive IT training that demonstrates specialized experience equivalent to the GS-13 grade level, but my experience does not yet fully demonstrate all nine competencies described above at the Advanced (Level 4) proficiency level.
+ I do not meet any of the requirements listed above.
+
+
+2.
+
+Specialized Experience Requirement - GS-14
+
+To be considered qualified for this position, you must have at least one year of full-time work experience performing duties similar in complexity and responsibility to work typically performed at the GS-13 level in the federal government. Your experience must demonstrate all four of the following areas. Experience in only some of these areas is not sufficient to meet the minimum qualification requirement for this position. Federal experience is not required - equivalent private sector, contractor, or military experience will be evaluated on the same basis.
+ 
+
+Your experience must include all of the following:
+
+Approving the security design and implementation of enterprise technology solutions to ensure systems meet security requirements and support organizational objectives.
+Developing security architectures for enterprise systems and networks to support secure operations across complex technology environments.
+Evaluating cybersecurity risks, conducting security reviews, identifying gaps in security controls, and recommending corrective actions to improve organizational security posture.
+Overseeing cybersecurity projects, contractor performance, or technology service delivery efforts to ensure successful implementation of security requirements and achievement of organizational goals.
+
+
+Important: Your resume must clearly describe the specific duties you performed, the scope of your responsibilities, and the timeframe of your experience in each of the four areas above. Responses that cannot be verified by your resume may result in a lower rating or ineligibility determination.
+
+Do you have at least one year of specialized experience as described above?
+
+ Yes — I have at least one year of full-time specialized experience equivalent to the GS-13 grade level, and my experience includes all four of the activities listed above.
+ No — I do not have at least one year of specialized experience equivalent to the GS-13 grade level, or my experience is missing one or more of the activities listed above.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
