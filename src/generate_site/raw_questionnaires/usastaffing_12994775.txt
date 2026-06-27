@@ -1,0 +1,114 @@
+Position Title
+AVIATION RESOURCE MANAGEMENT SPECIALIST T32
+Agency
+Air National Guard Units
+Announcement Number
+AZ-12994775-26-NW-26-125TF Opens in new window
+Open Period
+Jun 26, 2026 to Sep 23, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+US Citizens.  Are you a US Citizen?
+ Yes
+ No
+
+
+Preferences
+1.
+This position is in the Arizona Air National Guard and requires membership with the Arizona Air National Guard.  
+
+Are you currently a member or eligible in becoming a member of the Arizona Air National Guard?
+ Yes
+ No
+
+
+2.
+Do you possess the rank of E4/SrA - E6/TSgt?
+ Yes
+ No
+
+
+3.
+Do you possess the AFSC of 1C032, 1C052, 1C072?
+ Yes
+ No
+
+
+4.
+Do you possess a Secret security clearance?
+ Yes
+ No
+
+
+5.
+Must possess 1 year specialized experience, education or training equivalent to at least the next lower grade level . Applicants must have experience providing technical guidance and assistance in the type of work or in comparable work of the position to be filled [Duties]. Applicants must have a thorough knowledge and understanding of administrative procedures and practices of management. Experience developing administrative procedures.
+
+Duties: 
+
+1. Serves as a management analyst with responsibility to advise and correct all operational and administrative aspects of the Aviation Resource Management System. Maintains, controls, and assigns security levels to users to ensure security of the database. Develops and implements unique applications programs using base-level computers to meet the specific needs of the unit. Designs, develops, and modifies reports using System Query Language (SQL) and ad hoc queries to provide leadership with data retrieved through selective manipulation of the database. Analyzes management report products to determine program adequacy and accuracy, trends, and recommends corrective actions as required. Communicates with ARMS Working Group (AWG) and Air Force Major Command points of contact regarding ARMS updates for issues or desired changes to the system and to ensure ANG use of the ARMS program is compatible with the Air Force standards, i.e., aviation objectives, policies, plans, and concepts. Identifies system related problems, their possible causes, and repairs or requests system repairs to the proper authority or DoD agencies. Performs system upgrades when required to ensure all users maintain minimum requirements. Establishes or modifies local operating procedures for providing data automation support through coordination with host Information Processing Center (IPC) and users. Ensures all Standard Systems Group modifications and changes are implemented in ARMS to comply with the base-level requirements. Maintains liaison with Local Area Network managers to ensure the proper use of computer systems. Writes and submits data automation enhancement, system maintenance, and deficiency reports to appropriate organization or agency. User administrator for 5 additional computer systems that interface with the aviation resource management system. Ensures that use of additional computer systems meet requirements for interfacing with Personnel, Finance, Medical, Maintenance, and Airfield Management programs; are consistent with the management of the ARMS system; and cost effective for the intended use. 
+2. Perform the following operations for an average of 100 aircrew members. Provides go-no-go reports and conducts pre-mission and post-mission reviews; records aircrew and aircraft flying hour data; determines aviation service actions for attached and assigned flying personnel as it directly affects mission accomplishment and safety of flight. Develops and executes procedures for the completion of annual flight physicals and receipt of documentation medically clearing crewmembers for flight status. Researches, validates, and interprets Air Force Instruction (AFI) Mission Design Series (MDS), specific medical and physiological requirements and flying and ground training requirements; and compares with higher headquarters mission training requirements. Translates these requirements into aircrew training tables, profiles, reports, and utilizes products to brief aircrew, senior leadership, training coordinators, commanders, and outside sources to include Numbered Air Force (NAF), Major Commands (MAJCOM), and Headquarters (HQ) U.S. Air Force (USAF) to show training requirements, overall training objectives, and accomplishments. Notifies commander of individuals who fail to maintain flying or medical standards. Analyzes programmed reports for adequacy and accuracy related to mission requirements and brief results to aircrew and commanders. Prepares and maintains correspondence as needed for suspensions, extensions, and waivers. Creates, analyze, and maintain end of month reports that monitors Aviation Positions Indicator (API) codes, Aviation Service Codes (ASC), entitlement status and flying status to ensure accuracy and compliance with applicable regulations. Authenticates, certifies, and publishes aeronautical orders to start, suspend, disqualify or terminate aircrew member's requirement to perform operational flying or jump duties. Determines eligibility to award aeronautical ratings and aviation badges. Develops database queries to assist in identification of suspense actions or actions requested by senior leadership to include promotion boards, disciplinary boards, or commander specific requirements. Develops and maintains procedures with outside agencies to validate that aircrew medical requirements are in compliance and accomplished in accordance with appropriate Department of Defense and Air Force Instruction. Provides individual aircrew aviation service and historical data to requesting civilian and federal agencies for several purposes to include aircraft accident investigations and the intent to hire purposes under FAA guidelines and according to the Pilot Records Improvement Act of 1996. Writes and revises several independent local operating instructions including Aircraft Accident Procedures. Coordinates matters with NGB, HQ MAJCOM, and service organizations to obtain clarification or recommend changes to instructions and procedures. Identifies, investigates and rectifies errors such as the miscalculation of Operational Flying Duty Accumulator (OFDA) months and conducts research to locate missing support documents. Initiates close out of individual electronic records for departing personnel, to include validation of all flight time entries, aircraft qualifications, and flight physical data prior to transfer of personnel. Primary member within the Operations Group responsible for accuracy of Wing Flying Hour Program by developing procedures to reconcile flying hours with Maintenance. Participates in the Wing Flying Hour Program to determine inventories of assigned, projected, available, and actual expenditure of hours. Provides reports to reflect flying hours expended and impacts year end goals for Ready Aircrew Training and flying hours budget. OPR for aviation packages to include inter-service transfers, aeronautical rating boards, flying evaluation boards, operational flying duty accumulator, exception to policies, flying activity codes, aviation service date adjustments, disqualifications, requalifications/revalidations. Analyzes higher headquarters directives and develops appropriate local procedures to meet program requirements. Advises and provides counsel to aircrew members and leadership on requirements, processes, and procedures that are in accordance with laws and regulations. Coordinates with NGB and HAF to ensure packages are complete and accurate. Provides additional information and assistance as required. Upon final outcome, updates ARMS database, creates member's record. Provides expertise to commanders. Certifies flying status in the Air National Guard Reserve Order Writing System. Reviews and compares the duty performed with flying hour documents. Electronically certifies duty performance for active-duty orders, generate group inactive duty drill rosters, electronically certifies duty performance for group inactive duty, schedule individual inactive duty, and electronically certifies duty performance for individual inactive duty. Maintains, issues, and destroys classified and COMSEC material for unit and transient aircraft. Works independently to provide aircrews with information and assistance for planning and conducting safe flight operations. Coordinates and schedules use of special military airspace including air refueling areas, military operating areas, and landing and drop zones. Provides preflight briefings to military and civilian aircrews, reviews flight schedules, flight plans, local aircraft clearances, statistical mission data, and Notices to Airmen (NOTAMS) files to ensure accuracy, completeness, and conformance with USAF, FAA, DoD and International Civil Aviation Organization directives. Communicates with in-flight aircrew through use of UHF/VHF communications to provide information regarding clearances, advisories on local, en-route, and destination airfield conditions. Coordinates and performs foreign object debris inspections on taxiing and parking areas. As required, activates secondary crash phone network for aircraft accidents, and in-flight/ground emergencies. Establishes shift schedules and assigns personnel based on workload to ensure adequate coverage of airfield/flight serves operations. May provide back-up to the Flight Services Manager. 
+3. Interprets and administers laws and regulations regarding entitlement incentive pay. Sole base-level approval authority determining entitlement to millions of dollars in aircrew incentive pay. Researches, interprets, analyzes and applies Department of Defense, Air Force, Air National Guard, and Wing guidelines, policies, and regulations including Aviation Management regulations, the Aviation Career Incentive Act (ACIA) of 1989, The National Defense Authorization Act (NDAA) of 1996, Pilot Records Improvement Act of 1996, and the NDAA of 2000. Applies complex flight/jump pay rules and determines eligibility and entitlement to Aviation Incentive Pay (AvIP), Critical Skill Incentive Pay (CSIP), Special Warfare Airmen Skill incentive Pay (SWSIP), Hazardous Duty Incentive Pay (HDIP), and EARI (Aviation bonus Pay). Analyzes the flight pay control Document/jump pay control document to update monthly entitlements to receive provisional AvIP, CSIP, or HDIP. Determines if assigned aircrew members meet incentive pay requirements IAW DoD and Air Force regulations; reconciles ARMS records by comparing against documentation from Finance and Maintenance Operations Control; and ensures incentive pay entitlements are reviewed, processed, and reconciled. Provides aviation pay knowledge and guidance directly to HQ DFAS on all facets of regulatory and congressionally mandated entitlement rules. Ensures all aircrew/jump members receive appropriate type of flight/jump pay, and prepares, publishes, and maintains Military Pay Orders (MPO). Research applicable rate codes and establishes future transactions for increases, decreases, or discontinuances on aircrew, operational support members, and parachutists pay. Independently investigates and resolves pay discrepancies and performs analytical and in-depth daily pay verification audits against Defense Case Management System. Notifies aircrew/parachutist member in conditional incentive pay status of grace period and collects pay upon failed grace period. Identifies potential/emergent financial management issues and develops solutions. Reviews and analyzes financial transactions and reports to identify/resolve non-routine aviation/parachutist entitlement pay inconsistencies, providing guidance to personnel and management. Conducts research to determine cause of discrepancies and resolves complicated entitlement problems. Applies in-depth knowledge to review historical flight/jump pay data and rescinded laws and regulations to correct entitlement pay. Researches and captures data to respond to higher headquarters, Inspector General, and congressional inquiries relating to flight pay-related matters.
+4. Execute career field development responsibilities. Create and assign ARMS roles necessary to carry out 1C0X2 duty position requirements. Ensures deployment readiness for personnel. Self-inspections, rotation of positions (Training office, Stan/Eval, Current Ops, Scheduling). Periodically reviews position descriptions to ensure accuracy, and the most effective utilization of personnel resources. Performs self-inspections on assigned programs and presents detailed and comprehensive report with any corrective action. Establishes and maintains office files (both paper and electronic) adapted to the needs of the office and maintains a reference index of all files. Monitors/analyzes and evaluates work relative to development and/or execution phases of the records management. Interprets records management policies and procedure and assures conformance to the rules, regulations, and policies of the National Archives and Records Administration, Records Management and Declassification Agency, Department of Defense and Department of the Air Force for all records maintained by the HARM. Ensures required documentation is preserved, and that all other information is retained, reviewed, and disposed of systematically. Advises and provides counsel to employees regarding policies, procedures, and directives of management. Identifies employee developmental needs and provides or arranges for training (formal and on-the-job) to maintain and improve job performance. Encourages self-development. Discharges security responsibilities by ensuring education and compliance with security directives for employees with access to classified or sensitive material. May approves master leave schedule assuring adequate coverage for peak workloads and traditional holiday vacation time. Promotes an environment in which employees are empowered to participate in and contribute to effective mission accomplishment. Recognizes and takes action to correct situations posing a threat to the health or safety of subordinates. When designated as the wing readiness manager, collects and analyzes all available data to ensure accuracy of overall wing report. Prepares and presents formal briefings to Wing Commander and Staff, IG, MAJCOM, State Headquarters, and NGB. Publishes a formal training program for all unit readiness managers.
+
+ 
+Do you meet the above qualification standards?
+ Yes
+ No
+
+
+Assessment 1
+Respond to all statements and questions. These statements and questions allow applicants to highlight their Knowledge, Skills and Abilities (KSAs) which are applicable to the position for which you are applying. If it is necessary to limit the number of applicants for a position, these KSAs will be used to determine the "Best Qualified". For each KSA please identify below in the space provided how you have either demonstrated the KSA or have shown the potential to acquire them. Give specific examples describing related project, details, work assignments, outside activities, and the time frames involved in each. If you do not answer these statements and questions an accurate evaluation of your qualifications may not be possible. This may result in your application not being certified.
+
+
+1.
+Knowledge of extensive body of Aviation Resource Management objectives, policies, technical rules, guidelines, instructions, regulations, policies and precedents to support and flight pay and training requirements.
+
+
+2.
+Knowledge of AF operations, resource management systems and associated programs, interface requirements, browsers, personnel flight records and maintenance.
+
+
+3.
+Knowledge of aviation service eligibility, aircrew rating requirements, aircrew flight incentive pay requirements, conditional incentive pay requirements in relationship to reserve status codes, active/inactive reserve status
+
+
+4.
+Knowledge of a wide range of computer/automated data processing techniques, requirements, methods, sources, procedures, system software/hardware and analytical and diagnostic methods.
+
+
+5.
+Extensive knowledge of ARMS System work processes and applications to develop database and ad-hoc queries on alternative approaches, to identify problems, to plan and implement solutions and to collaborate with design center personnel to incorporate needed system changes.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+6.
+Must possess 1 year specialized experience, education or training equivalent to at least the next lower grade level. Applicants must have experience providing technical guidance and assistance in the type of work or in comparable work of the position to be filled. Applicants must have a thorough knowledge and understanding of administrative procedures and practices of management. Experience developing administrative procedures.
+
+Condensed Duties:
+
+1. Serves as a management analyst with responsibility to advise and correct all operational and administrative aspects of the Aviation Resource Management System. Maintains, controls, and assigns security levels to users to ensure security of the database. Develops and implements unique applications programs using base-level computers to meet the specific needs of the unit. Designs, develops, and modifies reports using System Query Language (SQL) and ad hoc queries to provide leadership with data retrieved through selective manipulation of the database. Analyzes management report products to determine program adequacy and accuracy, trends, and recommends corrective actions as required. Communicates with ARMS Working Group (AWG) and Air Force Major Command points of contact regarding ARMS updates for issues or desired changes to the system and to ensure ANG use of the ARMS program is compatible with the Air Force standards, i.e., aviation objectives, policies, plans, and concepts. Ensures all Standard Systems Group modifications and changes are implemented in ARMS to comply with the base-level requirements. Maintains liaison with Local Area Network managers to ensure the proper use of computer systems. Writes and submits data automation enhancement, system maintenance, and deficiency reports to appropriate organization or agency. User administrator for 5 additional computer systems that interface with the aviation resource management system.
+
+2. Develops and executes procedures for the completion of annual flight physicals and receipt of documentation medically clearing crewmembers for flight status. Researches, validates, and interprets Air Force Instruction (AFI) Mission Design Series (MDS), specific medical and physiological requirements and flying and ground training requirements; and compares with higher headquarters mission training requirements. Translates these requirements into aircrew training tables, profiles, reports, and utilizes products to brief aircrew, senior leadership, training coordinators, commanders, and outside sources to include Numbered Air Force (NAF), Major Commands (MAJCOM), and Headquarters (HQ) U.S. Air Force (USAF) to show training requirements, overall training objectives, and accomplishments.
+
+3. Interprets and administers laws and regulations regarding entitlement incentive pay. Sole base-level approval authority determining entitlement to millions of dollars in aircrew incentive pay. Researches, interprets, analyzes and applies Department of Defense, Air Force, Air National Guard, and Wing guidelines, policies, and regulations including Aviation Management regulations, the Aviation Career Incentive Act (ACIA) of 1989, The National Defense Authorization Act (NDAA) of 1996, Pilot Records Improvement Act of 1996, and the NDAA of 2000. Applies complex flight/jump pay rules and determines eligibility and entitlement to Aviation Incentive Pay (AvIP), Critical Skill Incentive Pay (CSIP), Special Warfare Airmen Skill incentive Pay (SWSIP), Hazardous Duty Incentive Pay (HDIP), and EARI (Aviation bonus Pay). Analyzes the flight pay control Document/jump pay control document to update monthly entitlements to receive provisional AvIP, CSIP, or HDIP.
+
+4. Execute career field development responsibilities. Create and assign ARMS roles necessary to carry out 1C0X2 duty position requirements. Ensures deployment readiness for personnel. Self-inspections, rotation of positions (Training office, Stan/Eval, Current Ops, Scheduling). Periodically reviews position descriptions to ensure accuracy, and the most effective utilization of personnel resources. Performs self-inspections on assigned programs and presents detailed and comprehensive report with any corrective action. Establishes and maintains office files (both paper and electronic) adapted to the needs of the office and maintains a reference index of all files. Monitors/analyzes and evaluates work relative to development and/or execution phases of the records management. Interprets records management policies and procedure and assures conformance to the rules, regulations, and policies of the National Archives and Records Administration, Records Management and Declassification Agency, Department of Defense and Department of the Air Force for all records maintained by the HARM. Ensures required documentation is preserved, and that all other information is retained, reviewed, and disposed of systematically.
+
+Do you meet the above qualification standards?
+ Yes
+ No
+
+
+7.
+Do you certify that all of your responses to this questionnaire are true and accurate; and do you accept that if your supporting documentation does not support one or more of your responses to the questionnaire that your application may be rated lower or you may be removed from further consideration?
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
