@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "total_jobs": 218767,
+    "total_jobs": 218771,
     "cutoff_date": "2025-06-01",
-    "generation_date": "2026-06-27T10:40:31.468352"
+    "generation_date": "2026-06-28T10:11:37.493226"
   },
   "by_service_type": {
-    "Competitive": 136834,
+    "Competitive": 136838,
     "Excepted": 80869,
     "Senior Executive": 1064
   },
@@ -16,11 +16,11 @@
     "GS-11": 11601,
     "GS-9": 9428,
     "GS-14": 8616,
-    "GS-7": 8105,
-    "GS-6": 7372,
+    "GS-7": 8106,
+    "GS-6": 7373,
     "VM-15": 5609,
     "GS-9/11": 5338,
-    "GS-5": 5058,
+    "GS-5": 5059,
     "GS-15": 4621,
     "WG-10": 4103,
     "NF-2": 3783,
@@ -48,17 +48,17 @@
     "Fort Bragg, North Carolina": 1007,
     "Albuquerque, New Mexico": 1003,
     "Philadelphia, Pennsylvania": 983,
-    "Pentagon, Arlington, Virginia": 977,
+    "Pentagon, Arlington, Virginia": 978,
     "Anchorage, Alaska": 955,
     "Scott AFB, Illinois": 953,
     "Honolulu, Hawaii": 937
   },
   "by_agency": {
-    "Department of Veterans Affairs": 74197,
-    "Department of the Air Force": 26837,
+    "Department of Veterans Affairs": 74198,
+    "Department of the Air Force": 26838,
     "Department of the Navy": 24707,
-    "Department of Defense": 21403,
-    "Department of the Army": 20915,
+    "Department of Defense": 21404,
+    "Department of the Army": 20916,
     "Department of Justice": 11357,
     "Department of Homeland Security": 9982,
     "Other Agencies and Independent Organizations": 5621,
@@ -77,7 +77,7 @@
   },
   "by_occupation": {
     "0610 - Nurse": 12540,
-    "0301 - Miscellaneous Administration And Program": 7933,
+    "0301 - Miscellaneous Administration And Program": 7934,
     "0602 - Medical Officer": 6510,
     "0185 - Social Work": 5655,
     "2210 - Information Technology Management": 5329,
@@ -92,7 +92,7 @@
     "0180 - Psychology": 2860,
     "0801 - General Engineering": 2666,
     "None - Unknown": 2612,
-    "0640 - Health Aid And Technician": 2416,
+    "0640 - Health Aid And Technician": 2417,
     "0905 - Attorney": 2373,
     "3566 - Custodial Working": 2161,
     "0101 - Social Science": 2112
