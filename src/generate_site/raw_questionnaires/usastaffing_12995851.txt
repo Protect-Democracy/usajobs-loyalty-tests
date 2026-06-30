@@ -1,0 +1,77 @@
+Position Title
+HR SPEC (INFORMATION SYSTEMS) (TITLE 32)
+Agency
+Army National Guard Units
+Announcement Number
+TN-12995851-AR-26-193 Opens in new window
+Open Period
+Jun 29, 2026 to Jul 03, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Areas of Consideration
+1.
+Are you a current on-board permanent or term employee (T32 military technicians/ T5 National Guard employees) with membership in the Tennessee Army National Guard?
+
+To verify your eligibility, you must submit a copy of your Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Tenure status in Block 24 (1, 2, or 3). For Lateral requests blocks 16-18 will reflect Occupational Series Code and grade level.
+
+ Yes
+ No
+
+
+Assessment 1
+Your responses to this questionnaire, in conjunction with the other portions of your completed application, will be evaluated in making preliminary screening decisions for this position. Do not overstate or understate your level of experience and capability. You should be aware that your ratings are subject to evaluation and verification. Particularly, your resume must support the response to the questions in the Occupational Questionnaire. Additional steps in the selections process are designed to verify your stated level of experience and capability.
+
+
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+1.
+Do yo have experience in administrative positions that manage, supervise, administer, advise on, or deliver human resources management products or services?
+ Yes
+ No
+
+
+2.
+Do you have 36 months or 1-year equivalent to at least the next lower grade, specialized experience in technical assistance and guidance to supervisors, leadership, and various staff members in the operation, maintenance, and capabilities of various Human Resource Information Systems (HRISs) specifically DCPDS, automated personnel systems, automated records management systems, case management systems, personnel records applications, HR In-Processing via virtual platforms, and virtual personnel services; leads periodic formal training designed to inform users of current and future changes; compiles personnel and statistical reports and advises staff in the proper documentation for personnel actions; Performs user account management services by identifying users to be added/deleted/modified?
+ Yes
+ No
+
+
+3.
+The organization is migrating its legacy automated records management system to a cloud-based application. This change will alter how every supervisor reviews and approves personnel actions. Describe some of the foreseen challenges?
+
+
+3a.
+How would you mitigate these challenges?
+
+
+4.
+During a hiring cycle, several new hires and their hiring managers report that they cannot complete virtual HR In-Processing because their digital personnel records are not syncing between the automated personnel system and the virtual boarding platform. How do you triage this issue?
+
+
+4a.
+What are some steps that might have been taken beforehand to mitigate this issue?
+
+
+5.
+A director asks you for a complex statistical report on employee turnover and processing times to present to executive leadership tomorrow. Upon generating the initial report, you notice widespread documentation errors in the system caused by staff members entering data incorrectly. How do you handle this urgent request?
+
+
+5a.
+How do you advise the staff on correcting their documentation habits to prevent future reporting errors?
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+6.
+I certify that the above responses are in my own words, provided in good faith and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)). I understand that if I make an intentional false statement, or commit deception or fraud in this application and its supporting materials, or in any document or interview associated with the examination process, I may be fined or imprisoned (18 U.S.C. 1001); my eligibility may be cancelled, I may be denied an appointment, or I may be removed and debarred from Federal service (5 C.F.R. part 731). I understand that any information I give may be investigated. I understand that responding "No" to this item will result in my not being considered for this position.
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
