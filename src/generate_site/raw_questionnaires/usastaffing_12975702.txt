@@ -1,0 +1,194 @@
+Position Title
+Supervisory IT Specialist (Customer Support)
+Agency
+U.S. Census Bureau
+Announcement Number
+26-OCIO-12975702-DOC-JW Opens in new window
+Open Period
+Jul 01, 2026 to Jul 15, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+Please carefully read ALL eligibility questions below and select the appropriate response. We can ONLY verify eligibility options for which you claim and provide proper documentation (see required documents section). If you fail to select a response for at least one eligibility, or you select an eligibility that you do not provide proof, your application may be marked INELIGIBLE as out of the area of consideration.
+
+
+1.
+Are you a current employee of the Department of Commerce (DOC) who meets the definition of surplus or displaced from a position in the competitive service? If yes, confirm you meet all of the following requirements:
+You are located in the same local commuting area of the vacancy;
+Your grade is equivalent to or below the grade level of the vacancy;
+Your last performance rating of record is at least fully successful or the equivalent.
+For more information, review the Career Transition Programs resource page located on USAJobs.
+
+To verify your eligibility, you must submit supporting documentation such as a Reduction in Force (RIF) separation notice or a Proposed Removal/Separation notice, to include your latest performance rating (if the notice does not have this information included, you must submit a copy of your most recent performance appraisal) and a copy of your latest Notification of Personnel Action, Standard Form 50.
+ Yes
+ No
+
+
+2.
+Are you a current Department of Commerce employee in the competitive service?  
+
+Current Department of Commerce employee (includes any Bureau under Commerce) on a term, temporary or Excepted Service appointment with reinstatement eligibility.
+
+To verify your eligibility, you must submit a copy of your latest Notification of Personnel Action, Standard Form 50 (SF-50), or equivalent personnel action form, reflecting your permanent, competitive status (Current Census Bureau employees need not submit SF-50). Your SF-50 (or equivalent personnel action form) must reflect career or career-conditional (Tenure 1 or 2) and must reflect that your status was in the competitive service (Position Occupied is 1). 
+
+Please note: Examples of appropriate SF-50s include promotions, with-in grade/range increases. While a General Adjustment and/or Award SF-50 may be your most recent SF-50 it typically DOES NOT show proof of time-in-grade. Thus, you may have to submit more than one SF-50 as proof of time-in-grade.  Current Census Bureau employees do not need to submit an SF-50; however, it is highly recommended.
+ Yes
+ No
+
+
+3.
+Reasonable Accommodations for taking the online assessments are provided on a case-by-case basis only to qualified individuals with a disability covered by the Rehabilitation Act of 1973, as amended.
+
+Do you have a disability (physical or mental) that you believe will interfere with completing the online assessments and require a Reasonable Accommodation?
+
+ Yes
+ No
+
+
+Preferences
+1.
+Have you held a political appointment within the previous five-year period?
+ Yes
+ No
+
+
+2.
+I authorize my application information being shared with hiring managers for similar positions within the Census Bureau. I understand this option may not result in further consideration for additional positions nor will it impact my application for this announcement.
+ Yes
+ No
+
+
+3.
+
+When the Census Bureau completes its hiring, the remaining list of qualified candidates may be shared with hiring managers and Human Resources Specialists at other Department of Commerce (DOC) Bureaus/Offices who are hiring for similar positions. Please select an option below to indicate if you would like your name, application material, and assessment results to be shared with additional DOC Bureaus/Offices. I understand this option may not result in further consideration for additional positions nor will it impact my application for this announcement.
+
+ Opt-in: I consent to having my name, application materials, and assessment results shared with other DOC Bureaus/Offices who are hiring for similar positions.
+ Opt-out: I only want to be considered by this agency and do not consent to having my name, application materials, and assessment results shared with other DOC Bureaus/Offices.
+
+
+4.
+What is the highest grade you have held on a permanent (non-temporary) basis in the federal service? If you have never held a federal position, please type "N/A".
+
+
+5.
+What was the date of the promotion/appointment for the highest grade held above? Your response will assist in verifying the time-in-grade requirement. If you have never held a federal position, please type "N/A".
+
+
+6.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+
+
+7.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+
+
+8.
+How would you help advance the President's Executive Orders and policy priorities in this role? Identify one or two relevant Executive Orders or policy initiatives that are significant to you, and explain how you would help implement them if hired.
+
+
+9.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+
+
+10.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+
+
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+
+
+11.
+I certify that I have read the announcement, and I understand that only the first two pages of my resume will be reviewed.
+ Yes
+ No
+
+
+Assessment 1
+Instructions: Your resume and supporting documents must support the responses you select (Failure to provide a response below may result in further lack of consideration for this announcement).
+
+
+1.
+Do you have one year of specialized experience equivalent to the GS-13 level in the Federal service or other equivalent pay system that has equipped you to perform the major duties of this position? This specialized experience includes:
+Leading enterprise scale backup, storage, and systems administration operations, including developing and enforcing data protection policies and directing large, mission critical, modernization initiatives; and
+Supervising multidisciplinary IT teams, executing full personnel management responsibilities, and applying equal employment opportunity principles in all aspects of hiring, development, and performance management; 
+Collaborating with senior IT leadership to influence enterprise technology strategy, guide major infrastructure investments, and provide authoritative consultation on backup architecture and data protection methodologies.
+Overseeing operational environments requiring advanced troubleshooting, risk mitigation, and continuous improvement to ensure high availability and security of enterprise services.
+ Yes (Your resume must reflect this specialized experience to qualify for the GS-13 grade level).
+ My experience is not reflected in the description above.
+
+
+2.
+Please indicate which position(s) on your resume supports this response (include title, agency/organization, dates of experience (month/year to month/year). DO NOT COPY AND PASTE RESUME or state 'REFER TO RESUME'.
+
+
+3.
+Do you have the IT related experience demonstrating each of the nine (9) competencies listed below:
+Attention to Detail - Is thorough when performing work and conscientious about attending to detail.
+Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services.
+Decision Making - Makes sound, well-informed, and objective decisions; perceives the impact and implications of decisions; commits to action, even in uncertain situations, to accomplish organizational goals; causes change.
+Information Management - Identifies a need for and knows where or how to gather information; organizes and maintains information or information management systems.
+Interpersonal Skills - Shows understanding, friendliness, courtesy, tact, empathy, concern, and politeness to others; develops and maintains effective relationships with others; may include effectively dealing with individuals who are difficult, hostile, or distressed; relates well to people from varied backgrounds and different situations.
+Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately.
+Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.
+Teamwork - Encourages and facilitates cooperation, pride, trust, and group identity; fosters commitment and team spirit; works with others to achieve goals.
+Technical Competence - Uses knowledge that is acquired through formal training or on-the-job experience to perform one's job; works with, understands, and evaluates technical information related to the job; advises others on technical issues.
+ Yes (Your resume must reflect this IT experience to qualify for the GS-14 grade level)
+ My experience is not reflected in the description above.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+4.
+Will you have one year of time-in-grade at the grade 13 level as of the closing date of this announcement.
+ Yes
+ No
+
+
+5.
+Indicate your most recent performance rating (received within the last 12 months).
+ My most recent performance rating is at least at the Fully Successful or equivalent level
+ My most recent performance rating is below the Fully Successful or equivalent level.
+ I have not received a performance rating within the last 12 months.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+6.
+In the last 3 years, have you had one or more of the following awards: On-the-Spot Award; Time Off Award or equivalent; Special Achievement Award; Special Act Award; Cash-in-a-Flash; performance award or equivalent valued at $999.00 or less?
+ Yes
+ No
+
+
+6a.
+If you answer yes, please give award type(s), amount(s), and year(s) awarded.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+7.
+Have you had one or more of the following Awards: Special Achievement Award, Special Act Award, performance award or equivalent valued at $1000 or greater (within the last 3 years)? Director's Award for Innovation, Census Award of Excellence, Quality Step Increase, Equal Employment Opportunity Award, or equivalent (within the last 3 years)? Department of Commerce Gold, Silver or Bronze Medal or equivalent honorary award (Lifetime)?
+ Yes
+ No
+
+
+7a.
+If you answer yes, please give award type(s), amount(s), and year(s) awarded. (Limit 250 characters)
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+8.
+I certify that, to the best of my knowledge and belief, all of the information included in this questionnaire is true, correct, and provided in good faith. I understand that if I make an intentional false statement, or commit deception or fraud in this application and all supporting materials, including my resume, or in any document or interview associated with the examination process, I may be fined or imprisoned (18 U.S.C. 1001); my eligibilities maybe cancelled; I may be denied an appointment; or I may be removed and debarred from Federal service (5 C.F.R. part 731). I understand that any information I give may be investigated. I understand that I will not be considered for employment if I do not respond "Yes" to this certification item.
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
