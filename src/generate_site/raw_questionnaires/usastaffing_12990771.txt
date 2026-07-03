@@ -1,0 +1,128 @@
+Position Title
+DATA ANALYTICS SPECIALIST
+Agency
+Army National Guard Units
+Announcement Number
+NV-12990771-AR-26-070 Opens in new window
+Open Period
+Jul 02, 2026 to Jul 01, 2027
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+All on-board federal employees/technicians within the state for which you are applying (Title 32 and Title 5, Permanent and Excepted Indefinite).  Are you a current on-board federal employee or technician within the state for which this position is being advertised?
+
+To verify your eligibility, you must submit a copy of your most recent Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Tenure in Block 24 (1, 2,or 3).
+ Yes
+ No
+
+
+2.
+Are you a current Permanent full-time Dual Status National Guard Technician within the state for which this position is being advertised?
+
+To verify your eligibility, you must submit a copy of your Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Permanent full-time status with the state National Guard.
+ Yes
+ No
+
+
+3.
+Are you a current Temporary Indefinite full-time Dual Status National Guard Technician within the state for which this position is being advertised?
+
+To verify your eligibility, you must submit a copy of your Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Indefinite full-time status with the state National Guard.
+ Yes
+ No
+
+
+Assessment 1
+Your responses to this questionnaire, in conjunction with the other portions of your completed application, will be evaluated in determining your eligibility to be considered for the position. Choose the response that best represents your education, experience, and training. Do not overstate or understate your level of experience and capability. You should be aware that your ratings are subject to evaluation and verification. Please note that your answers will be verified against the information you provided in your resume, transcripts, or application and information provided by your references.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+1.
+Do you possess experience, education or training which provided a general knowledge of principles of organization, management, and administration; compiling reports, letters, memoranda, etc., and required person-to-person contacts to convey information; progressively responsible experience which demonstrates the ability to provide technical guidance and assistance in the type of work or in comparable?? work of the position to be filled; experience using computer and automation systems?
+
+ Yes
+ No
+
+
+2.
+Do you possess 1 year specialized experience equivalent to at least the next lower grade level; experience, education or training in program or managerial experience in a type of work or a combination of functions directly related to the position to be filled or in comparable work or functions; experience developing and recommending policy; organizing and carrying out specific programs, evaluating and recommending changes in methods of operations; experience in supervisory, staff or technical work which included study, analysis or evaluation leading to the development or improvement of managerial or administrative policies, practices and procedures; experience preparing written communications and oral presentations?
+
+ Yes
+ No
+
+
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+
+
+3.
+Skill in designing, developing, and managing data visualization tools and analytical dashboards. The incumbent must be able to transform complex data from various sources into meaningful reports, dashboards, and business intelligence tools for presentation to senior leaders and colleagues. This includes managing the content, layout, and features of software such as Power BI to communicate trends, risks, and program effectiveness.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+4.
+Expert knowledge of qualitative and quantitative analytical techniques to measure the effectiveness, efficiency, and productivity of organizational programs.
+This involves applying advanced analytical methods to evaluate programs related to fiscal stewardship, property accountability, staffing, and logistics. The specialist will conduct in-depth studies to identify trends, forecast outcomes, and provide data-driven recommendations for process improvement.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+5.
+Ability to provide authoritative technical advice and guidance on all aspects of data analytics to a wide range of personnel, including senior leaders and external stakeholders. The incumbent serves as the principal data analyst and subject matter expert, responsible for counseling staff, resolving complex data-related problems, and contributing to workgroups. This requires the ability to clearly communicate technical information and influence decision-making.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+6.
+Knowledge of a wide range of business, financial, and administrative management principles and regulations. The position requires the ability to analyze and interpret complex data related to the various systems used by the National Guard. The specialist must understand the policies and directives of the Department of War (DoW), Department of the Army, Department of the Air Force and National Guard Bureau (NGB) to ensure data analysis is compliant and relevant to the organization's mission.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+7.
+Knowledge of data governance frameworks and the Department of War (DoW) VAULTIS data strategy. The incumbent must possess the ability to implement and manage data governance practices to ensure organizational data is Visible, Accessible, Understandable, Linked, Trustworthy, Interoperable, and Secure. This includes establishing data management protocols, ensuring data quality and lifecycle management, and aligning enterprise data practices with DoW strategic objectives to enable secure, data-driven decision-making across the Nevada National Guard.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+8.
+Expertise in applying Department of the Army Knowledge Management (KM) principles and frameworks to optimize organizational learning and data utilization.
+The incumbent must demonstrate the ability to integrate people, processes, and tools to facilitate the efficient capture, transfer, and application of knowledge across the organization. This involves designing strategies that connect personnel to critical analytical insights, fostering a collaborative environment of continuous learning, and ensuring that tacit and explicit knowledge is effectively leveraged to support mission readiness and data-driven decision-making in accordance with Army KM doctrine.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+CERTIFICATION OF INFORMATION: As previously explained, your ratings in this Occupational Questionnaire are subject to evaluation and verification based on the resume and documents you submit. Later steps in the selection process are specifically designed to verify your ratings. Deliberate attempts to falsify information may be grounds for not selecting you or for dismissing you from the position/agency during the probationary period, or other disciplinary action, including termination. Please take this opportunity to review your ratings to ensure their accuracy. By agreeing to the statement below, you are confirming that you understand this warning; have reviewed your responses to this questionnaire for accuracy; and verified that your responses accurately describe your current level of experience and capability.
+
+
+9.
+Failure to agree or respond to the statement below will disqualify you from further consideration for the position. Select the most appropriate response below.
+
+ Yes, I certify that all of my responses to this questionnaire are true and accurate. I accept that if my supporting documentation and/or later steps in the selection process do not support one or more of my responses to the questionnaire that my application may be rated lower and/or I may be removed from further consideration.
+ No, I do not certify this agreement and/or I no longer wish to be considered for this position.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
