@@ -1,0 +1,241 @@
+Position Title
+IT Specialist (CUSTSPT)
+Agency
+Office of the Chief Information Officer
+Announcement Number
+26-CEC-12998752-IMP Opens in new window
+Open Period
+Jul 02, 2026 to Jul 09, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Reasonable Accommodations for taking the online assessments are provided on a case-by-case basis only to qualified individuals with a disability covered by the Rehabilitation Act of 1973, as amended.
+
+Do you have a disability (physical or mental) that you believe will interfere with completing the online assessments and require a Reasonable Accommodation?
+
+ Yes
+ No
+
+
+2.
+Are you a surplus or displaced Federal employee eligible under the Career Transition Assistance Plan (CTAP)?  Click CTAP for eligibility and a detailed list of required documents you must submit in order to be eligible.
+ Yes
+ No
+
+
+3.
+Are you a current USDA employee who is eligible for competitive consideration under any of the following categories?
+Current USDA agency employees who are qualifying as Status Eligibles
+Current USDA agency employees currently serving on a permanent Veterans Recruitment Appointment (VRA)
+ Yes
+ No
+
+
+4.
+Are you a current USDA employee under any of the following categories?
+Current USDA employee in the Competitive service on a permanent career or career-conditional appointment, who currently holds (or have previously held) on a permanent basis, a position in the competitive service, with promotion potential equivalent to (or higher than) the full performance level of the position advertised in this vacancy announcement.
+Current USDA employee serving on a VRA appointment
+ Yes
+ No
+
+
+Preferences
+1.
+Select the lowest grade you are willing to accept for this position.
+7
+9
+11
+
+
+2.
+Are you currently serving or have served in the last five years in a Political Appointment in the Federal Government?
+ Yes
+ No
+
+
+3.
+
+Submit a copy of your most recent, signed, completed annual performance appraisal which includes the final rating, dated within the last 18 months.
+
+Type "yes" in the text box below if you are providing a performance appraisal meeting the above requirements with your application. If you are unable to provide a performance appraisal with your application for any reason (not employed, current employer does not give a performance appraisal, etc.), please provide a reason in the text box below. "N/A" is not considered an acceptable response.
+
+
+
+Reminder: In addition to this questionnaire, you must also submit all information with documents applicable to you as described in the vacancy announcement under "Required Documents." Please read the vacancy announcement carefully. Also please follow the online instructions carefully for submitting documents and check your account to confirm the documents are received in the online hiring system prior to the closing date. If all the required information is not submitted, you will be found ineligible for this position.
+
+
+4.
+If you were born a male after December 31, 1959, and are at least 18 years of age, have you registered with the Selective Service System (select "Not applicable" if this question does not apply to you)?
+ Yes
+ No
+ No, but I have an approved exemption
+ Not applicable
+
+
+5.
+I authorize my application information being shared with hiring managers for similar positions. I understand this option may not result in further consideration for additional positions nor will it impact my application for this announcement.
+ Yes
+ No
+
+
+Assessment 1
+For the GS-11, you must have one year of specialized experience at a level of difficulty and responsibility at the GS-09 level in the Federal service or equivalent, which have equipped the candidate with the particular knowledge, skills, and abilities to successfully perform the duties of the position. Specialized experience for this position includes:
+
+- Completing assigned IT infrastructure project tasks that require knowledge of IT requirements and techniques with minimal levels of supervision; AND
+- Experience independently providing various information technology and infrastructure customer services and support; AND
+- Experience independently installing, troubleshooting and updating certified Commercial-Off-the-Shelf (COTS) and customized software on workstations and servers
+
+OR
+
+You may substitute education for specialized experience as follows: Ph.D. or equivalent doctoral degree or 3 full years of progressively higher level graduate education leading to a Ph.D. or equivalent doctoral degree in one or a combination of the following fields: computer science, engineering, information science, information systems management, mathematics, operations research, statistics, or technology management or degree that provided a minimum of 24 semester hours in one or more of the fields identified above and required the development or adaptation of applications, systems or networks.
+
+All academic degrees and coursework must be from accredited or pre-accredited institutions. Attach a copy of transcript or list of college courses designating semester or quarter hours earned to ensure proper credit.
+
+
+1.
+Select the answer that best describes your experience and/or education from the question above.
+ I have one year or more of specialized experience equivalent in responsibility and scope to the GS-09 level as described above.
+ I have a Ph.D. or equivalent doctoral degree OR three (3) full years of progressively higher level graduate education leading to a Ph.D. or equivalent doctoral degree in one or a combination of the following fields: computer science, engineering, information science, information systems management, mathematics, operations research, statistics, or technology management or degree that provided a minimum of 24 semester hours in one or more of the fields identified above and required the development or adaptation of applications, systems or networks.
+ I do not meet any of the requirements as stated above.
+
+
+2.
+Please give the dates and titles from your resume that reference when and where you gained this experience.
+
+
+In addition to meeting specialized experience for the GS-11, individuals must have IT-related experience demonstrating each of the  competencies listed below.
+
+1.Attention to Detail - Is thorough when performing work and conscientious about attending to detail.
+
+2.Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services.
+
+3. Interpersonal Skills - Shows understanding, friendliness, courtesy, tact, empathy, concern, and politeness to others; develops and maintains effective relationships with others; may include effectively dealing with individuals who are difficult, hostile, or distressed; relates well to people from varied backgrounds and different situations.
+
+4. Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.
+
+5. Teamwork - Encourages and facilitates cooperation, pride, trust, and group identity; fosters commitment and team spirit; works with others to achieve goals.
+
+6. Technical Competence - Uses knowledge that is acquired through formal training or on-the-job experience to perform one's job; works with, understands, and evaluates technical information related to the job; advises others on technical issues.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+3.
+Do you have IT-related experience demonstrating each of the competencies listed above?
+ Yes
+ No
+
+
+For the GS-09, you must have one year of specialized experience at a level of difficulty and responsibility at the GS-07 level in the Federal service or equivalent, which have equipped the candidate with the particular knowledge, skills, and abilities to successfully perform the duties of the position. Specialized experience for this position includes:
+
+-Completing assigned IT infrastructure project tasks that require knowledge of IT requirements and techniques with moderate supervision; AND
+- Assisting senior IT support with various information technology and infrastructure customer services and support; AND
+- Experience following general guidance or assisting senior IT support with installing, troubleshooting and updating certified Commercial-Off-the-Shelf (COTS) and customized software on workstations and servers.
+
+OR
+
+You may substitute education for specialized experience as follows: Master's degree or equivalent graduate degree, or
+2 full years of progressively higher level graduate education leading to a master's degree or equivalent graduate degree. Education should be in computer science, engineering, information science, information systems management, mathematics, operations research, statistics, or technology management or degree that provided a minimum of 24 semester hours in one or more of the fields identified above and required the development or adaptation of applications, systems or networks.
+
+All academic degrees and coursework must be from accredited or pre-accredited institutions. Attach a copy of transcript or list of college courses designating semester or quarter hours earned to ensure proper credit.
+
+
+4.
+Select the answer that best describes your experience and/or education from the question above.
+ I have one year or more of specialized experience equivalent in responsibility and scope to the GS-07 level as described above.
+ I have a Masters or equivalent graduate degree or two (2) full years of progressively higher level graduate education leading to such a degree in one or a combination of the following fields: computer science, engineering, information science, information systems management, mathematics, operations research, statistics, or technology management or degree that provided a minimum of 24 semester hours in one or more of the fields identified above and required the development or adaptation of applications, systems or networks.
+ I do not meet any of the requirements as stated above.
+
+
+5.
+Please give the dates and titles from your resume that reference when and where you gained this experience.
+
+
+In addition to meeting specialized experience, for the GS-9 individuals must have IT-related experience demonstrating each of the competencies listed below.
+
+1.Attention to Detail - Is thorough when performing work and conscientious about attending to detail.
+
+2.Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services.
+
+3. Interpersonal Skills - Shows understanding, friendliness, courtesy, tact, empathy, concern, and politeness to others; develops and maintains effective relationships with others; may include effectively dealing with individuals who are difficult, hostile, or distressed; relates well to people from varied backgrounds and different situations.
+
+4. Reasoning -  Reasoning - Identifies rules, principles, or relationships that explain facts, data, or other information; analyzes information and makes correct
+
+5. Teamwork - Encourages and facilitates cooperation, pride, trust, and group identity; fosters commitment and team spirit; works with others to achieve goals.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+6.
+Do you have IT-related experience demonstrating each of the competencies listed above?
+ Yes
+ No
+
+
+For the GS-07 level, you must have one year of specialized experience at a level of difficulty and responsibility equivalent to the GS-05 level.
+Specialized experience includes:
+
+- Completing assigned IT infrastructure project tasks that require knowledge of IT requirements and techniques with extensive supervision; OR
+- Assisting senior IT support with various information technology and IT Infrastructure customer services and support; OR
+- Experience following set guidance from senior IT support with installing, troubleshooting and updating certified Commercial-Off-the-Shelf (COTS) and customized software on workstation and servers.
+
+Examples include:
+
+Images, manages and deploys customer workstations and peripherals through the entire life cycle.
+Provides workstation user network account support to include setup and configuration (e.g., user profile, email, peripheral access), and troubleshoot user account problems on a daily basis.
+Identifies administrative and technical requirements associated with personnel, changes in office functions, office closures, etc. Works with management to ensure requirements can be met when needed by the customer.
+Ensures users' files on workstations and servers are backed up.
+Performs server system administration and support including monitoring and restoring backups.
+Installs, troubleshoots and updates certified Commercial-Off-the-Shelf (COTS) and customized software on workstations and servers. Resolves workstation and server security issues.
+
+OR
+
+You may substitute education for specialized experience as follows:
+
+- 1 full year of graduate level education; OR
+- Superior academic achievement: Superior academic achievement is based on 1) class standing: upper third of graduating class; 2) grade-point average (G.P.A.): 3.0 out of 4.0 overall or 3.5 out of 4.0 in major; or 3) election to membership in a national scholastic honor society.
+
+(In order to be creditable, education must be related to the position being filled with a major study of computer science, information science, information systems management, mathematics, statistics, operations research, or engineering, or course work that required the development or adaptation of computer programs and systems and provided knowledge equivalent to a major in the computer field.) Attach a copy of transcript or list of college courses designating semester or quarter hours earned to ensure proper credit.
+
+To be qualifying, degree must be in computer science, engineering, information science, information systems management, mathematics, operations research, statistics, or technology management or degree that provided a minimum of 24 semester hours in one or more of the fields identified above and required the development or adaptation of applications, systems or networks.
+
+
+7.
+Select the answer that best describes your experience and/or education from the question above.  
+ I have one year or more of specialized experience equivalent in responsibility and scope to the GS-05 level as described above.
+ I have one full year of graduate level education or superior academic achievement as described above.
+ I do not meet any of the requirements as stated above.
+
+
+8.
+Please give the dates and titles from your resume that reference when and where you gained this experience.
+
+
+In addition to meeting specialized experience of the GS-7, individuals must have IT-related experience demonstrating each of the nine competencies listed below.
+
+1.Attention to Detail - Is thorough when performing work and conscientious about attending to detail.
+
+2.Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services.
+
+3. Interpersonal Skills - Shows understanding, friendliness, courtesy, tact, empathy, concern, and politeness to others; develops and maintains effective relationships with others; may include effectively dealing with individuals who are difficult, hostile, or distressed; relates well to people from varied backgrounds and different situations.
+
+4. Reasoning - Identifies rules, principles, or relationships that explain facts, data, or other information; analyzes information and makes correct
+
+5. Teamwork - Encourages and facilitates cooperation, pride, trust, and group identity; fosters commitment and team spirit; works with others to achieve goals.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+9.
+Do you have IT-related experience demonstrating each of the competencies listed above?
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
