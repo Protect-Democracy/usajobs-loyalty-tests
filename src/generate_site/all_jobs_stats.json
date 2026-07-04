@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "total_jobs": 222944,
+    "total_jobs": 222951,
     "cutoff_date": "2025-06-01",
-    "generation_date": "2026-07-03T12:13:56.463889"
+    "generation_date": "2026-07-04T09:57:40.803240"
   },
   "by_service_type": {
-    "Competitive": 139571,
-    "Excepted": 82272,
+    "Competitive": 139576,
+    "Excepted": 82274,
     "Senior Executive": 1101
   },
   "by_grade_level": {
@@ -17,13 +17,13 @@
     "GS-9": 9608,
     "GS-14": 8856,
     "GS-7": 8267,
-    "GS-6": 7513,
+    "GS-6": 7514,
     "VM-15": 5678,
     "GS-9/11": 5428,
     "GS-5": 5134,
     "GS-15": 4745,
     "WG-10": 4168,
-    "NF-2": 3826,
+    "NF-2": 3828,
     "GS-8": 3048,
     "NF-3": 3008,
     "GS-3/6": 2936,
@@ -51,19 +51,19 @@
     "Pentagon, Arlington, Virginia": 995,
     "Anchorage, Alaska": 982,
     "Scott AFB, Illinois": 961,
-    "Honolulu, Hawaii": 955
+    "Honolulu, Hawaii": 957
   },
   "by_agency": {
     "Department of Veterans Affairs": 75542,
-    "Department of the Air Force": 27154,
-    "Department of the Navy": 25168,
-    "Department of Defense": 21781,
+    "Department of the Air Force": 27155,
+    "Department of the Navy": 25170,
+    "Department of Defense": 21783,
     "Department of the Army": 21260,
     "Department of Justice": 11557,
     "Department of Homeland Security": 10222,
     "Other Agencies and Independent Organizations": 5806,
     "Department of the Interior": 5149,
-    "Department of Transportation": 4001,
+    "Department of Transportation": 4003,
     "Department of Agriculture": 3278,
     "Department of Health and Human Services": 2545,
     "Legislative Branch": 1651,
@@ -78,15 +78,15 @@
   "by_occupation": {
     "0610 - Nurse": 12798,
     "0301 - Miscellaneous Administration And Program": 8156,
-    "0602 - Medical Officer": 6587,
+    "0602 - Medical Officer": 6588,
     "0185 - Social Work": 5748,
     "2210 - Information Technology Management": 5484,
     "0343 - Management And Program Analysis": 4778,
     "0303 - Miscellaneous Clerk And Assistant": 4456,
     "0679 - Medical Support Assistance": 4420,
     "1101 - General Business And Industry": 4205,
-    "1702 - Education And Training Technician": 4065,
-    "0189 - Recreation Aid And Assistant": 4001,
+    "1702 - Education And Training Technician": 4066,
+    "0189 - Recreation Aid And Assistant": 4003,
     "0620 - Practical Nurse": 3198,
     "0201 - Human Resources Management": 2981,
     "0180 - Psychology": 2908,
