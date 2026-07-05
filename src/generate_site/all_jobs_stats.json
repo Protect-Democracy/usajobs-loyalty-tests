@@ -1,19 +1,19 @@
 {
   "metadata": {
-    "total_jobs": 222951,
+    "total_jobs": 222954,
     "cutoff_date": "2025-06-01",
-    "generation_date": "2026-07-04T09:57:40.803240"
+    "generation_date": "2026-07-05T10:01:43.681270"
   },
   "by_service_type": {
-    "Competitive": 139576,
+    "Competitive": 139579,
     "Excepted": 82274,
     "Senior Executive": 1101
   },
   "by_grade_level": {
-    "GS-12": 18382,
+    "GS-12": 18383,
     "GS-13": 16128,
     "VN-00": 12246,
-    "GS-11": 11810,
+    "GS-11": 11811,
     "GS-9": 9608,
     "GS-14": 8856,
     "GS-7": 8267,
@@ -32,7 +32,7 @@
     "NF-4": 2417
   },
   "by_location": {
-    "Washington, District of Columbia": 10694,
+    "Washington, District of Columbia": 10695,
     "Salt Lake City, Utah": 2455,
     "Phoenix, Arizona": 1610,
     "San Diego, California": 1580,
@@ -58,12 +58,12 @@
     "Department of the Air Force": 27155,
     "Department of the Navy": 25170,
     "Department of Defense": 21783,
-    "Department of the Army": 21260,
+    "Department of the Army": 21262,
     "Department of Justice": 11557,
     "Department of Homeland Security": 10222,
     "Other Agencies and Independent Organizations": 5806,
     "Department of the Interior": 5149,
-    "Department of Transportation": 4003,
+    "Department of Transportation": 4004,
     "Department of Agriculture": 3278,
     "Department of Health and Human Services": 2545,
     "Legislative Branch": 1651,
@@ -78,7 +78,7 @@
   "by_occupation": {
     "0610 - Nurse": 12798,
     "0301 - Miscellaneous Administration And Program": 8156,
-    "0602 - Medical Officer": 6588,
+    "0602 - Medical Officer": 6589,
     "0185 - Social Work": 5748,
     "2210 - Information Technology Management": 5484,
     "0343 - Management And Program Analysis": 4778,
