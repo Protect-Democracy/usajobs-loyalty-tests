@@ -1,0 +1,252 @@
+Position Title
+IT Specialist (OS/SYSADM) IT Modernization Architect
+Agency
+Social Security Administration
+Announcement Number
+SSA-12997270-26-CIO Opens in new window
+Open Period
+Jul 06, 2026 to Jul 08, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+Are you a current or former federal employee displaced from the agency hiring for this position? Select yes if you are located in the same local commuting area of the vacancy; your permanent grade is equivalent to or above the grade level of the vacancy; AND your last performance rating of record is at least fully successful or the equivalent. (Note: You must submit supporting documentation to validate your claim of CTAP eligibility such as a Reduction in Force (RIF) separation notice or a Proposed Removal/Separation notice and a copy of your latest Notification of Personnel Action, Standard Form 50. Please review the Required Documents section of the announcement for more information.)
+ Yes
+ No
+
+
+3.
+Are you a current or former federal employee displaced from a position in a federal agency other than the agency hiring for this position? Select yes if you are located in the same local commuting area of the vacancy; your permanent grade is equivalent to or above the grade level of the vacancy; AND your last performance rating of record is at least fully successful or the equivalent. (Note: You must submit supporting documentation to validate your claim of ICTAP eligibility such as a Reduction in Force (RIF) separation notice or a Proposed Removal/Separation notice and a copy of your latest Notification of Personnel Action, Standard Form 50. Please review the Required Documents section of the announcement for more information.)
+ Yes
+ No
+
+
+Preferences
+1.
+Would you accept a temporary appointment?
+ Yes
+ No
+
+
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+
+
+2.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+
+
+3.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+
+
+4.
+How would you help advance the President's Executive Orders and policy priorities in this role? Identify one or two relevant Executive Orders or policy initiatives that are significant to you, and explain how you would help implement them if hired.
+
+
+5.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+
+
+6.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+
+
+Assessment 1
+1.
+I am eligible to apply using the provisions of the Interagency Career Transition Assistance Program (ICTAP) or the Veterans Employment Opportunities Act (VEOA). Please refer to the announcement for information on ICTAP or VEOA.
+ Yes
+ No
+
+
+2.
+My performance rating was fully successful for the last appraisal period.
+ Yes
+ No
+
+
+Please answer Yes or No for each of the following areas that describe your experience and/or training in that task. Applicants must have IT-related experience demonstrating each of the nine competencies below. You may be asked to provide evidence of supporting documentation that you have had this type of experience and. Your responses are subject to verification against the information you provide.
+
+
+3.
+I am thorough when performing work and conscientious about attending to detail.
+ Yes
+ No
+
+
+4.
+I work with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; know about available products and services; and am committed to providing quality products and services.
+ Yes
+ No
+
+
+5.
+I make sound, well-informed, and objective decisions; perceives the impact and implications of decisions; commits to action, even in uncertain situations, to accomplish organizational goals; causes change.
+ Yes
+ No
+
+
+6.
+I identify a need for and know where or how to gather information; organize and maintain information or information management systems.
+ Yes
+ No
+
+
+7.
+I show understanding, friendliness, courtesy, tact, empathy, concern, and politeness to others; develop and maintain effective relationships with others; may include effectively dealing with individuals who are difficult, hostile, or distressed; relates well to people from varied backgrounds and different situations.
+ Yes
+ No
+
+
+8.
+I express information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); make clear and convincing oral presentations; listen to others, attend to nonverbal cues, and responds appropriately.
+ Yes
+ No
+
+
+9.
+I identify problems; determine accuracy and relevance of information; use sound judgment to generate and evaluate alternatives, and to make recommendations.
+ Yes
+ No
+
+
+10.
+I encourage and facilitate cooperation, pride, trust, and group identity; foster commitment and team spirit; work with others to achieve goals.
+ Yes
+ No
+
+
+11.
+I Use knowledge that is acquired through formal training or on-the-job experience to perform my job; work with, understands, and evaluates technical information related to the job; advise others on technical issues.
+ Yes
+ No
+
+
+12.
+To qualify at the GS-15 level, you must have specialized experience at the GS-14 level, or equivalent. Do you have specialized experience at the GS-14 level, or equivalent, which is in or related to the work of the position to be filled and has equipped the applicant with the particular knowledge, skills, and abilities to successfully perform the duties of the position? This experience must demonstrate proficiency in the following:
+
+Demonstrated expertise in designing and implementing IBM High Availability architectures to ensure continuous delivery of mission critical systems. 
+
+Led the development and support of high availability IT environments, improving resilience and system uptime. 
+
+Provided advanced application software and data architecture leadership to optimize system performance and scalability. 
+
+Directed strategic planning and execution for establishing high availability IT support centers that enhance operational continuity. 
+
+Led enterprise IT modernization initiatives and hybrid cloud strategies that improved automation, performance, and service efficiency. 
+
+ Yes
+ No
+
+
+13.
+Do you have experience with mainframe storage infrastructure technologies?
+ Yes
+ No
+
+
+14.
+Do you have experience developing and presenting technical requirements and strategies?
+ Yes
+ No
+
+
+15.
+Do you have experience evaluating new mainframe storage technologies to enhance the Agency's mainframe data storage infrastructure?
+ Yes
+ No
+
+
+16.
+Do you have experience with IT project management?
+ Yes
+ No
+
+
+17.
+Do you have experience with the mainframe storage, backup, and recovery of data?
+ Yes
+ No
+
+
+18.
+Do you have experience creating plans to address the Agency's future mainframe data storage needs?
+ Yes
+ No
+
+
+19.
+Do you have experience in the deployment, refreshment, and migration of mainframe storage infrastructure?
+ Yes
+ No
+
+
+20.
+Do you have experience with high-availability and datacenter role swap capabilities?
+ Yes
+ No
+
+
+21.
+Do you have experience with cyber protection and recovery solutions in a Hybrid-IT environment?
+ Yes
+ No
+
+
+22.
+Do you have experience in leading mainframe storage problem resolution?
+ Yes
+ No
+
+
+23.
+Do you have experience in coordinating configuration or performance changes to the mainframe storage infrastructure?
+ Yes
+ No
+
+
+24.
+Do you have experience providing advice to components on technical configurations and limitations?
+ Yes
+ No
+
+
+25.
+Do you have experience optimizing mainframe hardware and software configurations for discreet workloads or projects?
+ Yes
+ No
+
+
+26.
+Do you have experience estimating project cost and resource requirements?
+ Yes
+ No
+
+
+27.
+Do you have experience in developing contract requirements for the enterprise storage infrastructure hardware and software?
+ Yes
+ No
+
+
+28.
+Do you have experience in providing budget submittals for projects and mainframe storage infrastructure hardware and software?
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
