@@ -1,0 +1,233 @@
+Position Title
+Environmental Scientist / Research Environmental Scientist
+Agency
+National Oceanic and Atmospheric Administration
+Announcement Number
+NOS-26-12998436-DHA Opens in new window
+Open Period
+Jul 07, 2026 to Jul 13, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+Are you a current Department of Commerce employee who meets the definition of surplus or displaced definition of surplus or displaced  from a position in the competitive service that makes you eligible under the Career Transition Assistance Plan (CTAP)?  Note: You are required to submit supporting documentation as proof of eligibility.
+
+If yes, please confirm that you meet all the following eligibility requirements:
+This position is in the same local commuting area as the position of record from which you will be separated; and
+This position is at a grade level no higher than the grade of the position of record from which you will be separated; and
+This position has no greater promotion potential than the position of record from which you will be separated; and
+You have a current performance rating of record of at least fully successful or the equivalent; and 
+You have not yet been separated. 
+ Yes
+ No
+
+
+3.
+Are you a current or former employee of a Federal agency who meets the definition of surplus or displaced from a position in the competitive service from a Federal agency outside of the Department of Commerce that makes you eligible under the Interagency Career Transition Assistance Plan (ICTAP)?  Note: You are required to submit supporting documentation as proof of eligibility.
+
+If yes, please confirm that you meet all the following eligibility requirements:
+This position is in the same local commuting area as the position of record from which you were separated; and 
+This position is at a grade level no higher than the grade of the position of record from which you were separated; and 
+This position has no greater promotion potential than the position of record from which you were separated; and
+Your last performance rating of record was at least fully successful or the equivalent; and
+You were separated from your position of record less than one (1) year ago.
+ Yes
+ No
+
+
+Preferences
+1.
+Select the location(s) you want to be considered for. You must choose at least one location.
+ A. Oxford, MD
+ B. Silver Spring, MD
+ C. Beaufort, NC
+ D. Charleston, SC
+
+
+2.
+Select the lowest grade you are willing to accept for this position.
+3
+4
+
+
+3.
+I authorize my application information being shared with hiring managers for similar positions. I understand this option may not result in further consideration for additional positions nor will it impact my application for this announcement.
+ Yes
+ No
+
+
+Merit Hiring Plan
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+
+
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+
+
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+
+
+3.
+How would you help advance the President's Executive Orders and policy priorities in this role? Identify one or two relevant Executive Orders or policy initiatives that are significant to you, and explain how you would help implement them if hired.
+
+
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+
+
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+
+
+Assessment 1
+1.
+I meet the Individual Occupational Requirements for the General Natural Resource Management and Biological Science Series, 0401 because I have:
+
+ Degree: biological sciences, agriculture, natural resource management, chemistry, or related disciplines appropriate to the position.
+ Combination of education and experience: Courses equivalent to a major, as shown in A above, plus appropriate experience or additional education.
+ I do not meet the Individual Occupational Requirements for the General Natural Resources Management and Biological Science Series 0401.
+
+
+2.
+ZP-3: In addition to meeting the Individual Occupational Requirements, select the statement that best describes the experience and/or education that demonstrates your ability to perform the work of an Environmental Scientist, ZP-0401-3 pay band or equivalent grade level (GS-11) in the Federal service.
+
+ I have at least one full year (52 weeks) of specialized experience equivalent to the next lower pay band (ZP-2) or GS-09 grade level in the Federal service which includes all of the following: Participating in analyzing or evaluating geospatial or statistical data to support oceanographic or coastal environmental projects; Participating in the implementation of data management plans or data curation frameworks to support oceanographic or coastal environmental projects; and Participating in standardizing, synthesizing, or curating oceanographic and coastal data across diverse scientific domains or modalities.
+ I have a Ph.D. or equivalent doctoral degree or 3 years of progressively higher level graduate education leading to such a degree. (Note: You must attach a copy of your transcripts.)
+ I have a combination of successfully completed graduate-level education and specialized experience as described above. Note: Only graduate-level in excess of the amount required for the next lower grade level may be combined with experience. (Note: You must attach a copy of your transcripts.)
+ I do not possess the experience and/or education described above.
+
+
+3.
+ZP-4: In addition to meeting the Individual Occupational Requirements select the statement that best describes your experience performing the work of an Environmental Scientist / Research Environmental Scientist, ZP-0401-4 pay band or equivalent grade level (GS-13) in the Federal service.
+
+ I have at least one full year (52 weeks) of specialized experience equivalent to the next lower pay band (ZP-3) or GS-12 grade level in the Federal service which includes all of the following: Designing and conducting data analysis of geospatial or statistical data to support oceanographic or coastal environmental projects; Conducting the development or implementation of data management plans or data governance policies or data curation frameworks to support oceanographic or coastal environmental projects; and Engineering or implementing cloud based data computation, storage, workflows or networking solutions at scale.
+ I do not possess the experience described above.
+
+
+Assessment 2
+1.
+When managing compliance with the Federal Open Data Act, what must you do to successfully balanced public data access mandates with strict privacy and security boundaries?
+
+ Establish formal metadata schemas and classification workflows that safely open data to the public while protecting sensitive information.
+ Rewrite the source code for all proprietary legacy systems.
+ Serve as the sole legal signatory for international data-sharing treaties.
+ Restrict public access to all datasets that contain any complex variables until a manual, ad-hoc review can be performed case-by-case.
+
+
+2.
+When transforming raw, siloed information into a reusable, long-term asset, which part of the data curation lifecycle is most critical to execute?
+
+ Ensuring all raw data files are saved securely on centralized servers and backed up regularly to prevent data loss.
+ Implementing standardized metadata documentation and rigorous quality control checks.
+ Leading contract negotiations for the renewal of proprietary analytics software licenses.
+ Developing short-term data visualizations designed exclusively for immediate mission.
+
+
+3.
+How does Data Management Plans (DMPs) effectively guide project execution?
+
+ DMP maintains a comprehensive blacklist of non-approved scientific software across the agency.
+ DMP establishes a structured project checklist that tracks data collection schedules, team tasks, and delivery deadlines.
+ DMP establishes a formal legal document that grants personal copyright ownership of the data to the Data Manager.
+ DMP establishes will translate complex technical mandates and data policies into actionable, practical guidance for non-technical teams.
+
+
+4.
+When preparing an AI/ML analytical solution to support organizational policy decisions, what is the primary driver for validating the model according to federal Trustworthy AI guidelines?
+
+ Optimizing the model's predictive performance and minimize error rates on the test dataset before deployment.
+ Ensuring the model’s synthesized results are transparent, explainable, and free of prohibitive bias.
+ Transitioning the system away from statistical modeling and back to purely manual decision-making.
+ Configuring the pipeline so that it can only be executed on a standalone, personal desktop computer.
+
+
+5.
+When tasked with aligning an organization's data management structures with broader enterprise governance, how would you ensure seamless data interoperability across diverse systems?
+
+ Enforce the use of formal, standardized metadata schemas so data can be consistently exchanged and understood across different platforms.
+ Maintain legacy magnetic tape backup systems for all institutional data.
+ Create custom, ad-hoc data conversion scripts to map files whenever a specific department requests data from another system.
+ Physically audit data center security perimeters on a semi-annual basis.
+
+
+6.
+When collaborating with IT infrastructure teams to scale up a legacy dataset, what would be your primary objective in conducting a data maturity assessment during that process?
+
+ Selecting and managing the specific IT personnel responsible for physical hardware installation.
+ Dictating the exact font size and style guidelines for all technical documentation.
+ Identifying risk management areas and reporting on data capability gaps prior to migration or scaling.
+ To inventory total data volume and map out the specific file formats to ensure the new infrastructure has adequate storage capacity.
+
+
+7.
+When designing or leveraging a cloud architecture built for AI at scale, what core operational functionality would you be looking to achieve?
+
+ A structural integration of compute power, storage, and networking that streamlines building, training, and deploying models.
+ Automated provisioning and auto-scaling capabilities to dynamically adjust virtual machine counts based on processing demand.
+ A human resources policy document governing the acceptable use of personal mobile devices.
+ A physical warehouse checklist used for auditing server hardware inventory.
+
+
+8.
+When integrating a new, complex scientific data type (e.g., netCDF, GIS layers) into an existing analytic pipeline, what practical steps would you take to satisfy Enterprise Governance requirements?
+
+ Purging or ignoring legacy data sets to focus exclusively on incoming sensor streams.
+ Developing an internal file-naming convention and converting the files to a single uniform format to fit the pipeline's current configuration.
+ Bypassing validation checks to quickly push data into production without verifying scientific validity.
+ Ensuring the new data stream is thoroughly documented using formal, interoperable metadata schemas.
+
+
+9.
+An analysis reveals a significant, unexpected correlation between two variables that could change the team's strategic direction. The task team consists of subject matter experts, project managers, and field technicians, most of whom do not have a background in advanced statistics. Which method of sharing this information would provide the highest value to the organization?
+
+ Uploading the raw R or Python notebooks and the full correlation matrix to the team’s shared drive so everyone can examine the math for themselves.
+ Creating a brief summary report featuring a clear visual (like a scatter plot or trend line) that highlights the correlation, accompanied by a "So What?" section explaining the real-world implications for the project.
+ Emailing the team a high-level summary stating the correlation exists, but withhold the specific data points to prevent non-experts from misinterpreting the numbers.
+ Waiting until the next quarterly all-hands meeting to present the data, ensuring that all departments are present before disclosing a significant find.
+
+
+10.
+An analysis reveals a significant, unexpected correlation between two variables that could change the team's strategic direction. The task team consists of subject matter experts, project managers, and field technicians, most of whom do not have a background in advanced statistics. Which method of sharing this information would provide the highest value to the organization?
+
+ Approve the manual method for long-term use, because getting the data to the team quickly is always more important than how it was put together. Reject the manual workaround entirely; insist on pausing the dashboard for three weeks while a perfect, permanent software solution is built from scratch.
+ Allow the manual method to be used only for the current week's emergency deadline, but mandate that the manual steps are explicitly logged, and schedule immediate team time to write a reproducible, automated script.
+ Advise the team member to keep the manual workaround a secret from the rest of the team to avoid confusing others with messy processes.
+
+
+11.
+A five-person task team is collaborating on a high-stakes data analysis. Team members are constantly updating a master spreadsheet with new field data and recalculated columns, saving files back to a shared drive as Master_Data_v2.xlsx, Master_Data_v2_Edits.xlsx, and Master_Data_FINAL_actual.xlsx. As the lead analyst, what is the best data management intervention to ensure the team is working with valid information?
+
+ Creating a strict file-naming convention document and ask the team to try their best to update the version numbers manually in the file titles.
+ Transitioning the team to a centralized database or a cloud-based collaborative sheet with built-in version history, cell-level audit logs, and a frozen "Single Source of Truth" baseline file.
+ Locking editing permissions so only you can input data, requiring all other team members to email you their updates in raw text files.
+ Ignoring the file names as long as the final presentation metrics look consistent, assuming the team is naturally catching any overlapping edits
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+12.
+I certify that I did not use a consultant or artificial intelligence tool (such as a large language model) to complete the responses above. To the best of my knowledge, all information provided in my application is true and accurate. I affirm that I have truthfully and accurately represented my work experience, knowledge, skills, abilities, and education. I understand that providing false or misleading information may result in disqualification from consideration or termination of employment if hired.
+I further certify that I have read the entire vacancy announcement, reviewed my responses to the eligibility questions for accuracy, and understand the requirements regarding supporting documentation, including what must be submitted and applicable deadlines.
+
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
