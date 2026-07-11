@@ -1,0 +1,240 @@
+Position Title
+Supervisory IT Specialist (INFOSEC)
+Agency
+U.S. Coast Guard
+Announcement Number
+26-12945747-HQ-AKP-EXC Opens in new window
+Open Period
+Jul 08, 2026 to Jul 22, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+Are you a current or former federal employee displaced from the agency hiring for this position? If yes, confirm:
+• you are located in the same local commuting area of the vacancy; AND,
+• you are applying to a position that is at or below the grade level of the position from which you were or will be separated; AND,
+• you are applying to a position that does not have greater promotion potential than the position from which you were or will be separated; AND,
+• your last performance rating of record is at least fully successful or the equivalent.
+
+For more information, review the USAJOBS Help Center.
+
+To verify your eligibility, you must submit supporting documentation such as a Reduction in Force (RIF) separation notice or a Proposed Removal/Separation notice to include your latest performance rating (if the notice does not have this information included, you must submit a copy of your most recent performance appraisal) and a copy of your latest Notification of Personnel Action, Standard Form 50.
+ Yes
+ No
+
+
+3.
+Are you a current or former federal employee displaced from a position in a Federal agency other than the agency hiring for this position? If yes, confirm:
+• you are located in the same local commuting area of the vacancy; AND,
+• you are applying to a position that is at or below the grade level of the position from which you were or will be separated; AND,
+• you are applying to a position that does not have greater promotion potential than the position from which you were or will be separated; AND,
+• your last performance rating of record is at least fully successful or the equivalent.
+
+For more information, review the USAJOBS Help Center.
+
+To verify your eligibility, you must submit supporting documentation such as a Reduction in Force (RIF) separation notice to include your latest performance rating (if the notice does not have this information included, you must submit a copy of your most recent performance appraisal) and a copy of your latest Notification of Personnel Action, Standard Form 50.
+ Yes
+ No
+
+
+Assessment 1
+Please select the responses to the questions below that best describes your experience as it relates to this position.
+
+
+1.
+Select the one statement that best describes your experience performing the work of a Supervisory IT Specialist (INFOSEC), GS-2210-15 or equivalent grade level in the Federal service.
+ I have one full year (52 weeks) of specialized experience equivalent to the next lower grade level (GS-14) in the Federal service which includes all of the following: Developing or implementing Information Technology (IT) security related policies, procedures or guidelines; Evaluating the security posture of a complex system; and Advising senior leadership on cybersecurity priorities. -AND- I have IT experience and/or training that demonstrates possession of the following four IT Competencies: (1) Attention to Detail - Is thorough when performing work and conscientious about attending to detail; (2) Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services; (3) Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately; and (4) Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.
+ I do not possess the experience described above.
+
+
+2.
+Which best describes your experience evaluating Intelligence, Surveillance, and Reconnaissance (ISR) systems for mission effectiveness?
+ I have no experience in performing this work, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+3.
+Which best describes your experience leading multidisciplinary teams (technical, intelligence, operational staff)?
+ I have no experience in performing this work, but I am willing to learn
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+4.
+Describe your experience designing or managing large-scale data systems.
+ I have no experience in performing this work, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+5.
+Which best describes your experience supporting intelligence collection, analysis, and dissemination?
+ I have no experience in performing this work, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+6.
+Which statement best describes your experience providing technical leadership?
+ I have no knowledge or demonstrated capability in this technical area.
+ I can demonstrate an understanding of the fundamental concepts involved in this technical area. I will require formal training and close supervision to perform this work.
+ I can demonstrate an understanding of some advanced concepts within this technical area and can work on most projects in this technical area with moderate assistance. I can perform this work with minimal supervision.
+ I can demonstrate an understanding of many advanced concepts within this technical area and can mentor others on some projects in this technical area. I can perform this work without supervision except in the most complex situations.
+ I can demonstrate an understanding of most advanced concepts within this technical area. I am considered an expert in the field and am frequently consulted by others about this technical area. I am responsible for mentoring and training others in this technical area.
+
+
+7.
+What is your experience communicating complex technical information to non-technical audiences?
+ I have no knowledge or demonstrated capability in this technical area.
+ I can demonstrate an understanding of the fundamental concepts involved in this technical area. I will require formal training and close supervision to perform this work.
+ I can demonstrate an understanding of some advanced concepts within this technical area and can work on most projects in this technical area with moderate assistance. I can perform this work with minimal supervision.
+ I can demonstrate an understanding of many advanced concepts within this technical area and can mentor others on some projects in this technical area. I can perform this work without supervision except in the most complex situations.
+ I can demonstrate an understanding of most advanced concepts within this technical area. I am considered an expert in the field and am frequently consulted by others about this technical area. I am responsible for mentoring and training others in this technical area.
+
+
+8.
+Which of the following tasks have you performed? (Select all that apply)
+ A. Led ISR System development or integration
+ B. Managed intelligence operations or programs.
+ C. Supervised professional/technical staff.
+ D. Managed federal contracts or acquisitions.
+ E. Developed strategic plans or policies.
+ F. Coordinated with interagency partners.
+ G. Managed budgets and financial resources.
+ H. Worked with classified systems.
+ I. Implemented cybersecurity measures.
+ J. Applied emerging technologies. (AI, cloud, data analytics)
+ K. I have no knowledge or demonstrated capability in this technical area.
+
+
+9.
+Which best describes your experience implementing emerging technologies (e.g., AI, cloud, data analytics) into operational or intelligence environments?
+ I have no knowledge or demonstrated capability in this technical area.
+ I can demonstrate an understanding of the fundamental concepts involved in this technical area. I will require formal training and close supervision to perform this work.
+ I can demonstrate an understanding of some advanced concepts within this technical area and can work on most projects in this technical area with moderate assistance. I can perform this work with minimal supervision.
+ I can demonstrate an understanding of many advanced concepts within this technical area and can mentor others on some projects in this technical area. I can perform this work without supervision except in the most complex situations.
+ I can demonstrate an understanding of most advanced concepts within this technical area. I am considered an expert in the field and am frequently consulted by others about this technical area. I am responsible for mentoring and training others in this technical area.
+
+
+10.
+Which of the following have you completed dealing with ISR systems? (Select all that apply)
+ A. Evaluated ISR systems for mission effectiveness.
+ B. Integrated ISR systems into operations.
+ C. Managed ISR system lifecycle (planning through sustainment)
+ D. Led ISR modernization or upgrades.
+ E. Provided recommendations to improve ISR capabilities.
+ F. I have no knowledge or demonstrated capability in this technical area.
+
+
+11.
+Which of the following have you completed working with communication and coordination? (Select all that apply)
+ A. Communicated technical information to non-technical audiences.
+ B. Coordinated across multiple teams or offices.
+ C. Facilitated meetings or work groups.
+ D. Developed policies or guidance documents.
+ E. Built partnerships to achieve mission goals.
+ F. I have no knowledge or demonstrated capability in this technical area.
+
+
+12.
+What is your experience working in secure or controlled computing environments?
+ I have led or advised on data science or analytics solutions in secure, classified, or restricted environments, ensuring compliance with cybersecurity and information assurance requirements.
+ I have performed this work independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have no experience in performing this work, but I am willing to learn.
+
+
+13.
+Select the statement that best describes your experience conducting research or developing innovative analytical solutions.
+ I have no experience in performing this work, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+14.
+Which statement best describes your experience contributing to policy, standards, or strategic initiatives?
+ I have no experience in performing this work, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+15.
+Which best describes your experience managing budgets or financial resources for programs?
+ I have no experience in performing this work, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+16.
+Identify security architecture gaps, develops risk management plans, documents security requirements, and advises leadership on system risk levels and overall security posture.
+ I have no knowledge or demonstrated capability in this technical area.
+ I can demonstrate an understanding of the fundamental concepts involved in this technical area. I will require formal training and close supervision to perform this work.
+ I can demonstrate an understanding of some advanced concepts within this technical area and am capable of working on most projects in this technical area with moderate assistance. I am able to perform this work with minimal supervision.
+ I can demonstrate an understanding of many advanced concepts within this technical area and am capable of mentoring others on some projects in this technical area. I am able to perform this work without supervision except in the most complex situations.
+ I can demonstrate an understanding of most advanced concepts within this technical area. I am considered an expert in the field and am frequently consulted by others about this technical area. I am responsible for mentoring and training others in this technical area.
+
+
+17.
+Recommend cost-effective security controls countermeasures and report findings and remediation strategies to mitigate risk and enhance the overall security posture.
+ I have no knowledge or demonstrated capability in this technical area.
+ I can demonstrate an understanding of the fundamental concepts involved in this technical area. I will require formal training and close supervision to perform this work.
+ I can demonstrate an understanding of some advanced concepts within this technical area and am capable of working on most projects in this technical area with moderate assistance. I am able to perform this work with minimal supervision.
+ I can demonstrate an understanding of many advanced concepts within this technical area and am capable of mentoring others on some projects in this technical area. I am able to perform this work without supervision except in the most complex situations.
+ I can demonstrate an understanding of most advanced concepts within this technical area. I am considered an expert in the field and am frequently consulted by others about this technical area. I am responsible for mentoring and training others in this technical area.
+
+
+18.
+Which of the following best describes your experience in developing and implementing IT performance measures to evaluate the effectiveness of an agency-wide cybersecurity program?
+ I have no knowledge or demonstrated capability in this technical area.
+ I can demonstrate an understanding of the fundamental concepts involved in this technical area. I will require formal training and close supervision to perform this work.
+ I can demonstrate an understanding of some advanced concepts within this technical area and am capable of working on most projects in this technical area with moderate assistance. I am able to perform this work with minimal supervision.
+ I can demonstrate an understanding of many advanced concepts within this technical area and am capable of mentoring others on some projects in this technical area. I am able to perform this work without supervision except in the most complex situations.
+ I can demonstrate an understanding of most advanced concepts within this technical area. I am considered an expert in the field and am frequently consulted by others about this technical area. I am responsible for mentoring and training others in this technical area.
+
+
+19.
+Which statement best describes your experience using performance assessments to drive strategic changes in an IT security program?
+ I have no knowledge or demonstrated capability in this technical area.
+ I can demonstrate an understanding of the fundamental concepts involved in this technical area. I will require formal training and close supervision to perform this work.
+ I can demonstrate an understanding of some advanced concepts within this technical area and am capable of working on most projects in this technical area with moderate assistance. I am able to perform this work with minimal supervision.
+ I can demonstrate an understanding of many advanced concepts within this technical area and am capable of mentoring others on some projects in this technical area. I am able to perform this work without supervision except in the most complex situations.
+ I can demonstrate an understanding of most advanced concepts within this technical area. I am considered an expert in the field and am frequently consulted by others about this technical area. I am responsible for mentoring and training others in this technical area.
+
+
+20.
+I certify, to the best of my knowledge, that all the information in my application is true, and that I have truthfully and accurately represented my work experience, knowledge, skills, abilities, and education. I understand that providing false or fraudulent information may be grounds for not hiring me or for firing me after I begin work. I also certify that I have read the entire vacancy announcement; that I have reviewed my answers to the eligibility questions for accuracy; and that I understand what supporting documentation, if any, is required for submission and when it's due.
+
+ Yes, I certify that the information provided in this questionnaire is true, correct and provided in good faith, and I understand the information provided above.
+ No, I do not certify/understand the information provided above.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
