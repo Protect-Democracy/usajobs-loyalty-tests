@@ -1,0 +1,127 @@
+Position Title
+Program Analyst
+Agency
+AmeriCorps
+Announcement Number
+AC-26-23173-12987451 Opens in new window
+Open Period
+Jul 09, 2026 to Jul 16, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+I am a current federal employee of AmeriCorps, possessing a current Reduction In Force (RIF) notice, whose position has been abolished from the Office of AmeriCorps State and National, Office of Field Liaison, Office of Grants Management or the Field Financial Management Center.
+ Yes
+ No
+
+
+2.
+I am a current AmeriCorps employee who is serving on a General (Permanent) appointment (not term or temporary) or I am a current AmeriCorps employee who meets the requirements of a noncompetitive hiring authority. (You must submit a copy of your final SF-50. The SF-50 should indicate your position occupied and tenure.  This does not include service with AmeriCorps programs including VISTA, State and National or NCCC).
+ Yes
+ No
+
+
+Preferences
+1.
+Would you accept a term appointment?
+ Yes
+ No
+
+
+Assessment 1
+Thank you for your interest in the Program Analyst position.
+
+
+1.
+From the descriptions below, select the letter corresponding to the statement that describes how you qualify for the Program Analyst position. Select only one letter.
+ I have one year of specialized experience comparable in scope and responsibility to the lower range of the NY-02 band, which is equivalent to the GS-11 level in the Federal service. Specialized experience includes (1)analyzing and documenting current-state (AS-IS) and future-state (To-Be) business processes; (2) identifying process inefficiencies, risks, and opportunities for automation or operational improvement; developing business requirements documentation, process flows, use cases, user stories, or standard operating procedures (SOPs); (3) planning and/or conducting functional, integration, or user acceptance testing (UAT); and (4) ensuring business processes and system solutions align with organizational requirements, internal controls, and applicable federal policies or regulations.
+ I do not meet the above qualifications.
+
+
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+
+
+2.
+Please select the statement that best describes your experience leading the documentation of complex, cross-functional business processes using industry-standard methodologies (e.g. BPMN, process maps, (SOPs), incorporating AI-assisted tools where appropriate.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+3.
+Please select the statement that best describes your experience identifying business process inefficiencies, operational risks, and opportunities for process improvement or automation.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+4.
+Please select the statement that best describes your experience developing business requirements documentation, business process flows, use cases, or user stories.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+5.
+Please select the statement that best describes your experience developing and executing test plans, test cases, functional testing, integration testing, or user acceptance testing (UAT).
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+6.
+Please select the statement that best describes your experience documenting testing results, identifying system defects, validating corrective actions, and ensuring system functionality meets business requirements.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+7.
+Please select the statement that best describes your experience developing, maintaining, or updating Standard Operating Procedures (SOPs), business process documentation, or other operational guidance.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+8.
+Please select the statement that best describes your experience identifying business or system issues, evaluating alternatives, and recommending practical solutions.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+9.
+Please select the statement that best describes your experience communicating technical information to business users, collaborating with cross-functional teams, or preparing written business documentation.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+10.
+I certify that, to the best of my knowledge and belief, all of the information included in this questionnaire is true, correct, and provided in good faith. I understand that if I make an intentional false statement, or commit deception or fraud in this application and its supporting materials, or in any document or interview associated with the examination process, I may be fined or imprisoned (18 U.S.C. 1001); my eligibilities may be canceled, I may be denied an appointment, or I may be removed and debarred from Federal service (5 C.F.R. part 731). I understand that any information I give may be investigated. I understand that responding "No" to this item or not responding will result in my not being considered for this position.
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
