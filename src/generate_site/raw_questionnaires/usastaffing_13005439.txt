@@ -1,0 +1,154 @@
+Position Title
+Fall 2026 IT Intern ( Incident Responder)
+Agency
+Administrative Office of the U.S. Courts
+Announcement Number
+26-CIO-13005439 Opens in new window
+Open Period
+Jul 14, 2026 to Jul 28, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+Preferences
+1.
+Would you accept a temporary appointment?
+ Yes
+ No
+
+
+Assessment 1
+INSTRUCTIONS: Thank you for your interest in an internship position with the federal government. Applicants must have demonstrated experience as listed below. This requirement is according to the AO Classification, Compensation, and Recruitment Systems which include interpretive guidance and reference to the OPM Operating Manual for Qualification Standards for General Schedule Positions. WHEN MANDATORY NARRATIVE RESPONSES ARE REQUIRED, PLEASE DO NOT DUPLICATE INFORMATION YOU HAVE ALREADY PROVIDED IN YOUR RESUME AS A RESPONSE TO THIS QUESTION. WE ARE SEEKING AN ELABORATION OF THOSE DUTIES AND SKILLS YOU HAVE MENTIONED WHICH ADDRESS THE QUESTION MORE FULLY. THIS IS YOUR OPPORTUNITY TO EXPAND ON YOUR EXPERIENCE AND/OR EDUCATION AS IT RELATES TO THE QUESTION. FAILURE TO DO THIS WILL RESULT IN YOUR BEING CONSIDERED AS INELIGIBLE.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+1.
+All internships at the AO are onsite and telework is not permitted during the period of this internship. Are you available to work in the Washington, DC during the duration outlined for this internship?
+
+ Yes
+ No
+
+
+2.
+This internship program opportunity requires completion of one full year of post-secondary education by the closing date of this announcement. A full year of post-secondary education is defined as 30 semester or 45 quarter hours. Please choose the level that best describes your education below:
+
+ I have a high school diploma/equivalent (GED).
+ I have successfully completed 1 year of education beyond the high school level.
+ I have successfully completed at least 2 years of education beyond the high school level.
+ I have successfully completed 3 years of study leading to a bachelor's degree.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+3.
+All students in the AO Internship Program must be enrolled or accepted for enrollment as degree-seeking students, taking at least a half-time academic course load in an accredited four-year or graduate-level program.
+
+Are you currently enrolled or accepted for enrollment as a degree-seeking student in an undergraduate or graduate program, AND will you continue to be enrolled as a degree-seeking student in the next semester?
+(You are required to upload a copy of your transcript as proof of eligibility during this application process.)
+
+ Yes
+ No
+
+
+4.
+In the space provided below, please tell us what school you are currently attending. (Please write the full name of the university - for example, Texas A&M University and not Texas A&M U.)
+
+
+
+5.
+In the space provided below, please tell us your anticipated graduation date. (As an example, please write using the following structure: Spring 2025, Winter 2026, etc.)
+
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+6.
+All students in the AO Internship Program must be in good academic standing, maintaining a GPA of 3.0 or higher. Do you currently have a GPA of 3.0 or higher? (You are required to upload a copy of your transcript as proof of eligibility during this application process.)
+
+ Yes
+ No
+
+
+For each item, select the one response that most accurately describes your current level of experience and capability using the scale below.
+
+
+7.
+Which level description best describes your knowledge of operating system internals for either Windows or Linux?
+ I do not have experience or demonstrated capability in performing this activity, but I am willing to learn.
+ I have limited experience in performing this activity. I have had exposure to this activity but would require additional guidance, instruction, or experience to perform it at a satisfactory level.
+ I have a fair amount of experience and a fair amount of demonstrated capability in performing this activity. I can perform this activity satisfactorily but could benefit from additional guidance, instruction, or experience to perform this activity more effectively.
+ I have considerable experience and considerable demonstrated capability in performing this activity. I can perform this activity independently and effectively.
+ I have extensive experience and extensive demonstrated capability in performing this activity. I am considered an expert; I am able to train or assist others; and my work is typically not reviewed by a supervisor. I have received verbal and/or written recognition from others in carrying out this activity.
+
+
+8.
+Which level description best describes your experience experience with scripting one of the following: Python, PowerShell, or Bash?
+ I do not have experience or demonstrated capability in performing this activity, but I am willing to learn.
+ I have limited experience in performing this activity. I have had exposure to this activity but would require additional guidance, instruction, or experience to perform it at a satisfactory level.
+ I have a fair amount of experience and a fair amount of demonstrated capability in performing this activity. I can perform this activity satisfactorily but could benefit from additional guidance, instruction, or experience to perform this activity more effectively.
+ I have considerable experience and considerable demonstrated capability in performing this activity. I can perform this activity independently and effectively.
+ I have extensive experience and extensive demonstrated capability in performing this activity. I am considered an expert; I am able to train or assist others; and my work is typically not reviewed by a supervisor. I have received verbal and/or written recognition from others in carrying out this activity.
+
+
+9.
+Which level description best describes your experience assisting in documentation for the purposes of incident reporting, post-incident reviews, pre-incident preparation, and/or stakeholder communications?
+ I have little or no experience preparing or assisting with incident documentation or reports.
+ I have assisted in preparing incident documentation or reports under the guidance of others.
+ I have independently prepared incident reports, pre-incident / post-incident documents, and stakeholder communications.
+ I have led the development, review, and standardization of incident documentation and executive communications for complex incidents.
+
+
+For each item, select the one response that most accurately describes your current level of experience and capability using the scale below.
+
+
+10.
+Which level description best describes your knowledge of network, endpoint, and/or application logs and ability to identify unusual login patterns, abnormal network traffic, unauthorized file changes, privilege misuse, or suspicious process execution?
+ I do not have experience or demonstrated capability in performing this activity, but I am willing to learn.
+ I have limited experience in performing this activity. I have had exposure to this activity but would require additional guidance, instruction, or experience to perform it at a satisfactory level.
+ I have a fair amount of experience and a fair amount of demonstrated capability in performing this activity. I can perform this activity satisfactorily but could benefit from additional guidance, instruction, or experience to perform this activity more effectively.
+ I have considerable experience and considerable demonstrated capability in performing this activity. I can perform this activity independently and effectively.
+ I have extensive experience and extensive demonstrated capability in performing this activity. I am considered an expert; I am able to train or assist others; and my work is typically not reviewed by a supervisor. I have received verbal and/or written recognition from others in carrying out this activity.
+
+
+11.
+How did you hear about this job announcement?
+
+ USAJobs
+ Handshake
+ LinkedIn
+ Career fairs
+ Other
+
+
+12.
+If other was selected, please tell us how you heard about this job announcement.
+
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+13.
+I understand that failure to provide a written statement ("See Resume" or other non-descriptive response is not sufficient), for each essay question could result in non-consideration for this position.
+
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
