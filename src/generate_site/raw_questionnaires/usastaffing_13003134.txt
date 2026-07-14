@@ -1,0 +1,211 @@
+Position Title
+Physical Scientist
+Agency
+National Oceanic and Atmospheric Administration
+Announcement Number
+NOS-26-13003134-DHA Opens in new window
+Open Period
+Jul 14, 2026 to Jul 20, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+Are you a current Department of Commerce employee who meets the definition of surplus or displaced definition of surplus or displaced  from a position in the competitive service that makes you eligible under the Career Transition Assistance Plan (CTAP)?  Note: You are required to submit supporting documentation as proof of eligibility.
+
+If yes, please confirm that you meet all the following eligibility requirements:
+This position is in the same local commuting area as the position of record from which you will be separated; and
+This position is at a grade level no higher than the grade of the position of record from which you will be separated; and
+This position has no greater promotion potential than the position of record from which you will be separated; and
+You have a current performance rating of record of at least fully successful or the equivalent; and 
+You have not yet been separated. 
+ Yes
+ No
+
+
+3.
+Are you a current or former employee of a Federal agency who meets the definition of surplus or displaced from a position in the competitive service from a Federal agency outside of the Department of Commerce that makes you eligible under the Interagency Career Transition Assistance Plan (ICTAP)?  Note: You are required to submit supporting documentation as proof of eligibility.
+
+If yes, please confirm that you meet all the following eligibility requirements:
+This position is in the same local commuting area as the position of record from which you were separated; and 
+This position is at a grade level no higher than the grade of the position of record from which you were separated; and 
+This position has no greater promotion potential than the position of record from which you were separated; and
+Your last performance rating of record was at least fully successful or the equivalent; and
+You were separated from your position of record less than one (1) year ago.
+ Yes
+ No
+
+
+Preferences
+1.
+Select the location(s) you want to be considered for. You must choose at least one location.
+ A. Silver Spring, MD
+ B. Durham, NH
+
+
+2.
+I authorize my application information being shared with hiring managers for similar positions. I understand this option may not result in further consideration for additional positions nor will it impact my application for this announcement.
+ Yes
+ No
+
+
+Merit Hiring Plan
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+
+
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+
+
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+
+
+3.
+How would you help advance the President's Executive Orders and policy priorities in this role? Identify one or two relevant Executive Orders or policy initiatives that are significant to you, and explain how you would help implement them if hired.
+
+
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+
+
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+
+
+Assessment 1
+1.
+I meet the Individual Occupational Requirements for the General Physical Science series, 1301 because I have:
+
+ Degree: physical science, engineering, or mathematics that included 24 semester hours in physical science and/or related engineering science such as mechanics, dynamics, properties of materials, and electronics.
+ Combination of education and experience: education equivalent to one of the majors shown in A above that included at least 24 semester hours in physical science and/or related engineering science, plus appropriate experience or additional education.
+ I do not meet the Individual Occupational Requirements for the General Physical Science series, 1301.
+
+
+2.
+In addition to meeting the Individual Occupational Requirements, select the statement that best describes your experience performing the work of a Physical Scientist, ZP-1301-3 pay band or equivalent grade level (GS-13) in the Federal service.
+
+ I have at least one full year (52 weeks) of specialized experience equivalent to the next lower pay band (ZP-2) or GS-09 grade level in the Federal service which includes all of the following: Assisting in developing and evaluating hydrographic systems, technologies, and procedures used in ocean mapping systems; and Assisting in testing or transitioning new or existing systems or technologies into an operational environment.
+ I have a Ph.D. or equivalent doctoral degree or 3 years of progressively higher-level graduate education leading to such a degree. (Note: You must attach a copy of your transcripts.)
+ I have a combination of successfully completed graduate-level education and specialized experience as described above. Note: Only graduate-level in excess of the amount required for the next lower level may be combined with experience. (Note: You must attach a copy of your transcripts.)
+ I do not possess the experience and/or education described above.
+
+
+Assessment 2
+1.
+When evaluating a new multibeam echo sounder for integration onto a survey platform, which of the following is the most critical initial technical consideration?
+
+ Compatibility with existing data acquisition software, positioning systems, and vessel mounting configurations
+ The design and location of the sound speed sensor
+ Ensuring the system relies exclusively on third-party remote processing
+ The marketing materials provided by the manufacturer
+
+
+2.
+What is a primary operational advantage of implementing uncrewed systems (UxS) for hydrographic surveying?
+
+ Elimination of post-survey data processing requirements
+ The ability to safely acquire data in shallow or hazardous areas
+ Improved reception of global positioning system signals
+ Reduction in the need for standard operating procedures during field testing
+
+
+3.
+The purpose of a multibeam patch test is:
+
+ Test multibeam echo detection on a patch of homogenous seafloor
+ Test multibeam acquisition system software patches
+ Identify and correct multibeam system alignment errors
+ None of the above
+
+
+4.
+What is the primary objective of analyzing and reporting on the results of field testing for new hydrographic technologies?
+
+ To provide data-driven recommendations on whether the technology meets organizational operational requirements and accuracy standards
+ To justify budgets during the technology acquisition phase
+ To completely replace all existing operational equipment regardless of the test outcomes
+ To limit the deployment of any new technology to a single vessel
+
+
+5.
+During installation and integration of a multibeam mapping system, precise offset measurements between the following systems/locations are required:
+
+ Between the positioning system antennas, the sonar transducer and the ship’s bow and stern.
+ Between the transducer, the inertial measurement unit, and the positioning system antennas
+ Between the positioning system antenna and the sonar transducer only
+ Between the data acquisition console and the sonar transducer.
+
+
+6.
+Why is managing the integration between third-party software and existing operational hydrographic equipment critical aboard survey platforms?
+
+ It allows operators to avoid regular sonar system calibrations
+ It ensures seamless data flow, accurate time-syncing, and minimizes system conflicts during data acquisition
+ It is required to replace the manufacturer's operational warranty
+ It automatically completes the survey reporting process
+
+
+7.
+Sound speed in sea water varies with:
+
+ Salinity, Temperature, and Depth
+ Salinity and Temperature only
+ Temperature only
+ Temperature and Depth only
+
+
+8.
+When mapping with a multibeam echo sounder on a surface vessel in water depths appropriate for the system in use:
+
+ The swath width on the seafloor remains constant with changes in depth
+ The swath width on the seafloor increases as the depth increases
+ The swath width on the seafloor increases as the depth decreases
+ The swath width on the seafloor depends on vessel speed.
+
+
+9.
+When developing a plan to transition a new uncrewed surface vehicle (USV) into operational use, what strategic elements should be considered?
+
+ Formulating clear operational milestones
+ Managing transition risk
+ Long-term resource requirements
+ All of the above
+
+
+10.
+Standard Operating Procedures (SOPs) for newly transitioned systems are strategically vital because they:
+
+ Eliminate the need for any future technological upgrades or patches
+ Standardize data collection, reduce operational risk across the fleet, and ensure continuity across different survey platforms
+ Allow operators to eliminate redundant safety protocols during time-critical surveys
+ Are required strictly for archival purposes but are rarely referenced in the field
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+11.
+I certify that I did not use a consultant or artificial intelligence tool (such as a large language model) to complete the responses above. To the best of my knowledge, all information provided in my application is true and accurate. I affirm that I have truthfully and accurately represented my work experience, knowledge, skills, abilities, and education. I understand that providing false or misleading information may result in disqualification from consideration or termination of employment if hired.
+
+I further certify that I have read the entire vacancy announcement, reviewed my responses to the eligibility questions for accuracy, and understand the requirements regarding supporting documentation, including what must be submitted and applicable deadlines.
+
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
