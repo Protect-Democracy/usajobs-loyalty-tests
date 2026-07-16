@@ -2,7 +2,7 @@
   "metadata": {
     "total_jobs": 228977,
     "cutoff_date": "2025-06-01",
-    "generation_date": "2026-07-15T09:53:23.805150"
+    "generation_date": "2026-07-16T09:52:52.538997"
   },
   "by_service_type": {
     "Competitive": 143611,
@@ -92,8 +92,8 @@
     "0180 - Psychology": 2981,
     "None - Unknown": 2975,
     "0801 - General Engineering": 2844,
-    "0905 - Attorney": 2545,
     "0640 - Health Aid And Technician": 2545,
+    "0905 - Attorney": 2545,
     "3566 - Custodial Working": 2270,
     "0101 - Social Science": 2212
   }
