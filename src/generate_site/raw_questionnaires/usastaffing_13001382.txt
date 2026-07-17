@@ -1,0 +1,146 @@
+Position Title
+Information Technology Specialist (Cloud Operation Support)
+Agency
+Government Accountability Office
+Announcement Number
+STAA-26-IMP-13001382 Opens in new window
+Open Period
+Jul 16, 2026 to Jul 30, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Are you currently employed by the Government Accountability Office?
+This includes Career/Career-Conditional employees serving on a non-temporary appointment. This does not include employees on temporary or term appointments.
+
+To determine if you are eligible, your most recent SF-50 Notification of Personnel Action form should reflect:
+career or career-conditional, Tenure of 1 or 2 in box 24 AND
+status in the excepted service, Position Occupied of 2 in box 34.
+To verify your eligibility, you must submit a copy of your most recent Notification of Personnel Action, Standard Form 50 (SF-50) with your application.
+Your SF-50 must include your position title, pay plan/series/band and tenure. Please be aware that award SF-50's may not include this pertinent information. If your last SF-50 is an award SF-50, please additionally submit the next most recent non-award SF-50 that does include the above fields.
+ Yes
+ No
+
+
+Preferences
+1.
+Select the location(s) you want to be considered for. You must choose at least one location.
+ A. Huntsville, AL
+ B. Oakland, CA
+ C. Denver, CO
+ D. Washington, DC
+ E. Atlanta, GA
+ F. Boston, MA
+ G. Dallas, TX
+ H. Seattle, WA
+
+
+Assessment 1
+Select “Yes” or “No” to the following question(s).
+
+
+1.
+You must have one year (52 weeks) of specialized experience at the next lower band or level equivalent to the GS-13 in the federal service, or comparable private or public sector experience, which has equipped you with the skills and knowledge to successfully perform the duties of the position. Specialized experience for this position is defined as:
+Implementing AWS cloud infrastructure across a multi-account and multi-tenant environment;
+Facilitating Agile ceremonies, driving process improvement and managing complex technical programs across multiple teams;
+Implementing security controls and compliance monitoring in a federal cloud environment; and
+Applying FinOps principles and cloud financial management practices, including cost allocation, optimization strategies, budgeting, and forecasting for enterprise cloud environments.
+Additionally, you must have IT-related experience demonstrating each of the four competencies listed below:
+Attention to Detail - Is thorough when performing work and conscientious about attending to detail.
+Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services.
+Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately.
+Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.
+Do you meet this requirement?
+ Yes
+ No
+
+
+2.
+Please provide a short narrative to support your response to the statement above which includes examples and specific details about your experience. Your response must include information sufficient to determine possession of experience.
+
+
+3.
+Please select the Amazon Web Services (AWS) certification(s) you possess. (Select all that apply)
+ A. AWS Certified Cloud Practitioner
+ B. AWS Certified Solutions Architect - Associate
+ C. AWS Certified SysOps Administrator - Associate
+ D. AWS Certified Developer - Associate
+ E. AWS Certified Solutions Architect - Professional
+ F. AWS Certified DevOps Engineer - Professional
+ G. AWS Certified Advanced Networking - Specialty
+ H. AWS Certified Data Analytics - Specialty
+ I. AWS Certified Database - Specialty
+ J. AWS Certified Machine Learning - Specialty
+ K. AWS Certified Security – Specialty
+ L. None of the above
+
+
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+
+
+4.
+Select the statement that best describes your experience utilizing AWS cloud services and administrative tools to design and/or implement multi-account cloud environments.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+5.
+Select the statement that best describes your experience maintaining cloud budgeting frameworks and analyzing resource utilization across services through AWS billing, cost management, and optimization tools (e.g., Cost Explorer, Trusted Advisor, Compute Optimizer).
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+6.
+Select the statement that best describes your experience executing the full range of contract administration activities, including developing Statements of Work (SOWs) and Performance Work Statements (PWSs), and evaluating contractor performance.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+7.
+Select the statement that best describes your experience using Agile planning and processes to improve operational workflows and cross-team coordination.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+8.
+Which statement best describes your experience developing and implementing automated compliance monitoring and security controls and recommending strategies for identified vulnerabilities.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+9.
+Select the statement that best describes your experience leading operational activities for a team, to include ensuring alignment across programs, training management, performing compliance assessments, and developing operational policies and standard operating procedures.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+10.
+I certify that, to the best of my knowledge and belief, all of the information in and attached to this application is true, correct, complete, and made in good faith. I understand that false or fraudulent information on or attached to this application may be grounds for not hiring me or firing me after I begin work, and may be punishable by fine or imprisonment. I understand that any information I give may be investigated.
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
