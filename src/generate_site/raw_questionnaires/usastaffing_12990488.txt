@@ -1,0 +1,231 @@
+Position Title
+Lead Security Specialist
+Agency
+Federal Energy Regulatory Commission
+Announcement Number
+FERC-OED-MPF-26-12990488 Opens in new window
+Open Period
+Jul 14, 2026 to Jul 20, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+
+Are you currently an employee of the Federal Energy Regulatory Commission (FERC) in the competitive service?
+
+To confirm your eligibility, you can view your last SF-50 in your eOPF and confirm that your Tenure code in Block 24 is either "1-Permanent" or "2-Conditional" AND Block 34- Position Occupied must show "1-Competitive Service." 
+
+ 
+
+ Yes
+ No
+
+
+Preferences
+1.
+Select the option that best reflects how you first learned about this vacancy.
+ A job search platform (not USAJobs)
+ Referral from a FERC employee
+ University or Professional Career Fair
+ FERC Careers on Social Media (LinkedIn, X, Facebook and/or Instagram)
+ FERC Website (www.FERC.gov)
+ Email from a FERC Recruiter
+ USAJOBS Search
+ Other
+
+
+2.
+Based on your selection above, please provide additional information (which website, name of the FERC employee, which career fair, which social media page, etc).
+
+
+3.
+I understand submission of supporting documentation, e.g., transcripts, DD 214, CTAP/ICTAP documentation, may be required for this position. I also understand that my application will not be considered if the required supporting documentation is not submitted or is not submitted in accordance with the time frames indicated in the announcement.
+ Yes
+ No
+
+
+4.
+Are you currently an employee of the Federal Energy Regulatory Commission (FERC)?
+ Yes
+ No
+
+
+5.
+In the last five years, based on the closing date of this announcement, have you been or are you currently an employee in the Executive Branch serving on a political, Schedule C, or Non-career SES Appointment? If yes, and you are selected through this announcement, you may be required to obtain approval by the Office of Personnel Management (OPM) prior to beginning employment.
+ Yes
+ No
+
+
+6.
+Does the Federal Energy Regulatory Commission employ any member of your family? Family is defined as: father, mother, son, daughter, brother, sister, uncle, aunt, first cousin, nephew, niece, husband, wife, father-in-law, mother-in-law, son-in-law, daughter-in-law, brother-in-law, sister-in-law, stepfather, stepmother, stepson, stepdaughter, stepbrother, stepsister, half brother, or half sister.
+ Yes
+ No
+
+
+7.
+Please provide the name, relationship, organization in which employed, and location if known.
+
+
+8.
+Are you a retiree receiving a civilian Federal annuity?
+
+(Note: If you are an annuitant, your salary or annuity may be reduced upon employment.)
+ Yes
+ No
+
+
+9.
+Have you accepted a buyout from a Federal agency within the past 5 years?
+ Yes
+ No
+
+
+Assessment 1
+1.
+Select the choice that best describes your specialized experience:
+
+Specialized Experience is defined as: Experience in managing Sensitive Compartmented Information (SCI) programs and Sensitive Compartmented Information Facility (SCIF) accreditation; serving as a Communications Security Custodian (COMSEC) in compliance with NSA/DoD requirements; leading Operational Security (OPSEC) and Insider Threat programs; coordinating with multi agency partners; and implementing Intelligence Community (IC) directives and federal security policies.
+ I have one full year (52 weeks) or more of specialized experience equivalent in responsibility and scope to the GS-13 level as described above.
+ I do not have one full year of specialized experience equivalent to the definition as described above.
+
+
+2.
+In reference to the specialized experience statement, please indicate the time frame and employer(s) in your resume that supports your answer (e.g. 12/10/90 - 2/4/93 Department of Energy). Enter NA if not applicable.
+
+
+Assessment 2
+1.
+A SCIF inspection identifies outdated access control logs. What is the BEST action?
+ Immediately implement corrective action and document remediation
+ Notify users to improve documentation practices
+ Conduct training before taking action
+ Update logs during next inspection cycle
+ None of the above
+
+
+2.
+A COMSEC audit reveals minor inventory discrepancies. What is the BEST response?
+ Correct records quietly
+ Conduct full reconciliation and report discrepancy
+ Monitor for patterns before action
+ Delegate resolution to alternate custodian
+ None of the above
+
+
+3.
+Multiple agencies share responsibility for SCIF IT systems with unclear ownership. What is BEST?
+ Escalate immediately
+ Establish coordinated governance and clarify roles
+ Assign internal ownership unilaterally
+ Wait for agencies to resolve
+ None of the above
+
+
+4.
+Conflicting IC and DOE guidance affects SCIF operations. What is the BEST approach?
+ Follow stricter requirement
+ Pause operations
+ Interpret and reconcile policies, issue agency guidance
+ Request external ruling before acting
+ None of the above
+
+
+5.
+New directive impacts insider threat monitoring. What is the BEST action?
+ Wait for implementation guidance
+ Update internal SOPs and brief stakeholders
+ Apply only to new employees
+ Conduct training only
+ None of the above
+
+
+6.
+Multiple agencies disagree on SCIF cybersecurity authority, causing operational delays.
+What do you do FIRST?
+ Elevate to executive leadership
+ Establish interim policy and convene stakeholders
+ Wait for DOE direction
+ Assign internal authority
+ None of the above
+
+
+7.
+Intelligence indicates potential manipulation in energy markets involving classified sources.
+What is the BEST action?
+ Share intelligence broadly
+ Coordinate secure dissemination and legal alignment
+ Delay action
+ Investigate internally only
+ None of the above
+
+
+8.
+
+Insider threat indicators appear across multiple systems. What is the BEST response?
+ Monitor further
+ Initiate coordinated investigation with stakeholders
+ Notify supervisor only
+ Disable access immediately
+ None of the above
+
+
+9.
+OPSEC review reveals vulnerabilities in critical information handling. What is the BEST action?
+
+ Document findings
+ Recommend mitigation and implement controls
+ Train staff only
+ Report annually
+ None of the above
+
+
+10.
+A senior official is flagged in insider threat monitoring. What is the BEST course of action to take?
+ Immediately suspend access
+ Initiate discreet multi-agency investigation
+ Inform leadership only
+ Monitor behavior
+ None of the above
+
+
+11.
+Potential compromise of cryptographic material detected. What is the BEST course of action to take?
+
+ Initiate emergency destruction procedures
+ Investigate before action
+ Notify users
+ Document for audit
+ None of the above
+
+
+12.
+DOE and DHS disagree on system compliance requirements. What is the BEST action?
+ Adopt DOE position
+ Facilitate resolution and align stakeholders
+ Escalate to leadership immediately
+ Delay implementation
+ None of the above
+
+
+13.
+Personnel clearance delays impact operations. What is the BEST action?
+ Wait for adjudication
+ Coordinate across agencies to expedite resolution
+ Replace personnel
+ Reduce access requirements
+ None of the above
+
+
+14.
+A FERC proceeding requires use of classified intelligence. What is the BEST course of action?
+
+ Exclude classified info
+ Develop secure handling process with legal and IC partners
+ Declassify immediately
+ Delay proceeding
+ None of the above
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
