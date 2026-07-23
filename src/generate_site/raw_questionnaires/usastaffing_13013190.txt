@@ -1,0 +1,154 @@
+Position Title
+IT CYBERSECURITY SPECIALIST (INFOSEC) (T32)
+Agency
+Air National Guard Units
+Announcement Number
+MN-13013190-AF-26-168 Opens in new window
+Open Period
+Jul 20, 2026 to Jul 25, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+All on-board federal employees/technicians within the state for which you are applying (Title 32 and Title 5, Permanent and Excepted Indefinite).  Are you a current on-board federal employee or technician within the state for which this position is being advertised?
+
+To verify your eligibility, you must submit a copy of your most recent Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Tenure in Block 24 (1, 2,or 3).
+ Yes
+ No
+
+
+2.
+All on-board National Guard Title 32 Excepted Technicians within the state for which you are applying (Title 32 Permanent and Excepted Indefinite).  Are you a current on-board National Guard Title 32 Excepted Technician within the state for which this position is being advertised?
+
+To verify your eligibility, you must submit a copy of your most recent Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Tenure in Block 24 (1, 2, or 3).
+ Yes
+ No
+
+
+3.
+Current nationwide military/prior members willing and eligible to become National Guard members.  Are you a current military or prior member willing and eligible to become a National Guard member?
+ Yes
+ No
+
+
+4.
+Are you a current Permanent full-time Dual Status National Guard Technician within the state for which this position is being advertised?
+
+To verify your eligibility, you must submit a copy of your Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Permanent full-time status with the state National Guard.
+ Yes
+ No
+
+
+5.
+Are you a current Temporary Indefinite full-time Dual Status National Guard Technician within the state for which this position is being advertised?
+
+To verify your eligibility, you must submit a copy of your Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Indefinite full-time status with the state National Guard.
+ Yes
+ No
+
+
+Assessment 1
+Respond to each of the following questions. For each question, choose the response that best represents your eligibility, employment and skills. Mark only one response for each question. Please note that your answers will be verified against the information you provided in your uploaded resume, documents and information provided by your references.
+
+
+Select the appropriate answer to indicate your current military status.
+
+
+1.
+I am currently:
+
+ A permanent or indefinite technician in the Minnesota National Guard.(Must provide your SF50.)
+ A traditional member of the Minnesota National Guard.
+ A traditional member of the National Guard in a different state.
+ Eligible for enlistment/appointment in the Minnesota National Guard. *NOTE: (For enlistment/appointment criteria contact 1-800-464-8273 for Army criteria or 1-800-835-3764 for Air Force criteria).
+ Not interested in joining the Minnesota National Guard.
+
+
+2.
+Please provide your rank, grade and AFSC to include skill level. *
+
+
+Respond to all the questions below. For each question choose the response below that best describes your experience and/or training. Mark only one response for each question. Please note that your answers will be verified against the information you provide in your resume or application and information your references provide.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+3.
+Does your experience, training and resume support the General Experience criteria below?
+Experience, education, and/or training that has provided a basic knowledge of data processing functions and general management principles that enabled the applicant to understand the stages required to automate a work process. Experience may have been gained in work such as computer operator or assistant, computer sales representative, program analyst, or other positions that required the use or adaptation of computer programs and systems.
+ Yes
+ No
+
+
+4.
+Do you possess one of the following or combination of the following:
+1) A minimum of at least a Ph.D. or equivalent doctoral degree or 3 full years of progressively higher level graduate education leading to a Ph.D. or equivalent doctoral degree (Degree in computer science, engineering, information science, information systems management, mathematics, operations research, statistics, or technology management or degree that provided a minimum of 24 semester hours in one or more of the fields identified above and required the development or adaptation of applications, systems or networks)
+2) At least 1-year of specialized experience equivalent to at least the next lower grade of GS11 in the 2210 occupational series or equivalent in Cybersecurity.
+
+ Yes
+ No
+
+
+5.
+Do you agree to the following condition of employment:
+This position requires the applicant to possess a SECRET clearance but must be able to obtain a TOP SECRET with SCI eligibility within 6 months of employment.
+ Yes
+ No
+
+
+INSTRUCTIONS: For each task in the following group, choose the statement from the list below that best describes your experience and/or training. Please select only one letter for each item.
+
+
+6.
+In detail, explain your knowledge of and skill in applying methods for evaluating, implementing, and disseminating IT security tool and procedures; IT security certification and accreditation requirements; network operations and protocols; and computer forensics principles.
+
+
+7.
+In detail, explain your experience managing, supervising, leading, administering, developing, delivering, and supporting information technology (IT) systems and services.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+8.
+Do you possess any of the following SecurityX / CASP+, DAWIA PM Practioner, GSEC, Security+? Certificates must be uploaded.
+ Yes
+ No
+
+
+9.
+Do you possess the knowledge, skills and abilities to design, architect, and build the defense strategies such as defining the architecture, providing incident response and designing firewalls? Response must be supported on resume and/or certificates.
+ Yes
+ No
+
+
+10.
+If you answered "Yes" to the above question, please explain your answer.
+
+
+11.
+For any responses where you selected "Yes", "C" I have performed this task on the job,  "D"- I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee or "E- I am considered an expert in performing this task" identify where in your resume this experience is substantiated. (Please limit your response to no more than 500 words.)
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+12.
+Do you acknowledge and agree to the following condition of employment,
+
+Obtain your Level II in Information Assurance Technician, such as Sec+, within 9 months of the appointment IAW DoD 8140 requirements?
+ Yes
+ No
+
+
+13.
+Your responses in this Assessment Questionnaire are subject to evaluation and verification using your resume. Later steps in the selection process are specifically designed to verify your responses. Deliberate attempts to falsify information will be grounds for disqualifying you or for dismissing you from employment following acceptance. Please take this opportunity to review your responses to ensure their accuracy. If you fail to answer this question, you will be disqualified from consideration for this position.
+I certify that, to the best of my knowledge and belief, all the information included in this questionnaire is true, correct, and provided in good faith. I understand that if I make an intentional false statement, or commit deception or fraud in this application and its supporting materials, or in any document or interview associated with the examination process, I may be fined or imprisoned (18 U.S.C. 1001); my eligibilities may be cancelled, I may be denied an appointment, or I may be removed and debarred from Federal service (5 C.F.R. part 731). I understand that any information I give may be investigated. I understand that responding "No" to this item will result in my not being considered for this position.
+ Yes, I verify that all of my responses to this questionnaire are true and accurate. I accept that if my supporting documentation and/or later steps in the selection process do not support one or more of my responses to the questionnaire that my application may be rated lower and/or I may be removed from further consideration.
+ No, I do not accept this agreement and/or I no longer wish to be considered for this position.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙

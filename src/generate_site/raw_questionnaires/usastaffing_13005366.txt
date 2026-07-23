@@ -1,0 +1,328 @@
+Position Title
+Data Scientist
+Agency
+National Oceanic and Atmospheric Administration
+Announcement Number
+NESDIS-26-13005366-DHA Opens in new window
+Open Period
+Jul 21, 2026 to Aug 03, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+Are you a current Department of Commerce employee who meets the definition of surplus or displaced definition of surplus or displaced  from a position in the competitive service that makes you eligible under the Career Transition Assistance Plan (CTAP)?  Note: You are required to submit supporting documentation as proof of eligibility.
+
+If yes, please confirm that you meet all the following eligibility requirements:
+This position is in the same local commuting area as the position of record from which you will be separated; and
+This position is at a grade level no higher than the grade of the position of record from which you will be separated; and
+This position has no greater promotion potential than the position of record from which you will be separated; and
+You have a current performance rating of record of at least fully successful or the equivalent; and 
+You have not yet been separated. 
+ Yes
+ No
+
+
+3.
+Are you a current or former employee of a Federal agency who meets the definition of surplus or displaced from a position in the competitive service from a Federal agency outside of the Department of Commerce that makes you eligible under the Interagency Career Transition Assistance Plan (ICTAP)?  Note: You are required to submit supporting documentation as proof of eligibility.
+
+If yes, please confirm that you meet all the following eligibility requirements:
+This position is in the same local commuting area as the position of record from which you were separated; and 
+This position is at a grade level no higher than the grade of the position of record from which you were separated; and 
+This position has no greater promotion potential than the position of record from which you were separated; and
+Your last performance rating of record was at least fully successful or the equivalent; and
+You were separated from your position of record less than one (1) year ago.
+ Yes
+ No
+
+
+Preferences
+1.
+Select the location(s) you want to be considered for. You must choose at least one location.
+ A. Boulder, CO
+ B. Fort Collins, CO
+ C. College Park, MD
+ D. Greenbelt, MD
+ E. Lanham, MD
+ F. Riverdale, MD
+ G. Silver Spring, MD
+ H. Suitland, MD
+ I. Stennis Space Center, MS
+ J. Asheville, NC
+ K. Madison, WI
+
+
+2.
+I authorize my application information being shared with hiring managers for similar positions. I understand this option may not result in further consideration for additional positions nor will it impact my application for this announcement.
+ Yes
+ No
+
+
+Merit Hiring Plan
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+
+
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+
+
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+
+
+3.
+How would you help advance the President's Executive Orders and policy priorities in this role? Identify one or two relevant Executive Orders or policy initiatives that are significant to you, and explain how you would help implement them if hired.
+
+
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+
+
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+
+
+Assessment 1
+1.
+I meet the Individual Occupational Requirements for the Data Science Series, 1560, because I have:
+
+ Degree: Mathematics, statistics, computer science, data science or field directly related to the position. The degree must be in a major field of study (at least at the baccalaureate level) that is appropriate for the position.
+ Combination of education and experience: Courses equivalent to a major field of study (30 semester hours) as shown in paragraph A above, plus additional education or appropriate experience.
+ I do not meet the Individual Occupational Requirements for the Data Science Series 1560.
+
+
+2.
+In addition to meeting the Individual Occupational Requirements, select the statement that best describes your experience performing the work of a Data Scientist, ZP-1560-5 pay band or equivalent grade level (GS-15) in the Federal service.
+
+ I have at least one full year (52 weeks) of specialized experience equivalent to the next lower pay band (ZP-4) or GS-14 grade level in the Federal service which includes all of the following: Designing or implementing artificial intelligence and machine learning models to analyze or interpret environmental data; Developing automated workflows utilizing statistical and mathematical techniques; and Providing guidance or consultations to scientific professionals in areas such as environmental data acquisition, processing, data basing, or information generation and visualization.
+ I do not possess the experience described above.
+
+
+Assessment 2
+1.
+An operational machine learning model deployed to predict environmental trends begins to show a gradual drop in predictive performance over several months, even though the underlying computing infrastructure is running perfectly. What is the most common cause of this issue?
+
+ High network latency within the distributed backup database.
+ Model degradation caused by data drift or concept drift as real-world baselines change over time.
+ Inconsistent use of naming conventions in the team's software repository.
+ Automatic updates to the user identity access management protocols.
+ Missing system hardware serial numbers in the historical archive.
+
+
+2.
+When a division needs to build an AI model to classify a massive new archive of unstructured text files, what strategy provides the best balance of fast deployment and high accuracy without requiring massive compute budgets?
+
+ Building and training a deep neural network completely from scratch.
+ Moving the files back to local physical tape archives to run batch scripts.
+ Utilizing a pre-trained foundational model and fine-tuning it on the division's specific data (transfer learning).
+ Relying strictly on basic keyword matching and regular expressions.
+ Requiring staff to manually tag all files before feeding them to a model.
+
+
+3.
+When building an automated data processing pipeline, how should transient network timeouts or minor server disconnects be handled to avoid disrupting data stewardship workflows?
+
+ By shutting down the entire server cluster and alerting all system administrators.
+ By skipping the failed file and continuing the process without saving an error log.
+ By configuring automatic retry logic with exponential backoff to handle temporary glitches gracefully.
+ By pausing the entire system until a data manager manually clicks a reset button.
+ By routing all cloud traffic back to local on-premises recovery drives.
+
+
+4.
+Which architectural design pattern is best suited for an automated data pipeline that needs to ingest data from multiple, separate sources without creating system-wide performance bottlenecks?
+
+ Tightly coupling all divisional databases together into a single master transaction block.
+ An asynchronous, event-driven architecture using message queues or data streams.
+ Forcing all processing tasks to run sequentially on a single software thread.
+ Relying on manually scheduled cron jobs set up on individual staff computers.
+ Allowing ingestion to run only when the public discovery portal has zero active users.
+
+
+5.
+To build a successful dashboard that combines completely different types of metrics (like cloud usage costs, user search logs, and data ingest file sizes), what is the first technical step a data scientist must take?
+
+ Summarizing all data into qualitative text paragraphs.
+ Designing or adopting a standardized data schema or canonical model to align and normalize the incoming metrics.
+ Writing the metrics directly into the frontend user interface code to bypass database logic.
+ Merging all separate underlying source databases into a single physical table.
+ Banning any source metric that cannot be exported into a basic text format.
+
+
+6.
+When integrating big data metrics from several independent source networks, what is the best automated approach to deal with duplicate records and formatting variations?
+
+ Deleting any data batch that contains even a single formatting mismatch.
+ Implementing a dedicated data cleaning and curation layer that automatically removes duplicates and enforces formatting standards.
+ Shutting off network access for external data providers until they format everything perfectly.
+ Processing records one at a time using a single-threaded legacy script.
+ Routing all formatting mismatches to junior staff for manual line-by-line adjustment.
+
+
+7.
+When asked to predict future cloud storage capacity demands over the next 24 months based on historical data, which mathematical approach provides the most reliable forecast?
+
+ Calculating a simple flat average of the previous week's total storage changes.
+ Reviewing user feedback surveys regarding search portal functionality.
+ Using time-series forecasting models (such as ARIMA or regression tracking) that account for long-term trends and cyclical patterns.
+ Establishing a static 5% annual increase policy across all infrastructure tiers.
+ Applying clustering techniques strictly to historical financial transaction receipts.
+
+
+8.
+Why is overall classification "Accuracy" a poor choice for evaluating an AI model designed to predict rare data ingestion pipeline failures?
+
+ Accuracy is too computationally expensive to calculate for large data matrices.
+ In an imbalanced dataset where failures are rare, a useless model that always guesses "success" will still achieve a high accuracy score.
+ Federal guidelines explicitly forbid the use of accuracy scores in data science projects.
+ Accuracy metrics only work when training models on on-premises computing hardware.
+ High accuracy automatically means the model has suffered from computational overfitting.
+
+
+9.
+What is the most effective file format policy to ensure that digitized environmental data assets remain readable and usable by scientists 30 or 50 years from now?
+
+ Mandating proprietary formats controlled by popular commercial software vendors.
+ Encrypting and compressing all files into custom executable application blocks.
+ Enforcing open, self-documenting, and widely adopted international file standard formats (like netCDF or Parquet).
+ Storing data solely in the raw, unmodified binary output generated by the original physical recording hardware.
+ Converting all multi-dimensional matrices into basic un-indexed flat text logs.
+
+
+10.
+When modernizing legacy data software to prevent it from breaking during future operating system updates, what technology allows data scientists to package workflows safely?
+
+ Printing out complete physical copies of the source code for offline storage.
+ Utilizing containerization (such as Docker or Podman) to bundle the software and its exact dependencies together.
+ Locking the division's computers to prevent any future operating system security patches.
+ Storing uncompiled scripts in unmonitored shared network drives.
+ Signing multi-decade consulting contracts with legacy software developers.
+
+
+11.
+What is a major financial and technical advantage of cloud object storage (like AWS S3) compared to traditional on-premises server hard drives for handling massive data archives?
+
+ Object storage naturally speeds up localized file renaming scripts.
+ It separates storage from compute, allowing data to be kept cheaply at massive scale while launching heavy computing power only when necessary.
+ Object storage automatically formats raw data into ready-to-use analytical dashboards.
+ It completely removes the need to configure cybersecurity or user access control rules.
+ It limits data streams to a single computer core, preventing complex multi-threading bugs.
+
+
+12.
+When writing analytical code to extract insights from a multi-terabyte cloud data lake, what practice prevents slow processing and excessive cloud network bills?
+
+ Downloading the full multi-terabyte dataset onto a local desktop computer first.
+ Forcing all unstructured cloud files into a single, massive traditional relational database.
+ Using partitioned data structures and filtering data at the storage layer (pushdown queries) before pulling it into memory.
+ Limiting all computing tasks to a single, low-powered virtual machine instance.
+ Returning to legacy FTP command lines to pull files down sequentially.
+
+
+13.
+To comply with federal open data mandates (like the OPEN Government Data Act), what feature must be integrated into all newly generated public data pipelines?
+
+ An automatic system that locks data access to everyone except agency directors.
+ Automated generation of machine-readable metadata that details data formats, licensing, and inclusion in the federal catalog.
+ Hardcoded printouts of server rack configurations embedded into public tables.
+ Comprehensive logging of the home addresses of the software development team.
+ Filters that prevent external universities or scientists from downloading files easily.
+
+
+14.
+When building artificial intelligence models for public federal systems, what requirement aligns with government mandates for Trustworthy AI?
+
+ Keeping all algorithm logic hidden from the public to avoid questions or critiques.
+ Delegating all final accuracy and safety decisions to an external corporate software vendor.
+ Ensuring model transparency by tracking data provenance and using model explainability tools to understand how decisions are reached.
+ Prioritizing processing speed above validation testing or accuracy checks.
+ Hardcoding the software logic to block any future security or algorithm patches.
+
+
+15.
+How can machine learning models directly increase the long-term public value and return on investment (ROI) of historical archives?
+
+ By putting historical data behind a subscription paywall to generate auxiliary agency revenue.
+ By automatically scanning archives to extract missing keywords, enrich metadata, and create smart search links across separate collections.
+ By deleting files that have not been manually opened or modified within the last year.
+ By ensuring files can only be opened using a proprietary software tool built by the division.
+ By disabling online downloads and requiring users to file data requests via email.
+
+
+16.
+To give organizational leadership a clear picture of the efficiency and overall performance of a data preservation program, what metric provides the most useful overview?
+
+ A simple count of individual hard drives physically resting in the server room.
+ The total number of hours staff spent manually entering data into spreadsheets.
+ A combined index tracking data ingest speeds, pipeline error rates, metadata completeness, and user download numbers.
+ An audit tracking the electricity usage of the office breakrooms and facility lighting.
+ The exact number of software programming tools used across the entire agency.
+
+
+17.
+As a technical authority in data science, you are presenting a proposal for a cross-organization AI modernization framework to non-technical agency executives to secure funding and organizational buy-in. Which communication strategy is most effective?
+
+ Providing a detailed, step-by-step breakdown of the data-cleaning phase, library dependencies, and neural network tuning metrics to establish absolute technical credibility.
+ Synthesizing the technical architecture into a high-level strategic roadmap that explicitly links the AI/ML capabilities to operational mission outcomes, resource savings, and risk mitigations.
+ Focusing the presentation primarily on the procurement timeline and software vendor feature lists, deferring all operational and mission-alignment details to an offline technical appendix.
+ Presenting a highly generalized overview of generic industry AI success stories, avoiding any specific discussion of the agency's underlying infrastructure gaps or project risks.
+ Framing the modernization framework strictly as a series of low-impact, localized script adjustments to minimize the executives' perception of organizational change.
+
+
+18.
+What is a vital design strategy to include in a five-year data technology plan to protect the agency from finding itself trapped in a technical dead-end?
+
+ Relying strictly on a single software vendor's proprietary, non-transferable cloud tools.
+ Focusing entirely on immediate, short-term fixes without planning for future data growth.
+ Ensuring the plan uses modular systems and open standards so the agency can easily swap out or upgrade technical pieces in the future.
+ Locking the design of newly built systems so that no software adjustments can be made later.
+ Hiding potential infrastructure risks or processing costs from the initial planning documents.
+
+
+19.
+How does a modern "Data Mesh" approach change data management across a large enterprise compared to a traditional centralized database model?
+
+ It forces all separate divisions to upload their data to a single table managed by one central IT group.
+ It decentralizes data ownership, letting the specific divisions manage their own data assets while following shared global standards.
+ It removes data control from technical staff and hands it completely to financial auditing teams.
+ It creates completely isolated data silos where divisions are locked out of viewing each other's files.
+ It requires all information to be saved as un-indexed text documents on local desktop machines.
+
+
+20.
+What unique advantage does overlaying a "Knowledge Mesh" (using semantic graphs and metadata models) provide for automated data discovery across an organization?
+
+ It compresses large datasets automatically to save half the physical drive space.
+ It completely eliminates the need to use cloud servers or processing nodes.
+ It maps the structural connections and meanings of different datasets, allowing AI models to search and link related information across multiple systems.
+ It sets up a strict relational structure that blocks the ingestion of any non-tabular data files.
+ It requires all data searches to be handled manually by data catalog clerks.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+21.
+I certify that I did not use a consultant or artificial intelligence tool (such as a large language model) to complete the responses above. To the best of my knowledge, all information provided in my application is true and accurate. I affirm that I have truthfully and accurately represented my work experience, knowledge, skills, abilities, and education. I understand that providing false or misleading information may result in disqualification from consideration or termination of employment if hired.
+
+I further certify that I have read the entire vacancy announcement, reviewed my responses to the eligibility questions for accuracy, and understand the requirements regarding supporting documentation, including what must be submitted and applicable deadlines.
+
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
