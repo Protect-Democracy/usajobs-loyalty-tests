@@ -1,0 +1,261 @@
+Position Title
+IT PROJECT MANAGER
+Agency
+Federal Energy Regulatory Commission
+Announcement Number
+FERC-OED-MPF-26-13007022 Opens in new window
+Open Period
+Jul 21, 2026 to Jul 27, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+
+Are you currently an employee of the Federal Energy Regulatory Commission (FERC) in the competitive service?
+
+To confirm your eligibility, you can view your last SF-50 in your eOPF and confirm that your Tenure code in Block 24 is either "1-Permanent" or "2-Conditional" AND Block 34- Position Occupied must show "1-Competitive Service." 
+
+ 
+
+ Yes
+ No
+
+
+Preferences
+1.
+Select the option that best reflects how you first learned about this vacancy.
+ A job search platform (not USAJobs)
+ Referral from a FERC employee
+ University or Professional Career Fair
+ FERC Careers on Social Media (LinkedIn, X, Facebook and/or Instagram)
+ FERC Website (www.FERC.gov)
+ Email from a FERC Recruiter
+ USAJOBS Search
+ Other
+
+
+2.
+Based on your selection above, please provide additional information (which website, name of the FERC employee, which career fair, which social media page, etc).
+
+
+3.
+I understand submission of supporting documentation, e.g., transcripts, DD 214, CTAP/ICTAP documentation, may be required for this position. I also understand that my application will not be considered if the required supporting documentation is not submitted or is not submitted in accordance with the time frames indicated in the announcement.
+ Yes
+ No
+
+
+4.
+Are you currently an employee of the Federal Energy Regulatory Commission (FERC)?
+ Yes
+ No
+
+
+5.
+In the last five years, based on the closing date of this announcement, have you been or are you currently an employee in the Executive Branch serving on a political, Schedule C, or Non-career SES Appointment? If yes, and you are selected through this announcement, you may be required to obtain approval by the Office of Personnel Management (OPM) prior to beginning employment.
+ Yes
+ No
+
+
+6.
+Does the Federal Energy Regulatory Commission employ any member of your family? Family is defined as: father, mother, son, daughter, brother, sister, uncle, aunt, first cousin, nephew, niece, husband, wife, father-in-law, mother-in-law, son-in-law, daughter-in-law, brother-in-law, sister-in-law, stepfather, stepmother, stepson, stepdaughter, stepbrother, stepsister, half brother, or half sister.
+ Yes
+ No
+
+
+7.
+Please provide the name, relationship, organization in which employed, and location if known.
+
+
+8.
+Are you a retiree receiving a civilian Federal annuity?
+
+(Note: If you are an annuitant, your salary or annuity may be reduced upon employment.)
+ Yes
+ No
+
+
+9.
+Have you accepted a buyout from a Federal agency within the past 5 years?
+ Yes
+ No
+
+
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+
+
+10.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+
+
+11.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+
+
+12.
+How would you help advance the President's Executive Orders and policy priorities in this role? Identify one or two relevant Executive Orders or policy initiatives that are significant to you, and explain how you would help implement them if hired.
+
+
+13.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+
+
+14.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+
+
+Assessment 1
+1.
+Specialized Experience is defined as: Experience leading enterprise portfolio management, executing enterprise-level initiatives leveraging agile methodologies, and management of cross functional teams. Experience also includes establishing governance frameworks, policies, and performance metrics for enterprise-level IT and AI projects.
+Information Technology Infrastructure Library version 4 (ITIL v.4) Foundation certification preferred.
+ I have one full year (52 weeks) or more of specialized experience equivalent in responsibility and scope to the GS-13 level as described above.
+ I do not have one full year of specialized experience equivalent to the definition as described above.
+
+
+1a.
+In reference to the specialized experience statement, please indicate the time frame and employer(s) in your resume that supports your answer (e.g. 12/10/90 - 2/4/93 Department of Energy). Enter NA if not applicable.
+
+
+Assessment 2
+1.
+A major AI implementation project is behind schedule due to integration delays. What is the BEST action?
+ Extend the schedule and document delays
+ Rebaseline project milestones and escalate risk to leadership
+ Shift resources from lower-priority projects and implement corrective actions
+ Continue monitoring without intervention
+ None of the above
+
+
+2.
+A contractor repeatedly misses deliverables. What is the BEST approach?
+ Document performance issues only
+ Replace contractor immediately
+ Enforce contract terms and implement performance improvement actions
+ Ignore if project timeline is unaffected
+ None of the above
+
+
+3.
+During SDLC execution, requirements change significantly. What should you do?
+ Reject all changes
+ Accept changes without review
+ Conduct impact analysis and adjust scope, cost, and timeline
+ Delay decision until project completion
+ None of the above
+
+
+4.
+An AI solution conflicts with existing enterprise architecture. What is the BEST approach?
+ Proceed with AI implementation
+ Delay project indefinitely
+ Redesign solution to align with enterprise architecture
+ Ignore architecture requirements
+ None of the above
+
+
+5.
+Cloud adoption is required for scalability. What is the BEST step?
+
+ Move all systems immediately
+ Conduct architecture and security assessment first
+ Delay migration
+ Use hybrid approach without evaluation
+ None of the above
+
+
+6.
+A deployed AI system produces inconsistent regulatory outputs affecting Commission decisions.
+
+ Suspend system and initiate full audit
+ Continue operations and monitor
+ Implement controls while conducting parallel validation
+ Notify leadership without action
+ None of the above
+
+
+7.
+Leadership requests an AI roadmap. What is the BEST approach?
+
+
+ Provide high-level concepts only
+ Develop roadmap aligned with mission, governance, and risk controls
+ Copy another agency’s roadmap
+ Delay until more data is available
+ None of above
+
+
+8.
+OMB guidance conflicts with internal IT policy. What do you do?
+
+
+ Follow internal policy only
+ Escalate and reconcile differences while ensuring compliance
+ Ignore OMB guidance
+ Delay implementation
+ None of the above
+
+
+9.
+Multiple CIO divisions resist centralized governance.
+
+
+
+ Allow decentralized operations
+ Enforce governance policy without input
+ Engage divisions and implement unified governance framework
+ Delay governance implementation
+ None of the above
+
+
+10.
+Governance gaps exist in AI oversight. What is BEST?
+
+
+
+
+ Document issue only
+ Develop governance framework and controls
+ Ignore
+ Delegate without oversight
+ None of the above
+
+
+11.
+A senior stakeholder resists AI adoption. What is BEST?
+
+
+
+
+ Ignore concerns
+ Mandate adoption
+ Engage, address concerns, and demonstrate value
+ Delay project
+ None of the above
+
+
+12.
+Multiple offices have conflicting priorities. What is BEST?
+
+
+
+
+ Choose one priority
+ Facilitate consensus and align priorities to mission
+ Delay decision
+ Escalate immediately
+ None of the above
+
+
+13.
+Communicating technical AI risks to executives requires:
+ Technical jargon
+ Simplified, decision-focused communication
+ No communication
+ Written reports only
+ None of the above
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
