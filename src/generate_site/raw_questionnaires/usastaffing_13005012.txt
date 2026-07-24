@@ -1,0 +1,232 @@
+Position Title
+Node React/Java Full Stack Web Developer
+Agency
+Social Security Administration
+Announcement Number
+SSA-13005012-MP26-CIO Opens in new window
+Open Period
+Jul 20, 2026 to Jul 24, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+Please read the questions carefully. Responding "No" may result in loss of further consideration.
+
+
+1.
+Are you a current SSA employee applying for reassignment, change to lower grade, or repromotion to a grade you previously held on a permanent basis? Select yes if you currently hold or previously held a permanent position at or above the grade level(s) posted in this vacancy announcement. (NOTE: If the posted position has higher promotion potential than you have held on a permanent basis, you must apply for promotion to receive consideration.)
+OR
+Are you applying for non-competitive consideration?  Select yes if you are an SSA employee currently serving under one of the following appointment types:  Schedule A 213.3102(u) for individuals with disabilities; temporary/term appointment for 30% or more disabled veterans; or Veterans Recruitment Appointment (Note: Employees serving on VRA appointments are only eligible for non-competitive consideration for positions at GS-11 or below).
+ Yes
+ No
+
+
+2.
+Are you a current SSA employee applying for promotion? Select yes if you have 52 weeks at the next lower grade AND you have not held a permanent position at the grade level(s) posted in this vacancy announcement, OR if this position has higher promotion potential than the positions you have held on a permanent basis.
+ Yes
+ No
+
+
+Preferences
+1.
+Please enter your Employee Common ID (ECI). Your ECI can be found on the first page of Employee Data. NOTE: The Employee Data website is only viewable from within SSA's firewall.
+
+
+2.
+Select the location(s) you want to be considered for. You must choose at least one location.
+ A. Woodlawn, MD
+ B. Durham, NC
+
+
+Assessment 1
+Please answer Yes or No for each of the following areas that describe your experience and/or training in that task. Applicants must have IT-related experience demonstrating each of the four competencies below. You may be asked to provide evidence of supporting documentation that you have had this type of experience and. Your responses are subject to verification against the information you provide.
+
+
+1.
+I am thorough when performing work and conscientious about attending to detail?
+ Yes
+ No
+
+
+2.
+I work with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; know about available products and services; and am committed to providing quality products and services?
+ Yes
+ No
+
+
+3.
+I make sound, well-informed, and objective decisions; perceives the impact and implications of decisions; commits to action, even in uncertain situations, to accomplish organizational goals; causes change.
+ Yes
+ No
+
+
+4.
+I identify a need for and know where or how to gather information; organize and maintain information or information management systems.
+ Yes
+ No
+
+
+5.
+I show understanding, friendliness, courtesy, tact, empathy, concern, and politeness to others; develop and maintain effective relationships with others; may include effectively dealing with individuals who are difficult, hostile, or distressed; relates well to people from varied backgrounds and different situations.
+ Yes
+ No
+
+
+6.
+I express information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); make clear and convincing oral presentations; listen to others, attend to nonverbal cues, and responds appropriately.
+ Yes
+ No
+
+
+7.
+I identify problems; determine accuracy and relevance of information; use sound judgment to generate and evaluate alternatives, and to make recommendations?
+ Yes
+ No
+
+
+8.
+I encourage and facilitate cooperation, pride, trust, and group identity; foster commitment and team spirit; work with others to achieve goals.
+ Yes
+ No
+
+
+9.
+I Use knowledge that is acquired through formal training or on-the-job experience to perform my job; work with, understands, and evaluates technical information related to the job; advise others on technical issues.
+ Yes
+ No
+
+
+Please choose the one statement that best describes your level of experience or education as related to the basic qualification requirements for this position:
+
+
+10.
+Do you have specialized experience at the GS-14 level, or equivalent, which is in or related to the work of the position to be filled, that has equipped you with the particular knowledge, skills, and abilities to successfully perform the duties of the position? To qualify for this GS-15 IT Specialist position you must demonstrate specialized experience. 
+
+
+Such IT-related experience must include all the following: 
+
+ 
+
+Designing, developing, and maintaining large-scale web applications and APIs, utilizing advanced frameworks such as Angular, React.js, and Spring Boot, and programming languages such as Java or Node.js on platforms like AWS or PaaS.,  
+
+Object-oriented software design and implementation, including interfacing with databases such as DB2, SQL, MongoDB, and PostgreSQL, as well as leveraging DevOps technologies to meet modern development standards, 
+
+Leading and coordinating complex enterprise-level IT projects, facilitating technical discussions and conducting code reviews, 
+
+Collaborating with cross-functional teams to define, design, and deliver new features, and 
+
+Communicating complex technical concepts to executives and team members. 
+
+ Yes
+ No
+
+
+11.
+Are you currently in good standing? CAUTION: Employees are not in good standing when they are placed on an OPS plan, and remain in not in good standing until they meet one of the following conditions: Successful completion of the OPS plan; Following the unsuccessful completion of the OPS, receive a successful rating for a new appraisal period under a new plan for a new position (if applicable based on the effectuated performance-based action); or Voluntarily change positions prior to completing the OPS. In good standing information can be found on the first page of Employee Data (https://eedata.personnel.ba.ssa.gov/). NOTE: The Employee Data website is only viewable from within SSA's firewall?
+ Yes
+ No
+
+
+12.
+Please select the statement that best describes your appointment?
+ I am an SSA employee serving under a career or career/conditional appointment.
+ I am an SSA employee serving under a Schedule A, Reg. 213.3102 (U) appointment for individuals with disabilities.
+ I am an SSA employee serving under a time-limited appointment for veterans with a compensable service-connected disability of 30% or more.
+ I am in an appointment other than the ones described above (e.g., excepted service for Attorneys, term appointment or contractor, etc.).
+
+
+13.
+Please select the statement that best describes where you work.
+ My permanent organization is in CIO
+ My permanent organization is outside of CIO
+
+
+Please answer Yes or No to the following questions. Your responses will be used to rate your application. Be sure to include specific examples of claimed experience in your resume and supporting documents. If your application materials do not demonstrate the knowledge, skills, abilities, and experience needed for this position, your application will be ineligible for consideration?
+
+
+14.
+Do you have advanced skills working with modern programming languages (such as Java, JavaScript, Python, or .NET Core) and using frameworks or platform tools like Spring Boot, React.js, Node.js, Linux, or Visual Studio Code?
+ Yes
+ No
+
+
+15.
+Do you have experience with SSA's enterprise architecture including understanding of Amazon Web Services and their integration within large scale federal environments?
+ Yes
+ No
+
+
+16.
+Do you have experience with software development methodologies (e.g., DevOps, CI/CD, and Agile) in order to develop plans and strategies to modify IT infrastructure or development workflow to support short- and long-range Agency goals, objectives, and plans?
+ Yes
+ No
+
+
+17.
+Do you have in depth knowledge of how Node.js or Java Web applications and services are designed, developed, and deployed at SSA?
+ Yes
+ No
+
+
+18.
+Do you have experience advising executive management on strategies and solutions to address complex, high-level system-related problems?
+ Yes
+ No
+
+
+19.
+Do you have experience creating executive level background papers or presentations?
+ Yes
+ No
+
+
+20.
+Do you have experience preparing written executive level briefing materials, background or summaries?
+ Yes
+ No
+
+
+21.
+Do you have experience developing and presenting a long-term vision or strategic plan for enterprise IT infrastructure or development?
+ Yes
+ No
+
+
+22.
+Do you have experience conducting and leading technical analyses or technical support of product or projects in one or more of the following areas: Disability, Data Processing, Data Science, Audits or Technician Support?
+ Yes
+ No
+
+
+23.
+Do you have experience performing in-depth technical analysis of major IT issues to identify risks or concerns and develop recommendations, procedures, and solutions to mitigate risks?
+ Yes
+ No
+
+
+24.
+Do you have experience collaborating with customers, teams or staff members and senior management to identify, resolve or work within competing priorities for multiple IT projects or initiatives to achieve organizational goals or objectives?
+ Yes
+ No
+
+
+25.
+Do you have experience leading the adoption and integration of new technologies to drive innovation and improve disability processes within an organization?
+ Yes
+ No
+
+
+26.
+Do you have experience directing the development, architecture, integration, and/or deployment of user interfaces, data management systems, or automated processes to optimize business operations?
+ Yes
+ No
+
+
+27.
+I acknowledge that I have thoroughly read each question and answered all honestly and to the best of my ability?
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
