@@ -1,0 +1,109 @@
+Position Title
+Interdisciplinary
+Agency
+Joint Activities
+Announcement Number
+DAKB-26-13016839 - PUBLIC Opens in new window
+Open Period
+Jul 23, 2026 to Jul 30, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+Preferences
+1.
+Select the location(s) you want to be considered for. You must choose at least one location.
+ A. Fort Gordon, GA
+ B. Fort Meade, MD
+
+
+2.
+Select the series you want to be considered for. You must choose at least one series.
+ A. 0854 - Computer Engineering
+ B. 1515 - Operations Research
+ C. 1529 - Mathematical Statistics
+ D. 1530 - Statistics
+ E. 1550 - Computer Science
+ F. 1560 - Data Science Series
+
+
+3.
+Would you accept a term appointment?
+ Yes
+ No
+
+
+Assessment 1
+Thank you for your interest in the Data Scientist, AD--00 position with Department of Army. Your resume and the responses you provide to this assessment questionnaire will be used to determine if you are among the best qualified for this position. Your responses are subject to verification. Please review your responses for accuracy before you submit your application.
+
+
+1.
+Select the one statement that best describes the education that you possess that demonstrates your ability to perform the work of a Computer Engineer (Simulations) at the AD-00 grade level or equivalent pay band in the Federal Service.
+ I have a bachelor's degree (or higher degree) in engineering. To be acceptable, the program must: (1) lead to a bachelor’s degree (or higher degree) in a school of engineering with at least one program accredited by the Accreditation Board for Engineering and Technology (ABET); OR (2) include differential and integral calculus and courses (more advanced than first-year physics and chemistry) in five of the following seven areas of engineering science or physics: (a) statics, dynamics; (b) strength of materials (stress-strain relationships); (c) fluid mechanics, hydraulics; (d) thermodynamics; (e) electrical fields and circuits; (f) nature and properties of materials (relating particle and aggregate structure to properties); and (g) any other comparable area of fundamental engineering science or physics, such as optics, heat transfer, soil mechanics, or electronics. (Note: You must attach a copy of your transcripts.)
+ I have a combination of education and experience that furnished (1) a thorough knowledge of the physical and mathematical sciences underlying engineering, and (2) a good understanding, both theoretical and practical, of the engineering sciences and techniques and their applications to one of the branches of engineering. I am currently registered as an Engineer Intern (EI), Engineer in Training (EIT), or licensed as a Professional Engineer (PE) by any State, the District of Columbia, Guam, or Puerto Rico. Absent other means of qualifying under this standard, those applicants who achieved such registration by means other than written test (e.g., State grandfather or eminence provisions) are eligible only for positions that are within or closely related to the specialty field of their registration. For example, an applicant who attains registration through a State Board's eminence provision as a manufacturing engineer typically would be rated eligible only for manufacturing engineering positions. (Note: You must attach a copy of your transcripts.)
+ I have a combination of education and experience that furnished (1) a thorough knowledge of the physical and mathematical sciences underlying engineering, and (2) a good understanding, both theoretical and practical, of the engineering sciences and techniques and their applications to one of the branches of engineering. I have successfully passed the Fundamentals of Engineering (FE) examination, or any other written test required for professional registration, by an engineering licensure board in the various States, the District of Columbia, Guam, or Puerto Rico. (Note: You must attach a copy of your transcripts.)
+ I have a combination of education and experience that furnished (1) a thorough knowledge of the physical and mathematical sciences underlying engineering, and (2) a good understanding, both theoretical and practical, of the engineering sciences and techniques and their applications to one of the branches of engineering. I have successfully completed at least 60 semester hours or 90 quarter hours of courses in the physical, mathematical, and engineering sciences that included the courses specified in A above. The courses must be fully acceptable toward meeting the requirements of an engineering program. (Note: You must attach a copy of your transcripts.)
+ I have a combination of education and experience that furnished (1) a thorough knowledge of the physical and mathematical sciences underlying engineering, and (2) a good understanding, both theoretical and practical, of the engineering sciences and techniques and their applications to one of the branches of engineering. I have successfully completed a curriculum leading to a bachelor's degree in an appropriate scientific field, e.g., engineering technology, physics, chemistry, architecture, computer science, mathematics, hydrology, or geology, and have at least 1 year of professional engineering experience acquired under professional engineering supervision and guidance. Ordinarily there should be either an established plan of intensive training to develop professional engineering competence, or several years of prior professional engineering-type experience, e.g., in interdisciplinary positions. (The above examples of related curricula are not all-inclusive.) (Note: You must attach a copy of your transcripts.)
+ My education and/or experience is not reflected in the above statement.
+
+
+2.
+Select the one statement that best describes the education that you possess that demonstrates your ability to perform the work of an Operations Research Analyst (AI/ML) at the AD-00 grade level or equivalent pay band in the Federal Service.
+
+ I have a bachelor’s degree (or higher degree) in operations research; or a degree with at least 24 semester hours in a combination of operations research, mathematics, probability, statistics, mathematical logic, science, or subject-matter courses requiring substantial competence in college-level mathematics or statistics. At least 3 of the 24 semester hours must have been in calculus. (Note: You must attach a copy of your transcripts.)
+ I do not possess the education described above.
+
+
+3.
+Select the one statement that best describes the education that you possess that demonstrates your ability to perform the work of a Mathematics Statistician (AI/ML) at the AD-00 grade level or equivalent pay band in the Federal Service.
+ I have a bachelor’s degree (or higher degree) which included 24 semester hours of mathematics and statistics, of which at least 12 semester hours were in mathematics and 6 semester hours were in statistics. I meet the mathematics course requirement by having at least four of the following: differential calculus, integral calculus, advanced calculus, theory of equations, vector analysis, advanced algebra, linear algebra, mathematical logic, differential equations, or any other advanced course in mathematics for which one of these was a prerequisite. (Note: You must attach a copy of your transcripts.)
+ I have a combination of education and experience which includes at least 24 semester hours of mathematics and statistics, including at least 12 hours in mathematics and 6 hours in statistics, as shown in A above, plus appropriate experience or additional education. I meet the mathematics course requirement by having at least four of the following: differential calculus, integral calculus, advanced calculus, theory of equations, vector analysis, advanced algebra, linear algebra, mathematical logic, differential equations, or any other advanced course in mathematics for which one of these was a prerequisite. I have appropriate experience which includes evidence of statistical work such as (1) sampling; (2) collecting, computing, and analyzing statistical data, and (3) applying known statistical techniques to data such as measurement of central tendency, dispersion, skewness, sampling error, simple and multiple correlation, analysis of variance, and tests of significance. (Note: You must attach a copy of your transcripts.)
+ I do not possess the education described above.
+
+
+4.
+Select the one statement that best describes the education that you possess that demonstrates your ability to perform the work of Statistician (Operations and Administration) at the AD-00 grade level or equivalent pay band in the Federal Service.
+ I have a bachelor’s degree (or higher degree) which included 15 semester hours in statistics (or in mathematics and statistics, provided at least 6 semester hours were in statistics), and 9 additional semester hours in one or more of the following: physical or biological sciences, medicine, education, or engineering; or in the social sciences including demography, history, economics, social welfare, geography, international relations, social or cultural anthropology, health sociology, political science, public administration, psychology, etc. (Note: You must attach a copy of your transcripts.)
+ I have a combination of education and experience which includes courses as shown in A above, plus appropriate experience or additional education. I have appropriate experience which includes a full range of professional statistical work such as (a) sampling, (b) collecting, computing, and analyzing statistical data, and (c) applying statistical techniques such as measurement of central tendency, dispersion, skewness, sampling error, simple and multiple correlation, analysis of variance, and tests of significance. (Note: You must attach a copy of your transcripts.)
+ I do not possess the education described above.
+
+
+5.
+Select the one statement that best describes the education that you possess that demonstrates your ability to perform the work of Computer Scientist (AI/ML) at the AD-00 grade level or equivalent pay band in the Federal Service.
+ I have a bachelor’s degree (or higher degree) in computer science or bachelor's degree (or higher degree) with 30 semester hours in a combination of mathematics, statistics, and computer science. At least 15 of the 30 semester hours must have included any combination of statistics and mathematics that included differential and integral calculus. (Note: You must attach a copy of your transcripts.)
+ I do not possess the education described above.
+
+
+6.
+Select the one statement that best describes the education that you possess that demonstrates your ability to perform the work of a Data Scientist (AI/ML) at the AD-00 level or equivalent pay band in the Federal Service.
+ I have a bachelors degree (or higher degree) in mathematics, statistics, computer science, data science or field directly related to the position. (Note: You must attach a copy of your transcripts.)
+ I have a combination of education and experience which includes courses equivalent to a major field of study (30 semester hours) as shown in A above, plus appropriate experience or additional education. (Note: You must attach a copy of your transcripts.)
+ I do not possess the education described above.
+
+
+7.
+Select the one statement that best describes the experience that you possess that demonstrates your ability to perform the work of an Interdisciplinary position. Qualifying experience may have been acquired in any public or private sector job, but will clearly demonstrate past experience in the application of the particular competencies or knowledge, skills, and abilities necessary to successfully perform the duties of the position. Such experience is typically in or directly related to the work of the position to be filled.
+ I have one year of specialized experience which includes: 1) Assessing the technical capabilities of Artificial/Intelligence (AI) or Machine Learning (ML) technology to improve the efficiency of systems within the agency; 2) Researching data science products such as AI or ML from industry partners to identify new ways to deploy AI/ML technology; 3) Interpreting standards and guidelines to ensure automated systems are functional with other systems; 4) Providing reports or briefings on the technical capabilities of automated systems.
+ My experience is not reflected in the above statement.
+
+
+8.
+Your responses to the Announcement and Assessment Questionnaires, along with your resume and all supporting documentation are subject to evaluation and verification to ensure accuracy. Please take this opportunity to review your responses to ensure their accuracy.
+
+ Yes, I verify that all of my responses to this questionnaire are true and accurate. I accept that if my supporting documentation and/or later steps in the selection process do not support one or more of my responses to the questionnaire that my application may be rated lower and/or I may be removed from further consideration.
+ No, I do not accept this agreement and/or I no longer wish to be considered for this position.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
