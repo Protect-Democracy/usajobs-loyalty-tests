@@ -1,0 +1,177 @@
+Position Title
+IT Specialist (Data Management)
+Agency
+Administrative Office of the U.S. Courts
+Announcement Number
+26-CMM-13016417 Opens in new window
+Open Period
+Jul 23, 2026 to Jul 30, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Are you a current employee of the AO or the Federal Judiciary?
+ Yes
+ No
+
+
+2.
+Are you a current or former Federal employee?
+
+All applicants outside of the AO must submit a copy of your latest Notification of Personnel Action (SF-50) to verify current or former Federal employment status.
+ Yes
+ No
+
+
+Preferences
+1.
+Would you accept a temporary appointment?
+ Yes
+ No
+
+
+Assessment 1
+Thank you for your interest in the Information Technology Specialist (Data Management) position with the Administrative Office of the U.S. Courts. Applicants must have demonstrated experience as listed below. This requirement is according to the AO Classification, Compensation, and Recruitment Systems which include interpretive guidance and reference to the OPM Operating Manual for Qualification Standards for General Schedule Positions.
+
+WHEN MANDATORY NARRATIVE RESPONSES ARE REQUIRED, PLEASE DO NOT DUPLICATE INFORMATION YOU HAVE ALREADY PROVIDED IN YOUR RESUME AS A RESPONSE TO THE QUESTION OR RESPOND WITH SEE RESUME. WE ARE SEEKING AN ELABORATION OF THOSE DUTIES AND SKILLS YOU HAVE MENTIONED WHICH ADDRESS THE QUESTION MORE FULLY. THIS IS YOUR OPPORTUNITY TO EXPAND ON YOUR EXPERIENCE AND/OR EDUCATION AS IT RELATES TO THE QUESTION. FAILURE TO DO THIS WILL RESULT IN YOUR BEING CONSIDERED AS INELIGIBLE.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+1.
+Do you have one full year (52 weeks) of specialized experience leading, defining, and executing test data approaches across environments, including refresh cadence, provisioning workflows, definitions, evidence expectations, and dataset versioning?
+ Yes
+ No
+
+
+1a.
+If yes, please identify the time frame and employer(s) where we can locate this information. THIS IS A MANDATORY REQUIREMENT. Please limit your response to 250 words or less.
+
+
+2.
+Please describe your experience leading, defining, and executing test data approaches across environments, including refresh cadence, provisioning workflows, definitions, evidence expectations, and dataset versioning. THIS IS A MANDATORY REQUIREMENT. Please limit your response to 2000 words or less.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+3.
+Do you have one full year (52 weeks) of specialized experience leading the coordination with data platform and integration teams to generate, transform, and stage test datasets aligned to build pod requirements and user acceptance test plans?
+ Yes
+ No
+
+
+3a.
+If yes, please identify the time frame and employer(s) where we can locate this information. THIS IS A MANDATORY REQUIREMENT. Please limit your response to 250 words or less.
+
+
+4.
+Please describe your experience leading the coordination with data platform and integration teams to generate, transform, and stage test datasets aligned to build pod requirements and user acceptance test plans.  THIS IS A MANDATORY REQUIREMENT. Please limit your response to 2000 words or less.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+5.
+Do you have one full year (52 weeks) of specialized experience maintaining test data inventories, including resolving test data defects (missing values, referential gaps, stale extracts) partnering with engineering colleagues to prevent recurring issues?
+ Yes
+ No
+
+
+5a.
+If yes, please identify the time frame and employer(s) where we can locate this information. THIS IS A MANDATORY REQUIREMENT. Please limit your response to 250 words or less.
+
+
+6.
+Please describe your experience maintaining test data inventories, including resolving test data defects (missing values, referential gaps, stale extracts) partnering with engineering colleagues to prevent recurring issues. THIS IS A MANDATORY REQUIREMENT. Please limit your response to 1000 words or less.
+
+
+7.
+Please identify certifications that you hold.
+ A. International Software Testing Qualifications Board (ISTQB)
+ B. Certified Tester Foundation Level (CTFL)
+ C. ISTQB Test Manager
+ D. Certified Software Test Professional (CSTP)
+ E. None
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+8.
+Do you possess a bachelor's degree (BA or BS) from a four-year college or university in business, information technology, engineering, or a related field?
+ Yes
+ No
+
+
+9.
+Do you have experience managing enterprise test data strategies across multiple environments and teams?
+ Yes
+ No
+
+
+9a.
+If yes, please describe your experience managing enterprise test data strategies across multiple environments and teams. THIS IS A MANDATORY REQUIREMENT. Please limit your response to 1500 words. 
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+10.
+Do you have experience with data masking, synthetic data generation, and controlled access patterns?
+ Yes
+ No
+
+
+10a.
+If yes, please describe your experience with data masking, synthetic data generation, and controlled access patterns. THIS IS A MANDATORY REQUIREMENT. Please limit your response to 1500 words or less. 
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+11.
+Do you have experience collaborating with data engineering, integration, and application delivery teams?
+ Yes
+ No
+
+
+11a.
+If yes, please describe your experience collaborating with data engineering, integration, and application delivery teams. THIS IS A MANDATORY REQUIREMENT. Please limit your response to 1500 words of less. 
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+12.
+Do you have experience creating clear, auditable test data documentation and operational procedures?
+ Yes
+ No
+
+
+12a.
+If yes, please describe your experience creating clear, auditable test data documentation and operational procedures. THIS IS A MANDATORY REQUIREMENT. Please limit your response to 1500 words or less. 
+
+
+13.
+Please identify which types of databases and data formats you are proficient in.
+ A. SQL
+ B. CSV
+ C. XML
+ D. JSON
+ E. None
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+14.
+I understand that failure to provide a responsive written statement ("See Resume" or other non-descriptive response is not sufficient) for each requested narrative response will result in non-consideration for this position.
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
