@@ -1,0 +1,236 @@
+Position Title
+Interdisciplinary
+Agency
+U.S. Army Cyber Command
+Announcement Number
+DAKB-26-13022038-CES Opens in new window
+Open Period
+Jul 27, 2026 to Aug 06, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+Preferences
+1.
+Select the lowest grade you are willing to accept for this position.
+7
+9
+11
+12
+13
+
+
+2.
+Select the series you want to be considered for. You must choose at least one series.
+ A. 0854 - Computer Engineering
+ B. 0855 - Electronics Engineering
+ C. 1515 - Operations Research
+ D. 1550 - Computer Science
+
+
+Conditions of Employment
+This position has requirements which must be met prior to employment, and conditions for continued employment. Your answers to the questions in this section will indicate your understanding of, or possession of, these requirements and conditions.
+
+
+1.
+This position requires the incumbent be able to obtain and maintain a determination of eligibility for a Top Secret security clearance with Sensitive Compartmented Information (SCI) access for the duration of employment. A pre-employment and recurring comprehensive background investigation that includes, but is not limited to, contact with all references, employers, co-workers, personal associates, and a review of your driving record, credit history, criminal history, and military service are required. Are you willing to undergo pre-employment and recurring investigations to obtain and maintain a Top Secret clearance with Sensitive Compartmented Information (SCI) access as required?
+
+ Yes
+ No
+
+
+2.
+This position is classified as information technology access level Information Technology- I (Privileged User) and Sensitivity Matrix for Top Secret/Sensitive Compartmented Information (SCI), Tier 5. Do you agree to this condition of employment?
+
+ Yes
+ No
+
+
+3.
+The duties of this position meet the criteria for compliance with Federal and Department of the Army Drug Free Workplace Programs. Detection of the presence of drugs is warranted. This position is subject to a pre-employment screening, and random testing thereafter, to include testing based on reasonable suspicion and testing due to direct involvement with an on-duty accident. Are you willing to refrain from the use of illegal drugs and submit to a pre-employment drug screening and random testing thereafter to obtain and maintain employment in this position?
+ Yes
+ No
+
+
+4.
+This position requires the incumbent be required to successfully complete an initial and periodic Counter Intelligence-scope Polygraph (CI Poly) examination with No Deception Indicated (NDI). Do you agree to this condition of employment?
+
+ Yes
+ No
+
+
+5.
+Incumbent may be assigned to work in a National Security Agency (NSA) facility and must be able to obtain and maintain access to NSA facilities and networks. Do you agree to this condition of employment?
+
+ Yes
+ No
+
+
+6.
+Duties of this position may entail alternative work schedules (AWS) such as variable or MAXIFLEX, including extended shifts; 24/7 rotating shifts, nights, weekends, and/or and holidays as required. The employee is subject to recall for urgent situations; and/or working extended overtime in response to surge situations. Do you agree to this condition of employment?
+
+ Yes
+ No
+
+
+7.
+This position has a Temporary Duty (TDY) or business travel requirement of 30% of the time annually, within the Contiguous United States (CONUS) or Outside the Contiguous United States (OCONUS).  Are you willing and able to travel away from your permanent duty station up to 30% of the time annually, within the Contiguous United States (CONUS) or Outside the Contiguous United States (OCONUS)?
+
+ Yes
+ No
+
+
+8.
+All Team employees are subject to extended Temporary Duty Travel (TDY) during crisis situations to perform mission essential functions as determined by management, which may include deployment, immunizations, passport, and related requirements. TDY may occur at austere or hazardous locations mission dependent. Do you agree to this condition of employment?
+
+ Yes
+ No
+
+
+9.
+Incumbent may be required to carry a cellular telephone/Portable Electronic Device (PED) and maintain a working personal telephone at all times. Do you agree to this condition of employment?
+
+ Yes
+ No
+
+
+10.
+Employee is required to successfully complete all applicable preparation courses (i.e. Cyber Core Prep (CCP)), USCYBERCOM Cyber Mission Forces (CMF) Training Pipeline and comply with the CMF training certification policy to obtain and maintain Army Job Qualification Record (JQR) Validation and Certification. Do you agree with this condition of employment?
+
+ Yes
+ No
+
+
+11.
+This position is subject to situational or ad hoc telework. A telework agreement is required. Do you agree to this condition of employment?
+
+ Yes
+ No
+
+
+12.
+This position has been designated mission essential. Employee may be required to remain on duty or report for duty during severe weather or other installation closings. May be required to work overtime and other than normal duty hours which may include evenings, weekends, and/or holidays. Call back and emergency duty are regular requirements of this position. Do you agree to this condition of employment?
+
+ Yes
+ No
+
+
+13.
+In accordance with DoDM 8140.03 and supplemental Army guidance, the employee must obtain and maintain the following requirements for each Cyber work role (except Data, AI, and/or Software Engineering) at the assigned proficiency level: 1) Foundational qualification requirements within 9 months, 2) Resident qualification requirements within 12 months, 3) 20 hours of Continuous Professional Development (CPD) per work role code (which can overlap). Do you agree to this condition of employment?
+
+ Yes
+ No
+
+
+14.
+This position has a requirement to lift up to 30 lbs. in the regular performance of duties. Are you willing and able to meet the lifting requirement?
+ Yes
+ No
+
+
+15.
+This is a DoD Cyber Excepted Service (CES) personnel system position in the Excepted Service under 10 USC 1599f. Appointment to this position does not confer competitive status. Prior to appointment applicants are required to sign a statement indicating they understand the conditions of employment or assignment to the position and acknowledge the consequences of failing to meet and maintain those required conditions. Are you willing to sign a Statement of Understanding and agree to the requirements of a CES position?
+ Yes
+ No
+
+
+16.
+Appointment to this position is subject to a three year probationary period unless the appointee has previously met the requirements as described in DoDI 1400.25 V3005, Cyber Excepted Service, Employment and Placement. While serving a probationary period the incumbent can be terminated with limited appeal rights. Are you willing to serve a three year probationary period?
+ Yes
+ No
+
+
+Assessment 1
+Thank you for your interest in an Interdisciplinary (Computer Engineer, Electronics Engineer, Operations Research Analyst, and Computer Scientist) position with Department of the Army. Your resume and the responses you provide to this assessment questionnaire will be used to determine if you are among the best qualified for this position. Your responses are subject to verification. Please review your responses for accuracy before you submit your application.
+
+
+1.
+Select the one statement that best describes the education that you possess that demonstrates your ability to perform the work of a Computer Engineer / Electronics Engineer at the GG-07/09/11/12/13 grade level or equivalent pay band in the Federal Service.
+
+ I have a bachelor's degree (or higher degree) in engineering. To be acceptable, the program must: (1) lead to a bachelor’s degree (or higher degree) in a school of engineering with at least one program accredited by the Accreditation Board for Engineering and Technology (ABET); OR (2) include differential and integral calculus and courses (more advanced than first-year physics and chemistry) in five of the following seven areas of engineering science or physics: (a) statics, dynamics; (b) strength of materials (stress-strain relationships); (c) fluid mechanics, hydraulics; (d) thermodynamics; (e) electrical fields and circuits; (f) nature and properties of materials (relating particle and aggregate structure to properties); and (g) any other comparable area of fundamental engineering science or physics, such as optics, heat transfer, soil mechanics, or electronics. (Note: You must attach a copy of your transcripts.)
+ I have a combination of education and experience that furnished (1) a thorough knowledge of the physical and mathematical sciences underlying engineering, and (2) a good understanding, both theoretical and practical, of the engineering sciences and techniques and their applications to one of the branches of engineering. I am currently registered as an Engineer Intern (EI), Engineer in Training (EIT), or licensed as a Professional Engineer (PE) by any State, the District of Columbia, Guam, or Puerto Rico. Absent other means of qualifying under this standard, those applicants who achieved such registration by means other than written test (e.g., State grandfather or eminence provisions) are eligible only for positions that are within or closely related to the specialty field of their registration. For example, an applicant who attains registration through a State Board's eminence provision as a manufacturing engineer typically would be rated eligible only for manufacturing engineering positions. (Note: You must attach a copy of your transcripts.)
+ I have a combination of education and experience that furnished (1) a thorough knowledge of the physical and mathematical sciences underlying engineering, and (2) a good understanding, both theoretical and practical, of the engineering sciences and techniques and their applications to one of the branches of engineering. I have successfully passed the Fundamentals of Engineering (FE) examination, or any other written test required for professional registration, by an engineering licensure board in the various States, the District of Columbia, Guam, or Puerto Rico. (Note: You must attach a copy of your transcripts.)
+ I have a combination of education and experience that furnished (1) a thorough knowledge of the physical and mathematical sciences underlying engineering, and (2) a good understanding, both theoretical and practical, of the engineering sciences and techniques and their applications to one of the branches of engineering. I have successfully completed at least 60 semester hours or 90 quarter hours of courses in the physical, mathematical, and engineering sciences that included the courses specified in A above. The courses must be fully acceptable toward meeting the requirements of an engineering program. (Note: You must attach a copy of your transcripts.)
+ I have a combination of education and experience that furnished (1) a thorough knowledge of the physical and mathematical sciences underlying engineering, and (2) a good understanding, both theoretical and practical, of the engineering sciences and techniques and their applications to one of the branches of engineering. I have successfully completed a curriculum leading to a bachelor's degree in an appropriate scientific field, e.g., engineering technology, physics, chemistry, architecture, computer science, mathematics, hydrology, or geology, and have at least 1 year of professional engineering experience acquired under professional engineering supervision and guidance. Ordinarily there should be either an established plan of intensive training to develop professional engineering competence, or several years of prior professional engineering-type experience, e.g., in interdisciplinary positions. (The above examples of related curricula are not all-inclusive.) (Note: You must attach a copy of your transcripts.)
+ My education and/or experience is not reflected in the above statement.
+
+
+2.
+Select the one statement that best describes the education that you possess that demonstrates your ability to perform the work of an Operations Research Analyst at the GG-07/09/11/12/13 grade level or equivalent pay band in the Federal Service.
+
+ I have a bachelor’s degree (or higher degree) in operations research; or a degree with at least 24 semester hours in a combination of operations research, mathematics, probability, statistics, mathematical logic, science, or subject-matter courses requiring substantial competence in college-level mathematics or statistics. At least 3 of the 24 semester hours must have been in calculus. (Note: You must attach a copy of your transcripts.)
+ I do not possess the education described above.
+
+
+3.
+Select the one statement that best describes the education that you possess that demonstrates your ability to perform the work of Computer Scientist at the GG-07/09/11/12/13 grade level or equivalent pay band in the Federal Service.
+
+ I have a bachelor’s degree (or higher degree) in computer science or bachelor's degree (or higher degree) with 30 semester hours in a combination of mathematics, statistics, and computer science. At least 15 of the 30 semester hours must have included any combination of statistics and mathematics that included differential and integral calculus. (Note: You must attach a copy of your transcripts.)
+ I do not possess the education described above.
+
+
+4.
+Select the one statement that best describes directly applicable education and/or experience that demonstrates the possession of knowledge, skills, abilities, and competencies necessary for immediate success in the position. Qualifying experience may have been acquired in any public or private sector job, but will clearly demonstrate past experience in the application of the particular competencies or knowledge, skills, and abilities necessary to successfully perform the duties of the position. Such experience is typically in or directly related to the work of the GG-07 position to be filled.
+
+ I have at least 1 year of applicable experience that demonstrates the possession of knowledge, skills, abilities, and competencies necessary for immediate success in the position. Qualifying experience would be demonstrated by formatting datasets using standard software applications to complete elementary administrative assignments; and compiling information to help generate routine reports.
+ I have successfully completed one full academic year of graduate level education in a field which demonstrates the knowledge, skills, and abilities necessary to do the work of the position, such as Computer Engineering, Computer Science, and/or Mathematics. (Note: You must attach a copy of your transcripts.)
+ I am claiming Superior Academic Achievement. In order to be creditable under this provision, Superior Academic Achievement must have been gained in a curriculum that is qualifying for the position to be filled, such as that identified in B above. Superior Academic Achievement is based on: • (1) Class Standing - You must be in the upper third of the graduating class in the college, university, or major subdivision, such as the College of Liberal Arts or the School of Business Administration, based on completed courses; OR • (2) Grade-Point Average (G.P.A.) - You must have a grade-point average of either (a) 3.0 or higher out of a possible 4.0 ("B" or better) as recorded on your official transcript, or as computed based on 4 years of education, or as computed based on courses completed during the final 2 years of the curriculum; or (b) 3.5 or higher out of a possible 4.0 ("B+" or better) based on the average of the required courses completed in the major field or the required courses in the major field completed during the final 2 years of the curriculum.; OR • (3) Honor Society Membership - You may be considered eligible based on membership in one of the approved national scholastic honor societies listed by the Association of College Honor Societies (https://www.achshonor.org/). (NOTE: You must attach a copy of your transcripts and/or verification of class standing for further verification.)
+ I have the specialized experience as described in A, but less than one year; and I have some graduate level education as described in B, but less than the required one year. I have computed the percentage of the requirements that I meet, and the total is at least 100% (To compute the percentage, divide your total months of qualifying experience by 12. Then, divide your semester hours of graduate education by 18. Add the two percentages. The total percentage must equal at least 100 percent to qualify.). (Note: You must attach a copy of your transcripts.)
+ I have the experience as described in A AND the education described in B. (Note: You must attach a copy of your transcripts.)
+ My experience and/or education is not reflected in any of the above statements.
+
+
+5.
+Select the one statement that best describes directly applicable education and/or experience that demonstrates the possession of knowledge, skills, abilities, and competencies necessary for immediate success in the position. Qualifying experience may have been acquired in any public or private sector job, but will clearly demonstrate past experience in the application of the particular competencies or knowledge, skills, and abilities necessary to successfully perform the duties of the position. Such experience is typically in or directly related to the work of the GG-09 position to be filled.
+
+ I have at least 1 year of applicable experience that demonstrates the possession of knowledge, skills, abilities, and competencies necessary for immediate success in the position. Qualifying experience would be demonstrated by reviewing datasets using standard software applications to identify operational trends; and translating findings into routine reports to support team coordination.
+ I have successfully completed a master’s or equivalent graduate degree or 2 full years of progressively higher level graduate education leading to such a degree in a field which demonstrates the knowledge, skills, and abilities necessary to perform the work of the position, such as Computer Engineering, Computer Science, and/or Mathematics.(Note: You must attach a copy of your transcripts.)
+ I have the specialized experience as described in A, but less than one year; and I have at least one year of graduate education as described in B, but less than the required two years. I have computed the percentage of the requirements that I meet, and the total is at least 100% (To compute the percentage, divide your total months of qualifying experience by 12. Then, divide your semester hours of graduate education beyond the first year (total graduate semester hours minus 18) by 18. Add the two percentages. The total percentage must equal at least 100 percent to qualify.). (Note: You must attach a copy of your transcripts.)
+ I have the experience as described in A AND the education described in B. (Note: You must attach a copy of your transcripts.)
+ My experience and/or education is not reflected in any of the above statements.
+
+
+6.
+Select the one statement that best describes directly applicable education and/or experience that demonstrates the possession of knowledge, skills, abilities, and competencies necessary for immediate success in the position. Qualifying experience may have been acquired in any public or private sector job, but will clearly demonstrate past experience in the application of the particular competencies or knowledge, skills, and abilities necessary to successfully perform the duties of the position. Such experience is typically in or directly related to the work of the GG-11 position to be filled.
+
+ I have at least 1 year of applicable experience that demonstrates the possession of knowledge, skills, abilities, and competencies necessary for immediate success in the position. Qualifying experience would be demonstrated by developing data pipelines to prepare unstructured datasets for analysis; maintaining database repositories by troubleshooting data ingestion issues to support continuous system monitoring; and analyzing network datasets to identify operational trends for decision-makers.
+ I have successfully completed a Ph.D. or equivalent doctoral degree or 3 full years of progressively higher level graduate education leading to such a degree in a field which demonstrates the knowledge, skills, and abilities necessary to perform the work of the position, such as Computer Engineering, Computer Science, and/or Mathematics.(Note: You must attach a copy of your transcripts.)
+ I have the specialized experience as described in A, but less than one year; and I have at least two years of graduate education as described in B, but less than the required three years. I have computed the percentage of the requirements that I meet, and the total is at least 100% (To compute the percentage, divide your total months of qualifying experience by 12. Then, divide your semester hours of graduate education beyond the second year (total graduate semester hours minus 36) by 18. Add the two percentages. The total percentage must equal at least 100 percent to qualify.). (Note: You must attach a copy of your transcripts.)
+ I have the experience as described in A AND the education described in B. (Note: You must attach a copy of your transcripts.)
+ My experience and/or education is not reflected in any of the above statements.
+
+
+7.
+Select the one statement that best describes directly applicable experience that demonstrates the possession of knowledge, skills, abilities, and competencies necessary for immediate success in the position. Qualifying experience may have been acquired in any public or private sector job, but will clearly demonstrate past experience in the application of the particular competencies or knowledge, skills, and abilities necessary to successfully perform the duties of the position. Such experience is typically in or directly related to the work of the GG-12 position to be filled.
+
+ I have at least 1 year of applicable experience that demonstrates the possession of knowledge, skills, abilities, and competencies necessary for immediate success in the position. Qualifying experience would be demonstrated by designing relational databases to automate the collection of unstructured streaming data; applying complex mathematical principles to evaluate adversarial activity within defensive cyber operations; and formulating strategic recommendations to advise decision-makers on defensive cyber operations.
+ My experience is not reflected in the above statement.
+
+
+8.
+Select the one statement that best describes directly applicable experience that demonstrates the possession of knowledge, skills, abilities, and competencies necessary for immediate success in the position. Qualifying experience may have been acquired in any public or private sector job, but will clearly demonstrate past experience in the application of the particular competencies or knowledge, skills, and abilities necessary to successfully perform the duties of the position. Such experience is typically in or directly related to the work of the GG-13 position to be filled.
+
+ I have at least 1 year of applicable experience that demonstrates the possession of knowledge, skills, abilities, and competencies necessary for immediate success in the position. Qualifying experience would be demonstrated by integrating diverse systems techniques to automate the collection of unstructured streaming data; applying advanced mathematical principles to evaluate adversarial activity within defensive cyber operations; resolving complex system problems to ensure the continuous monitoring of information technology networks; and advising mission commanders on strategic technical solutions to influence defensive cyber operations planning.
+ My experience is not reflected in the above statement.
+
+
+9.
+Your responses to the Announcement and Assessment Questionnaires, along with your resume and all supporting documentation are subject to evaluation and verification to ensure accuracy. Please take this opportunity to review your responses to ensure their accuracy.
+
+ Yes, I verify that all of my responses to this questionnaire are true and accurate. I accept that if my supporting documentation and/or later steps in the selection process do not support one or more of my responses to the questionnaire that my application may be rated lower and/or I may be removed from further consideration.
+ No. I do not accept this agreement and/or I no longer wish to be considered for this position.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
