@@ -103,7 +103,12 @@ def extract_fields_from_job(row):
                 # Extract grade information
                 low_grade = mod['UserArea']['Details'].get('LowGrade')
                 high_grade = mod['UserArea']['Details'].get('HighGrade')
-                grade_prefix = row.get('minimumGrade', '')
+                # The pay plan ("GS") lives in payScale for rows collected after
+                # the grade fix in collect_current_data.py. Older rows predate
+                # that column and stashed the pay plan in minimumGrade, which now
+                # holds the numeric grade instead — so fall back only when
+                # payScale is absent.
+                grade_prefix = row.get('payScale') if pd.notna(row.get('payScale')) else row.get('minimumGrade', '')
                 
                 # Combine grade prefix with grade numbers
                 if grade_prefix and low_grade:
