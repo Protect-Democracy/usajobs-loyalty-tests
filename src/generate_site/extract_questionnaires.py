@@ -714,8 +714,13 @@ def extract_all_links_to_csv(data_dir='../../data', cutoff_date='2025-06-01'):
                         new_links_in_file += 1
                         
                         # Construct grade code from pay plan and numeric grades
-                        # First get the pay plan from top level (e.g., GS, WG)
-                        pay_scale = row.get('minimumGrade', '')
+                        # First get the pay plan from top level (e.g., GS, WG).
+                        # Rows collected after the grade fix in
+                        # collect_current_data.py carry it in payScale;
+                        # older rows stashed it in minimumGrade, which now holds
+                        # the numeric grade — so fall back only when payScale is
+                        # absent.
+                        pay_scale = row.get('payScale') if pd.notna(row.get('payScale')) else row.get('minimumGrade', '')
                         
                         # Use numeric grades from extraction if available
                         if pay_scale and low_grade and high_grade:

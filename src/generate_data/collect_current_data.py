@@ -23,6 +23,7 @@ import os
 from tqdm import tqdm
 from html import unescape
 import re
+from cap_alert import check_cap
 from dotenv import load_dotenv
 
 # Load environment variables
@@ -104,7 +105,11 @@ def flatten_current_job(job_item: dict, appointment_type_map: dict, hiring_path_
     flattened["hiringDepartmentName"] = job.get("DepartmentName")
     flattened["hiringSubelementName"] = job.get("SubAgency")
     flattened["positionTitle"] = job.get("PositionTitle")
-    flattened["serviceType"] = job.get("ServiceType")
+    # ServiceType is a code in UserArea.Details, map to name.
+    # (job.get("ServiceType") was always None — it isn't a top-level field.)
+    _service_code = user_area.get("ServiceType")
+    _service_map = {'01': 'Competitive', '02': 'Excepted', '03': 'Senior Executive'}
+    flattened["serviceType"] = _service_map.get(str(_service_code), str(_service_code)) if _service_code else None
     flattened["supervisoryStatus"] = job.get("SupervisoryStatus")
     flattened["travelRequirement"] = job.get("TravelCode")
     
@@ -123,10 +128,17 @@ def flatten_current_job(job_item: dict, appointment_type_map: dict, hiring_path_
     flattened["positionCloseDate"] = job.get("PositionEndDate")
     flattened["positionExpireDate"] = job.get("PositionExpireDate")
     
-    # Extract some complex fields
+    # Extract grade fields.
+    # JobGrade[].Code is the pay plan (e.g. "GS"), not the numeric grade level.
+    # The actual grade numbers are in UserArea.Details.LowGrade / HighGrade.
+    # NOTE: this changes what minimumGrade means for rows written from here on
+    # (pay plan -> numeric grade), and adds payScale. Rows already in the
+    # parquets keep the old meaning, so consumers must handle both — see the
+    # payScale-or-minimumGrade fallback in generate_all_jobs_data.py.
     grades = job.get("JobGrade", [])
-    flattened["minimumGrade"] = grades[0].get("Code") if grades else None
-    flattened["maximumGrade"] = grades[-1].get("Code") if len(grades) > 1 else flattened["minimumGrade"]
+    flattened["payScale"] = grades[0].get("Code") if grades else None
+    flattened["minimumGrade"] = user_area.get("LowGrade")
+    flattened["maximumGrade"] = user_area.get("HighGrade")
     
     # Convert salary fields to float to match historical data format
     remuneration = job.get("PositionRemuneration", [{}])
@@ -193,18 +205,30 @@ def load_existing_jobs(parquet_path: str) -> set:
     return set()
 
 
-def fetch_jobs_page(params: Dict, headers: Dict, page: int = 1) -> Optional[Dict]:
-    """Fetch a single page of job results"""
+def fetch_jobs_page(params: Dict, headers: Dict, page: int = 1, retries: int = 3) -> Optional[Dict]:
+    """Fetch a single page of job results.
+
+    Uses a tight 30s timeout with a small bounded retry so a degraded API
+    can't stall the whole run for minutes on one slow series. Worst case per
+    page is ~30s x 3 attempts plus short backoff (~1.5 min) before we give up
+    and move on, instead of a single 120s inactivity timeout.
+    """
     params_copy = params.copy()
     params_copy['Page'] = page
-    
-    try:
-        response = requests.get(BASE_URL, headers=headers, params=params_copy, timeout=120)
-        response.raise_for_status()
-        return response.json()
-    except requests.exceptions.RequestException as e:
-        print(f"Error fetching page {page}: {e}")
-        return None
+
+    for attempt in range(1, retries + 1):
+        try:
+            response = requests.get(BASE_URL, headers=headers, params=params_copy, timeout=30)
+            response.raise_for_status()
+            return response.json()
+        except requests.exceptions.RequestException as e:
+            if attempt < retries:
+                wait = attempt * 3
+                print(f"Error fetching page {page} (attempt {attempt}/{retries}): {e} — retrying in {wait}s")
+                time.sleep(wait)
+            else:
+                print(f"Error fetching page {page} after {retries} attempts: {e}")
+                return None
 
 
 def fetch_position_offering_types() -> Dict[str, str]:
@@ -368,7 +392,14 @@ def fetch_all_jobs(params: Dict, headers: Dict, appointment_type_map: Dict[str, 
     
     progress_bar.close()
     print(f"✅ Fetched {len(raw_jobs)} total jobs across {page} pages")
-    
+
+    # Cap tripwire: hitting exactly max_results (10,000) or exactly the page
+    # size (500) usually means this query was truncated — the current API is
+    # segmented by occupational series precisely to stay under the 10k ceiling.
+    query_desc = params.get('JobCategoryCode') or params.get('Keyword') or 'current jobs query'
+    check_cap(len(raw_jobs), f"current fetch [{query_desc}] total")
+    check_cap(total_count, f"current fetch [{query_desc}] SearchResultCountAll")
+
     return raw_jobs, flattened_jobs
 
 
@@ -584,7 +615,14 @@ def main():
             continue
     
     if not all_flattened_jobs:
-        print("\n❌ No jobs fetched")
+        print("\n❌ No jobs fetched from current API!")
+        # Write a warning file that the workflow can check
+        warning_file = os.path.join(args.data_dir, "..", "logs", "CURRENT_API_EMPTY_WARNING.txt")
+        os.makedirs(os.path.dirname(warning_file), exist_ok=True)
+        with open(warning_file, 'w') as f:
+            f.write(f"WARNING: Current API returned 0 jobs on {datetime.now().isoformat()}\n")
+            f.write("This may indicate an API issue or authentication problem.\n")
+        print(f"⚠️  Warning file written to {warning_file}")
         return
     
     # Group jobs by year based on positionOpenDate
