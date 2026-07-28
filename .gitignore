@@ -9,6 +9,10 @@ Thumbs.db
 
 # General
 log/
+# Pipeline warning markers (CAP_HIT_WARNING / CURRENT_API_EMPTY_WARNING) are
+# written here for the workflow to turn into issues — never commit them, the
+# daily update does a blanket `git add .`
+logs/
 *.log
 
 # Temporary files
