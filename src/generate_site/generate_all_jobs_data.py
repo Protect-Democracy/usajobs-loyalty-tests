@@ -84,70 +84,39 @@ def extract_fields_from_job(row):
         except:
             pass
     
-    # Then check MatchedObjectDescriptor for current data
-    if pd.notna(row.get('MatchedObjectDescriptor')):
-        try:
-            mod = json.loads(row['MatchedObjectDescriptor'])
-            
-            # Extract service type
-            if 'UserArea' in mod and 'Details' in mod['UserArea']:
-                service_type_code = mod['UserArea']['Details'].get('ServiceType')
-                if service_type_code:
-                    service_type_map = {
-                        '01': 'Competitive',
-                        '02': 'Excepted', 
-                        '03': 'Senior Executive'
-                    }
-                    fields['service_type'] = service_type_map.get(service_type_code, service_type_code)
-                
-                # Extract grade information
-                low_grade = mod['UserArea']['Details'].get('LowGrade')
-                high_grade = mod['UserArea']['Details'].get('HighGrade')
-                # The pay plan ("GS") lives in payScale for rows collected after
-                # the grade fix in collect_current_data.py. Older rows predate
-                # that column and stashed the pay plan in minimumGrade, which now
-                # holds the numeric grade instead — so fall back only when
-                # payScale is absent.
-                grade_prefix = row.get('payScale') if pd.notna(row.get('payScale')) else row.get('minimumGrade', '')
-                
-                # Combine grade prefix with grade numbers
-                if grade_prefix and low_grade:
-                    if high_grade and low_grade != high_grade:
-                        fields['grade_code'] = f"{grade_prefix}-{low_grade}/{high_grade}"
-                    else:
-                        fields['grade_code'] = f"{grade_prefix}-{low_grade}"
-                elif low_grade:
-                    # No prefix, just use the number (some cases like "00")
-                    fields['grade_code'] = low_grade
-                
-                fields['low_grade'] = low_grade
-                fields['high_grade'] = high_grade
-            
-            # Extract location
-            if 'PositionLocation' in mod and isinstance(mod['PositionLocation'], list) and len(mod['PositionLocation']) > 0:
-                loc = mod['PositionLocation'][0]
-                city = loc.get('CityName', '')
-                state = loc.get('CountrySubDivisionCode', '')
-                if city and state:
-                    if state.lower() in city.lower():
-                        fields['position_location'] = city
-                    else:
-                        fields['position_location'] = f"{city}, {state}"
-                elif city:
-                    fields['position_location'] = city
-                elif state:
-                    fields['position_location'] = state
-                    
-            # Extract occupation
-            if 'JobCategory' in mod and isinstance(mod['JobCategory'], list) and len(mod['JobCategory']) > 0:
-                # Ensure occupation series is padded with leading zeros to 4 digits
-                occ_code = mod['JobCategory'][0].get('Code')
-                if occ_code:
-                    fields['occupation_series'] = str(occ_code).zfill(4)
-                fields['occupation_name'] = mod['JobCategory'][0].get('Name')
-        except:
-            pass
-    
+    # Then apply the derived columns for current data. These are written at
+    # collection time by job_fields.derive_job_fields(); the raw
+    # MatchedObjectDescriptor they replaced is no longer stored, because it was
+    # 98.9% of the parquet bytes and OOM-ed the CI runner. Historical parquets
+    # don't have these columns and fall through with the values set above.
+    if pd.notna(row.get('positionLocation')):
+        fields['position_location'] = row.get('positionLocation')
+
+    if pd.notna(row.get('occupationSeries')):
+        # Pad to the canonical 4-digit series for grouping. Stored unpadded so
+        # extract_questionnaires.py keeps writing the raw code it always did.
+        fields['occupation_series'] = str(row.get('occupationSeries')).zfill(4)
+    if pd.notna(row.get('occupationName')):
+        fields['occupation_name'] = row.get('occupationName')
+
+    # Grades. The backfill rewrote payScale / minimumGrade / maximumGrade for
+    # every current row from the raw descriptor, so payScale is the pay plan
+    # everywhere and minimumGrade is always numeric — no fallback needed.
+    if pd.notna(row.get('payScale')):
+        low_grade = row.get('minimumGrade')
+        high_grade = row.get('maximumGrade')
+        low_grade = str(low_grade) if pd.notna(low_grade) else None
+        high_grade = str(high_grade) if pd.notna(high_grade) else None
+        grade_prefix = row.get('payScale')
+
+        if low_grade:
+            if high_grade and low_grade != high_grade:
+                fields['grade_code'] = f"{grade_prefix}-{low_grade}/{high_grade}"
+            else:
+                fields['grade_code'] = f"{grade_prefix}-{low_grade}"
+            fields['low_grade'] = low_grade
+            fields['high_grade'] = high_grade
+
     return fields
 
 def main():

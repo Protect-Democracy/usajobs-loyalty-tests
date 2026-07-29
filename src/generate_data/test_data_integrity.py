@@ -6,6 +6,7 @@ Ensures parquet files are valid and contain expected data.
 Usage: python test_data_integrity.py
 """
 
+import glob
 import os
 import sys
 import pandas as pd
@@ -232,6 +233,47 @@ def create_baseline(filepath):
     with open(filepath, 'w') as f:
         json.dump(baseline, f, indent=2)
 
+def check_descriptor_not_stored(data_dir='../../data', max_mb=250):
+    """Regression test for the 2026-07-29 runner OOM.
+
+    current_jobs_2026.parquet reached 1,014 MB because every row carried the
+    entire raw MatchedObjectDescriptor JSON (~26 KB/row, 98.9% of the bytes).
+    save_jobs_to_parquet holds the existing frame, the new frame and their
+    concat at once, so the read/concat/write blew past the runner's memory and
+    the job was killed mid-write with no error.
+
+    Two things must stay true or that comes straight back:
+      1. the blob column is not written to any current_jobs parquet
+      2. no data file creeps back up toward the size that killed the runner
+    """
+    passed = True
+    paths = sorted(glob.glob(os.path.join(data_dir, 'current_jobs_*.parquet')))
+    paths += sorted(glob.glob(os.path.join(data_dir, 'historical_jobs_*.parquet')))
+
+    if not paths:
+        print(f"{Colors.RED}❌ No parquet files found in {data_dir}{Colors.RESET}")
+        return False
+
+    for path in paths:
+        name = os.path.basename(path)
+        columns = pq.ParquetFile(path).schema_arrow.names
+        size_mb = os.path.getsize(path) / (1024 * 1024)
+
+        if 'MatchedObjectDescriptor' in columns:
+            print(f"{Colors.RED}❌ {name}: raw MatchedObjectDescriptor is back — "
+                  f"this is what OOM-ed the runner. Derive columns via "
+                  f"job_fields.derive_job_fields() instead.{Colors.RESET}")
+            passed = False
+        elif size_mb > max_mb:
+            print(f"{Colors.RED}❌ {name}: {size_mb:.1f} MB exceeds the {max_mb} MB "
+                  f"ceiling — something large is being stored per row again.{Colors.RESET}")
+            passed = False
+        else:
+            print(f"{Colors.GREEN}✅ {name}: no raw descriptor, {size_mb:.1f} MB{Colors.RESET}")
+
+    return passed
+
+
 def run_tests():
     """Run all data integrity tests"""
     print(f"{Colors.BLUE}DATA INTEGRITY TESTS{Colors.RESET}")
@@ -287,8 +329,13 @@ def run_tests():
     if not check_no_job_id_loss():
         all_passed = False
         print(f"{Colors.RED}CRITICAL: Job IDs were lost! This must be fixed immediately!{Colors.RESET}")
-    
-    
+
+    # Test 6: the raw descriptor must not come back (2026-07-29 runner OOM)
+    print_header("6. REGRESSION TEST - NO RAW DESCRIPTOR / FILE SIZE")
+    if not check_descriptor_not_stored():
+        all_passed = False
+
+
     # Summary
     print_header("TEST SUMMARY")
     if all_passed:
