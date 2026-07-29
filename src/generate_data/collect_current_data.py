@@ -14,6 +14,7 @@ Usage:
 
 import argparse
 import json
+import sys
 import time
 import requests
 from typing import List, Dict, Optional
@@ -25,6 +26,11 @@ from html import unescape
 import re
 from cap_alert import check_cap
 from dotenv import load_dotenv
+
+# job_fields lives one level up in src/ so both generate_data and generate_site
+# share a single definition of the descriptor-derived columns.
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from job_fields import derive_job_fields
 
 # Load environment variables
 load_dotenv()
@@ -77,14 +83,17 @@ def flatten_current_job(job_item: dict, appointment_type_map: dict, hiring_path_
     Keep all fields from current API job, plus add normalized fields to match historical API.
     """
     import json
-    
+
     # Start with the entire job item to keep everything
     flattened = job_item.copy()
-    
-    # Convert MatchedObjectDescriptor dict to JSON string for Parquet compatibility
-    if "MatchedObjectDescriptor" in flattened and isinstance(flattened["MatchedObjectDescriptor"], dict):
-        flattened["MatchedObjectDescriptor"] = json.dumps(flattened["MatchedObjectDescriptor"])
-    
+
+    # The raw MatchedObjectDescriptor is NOT persisted. It was ~26 KB/row and
+    # 98.9% of the parquet bytes, which pushed current_jobs_2026.parquet past
+    # 1 GB and OOM-ed the runner. Everything downstream needs is derived into
+    # flat columns by job_fields.derive_job_fields() at the end of this
+    # function. The raw JSON is still mirrored to R2 by usajobs_historical.
+    flattened.pop("MatchedObjectDescriptor", None)
+
     job = job_item.get("MatchedObjectDescriptor", {})
     user_area = job.get("UserArea", {}).get("Details", {})
     
@@ -105,11 +114,6 @@ def flatten_current_job(job_item: dict, appointment_type_map: dict, hiring_path_
     flattened["hiringDepartmentName"] = job.get("DepartmentName")
     flattened["hiringSubelementName"] = job.get("SubAgency")
     flattened["positionTitle"] = job.get("PositionTitle")
-    # ServiceType is a code in UserArea.Details, map to name.
-    # (job.get("ServiceType") was always None — it isn't a top-level field.)
-    _service_code = user_area.get("ServiceType")
-    _service_map = {'01': 'Competitive', '02': 'Excepted', '03': 'Senior Executive'}
-    flattened["serviceType"] = _service_map.get(str(_service_code), str(_service_code)) if _service_code else None
     flattened["supervisoryStatus"] = job.get("SupervisoryStatus")
     flattened["travelRequirement"] = job.get("TravelCode")
     
@@ -128,18 +132,10 @@ def flatten_current_job(job_item: dict, appointment_type_map: dict, hiring_path_
     flattened["positionCloseDate"] = job.get("PositionEndDate")
     flattened["positionExpireDate"] = job.get("PositionExpireDate")
     
-    # Extract grade fields.
-    # JobGrade[].Code is the pay plan (e.g. "GS"), not the numeric grade level.
-    # The actual grade numbers are in UserArea.Details.LowGrade / HighGrade.
-    # NOTE: this changes what minimumGrade means for rows written from here on
-    # (pay plan -> numeric grade), and adds payScale. Rows already in the
-    # parquets keep the old meaning, so consumers must handle both — see the
-    # payScale-or-minimumGrade fallback in generate_all_jobs_data.py.
-    grades = job.get("JobGrade", [])
-    flattened["payScale"] = grades[0].get("Code") if grades else None
-    flattened["minimumGrade"] = user_area.get("LowGrade")
-    flattened["maximumGrade"] = user_area.get("HighGrade")
-    
+    # Grade fields (payScale / minimumGrade / maximumGrade), serviceType, the
+    # questionnaire links and the rest of the descriptor-derived columns are
+    # all set by derive_job_fields() at the end of this function.
+
     # Convert salary fields to float to match historical data format
     remuneration = job.get("PositionRemuneration", [{}])
     min_salary_str = remuneration[0].get("MinimumRange") if remuneration else None
@@ -189,7 +185,13 @@ def flatten_current_job(job_item: dict, appointment_type_map: dict, hiring_path_
         flattened["appointmentType"] = appointment_type_map.get(code, code)
     else:
         flattened["appointmentType"] = ""
-    
+
+    # Derive everything the site used to re-parse out of the raw descriptor.
+    # The extra_text argument mirrors the old extractor, which searched
+    # str(job_row.to_dict()) alongside the blob — so a questionnaire URL sitting
+    # in a flat column is still found.
+    flattened.update(derive_job_fields(job, extra_text=str(flattened)))
+
     return flattened
 
 
