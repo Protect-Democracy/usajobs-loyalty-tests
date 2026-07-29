@@ -25,6 +25,11 @@ from questionnaire_utils import (
     load_known_bad_urls, append_known_bad_url,
 )
 
+# job_fields lives one level up in src/ so the collector and the site scripts
+# share a single definition of the descriptor-derived columns.
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from job_fields import find_questionnaire_links, load_questionnaire_links
+
 # Shared session for the USAJobs-HTML fallback. Reuses a single TCP/TLS
 # connection across calls to speed up the ~1-2K fetches per extract run.
 _usajobs_session = None
@@ -102,112 +107,60 @@ def extract_questionnaire_links_from_job(job_row, fetch_usajobs_html=True):
     (network call). Default True for production; tests/iterators that need
     to stay offline should pass False.
     """
-    links = []
-    has_monster_link = False
-    
-    # Convert the job row to string to search everywhere
-    job_str = str(job_row.to_dict())
-    
-    # Extract fields from MatchedObjectDescriptor
-    occupation_series = None
-    occupation_name = None
-    position_location = None
     grade_code = None
-    position_schedule = None
-    service_type = None
-    low_grade = None
-    high_grade = None
-    
-    if pd.notna(job_row.get('MatchedObjectDescriptor')):
-        try:
-            mod = json.loads(job_row['MatchedObjectDescriptor'])
-            job_str += json.dumps(mod)
-            
-            # Get occupation series code and name
-            if 'JobCategory' in mod and isinstance(mod['JobCategory'], list) and len(mod['JobCategory']) > 0:
-                occupation_series = mod['JobCategory'][0].get('Code')
-                occupation_name = mod['JobCategory'][0].get('Name')
-            
-            # Get location
-            if 'PositionLocation' in mod and isinstance(mod['PositionLocation'], list) and len(mod['PositionLocation']) > 0:
-                # Take first location
-                loc = mod['PositionLocation'][0]
-                city = loc.get('CityName', '')
-                state = loc.get('CountrySubDivisionCode', '')
-                
-                # Handle DC special case where city already includes state
-                if city and state:
-                    if state.lower() in city.lower():
-                        # State is already in city name, just use city
-                        position_location = city
-                    else:
-                        # Normal case: combine city and state
-                        position_location = f"{city}, {state}"
-                elif city:
-                    position_location = city
-                elif state:
-                    position_location = state
-                else:
-                    position_location = None
-            
-            # Get grade code - for current jobs API, use top-level min/max grades
-            # These will be available from the row, not from MatchedObjectDescriptor
-            
-            # Get position schedule
-            if 'PositionSchedule' in mod and isinstance(mod['PositionSchedule'], list) and len(mod['PositionSchedule']) > 0:
-                position_schedule = mod['PositionSchedule'][0].get('Name')
-            
-            # Specifically check known fields
-            if 'UserArea' in mod and 'Details' in mod['UserArea']:
-                details = mod['UserArea']['Details']
-                
-                # Get service type from UserArea.Details.ServiceType
-                service_type_code = details.get('ServiceType')
-                if service_type_code:
-                    service_type_map = {
-                        '01': 'Competitive',
-                        '02': 'Excepted', 
-                        '03': 'Senior Executive'
-                    }
-                    service_type = service_type_map.get(service_type_code, service_type_code)
-                
-                # Get numeric grade levels from UserArea.Details
-                low_grade = details.get('LowGrade')
-                high_grade = details.get('HighGrade')
-                pay_plan = details.get('PayPlan')
-                
-                # Check Evaluations field for USAStaffing links
-                evaluations = details.get('Evaluations', '')
-                if evaluations:
-                    job_str += ' ' + evaluations
-                
-                # Check ApplyOnlineUrl for Monster links
-                apply_url = details.get('ApplyOnlineUrl', '')
-                if apply_url:
-                    job_str += ' ' + apply_url
-        except:
-            pass
-    
-    # Look for USAStaffing questionnaire links
-    usastaffing_pattern = r'https://apply\.usastaffing\.gov/ViewQuestionnaire/\d+'
-    usastaffing_matches = re.findall(usastaffing_pattern, job_str)
-    for match in usastaffing_matches:
-        if match not in links:
-            links.append(match)
-    
-    # Look for Monster Government questionnaire links
-    monster_patterns = [
-        r'https://jobs\.monstergovt\.com/[^/]+/vacancy/previewVacancyQuestions\.hms\?[^"\'\s<>]+',
-        r'https://jobs\.monstergovt\.com/[^/]+/(?:nga/)?ros/rosDashboard\.hms\?[^"\'\s<>]+',
-        r'https://jobs\.monstergovt\.com/[^/]+/rospost/\?[^"\'\s<>]+'
-    ]
-    
-    for pattern in monster_patterns:
-        monster_matches = re.findall(pattern, job_str)
-        for match in monster_matches:
-            if match not in links:
-                links.append(match)
-                has_monster_link = True
+
+    # Current-jobs rows carry the derived columns written by
+    # job_fields.derive_job_fields() at collection time; the raw
+    # MatchedObjectDescriptor is no longer stored (it was 98.9% of the parquet
+    # bytes and OOM-ed the runner). Historical-jobs parquets have neither, so
+    # they still get grepped row-wise below.
+    raw_links = job_row.get('questionnaireLinks')
+    has_derived_columns = isinstance(raw_links, str) and raw_links != ''
+
+    if has_derived_columns:
+        links = load_questionnaire_links(raw_links)
+        has_monster_link = bool(job_row.get('hasMonsterLink'))
+        uses_usastaffing = bool(job_row.get('usesUsastaffing'))
+        mentions_questionnaire = bool(job_row.get('mentionsQuestionnaire'))
+
+        occupation_series = job_row.get('occupationSeries')
+        occupation_name = job_row.get('occupationName')
+        position_location = job_row.get('positionLocation')
+        position_schedule = job_row.get('positionSchedule')
+        service_type = job_row.get('serviceType')
+        low_grade = job_row.get('minimumGrade')
+        high_grade = job_row.get('maximumGrade')
+    else:
+        job_str = str(job_row.to_dict())
+        links, has_monster_link = find_questionnaire_links(job_str)
+        uses_usastaffing = 'apply.usastaffing.gov' in job_str
+        mentions_questionnaire = re.search(r'questionnaire|assessment', job_str, re.IGNORECASE) is not None
+
+        # Historical parquets don't carry these; they were None here before the
+        # derived columns existed too, so downstream behaviour is unchanged.
+        occupation_series = None
+        occupation_name = None
+        position_location = None
+        position_schedule = None
+        service_type = None
+        low_grade = None
+        high_grade = None
+
+    # pandas turns missing values into NaN, which would render as "nan" downstream.
+    if not isinstance(occupation_series, str) and pd.isna(occupation_series):
+        occupation_series = None
+    if not isinstance(occupation_name, str) and pd.isna(occupation_name):
+        occupation_name = None
+    if not isinstance(position_location, str) and pd.isna(position_location):
+        position_location = None
+    if not isinstance(position_schedule, str) and pd.isna(position_schedule):
+        position_schedule = None
+    if not isinstance(service_type, str) and pd.isna(service_type):
+        service_type = None
+    if not isinstance(low_grade, str) and pd.isna(low_grade):
+        low_grade = None
+    if not isinstance(high_grade, str) and pd.isna(high_grade):
+        high_grade = None
 
     # Fallback: if no direct questionnaire URL was found but the posting both
     # (a) applies through USAStaffing and (b) mentions a questionnaire or
@@ -217,8 +170,6 @@ def extract_questionnaire_links_from_job(job_row, fetch_usajobs_html=True):
     inferred_from_announcement = False
     inferred_from_posting_html = False
     if not links:
-        uses_usastaffing = 'apply.usastaffing.gov' in job_str
-        mentions_questionnaire = re.search(r'questionnaire|assessment', job_str, re.IGNORECASE) is not None
         if uses_usastaffing and mentions_questionnaire:
             ann = job_row.get('announcementNumber')
             guessed = infer_questionnaire_url_from_announcement(ann)
@@ -230,13 +181,9 @@ def extract_questionnaire_links_from_job(job_row, fetch_usajobs_html=True):
                 # Fetch the USAJobs posting HTML once and look for a
                 # ViewQuestionnaire URL rendered on the page. About 25% of
                 # these gap postings actually surface a QID this way.
-                position_uri = None
-                if pd.notna(job_row.get('MatchedObjectDescriptor')):
-                    try:
-                        mod = json.loads(job_row['MatchedObjectDescriptor'])
-                        position_uri = mod.get('PositionURI')
-                    except Exception:
-                        pass
+                position_uri = job_row.get('positionURI')
+                if not isinstance(position_uri, str) or not position_uri:
+                    position_uri = None
                 if position_uri:
                     qid = discover_qid_from_usajobs_posting(
                         position_uri, session=_get_usajobs_session()
@@ -713,15 +660,15 @@ def extract_all_links_to_csv(data_dir='../../data', cutoff_date='2025-06-01'):
                         existing_urls.add(link)
                         new_links_in_file += 1
                         
-                        # Construct grade code from pay plan and numeric grades
-                        # First get the pay plan from top level (e.g., GS, WG).
-                        # Rows collected after the grade fix in
-                        # collect_current_data.py carry it in payScale;
-                        # older rows stashed it in minimumGrade, which now holds
-                        # the numeric grade — so fall back only when payScale is
-                        # absent.
-                        pay_scale = row.get('payScale') if pd.notna(row.get('payScale')) else row.get('minimumGrade', '')
-                        
+                        # Pay plan (e.g. GS, WG). The backfill rewrote payScale /
+                        # minimumGrade / maximumGrade for every current row from
+                        # the raw descriptor, so payScale is now authoritative
+                        # everywhere and the old minimumGrade fallback is gone —
+                        # minimumGrade holds a numeric grade, never a pay plan.
+                        pay_scale = row.get('payScale')
+                        if not isinstance(pay_scale, str) or not pay_scale:
+                            pay_scale = None
+
                         # Use numeric grades from extraction if available
                         if pay_scale and low_grade and high_grade:
                             if low_grade == high_grade:
