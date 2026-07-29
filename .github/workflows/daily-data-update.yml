@@ -183,32 +183,28 @@ jobs:
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        # Check if PR already exists
-        PR_EXISTS=$(gh pr list --base main --head data-updates --state open --json number --jq length)
-        
-        if [ "$PR_EXISTS" -eq "0" ]; then
-          echo "Creating new PR..."
-          gh pr create \
-            --base main \
-            --head data-updates \
-            --title "Daily data update - $(date +'%Y-%m-%d')" \
-            --body "Automated daily data update from USAJobs API"
-        else
-          echo "PR already exists, skipping creation"
-        fi
+        # ensure_pr retries and re-checks state between attempts. A bare
+        # `gh pr create` fails the whole run on a transient GitHub 5xx even
+        # when the PR was created — that happened on 2026-07-29.
+        source .github/scripts/gh_api_retry.sh
+        ensure_pr data-updates \
+          "Daily data update - $(date +'%Y-%m-%d')" \
+          "Automated daily data update from USAJobs API"
 
     - name: Auto-merge PR if tests pass
       if: env.CHANGES_MADE == 'true' && steps.data_tests.outcome == 'success'
       run: |
+        source .github/scripts/gh_api_retry.sh
+
         # Wait a moment for PR to be created
         sleep 10
-        
+
         # Find the PR number
         PR_NUMBER=$(gh pr list --base main --head data-updates --json number --jq '.[0].number')
-        
+
         if [ -n "$PR_NUMBER" ]; then
           echo "Auto-merging PR #$PR_NUMBER"
-          gh pr merge $PR_NUMBER --merge --auto
+          merge_pr "$PR_NUMBER" --merge --auto
         fi
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
