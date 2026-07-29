@@ -2,7 +2,7 @@
   "metadata": {
     "total_jobs": 239613,
     "cutoff_date": "2025-06-01",
-    "generation_date": "2026-07-29T10:06:20.900434"
+    "generation_date": "2026-07-29T09:47:30.807107"
   },
   "by_service_type": {
     "Competitive": 150725,
@@ -71,8 +71,8 @@
     "Department of Energy": 1443,
     "Department of the Treasury": 1396,
     "Department of State": 845,
-    "Department of Labor": 695,
     "National Aeronautics and Space Administration": 695,
+    "Department of Labor": 695,
     "Department of Housing and Urban Development": 623
   },
   "by_occupation": {
@@ -88,13 +88,13 @@
     "1702 - Education And Training Technician": 4254,
     "0189 - Recreation Aid And Assistant": 4239,
     "0620 - Practical Nurse": 3417,
-    "None - Unknown": 3344,
     "0201 - Human Resources Management": 3285,
     "0180 - Psychology": 3101,
     "0801 - General Engineering": 3022,
     "0905 - Attorney": 2694,
     "0640 - Health Aid And Technician": 2682,
     "3566 - Custodial Working": 2369,
-    "0101 - Social Science": 2331
+    "0101 - Social Science": 2331,
+    "7408 - Food Service Working": 2188
   }
 }

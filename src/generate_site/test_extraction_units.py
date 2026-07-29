@@ -26,10 +26,17 @@ from extract_questionnaires import (
     is_error_page_and_blacklist,
 )
 
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from job_fields import derive_job_fields, load_questionnaire_links
+
 
 def _job_row(text, announcement='26-ABC-12345678-XY', apply_url='https://apply.usastaffing.gov/Application/Apply'):
-    """Build a minimal job_row dict wrapped as a pd.Series, matching the
-    extractor's expectations (MatchedObjectDescriptor is a JSON string).
+    """Build a minimal job_row wrapped as a pd.Series.
+
+    Rows are built by running a descriptor through derive_job_fields(), exactly
+    as the collector does, so these tests cover the real derivation path. The
+    raw MatchedObjectDescriptor is no longer stored on rows — it was 98.9% of
+    the parquet bytes and OOM-ed the CI runner.
     """
     mod = {
         'JobCategory': [],
@@ -43,9 +50,22 @@ def _job_row(text, announcement='26-ABC-12345678-XY', apply_url='https://apply.u
         },
         'PositionURI': 'https://www.usajobs.gov/job/999999',
     }
+    row = {'announcementNumber': announcement}
+    row.update(derive_job_fields(mod, extra_text=str(row)))
+    return pd.Series(row)
+
+
+def _historical_job_row(text):
+    """A historical-parquet row: no derived columns, no descriptor.
+
+    These still take the row-grep path in the extractor, so the fallback has to
+    keep working for them.
+    """
     return pd.Series({
-        'MatchedObjectDescriptor': json.dumps(mod),
-        'announcementNumber': announcement,
+        'announcementNumber': '26-ABC-12345678-XY',
+        'positionTitle': 'Analyst',
+        'JobCategories': json.dumps([{'series': '0343'}]),
+        'someTextField': text,
     })
 
 
@@ -184,7 +204,58 @@ def test_error_page_helper_handles_empty():
     assert is_error_page_and_blacklist(None, 'http://x') is False
 
 
+def test_direct_link_read_from_derived_column():
+    # A real ViewQuestionnaire URL in the posting text must be found at
+    # collection time and read straight back off the derived column — no
+    # announcement-number guessing involved.
+    row = _job_row('Complete https://apply.usastaffing.gov/ViewQuestionnaire/55554444 to apply.')
+    assert load_questionnaire_links(row['questionnaireLinks']) == [
+        'https://apply.usastaffing.gov/ViewQuestionnaire/55554444'
+    ]
+    links, *_, inferred_ann, inferred_html = extract_questionnaire_links_from_job(row, fetch_usajobs_html=False)
+    assert links == ['https://apply.usastaffing.gov/ViewQuestionnaire/55554444']
+    assert inferred_ann is False
+    assert inferred_html is False
+
+
+def test_monster_link_sets_flag_on_derived_row():
+    url = 'https://jobs.monstergovt.com/nga/vacancy/previewVacancyQuestions.hms?orgId=1&jnum=42'
+    row = _job_row(f'Apply here: {url}')
+    assert row['hasMonsterLink'] is True
+    links, *rest = extract_questionnaire_links_from_job(row, fetch_usajobs_html=False)
+    assert links == [url]
+    assert rest[8] is True  # has_monster_link
+
+
+def test_historical_row_still_grepped():
+    # Historical parquets have no derived columns; the extractor must fall back
+    # to grepping the row itself or those jobs silently lose their links.
+    row = _historical_job_row('See https://apply.usastaffing.gov/ViewQuestionnaire/77778888 for the questionnaire.')
+    links, *_, inferred_ann, inferred_html = extract_questionnaire_links_from_job(row, fetch_usajobs_html=False)
+    assert links == ['https://apply.usastaffing.gov/ViewQuestionnaire/77778888']
+    assert inferred_ann is False
+    assert inferred_html is False
+
+
+def test_historical_row_inference_gate_still_fires():
+    row = _historical_job_row('Apply at apply.usastaffing.gov and complete the questionnaire.')
+    links, *_, inferred_ann, inferred_html = extract_questionnaire_links_from_job(row, fetch_usajobs_html=False)
+    assert links == ['https://apply.usastaffing.gov/ViewQuestionnaire/12345678']
+    assert inferred_ann is True
+
+
+def test_derived_row_has_no_raw_descriptor():
+    # The whole point of the refactor: the blob must not come back.
+    row = _job_row('Complete the questionnaire.')
+    assert 'MatchedObjectDescriptor' not in row.index
+
+
 TESTS = [
+    test_direct_link_read_from_derived_column,
+    test_monster_link_sets_flag_on_derived_row,
+    test_historical_row_still_grepped,
+    test_historical_row_inference_gate_still_fires,
+    test_derived_row_has_no_raw_descriptor,
     test_discover_plain_url,
     test_discover_json_escaped_url,
     test_discover_no_match_returns_none,
