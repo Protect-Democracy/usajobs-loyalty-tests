@@ -122,23 +122,19 @@ jobs:
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        # Check if PR already exists
-        PR_EXISTS=$(gh pr list --base main --head questionnaire-updates --state open --json number --jq length)
-        
-        if [ "$PR_EXISTS" -eq "0" ]; then
-          echo "Creating new PR..."
-          gh pr create \
-            --base main \
-            --head questionnaire-updates \
-            --title "Questionnaire analysis update - $(date +'%Y-%m-%d')" \
-            --body "Automated questionnaire analysis update"
-        else
-          echo "PR already exists, skipping creation"
-        fi
+        # ensure_pr retries and re-checks state between attempts. A bare
+        # `gh pr create` fails the whole run on a transient GitHub 5xx even
+        # when the PR was created — that happened on 2026-07-29.
+        source .github/scripts/gh_api_retry.sh
+        ensure_pr questionnaire-updates \
+          "Questionnaire analysis update - $(date +'%Y-%m-%d')" \
+          "Automated questionnaire analysis update"
 
     - name: Merge PR and dispatch deploy
       if: env.CHANGES_MADE == 'true' && steps.questionnaire_tests.outcome == 'success'
       run: |
+        source .github/scripts/gh_api_retry.sh
+
         # Wait a moment for the PR to be created in the previous step
         sleep 10
 
@@ -152,7 +148,9 @@ jobs:
         # Use --merge (not --merge --auto) so the merge is synchronous;
         # we want main to actually have the new commit before we dispatch
         # the deploy. --admin bypasses any branch-protection checks.
-        gh pr merge "$PR_NUMBER" --merge --admin
+        # merge_pr treats an already-merged PR as success, so a transient
+        # 5xx that lands after the merge can't fail the run.
+        merge_pr "$PR_NUMBER" --merge --admin
 
         # Pushes made by GITHUB_TOKEN don't trigger other workflows'
         # `push` events, so deploy-site.yml's push trigger won't fire
@@ -160,7 +158,9 @@ jobs:
         # path is allowed even from GITHUB_TOKEN and keeps deploy-site.yml
         # as the single source of truth for deployments.
         echo "Dispatching deploy-site.yml"
-        gh workflow run deploy-site.yml --ref main
+        # Safe to repeat: a duplicate deploy is harmless, a missed one leaves
+        # the site stale with nothing to indicate it.
+        gh_retry gh workflow run deploy-site.yml --ref main
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
