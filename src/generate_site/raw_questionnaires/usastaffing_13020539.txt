@@ -1,0 +1,373 @@
+Position Title
+Supervisory Information Technology Specialist (Quality Lead)
+Agency
+Administrative Office of the U.S. Courts
+Announcement Number
+26-CMM-13020539 Opens in new window
+Open Period
+Jul 29, 2026 to Aug 05, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+Are you a current employee of the AO or the Federal Judiciary?
+ Yes
+ No
+
+
+3.
+Are you a current or former Federal employee?
+
+All applicants outside of the AO must submit a copy of your latest Notification of Personnel Action (SF-50) to verify current or former Federal employment status.
+ Yes
+ No
+
+
+Preferences
+1.
+Would you accept a temporary appointment?
+ Yes
+ No
+
+
+Assessment 1
+Thank you for your interest in a Supervisory Information Technology Specialist (Quality Lead) position with the federal government. Applicants must have demonstrated experience as listed below. This requirement is according to the AO Classification, Compensation, and Recruitment Systems which include interpretive guidance and reference to the OPM Operating Manual for Qualification Standards for General Schedule Positions.
+
+WHEN MANDATORY NARRATIVE RESPONSES ARE REQUIRED, PLEASE DO NOT DUPLICATE INFORMATION YOU HAVE ALREADY PROVIDED IN YOUR RESUME AS A RESPONSE TO THIS QUESTION. WE ARE SEEKING AN ELABORATION OF THOSE DUTIES AND SKILLS YOU HAVE MENTIONED WHICH ADDRESS THE QUESTION MORE FULLY. THIS IS YOUR OPPORTUNITY TO EXPAND ON YOUR EXPERIENCE AND/OR EDUCATION AS IT RELATES TO THE QUESTION. FAILURE TO DO THIS WILL RESULT IN YOUR BEING CONSIDERED AS INELIGIBLE.
+
+
+1.
+Applicants must have at least one full year (52 weeks) of specialized experience which is in or directly related to the line of work of this position. Specialized experience must demonstrate experience in ALL areas defined below:
+Leading quality engineering or test strategy in a scaled, multi-team agile environment with program increment and sprint-based delivery.
+Experience in automated testing approaches, CI/CD quality integration, and test environment management.
+Driving cross-team quality governance, readiness gates, and release criteria in complex platforms and integration landscapes.
+Implementing test management and traceability practices in agile delivery using common application lifestyle management test tooling and producing coverage and readiness reporting.
+ Yes, I have one year of specialized experience which is in or directly related to the line of work of this position.
+ No, I do not possess the specialized experience described above.
+
+
+2.
+If A is selected above, a narrative statement must be submitted in the space provided below addressing your experience leading quality engineering or test strategy in a scaled, multi-team agile environment with program increment and sprint-based delivery. THIS IS A MANDATORY REQUIREMENT. Please limit your response to 1,000 words or less.
+
+
+3.
+In the space provided below, please indicate the time frame and employer(s) where we can locate this information. THIS IS A MANDATORY REQUIREMENT. Please limit your response to 250 words or less.
+
+
+4.
+If A is selected above, a narrative statement must be submitted in the space provided below addressing your experience in automated testing approaches, CI/CD quality integration, and test environment management. THIS IS A MANDATORY REQUIREMENT. Please limit your response to 1,000 words or less.
+
+
+5.
+In the space provided below, please indicate the time frame and employer(s) where we can locate this information. THIS IS A MANDATORY REQUIREMENT. Please limit your response to 250 words or less.
+
+
+6.
+If A is selected above, a narrative statement must be submitted in the space provided below addressing your experience driving cross-team quality governance, readiness gates, and release criteria in complex platforms and integration landscapes. THIS IS A MANDATORY REQUIREMENT. Please limit your response to 1,000 words or less.
+
+
+7.
+In the space provided below, please indicate the time frame and employer(s) where we can locate this information. THIS IS A MANDATORY REQUIREMENT. Please limit your response to 250 words or less.
+
+
+8.
+If A is selected above, a narrative statement must be submitted in the space provided below addressing your experience implementing test management and traceability practices in agile delivery using common application lifestyle management test tooling and producing coverage and readiness reporting. THIS IS A MANDATORY REQUIREMENT. Please limit your response to 1,000 words or less.
+
+
+9.
+In the space provided below, please indicate the time frame and employer(s) where we can locate this information. THIS IS A MANDATORY REQUIREMENT. Please limit your response to 250 words or less
+
+
+10.
+Do you possess a bachelor's degree in computer science, software engineer, information system, or related field?
+ Yes, I have a bachelor’s degree in computer science.
+ Yes, I have a bachelor’s degree in information system.
+ I have a bachelor’s degree in a related field.
+ None of the above.
+ Yes, I have a bachelor's degree in software engineer.
+
+
+11.
+If "related field" was selected, what degree do you possess?
+
+
+12.
+From the options listed below, which of the following certifications do you possess? (Check all that apply)
+ B. Foundation and Advanced Test Manager
+ C. Test Automation Engineer
+ A. Certified Quality Engineer (ASQ CQE)
+ D. None of the above.
+
+
+13.
+From the options listed below, how many years of experience do you possess in software quality engineering and testing?
+ 10 years or more.
+ 5-10 years.
+ 1-5 years.
+ less than 1 year.
+ None of the above.
+
+
+14.
+From the options listed below, how many years of experience do you possess leading test strategy and quality governance across multiple agile teams or programs?
+ 10 years or more.
+ 5-10 years.
+ 1-5 years.
+ Less than 1 year.
+ None of the above.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+15.
+Do you have knowledge of federal court IT systems and administrative applications?
+ Yes
+ No
+
+
+For each item, select the one response that most accurately describes your current level of experience and capability using the scale below.
+
+
+16.
+Which level description best describes your experience supervising and directing a team with varied skills and experience levels, including providing clear guidance, effective task delegation, and support?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+17.
+In the space provided below, please describe your experience guiding, training, coaching, and mentoring professional staff. THIS IS A MANDATORY REQUIREMENT. Please limit your response to 500 words or less.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+18.
+Do you have experience operating in federal or regulated environments where traceability, compliance, and risk-aware delivery are required?
+ Yes
+ No
+
+
+19.
+Do you have experience developing and maintaining quality controls based on developed governance?
+ Yes
+ No
+
+
+For each item, select the one response that most accurately describes your current level of experience and capability using the scale below.
+
+
+20.
+Which level description best describes your experience driving cross-team quality governance, readiness gates, and release criteria in complex platforms and integration landscapes?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+21.
+Do you have experience establishing and running quality gates and readiness evidence requirements for sprint and program increment completion, including defect thresholds and sign-off criteria?
+ Yes
+ No
+
+
+For each item, select the one response that most accurately describes your current level of experience and capability using the scale below.
+
+
+22.
+Which level description best describes your experience leading quality engineering or test strategy in a scaled, multi-team agile environment with program increment and sprint-based delivery?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+23.
+Which level description best describes your experience leading release readiness validation, including performance, security, and contract/API testing expectations in coordination with PAX, security, and data counterparts?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+24.
+Do you have strong cross-functional collaboration skills across APMO, PATT, architecture, quality, security, and data stakeholders?
+ Yes
+ No
+
+
+25.
+Do you possess stakeholder management skills across product, engineering, architecture, security, data, and operations to resolve quality risks quickly?
+ Yes
+ No
+
+
+For each item, select the one response that most accurately describes your current level of experience and capability using the scale below.
+
+
+26.
+Which level description best describes your experience in automated testing approaches, CI/CD quality integration, and test environment management?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+27.
+Do you have the ability to deliver work products that are technically accurate, clear, and thorough?
+ Yes
+ No
+
+
+For each item, select the one response that most accurately describes your current level of experience and capability using the scale below.
+
+
+28.
+Which level description best describes your experience implementing test management and traceability practices in agile delivery using common application lifestyle management test tooling and producing coverage and readiness reporting?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+29.
+Which level description best describes your experience defining the end-to-end test strategy across units, including integration, regression, and user acceptance training aligned to the build delivery cadence and release trains?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+30.
+Do you have the ability to solve problems, identify challenges, and implement strategies to overcome obstacles?
+ Yes
+ No
+
+
+31.
+Do you have the ability to effectively plan and organize tasks to achieve organizational goals?
+ Yes
+ No
+
+
+32.
+Are you adaptable and able to adjust to new circumstances, challenges, and opportunities?
+ Yes
+ No
+
+
+33.
+Do you have the ability to build relationships, resolve conflicts, and navigate challenging situations?
+ Yes
+ No
+
+
+For each item, select the one response that most accurately describes your current level of experience and capability using the scale below.
+
+
+34.
+Which level description best describes your experience identifying and addressing roadblocks or challenges that may hinder the successful execution of initiatives?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+35.
+Do you have the ability to work independently and collaborate closely with various business, development, and management stakeholders?
+ Yes
+ No
+
+
+For each item, select the one response that most accurately describes your current level of experience and capability using the scale below.
+
+
+36.
+Which level description best describes your ability to coordinate and communicate with various stakeholders to achieve strategic and tactical quality objectives?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+37.
+Which level description best describes your experience leading teams, building consensus, and communicating complex technical concepts to diverse stakeholders?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+38.
+In the space provided below, please describe your ability to inspire others to support and work toward mission goals. THIS IS AMANDATORY REQUIREMENT. Please limit your response to 500 words or less.
+
+
+For each item, select the one response that most accurately describes your current level of experience and capability using the scale below.
+
+
+39.
+Which level description best describes your ability to effectively communicate and negotiate with customers, executives, and technical and non-technical staff?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+40.
+How would you rate your oral and written communication skills?
+ Excellent
+ Good
+ Fair
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+41.
+I understand that failure to provide a written statement ("See Resume" or other non-descriptive response is not sufficient) for each essay question could result in non-consideration for this position.
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
