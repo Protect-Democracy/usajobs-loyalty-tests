@@ -1,25 +1,25 @@
 {
   "metadata": {
-    "total_jobs": 243149,
+    "total_jobs": 243165,
     "cutoff_date": "2025-06-01",
-    "generation_date": "2026-08-01T10:37:16.953143"
+    "generation_date": "2026-08-02T09:50:48.319221"
   },
   "by_service_type": {
-    "Competitive": 153160,
-    "Excepted": 88731,
+    "Competitive": 153173,
+    "Excepted": 88734,
     "Senior Executive": 1258
   },
   "by_grade_level": {
-    "GS-12": 20145,
-    "GS-13": 17875,
+    "GS-12": 20146,
+    "GS-13": 17876,
     "VN-00": 13157,
-    "GS-11": 12945,
-    "GS-9": 10419,
+    "GS-11": 12946,
+    "GS-9": 10421,
     "GS-14": 9931,
-    "GS-7": 9072,
+    "GS-7": 9074,
     "GS-6": 8139,
     "VM-15": 6029,
-    "GS-9/11": 5913,
+    "GS-9/11": 5914,
     "GS-5": 5537,
     "GS-15": 5274,
     "WG-10": 4452,
@@ -54,13 +54,13 @@
     "San Francisco, California": 1037
   },
   "by_agency": {
-    "Department of Veterans Affairs": 81670,
-    "Department of the Air Force": 28308,
-    "Department of the Navy": 27855,
+    "Department of Veterans Affairs": 81671,
+    "Department of the Air Force": 28309,
+    "Department of the Navy": 27856,
     "Department of Defense": 23538,
-    "Department of the Army": 23422,
-    "Department of Justice": 12663,
-    "Department of Homeland Security": 11293,
+    "Department of the Army": 23423,
+    "Department of Justice": 12671,
+    "Department of Homeland Security": 11297,
     "Other Agencies and Independent Organizations": 6504,
     "Department of the Interior": 5943,
     "Department of Transportation": 4486,
@@ -76,13 +76,13 @@
     "Judicial Branch": 630
   },
   "by_occupation": {
-    "0610 - Nurse": 13933,
+    "0610 - Nurse": 13935,
     "0301 - Miscellaneous Administration And Program": 9055,
-    "0602 - Medical Officer": 7028,
+    "0602 - Medical Officer": 7031,
     "0185 - Social Work": 6199,
     "2210 - Information Technology Management": 6121,
-    "0343 - Management And Program Analysis": 5522,
-    "0303 - Miscellaneous Clerk And Assistant": 4939,
+    "0343 - Management And Program Analysis": 5525,
+    "0303 - Miscellaneous Clerk And Assistant": 4940,
     "0679 - Medical Support Assistance": 4860,
     "1101 - General Business And Industry": 4598,
     "1702 - Education And Training Technician": 4306,
