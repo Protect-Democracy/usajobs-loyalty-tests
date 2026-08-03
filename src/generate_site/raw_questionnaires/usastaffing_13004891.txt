@@ -1,0 +1,203 @@
+Position Title
+Information Technology Specialist (Vulnerability Assurance Analyst (VAT)
+Agency
+Office of Intelligence and Analysis
+Announcement Number
+DE-13004891-26-IA Opens in new window
+Open Period
+Aug 03, 2026 to Aug 07, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+ALL US CITIZENS
+ Yes
+ No
+
+
+2.
+Reasonable Accommodations for taking the online assessments are provided on a case-by-case basis only to qualified individuals with a disability covered by the Rehabilitation Act of 1973, as amended.
+
+Do you have a disability (physical or mental) that you believe will interfere with completing the online assessments and require a Reasonable Accommodation?
+
+ Yes
+ No
+
+
+Preferences
+1.
+In the last five years (from the closing date of this announcement) have you served, or are you currently serving, as an Executive Branch Political, Schedule C, or Non-career Senior Executive Services appointee? You can find out if you have held one of these appointment types by looking at your SF-50s, in Section 5 where the legal authorities are listed.
+A political appointee is an appointment made by the President without confirmation by the Senate (5 CFR 213.3102(c)) OR an assistant position to a top-level federal official if filled by a person designated by the President as a White House Fellow (5 CFR 213.3102(z)).
+A Schedule C appointee occupies a position excepted from the competitive service by the President, or by the Director of OPM, because of the confidential or policy-determining nature of the position duties (5 CFR 213.3301 and 5 CFR 213.3302).
+A Non-career SES appointee is approved by the White House and serves at the pleasure of the appointing official without time limitations (5 CFR 317 Subpart F).
+ Yes
+ No
+
+
+Conditions of Employment
+1.
+This position may be designated as essential personnel. Essential personnel must be able to serve during continuity of operation events without regard to declarations of liberal leave or government closures due to weather, protests, and acts of terrorism or lack of funding. Failure to report for or remain in this position may result in disciplinary or adverse action in accordance with applicable laws, rules, and regulations (5 U.S.C. § 7501-7533 and 5 CFR Part 752, as applicable). Do you accept these terms and conditions?
+ I understand and accept these terms and conditions.
+ I do not accept these terms and conditions.
+
+
+2.
+You may be subject to a pre-employment polygraph examination and random polygraph examinations may be conducted after entry on duty. Are you willing to undergo such as a condition of employment?
+ Yes, I understand that as a condition of employment, I must undergo a pre-employment polygraph examination and random polygraph examinations may be conducted after my entry on duty.
+ No, I do not agree to undergo a polygraph examination.
+
+
+Assessment 1
+Your responses in this Assessment Questionnaire are subject to evaluation and verification. Later steps in the selection process are specifically designed to verify your responses. Deliberate attempts to falsify information may be grounds for disqualifying you or for dismissing you from employment following acceptance. If, after reviewing your resume and/or supporting documentation, a determination is made that you have overstated your qualifications and/or experience, you will be removed from consideration, or your score will be lowered.
+
+
+1.
+INDIVIDUAL OCCUPATIONAL REQUIREMENT
+This position has an Individual Occupational Requirement that must be met prior to meeting the specialized experience. Applicants must possess IT-related experience demonstrating each of the nine (9) competencies listed below:
+Attention to Detail - Is thorough when performing work and conscientious about attending to detail.
+Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services.
+Decision Making - Makes sound, well-informed, and objective decisions; perceives the impact and implications of decisions; commits to action, even in uncertain situations, to accomplish organizational goals; causes change.
+Information Management - Identifies a need for and knows where or how to gather information; organizes and maintains information or information management systems.
+Interpersonal Skills - Shows understanding, friendliness, courtesy, tact, empathy, concern, and politeness to others; develops and maintains effective relationships with others; may include effectively dealing with individuals who are difficult, hostile, or distressed; relates well to people from varied backgrounds and different situations.
+Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately.
+Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.
+Teamwork - Encourages and facilitates cooperation, pride, trust, and group identity; fosters commitment and team spirit; works with others to achieve goals.
+Technical Competence - Uses knowledge that is acquired through formal training or on-the-job experience to perform one's job; works with, understands, and evaluates technical information related to the job; advises others on technical issues. 
+NOTE: Your resume must explicitly indicate how you meet this requirement, otherwise you will be found ineligible.
+ Yes, I possess the IT-related experience for this position as stated above which covers all nine competencies.
+ No, I do not have IT-related experience for this position as stated above.
+
+
+2.
+To qualify for the GS-13 you must possess the specialized experience, equivalent to the GS-12 level in the Federal service, or comparable experience not gained through Federal service, in applying new technical practices to cybersecurity operations where precedents do not exist; assessing programs to determine where improvements in efficiencies and operations could be made; planning and implementing new operational cybersecurity programs and providing managerial/administrative/technical leadership to the functions of the Chief Information Security Officer (CISO). 
+
+For this position, specialized experience is defined as:
+Knowledge of the laws, policies, and regulations of the Information/Cybersecurity field such as FISMA, NIST, CNSSI and the Office of Management and Budget (OMB).
+Knowledge of Patch Management, On-Premise and Cloud-based Security Scanning vulnerability and compliance tools, CI/CD Pipeline tools, Static Application Security Testing (SAST), Dynamic Application Security Testing (DAST), etc.
+Knowledge of IT Security, Cybersecurity, and Information Assurance concepts, practices, and procedures, program evaluation techniques, and an understanding of the internal and external control structure in order to perform a variety of IT Security program management assessments, and evaluations.
+Knowledge and demonstrated experience in using various cybersecurity and information assurance techniques, methods and procedures for assessing the security posture of systems, networks, and data under the authority of the CIO office.
+Specialized experience is experience that has equipped the applicant with the particular competencies/knowledge, skills, and abilities to successfully perform the duties of the position and is typically in or related to the work of the position to be filled. Such experience is typically gained in the IT field or through the performance of work where the primary concern is IT. 
+
+NOTE: Your resume must explicitly indicate how you meet this requirement, otherwise you will be found ineligible.
+ I possess the specialized experience at the GS-12 grade level in federal service or equivalent public or private sector experience performing the duties mentioned above.
+ I do not have the experience as described in the statements above.
+
+
+In this part, you will respond to questions about experience you have had that are related to the requirements of the job for which you are applying. Carefully review the level of descriptions listed below. For each statement, select the ONE response description that best describes your experience and record your selection.
+
+
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+
+
+3.
+Ensure data/information security policies using security standards, guidelines, and requirements that include privacy, authentication, access control, retention, disposal, incident management, disaster recovery, and configuration to ensure Confidentiality, Integrity, and Availability (C.I.A.) throughout the system/data lifecycle.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+4.
+Validate system compliance against NIST and CNSSI requirements to include the NIST 800-53, CNSSI 1253, DISA Security Technical Implementation Guides (STIGs) and other Security Requirements best practices.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+5.
+Develop, update, and/or review RMF documentation to include System Security Plans (SSPs), POA&Ms, Risk Assessments, and Risk Exceptions within the Governance, Risk and Compliance (GRC) tool.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+6.
+Maintain operational security posture for an information system or program to ensure information systems security policies are enforced.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+7.
+Exercise In-depth working and technical knowledge of system functions, cybersecurity policies and technical cybersecurity protection measures in on-premise and Cloud environments.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+8.
+Provides Continuous Monitoring support/guidance by reviewing security documentation, technical security posture (e.g. vulnerability, compliance, supply chain, etc.) and generation of executive dashboards for leadership.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+9.
+Identify, assess, evaluate, and analyze software requests, vulnerability and compliance posture across various authorization boundaries leveraging various security tools.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+10.
+Conduct vulnerability assessments using automated and manual security scans against systems to identify remediation/mitigation actions to support the reduction of risk and address weaknesses to the system.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+11.
+Work with Program Stakeholders (Program Managers, Engineers, Developers) to ensure the Program security requirements and milestones are met and maintained.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+12.
+Serves as the principal advisor to the Information System Owner (SO), Business Process Owner, and the Chief Information Security Officer (CISO)/Information System Security Manager (ISSM) on all matters, technical and otherwise, involving the security posture of an information system.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+13.
+Coordinate with other system SMEs to identify and develop authorization boundary diagrams, architecture diagrams, and hardware and software inventories.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+14.
+CERTIFICATION STATEMENT
+Please take this opportunity to review your responses to ensure their accuracy. By agreeing to the statement below, you are confirming that you have reviewed your responses to this questionnaire for accuracy, and verify that your responses accurately describe your current level of experience and capability. Failure to agree to the statement below will disqualify you from further consideration for this position.
+ Yes, I certify that, to the best of my knowledge and belief, all of the information included in this questionnaire is true, correct, and provided in good faith. I understand that if I make an intentional false statement, or commit deception or fraud in this application and its supporting materials, or in any document or interview associated with the examination process, I may be fined or imprisoned (18 U.S.C. 1001), my eligibilities may be cancelled, I may be denied an appointment, or I may be removed and debarred from Federal service (5 CFR part 731). I understand that any information I give may be investigated.
+ No, I understand that any information I give may be investigated. I understand that responding "No" to this item will result in my not being considered for this position.
+
+
+(REQUIRED if applicable) If you are a current or former political Schedule A, Schedule C, Non-career SES or Presidential Appointee, submit a copy of your applicable SF-50, along with a statement that provides the following information regarding your most recent political appointment: Position Title, Type of Appointment (Schedule A, Schedule C, Non-career SES, or Presidential Appointee), and Agency Beginning and ending dates of Appointment.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
