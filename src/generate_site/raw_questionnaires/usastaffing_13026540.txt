@@ -1,0 +1,163 @@
+Position Title
+Information Technology Specialist (Network Engineer)
+Agency
+Offices, Boards and Divisions
+Announcement Number
+DE-13026540-26-TGM Opens in new window
+Open Period
+Aug 04, 2026 to Aug 12, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+Preferences
+1.
+In the last five years (from the closing date of this announcement) have you served, or are you currently serving, as an Executive Branch Political, Schedule C, or Non-career Senior Executive Services appointee? You can find out if you have held one of these appointment types by looking at the SF-50s in your Electronic Official Personnel Folder (eOPF), in Section 5 where the legal authorities are listed.
+A political appointee is an appointment made by the President with or without confirmation by the Senate (5 CFR 213.3102(c)) OR an assistant position to a top-level federal official if filled by a person designated by the President as a White House Fellow (5 CFR 213.3102(z)).
+A Schedule C appointee occupies a position excepted from the competitive service because of the confidential or policy-determining nature of the position duties (5 CFR 213.3301 and 5 CFR 213.3302).
+A noncareer SES appointee serves at the pleasure of the appointing official without time limitations (5 CFR 317 Subpart F).
+ Yes, I have held one of the above appointment types in the last 5 years.
+ No, I have not held any of the above appointment types in the last 5 years.
+ I am uncertain if I have held any of these appointment types in the last 5 years.
+
+
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+
+
+2.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+
+
+3.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+
+
+4.
+How would you help advance the President's Executive Orders and policy priorities in this role? Identify one or two relevant Executive Orders or policy initiatives that are significant to you, and explain how you would help implement them if hired.
+
+
+5.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+
+
+6.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+
+
+Assessment 1
+Carefully read each statement and all possible answers before selecting a response. Some questions will be used to screen out ineligible applicants. Applicant errors in responses will not be corrected. You are responsible for the accuracy of your application. If you fail to provide the requested information contained in the vacancy announcement, or the information submitted is insufficient, you may lose consideration for the position.
+
+
+1.
+Do you have at least one year of specialized experience equivalent to the GS-12 grade level in the Federal service performing duties such as: designing, engineering, implementing, maintaining, or troubleshooting enterprise network infrastructure and solutions; applying network engineering principles to support LAN/WAN, wireless, VPN, cloud networking, and hybrid infrastructure environments; integrating cybersecurity requirements into network architecture and operations, including applying Zero Trust Architecture, Risk Management Framework (RMF), and vulnerability mitigation practices; supporting enterprise infrastructure modernization efforts, including cloud migration, technology refresh, and network transformation initiatives; analyzing complex network performance, availability, and security issues and developing technical solutions; and providing technical guidance and recommendations to stakeholders, leadership, and technical teams?
+
+ Yes, I have at least one year of specialized experience.
+ No, I do not have one year of specialized experience.
+
+
+2.
+An organization is implementing a hybrid cloud environment requiring secure, scalable connectivity between multiple offices, on-premises data centers, and multiple cloud providers. The architecture must support dynamic path selection, centralized policy enforcement, application-aware routing, and continuous monitoring of link performance. Which solution best meets these requirements?
+
+ Manually configured site-to-site IPSec tunnels between all locations, managed independently.
+ Static routing combined with individual firewall rule sets at each site to control cloud access.
+ A Software Defined Wide Area Networking (SD-WAN) platform providing centralized orchestration, adaptive routing, integrated security, and cloud-optimized connectivity.
+ Extending Layer 2 segments across WAN and cloud environments using VXLAN or similar tunneling mechanisms to preserve broadcast domains.
+
+
+3.
+A network engineer is investigating intermittent latency and connectivity issues affecting multiple enterprise locations. Which approach provides the most comprehensive analysis of network behavior?
+
+ Reviewing packet captures, traffic flows, routing paths, and performance metrics.
+ Restarting network devices until connectivity improves.
+ Reviewing only user access permissions.
+ Increasing bandwidth without identifying the source of the issue.
+
+
+4.
+A mission-critical application experiences degraded performance during peak operational periods. As the network engineer responsible for diagnosing enterprise-level issues, what is the most appropriate initial action?
+
+ Begin replacing infrastructure components and network hardware based on suspected age-related failures.
+ Perform a structured diagnostic review of network performance data, including interface utilization, flow-level traffic analysis, latency measurements, congestion indicators, and application-specific network behavior to identify probable root causes.
+ Reduce security overhead by disabling encryption or bypassing secure gateways to improve throughput.
+ Restart application servers, network appliances, or load balancers without gathering diagnostic evidence to expedite recovery.
+
+
+5.
+A network engineer is designing an enterprise network architecture for systems containing sensitive Federal information. The organization follows Zero Trust Architecture principles. Which approach best aligns with Zero Trust?
+
+ Allow broad internal network access after a user successfully authenticates.
+ Continuously verify identity, device posture, and authorization, and apply least-privilege access controls.
+ Trust all devices operating within the enterprise network boundary.
+ Rely primarily on perimeter firewalls to protect internal resources.
+
+
+6.
+A network engineer is implementing advanced cybersecurity protections for an enterprise network. The environment must detect malicious payloads, prevent exploitation attempts, and automatically enforce security policy on live traffic flows. Which technology is specifically designed to perform real-time threat detection and active blocking of malicious network activity?
+
+ A next-generation Intrusion Prevention System (IPS) that performs deep packet inspection, signature- and behavior-based threat detection, and inline blocking of suspected attacks.
+ Dynamic Host Configuration Protocol (DHCP), which automates IP address assignment but does not evaluate or enforce security on network traffic.
+ Domain Name System (DNS), which is used for hostname resolution and is not capable of packet-level threat inspection or malicious traffic blocking.
+ Load-balancing services that distribute application traffic for performance but do not inspect or block malicious payloads.
+
+
+7.
+An organization is integrating its on-premises applications with a cloud-hosted service. The network engineer must ensure secure, reliable communication between the two environments while also supporting future scalability. Which networking solution best meets these requirements?
+ Configuring basic site-to-site VPN tunnels without monitoring or failover capabilities.
+ Using a secure, policy-controlled connection, such as a VPN or cloud interconnect, that supports encryption, redundancy, and centralized management.
+ Allowing direct public internet access to the cloud service from internal systems without security controls.
+ Extending the on-premises LAN into the cloud to maintain identical broadcast domains.
+
+
+8.
+After a scheduled network change window, multiple offices report intermittent sign-in failures and slow file access. Early incident tickets and system logs show spikes in authentication errors, higher processing load on the secure web gateway, and increased TCP retransmissions on an SD-WAN overlay for two satellite locations. What is the most effective first step to narrow down the root cause?
+ Roll back all recent changes immediately and declare a major incident across the Division.
+ Execute a structured triage: correlate the issue onset with the change window, verify SD-WAN connection status, validate secure web gateway egress and TLS inspection behavior, run tests from affected sites, and compare the results with known baselines to isolate whether the fault involves network routing, gateway processing, or DNS configuration.
+ Replace storage arrays in the primary data center to eliminate potential disk latency.
+ Disable TLS inspection organization-wide to reduce web gateway load and improve throughput.
+
+
+9.
+Leadership requests recommendations for replacing aging enterprise network infrastructure. As the project manager and technical lead, which approach best reflects sound project-management practices within an enterprise IT environment?
+ Begin immediate replacement of all aging infrastructure without conducting requirements analysis, resource planning, or stakeholder coordination.
+ Postpone modernization activities until component failures force unscheduled outages and emergency work.
+ Develop a structured modernization plan that includes requirements gathering, risk assessment, stakeholder engagement, cost and schedule estimation, dependency mapping, and a phased implementation approach aligned with mission priorities and governance review processes.
+ Select the least-expensive upgrade option and initiate procurement without reviewing interoperability constraints or validating technical requirements.
+
+
+10.
+A network engineer is preparing technical documentation and communicating operational updates for enterprise teams. Which practice best supports effective communication throughout the system lifecycle?
+ Share only vendor configuration notes without adjusting them for the organization.
+ Provide clear, accurate, and timely information that is easy to understand, kept current, and accessible to all stakeholders who rely on it.
+ Limit communication to a small group of administrators.
+ Wait to communicate configuration changes until after they are completed.
+
+
+11.
+You are the network engineer leading the enterprise evaluation of a new networking platform. Leadership asks for a recommendation that balances mission impact, cybersecurity, governance, and long-term sustainability. Which course of action most accurately demonstrates technical leadership in this environment?
+ Prioritize the product with the highest FedRAMP authorization level and purchase it immediately to accelerate modernization; limit the pilot scope to one office due to urgency.
+ Run a structured analysis of alternatives and submit the findings: align to enterprise architecture; assess Risk Management Framework and Zero Trust control impacts; and evaluate interoperability, supply-chain risks, Section 508 compliance, licensing, and lifecycle total cost of ownership.
+ Recommend the newest vendor platform to drive innovation; request an expedited Authority to Operate and defer detailed interoperability analysis until after deployment.
+ Delegate the evaluation to the vendor’s team, rely on a marketing-led proof of concept, and proceed to enterprise rollout if the proof of concept demonstrates acceptable performance at a single site.
+
+
+12.
+I certify that, to the best of my knowledge and belief, all of the information included in this questionnaire is true, correct and provided in good faith. I did not receive any help in answering these questions. I understand that if I make an intentional false statement, or commit deception or fraud in this application and its supporting materials, or in any document or interview associated with the examination process, I may be fined or imprisoned (18 5 U.S.C. 1001); my eligibilities may be canceled, I may be denied an appointment, or I may be removed and debarred from Federal service (5 C.F.R. part 731). I understand that any information I give may be investigated. I understand that responding "No" to this item will result in my not being considered for this position.
+ Yes, I certify that the information provided in this questionnaire is true, correct and provided in good faith, and I understand the information provided above.
+ No, I do not certify/understand the information provided above.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙

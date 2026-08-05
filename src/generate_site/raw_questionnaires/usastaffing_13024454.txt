@@ -1,0 +1,187 @@
+Position Title
+Assistant CIO, Technology
+Agency
+Offices, Boards and Divisions
+Announcement Number
+DH-13024454-26-VJ Opens in new window
+Open Period
+Aug 04, 2026 to Aug 10, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+Preferences
+1.
+In the last five years (from the closing date of this announcement) have you served, or are you currently serving, as an Executive Branch Political, Schedule C, or Non-career Senior Executive Services appointee? You can find out if you have held one of these appointment types by looking at the SF-50s in your Electronic Official Personnel Folder (eOPF), in Section 5 where the legal authorities are listed.
+A political appointee is an appointment made by the President with or without confirmation by the Senate (5 CFR 213.3102(c)) OR an assistant position to a top-level federal official if filled by a person designated by the President as a White House Fellow (5 CFR 213.3102(z)).
+A Schedule C appointee occupies a position excepted from the competitive service because of the confidential or policy-determining nature of the position duties (5 CFR 213.3301 and 5 CFR 213.3302).
+A noncareer SES appointee serves at the pleasure of the appointing official without time limitations (5 CFR 317 Subpart F).
+ Yes, I have held one of the above appointment types in the last 5 years.
+ No, I have not held any of the above appointment types in the last 5 years.
+ I am uncertain if I have held any of these appointment types in the last 5 years.
+
+
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+
+
+2.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+
+
+3.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+
+
+4.
+How would you help advance the President's Executive Orders and policy priorities in this role? Identify one or two relevant Executive Orders or policy initiatives that are significant to you, and explain how you would help implement them if hired.
+
+
+5.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+
+
+6.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+
+
+Assessment 1
+Carefully read each statement and all possible answers before selecting a response.  Applicant errors in responses will not be corrected. You are responsible for the accuracy of your application. If you fail to provide the requested information contained in the vacancy announcement, or the information submitted is insufficient, you may lose consideration for the position.
+
+
+1.
+Select the statement that best describes your qualifications to perform work at the GS-15 level or equivalent pay band in the federal service for the Assistant CIO, Technology position.
+ I have one year of specialized experience equivalent to the GS-14 level in the Federal Service which includes
+ I do not have the experience as described above.
+
+
+2.
+I certify that, to the best of my knowledge and belief, all of the information included in this questionnaire is true, correct and provided in good faith. I understand that if I make an intentional false statement, or commit deception or fraud in this application and its supporting materials, or in any document or interview associated with the examination process, I may be fined or imprisoned (18 5 U.S.C. 1001); my eligibilities may be canceled, I may be denied an appointment, or I may be removed and debarred from Federal service (5 C.F.R. part 731). I understand that any information I give may be investigated. I understand that responding "No" to this item will result in my not being considered for this position.
+ Yes, I certify that the information provided in this questionnaire is true, correct and provided in good faith, and I understand the information provided above.
+ No, I do not certify/understand the information provided above.
+
+
+Assessment 2
+Carefully read each statement and all possible answers before selecting a response. Some questions will be used to screen out ineligible applicants. Applicant errors in responses will not be corrected. You are responsible for the accuracy of your application. If you fail to provide the requested information contained in the vacancy announcement, or the information submitted is insufficient, you may lose consideration for the position.
+
+
+1.
+Your agency is considering purchasing an AI-enabled commercial software platform. Several business offices want immediate deployment because the product promises significant productivity gains. As the Assistant CIO, Technology, what should you do first?
+
+ Approve deployment because the vendor states the product complies with Federal cybersecurity requirements.
+ Require completion of an enterprise technology governance review that evaluates cybersecurity, privacy, records management, accessibility, interoperability, and organizational risk before approving enterprise deployment.
+ Allow each program office to decide independently whether to deploy the product.
+ Delay all AI adoption until government-wide AI standards are finalized.
+
+
+2.
+You are managing an IT service and need to modernize the solution.  What is the best approach to the system's life cycle in this context?
+
+ Conduct market research, develop an alternatives analysis, assess alignment with strategic IT plan, then propose solution for decision, with risks, costs, and implementation approach defined.
+ Contact market vendor and build a prototype and deploy into the infrastructure to test the solution and identify what issues might exist.
+ Continue to operate the existing solution until it breaks and is non workable, then propose alternative to focus attention on the effort.
+ Develop a solution within your team and propose the solution first without including security, customer, financial or other interested stakeholders in the discussion.
+
+
+3.
+A new application must exchange information with existing enterprise systems. Which approach best supports successful system integration?
+
+ Allow each application team to establish its own interface requirements.
+ Coordinate interface requirements, data exchange, security controls, and testing activities across participating systems.
+ Complete application development before planning system integration.
+ Limit coordination among development teams.
+
+
+4.
+Program Lead is responsible for ensuring a major IT initiative remains compliant with federal IT governance requirements throughout the project lifecycle. Which activity best supports this responsibility?
+ Allow each contractor to establish its own reporting requirements.
+ Limit project reporting to deployment activities.
+ Monitor project performance, risks, milestones, and compliance with applicable federal and Department IT policies throughout the project lifecycle.
+ Delegate governance responsibilities to individual development teams.
+
+
+5.
+Which organizational approach most effectively supports continuous technical innovation?
+
+ Restricting teams to strictly defined roles and responsibilities.
+ Encouraging cross functional collaboration.
+ Eliminating all risk taking in project planning.
+ Avoiding the adoption of new development methodologies.
+
+
+6.
+During Security Assessment and Authorization (SA&A) activities, the System Owner is responsible for:
+
+ Conducting penetration testing.
+ Approving software procurement requests.
+ Ensuring required security controls are implemented and supporting the system's Authority to Operate (ATO).
+ Developing Department-wide cybersecurity policy.
+
+
+7.
+You are managing an IT team and want to ensure that their work supports the organization's overall goals. What is the best approach to strategic thinking in this context?
+
+ Focus only on completing technical tasks as quickly as possible, without considering how they relate to organizational priorities.
+ Let each IT team member choose their own priorities so work is distributed evenly and independently.
+ Regularly align IT initiatives with organizational goals by prioritizing work that directly supports mission objectives and adjusting plans as those goals evolve.
+ Concentrate on understanding organizational goals and intentionally prioritizing IT work that supports those goals, adjusting resources and efforts to maintain alignment.
+
+
+8.
+You are leading a team comprised of members with varying skill levels, from entry-level to highly experienced. Which approach is most effective for ensuring team success and development?
+ Treat everyone exactly the same, regardless of their experience, and avoid giving extra help to anyone.
+ Adjust your leadership by giving more guidance to less experienced team members and more independence and challenge to experienced team members and more independence and challenge to experienced ones.
+ Focus most of your time only on the highest performers and give minimal attention to others.
+ Give no direction and let everyone figure things out on their own, regardless of skill level.
+
+
+9.
+Senior leadership requests a project status update following identification of a significant implementation risk. Which information should be included?
+
+ Technical configuration details only.
+ Budget information only.
+ The issue, potential impact, available options, recommended course of action, and effect on project objectives.
+ A detailed software development schedule.
+
+
+10.
+In an IT change management process, which activity ensures that a proposed change will not negatively impact existing systems before it is approved?
+
+ Scheduling the change during a maintenance window.
+ Performing an impact assessment.
+ Notifying end users about the upcoming change.
+ Updating configuration item documentation.
+
+
+11.
+Business stakeholders request additional system functionality after development has begun. What is the most appropriate course of action?
+
+ Approve all requested changes.
+ Defer the request until after implementation.
+ Evaluate the impact on project scope, schedule, resources, and program objectives before determining whether the changes should be incorporated.
+ Reject all requested changes.
+
+
+12.
+Senior leadership requests a briefing on the organization's technology modernization initiative. Which approach best ensures clear, effective communication that supports informed decision-making?
+
+ Provide only technical details to demonstrate subject matter expertise.
+ Present a high level overview and avoid discussing risks or challenges.
+ Summarize modernization goals, progress, key risks, impacts on mission delivery, and recommended next steps.
+ Share the full project documentation so leadership can review all details independently.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
