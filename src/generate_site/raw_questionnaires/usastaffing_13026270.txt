@@ -1,0 +1,144 @@
+Position Title
+IT Specialist (DATAMGT)
+Agency
+Patent and Trademark Office
+Announcement Number
+TMCO-REMO-26-13026270-CG Opens in new window
+Open Period
+Aug 07, 2026 to Aug 21, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+Reasonable Accommodations for taking the online assessments are provided on a case-by-case basis only to qualified individuals with a disability covered by the Rehabilitation Act of 1973, as amended.
+
+Do you have a disability (physical or mental) that you believe will interfere with completing the online assessments and require a Reasonable Accommodation?
+
+ Yes
+ No
+
+
+3.
+Education Requirement (GS-2210-09/11): You must meet the Basic Requirements for this position. Select the appropriate response that describes the education requirement you possess for this position:
+
+I am a recent graduate who has completed a bachelor's or graduate degree within the previous two years - OR - I am a uniformed service member who has completed a bachelor's or graduate degree and was unable to apply within two years of obtaining a degree due to a uniformed service obligation of at least four years, and may apply within two years of discharge from uniformed service.
+ Yes
+ No
+
+
+Preferences
+1.
+Select the lowest grade you are willing to accept for this position.
+9
+11
+
+
+2.
+How did you hear about this USPTO job opportunity? (No Choice Limit)
+ A. Email
+ B. Facebook
+ C. Instagram
+ D. LinkedIn
+ E. @USPTOJobs "X" (Twitter)
+ F. Reddit
+ G. Google Reviews
+ H. Handshake University Platform
+ I. Monster
+ J. Indeed
+ K. Glassdoor
+ L. USAJOBS
+ M. University Job Board
+ N. Online Blog / Bulletin Board
+ O. Friend
+ P. USPTO Employee
+ Q. Professional Society / Organization
+ R. State Bar Association
+ S. University Career Fair
+ T. Conference
+ U. University Career Placement Office
+ V. Virtual Job Fair
+ W. USPTO Information Session
+ X. USPTO Jobs web pages
+ Y. USPTO website
+ Z. Other
+
+
+3.
+Have you held a political appointment within the previous five-year period?
+ Yes
+ No
+
+
+4.
+If you are a current or former Federal civilian employee, by what agency/office or Department of Commerce bureau are you employed?
+I am not a current Federal civilian employee
+Other agency/office not in the Department of Commerce
+Department of Commerce, Bureau of Economic Analysis (BEA)
+Department of Commerce, Bureau of Industry and Security (BIS)
+Department of Commerce, Bureau of the Census (CENSUS)
+Department of Commerce, Economic Development Administration (EDA)
+Department of Commerce, Economic and Statistics Administration (ESA)
+Department of Commerce, International Trade Administration (ITA)
+Department of Commerce, Minority Business Development Agency (MBDA)
+Department of Commerce, National Institute of Standards and Technology (NIST)
+Department of Commerce, National Oceanic and Atmospheric Administration (NOAA)
+Department of Commerce, National Telecommunications and Information Administration (NTIA)
+Department of Commerce, National Technical Information Service (NTIS)
+Department of Commerce, Office of the Secretary (OS)
+Department of Commerce, U.S. Patent and Trademark Office (USPTO)
+Department of Commerce, Office of the Inspector General
+Other
+
+
+5.
+If you answered "Other" to the above question, please enter the agency and organization.
+
+
+6.
+Are you currently receiving or are you scheduled to receive severance pay as a result of a Reduction in Force (RIF) from a Federal Agency?
+ Yes
+ No
+
+
+Assessment 1
+Thank you for your interest in the Information Specialist (DATAMGT), GS-2210-09/11 College Graduate position with the United States Patent and Trademark Office (USPTO). Your resume and the responses you provide will be used to determine if you are among the best qualified for this position. Your responses are subject to verification. Please review your responses for accuracy before you submit your application.
+
+
+This position is being filled as a College Graduate under Public Law 115-232, 5 CFR 315.614. Applicants for this position must meet the BASIC REQUIREMENT of the College Graduate authority.
+
+
+1.
+Education Requirement (GS-2210-09/11): You must meet the Basic Requirements for this position. Select the appropriate response that describes the education requirement you possess for this position:
+ I am a recent graduate who has completed a bachelor's or graduate degree within the previous two years - OR - I am a uniformed service member who has completed a bachelor's or graduate degree and was unable to apply within two years of obtaining a degree due to a uniformed service obligation of at least four years, and may apply within two years of discharge from uniformed service. If you choose "A", you must upload your transcripts with your job application. Official or unofficial transcripts are acceptable. Failure to upload proof of eligibility will make you ineligible.
+ I do not meet the basic requirement as described above.
+
+
+In addition to meeting the BASIC REQUIREMENTS, applicants must also meet the specialized experience that has equipped applicants with the particular knowledge, skills and abilities to successfully perform the duties of the position, and that is typically in or related to the position to be filled. To be creditable, specialized experience must have been equivalent to at least the next lower grade level in the federal service.
+
+
+2.
+Specialized Experience is experience that has equipped applicants with the particular knowledge, skills and abilities to successfully perform the duties of the position, and that is typically in or related to the position to be filled. To be creditable, specialized experience must have been equivalent to at least the GS-07 grade level in the federal service. Select the one statement that best describes the experience that you possess that demonstrates your ability to perform the work of an Information Technology Specialist (DATAMGT) at the GS-09 grade level or equivalent in the federal service.
+ I have one year of specialized experience equivalent to the GS-07 level in the federal service which includes: Experience with data modeling, database design, data management, data governance, or data quality concepts; and experience using Structured Query Language (SQL) and at least one programming or scripting language, such as Python, Java, or similar, to query, analyze, transform, or validate data; and experience with software application architecture, application development, system interfaces, Application Programming Interfaces (APIs), Extensible Markup Language (XML)/JavaScript Object Notation (JSON) structures, or data exchange activities.
+ My experience is not reflected in the above statement
+
+
+3.
+Specialized Experience is experience that has equipped applicants with the particular knowledge, skills and abilities to successfully perform the duties of the position, and that is typically in or related to the position to be filled. To be creditable, specialized experience must have been equivalent to at least the GS-09 grade level in the federal service. Select the one statement that best describes the experience that you possess that demonstrates your ability to perform the work of an Information Technology Specialist (DATAMGT) at the GS-11 grade level or equivalent in the federal service
+ I have one year of specialized experience equivalent to the GS-09 level in the federal service which includes: Experience in applying data modeling, database design, data management, data governance, or data quality concepts to support data architecture, database design, data exchange, or data quality activities; and experience using Structured Query Language (SQL) and at least one programming or scripting language, such as Python, Java, or similar, to query, analyze, transform, validate, or troubleshoot data; and experience supporting or analyzing software application architecture, application development, system interfaces, Extensive markup Language (XML)/JavaScript Object Notation (JSON) structures, Application Programming Interfaces (APIs), or data exchange requirements.
+ My experience is not reflected in the above statement.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
