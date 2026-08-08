@@ -1,0 +1,154 @@
+Position Title
+IT Specialist (InfoSec)
+Agency
+Health Resources and Services Administration
+Announcement Number
+HHS-HRSA-IMP-26-13029974 Opens in new window
+Open Period
+Aug 07, 2026 to Aug 17, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Are you a current federal employee displaced from the Department of Health and Human Services? If yes, confirm:
+• You are located in the same local commuting area of the vacancy
+• Your grade is equivalent to or above the grade level of the vacancy AND
+• Your last performance rating of record is at least fully successful or the equivalent.
+
+You will be required to submit supporting documentation to validate your claim of CTAP eligibility such as a Reduction in Force (RIF) separation notice or a Proposed Removal/Separation notice and a copy of your latest Notification of Personnel Action, Standard Form 50 and the most current Performance Appraisal. For more information, review the USAJOBS Resource Center page (https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/federal-employees/ctap/).
+ Yes
+ No
+
+
+2.
+I am a current Department of Health and Human Services (HHS) employee who is serving under a competitive career or career-conditional appointment in the competitive service?   If you are unsure of your eligibility review your latest Notification of Personnel Action (SF-50):  Block 24 -Tenure must be "1 - Permanent" or "2 - Conditional" AND Block 34 - Position Occupied must be "1 -Competitive Service."
+
+**Please note that you must submit documentation (Notification of Personnel Action (SF-50)) to support your eligibility. ** 
+ Yes
+ No
+
+
+3.
+I am a current HHS Employee who meets one of the following requirements for a non-competitive appointment:
+Department of Health and Human Services (HHS) employee who currently holds, or has held a career or career-conditional appointment in the competitive service at the same or higher grade level with the same or higher promotion potential as the position being announced?
+Department of Health and Human Services (HHS) employee who is eligible under the 30% or more compensable disabled veterans eligibility;
+Department of Health and Human Services (HHS) employee who is eligible under the Persons with Disabilities (Schedule A) eligibility;
+Department of Health and Human Services (HHS) employee who is eligible for a Veterans' Recruitment Appointment (VRA) (for positions up to the GS-11 Federal level)
+**Please note that you must submit documentation to support your eligibility.**
+ Yes
+ No
+
+
+4.
+Reasonable Accommodations for taking the online assessments are provided on a case-by-case basis only to qualified individuals with a disability covered by the Rehabilitation Act of 1973, as amended.
+
+Do you have a disability (physical or mental) that you believe will interfere with completing the online assessments and require a Reasonable Accommodation?
+
+ Yes
+ No
+
+
+5.
+Are you a current United States Public Health Service Commissioned Corps Officer or a United States Public Health Service Commissioned Corps Officer candidate?
+
+If yes:
+For current active duty USPHS Commissioned Corps officers, submit a copy of your most recent personnel orders.
+OR
+For USPHS Commissioned Corps candidates, submit documentation from the Division of Commissioned Corps Personnel and Readiness (DCCPR) stating you have successfully completed the professional boarding process.
+ Yes
+ No
+
+
+Merit Hiring Plan
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+
+
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+
+
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+
+
+3.
+How would you help advance the President's Executive Orders and policy priorities in this role? Identify one or two relevant Executive Orders or policy initiatives that are significant to you, and explain how you would help implement them if hired.
+
+
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+
+
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+
+
+Assessment 1
+Thank you for your interest in an IT Specialist (InfoSec)  position with the Federal government.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+1.
+Basic Requirement (IOR): Do you have the IT related experience demonstrating proficiency in each of the following competencies listed below?
+Attention to Detail - Is thorough when performing work and conscientious about attending to detail.
+Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services.
+Decision Making - Makes sound, well-informed, and objective decisions; perceives the impact and implications of decisions; commits to action, even in uncertain situations, to accomplish organizational goals; causes change.
+Information Management - Identifies a need for and knows where or how to gather information; organizes and maintains information or information management systems.
+Interpersonal Skills - Shows understanding, friendliness, courtesy, tact, empathy, concern, and politeness to others; develops and maintains effective relationships with others; may include effectively dealing with individuals who are difficult, hostile, or distressed; relates well to people from varied backgrounds and different situations
+Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately.
+Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations. 
+Reasoning - Identifies rules, principles, or relationships that explain facts, data, or other information; analyzes information and makes correct inferences or draws accurate conclusions.
+Teamwork - Encourages and facilitates cooperation, pride, trust, and group identity; fosters commitment and team spirit; works with others to achieve goals.
+Technical Competence - Uses knowledge that is acquired through formal training or on-the-job experience to perform one's job; works with, understands, and evaluates technical information related to the job; advises others on technical issues. 
+NOTE: Your resume must support your response to this question. Failure to provide sufficient evidence of the required competencies in your resume may result in an ineligible rating.
+ Yes
+ No
+
+
+2.
+Do you have one year (52 weeks) of specialized experience at or equivalent to the GS-13 grade in the Federal service performing the duty below?
+
+Engineering, designing, integrating, and implementing enterprise security operations tools across on-premises, hybrid, and cloud environments, including SIEM, SOAR, EDR, IDS/IPS, and digital forensics platforms, ensuring alignment with defense-in-depth and Zero Trust principles.
+ Yes
+ No
+
+
+3.
+Do you have one year (52 weeks) of specialized experience at or equivalent to the GS-13 grade in the Federal service performing the duty below?
+
+Evaluating, testing, and validating security technologies; translating functional requirements into technical solutions; developing use cases and test plans; overseeing installation, configuration, troubleshooting, and optimization of security tools; and ensuring interoperability across enterprise infrastructure, identity systems, and cloud environments.
+ Yes
+ No
+
+
+4.
+Do you have one year (52 weeks) of specialized experience at or equivalent to the GS-13 grade in the Federal service performing the duty below?
+
+Developing, tracking, and analyzing security operations performance metrics to assess detection quality, operational effectiveness, and process maturity, and making data-driven recommendations to improve SOC capabilities.
+ Yes
+ No
+
+
+5.
+Do you have one year (52 weeks) of specialized experience at or equivalent to the GS-13 grade in the Federal service performing the duty below?
+
+Developing, tuning, and implementing threat detection analytics and cyber defense content; conducting event correlation, adversary technique analysis, network traffic and packet analysis; identifying anomalous activity; and performing trend analysis to identify detection gaps and improve enterprise monitoring coverage.
+ Yes
+ No
+
+
+6.
+Do you have one year (52 weeks) of specialized experience at or equivalent to the GS-13 grade in the Federal service performing the duty below?
+
+Conducting advanced incident response and digital forensics activities including evidence collection and imaging, malware analysis, validation of IDS alerts, identification of exploited vulnerabilities, and analysis of network, cloud, and identity telemetry to determine scope, impact, and remediation strategies.
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
