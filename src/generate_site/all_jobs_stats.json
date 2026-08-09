@@ -1,31 +1,31 @@
 {
   "metadata": {
-    "total_jobs": 248660,
+    "total_jobs": 248671,
     "cutoff_date": "2025-06-01",
-    "generation_date": "2026-08-08T10:15:12.640313"
+    "generation_date": "2026-08-09T09:27:27.566266"
   },
   "by_service_type": {
-    "Competitive": 156896,
-    "Excepted": 90456,
+    "Competitive": 156906,
+    "Excepted": 90457,
     "Senior Executive": 1308
   },
   "by_grade_level": {
     "GS-12": 20675,
     "GS-13": 18394,
     "VN-00": 13375,
-    "GS-11": 13253,
+    "GS-11": 13254,
     "GS-9": 10665,
     "GS-14": 10216,
-    "GS-7": 9312,
+    "GS-7": 9313,
     "GS-6": 8301,
     "VM-15": 6107,
     "GS-9/11": 6092,
     "GS-5": 5652,
     "GS-15": 5407,
     "WG-10": 4560,
-    "NF-2": 4156,
+    "NF-2": 4157,
     "GS-8": 3398,
-    "GS-11/12": 3264,
+    "GS-11/12": 3265,
     "NF-3": 3262,
     "GS-3/6": 3210,
     "GS-3/5": 2648,
@@ -51,15 +51,15 @@
     "Pentagon, Arlington, Virginia": 1103,
     "Philadelphia, Pennsylvania": 1094,
     "San Francisco, California": 1079,
-    "Honolulu, Hawaii": 1069
+    "Honolulu, Hawaii": 1070
   },
   "by_agency": {
     "Department of Veterans Affairs": 83277,
     "Department of the Air Force": 28681,
-    "Department of the Navy": 28676,
-    "Department of Defense": 24093,
+    "Department of the Navy": 28678,
+    "Department of Defense": 24095,
     "Department of the Army": 24013,
-    "Department of Justice": 12849,
+    "Department of Justice": 12856,
     "Department of Homeland Security": 11580,
     "Other Agencies and Independent Organizations": 6658,
     "Department of the Interior": 6124,
@@ -76,7 +76,7 @@
     "Judicial Branch": 637
   },
   "by_occupation": {
-    "0610 - Nurse": 14229,
+    "0610 - Nurse": 14230,
     "0301 - Miscellaneous Administration And Program": 9303,
     "0602 - Medical Officer": 7130,
     "0185 - Social Work": 6325,
@@ -84,15 +84,15 @@
     "0343 - Management And Program Analysis": 5735,
     "0303 - Miscellaneous Clerk And Assistant": 5067,
     "0679 - Medical Support Assistance": 4966,
-    "1101 - General Business And Industry": 4737,
+    "1101 - General Business And Industry": 4738,
     "1702 - Education And Training Technician": 4376,
-    "0189 - Recreation Aid And Assistant": 4375,
+    "0189 - Recreation Aid And Assistant": 4376,
     "0620 - Practical Nurse": 3555,
     "None - Unknown": 3545,
     "0201 - Human Resources Management": 3442,
     "0801 - General Engineering": 3188,
-    "0180 - Psychology": 3182,
-    "0640 - Health Aid And Technician": 2808,
+    "0180 - Psychology": 3183,
+    "0640 - Health Aid And Technician": 2809,
     "0905 - Attorney": 2804,
     "3566 - Custodial Working": 2449,
     "0101 - Social Science": 2420
