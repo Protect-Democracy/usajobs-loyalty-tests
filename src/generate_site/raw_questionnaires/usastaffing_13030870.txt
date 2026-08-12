@@ -1,0 +1,337 @@
+Position Title
+Computer Scientist
+Agency
+Government Publishing Office
+Announcement Number
+26-13030870-DHA-AOA Opens in new window
+Open Period
+Aug 12, 2026 to Sep 02, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+This position is open to All U.S. Citizens (Competitive).  When a job opportunity announcement is open to "All U.S. Citizens", it means that anyone with U.S. Citizenship may apply.  Job seekers may use the  Self-Check through E-Verify https://www.uscis.gov to verify citizenship, if available in their state of residence.  
+ 
+Please note that Status candidates, Status (Merit Promotion), may also elect to be considered under  "All U.S. Citizens (Competitive)". 
+
+Are  you a U.S. Citizen?
+ Yes
+ No
+
+
+Preferences
+Employment of Relatives
+Section 3110 of Title 5, U.S. Code, prohibits a Federal official from appointing, promoting, or advocating the appointment or promotion of a relative in the agency where the official is serving or exercises jurisdiction. In addition, Section 2302(b)(7) of Title 5, U.S. Code, makes it a "prohibited personnel practice" for a person in authority to "appoint, employ, promote, advance, or advocate for the appointment, employment, promotion, or advancement of a relative.
+
+Please respond to the following questions below:
+
+
+1.
+Do you have any relatives working for the Agency for which you are applying?
+ Yes
+ No
+
+
+2.
+If you answered yes to the previous question, please provide the name, relationship, organization employed within, and location if known.
+If you did not answer yes to the previous questions, please state not applicable (N/A) in the text box.
+
+
+3.
+
+If you are a male at least 18 years of age, born after December 31, 1959, have you registered with the Selective Service System (select "Not applicable" if this question does not apply to you)?
+ Yes
+ No
+ No, but I have an approved exemption
+ Not Applicable
+
+
+4.
+If you are a Federal employee, under what type of appointment are you currently serving?
+ Career Appointment, competitive service
+ Career-conditional Appointment, competitive service
+ Career Appointment, Excepted service - Treasury - Office of the Comptroller of the Currency (OCC)
+ Career-Conditional Appointment, Excepted service - Treasury - Office of the Comptroller of the Currency (OCC)
+ Permanent Excepted Service Appointment (Government Accountability Office)
+ Other Excepted Service Appointment (Government Accountability Office)
+ Excepted Service Appointment (other than listed)
+ Temporary (Time-Limited Appointment - not to exceed 1 year or less)
+ Term (Time-Limited Appointment - more than one year, not more than 4 years)
+ Pathways Program (Internship, Recent Graduates, or Presidential Management Fellows)
+ Not Applicable
+
+
+5.
+If you are, or ever were a Federal civilian employee, indicate the pay plan of the highest graded position you have ever held.
+
+
+6.
+If you are, or ever were a Federal civilian employee, indicate the grade level or pay band of the highest graded position you have ever held.
+00
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+Other
+n/a
+
+
+7.
+Are you a retiree receiving a Federal annuity, either military or civilian?
+
+Note: If you are an annuitant, your salary or annuity may be reduced upon employment.
+ Yes
+ No
+
+
+8.
+This position requires that the applicant must submit to a Public Trust Security Background Investigation. Are you willing to submit to a Public Background Investigation?
+ Yes
+ No
+
+
+9.
+Resume Reminder- Your resume must include the following information for each job listed:
+Job title Duties (be as detailed as possible)
+Month & year start/end dates (e.g. June 2007 to April 2008)
+Full-time or part-time status (include hours worked per week)
+Series and Grade, if applicable, for all Federal positions you have held
+Please be aware that your answers will be verified against information provided on your resume. Be sure that your resume clearly supports your responses to all of the questions by addressing your work experience in detail.
+
+Recommended: Even though we do not require a specific resume format, your resume must be clear so that we are able to fully evaluate your qualifications. To ensure you receive appropriate consideration, please list the duties you performed under each individual job title. If we are unable to match your experiences with the positions held, you may lose consideration for this vacancy. We cannot make assumptions regarding your qualifications.
+
+Have you included all of the above information in your resume
+ Yes
+ No
+
+
+This position has requirements which must be met prior to employment; and, conditions for continued employment. Your answers to the questions in this section will indicate your understanding of, or possession of, these requirements and conditions.
+
+
+Assessment 1
+Thank you for applying to the Computer Scientist PG-1550-13 position located in the Government Integrated Print Services at the Government Publishing Office (GPO). You will be evaluated on your responses to the assessment questionnaire; we will then compare them with your resume and supporting documentation. If you rate yourself higher than is supported by your application materials, your responses may be adjusted and/or you may be excluded from consideration for this position. Please Note: Your resume MUST clearly identify the dates that support this experience (month/year), as well as the number of hours per week for each position.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+1.
+BASIC REQUIREMENTS: Bachelor's degree in computer science or bachelor's degree with 30 semester hours in a combination of mathematics, statistics, and computer science. At least 15 of the 30 semester hours must have included any combination of statistics and mathematics that included differential and integral calculus. All academic degrees and coursework must be from accredited or pre-accredited institutions.
+
+Do you possess the above Basic requirements?
+ Yes
+ No
+
+
+2.
+In addition to the basic requirements, applicants must have one year of specialized experience equivalent to the PG-12 level in the Federal service or equivalent experience in other pay systems that equipped the applicant with the knowledge, skills, and abilities to successfully perform the duties of this position. Examples of qualifying specialized experience include:
+
+1) Designing, developing, and implementing complex user interface applications and client-side architectures using modern web technologies, reusable UI(User Interface) component libraries, and component-based development frameworks.
+2) Designing and integrating user assistance features using agentic Artificial Intelligence (AI) capabilities within the .NET technology stack, including integration of web-based clients with AI models through REST APIs and seamless integration with heuristic-based approaches such as XML Schema and Schematron validation to improve the efficiency and accuracy of XML markup and text correction.
+3) Providing technical leadership and guidance on user interface architecture, framework selection, application integration, performance optimization, modernization strategies, and resolution of complex client-side technical issues.
+ I have one year of specialized experience at the next lower grade level PG 12 or higher which includes: 1) Designing, developing, and implementing complex user interface applications and client-side architectures using modern web technologies, reusable UI(User Interface) component libraries, and component-based development frameworks. 2) Designing and integrating user assistance features using agentic Artificial Intelligence (AI) capabilities within the .NET technology stack, including integration of web-based clients with AI models through REST APIs and seamless integration with heuristic-based approaches such as XML Schema and Schematron validation to improve the efficiency and accuracy of XML markup and text correction. 3) Providing technical leadership and guidance on user interface architecture, framework selection, application integration, performance optimization, modernization strategies, and resolution of complex client-side technical issues.
+ I do not meet the specialized experience as described above
+
+
+From the following list of task questions, please select the best response that demonstrates your training and/ or experience related to the work of this position, Computer Scientist PG-1550-13. NOTE: Your resume must display the training or experience stated, or you may be found ineligible. Please select one answer for each task question.
+
+
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+
+
+3.
+Design user interface applications using Microsoft Blazor (Server and/or WebAssembly).
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+4.
+Develop reusable Blazor components that support enterprise application development.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+5.
+Translate user requirements, mockups, or wireframes into responsive user interface components.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+6.
+Develop user interfaces using HTML5, CSS3 (Cascading Style Sheets, Level 3), JavaScript, and modern web development practices.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+7.
+Design user interfaces that comply with accessibility and usability requirements.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+8.
+Design enterprise user interface architectures using reusable component libraries and design systems.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+9.
+Develop CSS (Cascading Style Sheets) architectures that support scalable and maintainable enterprise applications.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+10.
+Implement state management approaches for complex Blazor applications.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+11.
+Design applications that separate presentation, business logic, and service integration.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+12.
+Develop Blazor applications that consume REST APIs (Representational State Transfer Application Programming Interface)
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+13.
+Design service layers used to communicate with backend services.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+14.
+Implement authentication and authorization for web applications.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+15.
+Integrate user interface applications with multiple backend services.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+16.
+Troubleshoot user interface rendering, styling, browser compatibility, or performance issues.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+17.
+Develop solutions to resolve application integration or user interface issues affecting application functionality.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+18.
+Designs and implements user assistance features using current agentic AI capabilities available within the .NET technology stack to improve user efficiency and productivity.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+19.
+Designs AI-assisted user interface functionality that supports users in marking up XML content and correcting text in accordance with established content and style requirements.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+20.
+Integrates AI-powered user assistance seamlessly with existing heuristic-based assistance and validation approaches, including XML Schema and Schematron rules, to provide complementary and consistent user guidance.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+21.
+Integrates web-based client applications with AI models and services accessible through REST APIs, ensuring reliable and effective delivery of AI-powered user assistance within the user experience.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
