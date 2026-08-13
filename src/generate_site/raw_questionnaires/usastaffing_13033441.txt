@@ -1,0 +1,176 @@
+Position Title
+Enterprise Solutions Architect
+Agency
+Offices, Boards and Divisions
+Announcement Number
+26-ADM-JC-029 Opens in new window
+Open Period
+Aug 12, 2026 to Aug 25, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Are you a current or former federal employee displaced from the Department of Justice? 
+To be eligible under CTAP you must meet all of the following:
+You are located in the same local commuting area of this vacancy; AND,
+You are applying to a position that is at (or below) the grade level of the position from which you were (or will) be separated from; AND,
+You are applying to a position that does not have greater promotion potential than the position from which you were (or will be) separated from; AND,
+Your last performance rating of record is at least fully successful, or the equivalent. 
+For more information, review the USAJOBS Help Center...
+
+To verify your eligibility: You must submit appropriate supporting documentation, such as a Reduction in Force (RIF) separation notice or a Proposed Removal/Separation notice, You must submit a copy of your most recent performance appraisal and a copy of your latest Notification of Personnel Action (SF-50) form.
+ Yes
+ No
+
+
+2.
+
+Are you a current or former political appointee?
+
+If you are currently, or have been within the last five (5) years, a political Schedule A, Schedule C, or Non-Career SES employee in the Executive Branch, you must disclose this information to the HR office.
+
+Please note your current or former political appointment on your resume and attach a corresponding Notification of Personnel Action, Standard Form 50 (SF-50) documenting your appointment.
+
+This does not preclude you from being considered for this position. However, there is an additional requirement for the Office of Personnel Management to review your application package if selected.
+
+ Yes
+ No
+
+
+3.
+To verify your eligibility, you must provide appropriate medical documentation, i.e., a letter signed by a licensed medical professional or licensed vocational rehabilitation specialist stating your condition and restrictions.
+
+Do you have an intellectual, psychiatric or severe physical disability that qualifies you for a Schedule A Disability appointment?
+
+For more information, please review USAJOBS Individuals with Disabilities resources.
+ Yes
+ No
+
+
+Assessment 1
+1.
+Applicants must be current DOJ employees with competitive status. You have status if you are a current or former career or career conditional employee in the competitive service. Do you meet the conditions above?
+ Yes, I meet the conditions above.
+ No, I do not meet the conditions above.
+
+
+2.
+To qualify at the GS-15 level, applicants must have one year of specialized experience at, or equivalent to, the GS-14 federal grade level. Examples of specialized experience include: manages an organizations core enterprise systems to include daily patching, maintenance, hardware and software operations, and system changes; plans, develops, implements, maintains, and enhances systems operations during planned migrations; and leads the testing, adoption, integrations, and maintanence of all Department-level enterprise tools and technologies.
+ Yes, I meet the specialized experience requirements described above.
+ No, I do not meet the specialized experience requirements described above.
+
+
+3.
+To qualify for this position, applicants must demonstrate an advanced level of proficiency in the following competencies. Advanced proficiency is defined as applying the competency in considerably difficult situations and generally requires little to no guidance.
+Attention to Detail - Is thorough when performing work and conscientious about attending to detail.
+Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services.
+Decision Making - Makes sound, well-informed, and objective decisions; perceives the impact and implications of decisions; commits to action, even in uncertain situations, to accomplish organizational goals; causes change.
+Information Management - Identifies a need for and knows where or how to gather information; organizes and maintains information or information management systems.
+Interpersonal Skills - Shows understanding, friendliness, courtesy, tact, empathy, concern, and politeness to others; develops and maintains effective relationships with others; may include effectively dealing with individuals who are difficult, hostile, or distressed; relates well to people from varied backgrounds and different situations.
+Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately.
+Teamwork - Encourages and facilitates cooperation, pride, trust, and group identity; fosters commitment and team spirit; works with others to achieve goals.
+ I possess advanced proficiency in all of the competencies described above and it is evidenced in my resume.
+ I do not possess advanced proficiency in all of the competencies listed above.
+
+
+4.
+To qualify for this position, applicants must demonstrate an expert level of proficiency in the following competencies. Expert proficiency is defined as applying the competency is exceptionally difficult situations and serving as a key resources and advising others.
+Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.
+Technical Competence - Uses knowledge that is acquired through formal training or on-the-job experience to perform one's job; works with, understands, and evaluates technical information related to the job; advises others on technical issues.
+ I posses expert level proficiency in all the competencies listed above and this is evidenced in my resume.
+ I do not possess expert level proficiency in all competencies listed above.
+
+
+5.
+Your ratings in this Occupational Questionnaire are subject to evaluation and verification based on the documents and references you submit. Deliberate attempts to falsify or inflate your responses may be grounds for not referring you. Please take this opportunity to review your rating to ensure the accuracy of your answers and that they are supported by your resume. Failure to agree to this statement below will disqualify you from further consideration for the position.
+ Yes, I certify that the information provided in this questionnaire is true, correct and provided in good faith, and I understand the information provided above.
+ No, I do not certify the information provided in this questionnaire is true, correct and provided in good faith.
+
+
+You are strongly encouraged to convert your resume to an Adobe PDF file prior to submitting your application, especially if you are submitting using a Mac system. Resumes not pre-converted to a PDF file will undergo conversion by the system. This conversion process may cause some formatting changes to your resume, including line and page break errors. To ensure your submitted resume does not display with formatting issues, please submit your resume as a PDF. This error does not affect USAjobs resumes.
+
+
+Assessment 2
+1.
+Which federal compliance framework primarily governs security authorization for cloud services used by U.S. government agencies?
+ ISO 9001
+ FedRAMP
+ COBIT 5
+ PMBOK
+
+
+2.
+When integrating enterprise applications with Microsoft 365 GCC High, which consideration is most critical for federal environments?
+ Whether the application supports custom branding
+ Ensuring the app aligns with tenant boundary and identity requirements
+ Availability of public API documentation
+ Ability to export settings to CSV
+
+
+3.
+In federal systems administration, which action best supports continuity during major infrastructure upgrades?
+ Rebuilding all servers from scratch
+ Using phased migration with parallel environments
+ Disabling legacy login systems immediately
+ Replacing on-premises systems with cloud services overnight
+
+
+4.
+When evaluating an enterprise application for use in a federal agency, which factor most strongly determines whether it can handle sensitive data?
+ Support for modern UI widgets
+ A published data retention FAQ
+ Compliance with federal security control families (e.g., NIST 800-53)
+ Availability of 24/7 customer support
+
+
+5.
+Which behavior best demonstrates proper configuration management in federal IT environments?
+ Allowing teams to edit server configurations individually
+ Maintaining authoritative baselines stored in version-controlled repositories
+ Using spreadsheets to track server names and IP addresses
+ Resetting configurations during every maintenance cycle
+
+
+6.
+In enterprise architecture decisions, which factor most influences whether a workload should remain on-premise rather than move to a federal cloud?
+ The marketing material provided by the cloud vendor
+ The physical location of the cloud provider’s headquarters
+ Existing system interdependencies and required control inheritance
+ The number of active users
+
+
+7.
+Which practice best ensures secure identity management in a hybrid federal environment?
+ Using separate credentials for cloud and on-premise resources
+ Allowing cloud services to manage all authentication without federation
+ Implementing federated identity with strong MFA tied to PIV or derived credentials
+ Relying on username-only login for legacy apps
+
+
+8.
+When assessing contractor performance on a federal IT operations contract, which indicator is most meaningful?
+ Contractor team size
+ Number of slide decks delivered
+ Compliance with SLA-defined system performance and security metrics
+ Contractor’s marketing reputation
+
+
+9.
+In federal application lifecycle management, which practice most improves audit readiness and traceability?
+ Storing deployment steps only in team chat
+ Using ad-hoc update methods
+ Maintaining detailed change logs integrated with an enterprise ticketing and approval process
+ Reusing the same deployment scripts for all applications
+
+
+10.
+When managing highly regulated federal workloads, what is the most important reason to centralize logging and monitoring?
+ It simplifies the dashboard design
+ It reduces the number of servers needed
+ It enables correlation of security events across systems
+ It prevents log files from growing too large
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
