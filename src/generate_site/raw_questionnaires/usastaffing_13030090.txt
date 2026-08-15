@@ -1,0 +1,295 @@
+Position Title
+AGENDA DOCUMENT ANALYST
+Agency
+Federal Energy Regulatory Commission
+Announcement Number
+FERC-OSEC-MPF-26-13030090 Opens in new window
+Open Period
+Aug 14, 2026 to Aug 20, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+
+Are you currently an employee of the Federal Energy Regulatory Commission (FERC) in the competitive service?
+
+To confirm your eligibility, you can view your last SF-50 in your eOPF and confirm that your Tenure code in Block 24 is either "1-Permanent" or "2-Conditional" AND Block 34- Position Occupied must show "1-Competitive Service." 
+
+ 
+
+ Yes
+ No
+
+
+Preferences
+1.
+Select the option that best reflects how you first learned about this vacancy.
+ A job search platform (not USAJobs)
+ Referral from a FERC employee
+ University or Professional Career Fair
+ FERC Careers on Social Media (LinkedIn, X, Facebook and/or Instagram)
+ FERC Website (www.FERC.gov)
+ Email from a FERC Recruiter
+ USAJOBS Search
+ Other
+
+
+2.
+Based on your selection above, please provide additional information (which website, name of the FERC employee, which career fair, which social media page, etc).
+
+
+3.
+I understand submission of supporting documentation, e.g., transcripts, DD 214, CTAP/ICTAP documentation, may be required for this position. I also understand that my application will not be considered if the required supporting documentation is not submitted or is not submitted in accordance with the time frames indicated in the announcement.
+ Yes
+ No
+
+
+4.
+Are you currently an employee of the Federal Energy Regulatory Commission (FERC)?
+ Yes
+ No
+
+
+5.
+In the last five years, based on the closing date of this announcement, have you been or are you currently an employee in the Executive Branch serving on a political, Schedule C, or Non-career SES Appointment? If yes, and you are selected through this announcement, you may be required to obtain approval by the Office of Personnel Management (OPM) prior to beginning employment.
+ Yes
+ No
+
+
+6.
+Does the Federal Energy Regulatory Commission employ any member of your family? Family is defined as: father, mother, son, daughter, brother, sister, uncle, aunt, first cousin, nephew, niece, husband, wife, father-in-law, mother-in-law, son-in-law, daughter-in-law, brother-in-law, sister-in-law, stepfather, stepmother, stepson, stepdaughter, stepbrother, stepsister, half brother, or half sister.
+ Yes
+ No
+
+
+7.
+Please provide the name, relationship, organization in which employed, and location if known.
+
+
+8.
+Are you a retiree receiving a civilian Federal annuity?
+
+(Note: If you are an annuitant, your salary or annuity may be reduced upon employment.)
+ Yes
+ No
+
+
+9.
+Have you accepted a buyout from a Federal agency within the past 5 years?
+ Yes
+ No
+
+
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+
+
+10.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+
+
+11.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+
+
+12.
+How would you help advance the President's Executive Orders and policy priorities in this role? Identify one or two relevant Executive Orders or policy initiatives that are significant to you, and explain how you would help implement them if hired.
+
+
+13.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+
+
+14.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+
+
+Assessment 1
+Select the choice that best describes your specialized experience:
+
+
+1.
+You must have one full year of specialized experience at or equivalent to the GS-12 level. Select the choice that best describes your specialized experience:
+
+Specialized experience is defined as: Experience reviewing complex documents for accuracy; applying federal laws, regulations, and agency policies; coordinating regulatory workflows with multiple stakeholders; evaluating and improving business processes; using automated document management systems; and providing technical guidance on organizational procedures.
+ 
+ I have one full year (52 weeks) or more of specialized experience equivalent in responsibility and scope to the GS-12 level as described above.
+ I do not have one full year of specialized experience equivalent to the definition as described above.
+
+
+1a.
+In reference to the specialized experience statement, please indicate the time frame and employer(s) in your resume that supports your answer (e.g. 12/10/90 - 2/4/93 Department of Energy). Enter NA if not applicable.
+
+
+Assessment 2
+1.
+What is the primary function of Virtual Agenda+?
+ A. Managing staff assignments
+ B. Filing orders electronically and recording votes on draft orders
+ C. Scheduling Commission meetings
+ D. Tracking staff
+ E. None of the above
+
+
+2.
+A Commissioner's Assistant is seeking information on his/her Commissioner's voting history.  Which is the best approach to address this request?
+ Direct them to IT support to generate a report
+ Do searches in PowerBI and/or Publish Issuance Workflow (PIW)
+ Suggest that they use their office’s vote tracker
+ Search for voted orders in eLibrary
+ None of the above
+
+
+3.
+Which of the following approaches represents the most optimal path for a utility to receive and verify a finalized FERC order once it is published?
+ Review of the formal legal service copy emailed directly to the company’s registered corporate official
+ Download the order from a premium, verified third-party legal database (like Westlaw or LexisNexis)
+ Set up an eSubscription notification for the specific docket to receive an instant alert
+ Log into the FERC eLibrary portal immediately after a Commission Open Meeting or periodically for notational items
+ None of the above
+
+
+4.
+At the Open Meeting, the Commissioners unanimously vote in favor of Utility Company B imposing a rate increase for transmission service.  A party to the proceeding files a timely request for rehearing for which staff prepares a "Notice of Denial of Rehearing by Operation of Law and Providing for Further Consideration." 
+
+ Issue the notice within 3 business days of receipt
+ Circulate the notice to the Commissioners for vote and then issuance
+ Issue the notice on 31st day after the rehearing request was filed
+ Hold the notice for issuance after the order providing for further consideration is voted out and issued
+ None of the above
+
+
+5.
+After entering a Commissioner's "concur" vote in Virtual Agenda+, a Commissioner's Assistant sends, for inclusion in the order, a separate statement that states "Commissioner X, dissenting".  What should you do?
+ Submit the order for Secretary review and issuance with the provided statement attached because the vote has already been entered
+ Contact the OEMR staff to verify if the vote entered is correct
+ Submit the order for Secretary review without the provided statement because it is inconsistent with the official vote in virtual agenda
+ Change the vote in Virtual Agenda+ to match the statement because the statement was received after the vote was entered
+ None of the above
+
+
+6.
+While reviewing a Commission-voted order before issuance, you notice that a footnote inserted in the final revised version of the order appears to be inconsistent with the associated determination in the text of the order.
+
+What is the BEST course of action?
+ Return the order to the original Office of the General Counsel (OGC) staff member to verify if the citation is correct before sending the order for Secretary review
+ Share your observations about the potential discrepancy with the Agenda Group manager for guidance in case the inconsistency would require a revised version of the order to be filed and revoted
+ Ask the Legal Resources and Review team to verify the citation
+ Submit the order for Secretary review because the citation was already reviewed by program office leadership and the Commissioners’ Assistants
+ None of the above
+
+
+7.
+You discover that an order that has been scheduled but not yet circulated for voting has a requested-by action date during the blackout period before the upcoming Commission Open Meeting.
+
+What would be the best way to proceed?
+ Notify the Agenda Group Manager about the requested-by action date and seek guidance on next steps.
+ Leave the order as scheduled since staff not OSEC is responsible for scheduling.
+ Notify OGC staff about the requested-by action date and confirm if the action date should be changed
+ Proactively reschedule the item for a date after the blackout period
+ None of the above
+
+
+8.
+You discover that an attachment referenced in and listed as an appendix to an order that has been voted out by all Commissioners is missing.
+
+What is the BEST course of action before issuing the order?
+ Remove all references to the attachment because it was not included when the order was submitted for review and voting by the Commissioners
+ Submit the order for Secretary review because the attachment can be added later
+ Ask another Team Lead if they think the attachment is important and needs to be included before issuance
+ Check with the team lead to confirm if the attachment is required for issuance before submitting the order for Secretary review
+ None of the above
+
+
+9.
+The time that it takes for Agenda analysts to review and prepare draft orders for the monthly Commission Open Meeting has been increasing over several months. 
+
+As Team Lead what should you do?
+ Continue current procedures because the increase is likely an anomaly and processing times should eventually stabilize
+ Evaluate workflow data to identify the factors that may be causing processing times to increase and implement changes to the procedures
+ Start processing more orders yourself so the analysts will not have as many orders to review and prepare
+ Revise the procedures to remove some of the quality review steps so that the analysts can process the order faster
+ None of the above.
+
+
+10.
+In response to your email to the Commissioners' offices regarding three draft orders that have statutory deadlines of today, four of the five offices responded that votes will be cast no later than 5:00 pm.
+
+What is the most effective next step to get feedback from other office?
+ Consult with Agenda Group manager for guidance
+ Email the Commissioner directly to let him or her know the vote needs to be cast today
+ Wait until 5:30 pm to see if the last office will enter a vote
+ Notify the Chairman’s Office to seek their assistance in receiving a response from the last office
+ None of the above
+
+
+11.
+A Commissioner's Assistant emails the Agenda Group noting that Virtual Agenda+ will not allow the assignment of orders to some of the other assistants in the office.  
+
+As Team Lead what is the first step you should take?
+ Notify the other Commissioners’ Assistants of the issue for their awareness
+ Contact IT Support to notify them of the issue, to determine when it will be resolved, and to identify possible alternatives means of assigning the orders
+ Raise concern with OSEC leadership
+ Reply to the Commissioner’s Assistants that he/she should assign the orders only to assistants who are not affected by the issue
+ None of the above
+
+
+12.
+The day before the Commission Open Meeting, the Chairman's Office notifies OSEC that two agenda items listed on the Sunshine Act Notice will be stricken and not voted on at the Open Meeting.
+
+What is the first thing that you need to do?
+ Draft and submit to the Secretary reviewer a Notice of Change in Meeting for issuance before the Open Meeting
+ Notify the Secretary/Deputy Secretary that the items have been stricken and that notice needs to be provided at the Open Meeting
+ Since there is a change in the items that the Commission will vote on at the meeting seek the Commissioners’ votes on a Notice of Change in Meeting to waive the Sunshine Act’s prior notice requirement
+ Have the Agenda analyst remove them from the agenda in Virtual Agenda+
+ None of the above
+
+
+13.
+Several docketed proceedings that are scheduled for notational vote have a statutory action deadline of today.
+
+What strategic oversight is most appropriate in managing the allocation, coordination, and balancing of the workload to ensure that the statutory deadline will be met?
+ Assign each Agenda analyst an equal number of notational items so that no one analyst is overburdened
+ Assign the notational items in the order that they are voted out
+ Establish priorities based on workload, complexity, available resources, and organizational priorities
+ Delay allocating the most complex notational items until additional staff become available
+ None of the above
+
+
+14.
+You have been delegated to represent OSEC on a special project to upgrade the Commission's automated systems, which may impact order processing.
+
+What would be your primary focus when you first assume in this role?
+ To ensure that the IT development team has a clear understanding of OSEC’s critical requirements for the systems
+ To engage in systems testing and validation
+ To assess how any proposed upgrades would affect OSEC’s order processing and business procedures
+ To inform OSEC leadership of the project’s progress and any risks
+ None of the above
+
+
+15.
+A Commissioner's Assistant contacts you about issues logging his/her Commissioner's votes.
+
+What should you do?
+ Let the assistant know that no immediate action is needed since the statutory deadline is five days away
+ Notify the Agenda Group Manager of the issue and confirm that you should log the vote in Virtual Agenda+ on Commissioner’s behalf
+ Contact IT support staff to make them aware of the problem
+ Notify OSEC leadership before taking any action
+ None of the above
+
+
+16.
+Management requests your leadership communicating, coordinating and prioritizing projects that must be completed before the Commission's Open Meeting. 
+
+What is the first step that you should take to support a seamless Open Meeting?
+ Prepare Sunshine Act Notice in collaboration with Chairman’s Office
+ Generate the agenda item numbers for Electric, Gas, Hydro, Certificates and Miscellaneous items scheduled for the meeting
+ Communicate to relevant OSEC and other office staff the “fast track” items to be processed and issued once the Commissioners have voted at the Open Meeting.
+ Verify that OGC schedulers have completed scheduling items for the meeting and verify that all required information is included in Virtua Agenda+
+ None of the above
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙

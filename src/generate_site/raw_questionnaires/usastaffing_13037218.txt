@@ -1,0 +1,146 @@
+Position Title
+IT SPEC (PLCYPLN)
+Agency
+Air National Guard Units
+Announcement Number
+MS-13037218-AF-26-063 Opens in new window
+Open Period
+Aug 13, 2026 to Aug 27, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Current Army M-Day and current Air DSG members within the state for which you are applying.  Are you a current Army M-Day or current Air DSG member within the state for which this position is being advertised?
+ Yes
+ No
+
+
+Assessment 1
+INSTRUCTIONS: THIS POSITION REQUIRES MILITARY MEMBERSHIP IN THE MISSISSIPPI AIR NATIONAL GUARD. Please answer the following questions by selecting the appropriate response(s). NOTE: Applicants are responsible for claiming their appropriate eligibility/eligibilities. We are not responsible for erroneous eligibilities that you list or those you fail to list.  Ensure you thoroughly read the instructions for each section.
+
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+1.
+Are you currently a guard member of the Mississippi Air National Guard?
+ Yes
+ No
+
+
+2.
+Do you possess experience, education or training that has provided a basic knowledge of data processing functions and general management principles that enabled the applicant to understand the stages required to automate a work process. Experience may have been gained in work such as computer operator or assistant, computer sales representative, program analyst, or other positions that required the use or adaptation of computer programs and systems?
+ Yes
+ No
+
+
+3.
+Do you have at least 36 months experience, education, or training that approaches techniques and requirements appropriate to an assigned computer applications area or computer specialty area in an organization. Experience planning the sequence of actions necessary to accomplish the assignment where this entailed coordination with others outside the organizational unit and development of project controls. Experience that required adaptations of guidelines or precedents to meet the needs of the assignment. Experience preparing documentation on cost/benefit studies where is involved summarizing the material and organizing it in a logical fashion?
+ Yes
+ No
+
+
+4.
+If you answered yes to above question, please list the dates on your resume that support your 36 months of specialized experience.
+
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+5.
+Do you understand that failure to provide hours worked per week along with dates of employment (month/year or month/year to present) salary and job duties performed on your resume will disqualify your application?
+EXAMPLE:
+ABC ENTERPRISES: $55,000 per year; 40 hours per week, January 2001-July 2009 or January 2001-present........DETAILED description of your experience and qualifications
+NOTE: UPDATE YOUR RESUME TO INCLUDE THIS INFORMATION. RESUME MUST BE SUBMITTED IN PDF DOCUMENT FORMAT.
+
+Simply writing: IT, April 2001-present; is not sufficient to qualify your resume. Your resume must be detailed.
+
+ Yes
+ No
+
+
+6.
+Please list your current military grade/rank.
+
+
+
+7.
+Please list all of your military AFSC/MOS.
+
+
+
+INSTRUCTIONS: Respond to all the questions below. For each question, choose the response below that best describes your experience and/or training. Please select only one letter for each item. Please note that your answers will be verified against the information you provide in your resume or application and information your references provide.
+
+
+
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+
+
+8.
+Expert knowledge of IT and communications system architecture, integration techniques, system analysis, and testing methods. Knowledge of a wide range of IT principles, concepts, methods, advancements, policies, design, development, testing and applications, both hardware and software sufficient to assess the organization's IT business requirements. Knowledge of the principles of information assurance, network security, and techniques to ensure serviceability, safe operation, proper configuration, accountability, and sustainability of systems to meet mission requirements. Knowledge of computer security concepts to guarantee authenticity and confidentiality of digital communications messages and transmissions, communication security principles, infrastructure security concepts, cryptography, access controls, attack prevention, encryption key generation and use, as well as operational and organizational security.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+9.
+Knowledge of emerging technologies, reviews technical periodicals, publications, commercial standards, and attends seminars. Knowledge of a wide range of communications concepts, principles, and practices. Work encompasses complex and uncommon interfaces and policies and practices; sources of technical data to evaluate new devices, proposals, and approaches; and a practical understanding of contracting procedures and legal requirements. Knowledge of DoD and Air Force communications regulations, services, and instructions to ensure telecommunications services are in compliance with applicable regulations and instructions.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+10.
+Knowledge of operational and performance characteristics of telecommunications to develop procedures/policies/practices for local use. Knowledge of commonly used practices, guides, and a broad range of operating techniques concerning both standard and unique communications systems design installation and concept of operations.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+11.
+In-depth knowledge in conducting interviews and evaluations, analyzing findings, and developing recommendations for corrections or improvements in the evaluated program. In-depth knowledge of organization mission, objectives, and current processes, for preparation of IT policy and plans. Knowledge of Air Force (USAF) and Air National Guard (ANG) policies, procedures, regulations, and precedents. Knowledge of AF and ANG personnel, training and administrative programs, principles, and practices.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+12.
+Knowledge and skill in preparing and presenting findings and making recommendations through written and oral presentations. Ability to work closely with management officials to ensure seamless implementation of systems; identify and anticipate server performance, availability, capacity, or configuration problems; resolve installation problems; identify and mitigate security vulnerabilities and risks; and maintain server integrity and availability.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+13.
+Ability to modify existing systems and relate all aspects of the work to overall system requirements, advise on and implement new technology, and offer alternative approaches in operating systems development and/or problem resolution.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+14.
+I certify that, to the best of my knowledge and belief, all of the information included in this questionnaire is true, correct and provided in good faith. I understand that if I make an intentional false statement or commit deception or fraud in this application or its supporting materials, or in any document or interview associated with the examination process, I may be fined or imprisoned (18 U.S.C 1001); my eligibilities may be canceled; I may be denied an appointment; or I may be removed and debarred from Federal Service (5 C.F.R Part 731). I understand that any information I give may be investigated. I understand that responding "No" to this item will result in my not being considered for this position.
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
