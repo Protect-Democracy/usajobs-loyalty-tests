@@ -1,11 +1,11 @@
 {
-  "created_at": "2026-08-15T07:23:53.059896",
+  "created_at": "2026-08-16T07:27:09.438855",
   "row_counts": {
     "current_jobs_2025.parquet": 87401,
     "historical_jobs_2026.parquet": 157283,
     "current_jobs_2024.parquet": 584,
     "historical_jobs_2025.parquet": 159805,
-    "current_jobs_2026.parquet": 138151,
+    "current_jobs_2026.parquet": 138156,
     "historical_jobs_2024.parquet": 367186
   },
   "job_ids": {
@@ -543241,7 +543241,12 @@
       "880624300",
       "880629800",
       "880661600",
-      "880710600"
+      "880710600",
+      "880782000",
+      "880781400",
+      "880785800",
+      "880786000",
+      "880785400"
     ],
     "historical_jobs_2024.parquet": [
       "767342200",
