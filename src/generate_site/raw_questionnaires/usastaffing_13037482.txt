@@ -1,0 +1,145 @@
+Position Title
+IT Specialist (NETWORK)
+Agency
+Office of Personnel Management
+Announcement Number
+26-TAL-13037482-DH Opens in new window
+Open Period
+Aug 17, 2026 to Aug 21, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+Are you a current employee of the Office of Personnel Management (OPM) who meets the definition of surplus or displaced from a position in the competitive service? If yes, confirm you meet all of the following requirements:
+You are located in the same local commuting area of the vacancy;
+Your grade is equivalent to or below the grade level of the vacancy; 
+Your last performance rating of record is at least fully successful or the equivalent.
+ Yes
+ No
+
+
+3.
+Are you a current or former federal employee who meets the definition of displaced (CFR 330.702)  from a position in the competitive service from a Federal agency?  If yes, confirm you meet all of the following requirements:
+ 
+You are located in the same local commuting area of the vacancy;
+Your grade is/was equivalent to or above the grade level of the vacancy; 
+Your last performance rating of record is at least fully successful or the equivalent;
+It has been less than a year from your separation from Federal service (see ICTAP eligibility period CFR 330.708.)
+ Yes
+ No
+
+
+4.
+Reasonable Accommodations for taking the online assessments are provided on a case-by-case basis only to qualified individuals with a disability covered by the Rehabilitation Act of 1973, as amended.
+
+Do you have a disability (physical or mental) that you believe will interfere with completing the online assessments and require a Reasonable Accommodation?
+
+ Yes
+ No
+
+
+Preferences
+1.
+Select the location(s) you want to be considered for. You must choose at least one location.
+ A. Washington, DC
+ B. Macon, GA
+ C. Boyers, PA
+
+
+2.
+Select the lowest grade you are willing to accept for this position.
+9
+11
+
+
+Short Essay Questions
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+
+
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+
+
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+
+
+3.
+How would you help advance the President's Executive Orders and policy priorities in this role? Identify one or two relevant Executive Orders or policy initiatives that are significant to you, and explain how you would help implement them if hired.
+
+
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+
+
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+
+
+Assessment 1
+Select “Yes” or “No” to the following question(s).
+
+
+1.
+Do you have one year of specialized experience equivalent to at least the GS-07 grade level or pay band in the Federal service (or equivalent) which includes all of the following:
+- Supporting the operation, maintenance, and troubleshooting of enterprise LAN/WAN infrastructure and related network services;
+- Performing routine network analysis, monitoring, and troubleshooting activities using established procedures and escalating non-routine issues; and
+- Assisting with the implementation of network hardware, software, VPN, or remote access changes and validating operational functionality; and
+- Developing and updating technical documentation, operating procedures, or reference materials, and assisting with the preparation of network performance and utilization reports.
+ Yes
+ No
+
+
+2.
+Select the one statement that best describes how you meet the competencies requirements for the Information Technology (IT) Management Series 2210 at the GS-09 grade level:
+ I have Information Technology related experience demonstrating each of the following required competencies, and meet or exceed the minimum proficiency level for each: Attention to Detail (Level 3, Intermediate), Customer Service (Level 3, Intermediate), Interpersonal Skills (Level 3, Intermediate), Reasoning (Level 2, Basic), Teamwork (Level 3, Intermediate). (You must support this experience in your resume.) Please refer to the job announcement for definitions and further details on each competency listed and the minimum proficiency levels required.
+ I do not fully meet the competency requirements outlined above but I am nonetheless demonstrably well qualified to perform the work of this position. I have appropriate licensure, registration, or certification (Examples include: CompTIA Network+, CompTIA Security+, Cisco CCNA, Cisco CCNP, Juniper JNCIA, Palo Alto Networks PCNSA, AWS Certified Advanced Networking, Microsoft Certified: Azure Network Engineer Associate, ITIL, or other networking, cloud, cybersecurity, or enterprise IT certification). You must provide copies of the licensure, registration, or certification.
+ I do not fully meet the competency requirements outlined above but I am nonetheless demonstrably well qualified to perform the work of this position. I have a substantial record of experience, achievement, and publications that demonstrates eminence in the appropriate profession/technical field. You must provide examples such as published works, industry keynotes, peer research, awards, board memberships, etc.
+ I do not have any of the Information Technology related experience described above.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+3.
+Do you have one year of specialized experience equivalent to at least the GS-09 grade level or pay band in the Federal service (or equivalent) which includes all of the following:
+- Analyzing, implementing, and supporting enterprise LAN/WAN network services, including updates and enhancements to network infrastructure;
+- Performing analysis and troubleshooting of network performance and connectivity issues and recommending corrective actions; and
+- Implementing or supporting VPN technologies (such as IPSEC, remote access, point-to-point, or bulk encryption) for internal or interagency connections; and
+- Drafting operating procedures, technical documentation, implementation plans, or LAN/WAN reports for network services; and
+- Evaluating the performance of LAN, WAN, VPN, or virtualized network environments and recommending changes to improve security, availability, resiliency, or performance.
+ Yes
+ No
+
+
+4.
+Select the one statement that best describes how you meet the competencies requirements for the Information Technology (IT) Management Series 2210 at the GS-11 grade level:
+ I have Information Technology related experience demonstrating each of the following required competencies, and meet or exceed the minimum proficiency level for each: Attention to Detail (Level 3, Intermediate), Customer Service (Level 3, Intermediate), Interpersonal Skills (Level 3, Intermediate), Problem Solving (Level 3, Intermediate), Teamwork (Level 3, Intermediate), Technical Competence (Level 3, Intermediate). (You must support this experience in your resume.) Please refer to the job announcement for definitions and further details on each competency listed and the minimum proficiency levels required.
+ I do not fully meet the competency requirements outlined above but I am nonetheless demonstrably well qualified to perform the work of this position. I have appropriate licensure, registration, or certification (Examples include: CompTIA Network+, CompTIA Security+, Cisco CCNA, Cisco CCNP, Juniper JNCIA, Palo Alto Networks PCNSA, AWS Certified Advanced Networking, Microsoft Certified: Azure Network Engineer Associate, ITIL, or other networking, cloud, cybersecurity, or enterprise IT certification). You must provide copies of the licensure, registration, or certification.
+ I do not fully meet the competency requirements outlined above but I am nonetheless demonstrably well qualified to perform the work of this position. I have a substantial record of experience, achievement, and publications that demonstrates eminence in the appropriate profession/technical field. You must provide examples such as published works, industry keynotes, peer research, awards, board memberships, etc.
+ I do not have any of the Information Technology related experience described above.
+
+
+5.
+Failure to agree or respond to the statement below will disqualify you from further consideration for this position.
+
+ Yes, I verify that all of my responses to this questionnaire are true and accurate. I accept that if my supporting documentation (required documents) and/or later steps in the selection process do not support one or more of my responses to the questionnaire that my application may be rated lower and/or I may be removed from further consideration.
+ No, I do not accept this agreement and I no longer wish to be considered for this position.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
