@@ -1,0 +1,206 @@
+Position Title
+IT Specialist (Security)
+Agency
+Administrative Office of the U.S. Courts
+Announcement Number
+26-CIO-13039715 Opens in new window
+Open Period
+Aug 17, 2026 to Aug 31, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+Are you a veteran who separated from active duty under honorable conditions and you: 
+
+• have a rating by the Department of Veterans Affairs showing a compensable service-connected disability of 10% or more OR
+• retired from active military service with a service-connected disability rating of 10% or more (**TP or 5 point veterans please do not answer 'yes' to this question.**)
+
+If eligible, submit a copy of your latest Certificate of Release or Discharge from Active Duty, DD-214 (copy indicating character of service) or other proof of your service which includes character of service. Please also provide the disability letter from the Department of Veterans Affairs or Armed Service and the Application for 10-Point Veteran Preference, Standard Form 15.
+
+For more information, review USAJOBS Veterans resources.
+ Yes
+ No
+
+
+3.
+Are you a current employee of the AO or the Federal Judiciary?
+ Yes
+ No
+
+
+4.
+Are you a current or former Federal employee?
+
+All applicants outside of the AO must submit a copy of your latest Notification of Personnel Action (SF-50) to verify current or former Federal employment status.
+ Yes
+ No
+
+
+Assessment 1
+Thank you for your interest in an Information Technology Specialist (Security) position with the federal government. Applicants must have demonstrated experience as listed below. This requirement is according to the AO Classification, Compensation, and Recruitment Systems which include interpretive guidance and reference to the OPM Operating Manual for Qualification Standards for General Schedule Positions.
+
+WHEN MANDATORY NARRATIVE RESPONSES ARE REQUIRED, PLEASE DO NOT DUPLICATE INFORMATION YOU HAVE ALREADY PROVIDED IN YOUR RESUME AS A RESPONSE TO THIS QUESTION. WE ARE SEEKING AN ELABORATION OF THOSE DUTIES AND SKILLS YOU HAVE MENTIONED WHICH ADDRESS THE QUESTION MORE FULLY. THIS IS YOUR OPPORTUNITY TO EXPAND ON YOUR EXPERIENCE AND/OR EDUCATION AS IT RELATES TO THE QUESTION. FAILURE TO DO THIS WILL RESULT IN YOUR BEING CONSIDERED AS INELIGIBLE.
+
+
+1.
+Applicants must have at least one full year (52 weeks) of specialized experience which is in or directly related to the line of work of this position. Specialized experience is demonstrated experience in ALL of the following:
+Conducting advanced static and dynamic malware analysis to identify malicious functionality, persistence mechanisms, execution flow, command-and-control behavior, and attacker tradecraft across enterprise systems.
+Reverse engineering and analyzing malicious code, scripts, memory artifacts, and suspicious binaries to support incident response, forensic investigations, detection development, and threat attribution activities.
+Analyzing structured and unstructured data sources, including logs from enterprise and custom applications, to detect, investigate, and support response to suspicious or malicious activity.
+ Yes, I have one year of specialized experience which is in or directly related to the line of work of this position.
+ No, I do not possess the specialized experience described above.
+
+
+2.
+In the space provided below, please list the time periods and employers on your resume where your specialized experience can be verified.
+
+THIS IS A MANDATORY REQUIREMENT. Please limit your response to 250 characters or less.
+
+
+3.
+If A is selected for Question 1 above, provide a narrative statement in the space below describing your experience analyzing structured and unstructured data sources (e.g., logs, endpoint telemetry, application data) and conducting malware analysis. Include tools used, types of artifacts analyzed (file systems, memory, logs), and how your findings supported incident response or investigative outcomes.
+
+THIS IS A MANDATORY REQUIREMENT. Please limit your response to 1,000 characters or less.
+
+
+4.
+If A is selected for Question 1 above, provide a narrative statement in the space below describing a specific example where you performed reverse engineering or deep forensic analysis to identify malware behavior, persistence mechanisms, or hidden artifacts. Include your methodology, tools, and how your analysis contributed to detection, remediation, or attribution.
+
+THIS IS A MANDATORY REQUIREMENT. Please limit your response to 1,000 characters or less.
+
+
+For each item, select the one response that most accurately describes your current level of experience and capability using the scale below.
+
+
+5.
+Which level description best describes your experience performing advanced static and dynamic malware analysis to determine functionality, behavior, and malicious intent?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+6.
+Which level description best describes your experience reverse engineering malicious executables, installers, and payloads to identify execution flow, persistence mechanisms, and embedded capabilities?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+7.
+Which level description best describes your experience conducting sandboxing, debugging, and runtime analysis (e.g., analyzing VirtualAlloc, VirtualProtect, process injection techniques)?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+8.
+Which level description best describes your experience conducting forensic analysis of file systems (e.g., NTFS, FAT, Linux) and identifying artifacts related to malware execution, persistence, and user activity?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+9.
+Which level description best describes your experience conducting live system and memory forensic analysis to identify malware execution, persistence, and post-exploitation activity?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+10.
+Which level description best describes your experience identifying, validating, and correlating indicators of compromise derived from malware analysis with endpoint, network, and log data?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+11.
+Which level description best describes your experience analyzing command-and-control mechanisms, encryption, obfuscation, and evasion techniques used by malware?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+12.
+Which level description best describes your experience producing detailed forensic and malware analysis reports and translating findings into actionable intelligence for incident response teams and leadership?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+
+
+13.
+Which of the following best describes your years of experience performing malware analysis?
+ 7 years or more
+ 4-7 years
+ 1-4 years
+ None of the above
+
+
+14.
+Which of the following best describes your years of experience in digital forensics?
+ 7 years or more
+ 4-7 years
+ 1-4 years
+ None of the above
+
+
+15.
+Select all certifications applicable to you:
+ A. GCFE
+ B. GCFA
+ C. GREM
+ D. GNFA
+ E. GASF
+ F. CHFI
+ G. CFCE
+ H. ACE
+ I. EnCE
+ J. CISM
+ K. CISSP
+ L. Other equivalent certification
+ M. None of the above
+
+
+16.
+If you selected "Other equivalent certification," list the certification(s) you possess.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+17.
+I understand that failure to provide a written statement ("See Resume" or other non-descriptive response is not sufficient) for each essay question could result in non-consideration for this position.
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
