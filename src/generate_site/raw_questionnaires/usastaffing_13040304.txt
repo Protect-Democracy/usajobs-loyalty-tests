@@ -1,0 +1,214 @@
+Position Title
+IT Specialist (Enterprise Architecture)
+Agency
+National Oceanic and Atmospheric Administration
+Announcement Number
+NOS-26-13040304-DE Opens in new window
+Open Period
+Aug 19, 2026 to Aug 25, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+Are you a current Department of Commerce employee who meets the definition of surplus or displaced definition of surplus or displaced  from a position in the competitive service that makes you eligible under the Career Transition Assistance Plan (CTAP)?  Note: You are required to submit supporting documentation as proof of eligibility.
+
+If yes, please confirm that you meet all the following eligibility requirements:
+This position is in the same local commuting area as the position of record from which you will be separated; and
+This position is at a grade level no higher than the grade of the position of record from which you will be separated; and
+This position has no greater promotion potential than the position of record from which you will be separated; and
+You have a current performance rating of record of at least fully successful or the equivalent; and 
+You have not yet been separated. 
+ Yes
+ No
+
+
+3.
+Are you a current or former employee of a Federal agency who meets the definition of surplus or displaced from a position in the competitive service from a Federal agency outside of the Department of Commerce that makes you eligible under the Interagency Career Transition Assistance Plan (ICTAP)?  Note: You are required to submit supporting documentation as proof of eligibility.
+
+If yes, please confirm that you meet all the following eligibility requirements:
+This position is in the same local commuting area as the position of record from which you were separated; and 
+This position is at a grade level no higher than the grade of the position of record from which you were separated; and 
+This position has no greater promotion potential than the position of record from which you were separated; and
+Your last performance rating of record was at least fully successful or the equivalent; and
+You were separated from your position of record less than one (1) year ago.
+ Yes
+ No
+
+
+Merit Hiring Plan
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+
+
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+
+
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+
+
+3.
+How would you help advance the President's Executive Orders and policy priorities in this role? Identify one or two relevant Executive Orders or policy initiatives that are significant to you, and explain how you would help implement them if hired.
+
+
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+
+
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+
+
+Assessment 1
+1.
+Select the statement that best describes your experience performing the work of an IT Specialist (Enterprise Architecture), ZP-2210-4 pay band or equivalent grade level (GS-13) in the Federal service.
+
+ I have at least one full year (52 weeks) of specialized experience equivalent to the next lower pay band (ZP-3) or GS-12 grade level in the Federal service which includes all of the following: Providing technical guidance and direction to program personnel on IT systems (i.e. operations procedures, systems performance, installation, maintenance, updating hardware and software, etc.); and Performing technical support to a program for the integration of Information Technology (IT) systems (i.e. installations, configurations, system development, etc.). -AND- I have IT experience and/or training that demonstrates possession of the following four IT Competencies: (1) Attention to Detail - Is thorough when performing work and conscientious about attending to detail; (2) Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services; (3) Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately; and (4) Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.
+ I do not possess the experience described above.
+
+
+Assessment 2
+1.
+When aligning IT Capital Planning and Investment Control (CPIC) processes with Enterprise Architecture (EA) under OMB Circular A-11 guidelines, which strategic implementation ensures that major IT capital outlays directly support target architecture capabilities and financial transparency?
+
+ Submit annual OMB Exhibit 300 business cases based strictly on operational maintenance costs while deferring all EA mapping until after capital funds are disbursed.
+ Map capital investments to EA assets using the Technology Business Management (TBM) taxonomy to trace cost pools directly to IT towers, applications, and business services within the CPIC lifecycle.
+ Replace traditional CPIC investment categories with decentralized agile budget pools managed independently by local IT projects without central architectural review.
+ Maintain CPIC financial records in a standalone procurement database unlinked from the enterprise architecture repository to prevent audit exposure.
+
+
+2.
+Which component of the OMB 300 Capital Planning Investment Control (CPIC) process is primarily used to justify the business case for a major IT investment?
+
+ The Weekly Status Report.
+ The System Security Plan (SSP).
+ The Exhibit 300 / Capital Asset Plan and Business Case.
+ The end-user license agreement for office productivity software.
+
+
+3.
+When managing an IT investment portfolio using the Technology Business Management (TBM) framework, what is the primary goal for an Enterprise Architect?
+
+ Mapping financial outlays to IT assets to eliminate spending redundancies and enforce governance.
+ Automating SQL pipelines solely for the purpose of financial auditing.
+ Reducing the IT budget by a fixed percentage across all program offices.
+ Bypassing OMB Circular A-11 mandates to accelerate technology acquisition.
+
+
+4.
+When supporting business alignment through the integration of hardware, cybersecurity, and data services, what is the primary objective of the Enterprise Architect?
+
+ To maximize the individual performance of each hardware component regardless of software compatibility.
+ To deliver a cohesive information system where all computer-related services work in synchronization to meet business goals.
+ To prioritize cybersecurity protocols above all operational requirements and user accessibility.
+ To ensure that data services are kept siloed from telecommunication systems for security purposes.
+
+
+5.
+What is the primary objective of Enterprise Architecture (EA) within a modern organization?
+
+ To manage individual software development lifecycles exclusively.
+ To standardize and organize IT infrastructure to align with business goals.
+ To replace business managers with automated decision-making systems.
+ To focus solely on reducing the cost of hardware procurement.
+
+
+6.
+According to EA best practices, how does the organization's business requirements guide the architectural process?
+
+ By laying out how information, business, and technology flow together.
+ By dictating the specific brand of hardware to be used in all departments.
+ By ensuring that the IT department operates independently of the executive board.
+ By focusing only on legacy systems and ignoring emerging trends like IoT.
+
+
+7.
+When establishing technical alignment and reducing redundant IT expenditure across independent organizational units in a federated enterprise, which implementation strategy best ensures sustainable governance without undermining unit autonomy?
+
+ Dissolve local IT teams and mandate a centralized corporate IT hierarchy that enforces top-down approval for all software purchases and system architectures.
+ Implement an open-door policy encouraging informal peer discussions while allowing each business unit to independently select and build its own technical stack.
+ Establish cross-unit Communities of Practice (CoPs) and Centers of Excellence (CoEs) governed by shared architecture standards, reusable service catalogs, and common KPIs.
+ Require all autonomous units to mirror a single unit’s operational codebase and infrastructure stack, locking configuration changes to quarterly global releases.
+
+
+8.
+When coordinating the lifecycle of a multi-cloud initiative (e.g., AWS and Azure) designed to integrate fragmented, high-volume telemetry and geospatial data holdings, which approach best balances scope boundaries, system performance, and cross-cloud cost efficiency?
+
+ Enable full, real-time bi-directional database replication between AWS and Azure across public internet endpoints to ensure equal data access for all scientific teams.
+ Designate a primary ingestion boundary using partitioned object storage in standardized open formats, linked via dedicated private cross-cloud interconnects to minimize egress fees and schema drift.
+ Store data in proprietary database engines in each cloud and run daily script-based transformations to synchronize schemas across platforms.
+ Replicate all raw telemetry directly into both clouds simultaneously from edge devices, allowing each cloud team to independently manage data modeling and scope rules.
+
+
+9.
+How does the Enterprise Architect facilitate the transition from "As-Is" to "To-Be" architecture in a professional environment?
+
+ By developing a roadmap that addresses technical debt and aligns with the target strategic vision.
+ By unilaterally making all hardware purchasing decisions.
+ By ignoring the current architecture to focus solely on the future state.
+ By increasing the number of physical data centers to maximize footprint.
+
+
+10.
+When modernizing legacy IT systems, which architectural approach is most effective for eliminating organizational silos while ensuring compliance with organizational mandates?
+
+ Implementing isolated cloud pockets for each program office to ensure data autonomy.
+ Maintaining on-prem legacy systems while adding API wrappers for modern interfaces.
+ Developing a unified enterprise framework that aligns technical verticals (Cloud, AI, Cyber) with actionable modernization roadmaps.
+ Prioritizing individual office software preferences over enterprise-wide standardization.
+
+
+11.
+When establishing an Enterprise Architecture governance and risk mitigation framework to safely integrate emerging technologies—specifically Generative AI (GenAI)—into an enterprise ecosystem, which strategy best ensures architectural consistency, operational safety, and regulatory compliance?
+
+ Allow business units to independently adopt commercial GenAI APIs without central oversight, relying on post-hoc annual IT audits to capture risk exposures.
+ Enforce a blanket prohibition on all Generative AI tools enterprise-wide until a static, multi-year architectural standard can be fully finalized and approved.
+ Establish a GenAI Architecture Review Board (ARB) integrated into the existing enterprise architecture framework to mandate API gateway controls, data loss prevention (DLP) guardrails, model lineage tracking, and threat modeling prior to production deployment.
+ Route all GenAI prompts and data through an unencrypted public third-party broker to offload compute overhead and avoid local infrastructure modifications.
+
+
+12.
+In the context of information technology consolidations (e.g., migrating decentralized systems or services into a centralized entity), what is the most critical architectural outcome?
+
+ Increasing the number of security reports to provide more data to leadership.
+ Creating a decentralized security posture where each office manages its own risk.
+ Eliminating the need for Cybersecurity Assessment and Management (CSAM) workflows.
+ Reducing redundancies through end-state designs rooted in NIST-compliant security protocols.
+
+
+13.
+For high-priority data-related projects, what is the primary value of an Enterprise Architect serving as a technical liaison?
+
+ To dictate the specific data formats to the scientific subject matter experts.
+ To manage the budget of the project without providing technical oversight.
+ To replace the need for dedicated data experts within the program office.
+ To leverage institutional context and ensure data architecture compatibility with existing organizational environments.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+14.
+I certify that I did not use a consultant or artificial intelligence tool (such as a large language model) to complete the responses above. To the best of my knowledge, all information provided in my application is true and accurate. I affirm that I have truthfully and accurately represented my work experience, knowledge, skills, abilities, and education. I understand that providing false or misleading information may result in disqualification from consideration or termination of employment if hired.
+I further certify that I have read the entire vacancy announcement, reviewed my responses to the eligibility questions for accuracy, and understand the requirements regarding supporting documentation, including what must be submitted and applicable deadlines.
+
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙

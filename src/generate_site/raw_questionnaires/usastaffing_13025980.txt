@@ -1,0 +1,201 @@
+Position Title
+LOAN SPECIALIST (SENIOR PORTFOLIO MANAGER)
+Agency
+Export-Import Bank of the United States
+Announcement Number
+D26-MJ-13025980-OBAF Opens in new window
+Open Period
+Aug 19, 2026 to Sep 02, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+Career Transition Assistance Plan (CTAP):   I am a current or former Export Import Bank of the United States employee displaced from a position in the same local commuting area of the vacancy. I have a current (or last) performance rating of record of at least fully successful or the equivalent. Applicants eligible under CTAP are provided priority selection for vacancies within the local commuting area for which they apply and are well qualified. NOTE: If you indicate "yes" for this statement, you must submit copies of the appropriate documentation, such as a reduction in force (RIF) separation notice, a SF50 reflecting your RIF separation, or a notice of proposed removal for declining a directed reassignment or transfer of function to another commuting area. You must also submit documentation to reflect your current (or last) performance rating of record.
+ Yes
+ No
+
+
+3.
+US Citizen:  Are you a US citizen (either by birth or naturalization) or national of the United States?
+ Yes
+ No
+
+
+4.
+Interagency Career Transition Assistance Plan (ICTAP):  I am a current or former federal employee displaced from a position in a federal agency (e.g., IRS, VA, Dept of Labor, etc.) in the same local commuting area of the vacancy. I have a current (or last) performance rating of record of at least fully successful or the equivalent. Applicants eligible under ICTAP are provided priority selection for vacancies within the local commuting area for which they apply and are well qualified. NOTE: If you indicate "yes" for this statement, you must submit copies of the appropriate documentation, such as a reduction in force (RIF) separation notice, a SF50 reflecting your RIF separation, or a notice of proposed removal for declining a directed reassignment or transfer of function to another commuting area. You must also submit documentation to reflect your current (or last) performance rating of record.
+ Yes
+ No
+
+
+Short Essay Questions
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+
+
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+
+
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+
+
+3.
+How would you help advance the President's Executive Orders and policy priorities in this role? Identify one or two relevant Executive Orders or policy initiatives that are significant to you, and explain how you would help implement them if hired.
+
+
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+
+
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+
+
+Assessment 1
+1.
+Do you have one year of specialized experience equivalent to the GS-13 level in the Federal service or other equivalent pay system that has equipped you to perform the major duties of this position? This specialized experience includes:
+Experience analyzing and monitoring power, high tech, commodities, manufacturing transactions and/or post-default loan recoveries;
+Experience analyzing financial statements and assessing the credit risk across a range of corporate and project finance borrowers;
+Experience evaluating country, industry, legal, and/or technical risks affecting repayment capacity;
+Experience managing and monitoring loans, including identifying emerging risks and developing mitigation strategies to preserve asset quality; AND
+Experience developing and executing restructuring or recovery strategies for distressed assets, including negotiation with borrowers, guarantors, and creditor.
+ Yes (Your resume must reflect this specialized experience in order to qualify for the GS-14 grade level)
+ My experience is not reflected in the description above.
+
+
+1a.
+Please indicate which position(s) on your resume supports this response (include title, agency/organization, dates of experience (month/year to month/year) DO NOT COPY AND PASTE RESUME or state "REFER TO RESUME"
+
+
+2.
+A power project borrower reports that DSCR has declined from 1.25x to 1.05x due to sustained increases in fuel and operating costs. The borrower remains current on all obligations and has moderate liquidity. Management indicates that cost pressures are temporary, but updated projections will not be available before a lender group call where you are expected to provide a preliminary view. What should you communicate as your preliminary position?
+ Maintain the current rating and emphasize that existing liquidity provides a sufficient buffer against short-term volatility, noting that performance should be reassessed in the normal monitoring cycle.
+ Recommend a downgrade on the basis that the decline in DSCR reflects weakened debt service capacity and reduced financial flexibility, even if the borrower remains current.
+ Maintain the current view but explain that a complete reassessment will be performed once updated projections are available, and avoid expressing a firm interim position.
+ Highlight that the decline in DSCR raises concerns about cost sustainability and near-term coverage, and indicate that these factors will be a key focus of the next review.
+ Accept management's explanation that cost increases are temporary and communicate that current performance most likely does not indicate heightened credit risk.
+
+
+3.
+You are reviewing three performing borrowers with distinct early warning signals: (1) a financial covenant breach (e.g., leverage or DSCR), (2) repeated delays in submitting financial statements, and (3) evidence of declining operating performance (e.g., management reports, KPI trends, or interim data). You can escalate only one issue this week. Which of the three issues should be escalated first?
+
+ Elevate the borrower with a covenant breach, as formal noncompliance represents a clear deviation from expected performance.
+ Elevate the borrower with repeated reporting delays, as lack of transparency may obscure emerging credit risk.
+ Elevate the borrower with declining operating performance, given potential long-term impact on repayment capacity.
+ Present all three issues together to ensure comprehensive visibility.
+ Address issues sequentially as they become more clearly observable, rather than prioritizing based on incomplete or indirect signals.
+
+
+4.
+A commodities borrower remains current, but market prices have declined materially. The borrower has hedging protection for the next two quarters, but limited visibility beyond that period. What is the most appropriate risk assessment?
+
+ Near-term performance appears stable given existing hedges, so analysis can remain focused on current repayment behavior unless conditions deteriorate.
+ The exposure should be monitored more closely, with targeted stress testing to evaluate potential impacts once hedging rolls off.
+ Hedging protection meaningfully reduces immediate exposure, suggesting limited need to adjust the current risk view in the near term.
+ The analysis should consider the extent to which current performance relies on hedging and what that indicates about the borrower's position absent that support.
+ Current performance and hedge coverage should be balanced against forward price uncertainty, with some consideration of longer-term exposure.
+
+
+5.
+A borrower requests temporary covenant relief, citing a short-term market disruption. Other lenders appear willing to support the waiver, but updated projections show limited headroom. What should be the primary basis for your recommendation?
+
+ Approve waiver to align with lenders and avoid default.
+ Reject waiver because limited liquidity indicates the borrower may be unable to comply going forward.
+ Approve waiver with an expectation that the borrower's position will be reassessed in the near term.
+ Support a short-term waiver with enhanced monitoring, while reserving rights if performance weakens further.
+ Defer to the lead lender's position unless EXIM has a separate consent right.
+
+
+6.
+A high-tech or manufacturing borrower depends on one customer contract for approximately 65% of projected revenue. The contract has a strong counterparty, but includes termination provisions. What is the most appropriate credit concern?
+
+ The counterparty's strength partially mitigates but does not eliminate concentration risk.
+ Assess the extent to which the contract can be relied on at this stage.
+ Concentration risk is not as material if historical margins have been stable.
+ Contract size is not a primary concern given the counterparty's strong profile.
+ The concentration risk should be flagged, with sensitivity analysis to assess repayment capacity under reduced contract revenue.
+
+
+7.
+A medium-term borrower's repayment capacity depends materially on a new export-related contract. The contract has been awarded but is not yet fully executed, and cash flow projections assume timely performance.
+What is the most appropriate analysis?
+
+ Focus primarily on historical financial performance given uncertainty around contract execution.
+ Include the contract fully in projections because it has been awarded.
+ Exclude the contract entirely because it has not been fully executed.
+ Consider execution uncertainty and reflect a prudent level of reliance on projected contract cash flows.
+ Include the contract but apply conservative adjustments to projected cash flow.
+
+
+8.
+A borrower's operating cash flow has weakened, but the transaction benefits from collateral and guarantor support. The collateral is specialized, and recovery timing is uncertain. What is the best credit assessment?
+
+ Collateral and guarantor support substantially eliminate repayment risk.
+ Borrower cash flow deterioration should be the sole basis for the risk assessment.
+ Assess borrower repayment capacity alongside the quality and accessibility of secondary sources.
+ Maintain the current rating but note increased reliance on secondary repayment sources.
+ Downgrade the borrower due to weakened cash flow, with limited reliance on secondary repayment sources.
+
+
+9.
+A borrower has not defaulted but is showing liquidity stress, delayed vendor payments, and reduced availability under its working capital facility. Management is requesting informal discussions before a payment default occurs. What is the most appropriate approach?
+
+ Wait until a formal default occurs before engaging in restructuring discussions.
+ Increase monitoring but avoid engagement to prevent signaling concern.
+ Engage to assess liquidity and near-term risks and explore potential steps to stabilize the situation.
+ Prepare contingency options while continuing enhanced monitoring until the borrower presents a formal proposal.
+ Defer discussions until clearer signs of payment stress emerge, while continuing internal monitoring and preparation.
+
+
+10.
+After a claim payment, EXIM can pursue immediate liquidation for a certain but limited recovery or consider restructuring that may generate higher recoveries over time but carries execution risk. What is the strongest analytical approach?
+
+ Immediate liquidation is preferable because it provides certainty of collection and permits staff to focus on portfolio credits that have a higher potential recovery.
+ Restructuring is preferable because it preserves upside potential and avoids a write-off in the near term.
+ Compare liquidation and restructuring on expected recovery, risk, and feasibility before selecting a path.
+ Favor restructuring if it includes measurable milestones and a clear liquidation fallback.
+ Defer the decision until another creditor acts.
+
+
+11.
+EXIM is one of several creditors in a distressed transaction. Other creditors favor a faster settlement, while EXIM's preliminary analysis suggests a longer process may produce higher recovery but with greater uncertainty. What is the most appropriate approach?
+
+ Follow the majority creditor position to avoid delaying resolution and preserve working relationships with other creditors.
+ Pursue EXIM's preferred strategy independently, regardless of creditor coordination.
+ Weigh the trade-off between timing and recovery across creditor approaches before determining EXIM's position.
+ Coordinate with other creditors while retaining flexibility if the proposed settlement undervalues recovery.
+ Defer the matter to outside counsel because the matter involves legal strategy.
+
+
+12.
+A borrower is showing financial stress but has not yet defaulted. Cash flow is weakening, collateral value is uncertain, the borrower remains cooperative, and near-term recovery options may be affected by legal/documentation constraints. What is the strongest approach for determining whether to continue monitoring, restructure, enforce, liquidate, or recommend write-off?
+ Continue monitoring until the borrower misses a payment or formally breaches the loan documents.
+ Recommend enforcement because weakening cash flow is the clearest indicator that the credit is deteriorating.
+ Develop a near-term recommendation in light of financial trends and practical constraints.
+ Initiate restructuring discussions while preserving enforcement options if performance deteriorates.
+ Focus on deterioration and recovery outlook, prioritizing current performance over structural factors. .
+
+
+13.
+I certify that, to the best of my knowledge and belief, all of the information included in this questionnaire is true, correct, and provided in good faith. I understand that if I make an intentional false statement, or commit deception or fraud in this application and all supporting materials, including my resume, or in any document or interview associated with the examination process, I may be fined or imprisoned (18 U.S.C. 1001); my eligibilities may be cancelled; I may be denied an appointment; or I may be removed and debarred from Federal service (5C.F.R. part 731). I understand that any information I give may be investigated. I understand that I will not be considered for employment if I do not respond "Yes" to this certification item.
+
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
