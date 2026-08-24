@@ -1,0 +1,238 @@
+Position Title
+IT Specialist (Systems Analysis)
+Agency
+National Oceanic and Atmospheric Administration
+Announcement Number
+NESDIS-26-13041629-IMP Opens in new window
+Open Period
+Aug 24, 2026 to Aug 31, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Are you a current Department of Commerce employee who meets the definition of surplus or displaced definition of surplus or displaced  from a position in the competitive service that makes you eligible under the Career Transition Assistance Plan (CTAP)?  Note: You are required to submit supporting documentation as proof of eligibility.
+
+If yes, please confirm that you meet all the following eligibility requirements:
+This position is in the same local commuting area as the position of record from which you will be separated; and
+This position is at a grade level no higher than the grade of the position of record from which you will be separated; and
+This position has no greater promotion potential than the position of record from which you will be separated; and
+You have a current performance rating of record of at least fully successful or the equivalent; and 
+You have not yet been separated. 
+ Yes
+ No
+
+
+2.
+Are you a current Department of the Commerce employee who holds a career or career conditional appointment in the competitive service and has held a permanent position in the competitive service at the same or higher full performance level as the position being announced?
+ Yes
+ No
+
+
+3.
+Are you a current Department of the Commerce, regardless of status, who is eligible for consideration under a noncompetitive authority such as those specific to veterans, individuals with disabilities, Pathways Interns, Recent Graduates, and Presidential Management Fellows who are eligible for noncompetitive conversion, etc.; or current or former employees of a land management agency who is serving or previously served on a temporary or term appointment?
+ Yes
+ No
+
+
+4.
+Are you a current Department of the Commerce employee who holds a career or career conditional appointment in the competitive service?
+Department of Commerce, Bureau of Economic Analysis (BEA)
+Department of Commerce, Bureau of Industry and Security (BIS)
+Department of Commerce, Bureau of the Census (CENSUS)
+Department of Commerce, Economic Development Administration (EDA)
+Department of Commerce, Economic and Statistics Administration (ESA)
+Department of Commerce, International Trade Administration (ITA)
+Department of Commerce, Minority Business Development Agency (MBDA)
+Department of Commerce, National Institute of Standards and Technology (NIST)
+Department of Commerce, National Oceanic and Atmospheric Administration (NOAA)
+Department of Commerce, National Telecommunications and Information Administration (NTIA)
+Department of Commerce, National Technical Information Service (NTIS)
+Department of Commerce, Office of the Secretary (OS)
+Department of Commerce, U.S. Patent and Trademark Office (USPTO)
+Department of Commerce, Office of the Inspector General (OIG)
+ Yes
+ No
+
+
+5.
+Have you previously served as a NOAA Commissioned Officer under NOAA Corps and separated honorably after at least 3 years of active service?
+
+To verify your eligibility as a former NOAA Corps Officer, you must submit a copy of your DD Form 214 or NOAA Form 56-16.
+ Yes
+ No
+
+
+Preferences
+1.
+Select the location(s) you want to be considered for. You must choose at least one location.
+ A. Boulder, CO
+ B. Fort Collins, CO
+ C. College Park, MD
+ D. Greenbelt, MD
+ E. Lanham, MD
+ F. Riverdale Heights, MD
+ G. Silver Spring, MD
+ H. Suitland, MD
+ I. Stennis Space Center, MS
+ J. Asheville, NC
+ K. Madison, WI
+
+
+2.
+I authorize my application information being shared with hiring managers for similar positions. I understand this option may not result in further consideration for additional positions nor will it impact my application for this announcement.
+ Yes
+ No
+
+
+Merit Hiring Plan
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+
+
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+
+
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+
+
+3.
+How would you help advance the President's Executive Orders and policy priorities in this role? Identify one or two relevant Executive Orders or policy initiatives that are significant to you, and explain how you would help implement them if hired.
+
+
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+
+
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+
+
+Assessment 1
+1.
+Select the statement that best describes your experience performing the work of an IT Specialist (Applications Software), ZP-2210-4 pay band or equivalent grade level (GS-13) in the Federal service.
+
+ I have at least one full year (52 weeks) of specialized experience equivalent to the next lower pay band (ZP-3) or GS-12 grade level in the Federal service which includes all of the following: Identifying and recommending improvements to increase Information Technology (IT) performance and efficiency; and Analyzing and providing solutions for cloud-based computing systems to enhance platform use. -AND- I have IT experience and/or training that demonstrates possession of the following four IT Competencies: (1) Attention to Detail - Is thorough when performing work and conscientious about attending to detail; (2) Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services; (3) Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately; and (4) Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.
+ I have a Ph.D. or equivalent doctoral degree in computer science, engineering, information science, information systems management, mathematics, operations research, statistics, or technology management or degree that provided a minimum of 24 semester hours in one or more of the fields identified above and required the development or adaptation of applications, systems or networks or 3 full years of progressively higher graduate education leading to a Ph.D. or equivalent doctoral degree. (Note: You must attach a copy of your transcripts.)
+ I do not possess the experience and/or education described above.
+
+
+Assessment 2
+1.
+An agency application currently relies on a traditional on-premises Network Attached Storage (NAS) appliance that provides shared file access via the Server Message Block (SMB) protocol to multiple windows servers. As an IT Specialist (System Analysis), you are migrating this workload to a public cloud environment and need to select a managed cloud storage service that mimics this capability without requiring a complete redesign of the application's file-access logic. Which technology represents the best fit?
+
+ A cloud-native object storage bucket configured with fine-grained identity access policies.
+ A fully managed cloud file system service supporting native SMB/NFS protocols.
+ A cluster of cloud virtual machines with locally attached ephemeral block storage volumes.
+ A managed NoSQL database service utilizing schema-free tables for data storage.
+ A long-term cold archive storage tier with manual data retrieval triggers.
+
+
+2.
+On premises, as an IT Specialist (System Analysis), your team secures applications by configuring stateful physical network firewalls at the perimeter and routing traffic through distinct Virtual Local Area Network (VLANs). In a standard cloud environment, which native technology primary replaces the granular, host-level traffic filtering previously handled by these physical firewalls and VLAN segmentation?
+
+ Centralized Cloud Identity and Access Management (IAM) role assignments.
+ Application Layer API Gateways with rate-limiting policies.
+ Security Groups and Network Access Control Lists (NACLs) applied to Virtual Networks.
+ Distributed Denial of Service (DDoS) edge protection profiles.
+ Automated operating system patch management schedules.
+
+
+3.
+On premises, the organization utilizes a pair of physical hardware load balancing appliances to distribute incoming traffic across an application server farm. As you move this infrastructure entirely into a cloud region, which cloud-native component represents the most direct, resilient, and cost-effective replacement for this hardware?
+
+ A round-robin Domain Name System (DNS) entry mapping a single domain name to multiple static IP addresses.
+ A cloud-native, software-defined Application Load Balancer (ALB) or Network Load Balancer (NLB).
+ A custom Python script running on a jump-box server that forwards network packets.
+ Installing a secondary network interface card (NIC) on each individual application server.
+ Routing all external user traffic through a managed cloud database endpoint.
+
+
+4.
+The current on premises disaster recovery plan involves backing up server images to a local Storage Area Network (SAN) and duplicating those backups weekly to physical tapes sent offsite. When moving this workload entirely into a cloud environment, how should you, as an IT Specialist (System Analysis), modernize this architecture to achieve better Recovery Time Objectives (RTO)?
+
+ Continue exporting server images to virtual tapes and downloading them to an on-premises workstation.
+ Configure automated cloud snapshots backed by cross-region replication policies and lifecycle retention rules.
+ Instruct systems administrators to manually clone virtual machine instances at the end of every business day.
+ Rely on the cloud provider's underlying hardware resilience to eliminate the need for an explicit backup strategy.
+ Store all system backup files exclusively within the ephemeral temporary storage drives of the active servers.
+
+
+5.
+In the agency's on-premises VMware environment, handling a sudden spike in workload processing requires a system administrator to manually provision new Virtual Machines from a template or scale up a host's physical Random Access Memory (RAM). To modernize this workflow during a cloud migration, which native cloud architecture should you implement to eliminate manual intervention?
+
+ Configuring a scheduled cron job to reboot the cloud servers daily during peak operational hours.
+ Setting up an Elastic Cloud Auto-Scaling Group tied to real-time performance metrics like CPU utilization.
+ Deploying a single, massive virtual machine instance sized to handle the absolute peak historical workload.
+ Establishing a manual ticketing workflow where engineers approve resource increases via a dashboard.
+ Migrating the entire application codebase into a static managed cloud storage bucket.
+
+
+6.
+A non-critical internal testing application is being moved from a local testing lab to a public cloud environment. The data transmission requirements are minimal, and the budget is heavily constrained. Instead of provisioning an expensive, dedicated physical telecommunications circuit, which cloud-ready technology should you select for secure administrative access?
+
+ A dedicated, private physical fiber interconnect link from the provider.
+ Exposing all server administration ports directly to the public internet without restrictions.
+ An encrypted, internet-based Site-to-Site Virtual Private Network (VPN) connection.
+ Shipping physical hard drives containing software updates via commercial mail carriers.
+ Establishing a localized dial-up modem bank connected to a cloud gateway interface.
+
+
+7.
+On premises, the organization runs a series of scheduled script tasks on a dedicated Linux server management box. These scripts wake up at midnight, check a directory for incoming weather files, process them, and shut down. To optimize this workflow in the cloud and eliminate the cost of running a virtual machine 24/7, what should you recommend?
+
+ Leave the Linux virtual machine running continuously in the cloud, idling for 23 hours a day.
+ Migrate the script logic to a cloud-native serverless function (e.g., AWS Lambda or Azure Functions) triggered by an event rule or object upload.
+ Hire a round-the-clock operations team to manually start and stop the cloud instance every night.
+ Convert the script into an interactive web application that requires user log-ins to trigger processing.
+ Store the script as raw text inside an offline code repository without configuring an execution path.
+
+
+8.
+On-premises, diagnosing application slowness requires an engineer to manually log into individual server chassis via Secure Shell (SSH) or Remote Desktop Protocol (RDP) to check local Event Viewers and syslog text files. When moving to a fully integrated cloud platform, what native technology replaces this fragmented, machine-by-machine troubleshooting approach?
+
+ Installing a third-party text editor on every cloud instance to view logs faster.
+ Relying on end-user complaints via the helpdesk as the primary performance indicator.
+ Implementing a centralized cloud monitoring and observability suite (e.g., CloudWatch or Azure Monitor) with aggregated log streams and dashboards.
+ Decreasing the total volume of system logging to free up virtual machine storage capacity.
+ Restricting application administration access exclusively to hardware manufacturing representatives.
+
+
+9.
+As an IT Specialist (System Analysis), you are analyzing a traditional
+on premises Oracle database that requires intensive database administrator (DBA) oversight for Operating System (OS) patching, storage provisioning, and manual backup scheduling. The application is moving entirely to the cloud. To minimize operational maintenance overhead while preserving strict relational Structured Query Language (SQL) capabilities, which database technology should you select?
+
+ Installing the database software manually on a standard cloud Virtual Machine instance.
+ Migrating the relational database data into a distributed cloud object storage bucket.
+ Utilizing a fully managed Cloud Relational Database Service (e.g., Amazon Web Services Relational Database Service (AWS RDS) or Azure SQL).
+ Converting all relational tables into a decentralized blockchain ledger service,
+ Moving the data into an in-memory key-value caching data structure.
+
+
+10.
+In the traditional data center, your team maintains system consistency by creating a master operating system "Gold Image" template on a hypervisor and manually applying configuration updates to it over time. Which cloud-specific approach replaces this manual methodology with an automated, auditable process?
+
+ Writing instructions in a text file and having administrators manually execute commands via the cloud console.
+ Utilizing Infrastructure as Code (IaC) and configuration management tools (e.g., Terraform, Ansible) to programmatically define and deploy resources.
+ Allowing each developer to configure their own cloud environments independently using personal preferences.
+ Disabling all system updates permanently once the first cloud instance is successfully launched.
+ Copying the configuration settings of an on-premises physical router into a cloud support ticket.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+11.
+I certify that I did not use a consultant or artificial intelligence tool (such as a large language model) to complete the responses above. To the best of my knowledge, all information provided in my application is true and accurate. I affirm that I have truthfully and accurately represented my work experience, knowledge, skills, abilities, and education. I understand that providing false or misleading information may result in disqualification from consideration or termination of employment if hired.
+
+I further certify that I have read the entire vacancy announcement, reviewed my responses to the eligibility questions for accuracy, and understand the requirements regarding supporting documentation, including what must be submitted and applicable deadlines.
+
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
