@@ -1,0 +1,215 @@
+Position Title
+IT Specialist (Security)
+Agency
+National Oceanic and Atmospheric Administration
+Announcement Number
+NMFS-26-13043920-DHA Opens in new window
+Open Period
+Aug 25, 2026 to Aug 31, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+Do you meet:
+
+1. The definition of former resource assistant by successfully completing a rigorous undergraduate or graduate summer internship to carry out research or resources protection activities;
+2. Earns an undergraduate or graduate degree from an accredited institution of higher learning after successfully completing a resource assistant summer internship;
+3. Meets OPM qualification standards and any other eligibility requirements; and
+4. Is certified by their mentor or supervisor to have successfully fulfilled the requirements of the summer internship.
+
+ Yes
+ No
+
+
+3.
+Are you a current or former employee of a Federal agency (other than the Department of Commerce) who meets the definition of displaced from a position in the competitive service that makes you eligible under the Interagency Career Transition Assistance Plan (ICTAP)?  If yes, please confirm that you meet all the following eligibility requirements: 
+This position is in the same local commuting area as the position of record from which you were separated; and
+This position is at a grade level no higher than the grade of the position of record from which you were separated; and 
+This position has no greater promotion potential than the position of record from which you were separated; and
+Your last performance rating of record was at least fully successful or the equivalent; and
+You were separated from your position of record less than one year ago.    
+ Yes
+ No
+
+
+Preferences
+1.
+Select the location(s) you want to be considered for. You must choose at least one location.
+ A. Long Beach, CA
+ B. Sacramento, CA
+ C. San Diego, CA
+ D. Santa Rosa, CA
+ E. Miami, FL
+ F. Panama City, FL
+ G. Saint Petersburg, FL
+ H. Silver Spring, MD
+
+
+2.
+I authorize my application information being shared with hiring managers for similar positions. I understand this option may not result in further consideration for additional positions nor will it impact my application for this announcement.
+ Yes
+ No
+
+
+Merit Hiring Plan
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+
+
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+
+
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+
+
+3.
+How would you help advance the President's Executive Orders and policy priorities in this role? Identify one or two relevant Executive Orders or policy initiatives that are significant to you, and explain how you would help implement them if hired.
+
+
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+
+
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+
+
+Assessment 1
+1.
+Select the one statement that best describes your experience and/or education that demonstrates your ability to perform the work of an IT Specialist (Security), ZP-2210-3 pay band or equivalent grade level (GS-11) in the Federal service.
+
+ I have at least one full year (52 weeks) of specialized experience equivalent to the next lower pay band (ZP-2) or GS-09 grade level in the Federal service which includes all of the following: Providing support with the Assessment and Authorization (A&A) activities; Providing aid to the end-to-end security guidance for the system development life cycle; and Contributing to continuous monitoring and vulnerability management. -AND- I have IT experience and/or training that demonstrates possession of the following four IT Competencies: (1) Attention to Detail - Is thorough when performing work and conscientious about attending to detail; (2) Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services; (3) Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately; and (4) Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.
+ I have a Ph.D. or equivalent doctoral degree in computer science, engineering, information science, information systems management, mathematics, operations research, statistics, or technology management or degree that provided a minimum of 24 semester hours in one or more of the fields identified above and required the development or adaptation of applications, systems or networks or 3 full years of progressively higher graduate education leading to a Ph.D. or equivalent doctoral degree. (Note: You must attach a copy of your transcripts.)
+ I have a combination of successfully completed graduate-level education and specialized experience as described above. Note: Only graduate-level in excess of the amount required for the next lower grade level may be combined with experience. (Note: You must attach a copy of your transcripts.)
+ I do not possess the experience and/or education described above.
+
+
+Assessment 2
+1.
+During a quarterly security audit, a vulnerability scanner identifies a critical flaw on a production asset. Due to operational dependencies, the patch cannot be applied immediately. What is the correct next step for the ISSO regarding the Plan of Action and Milestones (POA&M)?
+
+ Delay creating the POA&M until a patch is verified by the vendor.
+ Request an immediate risk acceptance from the IT Director to avoid a POA&M.
+ Develop a POA&M containing a description of the deficiency, a remediation schedule, required resources, and milestone dates, while coordinating temporary mitigating controls.
+ Instruct the team to shut down the affected system until remediation is complete.
+
+
+2.
+A security audit report reveals a high volume of unauthenticated configuration changes occurring on several core network switches. How should the ISSO interpret and act upon this finding?
+
+ Classify it as a minor asset tracking discrepancy and log it for the next quarterly review.
+ Recognize this as a potential indicator of compromise or a severe breakdown in change management, report it as a suspected security incident, and recommend an immediate configuration audit.
+ Instruct the technical team to disable logging on the network switches to clear the alerts.
+ Wait for the annual security assessment to allow the independent assessors to evaluate the switches.
+
+
+3.
+A technical team proposes deploying new data-filtering software that does not currently meet standard organizational configuration baselines. As the ISSO, how should you advise the IT Operations Director regarding this alternative?
+
+ Reject the software completely, as no deviations from technical baselines are allowed.
+ Evaluate the technical and operational necessity, conduct a preliminary risk assessment of the alternative, and present the risk posture along with potential compensating controls to the IT Director.
+ Tell the technical team to install it quietly and document it during the next annual assessment.
+ Approve the software immediately, as the IT Director has ultimate authority over technical design.
+
+
+4.
+The IT Director requests your technical recommendations for protecting data-at-rest within a database that contains sensitive proprietary corporate data. Which recommendation aligns best with industry best practices?
+
+ Implement commercially proven, peer-reviewed cryptographic algorithms (e.g., AES-256) via validated cryptographic modules to encrypt the database columns or storage volumes.
+ Rely solely on physical data center access controls to protect the underlying server hardware.
+ Use a proprietary, non-standard obfuscation or hashing algorithm developed internally by the application developers.
+ Restrict encryption to data-in-transit only, as data-at-rest protection is considered optional for sensitive corporate environments.
+
+
+5.
+A proposed system change involves migrating the hosting environment from an on-premises facility to a Software as a Service (SaaS) platform. Why must the ISSO conduct a Security Impact Analysis (SIA) before this change is approved by the Change Control Board (CCB)?
+
+ To recalculate the overall financial ROI of the software migration.
+ To evaluate how the migration changes the security posture of the IT system, what security settings are now inherited vs. customer-managed, and whether the overall risk profile remains within the organization's risk tolerance.
+ To determine if the user interface design matches organization’s branding guidelines.
+ To bypass the need for an annual assessment during the current fiscal year.
+
+
+6.
+During an internal audit, it is discovered that three milestones on an active, high-visibility POA&M have missed their scheduled completion dates without a formal extension request. What is the most appropriate compliance action for the ISSO to take?
+
+ Delete the delayed milestones from the tracking tool to prevent negative reporting metrics.
+ Immediately draft a justification detailing the operational constraints causing the delay, outline temporary mitigating controls, and submit a formal extension request to the IT Security Officer (ITSO).
+ Mark the milestones as "Complete" and address them quietly during the next operational cycle.
+ Change the system categorization from Moderate to Low to automatically grant more flexible deadlines.
+
+
+7.
+An automated enterprise vulnerability scan reveals a high-severity vulnerability on a database server containing Publicly Identifiable Information (PII). When determining the remediation priority and timeline, which combination of factors is most critical to analyze?
+
+ The cost of the software license and the vendor’s market share.
+ The asset's criticality (High/Moderate/Low categorizations), the vulnerability severity, and organizations patching timeline policies.
+ The time of day the scan was completed and the number of system administrators available.
+ The total number of open low-severity POA&Ms currently tracked on the system.
+
+
+8.
+Your enterprise security monitoring tool detects anomalous outbound traffic indicating potential data exfiltration from a system under your oversight. What is your immediate responsibility as the ISSO?
+
+ Conduct a full forensic investigation independently before notifying anyone.
+ Immediately report the incident following the organization’s Incident Response procedures and assist the incident handling team.
+ Delete the affected system logs to prevent further exposure.
+ Draft a new System Security Plan (SSP) to account for the traffic pattern.
+
+
+9.
+The backup administrator informs you that the system's daily incremental backups are successfully completing, but the cryptographic keys required to restore the offsite historical archives have not been included in the organization's key management plan. What risk does this present to Operational Support and Contingency objectives?
+
+ No risk, as long as the backup status indicator in the software dashboard reads "Green."
+ A severe availability risk, because the backups cannot be successfully decrypted and restored during a disaster recovery activation, rendering the contingency plan ineffective.
+ A data integrity risk that will cause the files to naturally corrupt over a short period.
+ An asset management risk that prevents the hardware from being recycled.
+
+
+10.
+A major threat intelligence feed and the vendor report a critical, actively exploited zero-day vulnerability affecting a core component of your system. Internal policy mandates remediation of critical vulnerabilities within 14 days, but the official vendor patch will not be released for three weeks. What is the ISSO's correct course of action?
+
+ Wait out the three weeks without action since vendor software delays fall outside internal compliance liabilities.
+ Source and apply an unauthorized, unofficial patch from an unverified third-party forum to meet the 14-day policy deadline.
+ Document the vendor constraint, coordinate with the technical team to deploy aggressive compensating controls (such as WAF rules or network isolation) to mitigate the exploit vector, and formally submit a risk exception request to senior leadership.
+ Disconnect the entire enterprise system from the network immediately without informing the business or system owners.
+
+
+11.
+During a periodic review of your system's Security Governance Documentation, you notice that the internal system procedure states user accounts are reviewed "periodically," but the overarching corporate security policy explicitly mandates a "semi-annual" review cadence. What modification must be made?
+
+ Leave the documentation as-is, because "periodically" allows the operations team maximum flexibility.
+ Request that the corporate executive team lower the global security policy standard to match your specific system's wording.
+ Update the system's documentation to explicitly define the access review frequency as "semi-annual" and verify that the operational workflows are aligned to meet this requirement.
+ Delete the account management section from your documentation entirely to avoid a direct audit conflict.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+12.
+I certify that I did not use a consultant or artificial intelligence tool (such as a large language model) to complete the responses above. To the best of my knowledge, all information provided in my application is true and accurate. I affirm that I have truthfully and accurately represented my work experience, knowledge, skills, abilities, and education. I understand that providing false or misleading information may result in disqualification from consideration or termination of employment if hired.
+
+I further certify that I have read the entire vacancy announcement, reviewed my responses to the eligibility questions for accuracy, and understand the requirements regarding supporting documentation, including what must be submitted and applicable deadlines.
+
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
