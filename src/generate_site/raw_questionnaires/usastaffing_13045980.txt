@@ -1,0 +1,229 @@
+Position Title
+Information Technology Specialist (Applications)
+Agency
+Offices, Boards and Divisions
+Announcement Number
+DE-13045980-26-BLC Opens in new window
+Open Period
+Aug 28, 2026 to Sep 11, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+Are you a current or former federal employee displaced from the Department of Justice? 
+To be eligible under CTAP you must meet all of the following:
+You are located in the same local commuting area of this vacancy; AND,
+You are applying to a position that is at (or below) the grade level of the position from which you were (or will) be separated from; AND,
+You are applying to a position that does not have greater promotion potential than the position from which you were (or will be) separated from; AND,
+Your last performance rating of record is at least fully successful, or the equivalent. 
+For more information, review the USAJOBS Help Center...
+
+To verify your eligibility: You must submit appropriate supporting documentation, such as a Reduction in Force (RIF) separation notice or a Proposed Removal/Separation notice, You must submit a copy of your most recent performance appraisal and a copy of your latest Notification of Personnel Action (SF-50) form.
+ Yes
+ No
+
+
+3.
+
+Are you an employee that was involuntarily separated from another agency due to a reduction-in-force (RIF)?
+The Inter-agency Career Transition Assistance Plan (ICTAP) is an inter-agency program that helps "surplus" or "displaced" federal employees improve their chances of finding a new job at another agency (not their current or former agency), by giving these employees selection priority over other applicants from outside the agency.
+
+You may be eligible for ICTAP if:
+
+You're a current federal employee who meets the definition of a "surplus" or "displaced employee—you've received official notice that your job is no longer needed or that you will lose your job by Reduction-in-Force (RIF).
+The agency you're applying to is accepting applications from outside of their workforce.
+The job you're applying to is in the local commuting area.
+You meet the qualifications and other requirements of the job you're applying for.
+
+For example, if you work for the Department of Defense and receive a Reduction in Force (RIF) separation notice, you can apply for a competitive service job in the local commuting area at the Department of Justice.
+
+To verify your eligibility: You must submit appropriate supporting documentation such as a Reduction in Force (RIF) separation notice to include your latest performance rating (if the notice does not have this information included, you must submit a copy of your most recent performance appraisal) and a copy of your latest Notification of Personnel Action, Standard Form 50.
+ Yes
+ No
+
+
+Preferences
+1.
+In the last five years (from the closing date of this announcement) have you served, or are you currently serving, as an Executive Branch Political, Schedule C, or Non-career Senior Executive Services appointee? You can find out if you have held one of these appointment types by looking at the SF-50s in your Electronic Official Personnel Folder (eOPF), in Section 5 where the legal authorities are listed.
+A political appointee is an appointment made by the President with or without confirmation by the Senate (5 CFR 213.3102(c)) OR an assistant position to a top-level federal official if filled by a person designated by the President as a White House Fellow (5 CFR 213.3102(z)).
+A Schedule C appointee occupies a position excepted from the competitive service because of the confidential or policy-determining nature of the position duties (5 CFR 213.3301 and 5 CFR 213.3302).
+A noncareer SES appointee serves at the pleasure of the appointing official without time limitations (5 CFR 317 Subpart F).
+ Yes, I have held one of the above appointment types in the last 5 years.
+ No, I have not held any of the above appointment types in the last 5 years.
+ I am uncertain if I have held any of these appointment types in the last 5 years.
+
+
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+
+
+2.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+
+
+3.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+
+
+4.
+How would you help advance the President's Executive Orders and policy priorities in this role? Identify one or two relevant Executive Orders or policy initiatives that are significant to you, and explain how you would help implement them if hired.
+
+
+5.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+
+
+6.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+
+
+Assessment 1
+Carefully read each statement and all possible answers before selecting a response. Some questions will be used to screen out ineligible applicants. Applicant errors in responses will not be corrected. You are responsible for the accuracy of your application. If you fail to provide the requested information contained in the vacancy announcement, or the information submitted is insufficient, you may lose consideration for the position.
+
+
+1.
+Do you have at least one year of specialized experience equivalent to the GS-13 level in the Federal service, performing duties such as defining technical requirements and supporting the implementation and modernization of enterprise applications, including COTS and cloud-based solutions; providing technical leadership in software development, system integration, testing, and performance improvement; integrating cybersecurity requirements into application lifecycles, supported security assessments, and ensured compliance with federal standards; managing technical projects, coordinating upgrades or modernization efforts, and serving as a liaison across business, technical, and cybersecurity stakeholders.
+ Yes, I have at least one year of specialized experience.
+ No, I do not have one year of specialized experience.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+2.
+I certify that, to the best of my knowledge and belief, all of the information included in this questionnaire is true, correct and provided in good faith. I did not receive any help in answering these questions. I understand that if I make an intentional false statement, or commit deception or fraud in this application and its supporting materials, or in any document or interview associated with the examination process, I may be fined or imprisoned (18 5 U.S.C. 1001); my eligibilities may be canceled, I may be denied an appointment, or I may be removed and debarred from Federal service (5 C.F.R. part 731). I understand that any information I give may be investigated. I understand that responding "No" to this item will result in my not being considered for this position.
+ Yes
+ No
+
+
+Assessment 2
+Select the one best answer to each question. All items are required. Do not use external materials.
+
+
+1.
+A major enterprise system requires modernization to support new statutory requirements. As the GS-14 technical authority, what is the most appropriate first step?
+ Begin coding the new features immediately.
+ Direct developers to replicate the legacy design exactly.
+ Conduct an architectural assessment to determine modernization scope and dependencies.
+ Delay development until the next budget cycle.
+
+
+2.
+You are leading an integration between two mission-critical systems. Midway through the project, a dependency changes and breaks an existing interface. What is your best course of action?
+ Pause the entire project until all systems stabilize.
+ Escalate the issue to leadership without analysis.
+ Conduct an impact analysis and redesign the integration approach.
+ Remove the dependency permanently.
+
+
+3.
+A development team proposes using a new open-source library that is widely adopted but has not undergone DOJ security review. As the senior application engineer, what should you require?
+ Immediate adoption because most industry systems use it.
+ Adoption only after verifying license terms.
+ A security and supply-chain risk assessment before approving use.
+ Rejection of all open-source components.
+
+
+4.
+You discover that an application handles sensitive PII but lacks role-based access controls. What is the appropriate GS-14-level response?
+ Document the issue for future improvement efforts.
+ Implement access controls and require re-authorization of the system.
+ Disable the application immediately without coordination.
+ Add a banner warning users about sensitive data.
+
+
+5.
+A senior business executive insists on implementing an approach that conflicts with DOJ cybersecurity policy. How should you respond?
+ Approve the request to preserve the relationship.
+ Inform the executive their request is not feasible and move on.
+ Explain the policy constraints and work with them to design an acceptable alternative.
+ Escalate directly to the CIO without discussion.
+
+
+6.
+Stakeholders describe desired functionality in vague terms. What is the most effective GS-14 action?
+ Ask them to submit requirements in writing.
+ Schedule facilitated requirement-definition workshops.
+ Wait for them to clarify their needs in future meetings.
+ Proceed based on your interpretation of the request.
+
+
+7.
+An enterprise application encounters intermittent latency across multiple environments. What is the most effective method to determine the root cause?
+ Restart the servers to see if the issue clears.
+ Capture logs, metrics, and traces to identify cross-system bottlenecks.
+ Migrate the application to a different cloud region.
+ Disable all background jobs.
+
+
+8.
+A critical workflow fails only during peak usage periods. What should you investigate first?
+ User permissions.
+ Database connection limits and resource saturation behavior.
+ Code formatting errors.
+ The organization’s VPN utilization.
+
+
+9.
+You are managing a modernization effort with multiple teams. Midway through the project, the scope expands due to a new legal requirement. What is the best action?
+ Continue without adjustments.
+ Update the project plan, timeline, and resource needs, and brief leadership.
+ Ask teams to absorb the new tasks without changes.
+ Stop all work until a new charter is written.
+
+
+10.
+A cross-functional team is missing deadlines due to unclear task ownership. How should you address this?
+ Let the team self-organize.
+ Reassign all tasks to the most senior developer.
+ Clarify roles, responsibilities, and deliverables, then update the project schedule.
+ Extend the deadlines indefinitely.
+
+
+11.
+You must explain a complex architectural decision to business leaders with non-technical backgrounds. What is the most effective approach?
+ Provide architecture diagrams with detailed technical notation.
+ Focus on business impact, risks, and value while simplifying technical explanations.
+ Email them your code samples.
+ Limit discussion to server hardware specifications.
+
+
+12.
+A major system change is planned that will cause a brief outage. What is the most effective GS-14 communication approach?
+ Notify users only after the change is complete.
+ Announce the change with clear timing, impact, risk mitigations, and points of contact.
+ Provide no timeline to avoid complaints.
+ Send only technical change logs.
+
+
+13.
+You are responsible for engineering a new enterprise API. Which action best ensures long-term maintainability and secure integration?
+ Allow each team to define its own interface conventions.
+ Adopt DOJ-aligned API standards and publish versioned documentation.
+ Avoid documenting to speed implementation.
+ Permit direct database access to reduce development time.
+
+
+14.
+A modernization effort requires replacing a legacy workflow engine. What is the most critical GS-14 step before selecting a new platform?
+ Choose the most popular vendor.
+ Conduct a technical evaluation including security, scalability, interoperability, and mission fit.
+ Select the cheapest option.
+ Let developers pick based on familiarity.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
