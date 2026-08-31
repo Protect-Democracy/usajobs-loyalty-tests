@@ -1,0 +1,205 @@
+Position Title
+IT Specialist (Recent Graduate)
+Agency
+National Oceanic and Atmospheric Administration
+Announcement Number
+NMFS-26-13045036-GRAD Opens in new window
+Open Period
+Aug 31, 2026 to Sep 08, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+This position has an age requirement. Enter or select your date of birth.
+
+
+2.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+3.
+Are you a recent graduate who meets the eligibility requirements described below for a Pathways Recent Graduate appointment? 
+You must be a recent graduate who has completed, within the previous two years, an associates, bachelors, masters, professional, doctorate, vocational or technical degree or certificate from a qualifying educational institution such as an accredited technical or vocational school; a 2- or 4-year college or university; a graduate or professional school (e.g., law school, medical school); or a post-secondary home school curriculum; or completed a qualifying career or technical education program, including Peace Corps, AmeriCorps, Job Corps, and Registered Apprenticeships. NOTE: Certificate program is defined as post-secondary education in a qualifying educational institution equal to at least one academic year of full-time study that's part of an accredited college-level, technical, trade, vocational, or business school curriculum. 
+*OR*
+Veterans who were precluded from applying due to their military service obligation begin their 2-year eligibility period upon release or discharge from active duty; however, eligibility for these veterans cannot exceed 6 years from the date on which the degree or certificate was obtained.  The date of release or discharge from active duty should be later than the date the degree or certificate was obtained. 
+ Yes
+ No
+
+
+Preferences
+1.
+Select the location(s) you want to be considered for. You must choose at least one location.
+ A. San Diego, CA
+ B. Saint Petersburg, FL
+ C. Silver Spring, MD
+
+
+Merit Hiring Plan
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+
+
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+
+
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+
+
+3.
+How would you help advance the President's Executive Orders and policy priorities in this role? Identify one or two relevant Executive Orders or policy initiatives that are significant to you, and explain how you would help implement them if hired.
+
+
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+
+
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+
+
+Recent Graduate
+1.
+When did you obtain your latest degree or certificate (provide month/year in the space below)?
+
+
+2.
+Pathways Recent Graduate
+
+Are you a recent graduate who has completed, within the previous two years, a qualifying associate's, bachelors, masters, professional, doctorate, vocational or technical degree or certificate; or completed a qualifying career or technical education program, including Peace Corps, AmeriCorps, Job Corps, and Registered Apprenticeships? (Veterans unable to apply within two years of receiving their degree due to military service obligation have up to six years after degree completion to apply).
+
+If eligible, submit a copy of your transcripts or proof of your career or technical education program to support your recent graduate eligibility. If you are a veteran, please submit a copy of your latest Certificate of Release or Discharge from Active Duty, DD-214 (copy indicating character of service) or other proof of your service which includes character of service.
+ Yes
+ No
+
+
+Assessment 1
+1.
+ZP-2: Select the statement that best describes the education and/or experience that demonstrates your ability to perform the work of an IT Specialist, ZP-2210-2 pay band or equivalent grade level (GS-07) in the Federal service.
+
+ I have at least one full year (52 weeks) of specialized experience equivalent to the next lower pay band (ZP-1) or GS-05 grade level in the Federal service which includes all of the following: Supporting the testing, implementation, or maintenance of Information Technology (IT) systems and applications; and Utilizing or supporting emerging technologies, such as Artificial Intelligence (AI) tools, automation, or data analytics, to optimize IT operations or troubleshooting workflows. -AND- I have IT experience and/or training that demonstrates possession of the following four IT Competencies: (1) Attention to Detail - Is thorough when performing work and conscientious about attending to detail; (2) Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services; (3) Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately; and (4) Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.
+ I have one full year of graduate-level education. (Note: You must attach a copy of your transcripts.)
+ I meet the criteria for a superior academic achievement demonstrated by a related bachelor’s degree from an accredited college or university with one of the following: A grade point average (GPA) of 2.9 or higher based on a 4.0 scale for all completed undergraduate courses, or those completed in the last 2 full years of undergraduate study; A GPA of 3.5 or higher based on a 4.0 scale for required courses completed in a major field of study, or those courses completed in a major field of study during the last two years of undergraduate study; Class standing of upper third of the graduating class in the college, university, or major subdivision of the college; Membership in a national Scholastic Honor Society certified by the Association of College honor Societies, excluding freshman honor societies. Note: It is your responsibility to ensure your application clearly states how you meet one of these provisions. You must attach a copy of your transcripts showing completed degree and, if applicable, proof of national Scholastic Honor Society membership.
+ I have a combination of graduate-level education and specialized experience as described above. (Note: You must attach a copy of your transcripts.)
+ I do not possess the education and/or experience described above.
+
+
+Assessment 2
+1.
+When documenting a technical experiment or tracking model performance over multiple iterations, what is the best workflow practice for an employee?
+
+ Keep track of changes mentally and only write down the final version of the code.
+ Use clear version control (e.g., Git) and log parameters, metrics, and dataset versions systematically.
+ Delete all previous code versions to ensure the server remains clean.
+ Rely on verbal communication during team syncs to document accuracy updates.
+
+
+2.
+Arrange these steps in the correct order for a typical data analysis project:
+(1.) Clean and prepare data
+(2.) Draw conclusions and recommend actions
+(3.) Collect or access data
+(4.) Analyze and visualize data
+
+ 3 ? 1 ? 4 ? 2
+ 1 ? 3 ? 4 ? 2
+ 3 ? 4 ? 1 ? 2
+ 2 ? 3 ? 1 ? 4
+
+
+3.
+An employee wants to build an AI system that groups customer support tickets into clusters based on text similarity, without using any pre-existing category labels. What type of machine learning approach is this?
+
+ Supervised Learning
+ Reinforcement Learning
+ Unsupervised Learning
+ Semi-supervised Regression
+
+
+4.
+An employee uses a generative AI tool to draft a summary of a dataset for an internal team. What is the best next step before the summary is shared?
+
+ Share it immediately because AI outputs are always reliable.
+ Delete the dataset and keep only the AI summary.
+ Review the summary for accuracy, check for sensitive information, and have a supervisor or analyst validate it as needed.
+ Assume any errors are acceptable because it was only a draft.
+
+
+5.
+You've completed a complex AI analysis. Your agency director (non-technical) asks you to explain your findings in 2 minutes. What's your BEST approach?
+
+ Show all statistical models, code, and technical details
+ Lead with key findings and business implications; offer technical details if asked
+ Admit it's too complex to explain simply
+ Use only charts without explanation
+
+
+6.
+You have trained a binary classification model to flag fraudulent transactions. The model predicts that a completely legitimate transaction is fraudulent. In technical terminology, what is this error called?
+
+ True Positive
+ False Positive (Type I Error)
+ False Negative (Type II Error)
+ True Negative
+
+
+7.
+You're asked to organize agency survey responses (numbers, text, yes/no answers, and dates). Which data type would be LEAST useful for storing the yes/no responses?
+
+ Boolean
+ String
+ Integer
+ Categorical
+
+
+8.
+While reviewing a dataset used to train a loan-approval AI system, an employee notices that historical data heavily favors one specific demographic group over another. If left uncorrected, what will most likely happen to the resulting model?
+
+ The model will automatically recognize the historic unfairness and fix it.
+ The model will replicate and institutionalize the bias present in the training data.
+ The model will crash and throw a fatal system error during compilation.
+ The model's accuracy will instantly double.
+
+
+9.
+Machine learning model performs perfectly on training data but poorly on new data. What is this called?
+
+ Underfitting
+ Overfitting
+ Bias
+ Variance
+
+
+10.
+What does it mean when a machine learning model is "overfitting" the training data?
+
+ The model has learned the noise and random fluctuations in the training data too well, causing it to perform poorly on new testing data.
+ The model is too simple to capture the underlying pattern in the data.
+ The training data is too large to fit into the system's volatile memory (RAM).
+ The model's predictions are entirely random and have a 0% accuracy rate.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+11.
+I certify that I did not use a consultant or artificial intelligence tool (such as a large language model) to complete the responses above. To the best of my knowledge, all information provided in my application is true and accurate. I affirm that I have truthfully and accurately represented my work experience, knowledge, skills, abilities, and education. I understand that providing false or misleading information may result in disqualification from consideration or termination of employment if hired.
+
+I further certify that I have read the entire vacancy announcement, reviewed my responses to the eligibility questions for accuracy, and understand the requirements regarding supporting documentation, including what must be submitted and applicable deadlines.
+
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
