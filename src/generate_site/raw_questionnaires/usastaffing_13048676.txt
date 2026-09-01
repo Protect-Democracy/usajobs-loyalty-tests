@@ -1,0 +1,193 @@
+Position Title
+Budget Analyst
+Agency
+National Oceanic and Atmospheric Administration
+Announcement Number
+NMFS-26-13048676-DE Opens in new window
+Open Period
+Sep 01, 2026 to Sep 08, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+Are you a current Department of Commerce employee who meets the definition of surplus or displaced definition of surplus or displaced  from a position in the competitive service that makes you eligible under the Career Transition Assistance Plan (CTAP)?  Note: You are required to submit supporting documentation as proof of eligibility.
+
+If yes, please confirm that you meet all the following eligibility requirements:
+This position is in the same local commuting area as the position of record from which you will be separated; and
+This position is at a grade level no higher than the grade of the position of record from which you will be separated; and
+This position has no greater promotion potential than the position of record from which you will be separated; and
+You have a current performance rating of record of at least fully successful or the equivalent; and 
+You have not yet been separated. 
+ Yes
+ No
+
+
+3.
+Are you a current or former employee of a Federal agency who meets the definition of surplus or displaced from a position in the competitive service from a Federal agency outside of the Department of Commerce that makes you eligible under the Interagency Career Transition Assistance Plan (ICTAP)?  Note: You are required to submit supporting documentation as proof of eligibility.
+
+If yes, please confirm that you meet all the following eligibility requirements:
+This position is in the same local commuting area as the position of record from which you were separated; and 
+This position is at a grade level no higher than the grade of the position of record from which you were separated; and 
+This position has no greater promotion potential than the position of record from which you were separated; and
+Your last performance rating of record was at least fully successful or the equivalent; and
+You were separated from your position of record less than one (1) year ago.
+ Yes
+ No
+
+
+Merit Hiring Plan
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+
+
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+
+
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+
+
+3.
+How would you help advance the President's Executive Orders and policy priorities in this role? Identify one or two relevant Executive Orders or policy initiatives that are significant to you, and explain how you would help implement them if hired.
+
+
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+
+
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+
+
+Assessment 1
+1.
+Select the statement that best describes the education and/or experience that demonstrates your ability to perform the work of a Budget Analyst, ZA-0560-3 pay band or equivalent grade level (GS-11) in the Federal service.
+
+ I have at least one full year (52 weeks) of specialized experience equivalent to the next lower pay band (ZA-2) or GS-09 grade level in the Federal service which includes all of the following: Contributing to budget estimates or reviewing justifications for use in presenting funding requests or recommendations; Compiling or analyzing of budgetary data to forecast organization or program funding needs; and Reviewing or approving financial resources associated with yearly allocations or financial documents.
+ I have a Ph.D. or equivalent doctoral degree or 3 full years of progressively higher level graduate education leading to such a degree or LL.M., if related. (Note: You must attach a copy of your transcripts.)
+ I have a combination of successfully completed graduate-level education and specialized experience as described above. Note: Only graduate-level in excess of the amount required for the next lower grade level may be combined with experience. (Note: You must attach a copy of your transcripts.)
+ I do not possess the education and/or experience described above.
+
+
+Assessment 2
+1.
+When utilizing a performance-based budgeting framework during the formulation phase, what is the primary objective of the budget justification narrative?
+
+ To itemize every prospective vendor interaction planned for the upcoming fiscal cycle.
+ To link requested funding levels directly to quantifiable operational outputs and strategic organizational outcomes.
+ To provide a historical breakdown of depreciation schedules for existing capital assets.
+ To justify shifting all operational accounting from an accrual basis to a cash basis.
+
+
+2.
+An organization's automated financial system indicates that mid-year commitments and expenses have inadvertently exceeded the approved budget allocation for a specific department. To prevent unauthorized spending before it occurs, which financial management mechanism should have actively blocked the transaction?
+
+ Post-payment audit tracking
+ Automated fund control and encumbrance management
+ End-of-year general ledger reconciliation
+ Trend analysis forecasting models
+
+
+3.
+When an organization operates under a temporary budget extension or interim funding measure due to a delay in final budget approval, it is standard financial practice to initiate major new long term capital initiatives, provided the initial monthly expenditures stay within the historical baseline of the prior year.
+
+ True
+ False
+
+
+4.
+In an automated budget tracking workbook, you must extract a specific quarterly allotment figure from a master reference sheet using a unique Account ID as the lookup value. To ensure the formula does not break if a team member inserts or rearranges columns in the reference sheet later, which approach is most robust?
+
+ A standard =VLOOKUP formula with a hardcoded column index number.
+ A combination of =INDEX and =MATCH formulas (or an =XLOOKUP formula).
+ A basic link cell reference (e.g., =Sheet2!B4).
+ A =CONCATENATE string formula.
+
+
+5.
+When drafting a narrative justification to request a budget increase for an underfunded organizational program, which TWO of the following elements must an analyst prioritize to build a persuasive case for leadership? (Select TWO)
+
+ A. Alignment with the organization's overarching Strategic Plan and defined performance goals.
+ B. A complete roster of individual contractor names and their historical performance evaluations.
+ C. A workload or volume variance analysis demonstrating that current resources cannot meet demand.
+ D. A summary of internal peer-review surveys regarding general workplace satisfaction within that program.
+
+
+6.
+A mid-year budget execution review reveals a significant, unexpected negative variance (over spending) in personnel compensation and benefits. Which TWO reports or data sources should an analyst extract from automated payroll and financial systems to identify the root cause? (Select TWO)
+
+ A. The organization's 5-year capital asset realization and disposal schedule.
+ B. Current-year Full-Time Equivalent (FTE) labor burn rates and projection models.
+ C. Detailed payroll registers cross-referenced with recent hiring, overtime, or promotion actions.
+ D. The external vendor supply and logistics schedule catalog.
+
+
+7.
+At the end of a fiscal cycle, once an annual operating budget closes, unexpended funds that have entered a lapsed or closed status can legally be used by a budget analyst to initiate new contracts or projects for the upcoming fiscal year.
+
+ True
+ False
+
+
+8.
+When analyzing financial performance reports, a budget analyst must distinguish between "obligations/encumbrances incurred" and "actual cash expenditures." What is the fundamental difference between these two metrics?
+
+ Obligations/encumbrances represent a formal financial commitment to pay for goods or services ordered; expenditures represent the actual liquidation or payment of those commitments.
+ Obligations represent projected future revenue; expenditures represent approved budget authority.
+ Obligations are managed exclusively by external auditors; expenditures are processed by executive leadership.
+ There is no functional difference; they are interchangeable terms in standard organizational accounting.
+
+
+9.
+When tracking the life cycle of funds within an automated financial management enterprise resource planning (ERP) system, which sequence accurately reflects the standard operational flow of a budgetary resource?
+
+ Commitment/Encumbrance ? Budget Allocation ? Legal Obligation ? Cash Disbursement
+ Budget Allocation ? Commitment/Encumbrance ? Legal Obligation (e.g., Contract/PO) ? Cash Disbursement/Expenditure
+ Legal Obligation ? Budget Allocation ? Commitment/Encumbrance ? Cash Disbursement
+ Budget Allocation ? Cash Disbursement ? Commitment/Encumbrance ? Legal Obligation
+
+
+10.
+You are tasked with consolidating monthly execution data from dozens of regional spreadsheets into a central dashboard. To dynamically aggregate, filter, and summarize thousands of lines of transaction data by cost center and quarter without permanently altering the raw source data, which tool is the most efficient?
+
+ Goal Seek
+ PivotTables
+ Conditional Formatting [0]Text to Columns
+
+
+11.
+Your organization (the Performing Department) has been approached by another internal business unit or external partner entity (the Requesting Department) to provide specialized IT and administrative support services. This arrangement will require the creation of a reimbursable or shared services agreement where your department is compensated for its expenses.
+Prompt: Please provide a detailed narrative response (300-500 words) that addresses the following three prompt points:
+(1.) Explain the fundamental operational and financial difference between Direct budget allocations (funds given directly to your department to execute its core mission) and Reimbursable authority (funding earned by performing work for another entity).
+(2.) Outline the lifecycle of a typical reimbursable agreement, specifically identifying the standard steps or internal documentation required (e.g., Service Level Agreements, cost estimates, formal billing authorizations) to establish a baseline before work begins.
+(3.) Identify one major financial risk or common pitfall associated with managing reimbursable funding (such as tracking shared overhead, billing delays, or scope creep) and describe how a budget analyst would monitor and mitigate that risk using automated tools or data tracking systems.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+12.
+I certify that I did not use a consultant or artificial intelligence tool (such as a large language model) to complete the responses above. To the best of my knowledge, all information provided in my application is true and accurate. I affirm that I have truthfully and accurately represented my work experience, knowledge, skills, abilities, and education. I understand that providing false or misleading information may result in disqualification from consideration or termination of employment if hired.
+
+I further certify that I have read the entire vacancy announcement, reviewed my responses to the eligibility questions for accuracy, and understand the requirements regarding supporting documentation, including what must be submitted and applicable deadlines.
+
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
