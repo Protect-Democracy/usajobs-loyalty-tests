@@ -1,0 +1,120 @@
+Position Title
+Pathways Recent Graduate Economist/Statistician/Data Scientist
+Agency
+Railroad Retirement Board
+Announcement Number
+260045PW-13045847-YA Opens in new window
+Open Period
+Sep 01, 2026 to Sep 21, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+Are you a recent graduate who has, within the previous two years, completed a qualifying Associate's, Bachelors, Masters, Doctorate, professional, vocational or technical degree or certificate program? Note: Veterans unable to apply within two years of receiving their degree due to military service obligation have up to six years after degree completion to apply.
+
+For more information, review USAJOBS Student and Recent Graduate resources.
+
+To verify your eligibility, you must submit a copy of your transcripts. If you are a veteran, please submit a copy of your latest Certificate of Release or Discharge from Active Duty, DD-214 (copy indicating character of service) or other proof of service which includes character of service.
+ Yes
+ No
+
+
+Preferences
+1.
+Select the lowest grade you are willing to accept for this position.
+7
+9
+
+
+2.
+Select the series you want to be considered for. You must choose at least one series.
+ A. 0110 - Economist
+ B. 1530 - Statistics
+ C. 1560 - Data Science Series
+
+
+Essay Questions
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+
+
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+
+
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+
+
+3.
+How would you help advance the President's Executive Orders and policy priorities in this role? Identify one or two relevant Executive Orders or policy initiatives that are significant to you, and explain how you would help implement them if hired.
+
+
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+
+
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+
+
+Assessment 1
+1.
+From the statements below, select the one response (A, B, or C) that most closely and accurately describes your education or education and experience and demonstrates your ability to perform Economist work.
+ I have a Degree in economics, that included at least 21 semester hours in economics and 3 semester hours in statistics, accounting, or calculus.
+ I have a Combination of education and experience: courses equivalent to a major in economics, as shown in A above, plus appropriate experience or additional education.
+ I do not have the education and/or experience required to meet the basic requirement for this position.
+
+
+2.
+From the statements below, select the one response (A, B or C) that most closely and accurately describes your education or education and experience and demonstrates your ability to perform Statistician work.
+ I have a Degree that included 15 semester hours in statistics (or in mathematics and statistics, provided at least 6 semester hours were in statistics), and 9 additional semester hours in one or more of the following: physical or biological sciences, medicine, education, or engineering; or in the social sciences including demography, history, economics, social welfare, geography, international relations, social or cultural anthropology, health sociology, political science, public administration, psychology, etc. Credit toward meeting statistical course requirements should be given for courses in which 50 percent of the course content appears to be statistical methods, e.g., courses that included studies in research methods in psychology or economics such as tests and measurements or business cycles, or courses in methods of processing mass statistical data such as tabulating methods or electronic data processing.
+ I have a Combination of education and experience -- courses as shown in A above, plus appropriate experience or additional education. The experience should have included a full range of professional statistical work such as (a) sampling, (b) collecting, computing, and analyzing statistical data, and (c) applying statistical techniques such as measurement of central tendency, dispersion, skewness, sampling error, simple and multiple correlation, analysis of variance, and tests of significance.
+ I do not have the education and/or experience required to meet the basic requirement for this position.
+
+
+3.
+From the statements below, select the one response (A, B, or C) that most closely and accurately describes your education or education and experience and demonstrates your ability to perform Data Scientist work.
+ I have a Degree: Mathematics, statistics, computer science, data science or field directly related to the position. The degree must be in a major field of study (at least at the baccalaureate level) that is appropriate for the position.
+ I have a Combination of education and experience: Courses equivalent to a major field of study (30 semester hours) as shown in paragraph A above, plus additional education or appropriate experience.
+ I do not have the education and/or experience required to meet the basic requirement for this position.
+
+
+4.
+From the descriptions below, select the one response that most closely and accurately describes your education and/or experience and demonstrates your ability to perform Economist/Statistician/Data Scientist work at the GS-07 level.
+ I have one year of specialized experience at or equivalent to at least the GS-05 grade level in the Federal service that includes assisting with the planning and conducting data collection studies or projects; analyzing data sets; assisting with conducting analysis using various computer applications and software such as QMF, SAS, R, SQL, and Excel; and assisting in developing a portion of a technical report.
+ I have one full year of graduate level education in an accredited or pre-accredited college or university in one of the following related fields: Economics, Statistics, Data Science, Mathematics, Actuarial Science, or Computer Science. The education must demonstrate the knowledge, skills, and abilities necessary to do the work.
+ I qualify under the Superior Academic Achievement provision (see announcement for qualifications)
+ I have a combination of experience as described in letter A above, and education as described in letter B above, which, when combined, is equivalent to 100% of the qualification requirement.
+ My experience and/or education are not reflected in any of the above choices
+
+
+5.
+Please select the one response that accurately describes your highest level of experience that demonstrates your ability to perform Economist/Statistician/Data Scientist work at the GS-09 level.
+ I have one year of specialized experience at or equivalent to at least the GS-07 grade level in the Federal service that includes planning and conducting data collection studies or projects; providing analysis and recommendations from analysis of data sets; conducting analysis using various computer applications and software such as QMF, SAS, R, SQL, and Excel; and preparing detailed concise technical reports.
+ I have a Master's or equivalent graduate degree or 2 full years of progressively higher level graduate education leading to such a degree in a related field such as Economics, Statistics, Data Science, Mathematics, Actuarial Science, or Computer Science.
+ I have a combination of specialized experience and qualifying graduate education beyond the first year of graduate study that together meet the requirements for this position.
+ My experience and/or education are not reflected in any of the above choices.
+
+
+6.
+I certify that, to the best of my knowledge and belief, all of the information included in this questionnaire is true, correct, and provided in good faith. I understand that if I make an intentional false statement, or commit deception or fraud in this application and its supporting materials, or in any document or interview associated with the examination process, I may be fined or imprisoned (18 U.S.C. 1001): my eligibilities may be cancelled, I may be denied an appointment, or I may be removed and debarred from Federal service (5 C.F.R. part 731). I understand that any information I give may be investigated. I understand that responding "No" to this item will result in my not being considered for this position.
+ Yes, I certify that the information provided in this questionnaire is true, correct and provided in good faith, and I understand the information provided above.
+ No, I do not certify/understand the information provided above.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
