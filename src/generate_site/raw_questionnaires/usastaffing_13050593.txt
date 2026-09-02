@@ -1,0 +1,175 @@
+Position Title
+Information Technology Specialist (Infrastructure)
+Agency
+Western Area Power Administration
+Announcement Number
+26-WA-01199-13050593-IMP Opens in new window
+Open Period
+Sep 01, 2026 to Sep 08, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Are you a current career/career-conditional federal employee at the Department of Energy applying for a PROMOTION to a position with a higher grade/pay band or higher promotion potential than you previously held on a permanent basis?
+
+Note: also select "Yes" if applying for a change-to-lower grade (CTLG) to a position with higher promotion potential than you previously held on a permanent basis.
+
+Check the REQUIRED DOCUMENTS section in the job announcement for instructions to support your eligibility to apply for this vacancy.
+ Yes
+ No
+
+
+2.
+Are you a current excepted service federal employee at the Department of Energy applying for a CONVERSION (same or lower grade) to a different position in the excepted service?
+
+Check the REQUIRED DOCUMENTS section in the job announcement for instructions to support your eligibility to apply for this vacancy.
+ Yes
+ No
+
+
+3.
+Are you a current excepted service federal employee at the Department of Energy applying for a PROMOTION to a position with a higher grade/pay band or higher promotion potential than you previously held?
+
+Check the REQUIRED DOCUMENTS section in the job announcement for instructions to support your eligibility to apply for this vacancy.
+ Yes
+ No
+
+
+4.
+Are you a current career/career-conditional federal employee at the Department of Energy applying for a REASSIGNMENT, CHANGE-TO-LOWER GRADE, or REPROMOTION and you currently or previously held a position with the same grade/pay band or higher and the same or higher promotion potential on a permanent basis?
+
+Check the REQUIRED DOCUMENTS section in the job announcement for instructions to support your eligibility to apply for this vacancy.
+ Yes
+ No
+
+
+5.
+Reasonable Accommodations for taking the online assessments are provided on a case-by-case basis only to qualified individuals with a disability covered by the Rehabilitation Act of 1973, as amended.
+
+Do you have a disability (physical or mental) that you believe will interfere with completing the online assessments and require a Reasonable Accommodation?
+
+ Yes
+ No
+
+
+Preferences
+1.
+Select the location(s) you want to be considered for. You must choose at least one location.
+ A. Phoenix, AZ
+ B. Lakewood, CO
+ C. Huron, SD
+
+
+2.
+Do any of your relatives work for the agency to which you are applying? If so, please list any applicable names below. Please enter N/A in the text box, if not Applicable. (Include: father, mother, husband, wife, son, daughter, brother, sister, uncle, aunt, first cousin, nephew, niece, father-in-law, mother-in-law, daughter-in-law, son-in-law, brother-in-law, sister-in-law, stepfather, stepmother, stepson, stepdaughter, stepbrother, stepsister, half brother, and half sister).
+
+
+3.
+I understand that the responses in this questionnaire must be fully supported in my online resume. I further understand that my resume must provide detailed descriptions and/or examples of my knowledge and competencies as required in the vacancy announcement, and that my failure to do so may result in my being rated "ineligible" or "not qualified" for this position.
+ Yes
+ No
+
+
+4.
+Are you an employee of one of the following?
+
+ Southeastern Power Administration
+ Southwestern Power Administration
+ Western Area Power Administration
+ None of the above
+
+
+5.
+Instructions: To provide the hiring manager an opportunity to consider your accomplishments, you may submit/attach copies of your performance appraisals and/or incentive award justification as part of your application by uploading these documents into USA Staffing.
+
+
+All current Federal employees must have at least a fully successful or equivalent performance rating or higher, to be considered for competitive placement. Competitive Federal employees who have a current unacceptable performance rating will be excluded from consideration.
+ I am a current Federal employee, my last performance rating was fully successful (meets expectations) or equivalent, or higher.
+ I am a current Federal employee; my last performance rating was unacceptable (fails to meet expectations).
+ I am a new Federal employee and have not received a performance rating as of the date of this application.
+ I am not a Federal employee; however, I will consider attaching my recent performance appraisal from my employer for consideration.
+ I am not a Federal employee, and I do not have any performance documentation to submit for consideration.
+
+
+6.
+Have you received awards or been recognized as part of your annual performance appraisal for work that was based on one or more of the competencies described in this vacancy announcement?
+ Yes
+ No
+
+
+7.
+Are you currently serving or have served in the last five (5) years in a Political Appointment in the Federal Government?
+ Yes
+ No
+
+
+8.
+Please list the title, agency and dates of the appointments
+
+
+9.
+I understand I must select one, but may select more than one, eligibility option in order to receive consideration under competitive merit promotion and/or non-competitive consideration.
+ Yes
+ No
+
+
+10.
+I understand this position has been identified as potentially meeting the requirements of Schedule Policy/Career. I also understand that if I am selected and DOE designates the position as "Schedule Policy/Career" in the excepted service, I will be converted (moved) from the competitive service to the excepted service. Further, I understand this designation/determination is not appealable.
+ Yes, I understand and agree.
+ No, and I no longer wish to be considered for this position.
+
+
+Essay Questions
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+
+
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+
+
+3.
+How would you help advance the President's Executive Orders and policy priorities in this role? Identify one or two relevant Executive Orders or policy initiatives that are significant to you, and explain how you would help implement them if hired.
+
+
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+
+
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+
+
+Assessment 1
+1.
+SPECIALIZED EXPERIENCE REQUIREMENT: Choose one answer that best describes your experience for the Information Technology Specialist, GS-2210-13 position.
+ I have at least one year of specialized experience equivalent to the next lower grade (GS-12) or equivalent pay band. Specialized experience for this position is defined as meeting at least 2 of the following: (1) Design, deploy, and/or manage large-scale highly available enterprise IT environments for the purpose of infrastructure modernization strategies, managing hardware/software lifecycles, capacity forecasting, and/or performance; (2) Lead end-to-end administration of enterprise operating systems (i.e. Windows Server, desktop environments), directory services (i.e. Active Directory, Entra, identity and access management), enterprise storage systems (i.e. SAN, HCI, SAN) and/or virtualization platforms (i.e. VMware, Citrix); (3) Implement and/or enforce principles/directives/standards and/or components for Zero Trust (i.e. EO 14028, PIV, MFA, CBA), Federal or energy sector requirements (i.e. FISMA, BODs, SCuBA baselines, WECC, NERC, CIP, CVA).
+ I do not meet the requirements as described above.
+
+
+2.
+I understand that this is not a remote position. The selectee will be required to be physically present at duty station.
+ Yes
+ No
+
+
+3.
+I understand that there will be travel of up to 10% annually is required; with overnight travel possible during all or part of that time.
+ Yes
+ No
+
+
+4.
+I understand this position may require overtime on short notice to include nights, holidays and weekends in support of related mission requirements.
+ Yes
+ No
+
+
+5.
+I understand this position requires 24/7 On-call status on a rotational basis. On-call status on a rotational basis is anticipated to be approximately 10-20% of the year. While in an on-call duty status, required to carry a cellular phone and remain within one-half hour travel time of their primary place of residence (or approved on-call place of residence) and, will sustain themselves in an able to respond and perform work condition.
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
