@@ -1,0 +1,142 @@
+Position Title
+Data Scientist (Direct Hire)
+Agency
+Environmental Protection Agency
+Announcement Number
+EPA-OIG-DE-26-13007904 Opens in new window
+Open Period
+Sep 01, 2026 to Sep 08, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+U.S. Citizens, Nationals or those who owe allegiance to the U.S.
+ Yes
+ No
+
+
+3.
+Are you a current or former federal employee displaced from the agency hiring for this position? If yes, confirm:
+you are located in the same local commuting area of the vacancy; AND,
+you are applying to a position that is at or below the grade level of the position from which you were or will be separated; AND,
+you are applying to a position that does not have greater promotion potential than the position from which you were or will be separated; AND,
+your last performance rating of record is at least fully successful or the equivalent.
+
+For more information, review the USAJOBS Help Center.
+
+To verify your eligibility, you must submit supporting documentation such as a Reduction in Force (RIF) separation notice or a Proposed Removal/Separation notice to include your latest performance rating (if the notice does not have this information included, you must submit a copy of your most recent performance appraisal) and a copy of your latest Notification of Personnel Action, Standard Form 50.
+ Yes
+ No
+
+
+4.
+Are you a current or former federal employee displaced from a position in a Federal agency other than the agency hiring for this position? If yes, confirm:
+
+• you are located in the same local commuting area of the vacancy; AND,
+• you are applying to a position that is at or below the grade level of the position from which you were or will be separated; AND,
+• you are applying to a position that does not have greater promotion potential than the position from which you were or will be separated; AND,
+• your last performance rating of record is at least fully successful or the equivalent.
+
+For more information, review the USAJOBS Help Center.
+
+To verify your eligibility, you must submit supporting documentation such as a Reduction in Force (RIF) separation notice to include your latest performance rating (if the notice does not have this information included, you must submit a copy of your most recent performance appraisal) and a copy of your latest Notification of Personnel Action, Standard Form 50.
+ Yes
+ No
+
+
+5.
+Reasonable Accommodations for taking the online assessments are provided on a case-by-case basis only to qualified individuals with a disability covered by the Rehabilitation Act of 1973, as amended.
+
+Do you have a disability (physical or mental) that you believe will interfere with completing the online assessments and require a Reasonable Accommodation?
+
+ Yes
+ No
+
+
+Preferences
+1.
+Select the lowest grade you are willing to accept for this position.
+9
+11
+
+
+2.
+Are you a current or former Executive Branch political appointee who served on a political Schedule A or Schedule C appointment within the past 5 years?
+ Yes
+ No
+
+
+3.
+Select the response that best describes the rating of record for your most recent performance appraisal:
+ Outstanding
+ Exceeds Fully Successful/Exceeds Expectations
+ Fully Successful
+ Minimally Successful
+ Unacceptable
+ I have not received a performance appraisal
+
+
+Merit Hiring Plan Short Essay Questions
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+
+
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+
+
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+
+
+3.
+How would you help advance the President's Executive Orders and policy priorities in this role? Identify one or two relevant Executive Orders or policy initiatives that are significant to you, and explain how you would help implement them if hired.
+
+
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+
+
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+
+
+Assessment 1
+1.
+Basic Qualification Question - Data Scientist, GS-1560: From the responses below, select the ONE response that BEST describes the education and/or education and experience that you possess that meets the basic qualification requirements for the Data Scientist, GS-1560 series.
+ DEGREE: I possess a bachelor’s degree or higher with a major in mathematics, statistics, computer science, data science, or a field directly related to the position, with the degree in a major field of study appropriate for the position.
+ Combination of Education and Experience: I possess courses equivalent to a major field of study (30 semester hours) in mathematics, statistics, computer science, data science, or a field directly related to the position, plus additional education or appropriate experience that meets the requirements for the Data Science Series, GS-1560.
+ I do not possess the education or combination of education and experience described above and therefore do not meet the basic qualification requirements for the GS-1560 series.
+
+
+2.
+From the descriptions below, select the ONE response that BEST describes the education and/or specialized experience that you possess that demonstrates your ability to perform as a GS-09 Data Scientist.
+ I have at least one full year of specialized experience equivalent to the GS-07 level in Federal service. Specialized experience is defined as experience 1.) Creating and modeling data analysis and statistical trends using data pipelines which includes data cleaning, feature engineering, design and implementation of machine learning models, including generative AI and agentic AI solutions, to support projects in Amazon Web Services (AWS) and Microsoft 365 (M365) environments. 2.) Creating visualizations for data analysis and findings using business intelligence tools, Link Analysis tools, and Machine Learning (ML) services such as Microsoft PowerBI, ArcGIS Knowledge, ArcGIS Enterprise, and Amazon SageMaker. 3.) Developing or optimizing SQL, Python, and R code related to (ML) models, queries, or database operations for efficient data access, processing, and reporting. 4.) Assisting with technical documentation by creating data dictionaries, methodologies, and utilizing version control for traceability of the entire lifecycle of data and analytical models.
+ Education: Master's or equivalent graduate degree or 2 full years of progressively higher level graduate education leading to such a degree in Mathematics, statistics, computer science, data science or field directly related to the position. The degree must be in a major field of study (at least at the baccalaureate level) that is appropriate for the position.
+ I have a combination of specialized experience as described in (A) and qualifying undergraduate or graduate education as described in (B) which when combined equal 100% of the requirements. Qualifying Education percentage: is calculated by first determining the total number of semester hours (undergraduate or graduate) that exceed the basic requirement (such as the 30 semester hours equivalent to a major for the 1560 series), then divide that total by the total number of education hours required for a full year of study (typically 30 semester hours, or your school's definition).
+ I do not have the education or experience as described above.
+
+
+3.
+From the descriptions below, select the ONE response that BEST describes the education and/or specialized experience that you possess that demonstrates your ability to perform as a GS-11 Data Scientist.
+ I have at least one full year of specialized experience equivalent to the GS-09 level in Federal service. Specialized experience is defined as experience 1.) Creating and modeling data analysis and statistical trends using data pipelines which includes data cleaning, feature engineering, design and implementation of machine learning models, including generative AI and agentic AI solutions, to support projects in Amazon Web Services (AWS) and Microsoft 365 (M365) environments. 2.) Creating visualizations for data analysis and findings using business intelligence tools, Link Analysis tools, and Machine Learning (ML) services such as Microsoft PowerBI, ArcGIS Knowledge, ArcGIS Enterprise, and Amazon SageMaker. 3.) Developing or optimizing SQL, Python, and R code related to (ML) models, queries, or database operations for efficient data access, processing, and reporting. 4.) Assisting with technical documentation by creating data dictionaries, methodologies, and utilizing version control for traceability of the entire lifecycle of data and analytical models.
+ Education: Ph.D. or equivalent doctoral degree or 3 full years of progressively higher level graduate education leading to such a degree
+ I have a combination of specialized experience as described in (A) and qualifying undergraduate or graduate education as described in (B) which when combined equal 100% of the requirements. Qualifying Education percentage: is calculated by first determining the total number of semester hours (undergraduate or graduate) that exceed the basic requirement (such as the 30 semester hours equivalent to a major for the 1560 series), then divide that total by the total number of education hours required for a full year of study (typically 30 semester hours, or your school's definition).
+ I do not have the education or experience as described above.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
