@@ -1,0 +1,196 @@
+Position Title
+IT SPECIALIST (INFOSEC)
+Agency
+Pension Benefit Guaranty Corporation
+Announcement Number
+ITIOD-ITIOAD-26-13047849 Opens in new window
+Open Period
+Sep 02, 2026 to Sep 09, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+
+Are you requesting consideration under the 30% or More Disabled Veteran hiring authority?
+
+In order to be eligible, you must:
+• Be a veteran with a service-connected disability rating of 30% or more, as documented by the Department of Veterans Affairs.
+• Have been separated under honorable conditions (honorable or general discharge).
+• Meet all qualification requirements for the position.
+• Understand that this authority allows noncompetitive appointment to permanent, term, or temporary positions at any grade level.
+
+ Yes
+ No
+
+
+3.
+Are you requesting consideration under the Career Transition Assistance Plan (CTAP)?
+
+In order to be eligible, you must:
+
+• Be a current PBGC employee who has received an official RIF separation notice, Certificate of Expected Separation, or other certification identifying your position as surplus.
+• Have a current performance rating of at least "Fully Successful" (or equivalent).
+• Apply for a vacancy within the same local commuting area.
+• Apply for a position that is at or below your current grade and does not exceed the promotion potential of the position from which you are being separated.
+ Yes
+ No
+
+
+4.
+
+Are you requesting consideration under Delegated Examining (DE)?
+
+In order to be eligible, you must:
+
+• Be a U.S. Citizen or National, as required by OPM's Delegated Examining authority.
+• Meet all minimum qualification requirements by the closing date.
+• Understand that applicants will be assessed using category rating, veterans' preference, and merit-based criteria.
+ 
+
+ Yes
+ No
+
+
+5.
+Are you requesting consideration under the Interagency Career Transition Assistance Plan (ICTAP)?
+
+In order to be eligible, you must:
+• Provide a specific written RIF separation notice or SF-50 documenting separation or retirement (an in-lieu-of [LILA] action is acceptable).
+• Have a rating of record of at least "Fully Successful" (or equivalent) from the most recent cycle prior to separation.
+• Be within one year of your actual or scheduled separation date as of the vacancy's closing date.
+• Apply for a position that is within the local commuting area, at or below the grade of the position from which you were or will be separated, and that does not exceed the promotion potential of your former position.
+• Meet all qualification requirements and be determined well-qualified under agency criteria.
+ Yes
+ No
+
+
+6.
+
+Are you requesting consideration under the Noncompetitive Appointment of Certain Military Spouses authority?
+
+In order to be eligible, you must:
+• Be the spouse of an active-duty service member serving under orders for more than 180 days; OR
+• Be the spouse of a service member who incurred a 100% disability due to active-duty service; OR
+• Be an unmarried widow/widower of a service member who died while on active duty.
+• Provide required documentation, including: - Marriage certificate, active-duty orders, and—when applicable—DD Form 214; - Documentation verifying a 100% service-connected disability, if applicable.
+• Understand this authority allows noncompetitive appointments to competitive service positions for permanent, term, or temporary roles.
+
+ Yes
+ No
+
+
+Four Essay Questions
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+
+
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+
+
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+
+
+3.
+How would you help advance the President's Executive Orders and policy priorities in this role? Identify one or two relevant Executive Orders or policy initiatives that are significant to you, and explain how you would help implement them if hired.
+
+
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+
+
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+
+
+AI Question
+1.
+Please describe your experience using artificial intelligence (AI) tools or technology in a professional or personal setting. Include examples of how you used AI to improve efficiency, decision-making, communication, research, analysis, or work products.
+
+Note: Your response will not be rated or used to determine your qualifications. It will be provided only to the hiring manager for consideration.
+
+
+Core Questions
+1.
+How did you find out about this vacancy announcement?
+Facebook
+LinkedIn
+Twitter
+New Response
+word of mouth
+USAJobs
+Executive Search Firm
+vocational rehabilitation center
+college posting
+Workforce Recruitment Program (WRP)
+veteran’s job fair/job board
+professional organization (e.g., NABA, ABBA, SOA, AICPA, etc.)
+niche (or trade) job fair or job board
+Efinancial.com
+INDEED.com
+Wall Street Journal
+veterans disability organizations
+other
+prefer not to answer
+
+
+2.
+If you answered "other" to the previous question, please provide the resource here.
+
+
+3.
+Have you accepted a buyout or an early out from a Federal agency within the past 5 years?
+ Yes
+ No
+
+
+4.
+Are you currently a contractor at PBGC?
+ Yes
+ No
+
+
+Assessment 1
+GS-14: Specialized Experience: Applicants must have at least one year of specialized experience at the GS-13 grade level in the Federal service or equivalent to the GS-13 grade level in the private sector administering, managing, or providing technical expertise for complex Information Technology (IT) security activities, programs, or operations. Examples include: defining security requirements and assessing proposed new technologies and solution systems for the Federal Information Security Management Act (FISMA) compliance; developing and executing plans to assess privacy and security controls; overseeing information security, audit and control programs; and implementing, managing and operating security tools such as BigFix, IronPort and the Physical Access Control and Surveillance System (PACSS).
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+1.
+Do you have at least one year of specialized experience at the GS-13 grade level in the Federal service or equivalent to the GS-13 grade level in the private sector as described above?
+ Yes
+ No
+
+
+2.
+At a minimum, I can perform the actions associated with each of the four competencies listed below without assistance: 
+
+1. Attention to Detail - Is thorough when performing work and conscientious about attending to detail.
+
+2. Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services.
+
+3. Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately.
+
+4. Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.
+
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
