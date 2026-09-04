@@ -1,0 +1,195 @@
+Position Title
+Electronics Technician
+Agency
+U.S. Agency for Global Media
+Announcement Number
+DE-13048062-26-AG Opens in new window
+Open Period
+Sep 03, 2026 to Sep 18, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+Are you a veteran who separated from active duty under honorable conditions and you:
+have a rating by the Department of Veterans Affairs showing a compensable service-connected disability of 30% or more OR
+retired from active military service with a service-connected disability rating of 30% or more
+If eligible, submit a copy of your latest Certificate of Release or Discharge from Active Duty, DD-214 (copy indicating character of service) or other proof of your service which includes character of service. Please also provide the disability letter from the Department of Veterans Affairs or Armed Service and the Application for 10-Point Veteran Preference, Standard Form 15.
+
+For more information, review USAJOBS Veterans resources.
+ Yes
+ No
+
+
+3.
+Are you a current or former federal employee displaced from the agency hiring for this position? If yes, confirm:
+you are located in the same local commuting area of the vacancy
+your grade is equivalent to or below the grade level of the vacancy AND
+your last performance rating of record is at least fully successful or the equivalent.
+You will be required to submit supporting documentation to validate your claim of CTAP eligibility such as a Reduction in Force (RIF) separation notice or a Proposed Removal/Separation notice and a copy of your latest Notification of Personnel Action, Standard Form 50.
+
+For more information, review the USAJOBS Resource Center.
+ Yes
+ No
+
+
+Preferences
+1.
+Where did you learn about this U.S. Agency for Global Media job opportunity?
+ USAGM Careers web page
+ USAJOBS website
+ Career Fair, Conference, or Conventions
+ Vacancy Announcement Posting
+ Friend/Relative
+ Social Media
+ Professional Organization
+ Radio/TV
+ School, College, Counselor
+ Other
+
+
+2.
+The Office of Personnel Management (OPM) must authorize employment offers made to current or former political appointees. A recent or former political appointee is defined as someone who held a political appointment covered by OPM's policy within the previous 5-year period. For purposes of this question, you may answer 'No' if you have not been employed in such positions within the previous five years. Failure to disclose this information could result in disciplinary action including removal from Federal Service.
+
+Are you a current or former political appointee as described under 5 U.S.C. sections 5312 through 5316 (relating to the Executive Schedule)?
+OR
+Are you a current or former Schedule A, Schedule C, or appointee who serves/served in a political capacity under agency-specific authority in the Executive Branch?
+OR
+Are you a current or former non-career SES, Limited Term SES, or Limited Emergency SES in the Executive Branch?
+OR
+Are you a current or former political appointee in the Executive Branch?
+ Yes
+ No
+
+
+Assessment 1
+1.
+Do you have one year of specialized experience equivalent to at least the next lower grade GS-11 which is directly related to this line of work for Electronics Technician?
+Specialized Experience is experience that has equipped the applicant with the knowledge, skills and abilities to successfully perform the duties of the position. For this position, the following specialized experience is required:
+- Knowledge of and skill applying standard rules, procedures, or operations in standard electronics, methods, and equipment.
+- Knowledge of and skill applying specialized electronics principles, concepts, methods, and equipment.
+- Knowledge of Radio Frequency (RF) broadcast principles.
+- Ability to keep appropriate records and prepare information by several graphical means via standard computer software programs.
+
+ Yes
+ No
+
+
+2.
+Do you have experience performing technical assignments in design, development and modification of existing and planned communication systems?
+
+ Yes
+ No
+
+
+3.
+Have you applied thorough practical knowledge of principles, methods, standards and techniques involved in standard electronics, methods, and equipment?
+
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in performing this task, but have not yet performed it on the job.
+ I have performed this task on the job; a supervisor of senior employee to ensure compliance with proper procedures monitored my work closely.
+ I have performed this task as a regular part of my job. I have performed independently and normally without review by supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or I am normally the person who is consulted by other worked to assist them in doing this task because of my expertise.
+
+
+4.
+Which of the following technical areas do you have experience leading in detailed or complex assignments? (Select all that apply)
+
+ A. Digital Satellite
+ B. Frequency division multiplex equipment
+ C. Time division multiplex equipment
+ D. Wideband digital circuit transmission methods
+ E. Technical Control Facility equipment
+ F. Signal and Power Systems
+ G. Grounding Techniques
+ H. None of the above
+
+
+5.
+Have you applied installation techniques in the following areas? (Select all that apply)
+
+ A. Digital Satellite
+ B. Frequency division multiplex equipment
+ C. Time division multiplex equipment
+ D. Wideband digital circuit transmission methods
+ E. Technical Control Facility equipment
+ F. Signal and Power Systems
+ G. Grounding Techniques
+ H. None of the above
+
+
+6.
+Do you have experience with hands-on troubleshooting and restorable techniques using appropriate test, measurement and diagnostic equipment such as spectrum analyzer bit error rate testers, protocol analyzers, etc.?
+
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in performing this task, but have not yet performed it on the job.
+ I have performed this task on the job; a supervisor of senior employee to ensure compliance with proper procedures monitored my work closely.
+ I have performed this task as a regular part of my job. I have performed independently and normally without review by supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or I am normally the person who is consulted by other worked to assist them in doing this task because of my expertise.
+
+
+7.
+I have conducted technical review, analysis, and evaluation of equipment and system problems or proposals in standard electronics, methods, and equipment.
+
+ True
+ False
+
+
+8.
+Do you have experience determining optimum solutions in terms of costs and operating performance?
+
+ I have had education or training determining optimum solutions in terms of costs and operating performance, but have not yet performed it on the job.
+ I have determined optimum solutions in terms of costs and operating performance on the job; a supervisor of senior employee to ensure compliance with proper procedures monitored my work closely.
+ I have determined optimum solutions in terms of costs and operating performance as a regular part of my job. I have performed independently and normally without review by supervisor or senior employee.
+ I am considered an expert determining optimum solutions in terms of costs and operating performance. I have supervised performance of this task or I am normally the person who is consulted by other worked to assist them in doing this task because of my expertise.
+
+
+9.
+I have compiled data and prepared technical reports in conformance with required formats.
+ True
+ False
+
+
+10.
+Do you have experience providing operational and technical expertise to site personnel pertaining to problem resolution?
+
+ Yes
+ No
+
+
+11.
+Do you have experience serving as Property Control Officer to maintain the PIPS property accountability database and provide accountable officers with barcodes and guidance on procurement, maintenance and disposal of equipment and property?
+
+ Yes
+ No
+
+
+12.
+Have you prepared procurement documentation such as request for requisitions, market research, Statements of Work, etc. in support of the Operations?
+
+ I have had education or training preparing procurement documentation such as request for requisitions, market research, Statements of Work, etc. in support of the Operations, but have not yet performed it on the job.
+ I have prepared procurement documentation such as request for requisitions, market research, Statements of Work, etc. in support of the Operations on the job; a supervisor of senior employee to ensure compliance with proper procedures monitored my work closely.
+ I have prepared procurement documentation such as request for requisitions, market research, Statements of Work, etc. in support of the Operations as a regular part of my job. I have performed independently and normally without review by supervisor or senior employee.
+ I am considered an expert preparing procurement documentation such as request for requisitions, market research, Statements of Work, etc. in support of the Operations. I have supervised performance of this task or I am normally the person who is consulted by other worked to assist them in doing this task because of my expertise.
+
+
+13.
+Do you have experience reviewing invoices from vendors to ensure accuracy of billing for services rendered and resolves discrepancies concerning those services?
+
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
