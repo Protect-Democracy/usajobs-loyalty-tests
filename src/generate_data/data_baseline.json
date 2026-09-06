@@ -1,10 +1,10 @@
 {
-  "created_at": "2026-09-05T08:04:02.578148",
+  "created_at": "2026-09-06T08:06:45.018136",
   "row_counts": {
     "historical_jobs_2024.parquet": 367186,
     "current_jobs_2024.parquet": 584,
     "current_jobs_2025.parquet": 87401,
-    "current_jobs_2026.parquet": 154822,
+    "current_jobs_2026.parquet": 154831,
     "historical_jobs_2026.parquet": 174452,
     "historical_jobs_2025.parquet": 159805
   },
@@ -610008,7 +610008,16 @@
       "883689000",
       "883266000",
       "883574800",
-      "883621500"
+      "883621500",
+      "883701500",
+      "883702300",
+      "883698700",
+      "883593400",
+      "883702100",
+      "883703000",
+      "883701200",
+      "883701900",
+      "883700800"
     ],
     "historical_jobs_2026.parquet": [
       "847434900",
