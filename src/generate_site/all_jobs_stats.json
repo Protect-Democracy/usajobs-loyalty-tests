@@ -1,21 +1,21 @@
 {
   "metadata": {
-    "total_jobs": 271034,
+    "total_jobs": 271043,
     "cutoff_date": "2025-06-01",
-    "generation_date": "2026-09-05T10:05:28.393547"
+    "generation_date": "2026-09-06T09:17:48.367921"
   },
   "by_service_type": {
-    "Competitive": 172095,
-    "Excepted": 97482,
+    "Competitive": 172103,
+    "Excepted": 97483,
     "Senior Executive": 1457
   },
   "by_grade_level": {
-    "GS-12": 22574,
+    "GS-12": 22577,
     "GS-13": 20448,
     "GS-11": 14599,
-    "VN-00": 14277,
-    "GS-9": 11603,
-    "GS-14": 11440,
+    "VN-00": 14278,
+    "GS-9": 11604,
+    "GS-14": 11441,
     "GS-7": 10159,
     "GS-6": 9055,
     "GS-9/11": 6633,
@@ -23,7 +23,7 @@
     "GS-5": 6101,
     "GS-15": 5991,
     "WG-10": 4910,
-    "NF-2": 4444,
+    "NF-2": 4445,
     "GS-8": 3695,
     "GS-11/12": 3565,
     "NF-3": 3488,
@@ -32,9 +32,9 @@
     "NF-4": 2826
   },
   "by_location": {
-    "Washington, District of Columbia": 13785,
+    "Washington, District of Columbia": 13786,
     "Salt Lake City, Utah": 3127,
-    "Phoenix, Arizona": 1972,
+    "Phoenix, Arizona": 1973,
     "San Diego, California": 1921,
     "Indianapolis, Indiana": 1707,
     "Fort Meade, Maryland": 1613,
@@ -51,15 +51,15 @@
     "Pentagon, Arlington, Virginia": 1245,
     "San Francisco, California": 1194,
     "Philadelphia, Pennsylvania": 1185,
-    "Honolulu, Hawaii": 1182
+    "Honolulu, Hawaii": 1183
   },
   "by_agency": {
-    "Department of Veterans Affairs": 89449,
+    "Department of Veterans Affairs": 89450,
     "Department of the Air Force": 31052,
-    "Department of the Navy": 30787,
+    "Department of the Navy": 30788,
     "Department of the Army": 26656,
-    "Department of Defense": 26335,
-    "Department of Justice": 14006,
+    "Department of Defense": 26337,
+    "Department of Justice": 14011,
     "Department of Homeland Security": 12923,
     "Other Agencies and Independent Organizations": 7365,
     "Department of the Interior": 6778,
@@ -76,7 +76,7 @@
     "Judicial Branch": 684
   },
   "by_occupation": {
-    "0610 - Nurse": 15406,
+    "0610 - Nurse": 15407,
     "0301 - Miscellaneous Administration And Program": 10408,
     "0602 - Medical Officer": 7579,
     "2210 - Information Technology Management": 7033,
@@ -85,7 +85,7 @@
     "0303 - Miscellaneous Clerk And Assistant": 5642,
     "0679 - Medical Support Assistance": 5458,
     "1101 - General Business And Industry": 5306,
-    "0189 - Recreation Aid And Assistant": 4720,
+    "0189 - Recreation Aid And Assistant": 4721,
     "1702 - Education And Training Technician": 4681,
     "None - Unknown": 4132,
     "0201 - Human Resources Management": 3870,
