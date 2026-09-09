@@ -1,0 +1,170 @@
+Position Title
+Accountant (Factory Operational Accountant)
+Agency
+Bureau of Prisons/Federal Prison System
+Announcement Number
+MIA-26-13058516 Opens in new window
+Open Period
+Sep 08, 2026 to Sep 15, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+This position has an age requirement. Enter or select your date of birth.
+
+
+2.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+3.
+Are you a current or former federal employee displaced from the Department of Justice?
+
+The Career Transition Assistance Plan (CTAP) is an intra-agency program that helps surplus or displaced federal employees improve their chances of finding a new job in their agency, by giving them selection priority over other applicants, as long as they're qualified for the job.
+
+To be eligible under CTAP you must meet all of the following:
+You are located in the same local commuting area of this vacancy; AND
+You are applying to a position that is at (or below) the grade level of the position from which you were (or will) be separated from; AND
+You are applying to a position that does not have greater promotion potential than the position from which you were (or will be) separated from; AND
+Your last performance rating of record is at least fully successful, or the equivalent.
+To verify your eligibility: You must submit appropriate supporting documentation, such as a Reduction in Force (RIF) separation notice or a Proposed Removal/Separation notice to include your latest performance rating (if the notice does not have this information included, you must submit a copy of your most recent performance appraisal) and a copy of your latest Notification of Personnel Action (SF-50). For more information, review the USAJOBS Help Center.
+ Yes
+ No
+
+
+4.
+Are you an employee that was involuntarily separated from another agency due to a reduction-in-force (RIF)?
+
+The Interagency Career Transition Assistance Plan (ICTAP) is an interagency program that helps "surplus" or "displaced" federal employees improve their chances of finding a new job at another agency (not their current or former agency), by giving these employees selection priority over other applicants from outside the agency.
+
+You may be eligible for ICTAP if:
+You are a current federal employee who meets the definition of a "surplus" or "displaced employee—you've received official notice that your job is no longer needed or that you will lose your job by Reduction-in-Force (RIF); AND
+The agency you're applying to is accepting applications from outside of their workforce; AND
+The job you're applying to is in the local commuting area; AND
+You are applying to a position that does not have greater promotion potential than the position from which you were separated from; AND
+You meet the qualifications and other requirements of the job you're applying for.
+For example, if you work for the Department of Defense and receive a Reduction in Force (RIF) separation notice, you can apply for a competitive service job in the local commuting area at the Department of Justice.
+
+To verify your eligibility: You must submit appropriate supporting documentation such as a Reduction in Force (RIF) separation notice to include your latest performance rating (if the notice does not have this information included, you must submit a copy of your most recent performance appraisal) and a copy of your latest Notification of Personnel Action (SF-50). For more information, review the USAJOBS Help Center.
+ Yes
+ No
+
+
+5.
+Are you a Veteran with a Service-connected disability of 30% or more?
+
+You may qualify as a disabled Veteran if you separated from active duty under honorable conditions, and you must have a service-connected disability rating of 30% of more, as determined by the Department of Veterans Affairs. You may also qualify for this eligibility if you were awarded a Purple Heart for your service. For more information, review USAJOBS Veterans resources.
+
+To verify your eligibility: You must submit a copy of your latest Certificate of Release or Discharge from Active Duty (DD-214) form, Member 2 or Member 4 copy. Additionally, you will need to submit the SF-15, Application of 10-point Veterans Preference form, and your VA Letter indicating your combined service-connected disability rating.
+
+Review the Required Documents section of the vacancy announcement for additional information.
+ Yes
+ No
+
+
+Assessment 1
+Carefully read the following question before selecting a response. This question will be used to screen out ineligible applicants. Any error in your response will not be corrected. You are responsible for the accuracy of your application. Your resume must describe your work and experience, in your own words. If you fail to provide any requested information, or the information submitted is insufficient, you may lose consideration for the position.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+1.
+Applicants MUST meet one of the below-listed MINIMUM qualification requirements for this position. In the event you do not meet ANY of these requirements, you will be found ineligible for the position.
+A. I have a degree in accounting; or a degree in a related field such as business administration, finance, or public administration that included or was supplemented by 24 semester hours in accounting.
+NOTE: The 24 hours may include up to 6 hours of credit in business law. (The term "accounting" means "accounting and/or auditing" in this standard).
+
+OR
+B. I have a combination of education and experience, which includes at least 4 years of experience in accounting, or an equivalent combination of accounting experience, college-level education, and training that provided professional accounting knowledge. My background also includes one of the following:
+Twenty-four semester hours in accounting or auditing courses of appropriate type and quality. This can include up to 6 hours of business law;
+A certificate as a Certified Public Accountant or a Certified Internal Auditor, obtained through written examination; OR
+Completion of the requirements for a degree that included substantial course work in accounting or auditing, e.g., 15 semester hours, but that does not fully satisfy the 24-semester-hour requirement of paragraph A
+Do you meet any of the minimum qualification requirements listed above?
+ Yes
+ No
+
+
+NOTE: ALL applicants MUST submit legible transcripts as verification of educational requirement.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+2.
+In addition to the education requirement, you must have one year of specialized experience at, or equivalent to, the GS-7 grade level, or meet the education requirements as described in the VACANCY ANNOUNCEMENT.
+
+
+Do you meet the experience and/or education requirements for this position?
+ Yes
+ No
+
+
+Assessment 2
+This assessment measures the technical competencies required for the Factory Operational Accountant position. For each question, select the answer that best represents the most effective and appropriate approach. Only one answer per question will be scored.
+
+
+1.
+Your UNICOR remote factory location manufactures office furniture and has experienced significant job cost variances over the past three months. The Prime Business Manager has asked you to investigate why actual manufacturing costs are consistently exceeding standard costs by 15-20%. Your investigation reveals that raw material costs have been incorrectly allocated to overhead accounts rather than direct material accounts, prior period labor costs were never properly adjusted when pay rates changed, and some Buildings & Facilities (B&F) project costs that should have been transferred to the Salaries & Expenses (S&E) appropriation remain open in B&F. Additionally, management needs recommendations on pricing structures for upcoming contract bids and projected operating levels for the next quarter. You must research the issues, apply accounting principles and cost accounting standards, and provide solutions that ensure accuracy in manufacturing and job order costing.
+
+Which action represents the most effective and appropriate application of accounting concepts to derive solutions in this situation?
+ Review the job cost obligations for accuracy in accordance with written policies to ensure they were properly recorded, reconcile the current job cost variances from the standard costs by comparing actual to budgeted amounts, reconcile the general ledger account balances to the open item reports to identify discrepancies, and prepare the monthly balance and internal control check according to established procedures.
+ Research the hierarchy of Generally Accepted Accounting Principles to determine the correct classification of the material and labor costs in the general ledger, process the job costing corrections in accordance with written guidelines to reallocate costs to proper accounts, research the prompt payment guidelines to ensure vendor payments are processed correctly, and provide staff assistance to the warehouse office on basic cost allocation procedures.
+ Research the accounting issues causing the cost variances and present findings and solutions to management, research the prior period adjustments needed for the labor rate changes and properly identify the corrective action required to restate the affected job costs, transfer the B&F project costs to the S&E appropriation and close the B&F projects in accordance with written policies, and apply cost accounting standards to develop accurate pricing structure recommendations for management's contract bidding decisions.
+ Calculate the percentage variance between actual and standard costs using the existing cost reports, notify the Prime Business Manager of the variance amounts, request guidance from Central Office on how to handle the discrepancies, and document the issues in the monthly report for review by senior management.
+ None of the above.
+
+
+2.
+You are the Factory Operational Accountant at a UNICOR remote location. The Prime Business Office has identified significant discrepancies in the monthly financial reconciliation reports submitted by your facility. The Warden has called an emergency meeting that will include department heads, correctional staff, and the institution's business office personnel to address these issues. Additionally, Central Office UNICOR has requested a conference call to discuss the impact on the agency's financial integrity. You must communicate the root causes of the discrepancies, the corrective actions being implemented, and the timeline for resolution to multiple stakeholder groups with varying levels of financial expertise.
+
+Which action represents the most effective and appropriate oral communication approach in this situation?
+ Contact the Prime Business Office by phone to clarify the specific discrepancies they identified, prepare a verbal summary of routine status updates for the Warden's meeting focusing on general account reconciliation processes, and respond to any questions from attendees as they arise during the discussion.
+ Deliver a comprehensive presentation to all stakeholders at the Warden's meeting that explains the departmental issues related to the financial discrepancies, discusses how these problems impact production operations, outlines the corrective policies being implemented, and facilitates a discussion with department heads and business office personnel about preventing future occurrences while also preparing talking points for the Central Office conference call.
+ Explain to the new business office staff member the institution regulations regarding financial reporting procedures, conduct a brief safety talk reminder to inmates working in the warehouse about handling financial documents properly, and schedule a follow-up call with the Prime Business Office to reinforce the reporting policy.
+ Respond to the Warden's inquiry by providing routine information about the account reconciliation process, discuss the issues with regional staff to ensure routine assignments are completed properly, and verify the status of the discrepant accounts with the Prime Business Office to document current balances.
+ None of the above.
+
+
+3.
+As the Factory Operational Accountant, you have completed a comprehensive analysis of property management issues at your remote facility. Over the past quarter, you discovered systematic errors in how capital equipment transfers were being recorded, resulting in inaccurate depreciation calculations and subsidiary record mismatches. You need to communicate these findings to the Prime Business Office and Central Office UNICOR. The analysis requires technical documentation that details the financial impact, provides monthly financial narratives, and includes recommendations for procedural changes. Additionally, you must prepare correspondence to other department heads explaining how the corrective actions will affect their operations, and create debit memos to vendors for equipment that was incorrectly invoiced.
+
+Which action represents the most effective and appropriate written communication approach in this situation?
+ Assist with composing memorandums to other department heads explaining the property management issues and procedural changes, assist with preparing the monthly property management reports that detail the capital equipment errors and financial impact for submission to Prime Business Office and Central Office, and compose debit memos to vendors for the incorrect invoicing.
+ Document telephone logs with vendors regarding the equipment invoicing issues, prepare job instructions for inmates handling property records in the warehouse, and prepare incident reports noting the errors discovered during the property management review.
+ Draft written reconciliations explaining the differences between the general ledger property accounts and subsidiary records for supervisory review, draft cover memos for the monthly balance and internal control that outline the property management issues, submit requests for prior period adjustments to correct the depreciation errors, and prepare responses to anticipated audit data calls.
+ Prepare a standardized monthly property report using the existing template, document the basic findings in an email to your immediate supervisor, and create a simple spreadsheet showing the account differences for internal office use.
+ None of the above.
+
+
+4.
+As the Factory Operational Accountant for your UNICOR facility, you are preparing for the fiscal year-end close. During your review of financial reports, you identify several concerning issues: general ledger account balances that appear to be classified incorrectly based on the nature of the transactions, job costing variances that have accumulated throughout the year and need explanation, real property and personal property accounts that don't reconcile to subsidiary records, and depreciation calculations that may not comply with federal accounting standards. Additionally, new staff members at your location need training on accounting policies and procedures, and you need to develop tools to help track and analyze financial data more effectively for planning and decision-making purposes. Your role requires you to evaluate cost accounting data and ensure compliance with accounting principles and techniques appropriate for a government setting.
+
+Which action represents the most effective and appropriate application of accounting knowledge in this situation?
+ Complete the job cost variance report showing the differences between actual and standard costs and submit it to the factory manager for review, ensure that all year-end payments are accurate and processed on time in accordance with prompt payment guidelines, review the open payables listing to determine their validity before year-end, reconcile the real property, personal property, and the related depreciation accounts to subsidiary records using standard reconciliation procedures, and prepare an income statement to reflect the facility's financial standing at year-end.
+ Reconcile the job costing variances to the standard cost by analyzing the differences and making appropriate adjusting entries, prepare the monthly review of operating results and costing data and make any necessary corrections to ensure accuracy, and complete the monthly balance and internal control check by identifying discrepancies and making necessary corrections to account balances.
+ Develop lesson plans and instruct staff at all levels on accounting policies and procedures including proper account classification and reconciliation techniques, develop spreadsheets to track financial data for the property accounts and job costing variances to facilitate analysis, review the financial reports for improper general ledger account balances and determine the specific corrective action necessary to reclassify transactions correctly, and submit prior period adjustments with detailed explanations identifying what corrective action is needed to bring accounts into compliance with federal accounting standards.
+ Reference the agency's accounting manual to understand the standard procedures for year-end close, consult with the Prime Business Office on how to handle unusual transactions, prepare basic financial reports using existing templates, and request technical assistance from Central Office for complex accounting issues.
+ None of the above.
+
+
+5.
+You are the Factory Operational Accountant at a UNICOR remote facility, and you supervise both civilian warehouse staff and inmate workers. This month, several critical deadlines are converging: the monthly property management reports are due to the Prime Business Office in five days, a physical inventory count must be completed within three days for audit purposes, the quarterly cost analysis reports need to be submitted to Central Office, and Central Office has just requested an urgent data call response within 48 hours regarding capital equipment accountability. Additionally, one of your civilian staff members is out on unexpected medical leave, and you have two new inmate workers who need basic training on warehouse procedures. You must ensure all work is completed accurately and on time while maintaining proper oversight of warehouse operations and accounting functions.
+
+Which action represents the most effective and appropriate supervisory approach in this situation?
+ Prioritize the work flow among your available civilian staff by assigning the most experienced employee to lead the physical inventory count while another handles the property management reports, coordinate the due dates for all projects by creating a timeline that sequences the urgent data call first followed by the quarterly reports, track the workload daily to ensure completion of each deliverable and identify any bottlenecks, and adjust staff duties by temporarily reassigning one employee from routine accounts payable tasks to assist with the inventory count and data call response to meet immediate operational needs.
+ Provide feedback to your supervisor on the status of the office projects and explain the challenges created by the staff shortage, provide assistance to your subordinates in resolving accounting problems that arise during the property management report preparation, assist the warehouse staff in resolving inventory discrepancies discovered during the count, and prioritize your own work to ensure you meet the deadlines for the most critical deliverables.
+ Monitor the civilian staff and inmates to determine if they are following your supervisory instructions for conducting the inventory count, provide feedback to your supervisor on the progress of the various projects, provide assistance to staff in resolving basic work issues such as how to process inventory transactions, and discuss performance expectations with the inmate workers to ensure they understand their warehouse duties.
+ Create a basic task list for the week that outlines what needs to be completed, assign the inventory count to the available warehouse staff, work on the data call response yourself since it is the most urgent, and instruct staff to continue with their normal duties while you handle the quarterly reports in the evenings.
+ None of the above.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
