@@ -1,0 +1,206 @@
+Position Title
+IT Specialist
+Agency
+Government Accountability Office
+Announcement Number
+ISTS-26-IMP-13053253 Opens in new window
+Open Period
+Sep 11, 2026 to Sep 24, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Are you currently employed by the Government Accountability Office?
+This includes Career/Career-Conditional employees serving on a non-temporary appointment. This does not include employees on temporary or term appointments.
+
+To determine if you are eligible, your most recent SF-50 Notification of Personnel Action form should reflect:
+career or career-conditional, Tenure of 1 or 2 in box 24 AND
+status in the excepted service, Position Occupied of 2 in box 34.
+To verify your eligibility, you must submit a copy of your most recent Notification of Personnel Action, Standard Form 50 (SF-50) with your application.
+Your SF-50 must include your position title, pay plan/series/band and tenure. Please be aware that award SF-50's may not include this pertinent information. If your last SF-50 is an award SF-50, please additionally submit the next most recent non-award SF-50 that does include the above fields.
+ Yes
+ No
+
+
+Preferences
+1.
+This position requires the incumbent to submit a Financial Disclosure Statement, OGE-450, Executive Branch Personnel Confidential Financial Disclosure Report upon entering the position and annually (5CFR Part 2634, Subpart I USOGE, 6/08). For additional information and to obtain the form, please visit the Office of Government Ethics. Are you willing to comply with this requirement?
+ Yes
+ No
+
+
+Assessment 1
+Thank you for your interest in the IT Specialist, PT-2210- 4 position with the Government Accountability Office (GAO). Your resume and the responses you provide to this assessment questionnaire will be used to determine if you are among the best qualified for this position. Your responses are subject to verification. Please review your responses for accuracy before you submit your application.
+
+
+1.
+From the descriptions below, select the letter corresponding to the statement that most clearly and accurately describes your IT-related experience demonstrating each of the four competencies.
+ I have IT related experience demonstrating these four competencies: 1) Attention to Detail - Is thorough when performing work and conscientious about attending to detail. 2) Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services. 3) Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately. 4) Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.
+ I do not have the IT related experience demonstrating these 4 competencies listed above.
+
+
+2.
+From the descriptions below, select the statement that describes how you meet the specialized experience for the IT Specialist, PT-2210-4 position.
+ I have one year (52 weeks) of specialized experience at the next lower band MS-I, PT-III; CS-III; PE-IIB, or GS-14 grade level (or equivalent) in the Federal Service, which has equipped the applicant with the skills and knowledge to successfully perform the duties of the position. Specialized experience for this position is defined as: planning and executing all phases of IT Cloud, infrastructure, or an application utilizing agile and traditional methodologies. Developing system designs for an office. Developing system security plans to execute quality assurance plans and privacy impact assessments.
+ I do not have the specialized experience described above.
+
+
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+
+
+3.
+Lead IT engineering work including design, development, integration, implementation, and sustainment of information systems and IT capabilities for a specific function (e.g. cloud environments, software as a service (saas), identity credential and access management (icam), zero trust architecture (zta), networking, etc).
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+4.
+Manage validation, proof-of-concept/pilots, builds, migration events, integration testing, failover testing, cutovers, operational acceptance testing, and transition to operations Cybersecurity, AI, or Infrastructure.)
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+5.
+Design transitional and target enterprise-wide views using Enterprise Architecture methodologies and frameworks.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+6.
+Engage in decision-making related to technology, product and service capabilities, and usability to meet the needs of the organization.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+7.
+Monitor and intervene as needed to ensure system performance is acceptable; Identify and troubleshoot IT issues and implement corrective measures.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+8.
+Evaluate contractor technical solutions, provide problem solving guidance and perform contractor technical monitoring.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+9.
+Ability to create highly technical documents to develop system diagrams, build guides, configuration records, interface control documentation, runbooks, test procedures, migration plans, cutover plans, and operational handoff materials.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+10.
+Implement security controls and compliance monitoring in a federal environment and across a multi-account and multi-tenant environment.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+11.
+Own and prioritize the Agile team backlog, ensuring work aligns with business priorities and delivers maximum value. Break down features, prioritize work, and ensure requirements are clear and actionable.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+12.
+Support SAFe Program Increment (PI) planning and execution, including creating and managing work items and project documentation.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+13.
+Participate in Agile ceremonies and monitor sprint and program progress, helping resolve dependencies, risks, and impediments that impact delivery.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+14.
+Represent and advocate for the product vision, customer, and users to improve customer experience.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+15.
+Select the statement that best describes your experience leading operational activities for a team, to include ensuring alignment across programs, training management, integrated assessments, service design and developing operational policies and standard operating procedures.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+16.
+Collaborate with stakeholders, developers, and leadership to define requirements, develop use cases, communicate priorities, progress, and product goals.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+17.
+Develop and present materials that communicate technical requirements and provide recommendations to persuade executive level management officials to reach actionable decisions.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+18.
+Review and maintain the enterprise operating model (e.g., roles, responsibilities, skills, processes) and ensure that is consistent with the capabilities and competencies required to execute the data strategy, policies, and practices.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+
+
+Select “Yes” or “No” to the following question(s).
+
+
+19.
+I certify that, to the best of my knowledge and belief, all of the information in and attached to this application is true, correct, complete, and made in good faith. I understand that false or fraudulent information on or attached to this application may be grounds for not hiring me or firing me after I begin work, and may be punishable by fine or imprisonment. I understand that any information I give may be investigated.
+ Yes
+ No
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
