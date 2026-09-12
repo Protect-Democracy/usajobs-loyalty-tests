@@ -1,0 +1,107 @@
+Position Title
+IT SPECIALIST (ENTERPRISE DATA ARCHITECT)
+Agency
+Surface Transportation Board
+Announcement Number
+STB-DHA-13023646-26-TR Opens in new window
+Open Period
+Sep 11, 2026 to Sep 25, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+
+
+2.
+Are you a current or former federal employee displaced from the agency hiring for this position? If yes, confirm:
+
+• you are located in the same local commuting area of the vacancy; AND,
+• you are applying to a position that is at or below the grade level of the position from which you were or will be separated; AND,
+• you are applying to a position that does not have greater promotion potential than the position from which you were or will be separated; AND,
+• your last performance rating of record is at least fully successful or the equivalent.
+
+For more information, review the USAJOBS Help Center.
+
+To verify your eligibility, you must submit supporting documentation such as a Reduction in Force (RIF) separation notice or a Proposed Removal/Separation notice to include your latest performance rating (if the notice does not have this information included, you must submit a copy of your most recent performance appraisal) and a copy of your latest Notification of Personnel Action, Standard Form 50.
+ Yes
+ No
+
+
+3.
+Are you a current or former federal employee displaced from the agency hiring for this position? If yes, confirm:
+
+• you are a current federal employee who meets the definition of a "surplus" or "displaced employee; AND,
+• you've received official notice that your job is no longer needed or that you will lose your job by Reduction-in-Force (RIF) or removed for declining a directed reassignment or transfer of function; AND,
+• the agency you're applying to is accepting applications from outside of their workforce; AND,
+• the job you're applying to is in the local commuting area; AND,
+• you meet the qualifications and other requirements of the job you're applying for; AND,
+• your last performance rating of record is at least fully successful or the equivalent.
+
+For more information, review the USAJOBS Help Center.
+
+To verify your eligibility, you must submit supporting documentation such as a Reduction in Force (RIF) separation notice or a Proposed Removal/Separation notice to include your latest performance rating (if the notice does not have this information included, you must submit a copy of your most recent performance appraisal) and a copy of your latest Notification of Personnel Action, Standard Form 50.
+ Yes
+ No
+
+
+MERIT HIRING QUESTIONS
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+
+
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+
+
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+
+
+3.
+How would you help advance the President's Executive Orders and policy priorities in this role? Identify one or two relevant Executive Orders or policy initiatives that are significant to you, and explain how you would help implement them if hired.
+
+
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+
+
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+
+
+Assessment 1
+Thank you for your interest in the Information Technology Specialist (Data Architect) position with the Surface Transportation Board. Your resume and the responses you provide to this assessment questionnaire will be used to determine if you are among the best qualified for this position. Your responses are subject to verification. Please review your responses for accuracy before you submit your application.
+
+
+1.
+As an applicant for federal employment you are required to provide accurate, complete, and honest information. All applicants are treated fairly and equally, so it is important you know what is required of you. You must read this question, then certify your application. You will be disqualified from consideration for this position if you do not answer this question or do not certify your application. I understand that if I misrepresent or exaggerate my experience or education, or provide false, fraudulent, or misleading information in or with my application, it may be grounds for not hiring me, firing me after I begin work, and may be punishable by fine, imprisonment, or debarment from federal employment. I understand that not following the information and instructions contained in the vacancy announcement may result in an ineligible rating, or me not being considered for certain eligibilities, preferences, grade-levels, specialties, and other areas of the announcement that require me to provide information. Do you certify that you have read this statement and understand what is required of you, and certify that to the best of your knowledge and belief, all of the information included in your application is true, correct, and provided in good faith?
+ YES
+ NO
+
+
+2.
+Which of the following statements best describes how you meet the  GS-14 specialized experience At least 1 year of specialized experience, equivalent to the GS-13 grade level in the Federal service, to include
+1). Designing and implementing enterprise data architectures, integrating various data sources and platforms to support organizational needs 2). Collaborating with cross-functional teams to translate business requirements into effective data solutions and ensure alignment with strategic objectives. 3) Leading data architecture projects, providing guidance to technical staff, and fostering best practices in data management and security. 4) Developing and maintaining comprehensive documentation, including architecture diagrams and data dictionaries, to support ongoing operations and compliance. 5) Staying current with emerging technologies and industry trends, continuously enhancing data architecture to drive innovation and improvement.
+ I have one year of specialized experience equivalent to the next lower grade level (GS-13) or pay band in the federal service or equivalent experience in the private or public sector: 1). Designing and implementing enterprise data architectures, integrating various data sources and platforms to support organizational needs 2). Collaborating with cross-functional teams to translate business requirements into effective data solutions and ensure alignment with strategic objectives. 3) Leading data architecture projects, providing guidance to technical staff, and fostering best practices in data management and security. 4) Developing and maintaining comprehensive documentation, including architecture diagrams and data dictionaries, to support ongoing operations and compliance. 5) Staying current with emerging technologies and industry trends, continuously enhancing data architecture to drive innovation and improvement.
+ NO
+
+
+3.
+You must provide the position title(s) and dates of employment referenced in your resume that demonstrates the experience related to your response.
+
+
+Later steps in the selection process are specifically designed to verify your ratings. Deliberate attempts to falsify information may be grounds for your non-selection or for your dismissal. If, after reviewing your resume and/or supporting documentation, a determination is made that you have overstated your qualifications and/or experience, your rating may be lowered to more accurately reflect the submitted documentation or you may be removed from consideration. Please take this opportunity to review your responses to ensure their accuracy.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
