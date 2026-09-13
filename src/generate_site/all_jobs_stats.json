@@ -1,26 +1,26 @@
 {
   "metadata": {
-    "total_jobs": 275385,
+    "total_jobs": 275389,
     "cutoff_date": "2025-06-01",
-    "generation_date": "2026-09-12T10:14:53.858591"
+    "generation_date": "2026-09-13T09:39:11.409392"
   },
   "by_service_type": {
-    "Competitive": 174919,
-    "Excepted": 98969,
+    "Competitive": 174922,
+    "Excepted": 98970,
     "Senior Executive": 1497
   },
   "by_grade_level": {
     "GS-12": 22961,
-    "GS-13": 20814,
+    "GS-13": 20815,
     "GS-11": 14856,
     "VN-00": 14486,
     "GS-9": 11799,
     "GS-14": 11671,
     "GS-7": 10320,
     "GS-6": 9210,
-    "GS-9/11": 6745,
+    "GS-9/11": 6746,
     "VM-15": 6567,
-    "GS-5": 6188,
+    "GS-5": 6189,
     "GS-15": 6105,
     "WG-10": 4993,
     "NF-2": 4495,
@@ -43,7 +43,7 @@
     "Portland, Oregon": 1405,
     "Los Angeles, California": 1403,
     "Alexandria, Virginia": 1374,
-    "Tucson, Arizona": 1347,
+    "Tucson, Arizona": 1348,
     "Anchorage, Alaska": 1331,
     "Battle Creek, Michigan": 1283,
     "Albuquerque, New Mexico": 1275,
@@ -54,11 +54,11 @@
     "Honolulu, Hawaii": 1195
   },
   "by_agency": {
-    "Department of Veterans Affairs": 90670,
+    "Department of Veterans Affairs": 90672,
     "Department of the Air Force": 31500,
     "Department of the Navy": 31130,
     "Department of the Army": 27227,
-    "Department of Defense": 26716,
+    "Department of Defense": 26718,
     "Department of Justice": 14266,
     "Department of Homeland Security": 13190,
     "Other Agencies and Independent Organizations": 7489,
@@ -88,12 +88,12 @@
     "0189 - Recreation Aid And Assistant": 4765,
     "1702 - Education And Training Technician": 4741,
     "None - Unknown": 4261,
-    "0201 - Human Resources Management": 3938,
+    "0201 - Human Resources Management": 3939,
     "0620 - Practical Nurse": 3851,
     "0801 - General Engineering": 3634,
     "0180 - Psychology": 3443,
     "0905 - Attorney": 3128,
-    "0640 - Health Aid And Technician": 3100,
+    "0640 - Health Aid And Technician": 3101,
     "0101 - Social Science": 2751,
     "0501 - Financial Administration And Program": 2671
   }
