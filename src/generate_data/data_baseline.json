@@ -1,11 +1,11 @@
 {
-  "created_at": "2026-09-12T07:23:48.901680",
+  "created_at": "2026-09-13T07:22:55.021683",
   "row_counts": {
     "historical_jobs_2024.parquet": 367186,
     "current_jobs_2024.parquet": 584,
     "current_jobs_2025.parquet": 87401,
-    "current_jobs_2026.parquet": 159050,
-    "historical_jobs_2026.parquet": 179415,
+    "current_jobs_2026.parquet": 159054,
+    "historical_jobs_2026.parquet": 179417,
     "historical_jobs_2025.parquet": 159805
   },
   "job_ids": {
@@ -614236,7 +614236,11 @@
       "884310600",
       "884336600",
       "884342400",
-      "884384200"
+      "884384200",
+      "884458300",
+      "884456900",
+      "884107200",
+      "884440000"
     ],
     "historical_jobs_2026.parquet": [
       "847434900",
@@ -793653,7 +793657,9 @@
       "884453800",
       "884455700",
       "884455800",
-      "884456100"
+      "884456100",
+      "884107200",
+      "884440000"
     ],
     "historical_jobs_2025.parquet": [
       "800116900",
