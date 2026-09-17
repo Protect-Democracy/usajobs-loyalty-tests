@@ -1,8 +1,10 @@
 """Render the agency breakdown + per-posting detail as a browsable HTML page.
 
 Replaces a CSV export so the USAJOBS links are actually clickable, and the
-per-posting table can be filtered by agency and status via multi-select
-checkboxes (e.g. Army + Navy, Has Loyalty Q) rather than a free-text box.
+per-posting table can be filtered by agency and status via Bootstrap
+dropdown-toggle checkbox panels (matching the pattern already used in
+../generate_site/public/index.html), rather than a free-text box or plain
+always-open checkbox lists.
 """
 import html as _html
 from pathlib import Path
@@ -18,6 +20,7 @@ _TEMPLATE = """<!DOCTYPE html>
 <head>
 <meta charset="utf-8">
 <title>Loyalty Q — new postings detail</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
 <style>
   body {{
     font-family: -apple-system, "Helvetica Neue", Arial, sans-serif;
@@ -39,22 +42,9 @@ _TEMPLATE = """<!DOCTYPE html>
   a {{ color: #1a56db; text-decoration: none; }}
   a:hover {{ text-decoration: underline; }}
   .note {{ font-size: 12.5px; color: #555; font-style: italic; margin-top: 24px; line-height: 1.5; }}
-  .filters {{ display: flex; align-items: flex-start; gap: 28px; margin: 14px 0; flex-wrap: wrap; }}
-  .filter-group {{ min-width: 220px; }}
-  .filter-group .filter-title {{
-    font-size: 12.5px; font-weight: 600; color: #333; margin-bottom: 6px;
-    display: flex; justify-content: space-between; align-items: center;
-  }}
-  .filter-group .filter-title button {{
-    font-size: 11px; color: #1a56db; background: none; border: none; cursor: pointer; padding: 0;
-  }}
-  .checkbox-list {{
-    border: 1px solid #ddd; border-radius: 6px; padding: 6px 10px;
-    max-height: 160px; overflow-y: auto; font-size: 12.5px;
-  }}
-  .checkbox-list label {{ display: block; padding: 3px 0; cursor: pointer; }}
-  .checkbox-list input {{ margin-right: 6px; }}
-  #match-count {{ font-size: 12.5px; color: #555; align-self: center; }}
+  .filters {{ display: flex; align-items: center; gap: 14px; margin: 14px 0; flex-wrap: wrap; }}
+  .filters .dropdown-menu {{ max-height: 260px; overflow-y: auto; min-width: 260px; }}
+  #match-count {{ font-size: 12.5px; color: #555; }}
 </style>
 </head>
 <body>
@@ -73,18 +63,23 @@ _TEMPLATE = """<!DOCTYPE html>
 
   <h2>Every new posting ({count:,} total)</h2>
   <div class="filters">
-    <div class="filter-group">
-      <div class="filter-title">Agency <button type="button" data-clear="agency-checks">clear</button></div>
-      <div class="checkbox-list" id="agency-checks">
+    <div class="dropdown" id="agency-dropdown">
+      <button class="btn btn-sm btn-outline-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown">
+        All Agencies
+      </button>
+      <div class="dropdown-menu p-2">
         {agency_checkboxes}
       </div>
     </div>
-    <div class="filter-group">
-      <div class="filter-title">Status <button type="button" data-clear="status-checks">clear</button></div>
-      <div class="checkbox-list" id="status-checks">
+    <div class="dropdown" id="status-dropdown">
+      <button class="btn btn-sm btn-outline-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown">
+        All Statuses
+      </button>
+      <div class="dropdown-menu p-2">
         {status_checkboxes}
       </div>
     </div>
+    <button class="btn btn-sm btn-link" id="clear-filters" type="button">Clear filters</button>
     <span id="match-count"></span>
   </div>
   <table id="detail-table">
@@ -103,18 +98,36 @@ _TEMPLATE = """<!DOCTYPE html>
     of known coverage gaps.
   </div>
 
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
   <script>
     var rows = document.querySelectorAll('#detail-table tbody tr');
     var countEl = document.getElementById('match-count');
 
-    function checkedValues(containerId) {{
-      var boxes = document.querySelectorAll('#' + containerId + ' input:checked');
+    // Keep a dropdown open while checking boxes inside it.
+    document.querySelectorAll('.dropdown-menu').forEach(function (menu) {{
+      menu.addEventListener('click', function (e) {{ e.stopPropagation(); }});
+    }});
+
+    function checkedValues(dropdownId) {{
+      var boxes = document.querySelectorAll('#' + dropdownId + ' input:checked');
       return Array.from(boxes).map(function (b) {{ return b.value; }});
     }}
 
+    function updateButtonLabel(dropdownId, defaultLabel, singularNoun) {{
+      var values = checkedValues(dropdownId);
+      var button = document.querySelector('#' + dropdownId + ' > button');
+      if (values.length === 0) {{
+        button.textContent = defaultLabel;
+      }} else if (values.length === 1) {{
+        button.textContent = values[0];
+      }} else {{
+        button.textContent = values.length + ' ' + singularNoun + ' selected';
+      }}
+    }}
+
     function applyFilters() {{
-      var agencies = checkedValues('agency-checks');
-      var statuses = checkedValues('status-checks');
+      var agencies = checkedValues('agency-dropdown');
+      var statuses = checkedValues('status-dropdown');
       var shown = 0;
       rows.forEach(function (tr) {{
         var matchAgency = agencies.length === 0 || agencies.indexOf(tr.dataset.agency) !== -1;
@@ -124,18 +137,16 @@ _TEMPLATE = """<!DOCTYPE html>
         if (visible) shown++;
       }});
       countEl.textContent = 'Showing ' + shown.toLocaleString() + ' of ' + rows.length.toLocaleString();
+      updateButtonLabel('agency-dropdown', 'All Agencies', 'agencies');
+      updateButtonLabel('status-dropdown', 'All Statuses', 'statuses');
     }}
 
-    document.querySelectorAll('.checkbox-list input[type=checkbox]').forEach(function (box) {{
+    document.querySelectorAll('.filters input[type=checkbox]').forEach(function (box) {{
       box.addEventListener('change', applyFilters);
     }});
-    document.querySelectorAll('button[data-clear]').forEach(function (btn) {{
-      btn.addEventListener('click', function () {{
-        document.querySelectorAll('#' + btn.dataset.clear + ' input:checked').forEach(function (b) {{
-          b.checked = false;
-        }});
-        applyFilters();
-      }});
+    document.getElementById('clear-filters').addEventListener('click', function () {{
+      document.querySelectorAll('.filters input:checked').forEach(function (b) {{ b.checked = false; }});
+      applyFilters();
     }});
     applyFilters();
   </script>
@@ -155,11 +166,15 @@ def render_html(agency_df, detail_df, start_date, as_of, out_path):
 
     agencies = sorted(detail_df['hiring_agency'].dropna().unique())
     agency_checkboxes = '\n        '.join(
-        f'<label><input type="checkbox" value="{_html.escape(a)}">{_html.escape(a)}</label>'
-        for a in agencies
+        f'<div class="form-check"><input class="form-check-input" type="checkbox" '
+        f'value="{_html.escape(a)}" id="agency-{i}">'
+        f'<label class="form-check-label" for="agency-{i}">{_html.escape(a)}</label></div>'
+        for i, a in enumerate(agencies)
     )
     status_checkboxes = '\n        '.join(
-        f'<label><input type="checkbox" value="{status}">{label}</label>'
+        f'<div class="form-check"><input class="form-check-input" type="checkbox" '
+        f'value="{status}" id="status-{status}">'
+        f'<label class="form-check-label" for="status-{status}">{label}</label></div>'
         for status, label in _STATUS_LABELS.items()
     )
 
