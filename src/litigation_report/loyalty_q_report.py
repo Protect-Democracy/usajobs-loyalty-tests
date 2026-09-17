@@ -166,6 +166,7 @@ def main():
     parser.add_argument('--out-dir', default=str(Path(__file__).resolve().parent / 'output'))
     parser.add_argument('--skip-rebuild', action='store_true',
                          help='Skip regenerating all_jobs_clean.csv from parquet (use the checked-in file as-is)')
+    parser.add_argument('--no-pdf', action='store_true', help='Skip generating summary.pdf')
     args = parser.parse_args()
 
     if not args.skip_rebuild:
@@ -213,6 +214,12 @@ def main():
 
     print('\n'.join(summary_lines))
     print(f"\nWrote: {daily_csv}\nWrote: {live_csv}\nWrote: {summary_txt}")
+
+    if not args.no_pdf:
+        from render_pdf import render_pdf
+        pdf_path = out_dir / 'summary.pdf'
+        render_pdf(daily_df, snapshot, args.start_date, pdf_path)
+        print(f"Wrote: {pdf_path}")
 
 
 if __name__ == '__main__':
