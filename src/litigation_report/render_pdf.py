@@ -35,6 +35,7 @@ _TEMPLATE = """<!DOCTYPE html>
   th, td {{ text-align: right; padding: 5px 8px; border-bottom: 1px solid #eee; }}
   th:first-child, td:first-child {{ text-align: left; }}
   th {{ font-size: 10px; color: #555; font-weight: 600; }}
+  tr.post-order {{ background: #fff8e6; }}
   .note {{
     font-size: 9.5px;
     color: #555;
@@ -80,6 +81,19 @@ _TEMPLATE = """<!DOCTYPE html>
     post-order postings with the Q are new violations opened after the order.
   </div>
 
+  <h2>Weekly trend, last {n_weeks} weeks (highlighted = on/after order date {order_date})</h2>
+  <table>
+    <thead>
+      <tr><th>Week of</th><th>Total new</th><th>With Loyalty Q</th><th>% with Q</th><th>Confirmed without</th><th>No link found</th></tr>
+    </thead>
+    <tbody>
+      {weekly_rows}
+    </tbody>
+  </table>
+  <div class="note">
+    Full weekly history back to {earliest_week} is in the accompanying new_postings_detail.html.
+  </div>
+
   <h2>Daily new postings since {start_date}</h2>
   <table>
     <thead>
@@ -106,7 +120,7 @@ _TEMPLATE = """<!DOCTYPE html>
 """
 
 
-def render_pdf(daily_df, snapshot, order_split, start_date, order_date, out_path):
+def render_pdf(daily_df, snapshot, order_split, weekly_df, start_date, order_date, out_path):
     pct_with_q = (
         snapshot['live_with_loyalty_q'] / snapshot['total_live_postings'] * 100
         if snapshot['total_live_postings'] else 0
@@ -125,6 +139,18 @@ def render_pdf(daily_df, snapshot, order_split, start_date, order_date, out_path
         row_html.append(
             f"<tr><td>{row['open_date']}</td><td>{row['total_new']:,}</td>"
             f"<td>{row['new_with_loyalty_q']:,}</td><td>{row['new_confirmed_without_loyalty_q']:,}</td>"
+            f"<td>{row['new_no_questionnaire_link_found']:,}</td></tr>"
+        )
+
+    n_weeks = 8
+    recent_weeks = weekly_df.tail(n_weeks)
+    weekly_row_html = []
+    for _, row in recent_weeks.iterrows():
+        row_class = ' class="post-order"' if row['is_post_order'] else ''
+        weekly_row_html.append(
+            f"<tr{row_class}><td>{row['week_start']}</td><td>{row['total_new']:,}</td>"
+            f"<td>{row['new_with_loyalty_q']:,}</td><td>{row['pct_with_loyalty_q']:.1f}%</td>"
+            f"<td>{row['new_confirmed_without_loyalty_q']:,}</td>"
             f"<td>{row['new_no_questionnaire_link_found']:,}</td></tr>"
         )
 
@@ -147,6 +173,9 @@ def render_pdf(daily_df, snapshot, order_split, start_date, order_date, out_path
         post_pct=post_pct,
         post_without_q=order_split['post_order_live_confirmed_without_loyalty_q'],
         post_unknown=order_split['post_order_live_no_questionnaire_link_found'],
+        n_weeks=n_weeks,
+        earliest_week=weekly_df.iloc[0]['week_start'],
+        weekly_rows='\n      '.join(weekly_row_html),
         rows='\n      '.join(row_html),
     )
 

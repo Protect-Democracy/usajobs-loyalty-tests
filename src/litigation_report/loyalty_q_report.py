@@ -158,6 +158,21 @@ def agency_breakdown(jobs: pd.DataFrame, start_date: str) -> pd.DataFrame:
     return result.sort_values('total_new', ascending=False)
 
 
+def weekly_breakdown(jobs: pd.DataFrame, order_date: str) -> pd.DataFrame:
+    """New-postings counts by week (all history), with a pct_with_loyalty_q
+    column and an is_post_order flag marking weeks starting on/after order_date.
+    """
+    dated = jobs.dropna(subset=['position_open_date']).copy()
+    dated['week_start'] = dated['position_open_date'].dt.to_period('W-SUN').dt.start_time.dt.date
+    result = _status_pivot(dated, 'week_start', 'new').reset_index().sort_values('week_start')
+    result['pct_with_loyalty_q'] = (
+        result['new_with_loyalty_q'] / result['total_new'] * 100
+    ).round(1).fillna(0)
+    order = pd.Timestamp(order_date).date()
+    result['is_post_order'] = result['week_start'] >= order
+    return result
+
+
 USAJOBS_POSTING_URL = 'https://www.usajobs.gov/job/{control_number}'
 
 
@@ -244,6 +259,7 @@ def main():
     order_split = live_snapshot_by_order_date(jobs, as_of, order_date)
     agency_df = agency_breakdown(jobs, args.start_date)
     detail_df = new_postings_detail(jobs, args.start_date)
+    weekly_df = weekly_breakdown(jobs, order_date)
 
     pct = (
         snapshot['live_with_loyalty_q'] / snapshot['total_live_postings'] * 100
@@ -261,9 +277,12 @@ def main():
     order_split_csv = out_dir / 'live_snapshot_by_order_date.csv'
     pd.DataFrame([order_split]).to_csv(order_split_csv, index=False)
 
+    weekly_csv = out_dir / 'weekly_breakdown.csv'
+    weekly_df.to_csv(weekly_csv, index=False)
+
     from render_html import render_html
     detail_html = out_dir / 'new_postings_detail.html'
-    render_html(agency_df, detail_df, args.start_date, snapshot['as_of'], detail_html)
+    render_html(agency_df, detail_df, weekly_df, args.start_date, order_date, snapshot['as_of'], detail_html)
 
     pre_pct = (
         order_split['pre_order_live_with_loyalty_q'] / order_split['total_pre_order_live'] * 100
@@ -304,20 +323,20 @@ def main():
         "structurally unrecoverable (postings on non-USAStaffing agency systems).",
         "See loyalty_q_report.py's module docstring for known coverage gaps.",
         "",
-        f"Agency breakdown and per-posting USAJOBS links for every new posting "
-        f"since {args.start_date}: {detail_html}",
+        f"Agency breakdown, full weekly history, and per-posting USAJOBS links for every "
+        f"new posting since {args.start_date}: {detail_html}",
     ]
     summary_txt = out_dir / 'summary.txt'
     summary_txt.write_text('\n'.join(summary_lines) + '\n')
 
     print('\n'.join(summary_lines))
-    print(f"\nWrote: {daily_csv}\nWrote: {live_csv}\nWrote: {order_split_csv}"
+    print(f"\nWrote: {daily_csv}\nWrote: {live_csv}\nWrote: {order_split_csv}\nWrote: {weekly_csv}"
           f"\nWrote: {summary_txt}\nWrote: {detail_html}")
 
     if not args.no_pdf:
         from render_pdf import render_pdf
         pdf_path = out_dir / 'summary.pdf'
-        render_pdf(daily_df, snapshot, order_split, args.start_date, order_date, pdf_path)
+        render_pdf(daily_df, snapshot, order_split, weekly_df, args.start_date, order_date, pdf_path)
         print(f"Wrote: {pdf_path}")
 
 

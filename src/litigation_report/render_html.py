@@ -45,11 +45,28 @@ _TEMPLATE = """<!DOCTYPE html>
   .filters {{ display: flex; align-items: center; gap: 14px; margin: 14px 0; flex-wrap: wrap; }}
   .filters .dropdown-menu {{ max-height: 260px; overflow-y: auto; min-width: 260px; }}
   #match-count {{ font-size: 12.5px; color: #555; }}
+  tr.post-order {{ background: #fff8e6; }}
+  .legend {{ font-size: 12px; color: #555; margin: 8px 0 4px; }}
+  .legend .swatch {{
+    display: inline-block; width: 10px; height: 10px; background: #fff8e6;
+    border: 1px solid #e6c860; margin-right: 5px; vertical-align: middle;
+  }}
 </style>
 </head>
 <body>
   <h1>Loyalty Q — new postings detail</h1>
   <div class="subtitle">Internal — litigation team only &middot; new postings since {start_date}, as of {as_of}</div>
+
+  <h2>By week (full history)</h2>
+  <div class="legend"><span class="swatch"></span>on/after the court order date ({order_date})</div>
+  <table>
+    <thead>
+      <tr><th>Week of</th><th>Total new</th><th>With Loyalty Q</th><th>% with Q</th><th>Confirmed without</th><th>No link found</th></tr>
+    </thead>
+    <tbody>
+      {weekly_rows}
+    </tbody>
+  </table>
 
   <h2>By agency</h2>
   <table>
@@ -155,7 +172,17 @@ _TEMPLATE = """<!DOCTYPE html>
 """
 
 
-def render_html(agency_df, detail_df, start_date, as_of, out_path):
+def render_html(agency_df, detail_df, weekly_df, start_date, order_date, as_of, out_path):
+    weekly_rows = []
+    for _, row in weekly_df.iterrows():
+        row_class = ' class="post-order"' if row['is_post_order'] else ''
+        weekly_rows.append(
+            f"<tr{row_class}><td>{row['week_start']}</td><td>{row['total_new']:,}</td>"
+            f"<td>{row['new_with_loyalty_q']:,}</td><td>{row['pct_with_loyalty_q']:.1f}%</td>"
+            f"<td>{row['new_confirmed_without_loyalty_q']:,}</td>"
+            f"<td>{row['new_no_questionnaire_link_found']:,}</td></tr>"
+        )
+
     agency_rows = []
     for _, row in agency_df.iterrows():
         agency_rows.append(
@@ -196,7 +223,9 @@ def render_html(agency_df, detail_df, start_date, as_of, out_path):
 
     out_html = _TEMPLATE.format(
         start_date=start_date,
+        order_date=order_date,
         as_of=as_of,
+        weekly_rows='\n      '.join(weekly_rows),
         agency_rows='\n      '.join(agency_rows),
         agency_checkboxes=agency_checkboxes,
         status_checkboxes=status_checkboxes,
