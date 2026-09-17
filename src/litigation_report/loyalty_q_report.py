@@ -217,14 +217,12 @@ def main():
     daily_csv = out_dir / 'daily_new_postings.csv'
     daily_df.to_csv(daily_csv, index=False)
 
-    agency_csv = out_dir / 'agency_breakdown_since_start.csv'
-    agency_df.to_csv(agency_csv, index=False)
-
-    detail_csv = out_dir / 'new_postings_detail.csv'
-    detail_df.to_csv(detail_csv, index=False)
-
     live_csv = out_dir / 'live_snapshot.csv'
     pd.DataFrame([{**snapshot, 'live_with_loyalty_q_pct_of_all_live': round(pct, 1)}]).to_csv(live_csv, index=False)
+
+    from render_html import render_html
+    detail_html = out_dir / 'new_postings_detail.html'
+    render_html(agency_df, detail_df, args.start_date, snapshot['as_of'], detail_html)
 
     summary_lines = [
         f"Loyalty Q litigation report — as of {snapshot['as_of']}",
@@ -232,10 +230,6 @@ def main():
         f"Daily new postings since {args.start_date}:",
         "",
         daily_df.to_string(index=False),
-        "",
-        f"New postings since {args.start_date}, by agency:",
-        "",
-        agency_df.to_string(index=False),
         "",
         f"Live postings snapshot as of {snapshot['as_of']}:",
         f"  total_live_postings: {snapshot['total_live_postings']:,}",
@@ -247,20 +241,19 @@ def main():
         "structurally unrecoverable (postings on non-USAStaffing agency systems).",
         "See loyalty_q_report.py's module docstring for known coverage gaps.",
         "",
-        f"Per-posting detail with USAJOBS links for every new posting since "
-        f"{args.start_date}: {detail_csv}",
+        f"Agency breakdown and per-posting USAJOBS links for every new posting "
+        f"since {args.start_date}: {detail_html}",
     ]
     summary_txt = out_dir / 'summary.txt'
     summary_txt.write_text('\n'.join(summary_lines) + '\n')
 
     print('\n'.join(summary_lines))
-    print(f"\nWrote: {daily_csv}\nWrote: {agency_csv}\nWrote: {detail_csv}"
-          f"\nWrote: {live_csv}\nWrote: {summary_txt}")
+    print(f"\nWrote: {daily_csv}\nWrote: {live_csv}\nWrote: {summary_txt}\nWrote: {detail_html}")
 
     if not args.no_pdf:
         from render_pdf import render_pdf
         pdf_path = out_dir / 'summary.pdf'
-        render_pdf(daily_df, agency_df, snapshot, args.start_date, pdf_path)
+        render_pdf(daily_df, snapshot, args.start_date, pdf_path)
         print(f"Wrote: {pdf_path}")
 
 

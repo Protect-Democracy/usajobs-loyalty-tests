@@ -67,19 +67,9 @@ _TEMPLATE = """<!DOCTYPE html>
     </tbody>
   </table>
 
-  <h2>New postings since {start_date}, by agency</h2>
-  <table>
-    <thead>
-      <tr><th>Agency</th><th>Total new</th><th>With Loyalty Q</th><th>Confirmed without</th><th>No link found</th></tr>
-    </thead>
-    <tbody>
-      {agency_rows}
-    </tbody>
-  </table>
-
   <div class="note">
-    Per-posting detail with a clickable USAJOBS link for every new posting since {start_date}
-    is in the accompanying new_postings_detail.csv.
+    Full breakdown by agency, and a clickable USAJOBS link for every new posting since {start_date},
+    is in the accompanying new_postings_detail.html.
   </div>
 
   <div class="note">
@@ -93,7 +83,7 @@ _TEMPLATE = """<!DOCTYPE html>
 """
 
 
-def render_pdf(daily_df, agency_df, snapshot, start_date, out_path):
+def render_pdf(daily_df, snapshot, start_date, out_path):
     pct_with_q = (
         snapshot['live_with_loyalty_q'] / snapshot['total_live_postings'] * 100
         if snapshot['total_live_postings'] else 0
@@ -107,14 +97,6 @@ def render_pdf(daily_df, agency_df, snapshot, start_date, out_path):
             f"<td>{row['new_no_questionnaire_link_found']:,}</td></tr>"
         )
 
-    agency_row_html = []
-    for _, row in agency_df.iterrows():
-        agency_row_html.append(
-            f"<tr><td>{row['hiring_agency']}</td><td>{row['total_new']:,}</td>"
-            f"<td>{row['new_with_loyalty_q']:,}</td><td>{row['new_confirmed_without_loyalty_q']:,}</td>"
-            f"<td>{row['new_no_questionnaire_link_found']:,}</td></tr>"
-        )
-
     html = _TEMPLATE.format(
         as_of=snapshot['as_of'],
         total_live=snapshot['total_live_postings'],
@@ -124,7 +106,6 @@ def render_pdf(daily_df, agency_df, snapshot, start_date, out_path):
         live_unknown=snapshot['live_no_questionnaire_link_found'],
         start_date=start_date,
         rows='\n      '.join(row_html),
-        agency_rows='\n      '.join(agency_row_html),
     )
 
     out_path = Path(out_path)
