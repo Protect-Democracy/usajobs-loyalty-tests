@@ -43,6 +43,10 @@ def extract_questionnaire_id(url):
             match = re.search(r'J=(\d+)', url)
         file_id = match.group(1) if match else str(hash(url))[:8]
         return 'monster', file_id
+    elif 'jobs.faa.gov' in url:
+        match = re.search(r'Preview/(\d+)', url)
+        file_id = match.group(1) if match else 'unknown'
+        return 'faa', file_id
     else:
         file_id = str(hash(url))[:8]
         return 'other', file_id
@@ -142,6 +146,56 @@ def discover_qid_from_usajobs_posting(position_uri, session=None, timeout=15):
     if resp.status_code != 200:
         return None
     return discover_qid_from_usajobs_html(resp.text)
+
+
+# Full-URL questionnaire patterns for agency-branded staffing portals that
+# aren't apply.usastaffing.gov or Monster Government (e.g. the FAA hosts its
+# own questionnaire preview pages at jobs.faa.gov rather than through
+# USAStaffing). Add more entries here as other agency-specific portals are
+# identified — each is tried in order against the raw USAJobs posting HTML.
+_AGENCY_QUESTIONNAIRE_URL_PATTERNS = [
+    re.compile(r'https://jobs\.faa\.gov/Preview/\d+'),
+]
+
+
+def discover_agency_questionnaire_url_from_html(html):
+    """Find a non-USAStaffing, agency-branded questionnaire URL in USAJobs posting HTML.
+
+    Returns the matched URL string, or None.
+    """
+    if not html:
+        return None
+    for pattern in _AGENCY_QUESTIONNAIRE_URL_PATTERNS:
+        match = pattern.search(html)
+        if match:
+            return match.group(0)
+    return None
+
+
+def discover_questionnaire_url_from_usajobs_posting(position_uri, session=None, timeout=15):
+    """Fetch a USAJobs posting page and return any discoverable questionnaire URL.
+
+    Tries the USAStaffing QID pattern first, then known agency-branded portal
+    patterns (see _AGENCY_QUESTIONNAIRE_URL_PATTERNS). Last-resort fallback for
+    jobs whose announcement number doesn't embed a QID, or that apply through a
+    staffing portal other than apply.usastaffing.gov. Caller should rate-limit
+    at the loop level.
+    """
+    if not position_uri:
+        return None
+    import requests
+    headers = {'User-Agent': 'Mozilla/5.0 (compatible; questionnaire-tracker/1.0)'}
+    get = session.get if session else requests.get
+    try:
+        resp = get(position_uri, headers=headers, timeout=timeout, allow_redirects=True)
+    except Exception:
+        return None
+    if resp.status_code != 200:
+        return None
+    qid = discover_qid_from_usajobs_html(resp.text)
+    if qid:
+        return f'https://apply.usastaffing.gov/ViewQuestionnaire/{qid}'
+    return discover_agency_questionnaire_url_from_html(resp.text)
 
 
 def load_known_bad_urls(path=None):

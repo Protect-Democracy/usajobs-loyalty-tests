@@ -20,7 +20,7 @@ import threading
 from questionnaire_utils import (
     transform_monster_url, extract_questionnaire_id, get_questionnaire_filename,
     get_questionnaire_filepath, questionnaire_exists, RAW_QUESTIONNAIRES_DIR,
-    infer_questionnaire_url_from_announcement, discover_qid_from_usajobs_posting,
+    infer_questionnaire_url_from_announcement, discover_questionnaire_url_from_usajobs_posting,
     questionnaire_text_matches_announcement,
     load_known_bad_urls, append_known_bad_url,
 )
@@ -162,35 +162,38 @@ def extract_questionnaire_links_from_job(job_row, fetch_usajobs_html=True):
     if not isinstance(high_grade, str) and pd.isna(high_grade):
         high_grade = None
 
-    # Fallback: if no direct questionnaire URL was found but the posting both
+    # Fallback 1: if no direct questionnaire URL was found but the posting both
     # (a) applies through USAStaffing and (b) mentions a questionnaire or
     # assessment, guess the URL from the middle 8-digit token of the
-    # announcement number. This avoids firing on jobs that apply through
-    # non-USAStaffing systems (CIA MyLINK, Monster, agency-specific portals).
+    # announcement number. Gated on uses_usastaffing because the guess only
+    # makes sense as an apply.usastaffing.gov URL.
     inferred_from_announcement = False
     inferred_from_posting_html = False
-    if not links:
-        if uses_usastaffing and mentions_questionnaire:
-            ann = job_row.get('announcementNumber')
-            guessed = infer_questionnaire_url_from_announcement(ann)
-            if guessed:
-                links.append(guessed)
-                inferred_from_announcement = True
-            elif fetch_usajobs_html:
-                # Second fallback: announcement number doesn't embed a QID.
-                # Fetch the USAJobs posting HTML once and look for a
-                # ViewQuestionnaire URL rendered on the page. About 25% of
-                # these gap postings actually surface a QID this way.
-                position_uri = job_row.get('positionURI')
-                if not isinstance(position_uri, str) or not position_uri:
-                    position_uri = None
-                if position_uri:
-                    qid = discover_qid_from_usajobs_posting(
-                        position_uri, session=_get_usajobs_session()
-                    )
-                    if qid:
-                        links.append(f'https://apply.usastaffing.gov/ViewQuestionnaire/{qid}')
-                        inferred_from_posting_html = True
+    if not links and mentions_questionnaire and uses_usastaffing:
+        ann = job_row.get('announcementNumber')
+        guessed = infer_questionnaire_url_from_announcement(ann)
+        if guessed:
+            links.append(guessed)
+            inferred_from_announcement = True
+
+    # Fallback 2: fetch the USAJobs posting HTML and look for a rendered
+    # questionnaire URL (USAStaffing or a known agency-branded portal, e.g.
+    # FAA's jobs.faa.gov). NOT gated on uses_usastaffing — that flag comes
+    # from the raw MatchedObjectDescriptor blob and is False for jobs that
+    # apply through an agency-branded portal on a different domain, which is
+    # exactly the case this fallback exists to catch. About 25% of these gap
+    # postings actually surface a link this way.
+    if not links and mentions_questionnaire and fetch_usajobs_html:
+        position_uri = job_row.get('positionURI')
+        if not isinstance(position_uri, str) or not position_uri:
+            position_uri = None
+        if position_uri:
+            discovered_url = discover_questionnaire_url_from_usajobs_posting(
+                position_uri, session=_get_usajobs_session()
+            )
+            if discovered_url:
+                links.append(discovered_url)
+                inferred_from_posting_html = True
 
     return links, occupation_series, occupation_name, position_location, grade_code, position_schedule, service_type, low_grade, high_grade, has_monster_link, inferred_from_announcement, inferred_from_posting_html
 
