@@ -91,6 +91,41 @@ src/generate_data/run_parallel.sh 2020 2021 2022
   - `current_jobs_YEAR.parquet`: Current job postings by year
 - **Logs**: Stored in `logs/` directory with aggressive data gap detection
 
+## Known Limitations
+
+**Some agency-branded questionnaire portals block automated scraping and must be
+backfilled manually — this cannot be fixed in the daily GitHub Actions pipeline.**
+
+A few agencies host their own USAStaffing-style questionnaire portal instead of
+using `apply.usastaffing.gov` or Monster Government directly (e.g. the FAA at
+`jobs.faa.gov`). The daily pipeline can *discover* that a link exists for these
+postings just fine, but the portal itself blocks a launched/headless browser at
+the network level — confirmed on a dev laptop, a residential network, and
+GitHub Actions' own runners alike, while a normal hand-driven browser loads the
+same page instantly. There's no human in the loop on a scheduled CI run to get
+past that, so these postings will always show as `no_questionnaire_link_found`
+(or, once discovered but not yet scraped, sit indefinitely unscraped) until
+someone runs the backfill below by hand.
+
+To backfill these:
+
+```bash
+# 1. Start a debug Chrome and load the target portal once by hand, to establish
+#    a normal, non-automated session:
+"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" \
+    --remote-debugging-port=9222 --user-data-dir="$HOME/chrome-debug"
+# (visit e.g. https://jobs.faa.gov in that window)
+
+# 2. Run the backfill — it attaches to that Chrome over the DevTools Protocol
+#    instead of launching its own browser:
+cd src/generate_site
+python3 backfill_blocked_portal_questionnaires.py
+```
+
+See that script's module docstring for details, and
+`questionnaire_utils.py`'s `_AGENCY_QUESTIONNAIRE_URL_PATTERNS` / `BLOCKED_DOMAINS`
+in the backfill script to add a newly-identified blocked portal.
+
 ## Contributing
 
 See [docs/CONTRIBUTING.md](./docs/CONTRIBUTING.md).
