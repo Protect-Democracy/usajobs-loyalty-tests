@@ -175,20 +175,55 @@ def new_postings_detail(jobs: pd.DataFrame, start_date: str) -> pd.DataFrame:
     return new_jobs[cols].sort_values(['hiring_agency', 'position_open_date'])
 
 
+def _live_jobs(jobs: pd.DataFrame, as_of: pd.Timestamp) -> pd.DataFrame:
+    return jobs[(jobs['position_close_date'].isna()) | (jobs['position_close_date'] >= as_of)]
+
+
+def _snapshot_stats(df: pd.DataFrame, prefix: str) -> dict:
+    return {
+        f'total_{prefix}': int(len(df)),
+        f'{prefix}_with_loyalty_q': int((df['loyalty_q_status'] == 'has_loyalty_q').sum()),
+        f'{prefix}_confirmed_without_loyalty_q': int((df['loyalty_q_status'] == 'confirmed_no_loyalty_q').sum()),
+        f'{prefix}_no_questionnaire_link_found': int((df['loyalty_q_status'] == 'no_questionnaire_link_found').sum()),
+    }
+
+
 def live_postings_snapshot(jobs: pd.DataFrame, as_of: pd.Timestamp) -> dict:
-    live = jobs[(jobs['position_close_date'].isna()) | (jobs['position_close_date'] >= as_of)]
+    live = _live_jobs(jobs, as_of)
+    stats = _snapshot_stats(live, 'live')
     return {
         'as_of': as_of.strftime('%Y-%m-%d'),
-        'total_live_postings': int(len(live)),
-        'live_with_loyalty_q': int((live['loyalty_q_status'] == 'has_loyalty_q').sum()),
-        'live_confirmed_without_loyalty_q': int((live['loyalty_q_status'] == 'confirmed_no_loyalty_q').sum()),
-        'live_no_questionnaire_link_found': int((live['loyalty_q_status'] == 'no_questionnaire_link_found').sum()),
+        'total_live_postings': stats['total_live'],
+        'live_with_loyalty_q': stats['live_with_loyalty_q'],
+        'live_confirmed_without_loyalty_q': stats['live_confirmed_without_loyalty_q'],
+        'live_no_questionnaire_link_found': stats['live_no_questionnaire_link_found'],
+    }
+
+
+def live_snapshot_by_order_date(jobs: pd.DataFrame, as_of: pd.Timestamp, order_date: str) -> dict:
+    """Split the live snapshot into postings opened before vs. on/after order_date.
+
+    Ori's ask (2026-09-17): postings opened before the court's order that are
+    still live and still show the Loyalty Q are the ones litigation may seek
+    to have taken down or edited, as distinct from new postings opened since.
+    """
+    live = _live_jobs(jobs, as_of)
+    order = pd.Timestamp(order_date)
+    pre_order = live[live['position_open_date'] < order]
+    post_order = live[live['position_open_date'] >= order]
+    return {
+        'as_of': as_of.strftime('%Y-%m-%d'),
+        'order_date': order_date,
+        **_snapshot_stats(pre_order, 'pre_order_live'),
+        **_snapshot_stats(post_order, 'post_order_live'),
     }
 
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument('--start-date', default=DEFAULT_START_DATE)
+    parser.add_argument('--order-date', default=None,
+                         help="Court order date, for the pre/post-order live split. Defaults to --start-date.")
     parser.add_argument('--out-dir', default=str(Path(__file__).resolve().parent / 'output'))
     parser.add_argument('--skip-rebuild', action='store_true',
                          help='Skip regenerating all_jobs_clean.csv from parquet (use the checked-in file as-is)')
@@ -201,9 +236,12 @@ def main():
 
     jobs = load_job_level_flags()
 
+    order_date = args.order_date or args.start_date
+
     as_of = pd.Timestamp(datetime.now(timezone.utc).date())
     daily_df = daily_new_postings(jobs, args.start_date)
     snapshot = live_postings_snapshot(jobs, as_of)
+    order_split = live_snapshot_by_order_date(jobs, as_of, order_date)
     agency_df = agency_breakdown(jobs, args.start_date)
     detail_df = new_postings_detail(jobs, args.start_date)
 
@@ -220,9 +258,21 @@ def main():
     live_csv = out_dir / 'live_snapshot.csv'
     pd.DataFrame([{**snapshot, 'live_with_loyalty_q_pct_of_all_live': round(pct, 1)}]).to_csv(live_csv, index=False)
 
+    order_split_csv = out_dir / 'live_snapshot_by_order_date.csv'
+    pd.DataFrame([order_split]).to_csv(order_split_csv, index=False)
+
     from render_html import render_html
     detail_html = out_dir / 'new_postings_detail.html'
     render_html(agency_df, detail_df, args.start_date, snapshot['as_of'], detail_html)
+
+    pre_pct = (
+        order_split['pre_order_live_with_loyalty_q'] / order_split['total_pre_order_live'] * 100
+        if order_split['total_pre_order_live'] else 0
+    )
+    post_pct = (
+        order_split['post_order_live_with_loyalty_q'] / order_split['total_post_order_live'] * 100
+        if order_split['total_post_order_live'] else 0
+    )
 
     summary_lines = [
         f"Loyalty Q litigation report — as of {snapshot['as_of']}",
@@ -237,6 +287,19 @@ def main():
         f"  live_confirmed_without_loyalty_q: {snapshot['live_confirmed_without_loyalty_q']:,}",
         f"  live_no_questionnaire_link_found: {snapshot['live_no_questionnaire_link_found']:,}",
         "",
+        f"Live postings split by court order date ({order_date}) — pre-order postings still",
+        f"live with the Q are candidates for takedown/edit; post-order ones are new violations:",
+        f"  pre-order (opened before {order_date}):",
+        f"    total: {order_split['total_pre_order_live']:,}",
+        f"    with_loyalty_q: {order_split['pre_order_live_with_loyalty_q']:,} ({pre_pct:.1f}%)",
+        f"    confirmed_without: {order_split['pre_order_live_confirmed_without_loyalty_q']:,}",
+        f"    no_questionnaire_link_found: {order_split['pre_order_live_no_questionnaire_link_found']:,}",
+        f"  post-order (opened on/after {order_date}):",
+        f"    total: {order_split['total_post_order_live']:,}",
+        f"    with_loyalty_q: {order_split['post_order_live_with_loyalty_q']:,} ({post_pct:.1f}%)",
+        f"    confirmed_without: {order_split['post_order_live_confirmed_without_loyalty_q']:,}",
+        f"    no_questionnaire_link_found: {order_split['post_order_live_no_questionnaire_link_found']:,}",
+        "",
         "Note: live_no_questionnaire_link_found is NOT 'pending' — most of it is",
         "structurally unrecoverable (postings on non-USAStaffing agency systems).",
         "See loyalty_q_report.py's module docstring for known coverage gaps.",
@@ -248,12 +311,13 @@ def main():
     summary_txt.write_text('\n'.join(summary_lines) + '\n')
 
     print('\n'.join(summary_lines))
-    print(f"\nWrote: {daily_csv}\nWrote: {live_csv}\nWrote: {summary_txt}\nWrote: {detail_html}")
+    print(f"\nWrote: {daily_csv}\nWrote: {live_csv}\nWrote: {order_split_csv}"
+          f"\nWrote: {summary_txt}\nWrote: {detail_html}")
 
     if not args.no_pdf:
         from render_pdf import render_pdf
         pdf_path = out_dir / 'summary.pdf'
-        render_pdf(daily_df, snapshot, args.start_date, pdf_path)
+        render_pdf(daily_df, snapshot, order_split, args.start_date, order_date, pdf_path)
         print(f"Wrote: {pdf_path}")
 
 

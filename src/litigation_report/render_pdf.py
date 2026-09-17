@@ -57,6 +57,29 @@ _TEMPLATE = """<!DOCTYPE html>
     <div class="stat"><div class="value">{live_unknown:,}</div><div class="label">No questionnaire link found</div></div>
   </div>
 
+  <h2>Live postings split by court order date ({order_date})</h2>
+  <table>
+    <thead>
+      <tr><th></th><th>Total live</th><th>With Loyalty Q</th><th>Confirmed without</th><th>No link found</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Pre-order (opened before {order_date})</td>
+        <td>{pre_total:,}</td><td>{pre_with_q:,} ({pre_pct:.1f}%)</td>
+        <td>{pre_without_q:,}</td><td>{pre_unknown:,}</td>
+      </tr>
+      <tr>
+        <td>Post-order (opened on/after {order_date})</td>
+        <td>{post_total:,}</td><td>{post_with_q:,} ({post_pct:.1f}%)</td>
+        <td>{post_without_q:,}</td><td>{post_unknown:,}</td>
+      </tr>
+    </tbody>
+  </table>
+  <div class="note">
+    Pre-order postings still live with the Loyalty Q are candidates for takedown/edit;
+    post-order postings with the Q are new violations opened after the order.
+  </div>
+
   <h2>Daily new postings since {start_date}</h2>
   <table>
     <thead>
@@ -83,10 +106,18 @@ _TEMPLATE = """<!DOCTYPE html>
 """
 
 
-def render_pdf(daily_df, snapshot, start_date, out_path):
+def render_pdf(daily_df, snapshot, order_split, start_date, order_date, out_path):
     pct_with_q = (
         snapshot['live_with_loyalty_q'] / snapshot['total_live_postings'] * 100
         if snapshot['total_live_postings'] else 0
+    )
+    pre_pct = (
+        order_split['pre_order_live_with_loyalty_q'] / order_split['total_pre_order_live'] * 100
+        if order_split['total_pre_order_live'] else 0
+    )
+    post_pct = (
+        order_split['post_order_live_with_loyalty_q'] / order_split['total_post_order_live'] * 100
+        if order_split['total_post_order_live'] else 0
     )
 
     row_html = []
@@ -105,6 +136,17 @@ def render_pdf(daily_df, snapshot, start_date, out_path):
         live_without_q=snapshot['live_confirmed_without_loyalty_q'],
         live_unknown=snapshot['live_no_questionnaire_link_found'],
         start_date=start_date,
+        order_date=order_date,
+        pre_total=order_split['total_pre_order_live'],
+        pre_with_q=order_split['pre_order_live_with_loyalty_q'],
+        pre_pct=pre_pct,
+        pre_without_q=order_split['pre_order_live_confirmed_without_loyalty_q'],
+        pre_unknown=order_split['pre_order_live_no_questionnaire_link_found'],
+        post_total=order_split['total_post_order_live'],
+        post_with_q=order_split['post_order_live_with_loyalty_q'],
+        post_pct=post_pct,
+        post_without_q=order_split['post_order_live_confirmed_without_loyalty_q'],
+        post_unknown=order_split['post_order_live_no_questionnaire_link_found'],
         rows='\n      '.join(row_html),
     )
 
