@@ -178,24 +178,41 @@ def main():
     daily_df = daily_new_postings(jobs, args.start_date)
     snapshot = live_postings_snapshot(jobs, as_of)
 
+    pct = (
+        snapshot['live_with_loyalty_q'] / snapshot['total_live_postings'] * 100
+        if snapshot['total_live_postings'] else 0
+    )
+
     out_dir = Path(args.out_dir)
     out_dir.mkdir(parents=True, exist_ok=True)
     daily_csv = out_dir / 'daily_new_postings.csv'
     daily_df.to_csv(daily_csv, index=False)
 
-    print(f"\n=== Loyalty Q litigation report (as of {snapshot['as_of']}) ===\n")
-    print(f"Daily new postings since {args.start_date} (written to {daily_csv}):\n")
-    print(daily_df.to_string(index=False))
+    live_csv = out_dir / 'live_snapshot.csv'
+    pd.DataFrame([{**snapshot, 'live_with_loyalty_q_pct_of_all_live': round(pct, 1)}]).to_csv(live_csv, index=False)
 
-    print(f"\nLive postings snapshot as of {snapshot['as_of']}:")
-    for k, v in snapshot.items():
-        if k != 'as_of':
-            print(f"  {k}: {v:,}")
-    pct = (
-        snapshot['live_with_loyalty_q'] / snapshot['total_live_postings'] * 100
-        if snapshot['total_live_postings'] else 0
-    )
-    print(f"  live_with_loyalty_q_pct_of_all_live: {pct:.1f}%")
+    summary_lines = [
+        f"Loyalty Q litigation report — as of {snapshot['as_of']}",
+        "",
+        f"Daily new postings since {args.start_date}:",
+        "",
+        daily_df.to_string(index=False),
+        "",
+        f"Live postings snapshot as of {snapshot['as_of']}:",
+        f"  total_live_postings: {snapshot['total_live_postings']:,}",
+        f"  live_with_loyalty_q: {snapshot['live_with_loyalty_q']:,} ({pct:.1f}%)",
+        f"  live_confirmed_without_loyalty_q: {snapshot['live_confirmed_without_loyalty_q']:,}",
+        f"  live_no_questionnaire_link_found: {snapshot['live_no_questionnaire_link_found']:,}",
+        "",
+        "Note: live_no_questionnaire_link_found is NOT 'pending' — most of it is",
+        "structurally unrecoverable (postings on non-USAStaffing agency systems).",
+        "See loyalty_q_report.py's module docstring for known coverage gaps.",
+    ]
+    summary_txt = out_dir / 'summary.txt'
+    summary_txt.write_text('\n'.join(summary_lines) + '\n')
+
+    print('\n'.join(summary_lines))
+    print(f"\nWrote: {daily_csv}\nWrote: {live_csv}\nWrote: {summary_txt}")
 
 
 if __name__ == '__main__':
