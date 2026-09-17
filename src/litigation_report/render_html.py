@@ -1,8 +1,8 @@
 """Render the agency breakdown + per-posting detail as a browsable HTML page.
 
 Replaces a CSV export so the USAJOBS links are actually clickable, and the
-per-posting table can be filtered by agency and status (dropdowns, not a
-free-text search box).
+per-posting table can be filtered by agency and status via multi-select
+checkboxes (e.g. Army + Navy, Has Loyalty Q) rather than a free-text box.
 """
 import html as _html
 from pathlib import Path
@@ -39,12 +39,22 @@ _TEMPLATE = """<!DOCTYPE html>
   a {{ color: #1a56db; text-decoration: none; }}
   a:hover {{ text-decoration: underline; }}
   .note {{ font-size: 12.5px; color: #555; font-style: italic; margin-top: 24px; line-height: 1.5; }}
-  .filters {{ display: flex; align-items: center; gap: 14px; margin: 12px 0; flex-wrap: wrap; }}
-  .filters label {{ font-size: 12.5px; color: #555; }}
-  .filters select {{
-    padding: 6px 8px; border: 1px solid #ccc; border-radius: 4px; font-size: 13px; margin-left: 6px;
+  .filters {{ display: flex; align-items: flex-start; gap: 28px; margin: 14px 0; flex-wrap: wrap; }}
+  .filter-group {{ min-width: 220px; }}
+  .filter-group .filter-title {{
+    font-size: 12.5px; font-weight: 600; color: #333; margin-bottom: 6px;
+    display: flex; justify-content: space-between; align-items: center;
   }}
-  #match-count {{ font-size: 12.5px; color: #555; }}
+  .filter-group .filter-title button {{
+    font-size: 11px; color: #1a56db; background: none; border: none; cursor: pointer; padding: 0;
+  }}
+  .checkbox-list {{
+    border: 1px solid #ddd; border-radius: 6px; padding: 6px 10px;
+    max-height: 160px; overflow-y: auto; font-size: 12.5px;
+  }}
+  .checkbox-list label {{ display: block; padding: 3px 0; cursor: pointer; }}
+  .checkbox-list input {{ margin-right: 6px; }}
+  #match-count {{ font-size: 12.5px; color: #555; align-self: center; }}
 </style>
 </head>
 <body>
@@ -63,18 +73,18 @@ _TEMPLATE = """<!DOCTYPE html>
 
   <h2>Every new posting ({count:,} total)</h2>
   <div class="filters">
-    <label>Agency
-      <select id="agency-filter">
-        <option value="">All agencies</option>
-        {agency_options}
-      </select>
-    </label>
-    <label>Status
-      <select id="status-filter">
-        <option value="">All statuses</option>
-        {status_options}
-      </select>
-    </label>
+    <div class="filter-group">
+      <div class="filter-title">Agency <button type="button" data-clear="agency-checks">clear</button></div>
+      <div class="checkbox-list" id="agency-checks">
+        {agency_checkboxes}
+      </div>
+    </div>
+    <div class="filter-group">
+      <div class="filter-title">Status <button type="button" data-clear="status-checks">clear</button></div>
+      <div class="checkbox-list" id="status-checks">
+        {status_checkboxes}
+      </div>
+    </div>
     <span id="match-count"></span>
   </div>
   <table id="detail-table">
@@ -94,18 +104,21 @@ _TEMPLATE = """<!DOCTYPE html>
   </div>
 
   <script>
-    var agencySelect = document.getElementById('agency-filter');
-    var statusSelect = document.getElementById('status-filter');
     var rows = document.querySelectorAll('#detail-table tbody tr');
     var countEl = document.getElementById('match-count');
 
+    function checkedValues(containerId) {{
+      var boxes = document.querySelectorAll('#' + containerId + ' input:checked');
+      return Array.from(boxes).map(function (b) {{ return b.value; }});
+    }}
+
     function applyFilters() {{
-      var agency = agencySelect.value;
-      var status = statusSelect.value;
+      var agencies = checkedValues('agency-checks');
+      var statuses = checkedValues('status-checks');
       var shown = 0;
       rows.forEach(function (tr) {{
-        var matchAgency = !agency || tr.dataset.agency === agency;
-        var matchStatus = !status || tr.dataset.status === status;
+        var matchAgency = agencies.length === 0 || agencies.indexOf(tr.dataset.agency) !== -1;
+        var matchStatus = statuses.length === 0 || statuses.indexOf(tr.dataset.status) !== -1;
         var visible = matchAgency && matchStatus;
         tr.style.display = visible ? '' : 'none';
         if (visible) shown++;
@@ -113,8 +126,17 @@ _TEMPLATE = """<!DOCTYPE html>
       countEl.textContent = 'Showing ' + shown.toLocaleString() + ' of ' + rows.length.toLocaleString();
     }}
 
-    agencySelect.addEventListener('change', applyFilters);
-    statusSelect.addEventListener('change', applyFilters);
+    document.querySelectorAll('.checkbox-list input[type=checkbox]').forEach(function (box) {{
+      box.addEventListener('change', applyFilters);
+    }});
+    document.querySelectorAll('button[data-clear]').forEach(function (btn) {{
+      btn.addEventListener('click', function () {{
+        document.querySelectorAll('#' + btn.dataset.clear + ' input:checked').forEach(function (b) {{
+          b.checked = false;
+        }});
+        applyFilters();
+      }});
+    }});
     applyFilters();
   </script>
 </body>
@@ -132,11 +154,13 @@ def render_html(agency_df, detail_df, start_date, as_of, out_path):
         )
 
     agencies = sorted(detail_df['hiring_agency'].dropna().unique())
-    agency_options = '\n        '.join(
-        f'<option value="{_html.escape(a)}">{_html.escape(a)}</option>' for a in agencies
+    agency_checkboxes = '\n        '.join(
+        f'<label><input type="checkbox" value="{_html.escape(a)}">{_html.escape(a)}</label>'
+        for a in agencies
     )
-    status_options = '\n        '.join(
-        f'<option value="{status}">{label}</option>' for status, label in _STATUS_LABELS.items()
+    status_checkboxes = '\n        '.join(
+        f'<label><input type="checkbox" value="{status}">{label}</label>'
+        for status, label in _STATUS_LABELS.items()
     )
 
     detail_rows = []
@@ -159,8 +183,8 @@ def render_html(agency_df, detail_df, start_date, as_of, out_path):
         start_date=start_date,
         as_of=as_of,
         agency_rows='\n      '.join(agency_rows),
-        agency_options=agency_options,
-        status_options=status_options,
+        agency_checkboxes=agency_checkboxes,
+        status_checkboxes=status_checkboxes,
         count=len(detail_df),
         detail_rows='\n      '.join(detail_rows),
     )
