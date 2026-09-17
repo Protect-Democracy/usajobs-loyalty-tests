@@ -122,31 +122,57 @@ def load_job_level_flags() -> pd.DataFrame:
     return jobs
 
 
+def _status_pivot(df: pd.DataFrame, group_col, prefix: str) -> pd.DataFrame:
+    """Pivot loyalty_q_status counts by an arbitrary grouping column."""
+    pivot = df.groupby([group_col, 'loyalty_q_status']).size().unstack(fill_value=0)
+    for col in ('has_loyalty_q', 'confirmed_no_loyalty_q', 'no_questionnaire_link_found'):
+        if col not in pivot.columns:
+            pivot[col] = 0
+    pivot[f'total_{prefix}'] = pivot[
+        ['has_loyalty_q', 'confirmed_no_loyalty_q', 'no_questionnaire_link_found']
+    ].sum(axis=1)
+    pivot = pivot.rename(columns={
+        'has_loyalty_q': f'{prefix}_with_loyalty_q',
+        'confirmed_no_loyalty_q': f'{prefix}_confirmed_without_loyalty_q',
+        'no_questionnaire_link_found': f'{prefix}_no_questionnaire_link_found',
+    })
+    return pivot[[
+        f'total_{prefix}', f'{prefix}_with_loyalty_q',
+        f'{prefix}_confirmed_without_loyalty_q', f'{prefix}_no_questionnaire_link_found',
+    ]]
+
+
 def daily_new_postings(jobs: pd.DataFrame, start_date: str) -> pd.DataFrame:
     start = pd.Timestamp(start_date)
     new_jobs = jobs[jobs['position_open_date'] >= start].copy()
     new_jobs['open_date'] = new_jobs['position_open_date'].dt.date
-    pivot = (
-        new_jobs.groupby(['open_date', 'loyalty_q_status'])
-        .size()
-        .unstack(fill_value=0)
+    return _status_pivot(new_jobs, 'open_date', 'new').reset_index().sort_values('open_date')
+
+
+def agency_breakdown(jobs: pd.DataFrame, start_date: str) -> pd.DataFrame:
+    """New-postings breakdown by hiring agency, since start_date."""
+    start = pd.Timestamp(start_date)
+    new_jobs = jobs[jobs['position_open_date'] >= start].copy()
+    new_jobs['hiring_agency'] = new_jobs['hiring_agency'].fillna('Not Specified')
+    result = _status_pivot(new_jobs, 'hiring_agency', 'new').reset_index()
+    return result.sort_values('total_new', ascending=False)
+
+
+USAJOBS_POSTING_URL = 'https://www.usajobs.gov/job/{control_number}'
+
+
+def new_postings_detail(jobs: pd.DataFrame, start_date: str) -> pd.DataFrame:
+    """One row per new posting since start_date, with a clickable USAJOBS link."""
+    start = pd.Timestamp(start_date)
+    new_jobs = jobs[jobs['position_open_date'] >= start].copy()
+    new_jobs['usajobs_link'] = new_jobs['usajobs_control_number'].apply(
+        lambda cid: USAJOBS_POSTING_URL.format(control_number=int(cid))
     )
-    for col in ('has_loyalty_q', 'confirmed_no_loyalty_q', 'no_questionnaire_link_found'):
-        if col not in pivot.columns:
-            pivot[col] = 0
-    pivot['total_new_postings'] = pivot[
-        ['has_loyalty_q', 'confirmed_no_loyalty_q', 'no_questionnaire_link_found']
-    ].sum(axis=1)
-    pivot = pivot.rename(columns={
-        'has_loyalty_q': 'new_with_loyalty_q',
-        'confirmed_no_loyalty_q': 'new_confirmed_without_loyalty_q',
-        'no_questionnaire_link_found': 'new_no_questionnaire_link_found',
-    })
-    pivot = pivot[[
-        'total_new_postings', 'new_with_loyalty_q',
-        'new_confirmed_without_loyalty_q', 'new_no_questionnaire_link_found',
-    ]]
-    return pivot.reset_index().sort_values('open_date')
+    cols = [
+        'position_open_date', 'hiring_agency', 'position_title',
+        'usajobs_control_number', 'usajobs_link', 'loyalty_q_status',
+    ]
+    return new_jobs[cols].sort_values(['hiring_agency', 'position_open_date'])
 
 
 def live_postings_snapshot(jobs: pd.DataFrame, as_of: pd.Timestamp) -> dict:
@@ -178,6 +204,8 @@ def main():
     as_of = pd.Timestamp(datetime.now(timezone.utc).date())
     daily_df = daily_new_postings(jobs, args.start_date)
     snapshot = live_postings_snapshot(jobs, as_of)
+    agency_df = agency_breakdown(jobs, args.start_date)
+    detail_df = new_postings_detail(jobs, args.start_date)
 
     pct = (
         snapshot['live_with_loyalty_q'] / snapshot['total_live_postings'] * 100
@@ -189,6 +217,12 @@ def main():
     daily_csv = out_dir / 'daily_new_postings.csv'
     daily_df.to_csv(daily_csv, index=False)
 
+    agency_csv = out_dir / 'agency_breakdown_since_start.csv'
+    agency_df.to_csv(agency_csv, index=False)
+
+    detail_csv = out_dir / 'new_postings_detail.csv'
+    detail_df.to_csv(detail_csv, index=False)
+
     live_csv = out_dir / 'live_snapshot.csv'
     pd.DataFrame([{**snapshot, 'live_with_loyalty_q_pct_of_all_live': round(pct, 1)}]).to_csv(live_csv, index=False)
 
@@ -199,6 +233,10 @@ def main():
         "",
         daily_df.to_string(index=False),
         "",
+        f"New postings since {args.start_date}, by agency:",
+        "",
+        agency_df.to_string(index=False),
+        "",
         f"Live postings snapshot as of {snapshot['as_of']}:",
         f"  total_live_postings: {snapshot['total_live_postings']:,}",
         f"  live_with_loyalty_q: {snapshot['live_with_loyalty_q']:,} ({pct:.1f}%)",
@@ -208,17 +246,21 @@ def main():
         "Note: live_no_questionnaire_link_found is NOT 'pending' — most of it is",
         "structurally unrecoverable (postings on non-USAStaffing agency systems).",
         "See loyalty_q_report.py's module docstring for known coverage gaps.",
+        "",
+        f"Per-posting detail with USAJOBS links for every new posting since "
+        f"{args.start_date}: {detail_csv}",
     ]
     summary_txt = out_dir / 'summary.txt'
     summary_txt.write_text('\n'.join(summary_lines) + '\n')
 
     print('\n'.join(summary_lines))
-    print(f"\nWrote: {daily_csv}\nWrote: {live_csv}\nWrote: {summary_txt}")
+    print(f"\nWrote: {daily_csv}\nWrote: {agency_csv}\nWrote: {detail_csv}"
+          f"\nWrote: {live_csv}\nWrote: {summary_txt}")
 
     if not args.no_pdf:
         from render_pdf import render_pdf
         pdf_path = out_dir / 'summary.pdf'
-        render_pdf(daily_df, snapshot, args.start_date, pdf_path)
+        render_pdf(daily_df, agency_df, snapshot, args.start_date, pdf_path)
         print(f"Wrote: {pdf_path}")
 
 

@@ -31,6 +31,7 @@ _TEMPLATE = """<!DOCTYPE html>
   .stat .label {{ font-size: 10px; color: #555; margin-top: 2px; }}
   h2 {{ font-size: 13px; margin: 0 0 8px 0; border-bottom: 1px solid #ddd; padding-bottom: 4px; }}
   table {{ width: 100%; border-collapse: collapse; margin-bottom: 18px; }}
+  tr {{ break-inside: avoid; }}
   th, td {{ text-align: right; padding: 5px 8px; border-bottom: 1px solid #eee; }}
   th:first-child, td:first-child {{ text-align: left; }}
   th {{ font-size: 10px; color: #555; font-weight: 600; }}
@@ -66,6 +67,21 @@ _TEMPLATE = """<!DOCTYPE html>
     </tbody>
   </table>
 
+  <h2>New postings since {start_date}, by agency</h2>
+  <table>
+    <thead>
+      <tr><th>Agency</th><th>Total new</th><th>With Loyalty Q</th><th>Confirmed without</th><th>No link found</th></tr>
+    </thead>
+    <tbody>
+      {agency_rows}
+    </tbody>
+  </table>
+
+  <div class="note">
+    Per-posting detail with a clickable USAJOBS link for every new posting since {start_date}
+    is in the accompanying new_postings_detail.csv.
+  </div>
+
   <div class="note">
     "No questionnaire link found" is not simply pending review — most of this bucket is structurally
     unrecoverable (postings that apply through an agency-specific system other than USAStaffing or
@@ -77,7 +93,7 @@ _TEMPLATE = """<!DOCTYPE html>
 """
 
 
-def render_pdf(daily_df, snapshot, start_date, out_path):
+def render_pdf(daily_df, agency_df, snapshot, start_date, out_path):
     pct_with_q = (
         snapshot['live_with_loyalty_q'] / snapshot['total_live_postings'] * 100
         if snapshot['total_live_postings'] else 0
@@ -86,7 +102,15 @@ def render_pdf(daily_df, snapshot, start_date, out_path):
     row_html = []
     for _, row in daily_df.iterrows():
         row_html.append(
-            f"<tr><td>{row['open_date']}</td><td>{row['total_new_postings']:,}</td>"
+            f"<tr><td>{row['open_date']}</td><td>{row['total_new']:,}</td>"
+            f"<td>{row['new_with_loyalty_q']:,}</td><td>{row['new_confirmed_without_loyalty_q']:,}</td>"
+            f"<td>{row['new_no_questionnaire_link_found']:,}</td></tr>"
+        )
+
+    agency_row_html = []
+    for _, row in agency_df.iterrows():
+        agency_row_html.append(
+            f"<tr><td>{row['hiring_agency']}</td><td>{row['total_new']:,}</td>"
             f"<td>{row['new_with_loyalty_q']:,}</td><td>{row['new_confirmed_without_loyalty_q']:,}</td>"
             f"<td>{row['new_no_questionnaire_link_found']:,}</td></tr>"
         )
@@ -100,6 +124,7 @@ def render_pdf(daily_df, snapshot, start_date, out_path):
         live_unknown=snapshot['live_no_questionnaire_link_found'],
         start_date=start_date,
         rows='\n      '.join(row_html),
+        agency_rows='\n      '.join(agency_row_html),
     )
 
     out_path = Path(out_path)
