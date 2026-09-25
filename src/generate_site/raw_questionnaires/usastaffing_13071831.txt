@@ -1,0 +1,188 @@
+Position Title
+Supervisory Electrical Engineer
+Agency
+Bonneville Power Administration
+Announcement Number
+26-BPA-53187-13071831-BPA Opens in new window
+Open Period
+Sep 25, 2026 to Oct 04, 2026
+For preview purposes only. To apply, please return to the USAJOBS announcement and click the Apply button.
+Eligibilities
+1.
+Are you a current career/career-conditional federal employee at the Department of Energy applying for a PROMOTION to a position with a higher grade/pay band or higher promotion potential than you previously held on a permanent basis?
+
+Note: also select "Yes" if applying for a change-to-lower grade (CTLG) to a position with higher promotion potential than you previously held on a permanent basis.
+
+Check the REQUIRED DOCUMENTS section in the job announcement for instructions to support your eligibility to apply for this vacancy.
+ Yes
+ No
+
+
+2.
+Are you a current career/career-conditional federal employee at the Department of Energy applying for a REASSIGNMENT, CHANGE-TO-LOWER GRADE, or REPROMOTION and you currently or previously held a position with the same grade/pay band or higher and the same or higher promotion potential on a permanent basis?
+
+Check the REQUIRED DOCUMENTS section in the job announcement for instructions to support your eligibility to apply for this vacancy.
+ Yes
+ No
+
+
+3.
+I understand that I must select "Yes" to at least one of the eligibility questions to be considered for this position.
+ Yes
+ No
+
+
+Preferences
+1.
+Do any of your relatives work for the agency to which you are applying? If so, please list any applicable names below. Please enter N/A in the text box, if not Applicable. (Include: father, mother, husband, wife, son, daughter, brother, sister, uncle, aunt, first cousin, nephew, niece, father-in-law, mother-in-law, daughter-in-law, son-in-law, brother-in-law, sister-in-law, stepfather, stepmother, stepson, stepdaughter, stepbrother, stepsister, half brother, and half sister).
+
+
+2.
+Instructions: To provide the hiring manager an opportunity to consider your accomplishments, you may submit/attach copies of your performance appraisals and/or incentive award justification as part of your application by uploading these documents into USA Staffing.
+
+
+All current Federal employees must have at least a fully successful or equivalent performance rating or higher, to be considered for competitive placement. Competitive Federal employees who have a current unacceptable performance rating will be excluded from consideration.
+ I am a current Federal employee, my last performance rating was fully successful (meets expectations) or equivalent, or higher.
+ I am a current Federal employee; my last performance rating was unacceptable (fails to meet expectations).
+ I am a new Federal employee and have not received a performance rating as of the date of this application.
+ I am not a Federal employee; however, I will consider attaching my recent performance appraisal from my employer for consideration.
+ I am not a Federal employee, and I do not have any performance documentation to submit for consideration.
+
+
+3.
+Have you received awards or been recognized as part of your annual performance appraisal for work that was based on one or more of the competencies described in this vacancy announcement?
+ Yes
+ No
+
+
+4.
+Are you currently serving or have served in the last five (5) years in a Political Appointment in the Federal Government?
+ Yes
+ No
+
+
+5.
+Please list the title, agency and dates of the appointments
+
+
+Executive Order 14170
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+
+
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+
+
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+
+
+3.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+
+
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+
+
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+
+
+Assessment 1
+1.
+BASIC REQUIREMENT - You must meet the minimum basic education and/or experience requirements for engineering positions in the Federal government. Select the response that best describes your education and/or experience.
+
+ I have a degree in engineering. The program must: (1) lead to a bachelor's degree in a school of engineering with at least one program accredited by ABET; or (2) include differential and integral calculus and courses (more advanced than first-year physics and chemistry) in 5 of the following 7 areas of engineering science or physics: (a) statics, dynamics; (b) strength of materials (stress-strain relationships); (c) fluid mechanics, hydraulics; (d) thermodynamics; (e) electrical fields and circuits; (f) nature and properties of materials (relating particle and aggregate structure to properties); and (g) any other comparable area of fundamental engineering science or physics, such as optics, heat transfer, soil mechanics, or electronics; OR
+ I have a qualifying combination of education and experience as demonstrated by current registration as an Engineer Intern (EI), Engineer in Training (EIT), or licensure as a Professional Engineer (PE) by any State, the District of Columbia, Guam, or Puerto Rico; OR
+ I have a qualifying combination of education and experience as demonstrated by evidence of having successfully passed the Fundamentals of Engineering (FE) examination or any other written test required for professional registration by an engineering licensure board in the various States, the District of Columbia, Guam, and Puerto Rico; OR
+ I have a qualifying combination of education and experience as demonstrated by successful completion of at least 60 semester hours of courses in the physical, mathematical, and engineering sciences and that included the courses specified in the basic requirements under paragraph A in the announcement. The courses must be fully acceptable toward meeting the requirements of an engineering program as described in paragraph A; OR
+ I have a qualifying combination of education and experience as demonstrated by successful completion of a curriculum leading to a bachelor's degree in an appropriate scientific field, e.g., engineering technology, physics, chemistry, architecture, computer science, mathematics, hydrology, or geology, may be accepted in lieu of a bachelor's degree in engineering, provided the applicant has had at least 1 year of professional engineering experience acquired under professional engineering supervision and guidance. Ordinarily there should be either an established plan of intensive training to develop professional engineering competence, or several years of prior professional engineering-type experience, e.g., in interdisciplinary positions. (The above examples of related curricula are not all-inclusive.)
+ I do not meet any of the education or experience/education combinations listed above.
+
+
+2.
+In addition to the basic requirement, choose one answer that best describes your experience.
+ I possess at least one year of specialized experience equivalent to the GS-13 grade level in the Federal service performing work appropriate to the position advertised in the vacancy announcement.
+ I do not meet the requirement as described above.
+
+
+Assessment 2
+1.
+Under NERC TPL reliability standards, which set of analyses must be performed to comprehensively evaluate the impact of a proposed long-term transmission system modification?
+ Steady-state power flow and transient stability analyses under N-1 contingencies only.
+ Steady-state power flow, transient stability, and post-transient voltage stability analyses for P1 through P7 contingencies.
+ Thermal overload analysis under normal operating (N-0) conditions and peak load conditions.
+ Short-circuit duty analysis and line impedance measurements under normal system configurations.
+ Operational load dispatch simulations and historical congestion review under all-lines-in-service conditions.
+
+
+2.
+When evaluating whether a new Remedial Action Scheme (RAS) / Special Protection System (SPS) can be technically approved as a long-term planning solution to increase transfer capability across a congested regional transmission path, which condition must be met to comply with WECC and NERC planning standards?
+ The RAS must not result in cascading outages, voltage collapse, or instability on neighboring systems during its designed operation under extreme contingencies.
+ The RAS must be designed to completely eliminate the need for any local reactive support or dynamic voltage control devices.
+ The RAS can only be implemented if it operates exclusively on BPA-owned assets and has zero interaction with neighboring utility relay systems.
+ The RAS must be used to mitigate normal, system-intact (N-0) thermal overloads to avoid constructing any new line additions.
+ The RAS must be designed to operate on a time-delay of at least 30 minutes to allow operators to manually verify grid conditions before execution.
+
+
+3.
+To support Transmission Services' long-term asset investment strategy, how should a non-wire solution (NWS) be technically and economically evaluated against a traditional line reconductoring project?
+ Perform a joint technical-economic lifecycle cost analysis (including NPV, reliability impact, and operational flexibility) to determine if the NWS can reliably defer the capital-intensive line upgrade.
+ Evaluate the NWS using a basic peak-load reduction calculation, ignoring dynamic operational constraints and maintenance costs over the asset's lifecycle.
+ Assess the NWS strictly on its initial capital cost, preferring it only if it is cheaper upfront than the line reconductoring.
+ Recommend the NWS solely based on environmental and public relations benefits, without conducting a technical grid reliability simulation.
+ Select the traditional line reconductoring immediately, as non-wire solutions cannot be formally integrated into utility transmission planning.
+
+
+4.
+When representing BPA on joint technical committees to coordinate long-term transmission expansion plans, what is the most effective approach to align regional benefits with BPA's system reliability?
+ Attend regional meetings to gather competitor intelligence but refuse to share BPA system models or participate in joint studies due to proprietary concerns.
+ Conduct independent boundary-line analyses and negotiate interties based strictly on contractual capacity allocations, ignoring coordinated dynamic system stability.
+ Submit BPA's localized transmission plan to the regional group for automatic consolidation without evaluating the technical impacts of neighboring system additions on BPA's borders.
+ Review neighboring utilities' proposed plans and approve them as long as they do not physically cross into BPA’s service territory, without performing joint studies.
+ Actively share base case models, collaboratively identify cross-border transmission congestion bottlenecks, and perform joint power flow studies to develop coordinated, mutually beneficial infrastructure projects.
+
+
+5.
+Under federal personnel guidelines, when planning and assigning work to a team of GS-13 electrical engineers, on what basis should the supervisor primarily assign work?
+ Strictly based on employee seniority and grade level within the organization.
+ Equally across all employees using a randomized rotational queue, regardless of task complexity.
+ Based on selective consideration of task difficulty, project priorities, and individual employee capabilities, development needs, and resources.
+ By allowing employees to self-select their own assignments on a first-come, first-served basis.
+ Outsourcing all complex studies to contractors and assigning only administrative reviews to the GS-13 engineers.
+
+
+6.
+When a supervisor is evaluating work performance equity among subordinate GS-13 engineers and assessing contractor work quality, which action is legally compliant and effective?
+ Rating all employees as "Fully Successful" to avoid team disputes and grievances.
+ Establishing objective, measurable performance standards tied to professional engineering standards and contractor’s Statement of Work, and applying these exact metrics consistently to assess technical deliverables.
+ Relying entirely on contractor self-certifications without independent supervisory technical review.
+ Using subjective personal impressions of employee dedication during annual evaluation meetings.
+ Rating employees based solely on peer reviews.
+
+
+7.
+A BPA Power Merchant employee contacts a Engineer requesting non-public information about an upcoming transmission system outage that could affect market prices. As the supervisor, how must you instruct your staff member to handle this request?
+ Instruct the engineer to immediately deny the request, document the contact, report the incident to the Compliance Officer, and remind the merchant employee that such information must be published publicly first.
+ Allow the engineer to share the technical details only if it is deemed critical for regional system reliability, without reporting it to Compliance.
+ Direct the engineer to post the requested technical details on an internal shared folder accessible by both planning and marketing teams.
+ Tell the engineer to provide the information only if the merchant employee promises not to share it with external energy traders.
+ Advise the engineer to provide the information informally via phone call to avoid creating a written record.
+
+
+8.
+To comply with OATT requirements regarding non-discriminatory transmission planning, how must your engineering group treat transmission service requests from third-party wheeling customers compared to BPA's internal generation resources?
+ Prioritize internal BPA generation resources in all planning models and relegate third-party requests to queue-end.
+ Use more conservative transmission capability assumptions for third-party requests than for internal resource planning.
+ Apply identical technical planning criteria, system studies, and queue procedures to both third-party and internal transmission service requests.
+ Fast-track third-party requests without performing technical system reviews to avoid regulatory delays.
+ Charge third-party customers study fees that exceed actual costs to offset administrative tariff compliance.
+
+
+ Terms of Use  FOIA  Privacy & Cookies  USAJOBS.gov  OPM  USA.gov
+© 2026 US Office of Personnel Management
+This is a USA Staffing® System
+An error has occurred. This application may no longer respond until reloaded. Reload 🗙
