@@ -13,6 +13,18 @@ import sys
 from datetime import datetime
 from pathlib import Path
 
+ANALYSIS_DATA_PATH = '../public/analysis_data.json'
+JOB_POSTINGS_PATH = '../public/job_postings.json'
+INDEX_HTML_PATH = '../public/index.html'
+
+# analysis_data.json is fetched before any numbers render on the site, so it
+# has to stay small. It used to carry the full job listing (~150 MB) and the
+# overview showed "-" for a long time on every page load.
+MAX_ANALYSIS_DATA_BYTES = 5 * 1024 * 1024
+JOB_POSTING_KEYS = ['position_title', 'occupation', 'agency', 'location', 'grade',
+                    'service', 'open_date', 'close_date', 'usajobs_link',
+                    'questionnaire_status', 'questionnaire_link']
+
 class Colors:
     GREEN = '\033[92m'
     RED = '\033[91m'
@@ -24,6 +36,10 @@ def print_header(text):
     print(f"\n{Colors.BLUE}{'=' * 60}{Colors.RESET}")
     print(f"{Colors.BLUE}{text}{Colors.RESET}")
     print(f"{Colors.BLUE}{'=' * 60}{Colors.RESET}")
+
+def load_job_postings():
+    with open(JOB_POSTINGS_PATH, 'r') as f:
+        return json.load(f)
 
 def check_file_exists(filepath, description):
     """Check if a file exists"""
@@ -145,12 +161,9 @@ def check_no_job_id_loss():
     
     # Collect current job IDs from analysis data
     try:
-        with open('../public/analysis_data.json', 'r') as f:
-            analysis_data = json.load(f)
-            if 'job_postings' in analysis_data:
-                for job in analysis_data['job_postings']:
-                    if 'usajobs_link' in job:
-                        current_job_ids.add(str(job['usajobs_link']))
+        for job in load_job_postings():
+            if 'usajobs_link' in job:
+                current_job_ids.add(str(job['usajobs_link']))
     except Exception:
         pass
     
@@ -266,14 +279,11 @@ def create_baseline(filepath):
         # Collect all job IDs from analysis data
         job_ids_set = set()
         try:
-            with open('../public/analysis_data.json', 'r') as f:
-                analysis_data = json.load(f)
-                if 'job_postings' in analysis_data:
-                    for job in analysis_data['job_postings']:
-                        if 'usajobs_link' in job:
-                            job_ids_set.add(str(job['usajobs_link']))
+            for job in load_job_postings():
+                if 'usajobs_link' in job:
+                    job_ids_set.add(str(job['usajobs_link']))
         except Exception as e:
-            print(f"Error reading analysis data: {e}")
+            print(f"Error reading job postings: {e}")
         
         baseline['job_ids'] = list(job_ids_set)
         
@@ -366,17 +376,12 @@ def check_for_error_pages():
 def check_date_sorting():
     """Check that job posting dates are valid MM/DD/YYYY and sort correctly by year"""
     try:
-        with open('../public/analysis_data.json', 'r') as f:
-            data = json.load(f)
-
-        if 'job_postings' not in data:
-            print(f"{Colors.YELLOW}⚠️  WARNING{Colors.RESET} No job_postings data found for date check")
-            return True
+        job_postings = load_job_postings()
 
         all_good = True
         invalid_dates = []
 
-        for job in data['job_postings']:
+        for job in job_postings:
             for field in ['open_date', 'close_date']:
                 date_str = job.get(field, '')
                 if not date_str:
@@ -409,7 +414,7 @@ def check_date_sorting():
 
         # Verify sort order: convert MM/DD/YYYY to YYYY-MM-DD and check it sorts correctly
         open_dates = []
-        for job in data['job_postings']:
+        for job in job_postings:
             date_str = job.get('open_date', '')
             if date_str:
                 parts = date_str.split('/')
@@ -450,6 +455,50 @@ def check_date_sorting():
     except Exception as e:
         print(f"{Colors.RED}❌ FAIL{Colors.RESET} Date sorting check failed: {e}")
         return False
+
+def check_site_payload():
+    """Check the summary JSON stays small and the job listing lives in its own file"""
+    all_good = True
+
+    size = os.path.getsize(ANALYSIS_DATA_PATH)
+    if size > MAX_ANALYSIS_DATA_BYTES:
+        print(f"{Colors.RED}❌ FAIL{Colors.RESET} analysis_data.json is {size / 1e6:.1f} MB "
+              f"(max {MAX_ANALYSIS_DATA_BYTES / 1e6:.1f} MB) — the site's overview numbers load from this file")
+        all_good = False
+    else:
+        print(f"{Colors.GREEN}✅ PASS{Colors.RESET} analysis_data.json is {size / 1e6:.2f} MB")
+
+    with open(ANALYSIS_DATA_PATH, 'r') as f:
+        analysis_data = json.load(f)
+    if 'job_postings' in analysis_data:
+        print(f"{Colors.RED}❌ FAIL{Colors.RESET} analysis_data.json contains job_postings — "
+              f"the listing belongs in job_postings.json")
+        all_good = False
+    else:
+        print(f"{Colors.GREEN}✅ PASS{Colors.RESET} analysis_data.json has no job_postings")
+
+    job_postings = load_job_postings()
+    if not isinstance(job_postings, list) or len(job_postings) == 0:
+        print(f"{Colors.RED}❌ FAIL{Colors.RESET} job_postings.json is not a non-empty list")
+        return False
+    missing = [k for k in JOB_POSTING_KEYS if k not in job_postings[0]]
+    if missing:
+        print(f"{Colors.RED}❌ FAIL{Colors.RESET} job_postings.json rows missing keys: {missing}")
+        all_good = False
+    else:
+        print(f"{Colors.GREEN}✅ PASS{Colors.RESET} job_postings.json has {len(job_postings):,} rows with expected keys")
+
+    with open(INDEX_HTML_PATH, 'r') as f:
+        html = f.read()
+    for filename in ['analysis_data.json', 'job_postings.json']:
+        if f"fetch('{filename}')" not in html:
+            print(f"{Colors.RED}❌ FAIL{Colors.RESET} index.html does not fetch {filename}")
+            all_good = False
+    if 'data.job_postings' in html:
+        print(f"{Colors.RED}❌ FAIL{Colors.RESET} index.html still reads job_postings from analysis_data.json")
+        all_good = False
+
+    return all_good
 
 def check_analysis_data():
     """Check the analysis data JSON structure and validate all counts"""
@@ -508,8 +557,8 @@ def check_analysis_data():
         
         # Check job postings questionnaire status counts
         print(f"\n{Colors.BLUE}Validating questionnaire status counts...{Colors.RESET}")
-        if 'job_postings' in data:
-            job_postings = data['job_postings']
+        if os.path.exists(JOB_POSTINGS_PATH):
+            job_postings = load_job_postings()
             status_counts = {}
             for job in job_postings:
                 status = job.get('questionnaire_status', 'Unknown')
@@ -594,6 +643,7 @@ def run_tests():
         ('all_jobs_clean.csv', 'All jobs clean CSV'),
         ('all_jobs_stats.json', 'Job statistics JSON'),
         ('../public/analysis_data.json', 'Analysis data JSON'),
+        ('../public/job_postings.json', 'Job postings JSON'),
         ('../public/index.html', 'Analysis site HTML')
     ]
     
@@ -637,6 +687,15 @@ def run_tests():
     if not check_analysis_data():
         all_passed = False
     
+    # Test 5b: Site payload size / split
+    print_header("5b. SITE PAYLOAD SIZE")
+    try:
+        if not check_site_payload():
+            all_passed = False
+    except Exception as e:
+        print(f"{Colors.RED}❌ FAIL{Colors.RESET} Site payload check failed: {e}")
+        all_passed = False
+
     # Test 6: CRITICAL - No job ID loss
     print_header("6. CRITICAL TEST - NO JOB ID LOSS")
     if not check_no_job_id_loss():

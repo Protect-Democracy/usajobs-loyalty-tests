@@ -383,8 +383,6 @@ def main():
         }
         job_postings.append(posting)
     
-    analysis_data['job_postings'] = job_postings
-    
     print(f"\nJob postings by status:")
     print(all_jobs_for_display['questionnaire_status'].value_counts())
     
@@ -399,11 +397,18 @@ def main():
         else:
             return obj
     
-    # Write to JSON file
+    # Summary stats and the per-job listing go in separate files. The listing
+    # is ~100+ MB; bundling it into analysis_data.json meant the overview
+    # numbers stayed blank until the whole thing downloaded and parsed.
+    # Compact separators (no indent) roughly halve the listing's size.
     with open(PUBLIC_DIR / 'analysis_data.json', 'w') as f:
         json.dump(analysis_data, f, indent=2, default=str)
-    
+
+    with open(PUBLIC_DIR / 'job_postings.json', 'w') as f:
+        json.dump(job_postings, f, separators=(',', ':'), default=str)
+
     print(f"\nAnalysis data written to {PUBLIC_DIR}/analysis_data.json")
+    print(f"Job postings ({len(job_postings):,}) written to {PUBLIC_DIR}/job_postings.json")
     print(f"Total data points: {sum(len(v) if isinstance(v, list) else 1 for v in analysis_data.values())}")
 
 if __name__ == '__main__':
