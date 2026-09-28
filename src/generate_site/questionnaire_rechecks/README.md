@@ -16,21 +16,39 @@ with
 > executive direction. Provide an example where you implemented leadership direction on
 > a strategy or policy decision that differed from your own recommendation.
 
-This directory records later re-checks of questionnaires we'd already scraped, without
-touching the originals:
+This directory records what questionnaires say now, without touching the originals.
 
-- `<YYYY-MM-DD>/` holds the text as fetched on that date, with the same file names as
-  `raw_questionnaires/` (e.g. `usastaffing_13048279.txt`), so the two can be diffed.
-- `recheck_log.csv` is append-only, one row per posting per re-check:
-  - `checked_date`
-  - `usajobs_control_number`
-  - `questionnaire_url`
-  - `method`: `usastaffing_api` is the JSON from
-    `apply.usastaffing.gov/public/api/viewquestionnaire/<id>`, rendered to text.
-    `browser` is the Playwright scrape. `monster_requests` is the Monster preview page.
-  - `result`: `still old wording`, `switched to new wording`, `neither wording`, or
-    `rescrape failed`.
-  - `recheck_file`: the path under this directory, or empty if the fetch failed.
+## Daily refresh
 
-A later re-check adds a new dated folder and new log rows; it never edits old ones.
-For the most recent status of a posting, take its latest row by `checked_date`.
+`../refresh_open_questionnaires.py` runs daily in GitHub Actions
+(`.github/workflows/daily-questionnaire-refresh.yml`) and re-fetches the questionnaire
+of every currently-open posting:
+
+- `current_status.csv`: one row per questionnaire of a currently-open posting, with its
+  current flags: `has_loyalty_q` (the old wording), `has_new_wording`, and
+  `has_question_5` (OPM's "This position supports [agency]'s mission and current
+  priorities..." question). The file is rewritten each run, but a row only changes when
+  that questionnaire's text or fetch result changes, so the git history shows real
+  changes only.
+  - `fetch_status` is `ok`, `failed` (flags carried over from the last known text), or
+    `skipped_blocked_domain`. The last applies to portals such as `jobs.faa.gov` that
+    block automated access; their flags come from the latest stored copy.
+  - `text_file` is where the current text lives: a dated folder here, or
+    `raw_questionnaires/` if it hasn't changed since first scraped.
+- `changes_log.csv`: append-only, one row per questionnaire per day it changed, with
+  its flags before and after.
+- `<YYYY-MM-DD>/`: the text of every questionnaire that changed that day, using the
+  same file names as `raw_questionnaires/` so the two can be diffed.
+- `last_run.json`: date and counts for the latest run.
+
+USAStaffing questionnaires are fetched from
+`apply.usastaffing.gov/public/api/viewquestionnaire/<id>`. That's the JSON the public
+ViewQuestionnaire page loads to draw itself, rendered to text. Monster questionnaires
+come from the Monster preview page.
+
+## One-off re-check, 2026-09-28
+
+Before the daily refresh existed, the open postings first scraped with the old
+question were re-checked by hand. `recheck_log.csv` records that run: one row per
+posting, with `method` (`usastaffing_api`, `browser`, `browser_cdp`, or
+`monster_requests`), `result`, and `recheck_file`. The texts are in `2026-09-28/`.

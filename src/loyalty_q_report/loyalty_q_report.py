@@ -61,6 +61,7 @@ EO_PATTERN = re.compile(
 DEFAULT_START_DATE = '2026-09-14'
 RAW_QUESTIONNAIRES_DIR = GENERATE_SITE_DIR / RAW_QUESTIONNAIRES_DIR
 RECHECK_LOG = GENERATE_SITE_DIR / 'questionnaire_rechecks' / 'recheck_log.csv'
+CURRENT_STATUS = GENERATE_SITE_DIR / 'questionnaire_rechecks' / 'current_status.csv'
 
 
 def regenerate_all_jobs_clean():
@@ -126,13 +127,31 @@ def load_job_level_flags() -> pd.DataFrame:
     if RECHECK_LOG.exists():
         rechecks = pd.read_csv(RECHECK_LOG)
         rechecks = rechecks[rechecks['result'] != 'rescrape failed']
-        latest = (rechecks.sort_values('checked_date')
+        # Stable sort, so a later row for the same date (e.g. an FAA retry) wins.
+        latest = (rechecks.sort_values('checked_date', kind='stable')
                   .drop_duplicates('usajobs_control_number', keep='last')
                   .set_index('usajobs_control_number')['result'])
         jobs['recheck_result'] = jobs['usajobs_control_number'].map(latest)
         jobs.loc[jobs['recheck_result'] == 'still old wording', 'loyalty_q_status'] = 'has_loyalty_q'
         jobs.loc[jobs['recheck_result'].isin(['switched to new wording', 'neither wording']),
                  'loyalty_q_status'] = 'confirmed_no_loyalty_q'
+
+    # The daily refresh (refresh_open_questionnaires.py) covers every open
+    # posting and is the newest information, so it overrides both of the above.
+    # A posting counts as having a question if any of its questionnaires does.
+    jobs['has_question_5'] = False
+    if CURRENT_STATUS.exists():
+        current = pd.read_csv(CURRENT_STATUS, dtype=str, keep_default_na=False)
+        current = current.assign(usajobs_control_number=current['usajobs_control_numbers'].str.split(';')).explode(
+            'usajobs_control_number')
+        current['usajobs_control_number'] = current['usajobs_control_number'].astype('int64')
+        per_job = current.groupby('usajobs_control_number')[['has_loyalty_q', 'has_question_5']].agg(
+            lambda col: (col == 'True').any())
+        refreshed = jobs['usajobs_control_number'].isin(per_job.index)
+        has_q = jobs['usajobs_control_number'].map(per_job['has_loyalty_q'])
+        jobs.loc[refreshed & (has_q == True), 'loyalty_q_status'] = 'has_loyalty_q'
+        jobs.loc[refreshed & (has_q == False), 'loyalty_q_status'] = 'confirmed_no_loyalty_q'
+        jobs['has_question_5'] = jobs['usajobs_control_number'].map(per_job['has_question_5']).fillna(False).astype(bool)
 
     jobs['position_open_date'] = pd.to_datetime(jobs['position_open_date'], format='mixed', errors='coerce')
     jobs['position_close_date'] = pd.to_datetime(jobs['position_close_date'], format='mixed', errors='coerce')

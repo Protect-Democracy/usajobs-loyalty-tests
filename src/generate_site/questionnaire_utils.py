@@ -1,4 +1,5 @@
 """Shared utilities for questionnaire processing"""
+import json
 import re
 from pathlib import Path
 
@@ -50,6 +51,33 @@ def extract_questionnaire_id(url):
     else:
         file_id = str(hash(url))[:8]
         return 'other', file_id
+
+
+def _clean_questionnaire_text(s):
+    return re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', ' ', s or '')).strip()
+
+
+def questionnaire_json_to_text(raw):
+    """Render USAStaffing's viewquestionnaire JSON as plain text, laid out like raw_questionnaires/*.txt.
+
+    The JSON is what https://apply.usastaffing.gov/ViewQuestionnaire/<id> loads from
+    /public/api/viewquestionnaire/<id> to draw itself.
+    """
+    d = json.loads(raw)
+    lines = ['Position Title', _clean_questionnaire_text(d.get('positionTitle')),
+             'Agency', _clean_questionnaire_text(d.get('agencyName')),
+             'Announcement Number', _clean_questionnaire_text(d.get('announcementNumber')),
+             'Open Period', _clean_questionnaire_text(d.get('openPeriod'))]
+    for key in ('announcementSections', 'assessmentSections'):
+        for section in d.get(key) or []:
+            lines.append(_clean_questionnaire_text(section.get('sectionTitle') or section.get('sectionName')))
+            for q in section.get('questions') or []:
+                lines.append(f"{_clean_questionnaire_text(q.get('displayIdentifier'))}.")
+                lines.append(_clean_questionnaire_text(q.get('text')))
+                for a in q.get('answers') or []:
+                    if a.get('text'):
+                        lines.append(' ' + _clean_questionnaire_text(a['text']))
+    return '\n'.join(lines) + '\n'
 
 
 def get_questionnaire_filename(url):
