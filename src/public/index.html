@@ -421,6 +421,7 @@
                             </ul>
                         </div>
                         <div class="mb-3">
+                            <p id="jobsLoading" class="text-muted">Loading job listings (large file, may take a moment)...</p>
                             <p>Showing <span id="jobsShown">0</span> of <span id="jobsTotal">0</span> jobs</p>
                             <small class="text-muted">Tip: Press Enter to add a search term as a filter. Add multiple filters per column.</small>
                             <div id="activeFilters" class="d-flex flex-wrap gap-2 mt-2"></div>
@@ -517,6 +518,9 @@
         async function loadData() {
             try {
                 const response = await fetch('analysis_data.json');
+                if (!response.ok) {
+                    throw new Error('analysis_data.json returned ' + response.status);
+                }
                 const data = await response.json();
                 
                 // Populate overview
@@ -536,11 +540,25 @@
                 // Create timeline heatmap
                 createTimelineTable('timelineTable', data.timeline_analysis);
                 
-                // Initialize DataTable for jobs
-                initJobsTable(data.job_postings);
-                
             } catch (error) {
                 console.error('Error loading data:', error);
+            }
+
+            // The per-job listing is a separate, much larger file so the
+            // summary numbers above don't wait on it.
+            const jobsLoading = document.getElementById('jobsLoading');
+            try {
+                const jobsResponse = await fetch('job_postings.json');
+                if (!jobsResponse.ok) {
+                    throw new Error('job_postings.json returned ' + jobsResponse.status);
+                }
+                const jobPostings = await jobsResponse.json();
+                initJobsTable(jobPostings);
+                jobsLoading.remove();
+            } catch (error) {
+                console.error('Error loading job postings:', error);
+                jobsLoading.className = 'text-danger';
+                jobsLoading.textContent = 'Could not load job listings. Try reloading the page.';
             }
         }
         
