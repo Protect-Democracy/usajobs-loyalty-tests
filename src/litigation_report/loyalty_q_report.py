@@ -61,6 +61,7 @@ EO_PATTERN = re.compile(
 
 DEFAULT_START_DATE = '2026-09-14'
 RAW_QUESTIONNAIRES_DIR = GENERATE_SITE_DIR / RAW_QUESTIONNAIRES_DIR
+RECHECK_LOG = GENERATE_SITE_DIR / 'questionnaire_rechecks' / 'recheck_log.csv'
 
 
 def regenerate_all_jobs_clean():
@@ -117,6 +118,23 @@ def load_job_level_flags() -> pd.DataFrame:
         return 'no_questionnaire_link_found'
 
     jobs['loyalty_q_status'] = jobs.apply(status, axis=1)
+
+    # raw_questionnaires/ is each questionnaire as first scraped, and agencies
+    # have since edited many to swap the Loyalty Q for new wording. Where a
+    # posting has been re-checked, its latest successful re-check wins. A
+    # failed re-check (e.g. jobs.faa.gov unreachable) leaves the stored status.
+    jobs['recheck_result'] = None
+    if RECHECK_LOG.exists():
+        rechecks = pd.read_csv(RECHECK_LOG)
+        rechecks = rechecks[rechecks['result'] != 'rescrape failed']
+        latest = (rechecks.sort_values('checked_date')
+                  .drop_duplicates('usajobs_control_number', keep='last')
+                  .set_index('usajobs_control_number')['result'])
+        jobs['recheck_result'] = jobs['usajobs_control_number'].map(latest)
+        jobs.loc[jobs['recheck_result'] == 'still old wording', 'loyalty_q_status'] = 'has_loyalty_q'
+        jobs.loc[jobs['recheck_result'].isin(['switched to new wording', 'neither wording']),
+                 'loyalty_q_status'] = 'confirmed_no_loyalty_q'
+
     jobs['position_open_date'] = pd.to_datetime(jobs['position_open_date'], format='mixed', errors='coerce')
     jobs['position_close_date'] = pd.to_datetime(jobs['position_close_date'], format='mixed', errors='coerce')
     return jobs
@@ -158,9 +176,13 @@ def agency_breakdown(jobs: pd.DataFrame, start_date: str) -> pd.DataFrame:
     return result.sort_values('total_new', ascending=False)
 
 
-def weekly_breakdown(jobs: pd.DataFrame, order_date: str) -> pd.DataFrame:
-    """New-postings counts by week (all history), with a pct_with_loyalty_q
-    column and an is_post_order flag marking weeks starting on/after order_date.
+def weekly_breakdown(jobs: pd.DataFrame, order_date: str, weeks_before: int = 4) -> pd.DataFrame:
+    """New-postings counts by week, with a pct_with_loyalty_q column and an
+    is_post_order flag marking weeks starting on/after order_date.
+
+    Limited to `weeks_before` weeks prior to order_date through the most
+    recent week, rather than full history, since the pre/post-order split is
+    only meaningful in that recent window.
     """
     dated = jobs.dropna(subset=['position_open_date']).copy()
     dated['week_start'] = dated['position_open_date'].dt.to_period('W-SUN').dt.start_time.dt.date
@@ -170,7 +192,8 @@ def weekly_breakdown(jobs: pd.DataFrame, order_date: str) -> pd.DataFrame:
     ).round(1).fillna(0)
     order = pd.Timestamp(order_date).date()
     result['is_post_order'] = result['week_start'] >= order
-    return result
+    cutoff = order - pd.Timedelta(weeks=weeks_before)
+    return result[result['week_start'] >= cutoff]
 
 
 USAJOBS_POSTING_URL = 'https://www.usajobs.gov/job/{control_number}'
@@ -186,6 +209,7 @@ def new_postings_detail(jobs: pd.DataFrame, start_date: str) -> pd.DataFrame:
     cols = [
         'position_open_date', 'hiring_agency', 'position_title',
         'usajobs_control_number', 'usajobs_link', 'loyalty_q_status',
+        'position_close_date',
     ]
     return new_jobs[cols].sort_values(['hiring_agency', 'position_open_date'])
 
@@ -257,8 +281,12 @@ def main():
     daily_df = daily_new_postings(jobs, args.start_date)
     snapshot = live_postings_snapshot(jobs, as_of)
     order_split = live_snapshot_by_order_date(jobs, as_of, order_date)
-    agency_df = agency_breakdown(jobs, args.start_date)
-    detail_df = new_postings_detail(jobs, args.start_date)
+    # The HTML page covers every posting still open today, whatever its posting date.
+    live = _live_jobs(jobs, as_of)
+    all_time = str(live['position_open_date'].min().date())
+    agency_df = agency_breakdown(live, all_time)
+    detail_df = new_postings_detail(live, all_time)
+    live_weekly_df = weekly_breakdown(live, order_date, weeks_before=10_000).sort_values('week_start', ascending=False)
     weekly_df = weekly_breakdown(jobs, order_date)
 
     pct = (
@@ -280,9 +308,12 @@ def main():
     weekly_csv = out_dir / 'weekly_breakdown.csv'
     weekly_df.to_csv(weekly_csv, index=False)
 
+    date_suffix = as_of.strftime('%m%d')
+
     from render_html import render_html
-    detail_html = out_dir / 'new_postings_detail.html'
-    render_html(agency_df, detail_df, weekly_df, args.start_date, order_date, snapshot['as_of'], detail_html)
+    detail_html = out_dir / f'open_postings_{date_suffix}.html'
+    render_html(agency_df, detail_df, live_weekly_df, args.start_date, order_date, snapshot['as_of'], detail_html,
+                snapshot, order_split)
 
     pre_pct = (
         order_split['pre_order_live_with_loyalty_q'] / order_split['total_pre_order_live'] * 100
@@ -323,8 +354,8 @@ def main():
         "structurally unrecoverable (postings on non-USAStaffing agency systems).",
         "See loyalty_q_report.py's module docstring for known coverage gaps.",
         "",
-        f"Agency breakdown, full weekly history, and per-posting USAJOBS links for every "
-        f"new posting since {args.start_date}: {detail_html}",
+        f"Agency breakdown, weekly breakdown by posting date, and per-posting USAJOBS links for every "
+        f"posting still open as of {snapshot['as_of']}: {detail_html}",
     ]
     summary_txt = out_dir / 'summary.txt'
     summary_txt.write_text('\n'.join(summary_lines) + '\n')
@@ -335,7 +366,7 @@ def main():
 
     if not args.no_pdf:
         from render_pdf import render_pdf
-        pdf_path = out_dir / 'summary.pdf'
+        pdf_path = out_dir / f'summary_{date_suffix}.pdf'
         render_pdf(daily_df, snapshot, order_split, weekly_df, args.start_date, order_date, pdf_path)
         print(f"Wrote: {pdf_path}")
 

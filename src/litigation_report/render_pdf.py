@@ -11,6 +11,7 @@ _TEMPLATE = """<!DOCTYPE html>
 <html>
 <head>
 <meta charset="utf-8">
+<title>Loyalty Q — new postings since {start_date}</title>
 <style>
   @page {{ size: Letter; margin: 0.6in; }}
   body {{

@@ -9,6 +9,8 @@ always-open checkbox lists.
 import html as _html
 from pathlib import Path
 
+import pandas as pd
+
 _STATUS_LABELS = {
     'has_loyalty_q': 'Has Loyalty Q',
     'confirmed_no_loyalty_q': 'Confirmed without Loyalty Q',
@@ -19,7 +21,7 @@ _TEMPLATE = """<!DOCTYPE html>
 <html>
 <head>
 <meta charset="utf-8">
-<title>Loyalty Q — new postings detail</title>
+<title>Loyalty Q — postings open as of {as_of}</title>
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
 <style>
   body {{
@@ -45,23 +47,32 @@ _TEMPLATE = """<!DOCTYPE html>
   .filters {{ display: flex; align-items: center; gap: 14px; margin: 14px 0; flex-wrap: wrap; }}
   .filters .dropdown-menu {{ max-height: 260px; overflow-y: auto; min-width: 260px; }}
   #match-count {{ font-size: 12.5px; color: #555; }}
-  tr.post-order {{ background: #fff8e6; }}
+  tr.post-order {{ background: #ffe8a3; }}
+  .headline {{ border: 1px solid #ddd; border-radius: 6px; padding: 14px 18px; margin-bottom: 8px; }}
+  .headline .big {{ font-size: 26px; font-weight: 700; }}
+  .headline .split {{ color: #333; margin-top: 4px; }}
   .legend {{ font-size: 12px; color: #555; margin: 8px 0 4px; }}
   .legend .swatch {{
-    display: inline-block; width: 10px; height: 10px; background: #fff8e6;
+    display: inline-block; width: 10px; height: 10px; background: #ffe8a3;
     border: 1px solid #e6c860; margin-right: 5px; vertical-align: middle;
   }}
 </style>
 </head>
 <body>
-  <h1>Loyalty Q — new postings detail</h1>
-  <div class="subtitle">Internal — litigation team only &middot; new postings since {start_date}, as of {as_of}</div>
+  <h1>Loyalty Q — open postings</h1>
+  <div class="subtitle">Internal — litigation team only &middot; every posting still open as of {as_of}, any posting date</div>
 
-  <h2>By week (full history)</h2>
+  <div class="headline">
+    <div class="big">{with_q:,} of {total_open:,} open postings have the Loyalty Q ({pct_with_q:.1f}%)</div>
+    <div class="split">Posted before the {order_date} order: {pre_with_q:,} of {pre_total:,}
+      &middot; Posted on/after the order: {post_with_q:,} of {post_total:,}</div>
+  </div>
+
+  <h2>By week posted</h2>
   <div class="legend"><span class="swatch"></span>on/after the court order date ({order_date})</div>
   <table>
     <thead>
-      <tr><th>Week of</th><th>Total new</th><th>With Loyalty Q</th><th>% with Q</th><th>Confirmed without</th><th>No link found</th></tr>
+      <tr><th>Week of</th><th>Total open</th><th>With Loyalty Q</th><th>% with Q</th><th>Confirmed without</th><th>No link found</th></tr>
     </thead>
     <tbody>
       {weekly_rows}
@@ -71,7 +82,7 @@ _TEMPLATE = """<!DOCTYPE html>
   <h2>By agency</h2>
   <table>
     <thead>
-      <tr><th>Agency</th><th>Total new</th><th>With Loyalty Q</th><th>Confirmed without</th><th>No link found</th></tr>
+      <tr><th>Agency</th><th>Total open</th><th>With Loyalty Q</th><th>Confirmed without</th><th>No link found</th></tr>
     </thead>
     <tbody>
       {agency_rows}
@@ -101,7 +112,7 @@ _TEMPLATE = """<!DOCTYPE html>
   </div>
   <table id="detail-table">
     <thead>
-      <tr><th>Opened</th><th>Agency</th><th>Position title</th><th>Control #</th><th>Status</th></tr>
+      <tr><th>Opened</th><th>Closes</th><th>Agency</th><th>Position title</th><th>Control #</th><th>Status</th></tr>
     </thead>
     <tbody>
       {detail_rows}
@@ -172,7 +183,7 @@ _TEMPLATE = """<!DOCTYPE html>
 """
 
 
-def render_html(agency_df, detail_df, weekly_df, start_date, order_date, as_of, out_path):
+def render_html(agency_df, detail_df, weekly_df, start_date, order_date, as_of, out_path, snapshot, order_split):
     weekly_rows = []
     for _, row in weekly_df.iterrows():
         row_class = ' class="post-order"' if row['is_post_order'] else ''
@@ -208,6 +219,7 @@ def render_html(agency_df, detail_df, weekly_df, start_date, order_date, as_of, 
     detail_rows = []
     for _, row in detail_df.iterrows():
         opened = str(row['position_open_date'])[:10]
+        closes = '' if pd.isna(row['position_close_date']) else str(row['position_close_date'])[:10]
         title = _html.escape(str(row['position_title']))
         agency = _html.escape(str(row['hiring_agency']))
         status = str(row['loyalty_q_status'])
@@ -216,12 +228,19 @@ def render_html(agency_df, detail_df, weekly_df, start_date, order_date, as_of, 
         cid = row['usajobs_control_number']
         detail_rows.append(
             f'<tr data-agency="{agency}" data-status="{status}">'
-            f"<td>{opened}</td><td>{agency}</td>"
+            f"<td>{opened}</td><td>{closes}</td><td>{agency}</td>"
             f'<td><a href="{link}" target="_blank" rel="noopener">{title}</a></td>'
             f"<td>{cid}</td><td>{status_label}</td></tr>"
         )
 
     out_html = _TEMPLATE.format(
+        with_q=snapshot['live_with_loyalty_q'],
+        total_open=snapshot['total_live_postings'],
+        pct_with_q=snapshot['live_with_loyalty_q'] / snapshot['total_live_postings'] * 100,
+        pre_with_q=order_split['pre_order_live_with_loyalty_q'],
+        pre_total=order_split['total_pre_order_live'],
+        post_with_q=order_split['post_order_live_with_loyalty_q'],
+        post_total=order_split['total_post_order_live'],
         start_date=start_date,
         order_date=order_date,
         as_of=as_of,
