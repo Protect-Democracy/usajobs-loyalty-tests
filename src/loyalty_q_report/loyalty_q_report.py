@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 """
-Internal litigation-support report: Loyalty Q compliance tracking.
+Loyalty Q report: new and currently-open postings with the Loyalty Q.
 
-Not part of the public site pipeline (see ../generate_site) — this is a data
-pull for the litigation team only, per Ori Lev's 2026-09-17 request. Produces:
+Not part of the public site pipeline (see ../generate_site). Produces:
   - daily new-postings counts (with / confirmed-without / no-link-found
     Loyalty Q) since a start date
   - a snapshot of currently-live postings with the Loyalty Q
@@ -35,7 +34,7 @@ Known coverage gaps in "no_questionnaire_link_found" (as of 2026-09-17):
   USAStaffing jobs is unchanged and still a known gap.
 
 Usage:
-    cd src/litigation_report
+    cd src/loyalty_q_report
     python loyalty_q_report.py [--start-date 2026-09-14] [--out-dir ./output]
 """
 import argparse
@@ -242,9 +241,8 @@ def live_postings_snapshot(jobs: pd.DataFrame, as_of: pd.Timestamp) -> dict:
 def live_snapshot_by_order_date(jobs: pd.DataFrame, as_of: pd.Timestamp, order_date: str) -> dict:
     """Split the live snapshot into postings opened before vs. on/after order_date.
 
-    Ori's ask (2026-09-17): postings opened before the court's order that are
-    still live and still show the Loyalty Q are the ones litigation may seek
-    to have taken down or edited, as distinct from new postings opened since.
+    Separates postings that were already up before order_date and still show
+    the Loyalty Q from postings opened on or after that date.
     """
     live = _live_jobs(jobs, as_of)
     order = pd.Timestamp(order_date)
@@ -262,7 +260,7 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument('--start-date', default=DEFAULT_START_DATE)
     parser.add_argument('--order-date', default=None,
-                         help="Court order date, for the pre/post-order live split. Defaults to --start-date.")
+                         help="Order date, for the pre/post-order live split. Defaults to --start-date.")
     parser.add_argument('--out-dir', default=str(Path(__file__).resolve().parent / 'output'))
     parser.add_argument('--skip-rebuild', action='store_true',
                          help='Skip regenerating all_jobs_clean.csv from parquet (use the checked-in file as-is)')
@@ -325,7 +323,7 @@ def main():
     )
 
     summary_lines = [
-        f"Loyalty Q litigation report — as of {snapshot['as_of']}",
+        f"Loyalty Q report — as of {snapshot['as_of']}",
         "",
         f"Daily new postings since {args.start_date}:",
         "",
@@ -337,8 +335,7 @@ def main():
         f"  live_confirmed_without_loyalty_q: {snapshot['live_confirmed_without_loyalty_q']:,}",
         f"  live_no_questionnaire_link_found: {snapshot['live_no_questionnaire_link_found']:,}",
         "",
-        f"Live postings split by court order date ({order_date}) — pre-order postings still",
-        f"live with the Q are candidates for takedown/edit; post-order ones are new violations:",
+        f"Live postings split by posting date relative to the order date ({order_date}):",
         f"  pre-order (opened before {order_date}):",
         f"    total: {order_split['total_pre_order_live']:,}",
         f"    with_loyalty_q: {order_split['pre_order_live_with_loyalty_q']:,} ({pre_pct:.1f}%)",

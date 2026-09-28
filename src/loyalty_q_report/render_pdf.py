@@ -1,4 +1,4 @@
-"""Render the Loyalty Q litigation report as a one-page PDF.
+"""Render the Loyalty Q report as a one-page PDF.
 
 Uses Playwright (already a project dependency) to print an HTML page to PDF,
 rather than pulling in a separate PDF library.
@@ -49,7 +49,7 @@ _TEMPLATE = """<!DOCTYPE html>
 </head>
 <body>
   <h1>Loyalty Q Compliance Report</h1>
-  <div class="subtitle">Internal — litigation team only &middot; as of {as_of}</div>
+  <div class="subtitle">Internal &middot; as of {as_of}</div>
 
   <h2>Live postings snapshot</h2>
   <div class="stats">
@@ -59,7 +59,7 @@ _TEMPLATE = """<!DOCTYPE html>
     <div class="stat"><div class="value">{live_unknown:,}</div><div class="label">No questionnaire link found</div></div>
   </div>
 
-  <h2>Live postings split by court order date ({order_date})</h2>
+  <h2>Live postings split by order date ({order_date})</h2>
   <table>
     <thead>
       <tr><th></th><th>Total live</th><th>With Loyalty Q</th><th>Confirmed without</th><th>No link found</th></tr>
@@ -78,8 +78,8 @@ _TEMPLATE = """<!DOCTYPE html>
     </tbody>
   </table>
   <div class="note">
-    Pre-order postings still live with the Loyalty Q are candidates for takedown/edit;
-    post-order postings with the Q are new violations opened after the order.
+    Pre-order: open postings first posted before the order date. Post-order: open postings
+    first posted on or after it.
   </div>
 
   <h2>Weekly trend, last {n_weeks} weeks (highlighted = on/after order date {order_date})</h2>

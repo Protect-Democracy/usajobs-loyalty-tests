@@ -60,7 +60,7 @@ _TEMPLATE = """<!DOCTYPE html>
 </head>
 <body>
   <h1>Loyalty Q — open postings</h1>
-  <div class="subtitle">Internal — litigation team only &middot; every posting still open as of {as_of}, any posting date</div>
+  <div class="subtitle">Internal &middot; every posting still open as of {as_of}, any posting date</div>
 
   <div class="headline">
     <div class="big">{with_q:,} of {total_open:,} open postings have the Loyalty Q ({pct_with_q:.1f}%)</div>
@@ -69,7 +69,7 @@ _TEMPLATE = """<!DOCTYPE html>
   </div>
 
   <h2>By week posted</h2>
-  <div class="legend"><span class="swatch"></span>on/after the court order date ({order_date})</div>
+  <div class="legend"><span class="swatch"></span>posted on/after the order date ({order_date})</div>
   <table>
     <thead>
       <tr><th>Week of</th><th>Total open</th><th>With Loyalty Q</th><th>% with Q</th><th>Confirmed without</th><th>No link found</th></tr>
