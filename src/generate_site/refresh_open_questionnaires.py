@@ -39,10 +39,11 @@ import pandas as pd
 import requests
 
 from questionnaire_utils import (
+    BROWSER_HEADERS,
     RAW_QUESTIONNAIRES_DIR,
+    fetch_usastaffing_questionnaire,
     get_questionnaire_filename,
     load_known_bad_urls,
-    questionnaire_json_to_text,
     transform_monster_url,
 )
 
@@ -56,11 +57,6 @@ NEW_WORDING = re.compile(r"professionally and efficiently implement executive di
 # priorities in this role." Match the fixed parts, since the brackets get filled in per agency.
 QUESTION_5 = re.compile(r"mission and current priorities|help the agency advance those priorities", re.IGNORECASE)
 
-USASTAFFING_API = 'https://apply.usastaffing.gov/public/api/viewquestionnaire/{}'
-HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 '
-                  '(KHTML, like Gecko) Chrome/124 Safari/537.36',
-}
 STATUS_COLUMNS = [
     'questionnaire_url', 'usajobs_control_numbers', 'fetch_status',
     'has_loyalty_q', 'has_new_wording', 'has_question_5',
@@ -96,27 +92,10 @@ def open_questionnaire_links(today):
     return links.drop_duplicates(), len(open_ids)
 
 
-def fetch_usastaffing(url):
-    qid = url.rstrip('/').split('/')[-1]
-    for attempt in range(3):
-        try:
-            resp = requests.get(USASTAFFING_API.format(qid), headers={**HEADERS, 'Accept': 'application/json'},
-                                timeout=30)
-        except requests.RequestException:
-            time.sleep(2 * (attempt + 1))
-            continue
-        if resp.status_code == 200:
-            return questionnaire_json_to_text(resp.text)
-        if resp.status_code == 404:
-            return None
-        time.sleep(2 * (attempt + 1))
-    return None
-
-
 def fetch_monster(url):
     for attempt in range(3):
         try:
-            resp = requests.get(transform_monster_url(url), headers=HEADERS, timeout=30)
+            resp = requests.get(transform_monster_url(url), headers=BROWSER_HEADERS, timeout=30)
         except requests.RequestException:
             time.sleep(2 * (attempt + 1))
             continue
@@ -133,7 +112,7 @@ def fetch_monster(url):
 def fetch(url):
     """Returns (fetch_status, text)."""
     if 'apply.usastaffing.gov/ViewQuestionnaire/' in url:
-        text = fetch_usastaffing(url)
+        text, _ = fetch_usastaffing_questionnaire(url)
     elif 'monstergovt.com' in url:
         text = fetch_monster(url)
     else:
