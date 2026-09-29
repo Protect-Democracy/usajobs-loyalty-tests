@@ -173,6 +173,23 @@ def test_old_question_matched_through_html_entities():
         assert len(check_executive_order_mentions(Path(d))) == len(variants)
 
 
+def test_blacklisted_usastaffing_link_counts_only_for_its_own_posting():
+    import refresh_open_questionnaires as r
+    raw = json.dumps({'controlNumber': 879910000, 'positionTitle': 'Production Controller',
+                      'announcementSections': [], 'assessmentSections': []})
+    original = r.fetch_usastaffing_questionnaire_json
+    try:
+        r.fetch_usastaffing_questionnaire_json = lambda url: (raw, False)
+        url = 'https://apply.usastaffing.gov/ViewQuestionnaire/13032090'
+        assert r.fetch(url, ['879910000'], blacklisted=True)[0] == 'ok'
+        assert r.fetch(url, ['111111111'], blacklisted=True)[0] == 'not_this_posting'
+        assert r.fetch(url, ['111111111'], blacklisted=False)[0] == 'ok'  # only blacklisted links are checked
+        r.fetch_usastaffing_questionnaire_json = lambda url: (None, True)
+        assert r.fetch(url, ['879910000'], blacklisted=True)[0] == 'invalid'
+    finally:
+        r.fetch_usastaffing_questionnaire_json = original
+
+
 def test_ann_match_returns_true_when_present():
     txt = ('Position Title\nDental Assistant\n'
            'Announcement Number\nOCA-FY25-0681-DentalAsst3 Opens in new window\n')
@@ -291,6 +308,7 @@ def test_derived_row_has_no_raw_descriptor():
 
 
 TESTS = [
+    test_blacklisted_usastaffing_link_counts_only_for_its_own_posting,
     test_old_question_matched_through_html_entities,
     test_questionnaire_json_to_text_renders_questions_and_header,
     test_direct_link_read_from_derived_column,
