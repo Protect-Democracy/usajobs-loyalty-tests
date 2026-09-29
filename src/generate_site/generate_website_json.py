@@ -6,6 +6,7 @@ import pandas as pd
 import json
 import os
 from pathlib import Path
+import html
 import re
 from datetime import datetime
 from questionnaire_utils import (
@@ -72,7 +73,9 @@ def calculate_eo_stats(all_jobs_df, scraped_df, group_column, top_n=None, column
 def check_executive_order_mentions(questionnaire_dir=RAW_QUESTIONNAIRES_DIR):
     """Check which questionnaires mention the specific executive order question"""
     mentions = {}
-    pattern = re.compile(r"How would you help advance the President's Executive Orders and policy priorities in this role\?", re.IGNORECASE)
+    # Straight or curly apostrophe; Monster pages can also spell it as an HTML entity
+    # ("President&rsquo;s"), so entities are decoded before matching.
+    pattern = re.compile(r"How would you help advance the President['\u2019]s Executive Orders and policy priorities in this role\?", re.IGNORECASE)
     
     if not questionnaire_dir.exists():
         print(f"Warning: {questionnaire_dir} does not exist")
@@ -86,7 +89,7 @@ def check_executive_order_mentions(questionnaire_dir=RAW_QUESTIONNAIRES_DIR):
             with open(txt_file, 'r', encoding='utf-8') as f:
                 content = f.read()
                 
-            if pattern.search(content):
+            if pattern.search(html.unescape(content)):
                 file_id = txt_file.stem.split('_')[1]
                 mentions[file_id] = 1
         except Exception as e:

@@ -152,6 +152,27 @@ def test_questionnaire_json_to_text_renders_questions_and_header():
     assert questionnaire_text_matches_announcement(txt, 'OCA-FY25-0681-DentalAsst3') is True
 
 
+def test_old_question_matched_through_html_entities():
+    # Monster pages can spell the apostrophe as "&rsquo;"; a Department of
+    # Transportation posting was missed that way (2026-09-29).
+    import refresh_open_questionnaires
+    from generate_website_json import check_executive_order_mentions
+    variants = [
+        "How would you help advance the President's Executive Orders and policy priorities in this role?",
+        "How would you help advance the President\u2019s Executive Orders and policy priorities in this role?",
+        "6 How would you help advance the President&rsquo;s Executive Orders and policy priorities in this role? Identify",
+        "How would you help advance the President&#39;s Executive Orders and policy priorities in this role?",
+    ]
+    for text in variants:
+        assert refresh_open_questionnaires.flags(text)['has_loyalty_q'], text
+    with tempfile.TemporaryDirectory() as d:
+        for i, text in enumerate(variants):
+            with open(os.path.join(d, f'monster_{i}.txt'), 'w', encoding='utf-8') as f:
+                f.write(text)
+        from pathlib import Path
+        assert len(check_executive_order_mentions(Path(d))) == len(variants)
+
+
 def test_ann_match_returns_true_when_present():
     txt = ('Position Title\nDental Assistant\n'
            'Announcement Number\nOCA-FY25-0681-DentalAsst3 Opens in new window\n')
@@ -270,6 +291,7 @@ def test_derived_row_has_no_raw_descriptor():
 
 
 TESTS = [
+    test_old_question_matched_through_html_entities,
     test_questionnaire_json_to_text_renders_questions_and_header,
     test_direct_link_read_from_derived_column,
     test_monster_link_sets_flag_on_derived_row,
