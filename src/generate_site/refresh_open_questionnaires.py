@@ -29,6 +29,7 @@ Usage:
 """
 import argparse
 import hashlib
+import html
 import json
 import re
 import sys
@@ -75,6 +76,9 @@ MIN_OK_SHARE = 0.5
 
 
 def flags(text):
+    # Monster pages can spell the apostrophe as an HTML entity ("President&rsquo;s"),
+    # which the patterns would otherwise miss.
+    text = html.unescape(text)
     return {
         'has_loyalty_q': bool(LOYALTY_Q.search(text)),
         'has_new_wording': bool(NEW_WORDING.search(text)),
