@@ -18,6 +18,7 @@ import tempfile
 
 from questionnaire_utils import (
     discover_qid_from_usajobs_html,
+    questionnaire_json_to_text,
     questionnaire_text_matches_announcement,
 )
 import questionnaire_utils
@@ -131,6 +132,24 @@ def test_html_fallback_disabled_when_flag_false():
     assert links == []
     assert inferred_ann is False
     assert inferred_html is False
+
+
+def test_questionnaire_json_to_text_renders_questions_and_header():
+    raw = json.dumps({
+        'positionTitle': 'Dental Assistant', 'agencyName': 'Some Agency',
+        'announcementNumber': 'OCA-FY25-0681-DentalAsst3', 'openPeriod': 'Sep 1, 2026 to Sep 30, 2026',
+        'announcementSections': [{'sectionTitle': 'Essay Questions', 'questions': [
+            {'displayIdentifier': '3', 'text': '<p>How would you help advance the President\u2019s policy?</p>',
+             'answers': [{'text': 'Yes'}, {'text': None}]},
+        ]}],
+        'assessmentSections': None,
+    })
+    txt = questionnaire_json_to_text(raw)
+    assert 'Announcement Number\nOCA-FY25-0681-DentalAsst3\n' in txt
+    assert '3.\nHow would you help advance the President\u2019s policy?\n Yes\n' in txt
+    assert '<p>' not in txt
+    # The announcement check used for inferred URLs must work on API-rendered text too.
+    assert questionnaire_text_matches_announcement(txt, 'OCA-FY25-0681-DentalAsst3') is True
 
 
 def test_ann_match_returns_true_when_present():
@@ -251,6 +270,7 @@ def test_derived_row_has_no_raw_descriptor():
 
 
 TESTS = [
+    test_questionnaire_json_to_text_renders_questions_and_header,
     test_direct_link_read_from_derived_column,
     test_monster_link_sets_flag_on_derived_row,
     test_historical_row_still_grepped,
