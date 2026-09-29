@@ -44,9 +44,10 @@ import requests
 from questionnaire_utils import (
     BROWSER_HEADERS,
     RAW_QUESTIONNAIRES_DIR,
-    fetch_usastaffing_questionnaire,
+    fetch_usastaffing_questionnaire_json,
     get_questionnaire_filename,
     load_known_bad_urls,
+    questionnaire_json_to_text,
     transform_monster_url,
 )
 
@@ -97,7 +98,15 @@ def open_postings_and_links(today):
     jobs = jobs[close.isna() | (close >= today)].drop_duplicates('usajobs_control_number')
     links = pd.read_csv('questionnaire_links.csv', usecols=['usajobs_control_number', 'questionnaire_url'])
     links = links[links['usajobs_control_number'].isin(jobs['usajobs_control_number'])]
-    links = links[~links['questionnaire_url'].isin(load_known_bad_urls())]
+    # questionnaire_known_bad.txt holds links the scraper once judged broken, but
+    # some are live questionnaires for the right posting (2 open postings with the
+    # old question were hidden that way on 2026-09-29). Blacklisted USAStaffing
+    # links are kept and verified in fetch() against the questionnaire's own
+    # control number; blacklisted links on other sites can't be verified and are
+    # dropped as before.
+    blacklisted = links['questionnaire_url'].isin(load_known_bad_urls())
+    usastaffing = links['questionnaire_url'].str.contains('apply.usastaffing.gov/ViewQuestionnaire/', regex=False)
+    links = links[~blacklisted | usastaffing].assign(blacklisted=blacklisted)
     return jobs, links.drop_duplicates()
 
 
@@ -142,10 +151,17 @@ def fetch_monster(url):
     return None
 
 
-def fetch(url):
-    """Returns (fetch_status, text)."""
+def fetch(url, linked_ids=(), blacklisted=False):
+    """Returns (fetch_status, text). A blacklisted USAStaffing questionnaire counts
+    only if its own control number is one of the postings linking to it; otherwise
+    the status is 'not_this_posting' (or 'invalid' if USAStaffing rejects the ID)."""
     if 'apply.usastaffing.gov/ViewQuestionnaire/' in url:
-        text, _ = fetch_usastaffing_questionnaire(url)
+        raw, invalid = fetch_usastaffing_questionnaire_json(url)
+        if blacklisted and invalid:
+            return 'invalid', None
+        if blacklisted and raw is not None and str(json.loads(raw).get('controlNumber')) not in linked_ids:
+            return 'not_this_posting', None
+        text = questionnaire_json_to_text(raw) if raw is not None else None
     elif 'monstergovt.com' in url:
         text = fetch_monster(url)
     else:
@@ -180,6 +196,7 @@ def main():
     n_open = len(jobs)
     by_url = links.groupby('questionnaire_url')['usajobs_control_number'].apply(
         lambda ids: ';'.join(str(int(i)) for i in sorted(ids)))
+    blacklisted_urls = set(links.loc[links['blacklisted'], 'questionnaire_url'])
     urls = sorted(by_url.index)
     if args.limit:
         urls = urls[:args.limit]
@@ -190,7 +207,13 @@ def main():
         previous = pd.read_csv(status_path, dtype=str, keep_default_na=False).set_index('questionnaire_url').to_dict('index')
 
     with ThreadPoolExecutor(args.workers) as pool:
-        fetched = list(pool.map(fetch, urls))
+        fetched = list(pool.map(lambda u: fetch(u, by_url[u].split(';'), u in blacklisted_urls), urls))
+    # Blacklisted links that turned out invalid or someone else's questionnaire
+    # don't belong to these postings at all.
+    kept = [(u, f) for u, f in zip(urls, fetched) if f[0] not in ('invalid', 'not_this_posting')]
+    print(f'{len(blacklisted_urls):,} blacklisted USAStaffing links checked; '
+          f'{len(urls) - len(kept):,} excluded (invalid or another posting\'s questionnaire)', flush=True)
+    urls, fetched = [u for u, _ in kept], [f for _, f in kept]
 
     attempted = [s for s, _ in fetched if s != 'skipped_blocked_domain']
     ok_share = attempted.count('ok') / len(attempted) if attempted else 1.0

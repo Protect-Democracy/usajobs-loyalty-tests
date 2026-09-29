@@ -96,6 +96,13 @@ def fetch_usastaffing_questionnaire(url, attempts=3, timeout=30):
     when USAStaffing says the questionnaire doesn't exist (HTTP 400 "Vacancy ID
     is invalid", or 404), which retrying won't change.
     """
+    raw, invalid = fetch_usastaffing_questionnaire_json(url, attempts, timeout)
+    return (questionnaire_json_to_text(raw) if raw is not None else None), invalid
+
+
+def fetch_usastaffing_questionnaire_json(url, attempts=3, timeout=30):
+    """Like fetch_usastaffing_questionnaire, but returns (raw JSON text, invalid).
+    The JSON includes the questionnaire's own USAJOBS controlNumber."""
     qid = url.rstrip('/').split('/')[-1]
     for attempt in range(attempts):
         try:
@@ -105,7 +112,7 @@ def fetch_usastaffing_questionnaire(url, attempts=3, timeout=30):
             time.sleep(2 * (attempt + 1))
             continue
         if resp.status_code == 200:
-            return questionnaire_json_to_text(resp.text), False
+            return resp.text, False
         if resp.status_code in (400, 404):
             return None, True
         time.sleep(2 * (attempt + 1))
