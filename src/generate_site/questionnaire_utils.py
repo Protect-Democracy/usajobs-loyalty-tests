@@ -1,12 +1,22 @@
 """Shared utilities for questionnaire processing"""
+import json
 import re
+import time
 from pathlib import Path
+
+import requests
 
 
 # Common paths
 RAW_QUESTIONNAIRES_DIR = Path('./raw_questionnaires')
 QUESTIONNAIRE_LINKS_CSV = Path('./questionnaire_links.csv')
 KNOWN_BAD_URLS_FILE = Path('./questionnaire_known_bad.txt')
+
+USASTAFFING_API_URL = 'https://apply.usastaffing.gov/public/api/viewquestionnaire/{}'
+BROWSER_HEADERS = {
+    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 '
+                  '(KHTML, like Gecko) Chrome/124 Safari/537.36',
+}
 
 
 def transform_monster_url(url):
@@ -50,6 +60,56 @@ def extract_questionnaire_id(url):
     else:
         file_id = str(hash(url))[:8]
         return 'other', file_id
+
+
+def _clean_questionnaire_text(s):
+    return re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', ' ', s or '')).strip()
+
+
+def questionnaire_json_to_text(raw):
+    """Render USAStaffing's viewquestionnaire JSON as plain text, laid out like raw_questionnaires/*.txt.
+
+    The JSON is what https://apply.usastaffing.gov/ViewQuestionnaire/<id> loads from
+    /public/api/viewquestionnaire/<id> to draw itself.
+    """
+    d = json.loads(raw)
+    lines = ['Position Title', _clean_questionnaire_text(d.get('positionTitle')),
+             'Agency', _clean_questionnaire_text(d.get('agencyName')),
+             'Announcement Number', _clean_questionnaire_text(d.get('announcementNumber')),
+             'Open Period', _clean_questionnaire_text(d.get('openPeriod'))]
+    for key in ('announcementSections', 'assessmentSections'):
+        for section in d.get(key) or []:
+            lines.append(_clean_questionnaire_text(section.get('sectionTitle') or section.get('sectionName')))
+            for q in section.get('questions') or []:
+                lines.append(f"{_clean_questionnaire_text(q.get('displayIdentifier'))}.")
+                lines.append(_clean_questionnaire_text(q.get('text')))
+                for a in q.get('answers') or []:
+                    if a.get('text'):
+                        lines.append(' ' + _clean_questionnaire_text(a['text']))
+    return '\n'.join(lines) + '\n'
+
+
+def fetch_usastaffing_questionnaire(url, attempts=3, timeout=30):
+    """Fetch a USAStaffing questionnaire as text via the JSON its public page loads.
+
+    Returns (text, invalid). text is None if the fetch failed. invalid is True
+    when USAStaffing says the questionnaire doesn't exist (HTTP 400 "Vacancy ID
+    is invalid", or 404), which retrying won't change.
+    """
+    qid = url.rstrip('/').split('/')[-1]
+    for attempt in range(attempts):
+        try:
+            resp = requests.get(USASTAFFING_API_URL.format(qid),
+                                headers={**BROWSER_HEADERS, 'Accept': 'application/json'}, timeout=timeout)
+        except requests.RequestException:
+            time.sleep(2 * (attempt + 1))
+            continue
+        if resp.status_code == 200:
+            return questionnaire_json_to_text(resp.text), False
+        if resp.status_code in (400, 404):
+            return None, True
+        time.sleep(2 * (attempt + 1))
+    return None, False
 
 
 def get_questionnaire_filename(url):

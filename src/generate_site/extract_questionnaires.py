@@ -22,7 +22,7 @@ from questionnaire_utils import (
     get_questionnaire_filepath, questionnaire_exists, RAW_QUESTIONNAIRES_DIR,
     infer_questionnaire_url_from_announcement, discover_questionnaire_url_from_usajobs_posting,
     questionnaire_text_matches_announcement,
-    load_known_bad_urls, append_known_bad_url,
+    load_known_bad_urls, append_known_bad_url, fetch_usastaffing_questionnaire,
 )
 
 # job_fields lives one level up in src/ so the collector and the site scripts
@@ -274,6 +274,25 @@ def scrape_questionnaire(url, output_dir, timeout_seconds=60, headless=True, ses
             print(f"    ❌ Error after {elapsed:.1f}s: {str(e)[:80]}")
             return None
     
+    # USAStaffing: fetch the JSON the public ViewQuestionnaire page itself loads,
+    # rather than launching a browser to render it. Falls back to the browser
+    # below only if the API call fails for a reason retrying might fix.
+    if 'apply.usastaffing.gov/ViewQuestionnaire/' in url:
+        text, invalid = fetch_usastaffing_questionnaire(url, timeout=timeout_seconds)
+        if invalid:
+            print(f"    ❌ USAStaffing says this questionnaire doesn't exist")
+            with progress_lock:
+                append_known_bad_url(url)
+            return None
+        if text is not None:
+            if is_error_page_and_blacklist(text, url):
+                return None
+            with open(txt_path, 'w', encoding='utf-8') as f:
+                f.write(text)
+            print(f"    Saved via API: {txt_path} ({time.time() - start_time:.1f}s)")
+            return text
+        print(f"    API fetch failed; falling back to the browser")
+
     # Use Playwright for USAStaffing URLs
     try:
         with sync_playwright() as p:

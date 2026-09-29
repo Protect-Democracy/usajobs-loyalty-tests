@@ -75,7 +75,9 @@ jobs:
         git config --global user.email "actions@github.com"
 
     - name: Run questionnaire analysis
-      timeout-minutes: 330  # 5.5 hour timeout for scraping
+      # Leaves ~45 min of the 350-min job for the open-questionnaire refresh below.
+      # Longest recent scrape was ~3h50m.
+      timeout-minutes: 280
       env:
         GITHUB_ACTIONS: true
       run: |
@@ -94,6 +96,20 @@ jobs:
           exit 1
         fi
         echo "analysis_data.json regenerated ($SIZE bytes)"
+
+    - name: Refresh every open posting's questionnaire
+      # Re-fetches each currently-open posting's questionnaire and records what
+      # it says now in src/generate_site/questionnaire_rechecks/ (agencies edit
+      # questionnaires after posting; raw_questionnaires/ keeps the first
+      # scrape). Committed with the rest of this run's changes. A failure here
+      # must not block the site update, so it's reported separately below.
+      id: refresh
+      if: always()
+      timeout-minutes: 45
+      continue-on-error: true
+      run: |
+        cd src/generate_site
+        python refresh_open_questionnaires.py
 
     - name: Run questionnaire tests
       id: questionnaire_tests
@@ -163,6 +179,22 @@ jobs:
         gh_retry gh workflow run deploy-site.yml --ref main
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Open an issue if the questionnaire refresh failed
+      if: always() && steps.refresh.outcome == 'failure'
+      uses: actions/github-script@v7
+      with:
+        script: |
+          await github.rest.issues.create({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            title: `Open Questionnaire Refresh Failed - ${new Date().toISOString().split('T')[0]}`,
+            body: `The open-questionnaire refresh step failed, so questionnaire_rechecks/ was not updated today (the rest of the pipeline continued). If the log says only a small share of fetches succeeded, USAStaffing may be blocking the runner; the previous state was kept.
+
+          [View the workflow run](${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId})`,
+            labels: ['bug', 'automated'],
+            assignees: ['abigailhaddad-2'],
+          });
 
     - name: Open an issue if the run failed
       # Mirrors daily-data-update.yml. Fires on any job failure — the
