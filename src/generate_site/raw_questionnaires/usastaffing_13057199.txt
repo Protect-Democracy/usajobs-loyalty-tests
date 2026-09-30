@@ -1,0 +1,115 @@
+Position Title
+Supervisory IT Program Manager (Policy and Planning)
+Agency
+Export-Import Bank of the United States
+Announcement Number
+D26-AR-13057199-OCIO
+Open Period
+Sep 29, 2026 to Oct 13, 2026
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+2.
+Career Transition Assistance Plan (CTAP): I am a current or former Export Import Bank of the United States employee displaced from a position in the same local commuting area of the vacancy. I have a current (or last) performance rating of record of at least fully successful or the equivalent. Applicants eligible under CTAP are provided priority selection for vacancies within the local commuting area for which they apply and are well qualified. NOTE: If you indicate "yes" for this statement, you must submit copies of the appropriate documentation, such as a reduction in force (RIF) separation notice, a SF50 reflecting your RIF separation, or a notice of proposed removal for declining a directed reassignment or transfer of function to another commuting area. You must also submit documentation to reflect your current (or last) performance rating of record.
+ Yes
+ No
+3.
+US Citizen: Are you a US citizen (either by birth or naturalization) or national of the United States?
+ Yes
+ No
+4.
+Current or Former Political Appointees : The Office of Personnel Management (OPM) must authorize employment offers made to current or former political appointees. If you are currently employed, or have been employed within the last 5 years, in any one of the categories below, you must disclose this information. Failure to disclose this information could result in disciplinary action including removal from Federal Service. Are you a current or former political appointee as described under 5 U.S.C. sections 5312 through 5316? -OR- Are you a current or former Schedule A or Schedule C political appointee, or an appointee who serves/served in a political capacity under agency-specific authority in the Executive Branch? -OR- Are you a current or former political appointee or non-career SES Executive Branch employee?
+ Yes
+ No
+5.
+Interagency Career Transition Assistance Plan (ICTAP): I am a current or former federal employee displaced from a position in a federal agency (e.g., IRS, VA, Dept of Labor, etc.) in the same local commuting area of the vacancy. I have a current (or last) performance rating of record of at least fully successful or the equivalent. Applicants eligible under ICTAP are provided priority selection for vacancies within the local commuting area for which they apply and are well qualified. NOTE: If you indicate "yes" for this statement, you must submit copies of the appropriate documentation, such as a reduction in force (RIF) separation notice, a SF50 reflecting your RIF separation, or a notice of proposed removal for declining a directed reassignment or transfer of function to another commuting area. You must also submit documentation to reflect your current (or last) performance rating of record.
+ Yes
+ No
+Short Essay Questions
+.
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+3.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+Supervisory IT Program Manager (Policy and Planning)
+.
+Your resume and supporting documents must support the responses you select (Failure to provide a response below may result in further lack of consideration for this announcement).
+1.
+Do you have IT-related experience demonstrating each of the following competencies: Attention to Detail - Is thorough when performing work and conscientious about attending to detail. Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services; Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately. Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.
+ Yes (Your resume must reflect this specialized experience in order to qualify for the GS-15 grade level).
+ My experience is not reflected in the description above.
+2.
+Do you have one year of specialized experience equivalent to the GS-14 level in the Federal service or other equivalent pay system that has equipped you to perform the major duties of this position? This specialized experience includes: Experience developing, implementing, and evaluating IT policies, procedures, governance frameworks, and strategic plans to ensure alignment with organizational mission, regulatory requirements, and technology objectives; Experience managing or coordinating IT resources, including budget planning, procurement, workforce planning, and resource allocation, to support strategic IT initiatives and organizational priorities; Experience leading IT project and program management activities, including developing project plans, establishing milestones and deliverables, monitoring performance, managing competing priorities, and reporting program status and results to senior leadership; AND Experience leading cross-functional teams and collaborating with senior-level stakeholders, contractors, vendors, and other organizations to resolve complex IT issues, build consensus, and implement solutions affecting enterprise IT programs and operations.
+ Yes (Your resume must reflect this specialized experience in order to qualify for the GS-15 grade level)
+ My experience is not reflected in the description above.
+2a.
+Please indicate which position(s) on your resume supports this response (include title, agency/organization, dates of experience (month/year to month/year) DO NOT COPY AND PASTE RESUME or state &lsquo;REFER TO RESUME&rsquo;. &nbsp;
+3.
+You oversee an IT portfolio containing several major projects. One high-priority project has fallen behind schedule because of unexpected technical issues and competing resource demands. The project manager believes the original schedule can still be met, while other IT leaders believe additional resources should be shifted from another project. What would you do?
+ Conduct a comprehensive assessment of the project's schedule, risks, dependencies, resource requirements, milestones, and expected outcomes; evaluate the impact on the broader portfolio and recommend a course of action to senior leadership.
+ Direct the project manager to maintain the existing schedule and work with the team to resolve the technical issues without affecting other projects.
+ Review the project's status, identify the causes of the delays, and work with the project manager to develop options for recovering the schedule.
+ Reallocate resources from the lower-priority project immediately so the high-priority project can remain on schedule.
+ Allow the project manager to determine whether additional resources are necessary because the project manager has the most direct knowledge of the project.
+4.
+Your organization needs to acquire a complex technology solution. The acquisition is time-sensitive, and the program office has requested a specific commercial product. However, the proposed acquisition requires significant funding and includes technical and accessibility considerations that have not yet been fully evaluated. What would you do?
+ Proceed with the requested product because the program office has identified it as the preferred solution.
+ Ask the program office to provide additional justification for the requested product before moving forward with the acquisition.
+ Coordinate with acquisition, technical, financial, and program stakeholders to evaluate requirements, alternatives, funding, accessibility, risks, and applicable acquisition requirements before developing a recommendation and acquisition strategy.
+ Delay the acquisition until all stakeholders independently agree on the preferred solution.
+ Recommend an alternative product that appears less expensive and allow the program office to determine whether it meets their needs.
+5.
+During the development of the OCIO budget, you determine that projected expenditures for several IT initiatives may exceed available funding. At the same time, senior leadership has identified several initiatives as critical to the agency's mission. What would you do?
+ Inform senior leadership that additional funding is needed and request that they determine which initiatives should be reduced.
+ Review projected expenditures and identify opportunities to reduce costs while preserving the highest-priority initiatives.
+ Conduct an integrated analysis of current and projected expenditures, funding availability, program priorities, procurement requirements, workforce needs, and anticipated future requirements; develop alternatives and provide senior leadership with recommendations regarding resource allocation.
+ Reduce funding for lower-priority projects to ensure that the critical initiatives remain fully funded.
+ Maintain the current budget projections and address any funding shortfall when it occurs.
+6.
+You supervise a multifunctional IT organization consisting of federal employees and contractors. You identify several capability gaps that could affect the organization's ability to meet future mission requirements. At the same time, employees have expressed concerns about workload, career development, and the distribution of assignments. What would you do?
+ Redistribute assignments to address the immediate workload concerns and address training needs during the next performance cycle.
+ Meet individually with employees to understand their concerns and determine which training opportunities are available.
+ Request additional positions and training funding from senior leadership to address the identified capability gaps.
+ Allow employees to identify their preferred training and development opportunities and encourage them to pursue those opportunities as workload permits.
+ Assess current and projected mission requirements, workforce capabilities, workload, succession risks, and developmental needs; establish priorities for staffing, training, workload management, and career development and communicate the strategy to the organization.
+7.
+A new government-wide IT requirement is issued that may affect several OCIO programs. The requirement is broadly written, and different IT offices have differing interpretations of how it applies to their operations. Senior leadership asks you to determine its impact and recommend how OCIO should respond. What would you do?
+ Wait for additional government-wide guidance before determining whether changes to OCIO policies or operations are necessary.
+ Review the requirement and provide senior leadership with a summary of the provisions that appear most relevant to OCIO.
+ Develop a policy requiring all OCIO organizations to comply with the new requirement and address specific implementation questions as they arise.
+ Ask each IT office to determine how the requirement applies to its own programs and consolidate their responses for senior leadership.
+ Analyze the requirement against existing policies, programs, risks, and operational practices; consult appropriate stakeholders and subject-matter experts; reconcile differing interpretations; and develop an implementation approach with clear recommendations for senior leadership.
+8.
+During OCIO's strategic planning process, senior leaders identify several competing priorities, including improving cybersecurity capabilities, modernizing legacy systems, enhancing customer service, and meeting emerging federal IT requirements. Resources are insufficient to pursue all initiatives simultaneously. What would you do?
+ Recommend prioritizing the cybersecurity initiatives because they present the greatest potential risk to the organization.
+ Meet with each IT leader to identify which initiatives they consider most important and use their input to establish priorities.
+ Develop a structured prioritization approach that evaluates mission alignment, regulatory requirements, cybersecurity and operational risks, dependencies, resource requirements, customer impact, and expected benefits; use the analysis to develop an integrated roadmap and present recommendations to senior leadership.
+ Ask the CIO to select the priorities because competing strategic requirements ultimately require an executive decision.
+ Prioritize initiatives that can be completed most quickly so OCIO can demonstrate measurable progress while additional resources are sought.
+9.
+You lead the PMO function for an IT organization with a portfolio of complex, high-priority projects. Senior leadership has requested an executive dashboard that provides a clear picture of portfolio performance, including project status, milestones, risks, resource requirements, and issues requiring executive attention. The information is being reported inconsistently across projects, and some project managers are providing conflicting or incomplete information. You must prepare the dashboard and brief senior leadership on the overall health of the portfolio. What would you do?
+ Compile the information provided by the project managers into a dashboard, identify projects that appear to be behind schedule, and present the dashboard to senior leadership with an explanation of the reported issues.
+ Establish standard reporting requirements for project managers, review the information submitted, resolve obvious inconsistencies, and develop an executive dashboard summarizing project status, milestones, risks, and issues.
+ Establish a standardized portfolio reporting framework with defined performance measures, data requirements, reporting timelines, and criteria for identifying risks and issues; validate and analyze project information across the portfolio; develop an executive dashboard highlighting trends, dependencies, resource concerns, and matters requiring leadership decisions; and brief senior leadership with recommendations and potential courses of action.
+ Ask each project manager to provide a summary of their project's status and use the information to create an executive dashboard focused primarily on projects that are not meeting their planned milestones.
+ Prepare the dashboard using the existing project management reports and present the information to senior leadership, allowing leadership to determine which projects require additional attention.
+10.
+I certify that, to the best of my knowledge and belief, all of the information included in this questionnaire is true, correct, and provided in good faith. I understand that if I make an intentional false statement, or commit deception or fraud in this application and all supporting materials, including my resume, or in any document or interview associated with the examination process, I may be fined or imprisoned (18 U.S.C. 1001); my eligibilities may be cancelled; I may be denied an appointment; or I may be removed and debarred from Federal service (5 C.F.R. part 731). I understand that any information I give may be investigated. I understand that I will not be considered for employment if I do not respond "Yes" to this certification item.
+ Yes
+ No

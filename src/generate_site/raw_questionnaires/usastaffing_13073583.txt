@@ -1,0 +1,130 @@
+Position Title
+IT SPECIALIST (SYSADMIN)
+Agency
+Army National Guard Units
+Announcement Number
+VT-13073583-AR-26-51
+Open Period
+Sep 29, 2026 to Oct 13, 2026
+Eligibilities
+1.
+All federal re-employable eligibles. Are you eligible to be re-employed as a federal employee? To verify your eligibility, you must submit a copy of your most recent Notification of Personnel Action, Standard Form 50 (SF 50).
+ Yes
+ No
+2.
+All on-board federal employees/technicians within the state for which you are applying (Title 32 and Title 5, Permanent and Excepted Indefinite). Are you a current on-board federal employee or technician within the state for which this position is being advertised? To verify your eligibility, you must submit a copy of your most recent Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Tenure in Block 24 (1, 2,or 3).
+ Yes
+ No
+3.
+All on-board National Guard Title 32 Excepted Technicians within the state for which you are applying (Title 32 Permanent and Excepted Indefinite). Are you a current on-board National Guard Title 32 Excepted Technician within the state for which this position is being advertised? To verify your eligibility, you must submit a copy of your most recent Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Tenure in Block 24 (1, 2, or 3).
+ Yes
+ No
+4.
+Are you a current Permanent full-time Dual Status National Guard Technician within the state for which this position is being advertised? To verify your eligibility, you must submit a copy of your Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Permanent full-time status with the state National Guard.
+ Yes
+ No
+5.
+Are you a current Temporary Indefinite full-time Dual Status National Guard Technician within the state for which this position is being advertised? To verify your eligibility, you must submit a copy of your Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Indefinite full-time status with the state National Guard.
+ Yes
+ No
+6.
+Are you a current Temporary full-time Dual Status National Guard Technician within the state for which this position is being advertised? To verify your eligibility, you must submit a copy of your Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Temporary full-time status with the state National Guard.
+ Yes
+ No
+7.
+National Guard- All On-Board In-State National Guard Title 5 Excepted Employees (NG T5 Perm Empl).
+ Yes
+ No
+IT SPEC (SYSADMIN)
+.
+Your responses in this Assessment Questionnaire are subject to evaluation and verification. Later steps in the selection process are specifically designed to verify your responses. Deliberate attempts to falsify information will be grounds for disqualifying you or for dismissing you from employment following acceptance. Please take this opportunity to review your responses to ensure their accuracy. If you fail to answer this question, you will be disqualified from consideration for this position.
+19a.
+Provide one or two specific examples and explain how those qualities would enable you to serve effectively in this position.
+.
+Select “Yes” or “No” to the following question(s).
+1.
+Do you meet the Area of Consideration requirements for this position? OPEN AREAS OF CONSIDERATION: AREA 1 Area I: Current On-board Title 5 or Title 32 Dual Status Technicians (Tenure: 1-Career, 2-Conditional, 3-Indefinite or 4-Term ) - Only those current Vermont National Guard employees who are in permanent, indefinite, or term technician status as result of being competitively hired by the Vermont National Guard.
+ Yes
+ No
+2.
+Do you meet the minimum requirements to perform the duties of this position? MINIMUM REQUIREMENTS :Experience must be IT related; the experience may be demonstrated by paid or unpaid experience and/or completion of specific, intensive training (for example, IT certification), as appropriate. For all positions individuals must have IT-related experience demonstrating each of the four competencies listed below. The employing agency is responsible for identifying the specific level of proficiency required for each competency at each grade level based on the requirements of the position being filled. Attention to Detail - Is thorough when performing work and conscientious about attending to detail. Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services. Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately. Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.
+ Yes
+ No
+3.
+Do you possess the required specialized experience to perform the duties of this position? SPECIALIZED EXPERIENCE: 1-year specialized experience equivalent to at least the next lower grade. Specialized experience includes experience, education, or training that approaches techniques and requirements appropriate to an assigned computer applications area or computer specialty area in an organization. Experience planning the sequence of actions necessary to accomplish the assignment where this entailed coordination with others outside the organizational unit and development of project controls. Experience that required adaptations of guidelines or precedents to meet the needs of the assignment. Experience preparing documentation on cost/benefit studies where is involved summarizing the material and organizing it in a logical fashion. Experience in managing the function of the work to be performed. Experience which includes leading, directing and assigning work of personnel. Experience in managing the function of the work to be performed. Experience which includes leading, directing and assigning work of personnel.
+ Yes
+ No
+.
+Your qualifications will be evaluated on the following competencies (knowledge, skills, abilities and other characteristics): --Knowledge of a variety of operating systems (i.e., Windows NT, Windows 2000, Windows XP, Unix, etc.) on desktop and server assets in order to administer user accounts and perform backup operations. --Knowledge of project management techniques and tools sufficient to provide expert guidance on the implementation of emerging technologies to diverse dispersed locations throughout the state. --Ability to lead team members who are assigned to one or more locations in the state. --Knowledge of, and skill in applying the principles and methods for planning, updating, and integrating information system components, including software, controlling future releases, and documenting information and physical characteristics of an information system or product. --Skill in troubleshooting problems in the data center and implementing changes on multifaceted and interdependent computer platforms. --Skill in programming sufficient to modify application code, devise software patches or workarounds, document problems and advise the responsible vendor or other outside party on support issues. --Skill in analyzing requests for new and modified applications with expert ability in system design, programming, hardware selection and adapting commercially available software. --Knowledge of and skill in applying storage management practices and assignment of resources and file management techniques. --Skill in using performance tuning tools and techniques to optimize systems functionality in order to meet installation systems requirements. --Knowledge of the techniques and practices to implement fault tolerance on a diverse number of complex systems and applications in order to optimize functionality and service to the customer base. --Knowledge of system diagnostic tools and structured techniques for the recovery of failed systems and data access. --Knowledge of analysis and design techniques to develop system software modifications, systems administration policy and procedures for use across the organization.
+4.
+Do you have knowledge of a variety of operating systems (i.e., Windows NT, Windows 2000, Windows XP, Unix, etc.) on desktop and server assets in order to administer user accounts and perform backup operations?
+4a.
+Please explain your experiences:
+5.
+Do you have of project management techniques and tools sufficient to provide expert guidance on the implementation of emerging technologies to diverse dispersed locations throughout the state?
+5a.
+Please explain your experiences:
+6.
+Do you have the ability to lead team members who are assigned to one or more locations in the state?
+6a.
+Please explain your experineces
+7.
+Do you have knowledge of, and skill in applying the principles and methods for planning, updating, and integrating information system components, including software, controlling future releases, and documenting information and physical characteristics of an information system or product?
+7a.
+Please explain your experiences:
+8.
+Do you have skill in troubleshooting problems in the data center and implementing changes on multifaceted and interdependent computer platforms?
+8a.
+Please explain your experinces:
+9.
+Do you have skill in programming sufficient to modify application code, devise software patches or workarounds, document problems and advise the responsible vendor or other outside party on support issues?
+9a.
+Please explain your experiences:
+10.
+Do you have skill in analyzing requests for new and modified applications with expert ability in system design, programming, hardware selection and adapting commercially available software?
+10a.
+Please explain your experiences:
+11.
+Do you have knowledge of and skill in applying storage management practices and assignment of resources and file management techniques?
+11a.
+Please explain your experiences:
+12.
+Do you have skill in using performance tuning tools and techniques to optimize systems functionality in order to meet installation systems requirements.
+12a.
+Please explain your experiences:
+13.
+Do you have knowledge of the techniques and practices to implement fault tolerance on a diverse number of complex systems and applications in order to optimize functionality and service to the customer base?
+13a.
+Please explain your experiences:
+14.
+Do you have knowledge of system diagnostic tools and structured techniques for the recovery of failed systems and data access?
+14a.
+Please explain your experiences:
+15.
+Do you have knowledge of analysis and design techniques to develop system software modifications, systems administration policy and procedures for use across the organization?
+15a.
+Please explain your experinces:
+.
+INSTRUCTIONS: The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+16.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+16a.
+Provide a concrete example from professional, academic, or personal experience.
+17.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+17a.
+Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+18.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+18a.
+Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation
+19.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples and explain how those qualities would enable you to serve effectively in this position.
+20.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes, I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ No, I do not certify/understand the information provided above.
+21.
+I certify that, to the best of my knowledge and belief, all of the information included in this questionnaire is true, correct and provided in good faith. I understand that if I make an intentional false statement or commit deception or fraud in this application or its supporting materials, or in any document or interview associated with the examination process, I may be fined or imprisoned (18 U.S.C 1001); my eligibilities may be canceled; I may be denied an appointment; or I may be removed and debarred from Federal Service (5 C.F.R Part 731). I understand that any information I give may be investigated. I understand that responding "No" to this item will result in my not being considered for this position.
+ Yes, I certify that the information provided in this questionnaire is true, correct and provided in good faith, and I understand the information provided above.
+ No, I do not certify/understand the information provided above.
