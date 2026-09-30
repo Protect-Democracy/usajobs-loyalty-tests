@@ -1,0 +1,55 @@
+Position Title
+Information Technology Specialist (INFOSEC)
+Agency
+Federal Trade Commission
+Announcement Number
+DH-13054878-26-OCIO
+Open Period
+Sep 30, 2026 to Oct 14, 2026
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+2.
+Are you a veteran who separated from active duty under honorable conditions AND you: • have a rating by the Department of Veterans Affairs showing a compensable service-connected disability of 30% or more; OR, • are retired from active military service with a service-connected disability rating of 30% or more? For more information, review USAJOBS Veterans Resources. To verify your eligibility, you must submit a copy of your latest Certificate of Release or Discharge from Active Duty, DD-214 (copy indicating character of service) or other proof of your service which includes character of service. You must also submit the disability letter from the Department of Veterans Affairs or Armed Service and the Application for 10-Point Veteran Preference, Standard Form 15.
+ Yes
+ No
+3.
+Do you have a severe physical, psychiatric or mental disability that qualifies you for a Schedule A Disability appointment? For more information, review USAJOBS Individuals with Disabilities resources . To verify your eligibility, you must provide appropriate medical documentation, i.e., a letter signed by a licensed medical professional or licensed vocational rehabilitation specialist stating your condition and restrictions.
+ Yes
+ No
+Preferences
+.
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+3.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+OCIO IT Spec 9
+.
+Thank you for your interest in the Information Technology Specialist (INFOSEC) (GS-2210-9) position at our agency. We will evaluate your resume and your responses to this Assessment Questionnaire to determine if you are among the best qualified for this position. Your responses are subject to verification. Please review your responses for accuracy before you submit this questionnaire.
+1.
+Choose the one answer that best describes how you meet the basic qualification requirements for an IT Specialist (Information Security) GS-2210-09 as described in the Qualifications Section of the Vacancy Announcement.
+ I qualify for this position at the GS-09 level because I have completed a Master's or equivalent graduate degree in computer science, engineering, information science, information systems management, mathematics, operations research, statistics, or technology management OR a degree that provided a minimum of 24 semester hours in one or more of the fields identified above and required the development or adaptation of applications, systems or networks, or 2 full years of progressively higher level graduate education leading to a Master's degree or equivalent graduate degree in one of the above disciplines.
+ I qualify for this position at the GS-09 level because I have IT related experience demonstrated by paid or unpaid experience obtained in either the private or public sector, and/or completion of specific, intensive training that demonstrates that I possess each of the following four competencies: 1. Attention to Detail- is thorough when performing work and conscientious about attending to detail; 2. Customer Service- Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services; 3. Oral Communication- Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately; 4. Problem Solving- identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations. In addition, I have 1 year of this specialized experience is equivalent to the GS-07 level in the Federal service obtained in either the private or public sector typically gained in the IT field or through performing IT related tasks such as: Performing IT-related tasks such as: assisting with research on security vulnerabilities and threats; personal responsibility for at least a segment of the overall project to develop recommendations and plans to minimize risks associated with vulnerabilities; identifying and evaluating new security technologies; promoting awareness of security issues among management, staff, and the public, and ensuring security principles are reflected in policies; and/or supporting the gathering, analysis, and preservation of evidence used in the investigation or prosecution of computer fraud or other computer crimes.
+ My experience and/or education do not match the choices above.
+.
+As previously explained, your responses in this Assessment Questionnaire are subject to evaluation and verification. Later steps in the selection process are specifically designed to verify your responses. Deliberate attempts to falsify information will be grounds for disqualifying you or for dismissing you from employment following acceptance. Please take this opportunity to review your responses to ensure their accuracy. If you fail to answer this question, you will be disqualified from consideration for this position.
+2.
+I certify that, to the best of my knowledge and belief, all of the information included in this questionnaire is true, correct, and provided in good faith. I understand that if I make an intentional false statement, or commit deception or fraud in this application and its supporting materials, or in any document or interview associated with the examination process, I may be fined or imprisoned (18 U.S.C. 1001); my eligibilities may be cancelled, I may be denied an appointment, or I may be removed and debarred from Federal service (5 C.F.R. part 731). I understand that any information I give may be investigated. I understand that responding "No" to this item will result in my not being considered for this position.
+ Yes, I certify that the information provided in this questionnaire is true, correct and provided in good faith, and I understand the information provided above.
+ No, I do not certify/understand the information provided above.
