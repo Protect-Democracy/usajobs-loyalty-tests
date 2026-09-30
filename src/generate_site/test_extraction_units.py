@@ -190,6 +190,23 @@ def test_blacklisted_usastaffing_link_counts_only_for_its_own_posting():
         r.fetch_usastaffing_questionnaire_json = original
 
 
+def test_possible_variants_flags_rewordings_with_full_question():
+    import refresh_open_questionnaires as r
+    exact_eo = ("3.\nHow would you help advance the President's Executive Orders and policy priorities in this role? "
+                "Identify one or two.\n4.\nNext")
+    exact_q5 = ("This position supports DOE's mission and current priorities, including X. Describe how your skills "
+                "and experience would help the agency advance those priorities in this role.")
+    assert r.possible_variants(exact_eo) == ''
+    assert r.possible_variants(exact_q5) == ''
+    assert r.possible_variants('Describe your experience coordinating grant programs with state officials.') == ''
+    singular = "3.\nHow would you help advance the President's Executive Order and policy priorities in this role? Identify one.\n4.\nNext"
+    assert r.possible_variants(singular) == ("Executive Orders question: How would you help advance the President's "
+                                             "Executive Order and policy priorities in this role? Identify one.")
+    assert r.possible_variants("How will your work advance the Administration&rsquo;s priorities?").startswith('Executive Orders question: ')
+    q5 = "This role supports the Department's current priorities, including energy dominance. How would your experience help?"
+    assert r.possible_variants(q5) == 'Question 5: ' + q5
+
+
 def test_ann_match_returns_true_when_present():
     txt = ('Position Title\nDental Assistant\n'
            'Announcement Number\nOCA-FY25-0681-DentalAsst3 Opens in new window\n')
@@ -308,6 +325,7 @@ def test_derived_row_has_no_raw_descriptor():
 
 
 TESTS = [
+    test_possible_variants_flags_rewordings_with_full_question,
     test_blacklisted_usastaffing_link_counts_only_for_its_own_posting,
     test_old_question_matched_through_html_entities,
     test_questionnaire_json_to_text_renders_questions_and_header,

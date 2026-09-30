@@ -61,10 +61,29 @@ NEW_WORDING = re.compile(r"professionally and efficiently implement executive di
 # priorities in this role." Match the fixed parts, since the brackets get filled in per agency.
 QUESTION_5 = re.compile(r"mission and current priorities|help the agency advance those priorities", re.IGNORECASE)
 
+# Looser phrases for each tracked question. A questionnaire that hits one of these but not
+# the exact wording above may use a reworded version, so its full question text is saved as
+# possible_variant for a person to judge. (Checked 2026-09-30: every questionnaire with the
+# exact Executive Orders wording hits all of the first four; no open questionnaire hit any
+# phrase without the exact wording.)
+VARIANT_PHRASES = [
+    ('Executive Orders question', LOYALTY_Q, re.compile(
+        r"Executive\s+Orders?\W+and\W+policy\s+priorities"
+        r"|policy\s+priorities\s+in\s+this\s+role"
+        r"|advance\s+the\s+President"
+        r"|President\W{0,3}s\s+Executive\s+Orders?"
+        r"|(?:President|Administration)\W{0,3}s\s+(?:policy\s+)?(?:priorities|agenda)", re.IGNORECASE)),
+    ('Question 5', QUESTION_5, re.compile(
+        r"current\s+priorities,?\s+including"
+        r"|agency[-\s]wide\s+priorities"
+        r"|advance\s+(?:those|its|the\s+agency\W{0,3}s)\s+priorities"
+        r"|mission\s+and\s+(?:current\s+)?priorities", re.IGNORECASE)),
+]
+
 STATUS_COLUMNS = [
     'questionnaire_url', 'usajobs_control_numbers', 'fetch_status',
     'has_loyalty_q', 'has_new_wording', 'has_question_5',
-    'text_sha1', 'text_file', 'last_changed_date',
+    'text_sha1', 'text_file', 'last_changed_date', 'possible_variant',
 ]
 LOG_COLUMNS = [
     'date', 'questionnaire_url', 'change',
@@ -74,6 +93,33 @@ LOG_COLUMNS = [
 # If fewer than this share of fetches succeed, something is wrong (e.g. we're
 # being blocked) and the previous state is kept rather than overwritten.
 MIN_OK_SHARE = 0.5
+
+
+def possible_variants(text):
+    """Full text of any question that looks like a tracked question but doesn't match its
+    exact wording, as 'Executive Orders question: <text>' (several joined by ' || ')."""
+    text = html.unescape(text)
+    found = []
+    for label, exact, loose in VARIANT_PHRASES:
+        if exact.search(text):
+            continue
+        m = loose.search(text)
+        if not m:
+            continue
+        # The whole question: its line if the text has one question per line, otherwise
+        # from the previous question's end to this one's question mark.
+        line_start = text.rfind('\n', 0, m.start()) + 1
+        line_end = text.find('\n', m.end())
+        line_end = len(text) if line_end == -1 else line_end
+        if line_end - line_start <= 1200:
+            snippet = text[line_start:line_end]
+        else:
+            start = max(text.rfind('?', 0, m.start()) + 1, m.start() - 600)
+            end = text.find('?', m.end())
+            end = min(len(text), (end + 1 if end != -1 else m.end() + 400), m.end() + 600)
+            snippet = text[start:end]
+        found.append(f'{label}: ' + ' '.join(snippet.split()))
+    return ' || '.join(found)
 
 
 def flags(text):
@@ -119,7 +165,10 @@ def write_open_postings(jobs, status, path):
     per_q['usajobs_control_number'] = per_q['usajobs_control_number'].astype('int64')
     flag_cols = ['has_loyalty_q', 'has_new_wording', 'has_question_5']
     per_job = per_q.groupby('usajobs_control_number')[flag_cols].agg(lambda col: (col == 'True').any())
+    per_job['possible_variant'] = per_q.groupby('usajobs_control_number')['possible_variant'].agg(
+        lambda col: ' || '.join(sorted({v for v in col if v})))
     out = jobs.merge(per_job, left_on='usajobs_control_number', right_index=True, how='left')
+    out['possible_variant'] = out['possible_variant'].fillna('')
     out['questionnaire_found'] = out['has_loyalty_q'].notna()
     for col in flag_cols:
         out[col] = out[col].map({True: 'True', False: 'False'}).fillna('')
@@ -129,7 +178,7 @@ def write_open_postings(jobs, status, path):
     out['position_close_date'] = out['position_close_date'].dt.strftime('%Y-%m-%d')
     out = out.sort_values('usajobs_control_number')[[
         'usajobs_control_number', 'hiring_agency', 'position_title', 'position_open_date', 'position_close_date',
-        'questionnaire_found', *flag_cols, 'usajobs_link']]
+        'questionnaire_found', *flag_cols, 'usajobs_link', 'possible_variant']]
     out.to_csv(path, index=False)
     return out
 
@@ -242,6 +291,9 @@ def main():
                 'text_file': prev['text_file'] if prev else (str(stored) if stored else ''),
                 'last_changed_date': prev['last_changed_date'] if prev else '',
             })
+            last_text = Path(row['text_file']) if row['text_file'] else None
+            row['possible_variant'] = (possible_variants(last_text.read_text(encoding='utf-8', errors='ignore'))
+                                       if last_text and last_text.exists() else '')
             rows.append(row)
             continue
 
@@ -271,7 +323,8 @@ def main():
             text_file = prev['text_file'] if prev else str(stored)
             last_changed = prev['last_changed_date'] if prev else ''
         row.update({k: str(v) for k, v in now.items()})
-        row.update({'text_sha1': sha, 'text_file': text_file, 'last_changed_date': last_changed})
+        row.update({'text_sha1': sha, 'text_file': text_file, 'last_changed_date': last_changed,
+                    'possible_variant': possible_variants(text)})
         rows.append(row)
 
     status = pd.DataFrame(rows, columns=STATUS_COLUMNS)
@@ -294,6 +347,7 @@ def main():
         'with_question_5': int((status['has_question_5'] == 'True').sum()),
         'open_postings_with_loyalty_q': int((postings['has_loyalty_q'] == 'True').sum()),
         'open_postings_with_question_5': int((postings['has_question_5'] == 'True').sum()),
+        'open_postings_with_possible_variant': int((postings['possible_variant'] != '').sum()),
     }
     (out_dir / 'last_run.json').write_text(json.dumps(summary, indent=2) + '\n')
     print(json.dumps(summary, indent=2))

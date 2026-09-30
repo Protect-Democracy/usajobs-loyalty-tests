@@ -5,10 +5,11 @@
   "fetched_ok": 13224,
   "failed": 0,
   "skipped_blocked_domain": 81,
-  "changed_today": 68,
+  "changed_today": 87,
   "with_loyalty_q": 585,
   "with_new_wording": 3754,
   "with_question_5": 0,
   "open_postings_with_loyalty_q": 509,
-  "open_postings_with_question_5": 0
+  "open_postings_with_question_5": 0,
+  "open_postings_with_possible_variant": 0
 }
