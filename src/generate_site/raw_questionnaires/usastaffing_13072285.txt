@@ -1,0 +1,86 @@
+Position Title
+Interdisciplinary
+Agency
+U.S. Army Medical Command
+Announcement Number
+EU HU-26-13072285-DHA
+Open Period
+Sep 30, 2026 to Oct 07, 2026
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+Preferences
+1.
+Select the series you want to be considered for. You must choose at least one series.
+ 0403 - Microbiology
+ 1301 - General Physical Science
+ 1320 - Chemistry
+Conditions of Employment
+.
+This position has requirements which must be met prior to employment, and conditions for continued employment. Your answers to the questions in this section will indicate your understanding of, or possession of, these requirements and conditions.
+1.
+Appointment to this position is subject to a background investigation to determine your suitability for Federal employment. Are you willing to submit the proper documentation to have a background investigation completed?
+ Yes
+ No
+2.
+This position requires the completion of a pre-employment Physical Examination and an annual examination thereafter to ensure the continued, required level of physical health & ability or fitness to perform the duties of the position. Are you willing to submit to a pre-employment physical and willing to maintain a level of physical fitness to obtain and maintain employment as required?
+ Yes
+ No
+3.
+This position has a requirement to lift up to 20 lbs. in the regular performance of duties. Are you willing and able to meet the lifting requirement?
+ Yes
+ No
+4.
+This position may have a potential exposure to odors, irritants or hazardous substances while in laboratory. Are you willing to potentially expose yourself to odors, irritants or hazardous substances while in the laboratory?
+ Yes
+ No
+Short Essay
+.
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+3.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+MQ HU HU652897 13072285 DHA
+.
+Thank you for your interest in an Interdisciplinary Microbiologist/Chemist/Physical Scientist position with Department of the Army. Your resume and the responses you provide to this assessment questionnaire will be used to determine if you are among the best qualified for this position. Your responses are subject to verification. Please review your responses for accuracy before you submit your application.
+1.
+Select the one statement that best describes the education that you possess that demonstrates your ability to perform the work of a Microbiologist (LIMS Administrator) at the GS-11 grade level or equivalent pay band in the Federal Service.
+ I have a bachelor’s degree (or higher degree) in microbiology; or biology, chemistry, or basic medical science that included at least 20 semester hours in microbiology and other subjects related to the study of microorganisms, and 20 semester hours in the physical and mathematical sciences combining course work in organic chemistry or biochemistry, physics, and college algebra, or their equivalent. (Note: You must attach a copy of your transcripts.)
+ I have a combination of education and experience which includes courses equivalent to a major in microbiology, biology, chemistry, or basic medical science that included courses as shown in A above (i.e. at least 20 semester hours in microbiology and other subjects related to the study of microorganisms, and 20 semester hours in the physical and mathematical sciences combining course work in organic chemistry or biochemistry, physics, and college algebra, or their equivalent), plus appropriate experience or additional education. (Note: You must attach a copy of your transcripts.)
+ I do not possess the education described above.
+2.
+Select the one statement that best describes the education that you possess that demonstrates your ability to perform the work of a Chemist (LIMS Administrator) at the GS-11 grade level or equivalent pay band in the Federal Service.
+ I have a bachelor’s degree (or higher degree) in the physical sciences, life sciences, or engineering which includes 30 semester hours in chemistry, supplemented by course work in mathematics through differential and integral calculus, and at least 6 semester hours of physics. (Note: You must attach a copy of your transcripts.)
+ I have a combination of education and experience which includes course work equivalent to a major in the physical sciences, life sciences, or engineering, including at least 30 semester hours in chemistry, supplemented by mathematics through differential and integral calculus, and at least 6 semester hours of physics, plus appropriate experience or additional education. (Note: You must attach a copy of your transcripts.)
+ I do not possess the education described above.
+3.
+Select the one statement that best describes the experience that you possess that demonstrates your ability to perform the work of a Physical Scientist (LIMS Administrator) at the GS-11 grade level or equivalent pay band in the Federal Service.
+ I have a bachelor’s degree (or higher degree) in physical science, engineering, or mathematics which included 24 semester hours in physical science and/or related engineering science such as mechanics, dynamics, properties of materials, and electronics. (Note: You must attach a copy of your transcripts.)
+ I have a combination of education and experience which includes courses equivalent to one of the majors, as shown in A above, that included at least 24 semester hours in physical science and/or related engineering science, plus appropriate experience or additional education. (Note: You must attach a copy of your transcripts.)
+ I do not possess the education described above.
+4.
+Select the one statement that best describes the experience and/or education that you possess that demonstrates your ability to perform the work of Interdisciplinary Microbiologist/Chemist/Physical Scientist at the GS-11 grade level or equivalent pay band in the Federal Service.
+ I have one year of specialized experience which includes: 1) implementing and evaluating Commercial Off-The-Shelf (COTS) Laboratory Information Management Systems (LIMS) in an ISO/IEC 17025 accredited environment; 2) ensuring data integrity through developing instrument transfer protocols and resolving data quality issues; 3) analyzing system requirements to resolve complex data reporting problems; AND 4) collaborating with laboratory and IT personnel to align system functionality with user requirements.
+ My experience or education is not reflected in the above statement.
+ I have a Ph.D. or equivalent doctoral degree or 3 full years of progressively higher level graduate education leading to such a degree in a field which demonstrates the knowledge, skills, and abilities necessary to do the work of the position.
+ I have a combination of education and experience may be used to qualify for this position as long as the computed percentage of the requirements is at least 100%. To compute the percentage of the requirements, divide your total months of experience by 12. Then divide the total number of completed graduate semester hours (or equivalent) beyond the second year (total graduate semester hours minus 36) by 18. Add the two percentages.
+5.
+Your responses to the Announcement and Assessment Questionnaires, along with your resume and all supporting documentation are subject to evaluation and verification to ensure accuracy. Please take this opportunity to review your responses to ensure their accuracy.
+ Yes, I verify that all of my responses to this questionnaire are true and accurate. I accept that if my supporting documentation and/or later steps in the selection process do not support one or more of my responses to the questionnaire that my application may be rated lower and/or I may be removed from further consideration
+ No, I do not accept this agreement and/or I no longer wish to be considered for this position.
