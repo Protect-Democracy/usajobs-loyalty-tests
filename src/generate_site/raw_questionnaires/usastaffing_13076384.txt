@@ -1,0 +1,113 @@
+Position Title
+Program Management Specialist
+Agency
+National Oceanic and Atmospheric Administration
+Announcement Number
+CAO-26-13076384-DE
+Open Period
+Oct 01, 2026 to Oct 07, 2026
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+2.
+Are you a current Department of Commerce employee who meets the definition of surplus or displaced definition of surplus or displaced from a position in the competitive service that makes you eligible under the Career Transition Assistance Plan (CTAP)? Note: You are required to submit supporting documentation as proof of eligibility. If yes, please confirm that you meet all the following eligibility requirements: This position is in the same local commuting area as the position of record from which you will be separated; and This position is at a grade level no higher than the grade of the position of record from which you will be separated; and This position has no greater promotion potential than the position of record from which you will be separated; and You have a current performance rating of record of at least fully successful or the equivalent; and You have not yet been separated.
+ Yes
+ No
+3.
+Are you a current or former employee of a Federal agency who meets the definition of surplus or displaced from a position in the competitive service from a Federal agency outside of the Department of Commerce that makes you eligible under the Interagency Career Transition Assistance Plan (ICTAP)? Note: You are required to submit supporting documentation as proof of eligibility. If yes , please confirm that you meet all the following eligibility requirements: This position is in the same local commuting area as the position of record from which you were separated; and This position is at a grade level no higher than the grade of the position of record from which you were separated; and This position has no greater promotion potential than the position of record from which you were separated; and Your last performance rating of record was at least fully successful or the equivalent; and You were separated from your position of record less than one (1) year ago.
+ Yes
+ No
+Merit Hiring Plan
+.
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+3.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+SE
+1.
+Select the statement that best describes your experience performing the work of a Program Management Specialist, ZA-0301-4 pay band or equivalent grade level (GS-13) in the Federal service.
+ I have at least one full year (52 weeks) of specialized experience equivalent to the next lower pay band (ZA-3) or GS-12 grade level in the Federal service which includes all of the following: Showing program management experience providing data to support real property reporting compliance; Advising internal and external stakeholders on policies or procedures related to operational and mission requirements; and Identifying organizational needs to manage current and out-year budget formulations.
+ I do not possess the experience described above.
+Job Knowledge Test
+1.
+When preparing a high-level briefing for executive leadership on multi-year repair priorities for a nationwide footprint, how should the planner structure the dataset to support rapid executive decision-making?
+ Provide unaggregated, raw spreadsheets containing itemized maintenance records for all 620 buildings.
+ Synthesize raw data into tiered investment options that clearly display total ROM costs, mission-risk reductions, deferred maintenance impacts, and NPV comparisons.
+ Present options based exclusively on regional administrative boundaries without displaying financial trade-offs.
+ Limit the briefing to facilities located within the contiguous United States, excluding territorial assets to simplify metrics.
+2.
+When translating Facility Condition Assessment (FCA) data into a 5-year budget formulation request, which method best accounts for asset degradation over time?
+ Assume facility condition indexes remain static over the 5-year period if no major storms occur.
+ Model deferred maintenance growth rates alongside projected inflation and compounding system deterioration to forecast realistic future capital requirements.
+ Multiply the current year's maintenance budget by a fixed 2% annual escalation factor without referencing asset condition data.
+ Submit budget requests covering only emergency repairs to reduce out-year budget documentation.
+3.
+When faced with an unfamiliar capital forecasting model or a new facility decision framework, which analytical approach demonstrates the readiness to master and manage enterprise-level portfolio planning?
+ Postpone capital planning activities until formal classroom training is made available by the vendor.
+ Reject new analytical models and rely entirely on historical spending patterns from previous fiscal years.
+ Break down the model's core inputs (e.g., FCI, ROM costs, NPV, mission risk), evaluate data dependencies, and cross-reference underlying policy guidelines to validate the framework's logic.
+ Pass raw regional data directly to contractors and accept their final recommendations without technical review.
+4.
+How does a capital planner effectively leverage contractor resources to execute complex portfolio analyses (such as FCAs, BCAs, and capital forecasting) across a national footprint?
+ Establish clear technical scopes of work, standardize evaluation methodologies, and provide government oversight to validate contractor analytical outputs and align recommendations with agency strategy.
+ Delegate final capital investment approval authority directly to contractor project managers.
+ Perform all data collection and mathematical forecasting independently without contractor involvement to ensure quality.
+ Allow contractor teams to independently determine which agency facilities will be inspected and prioritized each fiscal year.
+5.
+How should deferred maintenance data, Rough Order of Magnitude (ROM) repair costs, and Net Present Value (NPV) be integrated with "Risk to Mission" to establish portfolio-wide repair priorities across owned and leased assets?
+ Prioritize projects solely by the highest total ROM cost to ensure high-value funds are allocated first.
+ Weigh financial metrics (ROM cost, NPV, deferred maintenance backlog) against the criticality of the mission performed within the asset to score overall operational exposure.
+ Rank projects strictly by geographic region to ensure equal annual distribution of capital funds.
+ Exclude leased facilities from risk assessments since capital investments are managed under lessor agreements.
+6.
+In capital portfolio planning, what is the primary purpose of applying Net Present Value (NPV) calculations during the initial project scoping phase for a facility investment requirement?
+ To determine the exact invoice amount for contractor payment schedules in the current fiscal year.
+ To eliminate the need for Rough Order of Magnitude (ROM) cost estimates during budget formulation.
+ To discount future operational, maintenance, and recapitalization costs back to present-day dollars, allowing direct financial comparison between long-term lease, renovate, or replace alternatives.
+ To calculate the annual depreciation rate of real property for federal tax reporting.
+7.
+When developing an initial Rough Order of Magnitude (ROM) cost estimate for an emerging capital investment need across multiple geographically dispersed sites, which approach yields the most reliable early-stage planning figure?
+ Utilizing a single flat square-foot cost multiplier from a single local market across all national and territorial locations.
+ Applying parametric cost-estimating models adjusted for regional area cost factors, project scope complexity, historical benchmark data, and major risk contingencies.
+ Waiting until 100% complete design drawings and specifications are finalized before submitting any budget estimates.
+ Requesting informal price quotes from local building vendors without establishing a standardized scope of work.
+8.
+When conducting an Analysis of Alternatives (AoA) for a major investment requirement across a regional cluster of facilities, which combination of financial and technical evaluations best identifies the optimal investment strategy?
+ Conducting Net Present Value (NPV) analyses across full lifecycle costs, evaluating initial Rough Order of Magnitude (ROM) estimates, and weighing mission risk trade-offs for each option.
+ Selecting lease renewal in all instances to avoid capital recapitalization requirements on owned assets.
+ Comparing initial construction costs only and selecting the option with the lowest immediate upfront cost.
+ Base the decision strictly on the age of the primary facility without calculating lifecycle operation and maintenance expenses.
+9.
+When utilizing Facility Condition Assessment (FCA) data to forecast out-year capital requirements across a 620-building portfolio, which criteria best signal that a facility should transition from a major repair/renovation strategy to a full replacement strategy?
+ The facility exceeds 15 years of operational service, regardless of system conditions or maintenance history.
+ The regional facility manager submits a formal request for a modern exterior facade update.
+ Annual routine operational maintenance expenses increase by more than 5% in a single fiscal year.
+ Accumulated deferred maintenance combined with system degradation pushes the Facility Condition Index (FCI) past critical enterprise thresholds, where recurring repair costs exceed the net present value of recapitalization.
+10.
+When evaluating portfolio-wide investment needs across 620 owned and leased assets in the U.S. and territories, what key distinction must a capital planner maintain when forecasting long-term capital recapitalization versus lease action requirements?
+ Owned facilities require Business Case Analyses, whereas leased facilities require no economic analysis prior to agreement.
+ Leased facilities must always take funding priority over owned facilities regardless of asset condition or mission impact.
+ Owned facilities cannot be replaced or disposed of under federal real property guidelines.
+ Capital recapitalization on owned assets builds long-term equity and asset life, whereas leased asset investments must be evaluated against lease terms, prospectus thresholds, and landlord maintenance obligations.
+.
+Select “Yes” or “No” to the following question(s).
+11.
+I certify that I did not use a consultant or artificial intelligence tool (such as a large language model) to complete the responses above. To the best of my knowledge, all information provided in my application is true and accurate. I affirm that I have truthfully and accurately represented my work experience, knowledge, skills, abilities, and education. I understand that providing false or misleading information may result in disqualification from consideration or termination of employment if hired. I further certify that I have read the entire vacancy announcement, reviewed my responses to the eligibility questions for accuracy, and understand the requirements regarding supporting documentation, including what must be submitted and applicable deadlines.
+ Yes
+ No
