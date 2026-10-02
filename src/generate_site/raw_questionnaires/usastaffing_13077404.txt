@@ -1,0 +1,138 @@
+Position Title
+Cartographer
+Agency
+National Oceanic and Atmospheric Administration
+Announcement Number
+NOS OCS-26-13077404-DE
+Open Period
+Oct 02, 2026 to Oct 08, 2026
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+2.
+Are you a current Department of Commerce employee who meets the definition of surplus or displaced definition of surplus or displaced from a position in the competitive service that makes you eligible under the Career Transition Assistance Plan (CTAP)? Note: You are required to submit supporting documentation as proof of eligibility. If yes, please confirm that you meet all the following eligibility requirements: This position is in the same local commuting area as the position of record from which you will be separated; and This position is at a grade level no higher than the grade of the position of record from which you will be separated; and This position has no greater promotion potential than the position of record from which you will be separated; and You have a current performance rating of record of at least fully successful or the equivalent; and You have not yet been separated.
+ Yes
+ No
+3.
+Are you a current or former employee of a Federal agency who meets the definition of surplus or displaced from a position in the competitive service from a Federal agency outside of the Department of Commerce that makes you eligible under the Interagency Career Transition Assistance Plan (ICTAP)? Note: You are required to submit supporting documentation as proof of eligibility. If yes , please confirm that you meet all the following eligibility requirements: This position is in the same local commuting area as the position of record from which you were separated; and This position is at a grade level no higher than the grade of the position of record from which you were separated; and This position has no greater promotion potential than the position of record from which you were separated; and Your last performance rating of record was at least fully successful or the equivalent; and You were separated from your position of record less than one (1) year ago.
+ Yes
+ No
+Preferences
+1.
+Select the lowest grade you are willing to accept for this position.
+ 2
+ 3
+Merit Hiring Plan
+.
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+3.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+IOR & SE
+1.
+I meet the Individual Occupational Requirements for the Cartography series, 1370 because I have:
+ A degree in cartography; or a major that included or was supplemented by at least 30 semester hours in cartography and or directly related science, and related mathematics. Such coursework includes, but is not limited to cartography, astronomy, geodesy, photogrammetry, physical & geological oceanography, computer science, land surveying, geophysics, physical geography, and remote sensing. The 30 semester hours include at least 6, but no more than 15, semester hours of college level, non-business mathematics or statistics (i.e., college level algebra, trigonometry, calculus, or scientific mathematics or statistics requiring equivalent college-level courses as prerequisites).
+ Combination of education and experience: Courses equivalent to a major in cartography, or a major that included or was supplemented by at least 30 semester hours in cartography, and/or directly related science, and related mathematics, as shown in A above, plus appropriate experience or additional education.
+ I do not meet the Individual Occupational Requirements for the Cartography series, 1370.
+2.
+ZP-2: In addition to meeting the Individual Occupational Requirements, select the statement that best describes the education and/or experience that demonstrates your ability to perform the work of a Cartographer, ZP-1370-2 pay band or equivalent grade level (GS-07) in the Federal service.
+ I have at least one full year (52 weeks) of specialized experience equivalent to the next lower pay band (ZP-1) or GS-05 grade level in the Federal service which includes all of the following: Assisting in interpreting and applying cartographic data using geographic information system (GIS) software; and Contributing to the development of nautical charts using mapping data.
+ I have one full year of graduate-level education. (Note: You must attach a copy of your transcripts.)
+ I meet the criteria for a superior academic achievement demonstrated by a bachelor degree from an accredited college or university with one of the following: A grade point average (GPA) of 2.9 or higher based on a 4.0 scale for all completed undergraduate courses, or those completed in the last 2 full years of undergraduate study; A GPA of 3.5 or higher based on a 4.0 scale for required courses completed in a major field of study, or those courses completed in a major field of study during the last two years of undergraduate study; Class standing of upper third of the graduating class in the college, university, or major subdivision of the college; Membership in a national Scholastic Honor Society certified by the Association of College Honor Societies, excluding freshman honor societies. (Note: It is your responsibility to ensure your application clearly states how you meet one of these provisions.) You must attach a copy of your transcripts showing completed degree and, if applicable, proof of national Scholastic Honor Society membership.
+ I have a combination of graduate-level education and experience. (Note: You must attach a copy of your transcripts.)
+ I do not possess the education and/or experience described above.
+3.
+ZP-3: In addition to meeting the Individual Occupational Requirements, select the statement that best describes the education and/or experience that demonstrates your ability to perform the work of a Cartographer, ZP-1370-3 pay band or equivalent grade level (GS-11) in the Federal service.
+ I have at least one full year (52 weeks) of specialized experience equivalent to the next lower pay band (ZP-2) or GS-09 grade level in the Federal service which includes all of the following: Interpreting and applying cartographic and mapping data using geographic information system (GIS) software; Conducting research to resolve discrepancies between existing and new charting data; and Reviewing nautical charts for accuracy and compliance with applicable standards.
+ I have successfully completed 3 years of progressively higher level graduate education leading to a Ph.D. degree or Ph.D. or equivalent doctoral degree. (Note: You must attach a copy of your transcripts.)
+ I have a combination of education and experience as described above. (Note: You must attach a copy of your transcripts.)
+ I do not possess the education and/or experience described above.
+JKT
+1.
+When cartographers update nautical charts used by ships, why is it essential for them to evaluate both the depth accuracy and positional accuracy of new data?
+ To calculate the exact fuel cost for merchant ships
+ To estimate the speed of ocean currents in deep waters
+ To ensure commercial and recreational vessels can navigate safely without grounding
+ To determine the visual color palette for the printed chart
+2.
+What is the primary purpose of running specialized validation software on Electronic Navigational Charts (ENCs) before they are released?
+ To ensure the digital files meet international standards for quality and formatting
+ To compress the file size so it can be sent via text message
+ To convert the charts into 3D virtual reality simulations
+ To protect the chart files from being copied by commercial competitors
+3.
+When reviewing new cartographic source data from outside sources, which set of factors must a cartographer consider to determine if the data is trustworthy enough to update a nautical chart?
+ The author's academic degrees and the file's download speed
+ The geographic size of the survey area and the total cost of the mapping equipment
+ The type of software used to design the survey boat
+ The age of the data, positional accuracy, depth accuracy, potential safety impact, and provider reliability
+4.
+When comparing newly collected survey data with historical mapping records, what is the primary role of a cartographer when discrepancies arise?
+ Automatically delete all historical data to favor the newest file
+ Apply professional cartographic judgment to determine the best representation for safe navigation
+ Pause all charting until a new ocean survey can be commissioned
+ Change the legal maritime boundaries of the surrounding country
+5.
+Why must a cartographer understand both horizontal and vertical map projections and datums?
+ To write computer code for deep-sea research submarines
+ To measure the impact of light reflection on satellite cameras
+ To transform incoming raw mapping data into a consistent, standardized format for nautical charts
+ To accurately predict daily weather and tide patterns
+6.
+How do cartographers assist in legal cases involving maritime accidents or ship groundings?
+ By researching historical charting records, analyzing data, and preparing expert findings or testimony
+ By serving as criminal prosecutors in maritime court
+ By conducting physical salvage operations at the crash site
+ By issuing monetary fines to the vessel's captain
+7.
+What is the role of a senior cartographer when reviewing chart compilation work completed by team members or external contractors?
+ To grade the artistic style of the chart illustrations
+ To recalculate employee payroll based on chart accuracy
+ To verify completeness, accuracy, and compliance with official charting manuals
+ To sell the finalized chart files directly to commercial shipping companies
+8.
+When a cartographer encounters unique or non-standard mapping data that does not fit regular automated processes, what must they rely on to handle it?
+ Random guessing based on visual appearance
+ Standard internet search engines
+ Direct input from commercial vessel passengers
+ Professional judgment grounded in cartographic principles and established charting policies
+9.
+What is the purpose of maintaining strict product configuration management and metadata standards when managing mapping databases?
+ To track data history for effective quality control audits and legal research
+ To allow general public users to edit chart layers freely online
+ To reduce the memory space needed on ship computers
+ To prevent ships from using digital navigation screens
+10.
+Why are standard policies and procedures (such as those in specialized charting manuals) strictly followed when building navigational databases?
+ To make the charts look visually identical to traditional land road maps
+ To restriction chart access exclusively to government agencies
+ To ensure consistent quality, accuracy, and safety across all nautical charts produced for public and commercial use
+ To eliminate the need for cartographers to perform quality control checks
+11.
+How does a cartographer continuously ensure that nautical charts remain accurate over time as coastal environments change?
+ By redrawing entire charts from scratch every ten years
+ By interpreting, processing, and compiling ongoing updates into a national navigational database
+ By relying entirely on ship captains to report errors after an accident occurs
+ By freezing database edits once a chart reaches its initial release date
+.
+Select “Yes” or “No” to the following question(s).
+12.
+I certify that I did not use a consultant or artificial intelligence tool (such as a large language model) to complete the responses above. To the best of my knowledge, all information provided in my application is true and accurate. I affirm that I have truthfully and accurately represented my work experience, knowledge, skills, abilities, and education. I understand that providing false or misleading information may result in disqualification from consideration or termination of employment if hired. I further certify that I have read the entire vacancy announcement, reviewed my responses to the eligibility questions for accuracy, and understand the requirements regarding supporting documentation, including what must be submitted and applicable deadlines.
+ Yes
+ No

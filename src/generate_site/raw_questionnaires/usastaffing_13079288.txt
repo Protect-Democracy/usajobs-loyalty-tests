@@ -1,0 +1,181 @@
+Position Title
+Accountant
+Agency
+Veterans Health Administration
+Announcement Number
+CBSW-13079288-26-RR
+Open Period
+Oct 01, 2026 to Oct 08, 2026
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+2.
+Are you currently employed by the Department of Veterans Affairs? This includes: Career/Career Conditional or Excepted Service (i.e. Canteen, Hybrid, Title 38, etc. and meets interchange agreement requirements). This does not include temporary, term or temporary intermittent. To verify your eligibility , you must submit a copy of your most recent Notification of Personnel Action, Standard Form 50 (SF-50). Your SF-50 must include enough information to be able to determine that time-in-grade requirements have been met (if applicable) and include your position title, pay plan/series/grade, tenure and the type of appointment (i.e. Competitive or Excepted). Please be aware that award SF-50's do not always include this pertinent information.
+ Yes
+ No
+3.
+Are you an employee of the department/service line indicated for this position? This includes: Career/Career Conditional or Excepted Service (i.e. Canteen, Hybrid, Title 38, etc. and meets interchange agreement requirements). This does not include temporary, term or temporary intermittent. To verify your eligibility , you may be required submit a copy of your most recent Notification of Personnel Action, Standard Form 50 (SF-50). Please review the instructions in the announcement. Your SF-50 must include enough information to be able to determine that time-in-grade requirements have been met (if applicable) and include your position title, pay plan/series/grade, tenure and the type of appointment (i.e. Competitive or Excepted). Please be aware that award SF-50's do not always include this pertinent information.
+ Yes
+ No
+4.
+Are you an employee of the facility indicated for this position? This includes: Career/Career Conditional or Excepted Service (i.e. Canteen, Hybrid, Title 38, etc. and meets interchange agreement requirements). This does not include temporary, term or temporary intermittent. To verify your eligibility, you must submit a copy of your most recent Notification of Personnel Action, Standard Form 50 (SF-50). Your SF-50 must include enough information to be able to determine that time-in-grade requirements have been met (if applicable) and include your position title, pay plan/series/grade, tenure and the type of appointment (i.e. Competitive or Excepted). Please be aware that award SF-50's do not always include this pertinent information.
+ Yes
+ No
+5.
+Reasonable Accommodations for taking the online assessments are provided on a case-by-case basis only to qualified individuals with a disability covered by the Rehabilitation Act of 1973, as amended. Do you have a disability (physical or mental) that you believe will interfere with completing the online assessments and require a Reasonable Accommodation?
+ Yes
+ No
+6.
+Are you a veteran who separated from active duty under honorable conditions AND you: have a rating by the Department of Veterans Affairs showing a compensable service-connected disability of 30% or more; OR, retired from active military service with a service-connected disability rating of 30% or more? For more information, review USAJOBS Veterans resources. To verify your eligibility , you must submit a copy of your latest Certificate of Release or Discharge from Active Duty, DD-214 (copy indicating character of service) or other proof of your service which includes character of service. You must also submit the disability letter from the Department of Veterans Affairs or Armed Service and the Application for 10-Point Veteran Preference, Standard Form 15.
+ Yes
+ No
+7.
+Are you a current federal employee displaced from the agency hiring for this position? If yes, confirm: you are located in the same local commuting area of the vacancy; AND, you are applying to a specific vacancy at or below your current grade level with no greater promotion potential than your current position; AND , your last performance rating of record is at least fully successful or the equivalent. For more information, review the USAJOBS Help Center . To verify your eligibility , you must submit supporting documentation such as a Reduction in Force (RIF) separation notice or a Proposed Removal/Separation notice to include your latest performance rating (if the notice does not have this information included, you must submit a copy of your most recent performance appraisal) and a copy of your latest Notification of Personnel Action, Standard Form 50.
+ Yes
+ No
+8.
+Are you a current or former federal employee displaced from a position in a federal agency other than the Department of Veterans Affairs? If yes, confirm: you are located in the same local commuting area of the vacancy; AND, you are applying to a position that is at or below the grade level of the position from which you were or will be separated; AND, you are applying to a position that does not have greater promotion potential than the position from which you were or will be separated; AND, your last performance rating of record is at least fully successful or the equivalent. For more information, review the USAJOBS Help Center. To verify your eligibility , you must submit supporting documentation such as a Reduction in Force (RIF) separation notice to include your latest performance rating (if the notice does not have this information included, you must submit a copy of your most recent performance appraisal) and a copy of your latest Notification of Personnel Action, Standard Form 50.
+ Yes
+ No
+9.
+Do you have an intellectual disability, severe physical disability, or psychiatric disability that qualifies you for Schedule A Disability appointments? For more information, review USAJOBS Individuals with Disabilities resources. To verify your eligibility, you must provide appropriate medical documentation, i.e., a letter signed by a licensed medical professional or licensed vocational rehabilitation specialist, certifying your documented disability and eligibility under Schedule A.
+ Yes
+ No
+10.
+Do you have prior Career or Career-Conditional Service with the Federal Government? If so, you may be eligible for reinstatement . To verify your eligibility, you must submit a copy of your separation Notification of Personnel Action, Standard Form 50 (SF-50) or equivalent personnel action form reflecting your permanent, competitive status. Your separation SF-50 (or equivalent personnel action form) must reflect: career or career-conditional (Tenure field box 24. is 1 or 2); AND, your status in the competitive service (Position Occupied field box 34. is 1). highest grade previously held (Grade or Level field box 18.)
+ Yes
+ No
+11.
+Are you currently employed as a civilian employee in the competitive service in a federal agency other than the Department of Veterans Affairs? To verify your eligibility, you must submit a copy of your latest Notification of Personnel Action, Standard Form 50 (SF-50) or equivalent personnel action form reflecting your permanent, competitive status. Your SF-50 (or equivalent personnel action form) must reflect: career or career-conditional (Tenure field is 1 or 2); AND, your status is in the competitive service (Position Occupied field is 1) For more information visit here T5 Transfer
+ Yes
+ No
+Preferences
+1.
+Which of the following items describes your current or recent (within the last five years) political appointee service? If you responded yes to any of the items below, you will need to include a SF-50 specifying your prior service.
+ Yes, I am considered a political appointee as described under 5 U.S.C. sections 5312 through 5316.
+ Yes, I am considered a Non-career Senior Executive Service (SES), Limited Term SES, Limited Emergency SES Executive Branch employee.
+ Yes, I am considered a political Schedule A, Schedule C, or appointee who served in a political capacity under agency-specific authority in the Executive Branch.
+ Yes, I am considered a political appointee in the Executive Branch (as described in a., b. or c above) in a covered position in an agency having an interchange agreement with OPM, which allows movement from the agency's system to the competitive civil service.
+ None of the above. I am not considered a current or recent (last 5 years) political appointee as described above in items a, b, c, or d.
+.
+Beginning September 27, 2025, Federal agencies will only accept resumes up to two pages in length to comply with the Merit Hiring Plan. Resumes longer than two pages will result in ineligibility for further consideration for the position. USAJOBS will not allow you to upload or build resumes longer than two pages, and you will need to update the resumes in your profile before applying for a job. Resumes should include information relevant to the knowledge, skills, abilities, and competencies of the position to which you are applying. VA is unable to make assumptions about qualifications if not clearly listed. Resumes must be legible so they can be reviewed for eligibility, minimum qualifications and other position requirements listed in the job announcement. Your resume must be 5MB or less. We recommend saving and uploading your resume as a PDF to maintain formatting and number of pages. We also accept GIF, JPG, JPEG, PNG, RTF, TXT, PDF, ODT or Word (DOC or DOCX). We do not accept PDF portfolio files. We recommend using a sans-serif font size like Lato, if available. Other widely available options are Calibri, Helvetica, Arial, Verdana, Open San Source Sans Pro, Roboto or Noro Sans. Make your page margins 0.5 inches. Consider using 14-point size font for titles and 10-point for the main text in your resume. The resume builder can help you create a resume using these recommendations and uses the information in your USAJOBS profile to help you get started. Helpful Hints for Creating a Two-Page Resume: Prioritize most relevant and recent experience Use concise, results focused language Align language from the job announcement Focus on demonstrating skills and competencies Remove outdated or unrelated experience Use the USAJOBS resume builder Additional guidance on this new requirement and resume building tools can be found at: https://help.usajobs.gov/faq/application/documents/resume/page-limit https://www.opm.gov/policy-data-oversight/hiring-information/merit-hiring-plan-resources/applicant-guidance-on-the-two-page-resume-limit/ SPECIAL NOTE: Please make sure you review the Required Document section of the Job Opportunity Announcement for special instructions on resume/C.V. submissions.
+.
+By submitting your application, you are certifying, to the best of your knowledge and belief, all the information submitted by you with your application for employment is true, complete, and made in good faith, and that you have truthfully and accurately represented your work experience, knowledge, skills, abilities and education (degrees, accomplishments, etc.). The information you provide as part of your application may be investigated. You are also certifying, and acknowledging, that misrepresenting your experience or education, or providing false or fraudulent information in, or with your application, may affect your eligibility for appointment and/or continued employment. False or fraudulent statements may be punishable by fine or imprisonment (18 U.S.C. 1001).
+Accountant GS-0510-09
+.
+Thank you for your interest in the Accountant position with Department of Veterans Affairs. Your resume and the responses you provide to this assessment questionnaire will be used to determine if you are among the best qualified for this position. Your responses are subject to verification. Please review your responses for accuracy before you submit your application.
+.
+The following section is used to identify time-in-grade requirements for this vacancy. (Note: Time-in-Grade Restriction - Applicants who are current Federal employees and have held a GS grade anytime in the past 52 weeks must also meet time-in-grade requirements. Applicants must have held the GS-07 grade or higher for a year to meet the requirement for the GS-9 level of this vacancy. The grade may have been in any occupation but must have been held in the federal service. If you select "A" for your response below, please provide the positions' title, grade level, and dates (MM/DD/YY to MM/DD/YY that you held this position in your resume. For example: "Management Program Analyst, GS-343-7. Held this position from 10/01/06 to 10/01/07" OR "Management Analyst, GS-343-9, 04-22-08 until present." (Note: You must provide a copy of your most recent SF-50, "Notification of Personnel Action" at time of application)."
+1.
+From the descriptions below, please select the response that best reflects how you meet the time in grade requirement for the GS-09.
+ I have at least one-year time-in-grade at the GS-07 grade level.
+ This restriction does not apply to me (for example, i.e., I am a current, permanent Wage Grade employee.) NOTE: if the TIG restriction does not apply to you, you must still meet the minimum qualifications for this position.
+ I do not meet the time in grade needed for this position.
+.
+The assessment part of the questionnaire includes questions about basic requirements, minimum qualifications, and KSAs (knowledge, skills and abilities) related to this position. NOTE: If you are faxing your application and filling out the 1203-FX form, you may notice that the numbering restarts here with number one. When entering your responses on the 1203-FX form, please continue to enter your responses on the next available number within this section of the form.
+2.
+From the descriptions below regarding the Basic Requirement for this position, please select the response below.
+ I have a degree in accounting; or a degree in a related field such as business administration, finance, or public administration that included or was supplemented by 24 semester hours in accounting. The 24 hours may include up to 6 hours of credit in business law. (The term "accounting" means "accounting and/or auditing" in this standard. Similarly, "accountant" should be interpreted, generally, as "accountant and/or auditor."); (TRANSCRIPT REQUIRED to validate basic requirement).
+ I have a combination of education and experience. I have at least 4 years of experience in accounting, or an equivalent combination of accounting experience, college-level education, and training that provided professional accounting knowledge in of the following: Twenty-four semester hours in accounting or auditing courses of appropriate type and quality. This can include up to 6 hours of business law; A certificate as Certified Public Accountant or a Certified Internal Auditor, obtained through written examination; or Completion of the requirements for a degree that included substantial course work in accounting or auditing, e.g., 15 semester hours, but that does not fully satisfy the 24-semester-hour requirement of paragraph A, provided that (a) the applicant has successfully worked at the full-performance level in accounting, auditing, or a related field, e.g., valuation engineering or financial institution examining; (b) a panel of at least two higher level professional accountants or auditors has determined that the applicant has demonstrated a good knowledge of accounting and of related and underlying fields that equals in breadth, depth, currency, and level of advancement that which is normally associated with successful completion of the 4-year course of study described in paragraph A; and (c) except for literal nonconformance to the requirement of 24 semester hours in accounting, the applicant's education, training, and experience fully meet the specified requirements. (Transcript Required to validate basic requirement)
+ I do not meet the basic requirement for this position.
+.
+This section includes questions about the minimum qualifications for this vacancy.
+3.
+From the descriptions below, please select the response that best reflects your level of experience and/or education for GS-09.
+ I have at least one year of specialized experience that equipped me with knowledge, skills, and abilities (KSAs) to successfully perform the duties of the position, and that is typically in or related to the position to be filled. (To be creditable, the specialized experience must have been at the GS-09 grade level or higher, or an equivalent level of responsibility. Examples of creditable specialized experience includes but is not limited to: Knowledge to analyze accounting systems analytical techniques to solve a variety of accounting problems. Knowledge and skills to maintain an accounting system. Advises management on regulatory requirements, financial policies, the interpretation of data. Knowledge of program improvement through analysis of program operations and monthly reports. Skills in providing staff direction and guidance in the development and implementation on of procedures of an automated accounting system. Develop policies with respect to accounting program. Skills to develop and monitor local accounting internal control program. [Experience must be demonstrated in the resume to be creditable]).
+ I have a Ph.D. or equivalent doctoral degree OR 3 full years of progressively higher-level graduate education leading to such a degree or LL.M., if related.
+ I have the specialized experience as described in A, but less than one year; and I have more than one year but less than the required education in B. I have computed the percentage of the requirements that I meet, and the total is at least 100% (To compute the percentage, divide your total months of qualifying experience by 12. Then divide your semester hours of graduate education beyond the first year (total graduate semester hours minus 18) by 18. Add the two percentages. The total percentage must equal at least 100 percent to qualify. (Note: you must attach a copy of your transcripts.)
+ I do not possess the experience/education described above.
+.
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+4.
+Must be vigilant in terms of accuracy, timeliness and reporting requirements of various assigned accounting functions. The incumbent is responsible for assisting in the prioritization of the work assignments of the Accounting Technicians and assists in the training of the accounting staff. Instructs lower level technicians on correct procedures and assists in training new employees.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+5.
+Distributes and balances workload among Accounting Technicians, assuring timely completion of work and assuring that each accounting Technician has sufficient workload. Informs supervisor of unusual problems that may arise such as emergency requests, backlogs that cannot be worked promptly and erroneous documents received for processing.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+6.
+The incumbent is responsible for assisting in training of new accounting staff and is thoroughly familiar with all the staff duties and must have a deeper knowledge of the many and diversified computer systems of accounting. Makes available written instructions, reference materials, and supplies for training needs.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+7.
+Reports to Supervisor on performance, progress and training needs of Accounting Technicians, and on behavior problems. Responds to questions and resolves accounting problems experienced by the Accounting Team staff. This is not limited to assisting in processing accounting rejects from accounting systems. Assesses problem areas and suggests chances to improve the overall VASNHS accounting system and structure.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+8.
+Assists in setting up procedures, processes and a monitoring and reporting system to assure that all day to day accounting workload is completed. Answers questions of Accounting Technicians and other Fiscal Service employees on procedures, policies, directives, etc. and obtains information or decisions from Supervisor on formal issues problems.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+9.
+Responsible for the maintaining and controlling accounts and accounting transactions in a highly complex finance and accounting system. Incumbent maintains and inputs data into the Financial Management System (FMS) integrated and automated double entry accrual based accounting system. This system includes a comprehensive cost accounting system for all appropriated funds as well as accounting for capitalization of assets, liabilities, and computation of accruals, classification of costs to the general ledger, operation ledger and subsidiary ledger.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+10.
+Conducts substantial research of current accounts, historical data, source documents, etc., to develop and explain detailed information not otherwise readily available. Analyzes and summarizes data from systems, documents, and reports. Identifies significant changes and determines related transactions and causes. Identifies trends, discrepancies, and patterns for further analysis by accountants. Makes suggestions for action. Performs other similar activities, and provides interpretations and suggestions based on a good working knowledge of accounting systems.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+11.
+Technical advisor for all accounting transactions, the incumbent is responsible for transfer pricing between medical centers. This includes processing FMS-EB transactions from other VA medical centers that provide services for VASNHS. In addition, processes and provides billing documentation for FMS-EB transactions for services that the VASNHS provides to other VA medical centers.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+12.
+Performs the more difficult monthly reconciliations of the general ledger and subsidiary accounts to assure that the basic accounting data and the computerized and manual reports are in balance. Takes corrective action to bring reports and listing into balance, verifies corrected copy, and recommends changes in procedure to prevent a recurrence of the problems.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+13.
+Assists in implementing and maintaining proper internal control requirements to protect against waste, fraud, and abuse. Ensures accuracy, propriety, and legality of control procedures for maintaining accounting systems integrity and controlling accounting data.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+14.
+Prepares journal vouchers, transfers between government agencies, inter-office transfer vouchers and expenditure transfers. Processes cost transfer adjustments between specified cost centers so that accurate costs are charged to the appropriate functional area. processes monthly accruals. Works to clear suspense timely each month with CPAC, payroll etc. Assists Accounting Technicians with proper procedures for the maintenance of the General Ledger accounts.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+15.
+Examines problem areas to determine causes and recommends solutions to correct deficiencies and controls to prevent recurrence. Develops proposed changes to operating instructions involving accounting and reporting procedures to prevent recurring discrepancies.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.

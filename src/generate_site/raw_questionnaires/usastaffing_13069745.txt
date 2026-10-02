@@ -1,0 +1,195 @@
+Position Title
+Physician (Medical Officer) - Direct Hire
+Agency
+Bureau of Prisons/Federal Prison System
+Announcement Number
+DHA-27-0004
+Open Period
+Oct 01, 2026 to Sep 30, 2027
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+2.
+Are you a current or former federal employee displaced from the Department of Justice? The Career Transition Assistance Plan (CTAP) is an intra-agency program that helps surplus or displaced federal employees improve their chances of finding a new job in their agency, by giving them selection priority over other applicants, as long as they're qualified for the job. To be eligible under CTAP you must meet all of the following: You are located in the same local commuting area of this vacancy; AND You are applying to a position that is at (or below) the grade level of the position from which you were (or will) be separated from; AND You are applying to a position that does not have greater promotion potential than the position from which you were (or will be) separated from; AND Your last performance rating of record is at least fully successful, or the equivalent. To verify your eligibility: You must submit appropriate supporting documentation, such as a Reduction in Force (RIF) separation notice or a Proposed Removal/Separation notice to include your latest performance rating (if the notice does not have this information included, you must submit a copy of your most recent performance appraisal) and a copy of your latest Notification of Personnel Action (SF-50). For more information, review the USAJOBS Help Center .
+ Yes
+ No
+3.
+Are you an employee that was involuntarily separated from another agency due to a reduction-in-force (RIF)? The Interagency Career Transition Assistance Plan (ICTAP) is an interagency program that helps "surplus" or "displaced" federal employees improve their chances of finding a new job at another agency (not their current or former agency), by giving these employees selection priority over other applicants from outside the agency. You may be eligible for ICTAP if: You are a current federal employee who meets the definition of a "surplus" or "displaced employee—you've received official notice that your job is no longer needed or that you will lose your job by Reduction-in-Force (RIF); AND The agency you're applying to is accepting applications from outside of their workforce; AND The job you're applying to is in the local commuting area; AND You are applying to a position that does not have greater promotion potential than the position from which you were separated from; AND You meet the qualifications and other requirements of the job you're applying for. For example, if you work for the Department of Defense and receive a Reduction in Force (RIF) separation notice, you can apply for a competitive service job in the local commuting area at the Department of Justice. To verify your eligibility: You must submit appropriate supporting documentation such as a Reduction in Force (RIF) separation notice to include your latest performance rating (if the notice does not have this information included, you must submit a copy of your most recent performance appraisal) and a copy of your latest Notification of Personnel Action (SF-50). For more information, review the USAJOBS Help Center .
+ Yes
+ No
+Preferences
+1.
+Select the location(s) you want to be considered for. You must choose at least one location.
+ FCI ALICEVILLE, Aliceville, AL
+ FPC MONTGOMERY, Maxwell AFB, AL
+ FCI TALLADEGA, Talladega, AL
+ FCI PHOENIX, Phoenix, AZ
+ FCI SAFFORD, Safford, AZ
+ FCC TUCSON, Tucson, AZ
+ FCC FORREST CITY, Forrest City, AR
+ USP ATWATER, Atwater, CA
+ FCI HERLONG, Herlong Sierra Ordnance Depot, CA
+ FCC LOMPOC, Lompoc, CA
+ MDC LOS ANGELES, Los Angeles, CA
+ FCI MENDOTA, Mendota, CA
+ MCC SAN DIEGO, San Diego, CA
+ FCC VICTORVILLE, Victorville, CA
+ FCC FLORENCE, Florence, CO
+ FCI ENGLEWOOD, Littleton, CO
+ FCI DANBURY, Danbury, CT
+ FCC COLEMAN, Coleman, FL
+ FCI MARIANNA, Marianna, FL
+ FCI MIAMI, Miami, FL
+ FDC MIAMI, Miami-Dade County, FL
+ FCI TALLAHASSEE, Tallahassee, FL
+ FCI ATLANTA, Atlanta, GA
+ FCI JESUP, Jesup, GA
+ FDC HONOLULU, Honolulu, HI
+ MCC CHICAGO, Chicago, IL
+ FCI GREENVILLE, Greenville, IL
+ FCI MARION, Marion, IL
+ FCI PEKIN, Pekin, IL
+ FCI THOMSON, Thomson, IL
+ FCC TERRE HAUTE, Terre Haute, IN
+ FCI LEAVENWORTH, Leavenworth, KS
+ FCI ASHLAND, Ashland, KY
+ USP BIG SANDY, Inez, KY
+ FMC LEXINGTON, Lexington, KY
+ FCI MANCHESTER, Manchester, KY
+ USP MCCREARY, Pine Knot, KY
+ FCC OAKDALE, Oakdale, LA
+ FCC POLLOCK, Pollock, LA
+ FCI CUMBERLAND, Cumberland, MD
+ FMC DEVENS, Fort Devens, MA
+ FCI MILAN, Milan, MI
+ FSL DULUTH, Duluth, MN
+ FMC ROCHESTER, Rochester, MN
+ FCI SANDSTONE, Sandstone, MN
+ FCI WASECA, Waseca, MN
+ FCC YAZOO CITY, Yazoo City, MS
+ USMCFP SPRINGFIELD, Springfield, MO
+ FCI BERLIN, Berlin, NH
+ FCI FAIRTON, Fairton, NJ
+ FCI FORT DIX, Fort Dix, NJ
+ MDC BROOKLYN, Kings, NY
+ FCI OTISVILLE, Otisville, NY
+ FCI RAY BROOK, Ray Brook, NY
+ FCC BUTNER, Butner Federal Correctional Complex, NC
+ FCI ELKTON, Elkton, OH
+ FCI EL RENO, El Reno, OK
+ FTC OKLAHOMA CITY, Oklahoma City, OK
+ FCI SHERIDAN, Sheridan, OR
+ FCC ALLENWOOD, Gregg Township, PA
+ FCI LEWISBURG, Kelly Township, PA
+ FCI MCKEAN, Lewis Run, PA
+ FCI LORETTO, Loretto, PA
+ FCI SCHUYLKILL, Minersville, PA
+ FDC PHILADELPHIA, Philadelphia, PA
+ USP CANAAN, Waymart, PA
+ MDC GUAYNABO, Guaynabo, PR
+ FCI BENNETTSVILLE, Bennettsville, SC
+ FCI EDGEFIELD, Edgefield, SC
+ FCI ESTILL, Estill, SC
+ FCI WILLIAMSBURG, Salters, SC
+ FPC YANKTON, Yankton, SD
+ FCI MEMPHIS, Memphis, TN
+ FCI BASTROP, Bastrop, TX
+ FCC BEAUMONT, Beaumont, TX
+ FPC BRYAN, Bryan, TX
+ FMC CARSWELL, Federal Medical Center Carswell, TX
+ FMC FORT WORTH, Fort Worth, TX
+ FDC HOUSTON, Houston, TX
+ FCI SEAGOVILLE, Seagoville, TX
+ FCI TEXARKANA, Texarkana, TX
+ FCI THREE RIVERS, Three Rivers, TX
+ USP LEE, Jonesville, VA
+ FCC PETERSBURG, Prince George, VA
+ FDC SEATAC, Seatac, WA
+ FPC ALDERSON, Alderson, WV
+ FCI BECKLEY, Beaver, WV
+ FCC HAZELTON, Bruceton Mills, WV
+ FCI GILMER, Glenville, WV
+ FSL MORGANTOWN, Morgantown, WV
+ FCI MCDOWELL, Welch, WV
+ FCI OXFORD, Grand Marsh, WI
+ Location Negotiable After Selection, United States
+2.
+Select the lowest grade you are willing to accept for this position.
+ 13
+ 14
+ 15
+3.
+Please choose the answer that best describes your status as a veteran:
+ I am not a veteran
+ I was separated from the armed forces under honorable conditions after completing a continuous tour of duty of 3 years or was released just short of 3 years.
+ I did not serve at least 180 days on active duty but was discharged or released from active duty for a service-connected disability within the last 10 years.
+ I did not serve at least 180 days on active duty but was a Reserve or National Guard member ordered to active duty during a period of war, campaign or expedition for which a campaign badge was authorized.
+4.
+Displaced Employee Information (Select one of the following):
+ I am an employee of the Department of Justice who has been declared surplus or has received a Reduction in Force (RIF) separation notice or a notice of proposed separation AND I am requesting special selection priority under the Department of Justice's Career Transition Assistance Plan (CTAP).
+ I am a displaced employee from another Federal agency and eligible for selection preference based on the Interagency Career Transition Assistance Plan (ICTAP).
+ I am not a displaced employee from a federal agency.
+5.
+Please indicate whether you have engaged in sexual abuse in a prison, jail, lockup, community confinement facility, juvenile facility, or other institution.
+ Yes
+ No
+6.
+Please indicate whether you have been convicted of engaging or attempting to engage in sexual activity in the community facilitated by force, overt of implied threats of force, or coercion, or if the victim did not consent or was unable to consent or refuse.
+ Yes
+ No
+7.
+Please indicate whether you have been civilly or administratively adjudicated to have engaged in sexual activity in the community facilitated by force, overt of implied threats of force, or coercion, or if the victim did not consent or was unable to consent or refuse.
+ Yes
+ No
+8.
+APPLICANTS: Thank you for your interest in the Department of Justice (DOJ). Having a relative already employed at DOJ does not affect our consideration of you for employment; however, the information requested below is necessary to help DOJ assure that all hiring decisions are free of inappropriate influence by relatives employed in the Department and otherwise are consistent with applicable laws and policies. EMPLOYEES: You must submit this certification in connection with a personnel action by which you will move to a different position than the one you currently encumber. Merit System Principles set forth in Section 2301(b) of Title 5, U.S.C. provide guidance on federal personnel management. 5 U.S.C §§ 2302(b) and 3110(b) contain provisions identifying as a prohibited personnel practice engaging in nepotism (i.e., to appoint, employ, promote, or advance relatives; or advocate for the same) by public officials. It is also a prohibited personnel practice to grant a preference or advantage not authorized by law, rule, or regulation to an employee or applicant for the purpose of improving or injuring any individual's prospects for employment. Consistent with these laws and applicable ethics requirements, you are asked to identify relatives or other covered individuals (defined below) who work anywhere in the Department. For purposes of this form, the term "relative" includes a DOJ employee's or applicant's spouse, parent, guardian, grandparent, sister/brother (including step/half relationships), child/grandchild (including biological, adopted, foster, or step child, legal ward, or child for whom the employee/applicant stands in loco parentis), in-law, aunt, uncle, nephew, niece, or first cousin. "Other covered individuals" include a domestic partner, more distant relatives than those listed above with whom the employee/applicant has a close personal relationship, or anyone currently residing in the employee's/applicant's household, even temporarily. If you do have any relatives or other covered individuals who work anywhere in the Department, please include their full name, relationship, and the Department of Justice organization they are employed by. If you do not have a relative or other covered individual who works for the Department, please indicate " I do not have a relative or other covered individual who works for the Department ." A false statement on any part of your application may be grounds for not hiring you, or for firing you after you begin work. Also, you may be punished by fine or imprisonment (U.S. Code, title 18, section 1001).
+.
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+9.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+10.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+11.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+12.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+13.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+Correctional Officer, GL-05,06,07,08
+.
+Carefully read each question and all possible answers before selecting a response. Some questions will be used to screen out ineligible applicants. Applicant errors in responses will not be corrected. You are responsible for the accuracy of your application. Your application must describe your work and experience, in your own words. If you fail to provide requested information, or the information submitted is insufficient, you may lose consideration for the position.
+.
+Select “Yes” or “No” to the following question(s).
+1.
+Applicants MUST meet the below-listed MINIMUM qualification requirements for this position. In the event you do not meet the below-listed requirements, you will be found ineligible for the position. A. Degree: Doctor of Medicine, Doctor of Osteopathic Medicine or equivalent from a school in the United States or Canada. This degree must have been accredited by the Council on Medical Education of the American Medical Association; Association of American Medical Colleges; Liaison Committee on Medical Education; Commission on Osteopathic College Accreditation of the American Osteopathic Association, or an accrediting body recognized by the U.S. Department of Education at the time the degree was obtained. Degree from a Foreign Medical School: A Doctor of Medicine or equivalent degree from a foreign medical school must provide education and medical knowledge equivalent to accredited schools in the United States. Evidence of equivalency to accredited schools in the United States is demonstrated by permanent certification by the Educational Commission for Foreign Medical Graduates, a fifth pathway certificate for Americans who completed premedical education in the United States and graduate education in a foreign country, or successful completion of the U.S. Medical Licensing Examination. AND B. Licensure: Applicants must possess a current, active, full, and unrestricted license or registration as a Physician from a State, the District of Columbia, the Commonwealth of Puerto Rico, or a territory of the United States. AND C. Graduate Training: Subsequent to obtaining a Doctor of Medicine or Doctor of Osteopathic Medicine degree, a candidate must have had at least 1 year of supervised experience providing direct service in a clinical setting, i.e., a 1-year internship or the first year of a residency program in a hospital or an institution accredited for such training. For purposes of this standard, graduate training programs include only those internship, residency, and fellowship programs that are approved by accrediting bodies recognized within the United States or Canada. Descriptions of such programs are described below. An internship program involves broadly based clinical practice in which physicians acquire experience in treating a variety of medical problems under supervision (e.g., internal medicine, surgery, general practice, obstetrics-gynecology, and pediatrics). Such programs are in hospitals or other institutions accredited for internship training by a recognized body of the Accreditation Council for Graduate Medical Education (ACGME) or American Osteopathic Association (AOA). A residency program involves training in a specialized field of medicine in a hospital or an institution accredited for training in the specialty by a recognized body of the American Medical Association (AMA), American Osteopathic Association (AOA) or Accreditation Council for Graduate Medical Education (ACGME). A fellowship program involves advanced training (beyond residency training) in a given medical specialty in either a clinical or research setting in a hospital or an institution accredited in the United States for such training.
+ Yes
+ No
+.
+NOTE: ALL applicants MUST electronically upload college transcript's, training certifications and medical license documentation at the time of application.
+.
+Select “Yes” or “No” to the following question(s).
+2.
+This vacancy announcement is for a position that requires proof of license, graduate training programs and educational transcript requirements. The educational transcripts, training certifications and license will be utilized in the agency credentialing requirements process. Applicants must upload this information to be included with this vacancy in order to meet the minimum qualifications. Based on the above statement, have you uploaded the required documentation as listed in the vacancy announcement under the Required Documentation section?
+ Yes
+ No
+3.
+FOR THE GP-13: In addition to the education, training and licensure requirements above, you must have three (3) years of graduate training in the specialty of the position OR equivalent experience and training as described in the VACANCY ANNOUNCEMENT. Do you meet the additional requirements for the position at this grade level?
+ Yes
+ No
+4.
+FOR THE GP-14: In addition to the education, training and licensure requirements above, you must have four (4) years of graduate training in the specialty of the position OR equivalent experience and training as described in the VACANCY ANNOUNCEMENT. Do you meet the additional requirements for the position at this grade level?
+ Yes
+ No
+5.
+FOR THE GP-15: In addition to the education, training and licensure requirements above, you must have five (5) years of graduate training in the specialty of the position OR equivalent experience and training as described in the VACANCY ANNOUNCEMENT. Do you meet the additional requirements for the position at this grade level?
+ Yes
+ No

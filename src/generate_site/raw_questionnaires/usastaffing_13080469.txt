@@ -1,0 +1,115 @@
+Position Title
+Program Analyst (Travel Programs)
+Agency
+Defense Human Resources Activity
+Announcement Number
+DHRA-DTMO-27-13080469-DHA
+Open Period
+Oct 01, 2026 to Oct 12, 2026
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+2.
+Are you the spouse of a member of the Armed Forces on active duty? -OR- Are you the spouse of a member of the Armed Forces who is retired, released, or discharged from the Armed Forces AND on the date of retirement, release, or discharge, has a 100% disability rating from the Department of Veterans Affairs? -OR- Are you the un-remarried widow or widower of a member of the Armed Forces killed while in active duty status? For more information, review USAJOBS Veterans resources.
+ Yes
+ No
+3.
+Are you a current or former federal employee displaced from a position in a federal agency other than the agency hiring for this position? If yes, confirm: • you are located in the same local commuting area of the vacancy • your grade is equivalent to or above the grade level of the vacancy and • your last performance rating of record is at least fully successful or the equivalent. You will be required to submit supporting documentation to validate your claim of ICTAP eligibility such as a Reduction in Force (RIF) separation notice or a Proposed Removal/Separation notice and a copy of your latest Notification of Personnel Action, Standard Form 50. For more information, review the USAJOBS Resource Center .
+ Yes
+ No
+Preferences
+.
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+3.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+6.
+Are you a former Federal employee who has retired and is receiving an annuity either under the Civil Service Retirement System (CSRS) or Federal Employees Retirement System (FERS)?* NOTE: If you are receiving a temporary medical disability retirement OR are a retired Military Service Member your response should be NO .
+ Yes
+ No
+JX12955-GS-0343013, CCS
+1.
+From the list below, select the response that most accurately represents your specialized experience for the position of Program Analyst (Travel Programs - GTCC), GS-0343-13.
+ I possess at least one year of specialized experience equivalent to the GS-12 grade level in the federal service. Qualifying specialized experience includes: Experience using laws, policies, and regulations governing the DoD Government Travel Charge Card (GTCC) Program. Skill in adapting analytical techniques to evaluate program effectiveness, reduce delinquency rates, and enforce mandatory split disbursement. Experience utilizing commercial card Electronic Access Systems (EAS) to conduct data queries and detect fraud, waste, and abuse.
+ I do not possess the required level of specialized experience to qualify for this position.
+.
+In this part you will respond to questions about your experience as it relates to the position for which you are applying. For each task question, choose the level description that best describes your experience and/or training. Your responses must be fully supported within the text of your resume. Failure to properly identify your experience may result in the lowering of your overall score and/or your disqualification for this position.
+2.
+The DoD issues a major policy update to the Government Travel Charge Card program regarding mandatory split disbursement thresholds and cash advance restrictions. How do you respond?
+ Review draft guidance materials developed by other analysts, checking them for technical accuracy against DoD FMR Vol 9 and JTR provisions.
+ Lead the creation of a comprehensive GTCC program change package and implementation guidance, including executive summaries, standard operating procedures (SOPs), and functional system requirements to translate the complex policy into clear, actionable workflows for Agency Program Coordinators (APCs).
+ Degate the analysis and development of GTCC guidance materials to other analysts.
+ Independently review the GTCC policy update, develop technical system change requests to align card parameters, and assist in drafting operational guidance for component APCs.
+ Study the new policy update to understand how the revised cash advance and disbursement rules impact my own travel and immediate office.
+3.
+A critical update to the commercial card Electronic Access System (EAS) and split disbursement module is deploying next month. What is your role in communicating this to organizational Agency Program Coordinators (APCs)?
+ Receive the system change notice and review the release notes to prepare for the upcoming operational changes.
+ Draft official notification memoranda for enterprise dissemination and conduct technical briefing sessions for primary Component APCs.
+ Leave the communication of card system and policy updates to external technical support teams.
+ . Develop and execute a comprehensive enterprise communication plan, creating targeted instructional releases, hosting interactive webinars for APCs across all military services, and tracking readiness metrics to ensure field compliance prior to deployment.
+ Assist in distributing pre-written system change notices and answer routine operational questions from unit card managers.
+4.
+Two major command APCs approach you with urgent, competing priorities: one requires immediate guidance on executing involuntary salary offsets for chronic delinquencies, while the other requires emergency card limit increases for an unexpected mass deployment. How do you respond?
+ Refer both command APCs to higher-level leadership or the commercial bank's generic customer support center.
+ Act as a resource, answering specific regulatory questions from the GTCC manual to assist the APCs in navigating the bank's portal independently.
+ Provide authoritative regulatory and operational guidance to both commands by triaging mission impact, establishing immediate execution timelines for deployment credit modifications, and initiating standardized due-process debt collection workflows under DoW FMR regulations.
+ Refer to my branch leadership for specific instructions on which command inquiry to prioritize.
+ Provide direct, detailed procedural steps to help both APCs resolve their respective actions, referencing established DoW program priorities and timelines.
+5.
+You are tasked with measuring the overall health and operational effectiveness of a Component's GTCC program. How do you BEST adapt your analytical techniques to approach this broad requirement?
+ Gather three years of enterprise card transactional data to identify macro-level spending patterns and historical delinquency trends across the component.
+ Measure only the total gross dollar spend, treating transaction volume as the sole indicator of program success.
+ Adapt analytical techniques by decomposing program effectiveness into distinct, quantitative evaluation criteria (e.g., 30/60/90+ day delinquency rates, salary offset conversion ratios, prompt-payment rebate yields, and unauthorized transaction frequency) to establish a continuous-monitoring performance model.
+ Determine that GTCC program effectiveness cannot be systematically measured using quantitative data.
+ Survey a sample of unit APCs and cardholders to gather subjective feedback regarding program pain points and administrative burden.
+6.
+A new team member asks you to describe your role and experience relative to the DoW's Government Travel Charge Card program systems and infrastructure. How do you respond?
+ I have basic administrative experience managing cardholder account records and assisting travelers with account activations.
+ I am a proficient APC, routinely processing card applications, monitoring monthly delinquency rosters, and approving standard credit limit increases.
+ I have not worked with DoW travel charge card management systems or APC functions.
+ I serve as an advanced program analyst, skilled in running complex bank EAS data queries, troubleshooting account suspension actions, and delivering operational training on card management features.
+ I serve as a functional Subject Matter Expert (SME) for the GTCC program, responsible for establishing card hierarchy architectures, defining business rules for credit limit adjustments and Mission Critical designations, providing testing oversight for system interfaces, and directing policy compliance.
+7.
+You are provided five years of raw transaction data from the commercial card vendor and tasked with conducting an enterprise analysis to identify cost-saving and rebate maximization opportunities. What do you do?
+ Delegate the analytical task to another team member without establishing an analytical framework.
+ Independently analyze high-risk segments of the dataset (e.g., CBA invoice settlement timelines and off-cycle payment penalties) and report actionable findings to the Branch Chief.
+ Lead the analysis by building a structured analytical model to evaluate billing cycle payment timing, identify unlinked Centrally Billed Account (CBA) charges, assess declining-balance efficiencies, and formulate strategic policy recommendations to optimize quarterly prompt-payment rebates.
+ Review finalized historical rebate statements and compile high-level spending summaries.
+ Clean the raw data files, execute basic database queries to summarize total annual spend by merchant category, and produce standard summary charts.
+8.
+An automated data discrepancy causes travel system vouchers to fail split-disbursement routing, resulting in hundreds of cardholders facing improper account suspensions. How do you support resolving this problem?
+ Report the growing account suspension trend to branch leadership and await further direction.
+ Direct the incident containment and resolution: isolate the data interface error between the travel engine and financial disbursement pipeline, implement an emergency suspension moratorium with the card vendor to protect traveler credit, prioritize a technical fix, and coordinate clear communications to the field.
+ Serve as the operational intake lead, collecting incident reports from affected cardholders and submitting consolidated trouble tickets to IT engineering.
+ Advise individual travelers that payment routing issues must be resolved directly between their local finance office and the bank.
+ Lead the functional investigation to replicate the split-pay routing fault, document the systemic impact on billing cycles, and partner with the technical development team to validate the patch.
+9.
+As a GTCC subject matter expert, you learn that the Defense Enterprise Accounting and Management System (DEAMS) is executing a major interface update that affects how CBA invoices are liquidated. What is the MOST proactive and effective action to take?
+ Analyze the published technical interface specifications upon release to determine potential functional disruptions to card reconciliation files and alert technical leads.
+ Prepare draft notices warning CBA billing officials to expect temporary processing delays after the update goes live.
+ Proactively engage the financial system's integration team to analyze interface schema modifications, co-develop an end-to-end user acceptance test (UAT) plan to ensure CBA billing files match authorization records seamlessly, and brief branch leadership on operational risk controls.
+ Assume accounting system engineers will independently resolve all data integration and invoice settlement issues.
+ Advise branch leadership that financial system updates may cause invoice reconciliation delays and increase help desk ticket volume.
+10.
+While representing your organization at a Federal GSA SmartPay Conference, another agency presents an advanced automated machine-learning model that detects card misuse and unauthorized Merchant Category Codes (MCC) in real time. What is your MOST important action?
+ Take detailed notes during the presentation and archive the materials in the branch knowledge repository for future program reviews.
+ Wait for the conference organizers to publish the presentation deck weeks later without initiating follow-up.
+ Meet with the presenters, collect architecture documentation and policy guides, and prepare an executive summary for leadership on how automated fraud surveillance could reduce DoW improper payments.
+ State during the Q&A that the scale and decentralized structure of the DoW card program make cross-agency tools impractical.
+ Engage the presenting agency’s program leaders after the session to examine technical workflows, assess integration feasibility within DoW IL5 security and IT environments, and develop a formal business case analysis with recommendations for DoW implementation.
