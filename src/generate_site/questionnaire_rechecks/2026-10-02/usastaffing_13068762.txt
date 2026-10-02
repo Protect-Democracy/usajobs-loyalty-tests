@@ -1,0 +1,63 @@
+Position Title
+Senior AI/ML Engineer
+Agency
+Consumer Product Safety Commission
+Announcement Number
+4300EP-26-20261581103-A
+Open Period
+Sep 28, 2026 to Oct 08, 2026
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+2.
+Are you a current or former federal employee displaced from a position in a Federal agency other than the agency hiring for this position? If yes, confirm: • you are located in the same local commuting area of the vacancy; AND, • you are applying to a position that is at or below the grade level of the position from which you were or will be separated; AND, • you are applying to a position that does not have greater promotion potential than the position from which you were or will be separated; AND, • your last performance rating of record is at least fully successful or the equivalent. For more information, review the USAJOBS Help Center. To verify your eligibility, you must submit supporting documentation such as a Reduction in Force (RIF) separation notice to include your latest performance rating (if the notice does not have this information included, you must submit a copy of your most recent performance appraisal) and a copy of your latest Notification of Personnel Action, Standard Form 50.
+ Yes
+ No
+3.
+Reasonable Accommodations for taking the online assessments are provided on a case-by-case basis only to qualified individuals with a disability covered by the Rehabilitation Act of 1973, as amended. Do you have a disability (physical or mental) that you believe will interfere with completing the online assessments and require a Reasonable Accommodation?
+ Yes
+ No
+Preferences
+.
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+3.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+6.
+Are you a current or former Executive Branch political appointee who served on a political Schedule A, Schedule C, or Schedule G appointment within the past 5 years?
+ Yes
+ No
+7.
+Has your work schedule been full-time, i.e., 35-40 hours per week, for every position listed on your resume?
+ Yes
+ No
+8.
+I understand submission of supporting documentation, e.g., transcripts, DD-214, SF-50, etc. may be required for this position. I also understand that my application will not be considered if the required supporting documentation is not submitted or is not submitted in accordance with the time frames indicated in the announcement.
+ Yes
+ No
+Min Quals
+1.
+Choose the answer that best describes your educational background.
+ I have a bachelor's or higher degree in mathematics, statistics, computer science, data science or field directly related to the position. The degree must be in a major field of study (at least at the baccalaureate level) that is appropriate for the position.
+ I have a combination of education and experience that include courses equivalent to a major field of study (30 semester hours) as stated in item 1 above, plus additional education or appropriate experience.
+ I do not possess the education as described above.
+2.
+GS-14: Choose the answer that best describes your experience.
+ I possess at least 1 year of specialized experience equivalent to the GS-13 level in the Federal Government. Qualifying specialized experience must demonstrate the following: 1) Demonstrated experience advancing AI/ML and analytics initiatives by leading components of model development, data preprocessing, feature engineering, model validation, and model monitoring; 2) improving data pipelines and cloud-based workflows to ensure scalable, reliable analytics; 3) managing, executing, and leveraging MLOps pipelines; 4) applying advanced analytical and machine-learning techniques to detect patterns and identify emerging trends or data signals; 5) developing clear, actionable visualizations and technical documentation; and 6) collaborating closely with technical experts and program stakeholders to design and implement practical, data-driven solutions that strengthen risk detection and decision-making.
+ I do not possess the experience as described above.
