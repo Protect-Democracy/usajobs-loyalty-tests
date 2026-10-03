@@ -1,0 +1,244 @@
+Position Title
+Information Technology Specialist (INFOSEC) / Digital Investigative Analyst
+Agency
+Federal Trade Commission
+Announcement Number
+IMP-13048226-26-BCP-DLTA
+Open Period
+Oct 03, 2026 to Oct 16, 2026
+Eligibilities
+1.
+PLEASE READ THE FOLLOWING ELIGIBLITY QUESTIONS CAREFULLY: Your answers will be used to determine your eligibility to apply to this job opportunity announcement. You will be considered under the eligibility option(s) to which you answer YES. Select YES to all eligibility options for which you want to be considered. If you respond NO to meeting the criteria for all the eligibilities, you will not be considered for the position(s) under this announcement. NOTE: You must submit the required supporting documentation to receive consideration for EACH selected eligibility. Failure to provide the required documents will result in an ineligible rating and your application will be excluded from consideration.
+ Yes
+ No
+2.
+Are you a current permanent, career or career-conditional employee of the Federal Trade Commission?
+ Yes
+ No
+Preferences
+.
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+3.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+2210-14 IT Specialist (INFOSEC) BCP-DLTA.001
+.
+Thank you for your interest in the Information Technology Specialist (INFOSEC)/ (Digital Investigative Analyst) (GS-2210-14) position at our Agency. We will evaluate your resume and your responses to this Assessment Questionnaire to determine if you are among the best qualified for this position. Your responses are subject to verification. Please review your responses for accuracy before you submit this questionnaire.
+1.
+Choose the one answer that best describes how you meet the minimum qualifications requirements of an Information Technology Specialist (Information Security), GS-2210-14.
+ I qualify for this position at the GS-14 level because I have 1 year of specialized experience equivalent to at least the GS-13 level in the Federal service obtained in either the private or public sector, performing the following types of tasks: planning and coordinating digital forensic activities; collecting, processing, and preserving digital evidence from electronic drives, mobile devices, network devices, servers, and the cloud; examining file systems and logs from multiple operating systems platforms; and providing reports of examination results regarding digital forensic activities.
+ My experience and/or education do not match the choices above.
+.
+For each task in the following group, choose the statement from the list below that best describes your experience and/or training. A- I have not had education, training or experience in performing this task. B- I have had education or training in performing the task, but have not yet performed it on the job. C- I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures. D- I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee. E- I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist them in doing this task because of my expertise.
+.
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+2.
+Conducts onsite forensic acquisitions pursuant to civil court orders.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+3.
+Produces comprehensive digital forensic reports of your analysis for a non-technical audience.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+4.
+Conducts forensic acquisitions of data located in the cloud.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+.
+In the next section, please SELECT ALL THAT APPLY to best describe your experience and/or training.
+5.
+Please indicate the types of certifications you currently have:
+ EnCase Certified Examiner (EnCE)
+ The International Association of Computer Investigative Specialists (IACIS) Certified Forensic Examiner (CFCE)
+ Certified Computer Examiner (CCE)
+ FLETC – Digital Forensics Examiner Program (DF-E)
+ Cellebrite Certified Mobile Examiner (CCME)
+ Other
+ None
+6.
+Which of the following Operating Systems do you have a thorough knowledge of and have conducted a forensic analysis of.
+ Microsoft
+ MacOS
+ VMware ESXi
+ Unix
+ Linux
+ Apple iOS
+ Android OS
+ Other
+ None
+.
+For each task in the following group, choose the statement from the list below that best describes your experience and/or training. A- I have not had education, training or experience in performing this task. B- I have had education or training in performing the task, but have not yet performed it on the job. C- I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures. D- I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee. E- I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist them in doing this task because of my expertise.
+.
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+7.
+Independently utilizes forensic software tools related to image acquisition, extraction, and analysis.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+8.
+Troubleshoots computer hardware, software problems, networking protocols, and network devices, while executing a court order in an unknown IT environment.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+9.
+Acquires and analyzes data from mobile devices.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+10.
+Conducts and provides advice on difficult and sensitive forensic investigations that involve problems not previously encountered.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+.
+In the next section, please SELECT ALL THAT APPLY to best describe your experience and/or training.
+11.
+Please indicate the following programs you have training and experience in:
+ EnCase
+ Oxygen
+ Cellebrite
+ Magnet/Axiom
+ Metaspike
+ Other
+ None
+.
+For each task in the following group, choose the statement from the list below that best describes your experience and/or training. A- I have not had education, training or experience in performing this task. B- I have had education or training in performing the task, but have not yet performed it on the job. C- I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures. D- I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee. E- I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist them in doing this task because of my expertise.
+.
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+12.
+Advises or negotiates with opposing parties regarding the format of the submission of electronically stored information.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+13.
+Provides sworn testimony in civil cases regarding your digital forensic analysis.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+14.
+Communicates with people who have varying levels of technical literacy.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+15.
+Clearly and proactively communicates project statuses, including potential delays, to colleagues or supervisors.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+16.
+Communicates technical information to non-technical staff.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+17.
+Plans and oversees complex forensic collection activities at target locations.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+18.
+Works with court appointed receivers and/or receiverships in executing civil court orders.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+19.
+Works with contractors in forensic collection activities at target locations.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+20.
+Uses computer forensic best practices for the forensic collection of digital evidence.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+21.
+Simultaneously, manages the requirements of several projects, such as sequencing tasks, tracking dependencies, and resolving conflicts between project needs.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+22.
+Receives evidence and verifies that all items are properly logged, labeled, and accounted for at the point of intake.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+23.
+Completes thorough and accurate chain of custody forms involving digital evidence.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+24.
+Handles, transports, and stores evidence.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+25.
+Applies evidentiary principles, concepts, and methods to forensic acquisition work.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+26.
+Transfers data between federal agencies and court appointed receivers in a forensically sound manner.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+.
+As previously explained, your responses in this Assessment Questionnaire are subject to evaluation and verification. Later steps in the selection process are specifically designed to verify your responses. Deliberate attempts to falsify information will be grounds for disqualifying you or for dismissing you from employment following acceptance. Please take this opportunity to review your responses to ensure their accuracy. If you fail to answer this question, you will be disqualified from consideration for this position.
+27.
+I certify that, to the best of my knowledge and belief, all of the information included in this questionnaire is true, correct, and provided in good faith. I understand that if I make an intentional false statement or commit deception or fraud in this application and its supporting materials, or in any document or interview associated with the examination process, I may be fined or imprisoned (18 U.S.C. 1001); my eligibilities may be cancelled, I may be denied an appointment, or I may be removed and debarred from Federal service (5 C.F.R. part 731). I understand that any information I give may be investigated. I understand that responding "No" to this item will result in my not being considered for this position.
+ Yes, I certify that the information provided in this questionnaire is true, correct and provided in good faith, and I understand the information provided above.
+ No, I do not certify/understand the information provided above.
