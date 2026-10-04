@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "total_jobs": 293003,
+    "total_jobs": 293008,
     "cutoff_date": "2025-06-01",
-    "generation_date": "2026-10-03T10:05:17.701140"
+    "generation_date": "2026-10-04T11:38:01.957007"
   },
   "by_service_type": {
-    "Competitive": 186584,
-    "Excepted": 104786,
+    "Competitive": 186586,
+    "Excepted": 104789,
     "Senior Executive": 1633
   },
   "by_grade_level": {
@@ -16,11 +16,11 @@
     "VN-00": 15258,
     "GS-9": 12612,
     "GS-14": 12565,
-    "GS-7": 11001,
+    "GS-7": 11002,
     "GS-6": 9749,
     "GS-9/11": 7186,
     "VM-15": 6855,
-    "GS-5": 6556,
+    "GS-5": 6557,
     "GS-15": 6548,
     "WG-10": 5279,
     "NF-2": 4684,
@@ -54,16 +54,16 @@
     "Philadelphia, Pennsylvania": 1294
   },
   "by_agency": {
-    "Department of Veterans Affairs": 95762,
+    "Department of Veterans Affairs": 95764,
     "Department of the Air Force": 33502,
     "Department of the Navy": 32490,
-    "Department of the Army": 29414,
-    "Department of Defense": 28490,
+    "Department of the Army": 29415,
+    "Department of Defense": 28491,
     "Department of Justice": 15228,
     "Department of Homeland Security": 14177,
     "Other Agencies and Independent Organizations": 8042,
     "Department of the Interior": 7331,
-    "Department of Transportation": 5571,
+    "Department of Transportation": 5572,
     "Department of Agriculture": 4916,
     "Department of Health and Human Services": 4178,
     "Department of the Treasury": 2309,
@@ -82,7 +82,7 @@
     "2210 - Information Technology Management": 7674,
     "0343 - Management And Program Analysis": 7457,
     "0185 - Social Work": 7192,
-    "0303 - Miscellaneous Clerk And Assistant": 6226,
+    "0303 - Miscellaneous Clerk And Assistant": 6227,
     "0679 - Medical Support Assistance": 5939,
     "1101 - General Business And Industry": 5790,
     "1702 - Education And Training Technician": 5017,
@@ -93,7 +93,7 @@
     "0801 - General Engineering": 3878,
     "0180 - Psychology": 3671,
     "0905 - Attorney": 3358,
-    "0640 - Health Aid And Technician": 3353,
+    "0640 - Health Aid And Technician": 3354,
     "0101 - Social Science": 2962,
     "0501 - Financial Administration And Program": 2909
   }
