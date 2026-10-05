@@ -1,15 +1,15 @@
 {
-  "date": "2026-10-04",
-  "open_postings": 12357,
-  "questionnaires": 10606,
-  "fetched_ok": 10564,
+  "date": "2026-10-05",
+  "open_postings": 12683,
+  "questionnaires": 10864,
+  "fetched_ok": 10822,
   "failed": 0,
   "skipped_blocked_domain": 42,
-  "changed_today": 4,
+  "changed_today": 0,
   "with_loyalty_q": 262,
-  "with_new_wording": 3647,
-  "with_question_5": 3,
+  "with_new_wording": 3767,
+  "with_question_5": 4,
   "open_postings_with_loyalty_q": 233,
-  "open_postings_with_question_5": 3,
+  "open_postings_with_question_5": 4,
   "open_postings_with_possible_variant": 0
 }
