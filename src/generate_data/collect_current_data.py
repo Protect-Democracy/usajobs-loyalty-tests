@@ -197,13 +197,11 @@ def flatten_current_job(job_item: dict, appointment_type_map: dict, hiring_path_
 
 def load_existing_jobs(parquet_path: str) -> set:
     """Load existing control numbers from parquet file"""
+    # An unreadable file must stop the run: treating it as empty would make every
+    # job look new and save_jobs_to_parquet would then rewrite the file from scratch.
     if os.path.exists(parquet_path):
-        try:
-            df = pd.read_parquet(parquet_path)
-            return set(df['usajobsControlNumber'].dropna().astype(str))
-        except Exception as e:
-            print(f"⚠️ Warning: Could not read existing parquet file {parquet_path}: {e}")
-            return set()
+        df = pd.read_parquet(parquet_path)
+        return set(df['usajobsControlNumber'].dropna().astype(str))
     return set()
 
 
@@ -341,12 +339,14 @@ def fetch_occupational_series() -> List[Dict[str, str]]:
         return []
 
 
-def fetch_all_jobs(params: Dict, headers: Dict, appointment_type_map: Dict[str, str], hiring_path_map: Dict[str, str], max_results: int = 10000) -> tuple[List[Dict], List[Dict]]:
-    """Fetch all jobs with pagination up to max_results. Returns (raw_jobs, flattened_jobs)"""
+def fetch_all_jobs(params: Dict, headers: Dict, appointment_type_map: Dict[str, str], hiring_path_map: Dict[str, str], max_results: int = 10000) -> tuple[List[Dict], List[Dict], bool]:
+    """Fetch all jobs with pagination up to max_results. Returns (raw_jobs, flattened_jobs,
+    complete), where complete means every result the API reported was fetched."""
     raw_jobs = []
     flattened_jobs = []
     page = 1
     total_count = None
+    failed = False
     
     # Create progress bar
     progress_bar = tqdm(desc="Fetching pages", unit="page")
@@ -357,6 +357,7 @@ def fetch_all_jobs(params: Dict, headers: Dict, appointment_type_map: Dict[str, 
         
         if not data:
             progress_bar.write("Failed to fetch data, stopping.")
+            failed = True
             break
             
         search_result = data.get("SearchResult", {})
@@ -402,7 +403,8 @@ def fetch_all_jobs(params: Dict, headers: Dict, appointment_type_map: Dict[str, 
     check_cap(len(raw_jobs), f"current fetch [{query_desc}] total")
     check_cap(total_count, f"current fetch [{query_desc}] SearchResultCountAll")
 
-    return raw_jobs, flattened_jobs
+    complete = not failed and len(raw_jobs) >= (total_count or 0)
+    return raw_jobs, flattened_jobs, complete
 
 
 def save_jobs_to_parquet(jobs: List[Dict], parquet_path: str):
@@ -426,47 +428,44 @@ def save_jobs_to_parquet(jobs: List[Dict], parquet_path: str):
     
     # Load existing data if file exists
     if os.path.exists(parquet_path):
-        try:
-            existing_df = pd.read_parquet(parquet_path)
-            initial_count = len(existing_df)
-            
-            # Handle column name variations
-            if 'usajobsControlNumber' in existing_df.columns and 'usajobs_control_number' not in existing_df.columns:
-                existing_df['usajobs_control_number'] = existing_df['usajobsControlNumber'].astype(str)
-            
-            # Get control numbers from both dataframes
-            existing_control_numbers = set(existing_df['usajobs_control_number'].dropna().astype(str))
-            new_control_numbers = set(new_df['usajobs_control_number'].dropna().astype(str))
-            
-            # Identify overlapping jobs
-            overlapping_control_numbers = existing_control_numbers.intersection(new_control_numbers)
-            
-            # Update last_seen for existing jobs
-            if 'last_seen' not in existing_df.columns:
-                existing_df['last_seen'] = existing_df.get('inserted_at', datetime.now().isoformat())
-            
-            # For overlapping jobs, update last_seen but keep existing data
-            if overlapping_control_numbers:
-                # Remove overlapping jobs from existing (we'll add updated versions)
-                mask = ~existing_df['usajobs_control_number'].isin(overlapping_control_numbers)
-                existing_df = existing_df[mask]
-            
-            # Combine dataframes
-            combined_df = pd.concat([existing_df, new_df], ignore_index=True)
-            
-            # Verify we haven't lost any jobs
-            final_count = len(combined_df)
-            if final_count < initial_count:
-                raise ValueError(f"DATA LOSS PREVENTED: Would have lost {initial_count - final_count} jobs. "
-                               f"Initial: {initial_count}, Final: {final_count}")
-            
-            print(f"   💾 Updated {parquet_path}: {initial_count} → {final_count} jobs "
-                  f"(+{len(new_control_numbers - existing_control_numbers)} new, "
-                  f"{len(overlapping_control_numbers)} updated)")
-        except Exception as e:
-            print(f"⚠️ Warning: Could not read existing parquet file {parquet_path}: {e}")
-            combined_df = new_df
-            print(f"   💾 Created {parquet_path} with {len(combined_df)} jobs")
+        # No try/except here: if the existing file can't be read, stop rather than
+        # overwrite it with only today's jobs.
+        existing_df = pd.read_parquet(parquet_path)
+        initial_count = len(existing_df)
+        
+        # Handle column name variations
+        if 'usajobsControlNumber' in existing_df.columns and 'usajobs_control_number' not in existing_df.columns:
+            existing_df['usajobs_control_number'] = existing_df['usajobsControlNumber'].astype(str)
+        
+        # Get control numbers from both dataframes
+        existing_control_numbers = set(existing_df['usajobs_control_number'].dropna().astype(str))
+        new_control_numbers = set(new_df['usajobs_control_number'].dropna().astype(str))
+        
+        # Identify overlapping jobs
+        overlapping_control_numbers = existing_control_numbers.intersection(new_control_numbers)
+        
+        # Update last_seen for existing jobs
+        if 'last_seen' not in existing_df.columns:
+            existing_df['last_seen'] = existing_df.get('inserted_at', datetime.now().isoformat())
+        
+        # For overlapping jobs, update last_seen but keep existing data
+        if overlapping_control_numbers:
+            # Remove overlapping jobs from existing (we'll add updated versions)
+            mask = ~existing_df['usajobs_control_number'].isin(overlapping_control_numbers)
+            existing_df = existing_df[mask]
+        
+        # Combine dataframes
+        combined_df = pd.concat([existing_df, new_df], ignore_index=True)
+        
+        # Verify we haven't lost any jobs
+        final_count = len(combined_df)
+        if final_count < initial_count:
+            raise ValueError(f"DATA LOSS PREVENTED: Would have lost {initial_count - final_count} jobs. "
+                           f"Initial: {initial_count}, Final: {final_count}")
+        
+        print(f"   💾 Updated {parquet_path}: {initial_count} → {final_count} jobs "
+              f"(+{len(new_control_numbers - existing_control_numbers)} new, "
+              f"{len(overlapping_control_numbers)} updated)")
     else:
         combined_df = new_df
         print(f"   💾 Created {parquet_path} with {len(combined_df)} jobs")
@@ -477,6 +476,41 @@ def save_jobs_to_parquet(jobs: List[Dict], parquet_path: str):
     except Exception as e:
         print(f"❌ Error saving to parquet: {e}")
         raise
+
+
+def write_current_listing(jobs: List[Dict], incomplete_series: List[str], args):
+    """Write data/current_listing.csv: every posting USAJobs lists today, with the
+    questionnaire links in its text today. The parquets keep each posting as first
+    collected, so this is the only record of what open postings say now; the daily
+    questionnaire refresh uses it to define "open" and to catch links added or removed.
+
+    Written only from a complete collection (a test-mode run or a series that wasn't
+    fetched in full would make postings look pulled), and an existing file is removed
+    otherwise, so the refresh fails loudly on a missing or stale listing instead."""
+    path = os.path.join(args.data_dir, 'current_listing.csv')
+    if args.test or args.days_posted or incomplete_series:
+        print(f"⚠️  Not writing {path}: "
+              + (f"{len(incomplete_series)} series incomplete ({', '.join(incomplete_series[:10])})"
+                 if incomplete_series else "partial run (--test or --days-posted)"))
+        if os.path.exists(path):
+            os.remove(path)
+        if incomplete_series:
+            # The daily workflow turns this file into a GitHub issue.
+            warning_file = os.path.join(args.data_dir, "..", "logs", "CURRENT_INCOMPLETE_WARNING.txt")
+            os.makedirs(os.path.dirname(warning_file), exist_ok=True)
+            with open(warning_file, 'a') as f:
+                f.write(f"{datetime.now().isoformat()}: {len(incomplete_series)} occupational series not fetched "
+                        f"in full: {', '.join(incomplete_series)}\n")
+        return
+    listing = pd.DataFrame({
+        'usajobs_control_number': [str(j['usajobsControlNumber']) for j in jobs],
+        'questionnaire_links': [j['questionnaireLinks'] for j in jobs],
+        'mentions_questionnaire': [bool(j.get('mentionsQuestionnaire')) for j in jobs],
+        'uses_usastaffing': [bool(j.get('usesUsastaffing')) for j in jobs],
+        'listed_date': datetime.now().strftime('%Y-%m-%d'),
+    }).sort_values('usajobs_control_number')
+    listing.to_csv(path, index=False)
+    print(f"📋 Wrote {path}: {len(listing):,} postings listed today")
 
 
 def get_year_from_date(date_str: Optional[str]) -> Optional[int]:
@@ -577,6 +611,7 @@ def main():
     all_flattened_jobs = []
     job_ids = set()  # Track unique jobs to avoid duplicates
     series_with_jobs = 0
+    incomplete_series = []  # series whose results we didn't get in full
     
     # Fetch jobs for each occupational series
     for i, series in enumerate(tqdm(series_list, desc="Processing occupational series", unit="series"), 1):
@@ -590,7 +625,9 @@ def main():
             # checks; the flattened records are what get written. Accumulating the
             # full nested raw JSON for every open posting is what previously OOM-ed
             # the CI runner, so we intentionally drop it here.
-            _, series_flattened_jobs = fetch_all_jobs(params, headers, appointment_type_map, hiring_path_map)
+            _, series_flattened_jobs, complete = fetch_all_jobs(params, headers, appointment_type_map, hiring_path_map)
+            if not complete:
+                incomplete_series.append(series['code'])
 
             # Add only unique jobs (some jobs may have multiple series)
             new_jobs = 0
@@ -614,6 +651,7 @@ def main():
                 
         except Exception as e:
             tqdm.write(f"   ❌ Error fetching jobs: {e}")
+            incomplete_series.append(series['code'])
             continue
     
     if not all_flattened_jobs:
@@ -627,6 +665,8 @@ def main():
         print(f"⚠️  Warning file written to {warning_file}")
         return
     
+    write_current_listing(all_flattened_jobs, incomplete_series, args)
+
     # Group jobs by year based on positionOpenDate
     print("\n📊 Grouping jobs by year based on position open date...")
     jobs_by_year = group_jobs_by_year(all_flattened_jobs)

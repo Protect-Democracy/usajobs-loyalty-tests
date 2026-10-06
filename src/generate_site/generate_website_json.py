@@ -84,16 +84,14 @@ def check_executive_order_mentions(questionnaire_dir=RAW_QUESTIONNAIRES_DIR):
     txt_files = list(questionnaire_dir.glob('*.txt'))
     print(f"Found {len(txt_files):,} scraped questionnaire files")
     
+    # An unreadable file stops the build: skipping it would count that posting as
+    # not having the question.
     for txt_file in txt_files:
-        try:
-            with open(txt_file, 'r', encoding='utf-8') as f:
-                content = f.read()
-                
-            if pattern.search(html.unescape(content)):
-                file_id = txt_file.stem.split('_')[1]
-                mentions[file_id] = 1
-        except Exception as e:
-            print(f"Error reading {txt_file}: {e}")
+        with open(txt_file, 'r', encoding='utf-8') as f:
+            content = f.read()
+        if pattern.search(html.unescape(content)):
+            file_id = txt_file.stem.split('_')[1]
+            mentions[file_id] = 1
     
     return mentions
 
@@ -332,8 +330,29 @@ def main():
         file_id = txt_file.stem.split('_')[1]
         scraped_ids.add(file_id)
     
-    # Add questionnaire ID and executive order flags
+    # Whether each posting asked the question when first scraped, over all the links
+    # first collected for it (some may since have been removed from the posting).
     links_df['questionnaire_id'] = links_df['questionnaire_url'].apply(lambda url: extract_questionnaire_id(url)[1])
+    first_scrape_had_q = links_df['questionnaire_id'].isin(eo_mentions).groupby(links_df['usajobs_control_number']).any()
+
+    # Open postings are the ones the latest refresh found listed on USAJobs
+    # (open_postings.csv, which the daily email reads), and their questionnaires are
+    # the links it found in each posting today (current_status.csv), not the links
+    # first collected: agencies add, swap, and remove questionnaire links.
+    open_ids = set(pd.read_csv(RECHECK_DIR / 'open_postings.csv', dtype=str)['usajobs_control_number'])
+    open_as_of = json.loads((RECHECK_DIR / 'last_run.json').read_text())['date']
+    current = pd.read_csv(RECHECK_DIR / 'current_status.csv', dtype=str, keep_default_na=False)
+    current = current.assign(usajobs_control_number=current['usajobs_control_numbers'].str.split(';')).explode(
+        'usajobs_control_number')[['usajobs_control_number', 'questionnaire_url']]
+    current['usajobs_control_number'] = current['usajobs_control_number'].astype('int64')
+    current['questionnaire_id'] = current['questionnaire_url'].apply(lambda url: extract_questionnaire_id(url)[1])
+    # Links the scraper judged broken aren't re-checked (the refresh drops them), but
+    # they still tell viewers a posting had a link we couldn't verify, so they stay.
+    from questionnaire_utils import load_known_bad_urls
+    is_open_link = links_df['usajobs_control_number'].astype(str).isin(open_ids)
+    open_known_bad = links_df[is_open_link & links_df['questionnaire_url'].isin(load_known_bad_urls())
+                              & ~links_df['questionnaire_url'].isin(set(current['questionnaire_url']))]
+    links_df = pd.concat([links_df[~is_open_link], current, open_known_bad], ignore_index=True)
     links_df['had_executive_order_at_first_scrape'] = links_df['questionnaire_id'].isin(eo_mentions)
     # The flag the site reports is the latest known one: a later re-check, if any,
     # overrides the first scrape.
@@ -358,19 +377,22 @@ def main():
     # Update location, grade, and other fields from all_jobs_df to ensure consistency
     # This is important because job details might have changed between when the questionnaire was scraped
     # and the current job data
-    job_info_cols = ['position_location', 'grade_code', 'occupation_series', 'occupation_name', 
-                     'service_type', 'hiring_agency']
+    job_info_cols = ['position_location', 'grade_code', 'occupation_series', 'occupation_name',
+                     'service_type', 'hiring_agency', 'position_open_date']
     all_jobs_info = all_jobs_df[['usajobs_control_number'] + job_info_cols].copy()
     
     # Drop the old columns from scraped_df_in_current and merge with authoritative data
     scraped_df_in_current = scraped_df_in_current.drop(columns=job_info_cols, errors='ignore')
     scraped_df_in_current = pd.merge(scraped_df_in_current, all_jobs_info, on='usajobs_control_number', how='left')
     
-    # Deduplicate based on usajobs_control_number to avoid counting the same job multiple times
-    # Keep the first occurrence of each control number
+    # One row per posting. A posting has the question if any of its questionnaires
+    # does (as the daily email counts it), not just the first one listed.
     original_count = len(scraped_df)
-    scraped_df_in_current_dedup = scraped_df_in_current.drop_duplicates(subset='usajobs_control_number', keep='first')
-    duplicate_count = len(scraped_df_in_current) - len(scraped_df_in_current_dedup)
+    has_q_any = scraped_df_in_current.groupby('usajobs_control_number')['has_executive_order'].any()
+    scraped_df_in_current_dedup = scraped_df_in_current.drop_duplicates(subset='usajobs_control_number', keep='first').copy()
+    scraped_df_in_current_dedup['has_executive_order'] = scraped_df_in_current_dedup['usajobs_control_number'].map(has_q_any)
+    scraped_df_in_current_dedup['had_executive_order_at_first_scrape'] = (
+        scraped_df_in_current_dedup['usajobs_control_number'].map(first_scrape_had_q).fillna(False).astype(bool))
     
     print(f"\nTotal questionnaire links scraped: {original_count:,}")
     print(f"Jobs in current dataset with questionnaires: {len(scraped_df_in_current_dedup):,}")
@@ -381,11 +403,7 @@ def main():
     
     analysis_data = build_analysis(all_jobs_df, scraped_df, scraped_df_in_current, links_df)
 
-    # The same numbers for open postings only. Open postings are exactly the ones the
-    # daily email reports on (open_postings.csv from the latest refresh), not recomputed
-    # from close dates, so the site and the email can't disagree about what's open.
-    open_ids = set(pd.read_csv(RECHECK_DIR / 'open_postings.csv', dtype=str)['usajobs_control_number'])
-    open_as_of = json.loads((RECHECK_DIR / 'last_run.json').read_text())['date']
+    # The same numbers for open postings only.
     missing_open = open_ids - set(all_jobs_df['usajobs_control_number'].astype(str))
     if missing_open:
         raise ValueError(f"{len(missing_open)} open postings from open_postings.csv aren't in all_jobs_clean.csv, "
@@ -417,8 +435,9 @@ def main():
     jobs_with_only_bad_link = jobs_with_any_link - jobs_with_valid_link
     jobs_with_scraped = set(scraped_df_all['usajobs_control_number'])
     jobs_with_eo = set(scraped_df[scraped_df['has_executive_order']]['usajobs_control_number'])
-    jobs_with_eo_removed = set(scraped_df[scraped_df['had_executive_order_at_first_scrape']
-                                          & ~scraped_df['has_executive_order']]['usajobs_control_number'])
+    # Asked the question when first scraped, but doesn't now: the questionnaire was
+    # edited, or (for an open posting) the link to it was removed or replaced.
+    jobs_with_eo_removed = set(first_scrape_had_q[first_scrape_had_q].index) - jobs_with_eo
 
     # Add questionnaire status to all jobs
     all_jobs_for_display['has_valid_link'] = all_jobs_for_display['usajobs_control_number'].isin(jobs_with_valid_link)

@@ -157,6 +157,40 @@ jobs:
             fs.unlinkSync(capFile);
           }
 
+    - name: Check for incomplete collections
+      # The collectors write these when a fetch failed partway, instead of
+      # carrying on silently. An incomplete current collection also means
+      # data/current_listing.csv wasn't written, so the questionnaire refresh
+      # (and the daily email) will hold until a complete collection succeeds.
+      if: always()
+      uses: actions/github-script@v7
+      with:
+        script: |
+          const fs = require('fs');
+          const today = new Date().toISOString().split('T')[0];
+          const runUrl = `${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`;
+          const checks = [
+            ['logs/CURRENT_INCOMPLETE_WARNING.txt', 'Current collection incomplete - ',
+             'Some occupational series were not fetched in full from the USAJobs current API, so ' +
+             '`data/current_listing.csv` (today\'s list of open postings and their questionnaire links) was not written. ' +
+             'The questionnaire refresh will fail until a complete collection runs.'],
+            ['logs/HISTORICAL_INCOMPLETE_WARNING.txt', 'Historical collection incomplete - ',
+             'A page of the USAJobs historical API failed, and the collector saved only what it had fetched before the failure.'],
+          ];
+          for (const [file, title, summary] of checks) {
+            if (!fs.existsSync(file)) continue;
+            const content = fs.readFileSync(file, 'utf8');
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: title + today,
+              body: summary + '\n\n```\n' + content + '\n```\n\n[View the workflow run](' + runUrl + ')',
+              labels: ['bug', 'automated'],
+              assignees: ['abigailhaddad-2'],
+            });
+            fs.unlinkSync(file);
+          }
+
     - name: Run data integrity tests
       id: data_tests
       run: |

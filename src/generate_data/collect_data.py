@@ -180,6 +180,14 @@ def fetch_all_pages(params: Dict, description: str = "") -> List[Dict]:
         except Exception as e:
             print(f"  ⚠️  Page {page_num} failed with error: {e}")
             print(f"  💾 Saving {len(all_jobs)} jobs collected so far and continuing...")
+            # The daily workflow turns this file into a GitHub issue, so a partial
+            # pull isn't silent.
+            warning_file = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..', 'logs',
+                                        'HISTORICAL_INCOMPLETE_WARNING.txt')
+            os.makedirs(os.path.dirname(warning_file), exist_ok=True)
+            with open(warning_file, 'a') as f:
+                f.write(f"{datetime.now().isoformat()}: page {page_num} failed after {len(all_jobs)} jobs "
+                        f"({params or next_url}): {e}\n")
             break
     
     return all_jobs
