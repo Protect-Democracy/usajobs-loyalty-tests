@@ -196,6 +196,16 @@
                 <h1 class="mt-5 mb-4 text-center">"Merit Hiring Plan" Essay Tracker</h1>
                 <p class="text-center text-muted mb-5">Tracking the implementation of new essay questions in federal job applications</p>
                 
+                <!-- Which postings every tab shows -->
+                <div class="d-flex flex-wrap align-items-center gap-2 mb-3">
+                    <label for="scopeSelect" class="mb-0"><strong>Show:</strong></label>
+                    <select class="form-select form-select-sm w-auto" id="scopeSelect">
+                        <option value="all">All postings tracked</option>
+                        <option value="open">Open postings only</option>
+                    </select>
+                    <span class="text-muted small" id="scopeNote"></span>
+                </div>
+
                 <!-- Tabs -->
                 <ul class="nav nav-tabs" id="analysisTabs" role="tablist">
                     <li class="nav-item" role="presentation">
@@ -441,6 +451,7 @@
                                     <th>Questionnaire Status</th>
                                     <th>USAJobs</th>
                                     <th>Questions</th>
+                                    <th>Open Now</th>
                                 </tr>
                                 <tr class="search-row">
                                     <th><input type="text" class="form-control form-control-sm column-search" data-column="0" placeholder="Search ID..." /></th>
@@ -493,6 +504,7 @@
                                     </th>
                                     <th></th>
                                     <th></th>
+                                    <th></th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -522,25 +534,8 @@
                 if (!response.ok) {
                     throw new Error('analysis_data.json returned ' + response.status);
                 }
-                const data = await response.json();
-                
-                // Populate overview
-                document.getElementById('totalScraped').textContent = data.overview.total_jobs_with_questionnaires.toLocaleString();
-                document.getElementById('totalWithEO').textContent = data.overview.total_jobs_with_eo.toLocaleString();
-                document.getElementById('percentageWithEO').textContent = data.overview.percentage_with_eo + '%';
-                document.getElementById('dataCoverage').textContent = data.overview.data_coverage;
-                
-                
-                // Create simple tables for analyses
-                createSimpleTable('serviceTable', data.service_analysis);
-                createSimpleTable('gradeTable', data.grade_analysis);
-                createSimpleTable('locationTable', data.location_analysis);
-                createSimpleTable('agencyTable', data.agency_analysis);
-                createSimpleTable('occupationTable', data.occupation_analysis);
-                
-                // Create timeline heatmap
-                createTimelineTable('timelineTable', data.timeline_analysis);
-                
+                analysisData = await response.json();
+                renderAnalysis();
             } catch (error) {
                 console.error('Error loading data:', error);
             }
@@ -563,8 +558,50 @@
             }
         }
         
+        let analysisData = null;  // analysis_data.json, set once by loadData
+        let jobsTableApi = null;  // the Job Listings DataTable, set once by initJobsTable
+
+        // "all" or "open": which postings every tab shows (the Show: switch).
+        function selectedScope() {
+            return document.getElementById('scopeSelect').value;
+        }
+
+        // Fill the overview and the breakdown tabs for the selected postings.
+        function renderAnalysis() {
+            if (analysisData === null) {
+                return;  // switch changed before analysis_data.json arrived; loadData renders it
+            }
+            const open = selectedScope() === 'open';
+            const data = open ? analysisData.open_now : analysisData;
+            document.getElementById('scopeNote').textContent = open
+                ? data.overview.total_jobs.toLocaleString() + ' postings open as of ' + data.overview.as_of +
+                  ', when every open posting\'s questionnaire was last re-checked.'
+                : '';
+
+            document.getElementById('totalScraped').textContent = data.overview.total_jobs_with_questionnaires.toLocaleString();
+            document.getElementById('totalWithEO').textContent = data.overview.total_jobs_with_eo.toLocaleString();
+            document.getElementById('percentageWithEO').textContent = data.overview.percentage_with_eo + '%';
+            document.getElementById('dataCoverage').textContent = data.overview.data_coverage;
+
+            createSimpleTable('serviceTable', data.service_analysis);
+            createSimpleTable('gradeTable', data.grade_analysis);
+            createSimpleTable('locationTable', data.location_analysis);
+            createSimpleTable('agencyTable', data.agency_analysis);
+            createSimpleTable('occupationTable', data.occupation_analysis);
+            createTimelineTable('timelineTable', data.timeline_analysis);
+        }
+
+        // Show only open postings in Job Listings when the switch says so (column 12 is Open Now).
+        function applyScopeToJobsTable() {
+            if (jobsTableApi === null) {
+                return;  // not loaded yet; initJobsTable applies the scope when it is
+            }
+            jobsTableApi.column(12).search(selectedScope() === 'open' ? '^Open$' : '', true, false).draw();
+        }
+
         function createSimpleTable(elementId, data) {
             const container = document.getElementById(elementId);
+            container.replaceChildren();
             const table = document.createElement('table');
             table.className = 'table table-striped table-bordered table-hover';
             
@@ -767,6 +804,7 @@
         
         function createTimelineTable(elementId, data) {
             const container = document.getElementById(elementId);
+            container.replaceChildren();
             const table = document.createElement('table');
             table.className = 'table table-bordered heatmap-table';
             
@@ -944,6 +982,13 @@
                                 return '<a href="' + data + '" target="_blank" class="external-link" data-link-type="questionnaire">View Questions</a>';
                             }
                             return '';
+                        }
+                    },
+                    {
+                        // Open as of the latest re-check: the same postings the daily email covers.
+                        data: 'open',
+                        render: function(data) {
+                            return data ? 'Open' : 'Closed';
                         }
                     }
                 ],
@@ -1213,6 +1258,9 @@
                             api.column(9).search('').draw();
                         }
                     });
+
+                    jobsTableApi = api;
+                    applyScopeToJobsTable();
                     
                     // Initial display
                     updateFilterDisplay();
@@ -1231,7 +1279,7 @@
                 });
             }
             
-            const headers = ['USAJobs ID', 'Position Title', 'Occupation', 'Agency', 'Location', 'Grade', 'Service Type', 'Open Date', 'Close Date', 'Questionnaire Status', 'USAJobs Link', 'Questionnaire Link'];
+            const headers = ['USAJobs ID', 'Position Title', 'Occupation', 'Agency', 'Location', 'Grade', 'Service Type', 'Open Date', 'Close Date', 'Questionnaire Status', 'USAJobs Link', 'Questionnaire Link', 'Open Now'];
             const csvContent = [
                 headers.join(','),
                 ...allJobsData.map(row => {
@@ -1247,7 +1295,8 @@
                         row.close_date || '',
                         '"' + (row.questionnaire_status || '').replace(/"/g, '""') + '"',
                         row.usajobs_link ? 'https://www.usajobs.gov/job/' + row.usajobs_link : '',
-                        row.questionnaire_link || ''
+                        row.questionnaire_link || '',
+                        row.open ? 'Open' : 'Closed'
                     ].join(',');
                 })
             ].join('\n');
@@ -1261,6 +1310,10 @@
         
         // Load data when page loads
         document.addEventListener('DOMContentLoaded', function() {
+            document.getElementById('scopeSelect').addEventListener('change', function() {
+                renderAnalysis();
+                applyScopeToJobsTable();
+            });
             loadData();
             
             // Track page view with custom dimensions
