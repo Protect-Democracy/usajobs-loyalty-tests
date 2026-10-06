@@ -1,0 +1,220 @@
+Position Title
+Patent Examiner (Computer Science) Direct-Hire Authority (DHA)
+Agency
+Patent and Trademark Office
+Announcement Number
+PATS-DCOM-26-13053273-DHA
+Open Period
+Oct 05, 2026 to Oct 25, 2026
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+2.
+Are you a current or former federal employee displaced from the agency hiring for this position? If yes, confirm: you are located in the same local commuting area of the vacancy; AND, you are applying to a position that is at or below the grade level of the position from which you were or will be separated; AND, you are applying to a position that does not have greater promotion potential than the position from which you were or will be separated; AND, your last performance rating of record is at least fully successful or the equivalent. For more information, review the USAJOBS Help Center. To verify your eligibility, you must submit supporting documentation such as a Reduction in Force (RIF) separation notice or a Proposed Removal/Separation notice to include your latest performance rating (if the notice does not have this information included, you must submit a copy of your most recent performance appraisal) and a copy of your latest Notification of Personnel Action, Standard Form 50.
+ Yes
+ No
+3.
+Are you a current or former Federal employee displaced from a position in a Federal agency other than the agency hiring for this position? If yes, confirm: you are located in the same local commuting area of the vacancy; AND, you are applying to a position that is at or below the grade level of the position from which you were or will be separated; AND, you are applying to a position that does not have greater promotion potential than the position from which you were or will be separated; AND, your last performance rating of record is at least fully successful or the equivalent. For more information, review the USAJOBS Help Center. To verify your eligibility, you must submit supporting documentation such as a Reduction in Force (RIF) separation notice to include your latest performance rating (if the notice does not have this information included, you must submit a copy of your most recent performance appraisal) and a copy of your latest Notification of Personnel Action, Standard Form 50.
+ Yes
+ No
+4.
+Reasonable Accommodations for taking the online assessments are provided on a case-by-case basis only to qualified individuals with a disability covered by the Rehabilitation Act of 1973, as amended. Do you have a disability (physical or mental) that you believe will interfere with completing the online assessments and require a Reasonable Accommodation?
+ Yes
+ No
+Preferences
+1.
+Select the lowest grade you are willing to accept for this position.
+ 7
+ 9
+ 11
+2.
+How did you hear about this USPTO job opportunity? (No Choice Limit)
+ Email
+ Facebook
+ Instagram
+ LinkedIn
+ @USPTOJobs "X" (Twitter)
+ Reddit
+ Google Reviews
+ Handshake University Platform
+ Monster
+ Indeed
+ Glassdoor
+ USAJOBS
+ University Job Board
+ Online Blog / Bulletin Board
+ Friend
+ USPTO Employee
+ Professional Society / Organization
+ State Bar Association
+ University Career Fair
+ Conference
+ University Career Placement Office
+ Virtual Job Fair
+ USPTO Information Session
+ USPTO Jobs web pages
+ USPTO website
+ Other
+3.
+Have you held a political appointment within the previous five-year period?
+ Yes
+ No
+4.
+If you are a current or former Federal civilian employee, by what agency/office or Department of Commerce bureau are you employed?
+ I am not a current Federal civilian employee
+ Other agency/office not in the Department of Commerce
+ Department of Commerce, Bureau of Economic Analysis (BEA)
+ Department of Commerce, Bureau of Industry and Security (BIS)
+ Department of Commerce, Bureau of the Census (CENSUS)
+ Department of Commerce, Economic Development Administration (EDA)
+ Department of Commerce, Economic and Statistics Administration (ESA)
+ Department of Commerce, International Trade Administration (ITA)
+ Department of Commerce, Minority Business Development Agency (MBDA)
+ Department of Commerce, National Institute of Standards and Technology (NIST)
+ Department of Commerce, National Oceanic and Atmospheric Administration (NOAA)
+ Department of Commerce, National Telecommunications and Information Administration (NTIA)
+ Department of Commerce, National Technical Information Service (NTIS)
+ Department of Commerce, Office of the Secretary (OS)
+ Department of Commerce, U.S. Patent and Trademark Office (USPTO)
+ Department of Commerce, Office of the Inspector General
+ Other
+5.
+If you answered "Other" to the above question, please enter the agency and organization.
+6.
+Are you currently receiving or are you scheduled to receive severance pay as a result of a Reduction in Force (RIF) from a Federal Agency?
+ Yes
+ No
+7.
+Have you accepted a Voluntary Separation Incentive Payment (VSIP/"buyout") from a Federal agency within the past 5 years?
+ Yes
+ No
+8.
+If you are a male at least 18 years of age, born after December 31, 1959, have you registered with the Selective Service system?
+ Yes
+ No
+ No, but I have an approved exemption
+ Not applicable
+9.
+Are you a retiree receiving a Federal annuity? Note: If you are an annuitant, your salary or annuity may be reduced upon employment.
+ Yes
+ No
+10.
+Do you have any education/experience in intellectual property?
+ Yes
+ No
+11.
+Are you a current or former Patent Examiner at the U.S. Patent and Trademark Office (USPTO)?
+ Yes
+ No
+12.
+If you answered "Yes", to Questionnaire #3, please list your dates of employment at the USPTO. If you answered "No" to Questionnaire #3, type N/A.
+13.
+Have you passed the Patent Bar Exam?
+ Yes
+ No
+14.
+If you answered "Yes" to Questionnaire #1, please indicate where you obtained your education in intellectual property and/or experience in planning and conducting field of search for patent applications or in reviewing or analyzing patent applications. Please select all that apply.
+ USPTO externships
+ Externships
+ Internships
+ Patent searcher
+ Patent law clerk
+ JD with specialty in patent law
+ Coursework
+ Other
+ I have no experience or education in intellectual property.
+15.
+If you answered "Yes" please provide the date you passed the Patent Bar Exam. If you answered "No", type N/A.
+16.
+Below is a list of technical areas of experience. Please check all that apply to you.
+ Super Intelligence
+ Arithmetic Processing
+ Computer Architecture
+ Computer System Initialization, Power Control, Clocking and Synchronization
+ Control Systems – Error Detection/Correction and Fault Recover
+ Configuration Circuits
+ Interactive Video Distribution Systems
+ Memory Access and Control
+ Multiplex, Telecommunications, 5G, Wireless Communications, Routing, Switching, Access Techniques, Cellular and Data Communications
+ Computer Networks
+ Database and File Management or Data Structures
+ Data Processing: Software Development, Installation, and Management
+ Virtual Machine Task or Process Management or Task Management/Control
+ Network Security
+ None of the Above
+17.
+The GPA is rounded to one decimal place (2.95 = 3.0 and 2.94 = 2.9). The final transcript must cover the period being used to determine the GPA.
+ 3.5-4.0
+ 3.0-3.4
+ 2.9 or below
+18.
+What is the highest level of education you have received?
+ Two Years of College
+ Associate degree
+ Three Years of College
+ Four Years of College
+ Bachelor's Degree
+ Post Bachelor's Degree
+ First Professional Degree
+ Post-First Professional
+ Master's Degree
+ Post Master's Degree
+ Sixth-Year Degree
+ Post-Sixth Year
+ Doctorate Degree
+ Post-Doctorate
+19.
+What is the name of college or university your highest level of education was received? (Please list complete school name)
+20.
+When was your highest level of education completed? (Please list complete year)
+21.
+What is the degree major for your highest received degree earned?
+Merit Hiring Plan Short Essay Questions
+.
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+3.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+PE Computer Science Min Quals
+.
+The following questions apply to grade levels GS-07, GS-09, and GS-11. Select the response that best describes your experience and/or education related to the basic qualification requirements of a Patent Examiner (Computer Science). Refer to the "Qualifications and Evaluations" section of the job announcement for a detailed explanation of the basic qualification requirements for this position.
+1.
+Select the response that best describes your education related to the Basic Qualification Requirements for a Patent Examiner (Computer Science), GS-1224.
+ I possess at least a bachelor's degree in Computer Science OR a bachelor's degree with 30 semester hours in a combination of mathematics, statistics, and computer science. At least 15 of the 30 semester hours must have been in any combination of statistics and mathematics that included differential and integral calculus.
+ I will complete the qualifying education within 9 months from the date of application.
+ I do not possess the education described above.
+2.
+Candidates for the GS-7 grade level - In addition to the Basic Requirements, select the answer that best describes your education, experience, or combination of education and experience as it relates to the qualification requirements for this position: You must have: (A) One year of successfully completed graduate-level education from an accredited college and/or university in Computer Science or other directly related field of study; OR (B) Superior Academic Achievement; OR (C) One year of specialized experience; OR (D) Combination of education and experience in college-level education, training, and specialized experience.
+ I have at least one-year of graduate-level education.
+ Superior Academic Achievement- I meet 1 of the following: (1) In the upper one-third of my graduating class; OR (2) a GPA of 3.0 or higher out of 4.0, as recorded on official transcript, OR (3) a GPA of 3.5 or higher out of 4.0, OR (4) Honor society membership.
+ I have at least one year of experience applying basic biological science, physics, or scientific principles, theories, concepts, and methodologies used in the evaluation of technology; assisting in the collection of and recognizing discrepancies in data.
+ I have a combination of graduate level education that is less than 1 year and less than 1 year of specialized experience that together meet the qualification requirements for this position.
+ I do not meet any of the requirements listed above.
+3.
+Candidates for the GS-9 grade level - In addition to the Basic Requirement of the positions included in the vacancy announcement, choose the answer that best describes your education, experience or combination of education and experience as related to the qualification requirements for this position: You must have: (A) Two years of graduate level education from an accredited college and/or university in Computer Science or other directly related field of study, OR (B) One year of specialized experience, OR (C) Combination of education and experience in college-level education, training, and specialized experience.
+ I have at least two years of graduate level education leading to a master's degree or equivalent graduate degree in a Computer Science or other directly related field of study. One year of full-time graduate education is considered to be the number of credit hours that the school attended has determined to represent 1 year of full-time study (If that number cannot be obtained from the school, 18 semester hours is considered an academic year of graduate study).
+ I have at least one year of specialized experience, interpreting and applying intermediate biological science, physics, or scientific principles, theories, concepts, and methodologies used in the evaluation of technology; participating in planning and conducting research; applying appropriate references to the claimed invention.
+ I have a combination of successfully completed graduate level education, that is beyond the first year of progressive graduate study, and appropriate professional experience.
+ I do not meet any of the requirements listed above.
+4.
+Candidates for the GS-11 grade level - In addition to the Basic Requirement of the positions included in the vacancy announcement, choose the answer that best describes your education, experience or combination of education and experience as related to the qualification requirements for this position: You must have: (A) At least three years of progressively higher-level graduate-level education leading to a Ph.D. degree or Ph.D., or equivalent doctoral degree from an accredited college and/or university in Computer Science or other directly related field of study, OR (B) One year of specialized experience, OR (C) Combination of education and experience in graduate-level education, training, and specialized experience.
+ I have at least three years of progressively higher-level graduate education leading to a Ph.D. degree or Ph.D. or equivalent doctoral degree in Computer Science or other directly related field of study. One year of full-time graduate education is considered to be the number of credit hours that the school attended has determined to represent 1 year of full-time study (If that number cannot be obtained from the school, 18 semester hours is considered an academic year of graduate study).
+ I have at least one year of specialized experience, interpreting and applying advanced biological science, physics, or scientific principles, theories, concepts, and methodologies used in the evaluation of technology; planning and conducting research; independently applying appropriate references to the claimed invention.
+ I have a combination of successfully completed graduate-level education, that is beyond the second year of progressive graduate study, and appropriate professional experience.
+ I do not meet any of the requirements listed above.
