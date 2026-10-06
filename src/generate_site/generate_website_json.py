@@ -98,6 +98,40 @@ def check_executive_order_mentions(questionnaire_dir=RAW_QUESTIONNAIRES_DIR):
     return mentions
 
 
+RECHECK_DIR = Path('questionnaire_rechecks')
+RECHECK_RESULT_FLAGS = {'still old wording': True, 'switched to new wording': False, 'neither wording': False}
+
+
+def latest_rechecked_eo_flags(recheck_dir=RECHECK_DIR):
+    """Latest known essay-question flag per questionnaire_url, from re-fetches made
+    after the first scrape. raw_questionnaires/ only has each questionnaire as first
+    scraped, and agencies have since edited many to drop the question.
+
+    Applied oldest to newest, so later checks win: the 2026-09-28 one-off re-check
+    (recheck_log.csv), then the daily refresh's changes_log.csv, then
+    current_status.csv (every questionnaire of a currently-open posting, as of the
+    latest refresh). Questionnaires none of these cover aren't in the result and
+    keep their first-scrape flag."""
+    flags = {}
+    recheck_log = recheck_dir / 'recheck_log.csv'
+    if recheck_log.exists():
+        log = pd.read_csv(recheck_log, dtype=str, keep_default_na=False)
+        # 'rescrape failed' told us nothing, so it's left out.
+        log = log[log['result'].isin(RECHECK_RESULT_FLAGS)]
+        flags.update(zip(log['questionnaire_url'], log['result'].map(RECHECK_RESULT_FLAGS)))
+    for name in ['changes_log.csv', 'current_status.csv']:
+        path = recheck_dir / name
+        if not path.exists():
+            print(f"Warning: {path} does not exist")
+            continue
+        df = pd.read_csv(path, dtype=str, keep_default_na=False)
+        df = df[df['has_loyalty_q'].isin(['True', 'False'])]
+        if 'date' in df.columns:
+            df = df.sort_values('date', kind='stable')
+        flags.update(zip(df['questionnaire_url'], df['has_loyalty_q'] == 'True'))
+    return flags
+
+
 def main():
     # Always regenerate the clean all jobs data to get the latest
     print("Generating clean all jobs data from latest parquet files...")
@@ -124,10 +158,19 @@ def main():
     
     # Add questionnaire ID and executive order flags
     links_df['questionnaire_id'] = links_df['questionnaire_url'].apply(lambda url: extract_questionnaire_id(url)[1])
-    links_df['has_executive_order'] = links_df['questionnaire_id'].isin(eo_mentions)
-    
-    # Filter to only scraped questionnaires
-    scraped_df = links_df[links_df['questionnaire_id'].isin(scraped_ids)].copy()
+    links_df['had_executive_order_at_first_scrape'] = links_df['questionnaire_id'].isin(eo_mentions)
+    # The flag the site reports is the latest known one: a later re-check, if any,
+    # overrides the first scrape.
+    rechecked = latest_rechecked_eo_flags()
+    links_df['has_executive_order'] = links_df['questionnaire_url'].map(rechecked).fillna(
+        links_df['had_executive_order_at_first_scrape']).astype(bool)
+    print(f"Re-checked questionnaires: {links_df['questionnaire_url'].isin(rechecked).sum():,} links; "
+          f"first scrape had the question but latest re-check doesn't: "
+          f"{(links_df['had_executive_order_at_first_scrape'] & ~links_df['has_executive_order']).sum():,} links")
+
+    # Filter to scraped questionnaires (first scrape or a later re-check)
+    scraped_df = links_df[links_df['questionnaire_id'].isin(scraped_ids)
+                          | links_df['questionnaire_url'].isin(rechecked)].copy()
     
     # Keep track of the original scraped dataframe for later use
     scraped_df_all = scraped_df.copy()
@@ -343,11 +386,14 @@ def main():
     jobs_with_only_bad_link = jobs_with_any_link - jobs_with_valid_link
     jobs_with_scraped = set(scraped_df_all['usajobs_control_number'])
     jobs_with_eo = set(scraped_df[scraped_df['has_executive_order']]['usajobs_control_number'])
+    jobs_with_eo_removed = set(scraped_df[scraped_df['had_executive_order_at_first_scrape']
+                                          & ~scraped_df['has_executive_order']]['usajobs_control_number'])
 
     # Add questionnaire status to all jobs
     all_jobs_for_display['has_valid_link'] = all_jobs_for_display['usajobs_control_number'].isin(jobs_with_valid_link)
     all_jobs_for_display['only_bad_link'] = all_jobs_for_display['usajobs_control_number'].isin(jobs_with_only_bad_link)
     all_jobs_for_display['questionnaire_scraped'] = all_jobs_for_display['usajobs_control_number'].isin(jobs_with_scraped)
+    all_jobs_for_display['eo_question_removed'] = all_jobs_for_display['usajobs_control_number'].isin(jobs_with_eo_removed)
     all_jobs_for_display['has_eo_question'] = all_jobs_for_display['usajobs_control_number'].isin(jobs_with_eo)
 
     # Create questionnaire status column (later assignments override earlier ones)
@@ -355,6 +401,7 @@ def main():
     all_jobs_for_display.loc[all_jobs_for_display['only_bad_link'], 'questionnaire_status'] = 'Questionnaire URL could not be verified'
     all_jobs_for_display.loc[all_jobs_for_display['has_valid_link'], 'questionnaire_status'] = 'Has questionnaire (not scraped)'
     all_jobs_for_display.loc[all_jobs_for_display['questionnaire_scraped'], 'questionnaire_status'] = 'Questionnaire without EO question'
+    all_jobs_for_display.loc[all_jobs_for_display['eo_question_removed'], 'questionnaire_status'] = 'EO question removed after posting'
     all_jobs_for_display.loc[all_jobs_for_display['has_eo_question'], 'questionnaire_status'] = 'Questionnaire with EO question'
     
     # Get questionnaire URLs for jobs that have them

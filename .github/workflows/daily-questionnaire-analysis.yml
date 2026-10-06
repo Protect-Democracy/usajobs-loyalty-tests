@@ -111,6 +111,25 @@ jobs:
         cd src/generate_site
         python refresh_open_questionnaires.py
 
+    - name: Rebuild website JSON with today's re-check
+      # The site reports each posting's latest re-checked status, and the first
+      # build above ran before today's refresh.
+      if: always()
+      run: |
+        cd src/generate_site
+        python generate_website_json.py
+
+    - name: Check the tracker matches the daily email
+      # Every open posting's tracker status must agree with open_postings.csv,
+      # which the daily Loyalty Q email reads. A mismatch opens an issue (below)
+      # but doesn't hold back the site update.
+      id: tracker_email_check
+      if: always()
+      continue-on-error: true
+      run: |
+        cd src/generate_site
+        python check_tracker_matches_email.py
+
     - name: Run questionnaire tests
       id: questionnaire_tests
       run: |
@@ -190,6 +209,24 @@ jobs:
             repo: context.repo.repo,
             title: `Open Questionnaire Refresh Failed - ${new Date().toISOString().split('T')[0]}`,
             body: `The open-questionnaire refresh step failed, so questionnaire_rechecks/ was not updated today (the rest of the pipeline continued). If the log says only a small share of fetches succeeded, USAStaffing may be blocking the runner; the previous state was kept.
+
+          [View the workflow run](${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId})`,
+            labels: ['bug', 'automated'],
+            assignees: ['abigailhaddad-2'],
+          });
+
+    - name: Open an issue if the email and tracker do not match
+      if: always() && steps.tracker_email_check.outcome == 'failure'
+      uses: actions/github-script@v7
+      with:
+        script: |
+          await github.rest.issues.create({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            title: `Email and tracker do not match - ${new Date().toISOString().split('T')[0]}`,
+            body: `For at least one open posting, the site's tracker and today's re-check (\`questionnaire_rechecks/open_postings.csv\`, which the daily Loyalty Q email reads) disagree on whether it asks the Executive Orders question. The site was still updated.
+
+          The "Check the tracker matches the daily email" step's log lists every posting that disagrees.
 
           [View the workflow run](${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId})`,
             labels: ['bug', 'automated'],
