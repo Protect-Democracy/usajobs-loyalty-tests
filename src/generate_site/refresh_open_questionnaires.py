@@ -282,6 +282,18 @@ def main():
             before = flags(stored.read_text(encoding='utf-8', errors='ignore')) if stored else None
 
         row = {'questionnaire_url': url, 'usajobs_control_numbers': by_url[url], 'fetch_status': fetch_status}
+        locally_rechecked = None
+        if fetch_status == 'skipped_blocked_domain':
+            # Blocked portals are re-checked locally through a real browser
+            # (recheck_blocked_portals.py), which saves each copy that changed in a
+            # dated folder here. Use the newest stored copy, not yesterday's flags.
+            latest = latest_stored_copy(url, out_dir)
+            if latest is not None and (not prev or str(latest) != prev['text_file']):
+                locally_rechecked = latest
+                text = latest.read_text(encoding='utf-8', errors='ignore')
+                if prev:
+                    # Compare against what was reported last, not the new copy itself.
+                    before = {k: prev[k] == 'True' for k in ('has_loyalty_q', 'has_new_wording', 'has_question_5')}
         if text is None:
             # Not fetched today: keep the last known flags and text.
             carried = before or {'has_loyalty_q': False, 'has_new_wording': False, 'has_question_5': False}
@@ -305,7 +317,16 @@ def main():
             # First refresh of this questionnaire: record it only if it no longer matches its stored copy.
             changed = before is None or now != before
 
-        if changed:
+        if locally_rechecked is not None:
+            # A newer copy saved by the local re-check; point at it.
+            text_file, last_changed = str(locally_rechecked), today.isoformat()
+            log_rows.append({
+                'date': today.isoformat(), 'questionnaire_url': url,
+                'change': 'changed' if before is not None else 'first_seen',
+                **{f'had_{k[4:]}': (before or {}).get(k, '') for k in now},
+                **now, 'text_file': text_file,
+            })
+        elif changed:
             day_dir.mkdir(exist_ok=True)
             text_file = day_dir / get_questionnaire_filename(url)
             if text_file.exists() and text_file.read_text(encoding='utf-8') != text:

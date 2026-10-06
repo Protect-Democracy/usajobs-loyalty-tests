@@ -584,9 +584,10 @@ def check_analysis_data():
             without_eo = status_counts.get('Questionnaire without EO question', 0)
             with_eo = status_counts.get('Questionnaire with EO question', 0)
             url_unverified = status_counts.get('Questionnaire URL could not be verified', 0)
+            eo_removed = status_counts.get('EO question removed after posting', 0)
 
             # Check that questionnaire statuses sum to total
-            total_with_questionnaire = not_scraped + without_eo + with_eo + url_unverified
+            total_with_questionnaire = not_scraped + without_eo + with_eo + url_unverified + eo_removed
             if (no_questionnaire + total_with_questionnaire) != total_jobs:
                 print(f"{Colors.RED}❌ FAIL{Colors.RESET} Status counts don't sum to total jobs")
                 all_good = False
