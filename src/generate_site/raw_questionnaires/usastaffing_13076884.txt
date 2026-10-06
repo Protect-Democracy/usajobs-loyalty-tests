@@ -1,0 +1,42 @@
+Position Title
+HR SPEC
+Agency
+Army National Guard Units
+Announcement Number
+GU-13076884-AR-27-001
+Open Period
+Oct 06, 2026 to Oct 23, 2026
+Preferences
+1.
+Would you accept a temporary appointment?
+ Yes
+ No
+HR Specialist
+.
+Select “Yes” or “No” to the following question(s).
+1.
+Are you currently a member of the Guam National Guard, eligible for employment under Title 32 status?
+ Yes
+ No
+2.
+Are you currently a Title 5 or Title 32 permanent or indefinite employee of the Guam Army National Guard?
+ Yes
+ No
+3.
+Are you currently serving in the Guam Army National Guard in the military grade of E-4 to E-7, or O1 - O3?
+ Yes
+ No
+4.
+Do you possess at least one (1) year of specialized experience equivalent to at least the GS-07 level that provided knowledge of military human resources programs, policies, procedures, and personnel actions?
+ Yes
+ No
+5.
+Applicants may qualify for this position based on education in lieu of specialized experience. At the GS-09 level, qualifying education must consist of: master's or equivalent graduate degree or 2 full years of progressively higher level graduate education leading to such a degree or LL.B. or J.D., if related Do you wish to be considered based on qualifying education in lieu of specialized experience?
+ Yes - I will submit transcripts to support qualification.
+ No - I qualify based on specialized experience.
+.
+Select “Yes” or “No” to the following question(s).
+6.
+I certify that my resume and all supporting documents accurately describe my qualifications, experience, and training, including applicable dates. I understand that false or misleading information may result in disqualification from consideration.
+ Yes
+ No
