@@ -132,77 +132,13 @@ def latest_rechecked_eo_flags(recheck_dir=RECHECK_DIR):
     return flags
 
 
-def main():
-    # Always regenerate the clean all jobs data to get the latest
-    print("Generating clean all jobs data from latest parquet files...")
-    import subprocess
-    subprocess.run(['python3', 'generate_all_jobs_data.py'], check=True)
-    
-    # Load the clean all jobs data
-    all_jobs_df = pd.read_csv('all_jobs_clean.csv')
-    print(f"Total jobs loaded: {len(all_jobs_df):,}")
-    
-    # Load questionnaire links
-    links_df = pd.read_csv(QUESTIONNAIRE_DIR / 'questionnaire_links.csv')
-    print(f"\nLoaded {len(links_df):,} questionnaire links")
-    
-    # Check for the specific executive order question
-    eo_mentions = check_executive_order_mentions()
-    print(f"\nFound {len(eo_mentions):,} questionnaires with the essay question")
-    
-    # Get all scraped IDs
-    scraped_ids = set()
-    for txt_file in RAW_QUESTIONNAIRES_DIR.glob('*.txt'):
-        file_id = txt_file.stem.split('_')[1]
-        scraped_ids.add(file_id)
-    
-    # Add questionnaire ID and executive order flags
-    links_df['questionnaire_id'] = links_df['questionnaire_url'].apply(lambda url: extract_questionnaire_id(url)[1])
-    links_df['had_executive_order_at_first_scrape'] = links_df['questionnaire_id'].isin(eo_mentions)
-    # The flag the site reports is the latest known one: a later re-check, if any,
-    # overrides the first scrape.
-    rechecked = latest_rechecked_eo_flags()
-    links_df['has_executive_order'] = links_df['questionnaire_url'].map(rechecked).fillna(
-        links_df['had_executive_order_at_first_scrape']).astype(bool)
-    print(f"Re-checked questionnaires: {links_df['questionnaire_url'].isin(rechecked).sum():,} links; "
-          f"first scrape had the question but latest re-check doesn't: "
-          f"{(links_df['had_executive_order_at_first_scrape'] & ~links_df['has_executive_order']).sum():,} links")
+def build_analysis(all_jobs_df, scraped_df, scraped_df_in_current, links_df):
+    """Overview numbers and the service/grade/location/agency/occupation/timeline
+    tables for one set of postings. main() calls it for all postings and again for
+    the currently open ones."""
+    all_jobs_df, scraped_df, scraped_df_in_current, links_df = (
+        all_jobs_df.copy(), scraped_df.copy(), scraped_df_in_current.copy(), links_df.copy())
 
-    # Filter to scraped questionnaires (first scrape or a later re-check)
-    scraped_df = links_df[links_df['questionnaire_id'].isin(scraped_ids)
-                          | links_df['questionnaire_url'].isin(rechecked)].copy()
-    
-    # Keep track of the original scraped dataframe for later use
-    scraped_df_all = scraped_df.copy()
-    
-    # IMPORTANT: Only count jobs that exist in the current all_jobs dataset
-    # This ensures consistency across all aggregations
-    scraped_df_in_current = scraped_df[scraped_df['usajobs_control_number'].isin(all_jobs_df['usajobs_control_number'])].copy()
-    
-    # Update location, grade, and other fields from all_jobs_df to ensure consistency
-    # This is important because job details might have changed between when the questionnaire was scraped
-    # and the current job data
-    job_info_cols = ['position_location', 'grade_code', 'occupation_series', 'occupation_name', 
-                     'service_type', 'hiring_agency']
-    all_jobs_info = all_jobs_df[['usajobs_control_number'] + job_info_cols].copy()
-    
-    # Drop the old columns from scraped_df_in_current and merge with authoritative data
-    scraped_df_in_current = scraped_df_in_current.drop(columns=job_info_cols, errors='ignore')
-    scraped_df_in_current = pd.merge(scraped_df_in_current, all_jobs_info, on='usajobs_control_number', how='left')
-    
-    # Deduplicate based on usajobs_control_number to avoid counting the same job multiple times
-    # Keep the first occurrence of each control number
-    original_count = len(scraped_df)
-    scraped_df_in_current_dedup = scraped_df_in_current.drop_duplicates(subset='usajobs_control_number', keep='first')
-    duplicate_count = len(scraped_df_in_current) - len(scraped_df_in_current_dedup)
-    
-    print(f"\nTotal questionnaire links scraped: {original_count:,}")
-    print(f"Jobs in current dataset with questionnaires: {len(scraped_df_in_current_dedup):,}")
-    print(f"Jobs with executive order mentions: {scraped_df_in_current_dedup['has_executive_order'].sum():,}")
-    
-    # Use the filtered dataset for all analysis
-    scraped_df = scraped_df_in_current_dedup
-    
     # Calculate overall statistics based on unique jobs
     total_jobs_with_questionnaires = len(scraped_df)
     total_jobs_with_eo = int(scraped_df['has_executive_order'].sum())
@@ -368,7 +304,102 @@ def main():
         analysis_data['timeline_analysis'] = timeline_data
     else:
         analysis_data['timeline_analysis'] = []
+
+    return analysis_data
+
+
+def main():
+    # Always regenerate the clean all jobs data to get the latest
+    print("Generating clean all jobs data from latest parquet files...")
+    import subprocess
+    subprocess.run(['python3', 'generate_all_jobs_data.py'], check=True)
     
+    # Load the clean all jobs data
+    all_jobs_df = pd.read_csv('all_jobs_clean.csv')
+    print(f"Total jobs loaded: {len(all_jobs_df):,}")
+    
+    # Load questionnaire links
+    links_df = pd.read_csv(QUESTIONNAIRE_DIR / 'questionnaire_links.csv')
+    print(f"\nLoaded {len(links_df):,} questionnaire links")
+    
+    # Check for the specific executive order question
+    eo_mentions = check_executive_order_mentions()
+    print(f"\nFound {len(eo_mentions):,} questionnaires with the essay question")
+    
+    # Get all scraped IDs
+    scraped_ids = set()
+    for txt_file in RAW_QUESTIONNAIRES_DIR.glob('*.txt'):
+        file_id = txt_file.stem.split('_')[1]
+        scraped_ids.add(file_id)
+    
+    # Add questionnaire ID and executive order flags
+    links_df['questionnaire_id'] = links_df['questionnaire_url'].apply(lambda url: extract_questionnaire_id(url)[1])
+    links_df['had_executive_order_at_first_scrape'] = links_df['questionnaire_id'].isin(eo_mentions)
+    # The flag the site reports is the latest known one: a later re-check, if any,
+    # overrides the first scrape.
+    rechecked = latest_rechecked_eo_flags()
+    links_df['has_executive_order'] = links_df['questionnaire_url'].map(rechecked).fillna(
+        links_df['had_executive_order_at_first_scrape']).astype(bool)
+    print(f"Re-checked questionnaires: {links_df['questionnaire_url'].isin(rechecked).sum():,} links; "
+          f"first scrape had the question but latest re-check doesn't: "
+          f"{(links_df['had_executive_order_at_first_scrape'] & ~links_df['has_executive_order']).sum():,} links")
+
+    # Filter to scraped questionnaires (first scrape or a later re-check)
+    scraped_df = links_df[links_df['questionnaire_id'].isin(scraped_ids)
+                          | links_df['questionnaire_url'].isin(rechecked)].copy()
+    
+    # Keep track of the original scraped dataframe for later use
+    scraped_df_all = scraped_df.copy()
+    
+    # IMPORTANT: Only count jobs that exist in the current all_jobs dataset
+    # This ensures consistency across all aggregations
+    scraped_df_in_current = scraped_df[scraped_df['usajobs_control_number'].isin(all_jobs_df['usajobs_control_number'])].copy()
+    
+    # Update location, grade, and other fields from all_jobs_df to ensure consistency
+    # This is important because job details might have changed between when the questionnaire was scraped
+    # and the current job data
+    job_info_cols = ['position_location', 'grade_code', 'occupation_series', 'occupation_name', 
+                     'service_type', 'hiring_agency']
+    all_jobs_info = all_jobs_df[['usajobs_control_number'] + job_info_cols].copy()
+    
+    # Drop the old columns from scraped_df_in_current and merge with authoritative data
+    scraped_df_in_current = scraped_df_in_current.drop(columns=job_info_cols, errors='ignore')
+    scraped_df_in_current = pd.merge(scraped_df_in_current, all_jobs_info, on='usajobs_control_number', how='left')
+    
+    # Deduplicate based on usajobs_control_number to avoid counting the same job multiple times
+    # Keep the first occurrence of each control number
+    original_count = len(scraped_df)
+    scraped_df_in_current_dedup = scraped_df_in_current.drop_duplicates(subset='usajobs_control_number', keep='first')
+    duplicate_count = len(scraped_df_in_current) - len(scraped_df_in_current_dedup)
+    
+    print(f"\nTotal questionnaire links scraped: {original_count:,}")
+    print(f"Jobs in current dataset with questionnaires: {len(scraped_df_in_current_dedup):,}")
+    print(f"Jobs with executive order mentions: {scraped_df_in_current_dedup['has_executive_order'].sum():,}")
+    
+    # Use the filtered dataset for all analysis
+    scraped_df = scraped_df_in_current_dedup
+    
+    analysis_data = build_analysis(all_jobs_df, scraped_df, scraped_df_in_current, links_df)
+
+    # The same numbers for open postings only. Open postings are exactly the ones the
+    # daily email reports on (open_postings.csv from the latest refresh), not recomputed
+    # from close dates, so the site and the email can't disagree about what's open.
+    open_ids = set(pd.read_csv(RECHECK_DIR / 'open_postings.csv', dtype=str)['usajobs_control_number'])
+    open_as_of = json.loads((RECHECK_DIR / 'last_run.json').read_text())['date']
+    missing_open = open_ids - set(all_jobs_df['usajobs_control_number'].astype(str))
+    if missing_open:
+        raise ValueError(f"{len(missing_open)} open postings from open_postings.csv aren't in all_jobs_clean.csv, "
+                         f"e.g. {sorted(missing_open)[:5]}")
+
+    def is_open(df):
+        return df['usajobs_control_number'].astype(str).isin(open_ids)
+
+    analysis_data['open_now'] = build_analysis(all_jobs_df[is_open(all_jobs_df)], scraped_df[is_open(scraped_df)],
+                                               scraped_df_in_current[is_open(scraped_df_in_current)], links_df)
+    analysis_data['open_now']['overview']['as_of'] = open_as_of
+    print(f"Open postings as of {open_as_of}: {analysis_data['open_now']['overview']['total_jobs']:,}; "
+          f"with the EO question: {analysis_data['open_now']['overview']['total_jobs_with_eo']:,}")
+
     # Job Postings - Include ALL jobs with questionnaire status
     # Start with all jobs
     all_jobs_for_display = all_jobs_df.copy()
@@ -403,7 +434,9 @@ def main():
     all_jobs_for_display.loc[all_jobs_for_display['questionnaire_scraped'], 'questionnaire_status'] = 'Questionnaire without EO question'
     all_jobs_for_display.loc[all_jobs_for_display['eo_question_removed'], 'questionnaire_status'] = 'EO question removed after posting'
     all_jobs_for_display.loc[all_jobs_for_display['has_eo_question'], 'questionnaire_status'] = 'Questionnaire with EO question'
-    
+
+    all_jobs_for_display['is_open'] = is_open(all_jobs_for_display)
+
     # Get questionnaire URLs for jobs that have them
     questionnaire_urls = links_df.drop_duplicates('usajobs_control_number')[['usajobs_control_number', 'questionnaire_url']]
     all_jobs_for_display = pd.merge(all_jobs_for_display, questionnaire_urls, on='usajobs_control_number', how='left')
@@ -429,6 +462,7 @@ def main():
             'close_date': job['close_date'] if pd.notna(job['close_date']) else '',
             'usajobs_link': job['usajobs_control_number'] if pd.notna(job['usajobs_control_number']) else '',
             'questionnaire_status': job['questionnaire_status'],
+            'open': bool(job['is_open']),
             'questionnaire_link': transform_monster_url(job['questionnaire_url']) if pd.notna(job.get('questionnaire_url')) else ''
         }
         job_postings.append(posting)
