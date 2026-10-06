@@ -16,6 +16,15 @@ questionnaire_rechecks/:
   <YYYY-MM-DD>/       The text of each questionnaire that changed that day.
   open_postings.csv   One row per currently-open posting: agency, title, dates, link,
                       and whether it has the Loyalty Q, the new wording, or Question 5.
+  link_changes_log.csv  Append-only. A row whenever an open posting's questionnaire
+                      links change (link_added, link_removed) or a posting stops being
+                      listed before its close date (no_longer_listed).
+
+"Open" means USAJobs listed the posting in today's collection
+(../../data/current_listing.csv, written by collect_current_data.py). A posting's
+questionnaires are the links in its text today, plus links inferred for it earlier
+(from its announcement number or rendered page) while its text today still has no
+direct link and still mentions a questionnaire.
   last_run.json       Date and counts for the latest run.
 
 USAStaffing questionnaires come from the JSON the public ViewQuestionnaire page
@@ -41,6 +50,8 @@ from pathlib import Path
 import pandas as pd
 import requests
 
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+from job_fields import load_questionnaire_links  # noqa: E402
 from questionnaire_utils import (
     BROWSER_HEADERS,
     RAW_QUESTIONNAIRES_DIR,
@@ -133,17 +144,53 @@ def flags(text):
     }
 
 
+CURRENT_LISTING = Path('../../data/current_listing.csv')
+LINK_LOG_COLUMNS = ['date', 'usajobs_control_number', 'change', 'questionnaire_url', 'position_close_date']
+
+
 def open_postings_and_links(today):
-    """Every posting still open on `today` (one row each), and its
-    (usajobs_control_number, questionnaire_url) links."""
+    """Every posting USAJobs lists today (one row each), and its
+    (usajobs_control_number, questionnaire_url) links.
+
+    Fails if today's listing is missing or from another day: the collector writes it
+    only after a complete collection, and an old one would show pulled postings as open."""
+    listing = pd.read_csv(CURRENT_LISTING, dtype=str, keep_default_na=False)
+    listed_dates = set(listing['listed_date'])
+    if listed_dates != {today.date().isoformat()}:
+        raise SystemExit(f'{CURRENT_LISTING} is from {sorted(listed_dates)}, not {today.date()}; '
+                         'the daily data update must complete first')
+    listing['usajobs_control_number'] = listing['usajobs_control_number'].astype('int64')
+
     jobs = pd.read_csv('all_jobs_clean.csv', low_memory=False, usecols=[
         'usajobs_control_number', 'hiring_agency', 'position_title', 'position_open_date', 'position_close_date'])
     jobs['position_open_date'] = pd.to_datetime(jobs['position_open_date'], format='mixed', errors='coerce')
     jobs['position_close_date'] = pd.to_datetime(jobs['position_close_date'], format='mixed', errors='coerce')
-    close = jobs['position_close_date']
-    jobs = jobs[close.isna() | (close >= today)].drop_duplicates('usajobs_control_number')
-    links = pd.read_csv('questionnaire_links.csv', usecols=['usajobs_control_number', 'questionnaire_url'])
-    links = links[links['usajobs_control_number'].isin(jobs['usajobs_control_number'])]
+    jobs = jobs.drop_duplicates('usajobs_control_number')
+    listed = set(listing['usajobs_control_number'])
+    # Listed postings outside all_jobs_clean.csv (e.g. opened before its cutoff date)
+    # have no agency or title to report; count them so the gap is visible.
+    not_in_job_data = len(listed - set(jobs['usajobs_control_number']))
+    jobs = jobs[jobs['usajobs_control_number'].isin(listed)]
+
+    # Links in each posting's text today.
+    direct = listing.assign(questionnaire_url=listing['questionnaire_links'].map(load_questionnaire_links))
+    direct = direct.explode('questionnaire_url').dropna(subset=['questionnaire_url'])
+    has_direct = set(direct['usajobs_control_number'])
+    # Inferred links, under the same conditions extract_questionnaires.py inferred them:
+    # no direct link, the posting mentions a questionnaire, and (for the
+    # announcement-number guess) it applies through USAStaffing.
+    known = pd.read_csv('questionnaire_links.csv', dtype=str, keep_default_na=False, usecols=[
+        'usajobs_control_number', 'questionnaire_url', 'inferred_from_announcement', 'inferred_from_posting_html'])
+    known['usajobs_control_number'] = known['usajobs_control_number'].astype('int64')
+    flags_today = listing.set_index('usajobs_control_number')[['mentions_questionnaire', 'uses_usastaffing']] == 'True'
+    known = known.join(flags_today, on='usajobs_control_number', how='inner')
+    still_inferred = (~known['usajobs_control_number'].isin(has_direct) & known['mentions_questionnaire']
+                      & (((known['inferred_from_announcement'] == 'True') & known['uses_usastaffing'])
+                         | (known['inferred_from_posting_html'] == 'True')))
+    links = pd.concat([direct[['usajobs_control_number', 'questionnaire_url']],
+                       known.loc[still_inferred, ['usajobs_control_number', 'questionnaire_url']]], ignore_index=True)
+    links = links[links['usajobs_control_number'].isin(set(jobs['usajobs_control_number']))]
+
     # questionnaire_known_bad.txt holds links the scraper once judged broken, but
     # some are live questionnaires for the right posting (2 open postings with the
     # old question were hidden that way on 2026-09-29). Blacklisted USAStaffing
@@ -153,7 +200,36 @@ def open_postings_and_links(today):
     blacklisted = links['questionnaire_url'].isin(load_known_bad_urls())
     usastaffing = links['questionnaire_url'].str.contains('apply.usastaffing.gov/ViewQuestionnaire/', regex=False)
     links = links[~blacklisted | usastaffing].assign(blacklisted=blacklisted)
-    return jobs, links.drop_duplicates()
+    return jobs, links.drop_duplicates(), not_in_job_data
+
+
+def link_changes(today, previous_status, previous_postings, status, jobs):
+    """Rows for link_changes_log.csv: compares today's open postings and their
+    questionnaires with the previous run's."""
+    def pairs(st):
+        if st.empty:
+            return set()
+        ex = st.assign(cn=st['usajobs_control_numbers'].str.split(';')).explode('cn')
+        return set(zip(ex['cn'].astype('int64'), ex['questionnaire_url']))
+
+    before, now = pairs(previous_status), pairs(status)
+    open_before = set(previous_postings['usajobs_control_number'].astype('int64'))
+    open_now = set(jobs['usajobs_control_number'])
+    close = dict(zip(previous_postings['usajobs_control_number'].astype('int64'),
+                     previous_postings['position_close_date']))
+    close.update(zip(jobs['usajobs_control_number'], jobs['position_close_date'].dt.strftime('%Y-%m-%d')))
+    rows = []
+    for cn, url in sorted(before - now):
+        if cn in open_now:
+            rows.append((cn, 'link_removed', url))
+    for cn, url in sorted(now - before):
+        if cn in open_before:
+            rows.append((cn, 'link_added', url))
+    for cn in sorted(open_before - open_now):
+        if close.get(cn, '') and close[cn] >= today.isoformat():
+            rows.append((cn, 'no_longer_listed', ''))
+    return [{'date': today.isoformat(), 'usajobs_control_number': cn, 'change': change,
+             'questionnaire_url': url, 'position_close_date': close.get(cn, '')} for cn, change, url in rows]
 
 
 def write_open_postings(jobs, status, path):
@@ -241,7 +317,7 @@ def main():
     status_path = out_dir / 'current_status.csv'
     log_path = out_dir / 'changes_log.csv'
 
-    jobs, links = open_postings_and_links(pd.Timestamp(today))
+    jobs, links, not_in_job_data = open_postings_and_links(pd.Timestamp(today))
     n_open = len(jobs)
     by_url = links.groupby('questionnaire_url')['usajobs_control_number'].apply(
         lambda ids: ';'.join(str(int(i)) for i in sorted(ids)))
@@ -251,9 +327,12 @@ def main():
         urls = urls[:args.limit]
     print(f'{n_open:,} open postings; refreshing {len(urls):,} questionnaires', flush=True)
 
-    previous = {}
-    if status_path.exists():
-        previous = pd.read_csv(status_path, dtype=str, keep_default_na=False).set_index('questionnaire_url').to_dict('index')
+    previous_status = (pd.read_csv(status_path, dtype=str, keep_default_na=False) if status_path.exists()
+                       else pd.DataFrame(columns=STATUS_COLUMNS))
+    previous = previous_status.set_index('questionnaire_url').to_dict('index')
+    postings_path = out_dir / 'open_postings.csv'
+    previous_postings = (pd.read_csv(postings_path, dtype=str, keep_default_na=False) if postings_path.exists()
+                         else pd.DataFrame(columns=['usajobs_control_number', 'position_close_date']))
 
     with ThreadPoolExecutor(args.workers) as pool:
         fetched = list(pool.map(lambda u: fetch(u, by_url[u].split(';'), u in blacklisted_urls), urls))
@@ -349,15 +428,25 @@ def main():
         rows.append(row)
 
     status = pd.DataFrame(rows, columns=STATUS_COLUMNS)
-    postings = write_open_postings(jobs, status, out_dir / 'open_postings.csv')
+    # A --limit test run covers only some questionnaires, so it would log false removals.
+    link_rows = [] if args.limit else link_changes(today, previous_status, previous_postings, status, jobs)
+    postings = write_open_postings(jobs, status, postings_path)
     status.to_csv(status_path, index=False)
     if log_rows:
         pd.DataFrame(log_rows, columns=LOG_COLUMNS).to_csv(log_path, mode='a', index=False,
                                                            header=not log_path.exists())
+    link_log_path = out_dir / 'link_changes_log.csv'
+    if link_rows:
+        pd.DataFrame(link_rows, columns=LINK_LOG_COLUMNS).to_csv(link_log_path, mode='a', index=False,
+                                                                 header=not link_log_path.exists())
 
     summary = {
         'date': today.isoformat(),
         'open_postings': n_open,
+        'listed_postings_not_in_job_data': not_in_job_data,
+        'links_added': sum(r['change'] == 'link_added' for r in link_rows),
+        'links_removed': sum(r['change'] == 'link_removed' for r in link_rows),
+        'postings_no_longer_listed': sum(r['change'] == 'no_longer_listed' for r in link_rows),
         'questionnaires': len(status),
         'fetched_ok': int((status['fetch_status'] == 'ok').sum()),
         'failed': int((status['fetch_status'] == 'failed').sum()),

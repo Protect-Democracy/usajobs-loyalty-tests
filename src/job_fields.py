@@ -70,6 +70,11 @@ def find_questionnaire_links(text):
     links = []
     has_monster_link = False
 
+    # Monster Government's application site moved from jobs.monstergovt.com to
+    # jobs.applygovt.net (same paths and IDs). Write new-domain links in the old
+    # form so a questionnaire keeps one URL, file name, and history.
+    text = text.replace('jobs.applygovt.net', 'jobs.monstergovt.com')
+
     for match in USASTAFFING_QUESTIONNAIRE_RE.findall(text):
         if match not in links:
             links.append(match)
@@ -182,9 +187,12 @@ def load_questionnaire_links(value):
     if isinstance(value, str):
         if not value.strip():
             return []
-        try:
-            decoded = json.loads(value)
-        except (ValueError, TypeError):
-            return []
-        return decoded if isinstance(decoded, list) else []
-    return []
+        # derive_job_fields always writes json.dumps(list); anything else means the
+        # data is corrupt, and reading it as "no links" would look like links removed.
+        decoded = json.loads(value)
+        if not isinstance(decoded, list):
+            raise ValueError(f"questionnaireLinks is not a JSON list: {value[:200]!r}")
+        return decoded
+    if isinstance(value, float) and value != value:  # NaN: missing in pandas
+        return []
+    raise ValueError(f"Unexpected questionnaireLinks value: {value!r}")
