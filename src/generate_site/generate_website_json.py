@@ -474,6 +474,14 @@ def main():
     
     # Format dates
     all_jobs_for_display['open_date'] = pd.to_datetime(all_jobs_for_display['position_open_date'], format='mixed', errors='coerce').dt.strftime('%m/%d/%Y')
+    # Open postings' close dates come from today's listing (via open_postings.csv):
+    # the stored one is as first collected, and agencies extend and shorten postings.
+    open_close = pd.read_csv(RECHECK_DIR / 'open_postings.csv', dtype=str, keep_default_na=False).set_index(
+        'usajobs_control_number')['position_close_date']
+    open_close = open_close[open_close != '']
+    is_open_now = all_jobs_for_display['usajobs_control_number'].astype(str).isin(open_close.index)
+    all_jobs_for_display.loc[is_open_now, 'position_close_date'] = (
+        all_jobs_for_display.loc[is_open_now, 'usajobs_control_number'].astype(str).map(open_close))
     all_jobs_for_display['close_date'] = pd.to_datetime(all_jobs_for_display['position_close_date'], format='mixed', errors='coerce').dt.strftime('%m/%d/%Y')
     
     # Create occupation display - pad occupation series to 4 digits

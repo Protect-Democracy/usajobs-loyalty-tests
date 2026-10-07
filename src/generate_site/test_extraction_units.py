@@ -173,19 +173,23 @@ def test_old_question_matched_through_html_entities():
         assert len(check_executive_order_mentions(Path(d))) == len(variants)
 
 
-def test_blacklisted_usastaffing_link_counts_only_for_its_own_posting():
+def test_verified_usastaffing_link_counts_only_for_its_own_posting():
+    # Blacklisted and inferred links are verified: the questionnaire must belong to a
+    # posting linking to it, or to the same announcement (re-posted).
     import refresh_open_questionnaires as r
-    raw = json.dumps({'controlNumber': 879910000, 'positionTitle': 'Production Controller',
-                      'announcementSections': [], 'assessmentSections': []})
+    raw = json.dumps({'controlNumber': 879910000, 'announcementNumber': 'WA-13032090-AR-26-0001',
+                      'positionTitle': 'Production Controller', 'announcementSections': [], 'assessmentSections': []})
     original = r.fetch_usastaffing_questionnaire_json
     try:
         r.fetch_usastaffing_questionnaire_json = lambda url: (raw, False)
         url = 'https://apply.usastaffing.gov/ViewQuestionnaire/13032090'
-        assert r.fetch(url, ['879910000'], blacklisted=True)[0] == 'ok'
-        assert r.fetch(url, ['111111111'], blacklisted=True)[0] == 'not_this_posting'
-        assert r.fetch(url, ['111111111'], blacklisted=False)[0] == 'ok'  # only blacklisted links are checked
+        assert r.fetch(url, ['879910000'], verify=True)[0] == 'ok'
+        assert r.fetch(url, ['111111111'], verify=True)[0] == 'not_this_posting'
+        assert r.fetch(url, ['111111111'], verify=True, announcements={'WA-13032090-AR-26-0001'})[0] == 'ok'  # re-posted
+        assert r.fetch(url, ['111111111'], verify=True, announcements={'WA-99999999-AR-26-0001'})[0] == 'not_this_posting'
+        assert r.fetch(url, ['111111111'], verify=False)[0] == 'ok'  # links in the posting text aren't checked
         r.fetch_usastaffing_questionnaire_json = lambda url: (None, True)
-        assert r.fetch(url, ['879910000'], blacklisted=True)[0] == 'invalid'
+        assert r.fetch(url, ['879910000'], verify=True)[0] == 'invalid'
     finally:
         r.fetch_usastaffing_questionnaire_json = original
 
@@ -326,7 +330,7 @@ def test_derived_row_has_no_raw_descriptor():
 
 TESTS = [
     test_possible_variants_flags_rewordings_with_full_question,
-    test_blacklisted_usastaffing_link_counts_only_for_its_own_posting,
+    test_verified_usastaffing_link_counts_only_for_its_own_posting,
     test_old_question_matched_through_html_entities,
     test_questionnaire_json_to_text_renders_questions_and_header,
     test_direct_link_read_from_derived_column,

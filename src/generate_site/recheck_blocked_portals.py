@@ -75,6 +75,9 @@ def main():
     with sync_playwright() as pw:
         browser = pw.chromium.connect_over_cdp(args.cdp_url)
         page = browser.contexts[0].new_page()
+        # A fixed size, so responsive layout (e.g. FAA's header spelling out
+        # "AVIATOR") doesn't make the same questionnaire read as changed text.
+        page.set_viewport_size({'width': 1280, 'height': 900})
         for url in urls:
             fetch_status, text = fetch_page_text(page, url)
             row = {'date': today, 'questionnaire_url': url, 'status': fetch_status, 'text_file': '',

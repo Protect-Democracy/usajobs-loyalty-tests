@@ -265,6 +265,34 @@ def discover_questionnaire_url_from_usajobs_posting(position_uri, session=None, 
     return discover_agency_questionnaire_url_from_html(resp.text)
 
 
+
+def questionnaire_links_for_posting(direct_links, mentions_questionnaire, uses_usastaffing, announcement_number,
+                                    position_uri, fetch_usajobs_html=True, session=None):
+    """A posting's questionnaire links: the ones in its text, else a guess from its
+    announcement number, else one found on its rendered USAJobs page.
+
+    Returns (links, inferred_from_announcement, inferred_from_posting_html). Used both
+    when a posting is first collected (extract_questionnaires.py) and in the daily
+    refresh of every open posting (refresh_open_questionnaires.py), so the two agree.
+
+    Fallback 1 is gated on uses_usastaffing because the guess only makes sense as an
+    apply.usastaffing.gov URL. Fallback 2 isn't: that flag is False for jobs that apply
+    through an agency-branded portal on another domain (e.g. FAA's jobs.faa.gov),
+    which is the case it exists to catch."""
+    links = list(direct_links)
+    inferred_from_announcement = inferred_from_posting_html = False
+    if not links and mentions_questionnaire and uses_usastaffing:
+        guessed = infer_questionnaire_url_from_announcement(announcement_number)
+        if guessed:
+            links.append(guessed)
+            inferred_from_announcement = True
+    if not links and mentions_questionnaire and fetch_usajobs_html and isinstance(position_uri, str) and position_uri:
+        discovered_url = discover_questionnaire_url_from_usajobs_posting(position_uri, session=session)
+        if discovered_url:
+            links.append(discovered_url)
+            inferred_from_posting_html = True
+    return links, inferred_from_announcement, inferred_from_posting_html
+
 def load_known_bad_urls(path=None):
     """Load the set of URLs previously confirmed to not exist."""
     path = Path(path) if path else KNOWN_BAD_URLS_FILE
