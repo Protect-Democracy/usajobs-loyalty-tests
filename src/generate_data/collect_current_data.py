@@ -19,7 +19,7 @@ import time
 import requests
 from typing import List, Dict, Optional
 import pandas as pd
-from datetime import datetime
+from datetime import datetime, timezone
 import os
 from tqdm import tqdm
 from html import unescape
@@ -507,7 +507,11 @@ def write_current_listing(jobs: List[Dict], incomplete_series: List[str], args):
         'questionnaire_links': [j['questionnaireLinks'] for j in jobs],
         'mentions_questionnaire': [bool(j.get('mentionsQuestionnaire')) for j in jobs],
         'uses_usastaffing': [bool(j.get('usesUsastaffing')) for j in jobs],
-        'listed_date': datetime.now().strftime('%Y-%m-%d'),
+        'announcement_number': [j.get('announcementNumber') or '' for j in jobs],
+        'position_uri': [j.get('positionURI') or '' for j in jobs],
+        'position_close_date': [j.get('positionCloseDate') or '' for j in jobs],
+        # UTC, the date the questionnaire refresh checks it against.
+        'listed_date': datetime.now(timezone.utc).strftime('%Y-%m-%d'),
     }).sort_values('usajobs_control_number')
     listing.to_csv(path, index=False)
     print(f"📋 Wrote {path}: {len(listing):,} postings listed today")

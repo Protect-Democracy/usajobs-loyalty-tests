@@ -21,11 +21,12 @@ questionnaire_rechecks/:
                       listed before its close date (no_longer_listed).
 
 "Open" means USAJobs listed the posting in today's collection
-(../../data/current_listing.csv, written by collect_current_data.py). A posting's
-questionnaires are the links in its text today, plus links inferred for it earlier
-(from its announcement number or rendered page) while its text today still has no
-direct link and still mentions a questionnaire.
-  last_run.json       Date and counts for the latest run.
+(../../data/current_listing.csv, written by collect_current_data.py). Each open
+posting's questionnaires are found from scratch every day, the same way a new
+posting's are (questionnaire_utils.questionnaire_links_for_posting): links in its
+text today, else a guess from its announcement number, else a link on its rendered
+USAJobs page. Inferred USAStaffing questionnaires count only if their own posting or
+announcement number matches.
 
 USAStaffing questionnaires come from the JSON the public ViewQuestionnaire page
 itself loads (/public/api/viewquestionnaire/<id>); Monster ones from the
@@ -52,7 +53,8 @@ import requests
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from job_fields import load_questionnaire_links  # noqa: E402
-from questionnaire_utils import (
+from questionnaire_utils import (  # noqa: E402
+    questionnaire_links_for_posting,
     BROWSER_HEADERS,
     RAW_QUESTIONNAIRES_DIR,
     fetch_usastaffing_questionnaire_json,
@@ -170,26 +172,35 @@ def open_postings_and_links(today):
     # Listed postings outside all_jobs_clean.csv (e.g. opened before its cutoff date)
     # have no agency or title to report; count them so the gap is visible.
     not_in_job_data = len(listed - set(jobs['usajobs_control_number']))
-    jobs = jobs[jobs['usajobs_control_number'].isin(listed)]
+    jobs = jobs[jobs['usajobs_control_number'].isin(listed)].copy()
+    # The stored close date is the one first collected; agencies extend and shorten
+    # postings, so use today's from the listing.
+    close_today = pd.to_datetime(listing.set_index('usajobs_control_number')['position_close_date'],
+                                 format='mixed', errors='coerce')
+    jobs['position_close_date'] = jobs['usajobs_control_number'].map(close_today).fillna(jobs['position_close_date'])
 
-    # Links in each posting's text today.
-    direct = listing.assign(questionnaire_url=listing['questionnaire_links'].map(load_questionnaire_links))
-    direct = direct.explode('questionnaire_url').dropna(subset=['questionnaire_url'])
-    has_direct = set(direct['usajobs_control_number'])
-    # Inferred links, under the same conditions extract_questionnaires.py inferred them:
-    # no direct link, the posting mentions a questionnaire, and (for the
-    # announcement-number guess) it applies through USAStaffing.
-    known = pd.read_csv('questionnaire_links.csv', dtype=str, keep_default_na=False, usecols=[
-        'usajobs_control_number', 'questionnaire_url', 'inferred_from_announcement', 'inferred_from_posting_html'])
-    known['usajobs_control_number'] = known['usajobs_control_number'].astype('int64')
-    flags_today = listing.set_index('usajobs_control_number')[['mentions_questionnaire', 'uses_usastaffing']] == 'True'
-    known = known.join(flags_today, on='usajobs_control_number', how='inner')
-    still_inferred = (~known['usajobs_control_number'].isin(has_direct) & known['mentions_questionnaire']
-                      & (((known['inferred_from_announcement'] == 'True') & known['uses_usastaffing'])
-                         | (known['inferred_from_posting_html'] == 'True')))
-    links = pd.concat([direct[['usajobs_control_number', 'questionnaire_url']],
-                       known.loc[still_inferred, ['usajobs_control_number', 'questionnaire_url']]], ignore_index=True)
-    links = links[links['usajobs_control_number'].isin(set(jobs['usajobs_control_number']))]
+    # Each posting's questionnaire links, found from scratch from today's posting the
+    # same way a new posting's are (questionnaire_links_for_posting): links in its
+    # text, else a guess from its announcement number, else a link on its rendered
+    # USAJobs page. Nothing carries over from earlier runs, so links an agency added,
+    # removed, or replaced show up as changes.
+    listing = listing[listing['usajobs_control_number'].isin(set(jobs['usajobs_control_number']))]
+    session = requests.Session()
+
+    def find(row):
+        links, by_announcement, by_page = questionnaire_links_for_posting(
+            load_questionnaire_links(row.questionnaire_links), row.mentions_questionnaire == 'True',
+            row.uses_usastaffing == 'True', row.announcement_number, row.position_uri, session=session)
+        return [(row.usajobs_control_number, url, by_announcement or by_page, row.announcement_number) for url in links]
+
+    with ThreadPoolExecutor(5) as pool:
+        found = [link for links in pool.map(find, listing.itertuples(index=False)) for link in links]
+    links = pd.DataFrame(found, columns=['usajobs_control_number', 'questionnaire_url', 'inferred', 'announcement_number'])
+    print(f'{len(links):,} questionnaire links for {links["usajobs_control_number"].nunique():,} listed postings '
+          f'({int(links["inferred"].sum()):,} inferred)', flush=True)
+
+    # Postings whose text links a questionnaire (questionnaire_link_in_posting).
+    has_direct = set(links.loc[~links['inferred'], 'usajobs_control_number'])
 
     # questionnaire_known_bad.txt holds links the scraper once judged broken, but
     # some are live questionnaires for the right posting (2 open postings with the
@@ -200,7 +211,7 @@ def open_postings_and_links(today):
     blacklisted = links['questionnaire_url'].isin(load_known_bad_urls())
     usastaffing = links['questionnaire_url'].str.contains('apply.usastaffing.gov/ViewQuestionnaire/', regex=False)
     links = links[~blacklisted | usastaffing].assign(blacklisted=blacklisted)
-    return jobs, links.drop_duplicates(), not_in_job_data, has_direct
+    return jobs, links.drop_duplicates(['usajobs_control_number', 'questionnaire_url']), not_in_job_data, has_direct
 
 
 def link_changes(today, previous_status, previous_postings, status, jobs):
@@ -280,16 +291,22 @@ def fetch_monster(url):
     return None
 
 
-def fetch(url, linked_ids=(), blacklisted=False):
-    """Returns (fetch_status, text). A blacklisted USAStaffing questionnaire counts
-    only if its own control number is one of the postings linking to it; otherwise
-    the status is 'not_this_posting' (or 'invalid' if USAStaffing rejects the ID)."""
+def fetch(url, linked_ids=(), verify=False, announcements=()):
+    """Returns (fetch_status, text). A USAStaffing questionnaire that needs verifying
+    (blacklisted, or inferred rather than linked in the posting) counts only if it
+    belongs to one of the postings linking to it: its own control number is one of
+    theirs, or its announcement number is (the same announcement re-posted).
+    Otherwise the status is 'not_this_posting' (or 'invalid' if USAStaffing rejects
+    the ID)."""
     if 'apply.usastaffing.gov/ViewQuestionnaire/' in url:
         raw, invalid = fetch_usastaffing_questionnaire_json(url)
-        if blacklisted and invalid:
+        if verify and invalid:
             return 'invalid', None
-        if blacklisted and raw is not None and str(json.loads(raw).get('controlNumber')) not in linked_ids:
-            return 'not_this_posting', None
+        if verify and raw is not None:
+            own = json.loads(raw)
+            if (str(own.get('controlNumber')) not in linked_ids
+                    and (own.get('announcementNumber') or '') not in announcements):
+                return 'not_this_posting', None
         text = questionnaire_json_to_text(raw) if raw is not None else None
     elif 'monstergovt.com' in url:
         text = fetch_monster(url)
@@ -325,7 +342,8 @@ def main():
     n_open = len(jobs)
     by_url = links.groupby('questionnaire_url')['usajobs_control_number'].apply(
         lambda ids: ';'.join(str(int(i)) for i in sorted(ids)))
-    blacklisted_urls = set(links.loc[links['blacklisted'], 'questionnaire_url'])
+    verify_urls = set(links.loc[links['blacklisted'] | links['inferred'], 'questionnaire_url'])
+    announcements_by_url = links.groupby('questionnaire_url')['announcement_number'].agg(set)
     urls = sorted(by_url.index)
     if args.limit:
         urls = urls[:args.limit]
@@ -339,11 +357,11 @@ def main():
                          else pd.DataFrame(columns=['usajobs_control_number', 'position_close_date']))
 
     with ThreadPoolExecutor(args.workers) as pool:
-        fetched = list(pool.map(lambda u: fetch(u, by_url[u].split(';'), u in blacklisted_urls), urls))
+        fetched = list(pool.map(lambda u: fetch(u, by_url[u].split(';'), u in verify_urls, announcements_by_url[u]), urls))
     # Blacklisted links that turned out invalid or someone else's questionnaire
     # don't belong to these postings at all.
     kept = [(u, f) for u, f in zip(urls, fetched) if f[0] not in ('invalid', 'not_this_posting')]
-    print(f'{len(blacklisted_urls):,} blacklisted USAStaffing links checked; '
+    print(f'{len(verify_urls):,} blacklisted or inferred links verified; '
           f'{len(urls) - len(kept):,} excluded (invalid or another posting\'s questionnaire)', flush=True)
     urls, fetched = [u for u, _ in kept], [f for _, f in kept]
 
