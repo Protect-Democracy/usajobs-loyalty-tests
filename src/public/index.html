@@ -433,6 +433,7 @@
                         <div class="mb-3">
                             <p id="jobsLoading" class="text-muted">Loading job listings (large file, may take a moment)...</p>
                             <p>Showing <span id="jobsShown">0</span> of <span id="jobsTotal">0</span> jobs</p>
+                            <p class="small text-muted">* Questionnaire link not in posting: the open posting's text doesn't link a questionnaire, so we found it from the posting's announcement number or its USAJOBS apply page.</p>
                             <small class="text-muted">Tip: Press Enter to add a search term as a filter. Add multiple filters per column.</small>
                             <div id="activeFilters" class="d-flex flex-wrap gap-2 mt-2"></div>
                         </div>
@@ -575,7 +576,11 @@
             const data = open ? analysisData.open_now : analysisData;
             document.getElementById('scopeNote').textContent = open
                 ? data.overview.total_jobs.toLocaleString() + ' postings open as of ' + data.overview.as_of +
-                  ', when every open posting\'s questionnaire was last re-checked.'
+                  ', when every open posting\'s questionnaire was last re-checked. ' +
+                  data.overview.total_jobs_with_eo_link_not_in_posting.toLocaleString() + ' of the ' +
+                  data.overview.total_jobs_with_eo.toLocaleString() + ' with the essay question have a questionnaire ' +
+                  'link that isn\'t in the posting itself (marked * in Job Listings): we found it from the posting\'s ' +
+                  'announcement number or its USAJOBS apply page.'
                 : '';
 
             document.getElementById('totalScraped').textContent = data.overview.total_jobs_with_questionnaires.toLocaleString();
@@ -978,6 +983,10 @@
                             if (type === 'export') {
                                 return data || '';
                             }
+                            if (data && row.link_inferred) {
+                                return '<a href="' + data + '" target="_blank" class="external-link" data-link-type="questionnaire">View Questions*</a>' +
+                                    '<div class="small text-muted">*Questionnaire link not in posting</div>';
+                            }
                             if (data) {
                                 return '<a href="' + data + '" target="_blank" class="external-link" data-link-type="questionnaire">View Questions</a>';
                             }
@@ -1279,7 +1288,7 @@
                 });
             }
             
-            const headers = ['USAJobs ID', 'Position Title', 'Occupation', 'Agency', 'Location', 'Grade', 'Service Type', 'Open Date', 'Close Date', 'Questionnaire Status', 'USAJobs Link', 'Questionnaire Link', 'Open Now'];
+            const headers = ['USAJobs ID', 'Position Title', 'Occupation', 'Agency', 'Location', 'Grade', 'Service Type', 'Open Date', 'Close Date', 'Questionnaire Status', 'USAJobs Link', 'Questionnaire Link', 'Open Now', 'Questionnaire Link In Posting'];
             const csvContent = [
                 headers.join(','),
                 ...allJobsData.map(row => {
@@ -1296,7 +1305,9 @@
                         '"' + (row.questionnaire_status || '').replace(/"/g, '""') + '"',
                         row.usajobs_link ? 'https://www.usajobs.gov/job/' + row.usajobs_link : '',
                         row.questionnaire_link || '',
-                        row.open ? 'Open' : 'Closed'
+                        row.open ? 'Open' : 'Closed',
+                        // Known only for open postings, as of the latest re-check.
+                        row.open && row.questionnaire_link ? (row.link_inferred ? 'No (inferred)' : 'Yes') : ''
                     ].join(',');
                 })
             ].join('\n');
