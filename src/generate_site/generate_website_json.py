@@ -455,6 +455,18 @@ def main():
     all_jobs_for_display.loc[all_jobs_for_display['has_eo_question'], 'questionnaire_status'] = 'Questionnaire with EO question'
 
     all_jobs_for_display['is_open'] = is_open(all_jobs_for_display)
+    # Open postings whose questionnaire link isn't in the posting's text: we inferred
+    # it (from the announcement number or the posting's rendered USAJobs page).
+    open_postings = pd.read_csv(RECHECK_DIR / 'open_postings.csv', dtype=str, keep_default_na=False)
+    if 'questionnaire_link_in_posting' in open_postings.columns:
+        inferred_ids = set(open_postings.loc[open_postings['questionnaire_link_in_posting'] == 'False',
+                                             'usajobs_control_number'])
+    else:
+        inferred_ids = set()
+    all_jobs_for_display['link_inferred'] = all_jobs_for_display['usajobs_control_number'].astype(str).isin(inferred_ids)
+    analysis_data['open_now']['overview']['total_jobs_with_eo_link_not_in_posting'] = int(
+        ((open_postings['has_loyalty_q'] == 'True')
+         & open_postings['usajobs_control_number'].isin(inferred_ids)).sum())
 
     # Get questionnaire URLs for jobs that have them
     questionnaire_urls = links_df.drop_duplicates('usajobs_control_number')[['usajobs_control_number', 'questionnaire_url']]
@@ -482,6 +494,7 @@ def main():
             'usajobs_link': job['usajobs_control_number'] if pd.notna(job['usajobs_control_number']) else '',
             'questionnaire_status': job['questionnaire_status'],
             'open': bool(job['is_open']),
+            **({'link_inferred': True} if job['link_inferred'] else {}),
             'questionnaire_link': transform_monster_url(job['questionnaire_url']) if pd.notna(job.get('questionnaire_url')) else ''
         }
         job_postings.append(posting)

@@ -200,7 +200,7 @@ def open_postings_and_links(today):
     blacklisted = links['questionnaire_url'].isin(load_known_bad_urls())
     usastaffing = links['questionnaire_url'].str.contains('apply.usastaffing.gov/ViewQuestionnaire/', regex=False)
     links = links[~blacklisted | usastaffing].assign(blacklisted=blacklisted)
-    return jobs, links.drop_duplicates(), not_in_job_data
+    return jobs, links.drop_duplicates(), not_in_job_data, has_direct
 
 
 def link_changes(today, previous_status, previous_postings, status, jobs):
@@ -232,10 +232,12 @@ def link_changes(today, previous_status, previous_postings, status, jobs):
              'questionnaire_url': url, 'position_close_date': close.get(cn, '')} for cn, change, url in rows]
 
 
-def write_open_postings(jobs, status, path):
+def write_open_postings(jobs, status, path, link_in_posting_ids):
     """One row per open posting with its current flags. A posting counts as having a
     question if any of its questionnaires does; postings with no questionnaire link get
-    questionnaire_found = False and blank flags."""
+    questionnaire_found = False and blank flags. questionnaire_link_in_posting is False
+    when the posting's text has no questionnaire link and we inferred it (from the
+    announcement number or the posting's rendered USAJobs page)."""
     per_q = status.assign(usajobs_control_number=status['usajobs_control_numbers'].str.split(';')).explode(
         'usajobs_control_number')
     per_q['usajobs_control_number'] = per_q['usajobs_control_number'].astype('int64')
@@ -246,6 +248,8 @@ def write_open_postings(jobs, status, path):
     out = jobs.merge(per_job, left_on='usajobs_control_number', right_index=True, how='left')
     out['possible_variant'] = out['possible_variant'].fillna('')
     out['questionnaire_found'] = out['has_loyalty_q'].notna()
+    out['questionnaire_link_in_posting'] = out['usajobs_control_number'].isin(link_in_posting_ids).map(
+        {True: 'True', False: 'False'}).where(out['questionnaire_found'], '')
     for col in flag_cols:
         out[col] = out[col].map({True: 'True', False: 'False'}).fillna('')
     out['usajobs_control_number'] = out['usajobs_control_number'].astype('int64')
@@ -254,7 +258,7 @@ def write_open_postings(jobs, status, path):
     out['position_close_date'] = out['position_close_date'].dt.strftime('%Y-%m-%d')
     out = out.sort_values('usajobs_control_number')[[
         'usajobs_control_number', 'hiring_agency', 'position_title', 'position_open_date', 'position_close_date',
-        'questionnaire_found', *flag_cols, 'usajobs_link', 'possible_variant']]
+        'questionnaire_found', *flag_cols, 'usajobs_link', 'possible_variant', 'questionnaire_link_in_posting']]
     out.to_csv(path, index=False)
     return out
 
@@ -317,7 +321,7 @@ def main():
     status_path = out_dir / 'current_status.csv'
     log_path = out_dir / 'changes_log.csv'
 
-    jobs, links, not_in_job_data = open_postings_and_links(pd.Timestamp(today))
+    jobs, links, not_in_job_data, link_in_posting_ids = open_postings_and_links(pd.Timestamp(today))
     n_open = len(jobs)
     by_url = links.groupby('questionnaire_url')['usajobs_control_number'].apply(
         lambda ids: ';'.join(str(int(i)) for i in sorted(ids)))
@@ -430,7 +434,7 @@ def main():
     status = pd.DataFrame(rows, columns=STATUS_COLUMNS)
     # A --limit test run covers only some questionnaires, so it would log false removals.
     link_rows = [] if args.limit else link_changes(today, previous_status, previous_postings, status, jobs)
-    postings = write_open_postings(jobs, status, postings_path)
+    postings = write_open_postings(jobs, status, postings_path, link_in_posting_ids)
     status.to_csv(status_path, index=False)
     if log_rows:
         pd.DataFrame(log_rows, columns=LOG_COLUMNS).to_csv(log_path, mode='a', index=False,
