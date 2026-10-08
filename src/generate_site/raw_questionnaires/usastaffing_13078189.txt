@@ -1,0 +1,167 @@
+Position Title
+Supervisory IT Specialist (SYSANA) Branch Chief
+Agency
+Social Security Administration
+Announcement Number
+SSA-13078189-MP27-CIO
+Open Period
+Oct 08, 2026 to Oct 15, 2026
+Eligibilities
+.
+Please read the questions carefully. Responding "No" may result in loss of further consideration.
+1.
+Are you a current SSA employee applying for reassignment, change to lower grade, or repromotion to a grade you previously held on a permanent basis? Select yes if you currently hold or previously held a permanent position at or above the grade level(s) posted in this vacancy announcement. (NOTE: If the posted position has higher promotion potential than you have held on a permanent basis, you must apply for promotion to receive consideration.) OR Are you applying for non-competitive consideration? Select yes if you are an SSA employee currently serving under one of the following appointment types: Schedule A 213.3102(u) for individuals with disabilities; temporary/term appointment for 30% or more disabled veterans; or Veterans Recruitment Appointment (Note: Employees serving on VRA appointments are only eligible for non-competitive consideration for positions at GS-11 or below).
+ Yes
+ No
+2.
+Are you a current SSA employee applying for promotion? Select yes if you have 52 weeks at the next lower grade AND you have not held a permanent position at the grade level(s) posted in this vacancy announcement, OR if this position has higher promotion potential than the positions you have held on a permanent basis.
+ Yes
+ No
+Preferences
+1.
+Select the location(s) you want to be considered for. You must choose at least one location.
+ Woodlawn, MD
+ Durham, NC
+2.
+Please enter your Employee Common ID (ECI). Your ECI can be found on the first page of Employee Data . NOTE: The Employee Data website is only viewable from within SSA's firewall.
+MOPP 9F042S 9/29/2026
+.
+Please answer Yes or No for each of the following areas that describe your experience and/or training in that task. Applicants must have IT-related experience demonstrating each of the four competencies below. You may be asked to provide evidence of supporting documentation that you have had this type of experience and. Your responses are subject to verification against the information you provide.
+1.
+I am thorough when performing work and conscientious about attending to detail.
+ Yes
+ No
+2.
+I work with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; know about available products and services; and am committed to providing quality products and services.
+ Yes
+ No
+3.
+I make sound, well-informed, and objective decisions; perceives the impact and implications of decisions; commits to action, even in uncertain situations, to accomplish organizational goals; causes change.
+ Yes
+ No
+4.
+I identify a need for and know where or how to gather information; organize and maintain information or information management systems
+ Yes
+ No
+5.
+I show understanding, friendliness, courtesy, tact, empathy, concern, and politeness to others; develop and maintain effective relationships with others; may include effectively dealing with individuals who are difficult, hostile, or distressed; relates well to people from varied backgrounds and different situations.
+ Yes
+ No
+6.
+I express information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); make clear and convincing oral presentations; listen to others, attend to nonverbal cues, and responds appropriately.
+ Yes
+ No
+7.
+I identify problems; determine accuracy and relevance of information; use sound judgment to generate and evaluate alternatives, and to make recommendations.
+ Yes
+ No
+8.
+I encourage and facilitate cooperation, pride, trust, and group identity; foster commitment and team spirit; work with others to achieve goals.
+ Yes
+ No
+9.
+I use knowledge that is acquired through formal training or on-the-job experience to perform my job; work with, understands, and evaluates technical information related to the job; advise others on technical issues.
+ Yes
+ No
+.
+Please choose the one statement that best describes your level of experience or education as related to the basic qualification requirements for this position:
+10.
+Do you have specialized experience at the GS-13 level, or equivalent, which is in or related to the work of the position to be filled, that has equipped you with the particular knowledge, skills, and abilities to successfully perform the duties of the position? This experience must demonstrate proficiency in at least 3 of the following: Experience performing systems requirements engineering, design, software development, or software validation. Experience leading a team in the planning, analysis, design, development, or validation of a major programmatic application system or enterprise website or tool Experience leading a team in user-centered design or accessibility activities. Experience obtaining input from peers or subordinates and using the information gathered to make a technical recommendation to management. Experience providing technical direction and establishing priorities for staff or peers.
+ Yes
+ No
+11.
+Are you currently in good standing? CAUTION: Employees are not in good standing when they are placed on an OPS plan, and remain in not in good standing until they meet one of the following conditions:Successful completion of the OPS plan;Following the unsuccessful completion of the OPS, receive a successful rating for a new appraisal period under a new plan for a new position (if applicable based on the effectuated performance-based action); or Voluntarily change positions prior to completing the OPS. In good standing information can be found on the first page of Employee Data (https://eedata.personnel.ba.ssa.gov/). NOTE: The Employee Data website is only viewable from within SSA's firewall.
+ Yes
+ No
+12.
+Please select the statement that best describes your appointment.
+ I am an SSA employee serving under a career or career/conditional appointment.
+ I am an SSA employee serving under a Schedule A, Reg. 213.3102 (U) appointment for individuals with disabilities.
+ I am an SSA employee serving under a time-limited appointment for veterans with a compensable service-connected disability of 30% or more.
+ I am in an appointment other than the ones described above (e.g., excepted service for Attorneys, term appointment or contractor, etc.).
+13.
+Please select the statement that best describes where you work.
+ My permanent duty station is within CIO
+ My permanent duty station is outside of CIO
+.
+Please answer Yes or No to the following questions. Your responses will be used to rate your application. Be sure to include specific examples of claimed experience in your resume and supporting documents. If your application materials do not demonstrate the knowledge, skills, abilities, and experience needed for this position, your application will be ineligible for consideration.
+14.
+Do you have experience directing or leading techniques for implementing major programmatic applications in the area of software development using best practices?
+ Yes
+ No
+15.
+Do you have experience using established software development (Agile, Progressive DevOps, PaaS) best practices to lead the implementation, update and/or maintenance of major programmatic applications?
+ Yes
+ No
+16.
+Do you have experience planning, analyzing, designing, developing, or testing software applications with an Agile methodology?
+ Yes
+ No
+17.
+Do you have experience providing technical direction and establishing priorities for staff or peers?
+ Yes
+ No
+18.
+Do you have experience designating work assignments based on difficulty of the assignment and varying capabilities of employees?
+ Yes
+ No
+19.
+Do you have experience analyzing, revising, and prioritizing team commitments to reflect Agency priorities?
+ Yes
+ No
+20.
+Do you have experience making decisions on major workloads and what resources in the branch will be devoted to a particular project/workloads?
+ Yes
+ No
+21.
+Do you have experience allocating resources among projects with competing deadlines and priorities?
+ Yes
+ No
+22.
+Do you have experience using the Clarity Investment Management Tool (IMT) application for resource planning, estimation, and management?
+ Yes
+ No
+23.
+Do you have experience analyzing workload management options and providing recommendations to managers, Product Managers, Project Coordinators and Executive leads?
+ Yes
+ No
+24.
+Do you have experience collaborating with other supervisors to negotiate and/or coordinate major work assignments involving project activities?
+ Yes
+ No
+25.
+Do you have experience collaborating and negotiating with senior management in decision-making, prioritization, and recommendation processes?
+ Yes
+ No
+26.
+Do you have experience coordinating or leading cross-component discussions, meetings or conferences?
+ Yes
+ No
+27.
+Do you have experience developing and delivering presentations and status reports for priority initiatives for management and Executive leads?
+ Yes
+ No
+28.
+Do you have experience presenting information to technical and non-technical audiences?
+ Yes
+ No
+29.
+Do you have experience representing senior management in meetings and on workgroups.?
+ Yes
+ No
+30.
+Do you have experience providing feedback on staff performance or performing contract oversight tasks such as providing performance input, drafting Statements of Work (SOW), or Performance Assessment Reports (PAR)?
+ Yes
+ No
+31.
+Do you have experience resolving and diffusing conflict between peers or subordinates?
+ Yes
+ No
+32.
+Do you have experience coordinating staff development and educational activities (training, educational sessions, lessons learned, team building, etc.)?
+ Yes
+ No
+33.
+I acknowledge that I have thoroughly read each question and answered all honestly and to the best of my ability.
+ Yes
+ No

@@ -1,0 +1,283 @@
+Position Title
+COMPOSITE FABRICATOR (TITLE 32)
+Agency
+Air National Guard Units
+Announcement Number
+MO-12814647-AF-25-088
+Open Period
+Oct 09, 2025 to Oct 08, 2026
+Preferences
+1.
+Select the lowest grade you are willing to accept for this position.
+ 5
+ 7
+ 10
+2.
+Are you a current member of the state National Guard for which this position is being advertised, or are you willing and eligible to become a member?
+ Yes
+ No
+.
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+3.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+4.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+5.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+6.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+7.
+Choose one answer which best describes the category you fall into:
+ Permanent Title 32 National Guard employee currently working for the Missouri Air National Guard.
+ Indefinite Title 32 National Guard employee currently working for the Missouri Air National Guard.
+ Temporary Title 32 National Guard employee currently working for the Missouri Air National Guard.
+ Traditional guard member with the Missouri Air National Guard.
+ Not currently a member but interested in guard membership in the Missouri Air National Guard.
+ None of the above.
+4352-10-D2316000-MONG
+1.
+Do you possess a validated understanding of the basic principles and concepts of the occupational series and grade? Do you possess skill in collecting and analyzing data effectively, efficiently, and accurately; diagnosing and repairing mechanical concerns; ability to format and write English in reports and presentation formats; skill in presenting formal training presentations and briefings; skill in applying procedures and directives by reading and interpreting material; ability to communicate clearly and effectively; and skill in training, mentoring, leading, and problem solving.
+ Yes.
+ No.
+2.
+Do you possess experience in the assisting with inspection, repair, modification, removal, installation, troubleshooting and data documentation of B-2 Aircraft Low Observable (LO) signature systems and structures? The specialized experience must demonstrate that you possess the basic working knowledge of the properties and characteristics of a number of composite and plastic bonding agents, such as fiberglass, Kevlar, PVC, graphite, film adhesive, silicones, epoxies, etc. and LO material characteristics; a very basic knowledge of sheet metal theory, methods and practices; knowledge of basic shop mathematics to calculate proportions and amount of materials required in repairing or modifying components; skill in the use of basic hand and powered tools common to the bonding operations as well as those utilized in the sheet metal trade; knowledge of the health hazards associated with maintenance as well as proper mitigation procedures such as decontamination and housekeeping and the ability to learn new skills and apply them to the task at hand.
+ Yes.
+ No.
+3.
+Do you possess specialized experience in the inspection, repair, modification, removal, installation, troubleshooting and data documentation of B-2 aircraft Low Observable (LO) signature systems and structures? The specialized experience must also demonstrate that you possess a working knowledge of the properties and characteristics of a number of composite and plastic bonding agents, such as fiberglass, Kevlar, PVC, graphite, film adhesive, silicones, epoxies, etc. and LO material characteristics; knowledge of sheet metal theory, methods and practices; knowledge of basic shop mathematics to calculate proportions and amount of materials required in repairing or modifying components; knowledge of and skill in the use of basic hand and powered tools common to the bonding operations as well as those utilized in the sheet metal trade; knowledge of health hazards associated with maintenance as well as proper mitigation procedures, such as decontamination and housekeeping; ability to examine parts and items to locate defects; estimate the amount of adhesive filler needed for repair by approximating in grams; ability to repair irregularly shaped LO and composite materials that have been damaged and the ability to bond LO material, composites and metals.
+ Yes.
+ No.
+4.
+Do you possess specialized experiences in the inspection, repair, modification, removal, installation, troubleshooting, and data documentation of B-2 aircraft Low Observable (LO) signature systems and structures? The specialized experience must also demonstrate that you possess competencies to work LO aircraft designs and structures; experienced in conducting testing procedures, prevention of metal corrosion, and material failure; skill in applying RCS signature reduction techniques and design elements and skilled in the use of various complex tools and equipment. Must possess working knowledge of metal strength characteristics (annealing, tempering, and normalizing); along with composite and LO material characteristics, and experience in selecting proper materials for repair actions. Must possess working knowledge of health hazards associated with maintenance and proper mitigation procedures, such as decontamination and housekeeping; skill in assembling and repairing aircraft parts and components using specialized fasteners, classified adhesives and advanced composites; and working knowledge of assigned computer systems such as, IMIS, IMS, ALIS, SAS, and/or LOHAS used for maintenance planning, technical instruction, and maintenance documentation. Competent in identifying proper repair materials using engineering drawings to ensure correct radar band frequency is being mitigated. Skilled in verifying materials that match engineering drawings using reflecto-meter probes. Experienced and skilled in fabricating repair parts from RAM, cutting tools, and adhering these parts to aircraft surfaces and fasteners using vacuum bags, fixtures, and other pressure inducing processes. Skilled and experienced in applying scrim (gauze-like) materials to RAM and aircraft surfaces in preparation for RAM cover strip installation. Experiences included installing RAM cover strips to panel and skin gaps; applying RAM pastes to aircraft surface gaps, voids, and gouges; sanding and skiving RAM and RAM pastes to required aircraft contours; and, repairing LO treatments on polycarbonate transparencies using edge sealing compounds, adhesives, primers, and conductive films.
+ Yes.
+ No.
+.
+For each technical area below, select the response that most accurately describes your current level of experience and demonstrated capability.
+5.
+Improves, modifies, fabricates, and designs repairs for low observable assemblies, sub-assemblies, and components ensuring proper weight to strength ratios are met and maintains structural and low observable integrity requirements including associated aircraft structural composites.
+ I have no knowledge or demonstrated capability in this technical area.
+ I can demonstrate an understanding of the fundamental concepts involved in this technical area. I will require formal training and close supervision to perform this work.
+ I can demonstrate an understanding of some advanced concepts within this technical area and am capable of working on most projects in this technical area with moderate assistance. I am able to perform this work with minimal supervision.
+ I can demonstrate an understanding of many advanced concepts within this technical area and am capable of mentoring others on some projects in this technical area. I am able to perform this work without supervision except in the most complex situations.
+ I can demonstrate an understanding of most advanced concepts within this technical area. I am considered an expert in the field and am frequently consulted by others about this technical area. I am responsible for mentoring and training others in this technical area.
+6.
+Removes, inspects, designs, and implements emergency repairs using various novel techniques or methods.
+ I have no knowledge or demonstrated capability in this technical area.
+ I can demonstrate an understanding of the fundamental concepts involved in this technical area. I will require formal training and close supervision to perform this work.
+ I can demonstrate an understanding of some advanced concepts within this technical area and am capable of working on most projects in this technical area with moderate assistance. I am able to perform this work with minimal supervision.
+ I can demonstrate an understanding of many advanced concepts within this technical area and am capable of mentoring others on some projects in this technical area. I am able to perform this work without supervision except in the most complex situations.
+ I can demonstrate an understanding of most advanced concepts within this technical area. I am considered an expert in the field and am frequently consulted by others about this technical area. I am responsible for mentoring and training others in this technical area.
+7.
+Documents maintenance actions in applicable automated system and/or records.
+ I have no knowledge or demonstrated capability in this technical area.
+ I can demonstrate an understanding of the fundamental concepts involved in this technical area. I will require formal training and close supervision to perform this work.
+ I can demonstrate an understanding of some advanced concepts within this technical area and am capable of working on most projects in this technical area with moderate assistance. I am able to perform this work with minimal supervision.
+ I can demonstrate an understanding of many advanced concepts within this technical area and am capable of mentoring others on some projects in this technical area. I am able to perform this work without supervision except in the most complex situations.
+ I can demonstrate an understanding of most advanced concepts within this technical area. I am considered an expert in the field and am frequently consulted by others about this technical area. I am responsible for mentoring and training others in this technical area.
+8.
+Advises and provides documents to associated engineers, overhauls, reinstalls, or adjusts irregular surfaces, control system components, assemblies/sub-assemblies, and specialized coatings.
+ I have no knowledge or demonstrated capability in this technical area.
+ I can demonstrate an understanding of the fundamental concepts involved in this technical area. I will require formal training and close supervision to perform this work.
+ I can demonstrate an understanding of some advanced concepts within this technical area and am capable of working on most projects in this technical area with moderate assistance. I am able to perform this work with minimal supervision.
+ I can demonstrate an understanding of many advanced concepts within this technical area and am capable of mentoring others on some projects in this technical area. I am able to perform this work without supervision except in the most complex situations.
+ I can demonstrate an understanding of most advanced concepts within this technical area. I am considered an expert in the field and am frequently consulted by others about this technical area. I am responsible for mentoring and training others in this technical area.
+9.
+Identifies and discusses potential problems in new designs or maintenance methods and procedures with engineers and other originators, advises on improvements in repair and maintenance methods including application techniques.
+ I have no knowledge or demonstrated capability in this technical area.
+ I can demonstrate an understanding of the fundamental concepts involved in this technical area. I will require formal training and close supervision to perform this work.
+ I can demonstrate an understanding of some advanced concepts within this technical area and am capable of working on most projects in this technical area with moderate assistance. I am able to perform this work with minimal supervision.
+ I can demonstrate an understanding of many advanced concepts within this technical area and am capable of mentoring others on some projects in this technical area. I am able to perform this work without supervision except in the most complex situations.
+ I can demonstrate an understanding of most advanced concepts within this technical area. I am considered an expert in the field and am frequently consulted by others about this technical area. I am responsible for mentoring and training others in this technical area.
+10.
+Attends meetings or working groups with engineers, contractors etc. to resolve problems and maintain awareness of current techniques and processes that may not be documented.
+ I have no knowledge or demonstrated capability in this technical area.
+ I can demonstrate an understanding of the fundamental concepts involved in this technical area. I will require formal training and close supervision to perform this work.
+ I can demonstrate an understanding of some advanced concepts within this technical area and am capable of working on most projects in this technical area with moderate assistance. I am able to perform this work with minimal supervision.
+ I can demonstrate an understanding of many advanced concepts within this technical area and am capable of mentoring others on some projects in this technical area. I am able to perform this work without supervision except in the most complex situations.
+ I can demonstrate an understanding of most advanced concepts within this technical area. I am considered an expert in the field and am frequently consulted by others about this technical area. I am responsible for mentoring and training others in this technical area.
+11.
+Orders and turns in aircraft parts and assemblies.
+ I have no knowledge or demonstrated capability in this technical area.
+ I can demonstrate an understanding of the fundamental concepts involved in this technical area. I will require formal training and close supervision to perform this work.
+ I can demonstrate an understanding of some advanced concepts within this technical area and am capable of working on most projects in this technical area with moderate assistance. I am able to perform this work with minimal supervision.
+ I can demonstrate an understanding of many advanced concepts within this technical area and am capable of mentoring others on some projects in this technical area. I am able to perform this work without supervision except in the most complex situations.
+ I can demonstrate an understanding of most advanced concepts within this technical area. I am considered an expert in the field and am frequently consulted by others about this technical area. I am responsible for mentoring and training others in this technical area.
+12.
+Serves as the primary worker responsible for monitoring the completion of assigned maintenance tasks.
+ I have no knowledge or demonstrated capability in this technical area.
+ I can demonstrate an understanding of the fundamental concepts involved in this technical area. I will require formal training and close supervision to perform this work.
+ I can demonstrate an understanding of some advanced concepts within this technical area and am capable of working on most projects in this technical area with moderate assistance. I am able to perform this work with minimal supervision.
+ I can demonstrate an understanding of many advanced concepts within this technical area and am capable of mentoring others on some projects in this technical area. I am able to perform this work without supervision except in the most complex situations.
+ I can demonstrate an understanding of most advanced concepts within this technical area. I am considered an expert in the field and am frequently consulted by others about this technical area. I am responsible for mentoring and training others in this technical area.
+13.
+Performs a variety of extensive evaluations of weapons systems using a variety of complex tools and assessment equipment to assess that the proper radar cross section (RCS) signature according to the associated technical order data, mission requirements and other policy regulations, instructions, and guidance.
+ I have no knowledge or demonstrated capability in this technical area.
+ I can demonstrate an understanding of the fundamental concepts involved in this technical area. I will require formal training and close supervision to perform this work.
+ I can demonstrate an understanding of some advanced concepts within this technical area and am capable of working on most projects in this technical area with moderate assistance. I am able to perform this work with minimal supervision.
+ I can demonstrate an understanding of many advanced concepts within this technical area and am capable of mentoring others on some projects in this technical area. I am able to perform this work without supervision except in the most complex situations.
+ I can demonstrate an understanding of most advanced concepts within this technical area. I am considered an expert in the field and am frequently consulted by others about this technical area. I am responsible for mentoring and training others in this technical area.
+14.
+Inspects weapons system structure, LO coating, and LO materials.
+ I have no knowledge or demonstrated capability in this technical area.
+ I can demonstrate an understanding of the fundamental concepts involved in this technical area. I will require formal training and close supervision to perform this work.
+ I can demonstrate an understanding of some advanced concepts within this technical area and am capable of working on most projects in this technical area with moderate assistance. I am able to perform this work with minimal supervision.
+ I can demonstrate an understanding of many advanced concepts within this technical area and am capable of mentoring others on some projects in this technical area. I am able to perform this work without supervision except in the most complex situations.
+ I can demonstrate an understanding of most advanced concepts within this technical area. I am considered an expert in the field and am frequently consulted by others about this technical area. I am responsible for mentoring and training others in this technical area.
+15.
+Evaluates operational deficiencies and records LO system damage types, specific multi-complex dimensions, and location plots using the automated maintenance systems related to the specific weapons system.
+ I have no knowledge or demonstrated capability in this technical area.
+ I can demonstrate an understanding of the fundamental concepts involved in this technical area. I will require formal training and close supervision to perform this work.
+ I can demonstrate an understanding of some advanced concepts within this technical area and am capable of working on most projects in this technical area with moderate assistance. I am able to perform this work with minimal supervision.
+ I can demonstrate an understanding of many advanced concepts within this technical area and am capable of mentoring others on some projects in this technical area. I am able to perform this work without supervision except in the most complex situations.
+ I can demonstrate an understanding of most advanced concepts within this technical area. I am considered an expert in the field and am frequently consulted by others about this technical area. I am responsible for mentoring and training others in this technical area.
+16.
+Records RCS results and updates aircraft signature status following aircraft flights, at scheduled intervals, and/or after LO coating/structural maintenance and repair actions.
+ I have no knowledge or demonstrated capability in this technical area.
+ I can demonstrate an understanding of the fundamental concepts involved in this technical area. I will require formal training and close supervision to perform this work.
+ I can demonstrate an understanding of some advanced concepts within this technical area and am capable of working on most projects in this technical area with moderate assistance. I am able to perform this work with minimal supervision.
+ I can demonstrate an understanding of many advanced concepts within this technical area and am capable of mentoring others on some projects in this technical area. I am able to perform this work without supervision except in the most complex situations.
+ I can demonstrate an understanding of most advanced concepts within this technical area. I am considered an expert in the field and am frequently consulted by others about this technical area. I am responsible for mentoring and training others in this technical area.
+17.
+Conducts audits of LO aircraft and associated signature management databases, ensuring that RCS signature reported accurately reflects aircraft physical status.
+ I have no knowledge or demonstrated capability in this technical area.
+ I can demonstrate an understanding of the fundamental concepts involved in this technical area. I will require formal training and close supervision to perform this work.
+ I can demonstrate an understanding of some advanced concepts within this technical area and am capable of working on most projects in this technical area with moderate assistance. I am able to perform this work with minimal supervision.
+ I can demonstrate an understanding of many advanced concepts within this technical area and am capable of mentoring others on some projects in this technical area. I am able to perform this work without supervision except in the most complex situations.
+ I can demonstrate an understanding of most advanced concepts within this technical area. I am considered an expert in the field and am frequently consulted by others about this technical area. I am responsible for mentoring and training others in this technical area.
+18.
+Certifies integrity of signature management databases through verification, addition, and removal of audit data.
+ I have no knowledge or demonstrated capability in this technical area.
+ I can demonstrate an understanding of the fundamental concepts involved in this technical area. I will require formal training and close supervision to perform this work.
+ I can demonstrate an understanding of some advanced concepts within this technical area and am capable of working on most projects in this technical area with moderate assistance. I am able to perform this work with minimal supervision.
+ I can demonstrate an understanding of many advanced concepts within this technical area and am capable of mentoring others on some projects in this technical area. I am able to perform this work without supervision except in the most complex situations.
+ I can demonstrate an understanding of most advanced concepts within this technical area. I am considered an expert in the field and am frequently consulted by others about this technical area. I am responsible for mentoring and training others in this technical area.
+19.
+Audits of weapons systems will be conducted utilizing applicable portable automated electronic devices to mark and record signature assessment damages.
+ I have no knowledge or demonstrated capability in this technical area.
+ I can demonstrate an understanding of the fundamental concepts involved in this technical area. I will require formal training and close supervision to perform this work.
+ I can demonstrate an understanding of some advanced concepts within this technical area and am capable of working on most projects in this technical area with moderate assistance. I am able to perform this work with minimal supervision.
+ I can demonstrate an understanding of many advanced concepts within this technical area and am capable of mentoring others on some projects in this technical area. I am able to perform this work without supervision except in the most complex situations.
+ I can demonstrate an understanding of most advanced concepts within this technical area. I am considered an expert in the field and am frequently consulted by others about this technical area. I am responsible for mentoring and training others in this technical area.
+20.
+Reports audit discrepancies and ensures LO aircraft systems and signature management databases are maintained to established MAJCOM tolerances and standards. Interprets, designs, and implements multi-complex LO systems maintenance work packages for accurate reduction of RCS signature.
+ I have no knowledge or demonstrated capability in this technical area.
+ I can demonstrate an understanding of the fundamental concepts involved in this technical area. I will require formal training and close supervision to perform this work.
+ I can demonstrate an understanding of some advanced concepts within this technical area and am capable of working on most projects in this technical area with moderate assistance. I am able to perform this work with minimal supervision.
+ I can demonstrate an understanding of many advanced concepts within this technical area and am capable of mentoring others on some projects in this technical area. I am able to perform this work without supervision except in the most complex situations.
+ I can demonstrate an understanding of most advanced concepts within this technical area. I am considered an expert in the field and am frequently consulted by others about this technical area. I am responsible for mentoring and training others in this technical area.
+21.
+Assists in set-up of Repair Verification Radar (RVR) for near field imaging of LO panels and structures for identifying suspected damage and/or for process verification.
+ I have no knowledge or demonstrated capability in this technical area.
+ I can demonstrate an understanding of the fundamental concepts involved in this technical area. I will require formal training and close supervision to perform this work.
+ I can demonstrate an understanding of some advanced concepts within this technical area and am capable of working on most projects in this technical area with moderate assistance. I am able to perform this work with minimal supervision.
+ I can demonstrate an understanding of many advanced concepts within this technical area and am capable of mentoring others on some projects in this technical area. I am able to perform this work without supervision except in the most complex situations.
+ I can demonstrate an understanding of most advanced concepts within this technical area. I am considered an expert in the field and am frequently consulted by others about this technical area. I am responsible for mentoring and training others in this technical area.
+22.
+Performs repair, application, and maintenance of corrosion preventatives and paints on aircraft, powered, and non-powered AGE (aerospace ground equipment). Identifies metal corrosion.
+ I have no knowledge or demonstrated capability in this technical area.
+ I can demonstrate an understanding of the fundamental concepts involved in this technical area. I will require formal training and close supervision to perform this work.
+ I can demonstrate an understanding of some advanced concepts within this technical area and am capable of working on most projects in this technical area with moderate assistance. I am able to perform this work with minimal supervision.
+ I can demonstrate an understanding of many advanced concepts within this technical area and am capable of mentoring others on some projects in this technical area. I am able to perform this work without supervision except in the most complex situations.
+ I can demonstrate an understanding of most advanced concepts within this technical area. I am considered an expert in the field and am frequently consulted by others about this technical area. I am responsible for mentoring and training others in this technical area.
+23.
+Performs necessary testing to identify type of corrosion present by examination with magnifying equipment, chemical and mechanical methods.
+ I have no knowledge or demonstrated capability in this technical area.
+ I can demonstrate an understanding of the fundamental concepts involved in this technical area. I will require formal training and close supervision to perform this work.
+ I can demonstrate an understanding of some advanced concepts within this technical area and am capable of working on most projects in this technical area with moderate assistance. I am able to perform this work with minimal supervision.
+ I can demonstrate an understanding of many advanced concepts within this technical area and am capable of mentoring others on some projects in this technical area. I am able to perform this work without supervision except in the most complex situations.
+ I can demonstrate an understanding of most advanced concepts within this technical area. I am considered an expert in the field and am frequently consulted by others about this technical area. I am responsible for mentoring and training others in this technical area.
+24.
+Treats aircraft engines in accordance with applicable technical publications.
+ I have no knowledge or demonstrated capability in this technical area.
+ I can demonstrate an understanding of the fundamental concepts involved in this technical area. I will require formal training and close supervision to perform this work.
+ I can demonstrate an understanding of some advanced concepts within this technical area and am capable of working on most projects in this technical area with moderate assistance. I am able to perform this work with minimal supervision.
+ I can demonstrate an understanding of many advanced concepts within this technical area and am capable of mentoring others on some projects in this technical area. I am able to perform this work without supervision except in the most complex situations.
+ I can demonstrate an understanding of most advanced concepts within this technical area. I am considered an expert in the field and am frequently consulted by others about this technical area. I am responsible for mentoring and training others in this technical area.
+25.
+Identifies, blends, stores, controls, and disposes of hazardous materials such as acids, caustics, alcohols, solvents, cleaners, primers and surface coatings used for corrosion removal, treatment and protection in accordance with applicable directives.
+ I have no knowledge or demonstrated capability in this technical area.
+ I can demonstrate an understanding of the fundamental concepts involved in this technical area. I will require formal training and close supervision to perform this work.
+ I can demonstrate an understanding of some advanced concepts within this technical area and am capable of working on most projects in this technical area with moderate assistance. I am able to perform this work with minimal supervision.
+ I can demonstrate an understanding of many advanced concepts within this technical area and am capable of mentoring others on some projects in this technical area. I am able to perform this work without supervision except in the most complex situations.
+ I can demonstrate an understanding of most advanced concepts within this technical area. I am considered an expert in the field and am frequently consulted by others about this technical area. I am responsible for mentoring and training others in this technical area.
+26.
+Removes corrosion by mechanical and chemical procedures to include use of portable powered (electric and pneumatic) sanders, buffers, brushes, bead blasters, vacuum cleaners, scrapers, grinders, acids, caustics, solvents, alcohols and other agents used in corrosion control processes.
+ I have no knowledge or demonstrated capability in this technical area.
+ I can demonstrate an understanding of the fundamental concepts involved in this technical area. I will require formal training and close supervision to perform this work.
+ I can demonstrate an understanding of some advanced concepts within this technical area and am capable of working on most projects in this technical area with moderate assistance. I am able to perform this work with minimal supervision.
+ I can demonstrate an understanding of many advanced concepts within this technical area and am capable of mentoring others on some projects in this technical area. I am able to perform this work without supervision except in the most complex situations.
+ I can demonstrate an understanding of most advanced concepts within this technical area. I am considered an expert in the field and am frequently consulted by others about this technical area. I am responsible for mentoring and training others in this technical area.
+27.
+Treats metal with chemical procedures, such as pretreatments, to protect metal from oxidation. Performs functions such as pickling of metals to prepare for good bonding with primer coat of protective materials.
+ I have no knowledge or demonstrated capability in this technical area.
+ I can demonstrate an understanding of the fundamental concepts involved in this technical area. I will require formal training and close supervision to perform this work.
+ I can demonstrate an understanding of some advanced concepts within this technical area and am capable of working on most projects in this technical area with moderate assistance. I am able to perform this work with minimal supervision.
+ I can demonstrate an understanding of many advanced concepts within this technical area and am capable of mentoring others on some projects in this technical area. I am able to perform this work without supervision except in the most complex situations.
+ I can demonstrate an understanding of most advanced concepts within this technical area. I am considered an expert in the field and am frequently consulted by others about this technical area. I am responsible for mentoring and training others in this technical area.
+28.
+Applies protective coatings, markings, and decals. Use conventional paint spray equipment, electrostatic spray equipment, brushes and special applicators when applying primers and surface coatings. Operates wash rack as required.
+ I have no knowledge or demonstrated capability in this technical area.
+ I can demonstrate an understanding of the fundamental concepts involved in this technical area. I will require formal training and close supervision to perform this work.
+ I can demonstrate an understanding of some advanced concepts within this technical area and am capable of working on most projects in this technical area with moderate assistance. I am able to perform this work with minimal supervision.
+ I can demonstrate an understanding of many advanced concepts within this technical area and am capable of mentoring others on some projects in this technical area. I am able to perform this work without supervision except in the most complex situations.
+ I can demonstrate an understanding of most advanced concepts within this technical area. I am considered an expert in the field and am frequently consulted by others about this technical area. I am responsible for mentoring and training others in this technical area.
+29.
+Accomplishes corrosion and washing inspections within schedule provided to ensure compliance with monthly and weekly maintenance plan.
+ I have no knowledge or demonstrated capability in this technical area.
+ I can demonstrate an understanding of the fundamental concepts involved in this technical area. I will require formal training and close supervision to perform this work.
+ I can demonstrate an understanding of some advanced concepts within this technical area and am capable of working on most projects in this technical area with moderate assistance. I am able to perform this work with minimal supervision.
+ I can demonstrate an understanding of many advanced concepts within this technical area and am capable of mentoring others on some projects in this technical area. I am able to perform this work without supervision except in the most complex situations.
+ I can demonstrate an understanding of most advanced concepts within this technical area. I am considered an expert in the field and am frequently consulted by others about this technical area. I am responsible for mentoring and training others in this technical area.
+30.
+Assesses corrosion problems and select appropriate treatment to correct problems and minimize future repair work for same or related problem area.
+ I have no knowledge or demonstrated capability in this technical area.
+ I can demonstrate an understanding of the fundamental concepts involved in this technical area. I will require formal training and close supervision to perform this work.
+ I can demonstrate an understanding of some advanced concepts within this technical area and am capable of working on most projects in this technical area with moderate assistance. I am able to perform this work with minimal supervision.
+ I can demonstrate an understanding of many advanced concepts within this technical area and am capable of mentoring others on some projects in this technical area. I am able to perform this work without supervision except in the most complex situations.
+ I can demonstrate an understanding of most advanced concepts within this technical area. I am considered an expert in the field and am frequently consulted by others about this technical area. I am responsible for mentoring and training others in this technical area.
+31.
+Conducts training on proper methods and procedures of composite wash rack operations.
+ I have no knowledge or demonstrated capability in this technical area.
+ I can demonstrate an understanding of the fundamental concepts involved in this technical area. I will require formal training and close supervision to perform this work.
+ I can demonstrate an understanding of some advanced concepts within this technical area and am capable of working on most projects in this technical area with moderate assistance. I am able to perform this work with minimal supervision.
+ I can demonstrate an understanding of many advanced concepts within this technical area and am capable of mentoring others on some projects in this technical area. I am able to perform this work without supervision except in the most complex situations.
+ I can demonstrate an understanding of most advanced concepts within this technical area. I am considered an expert in the field and am frequently consulted by others about this technical area. I am responsible for mentoring and training others in this technical area.
+32.
+Collects, compiles, and records LO systems data for maintenance scheduling, statistical analysis, trending, and historical record.
+ I have no knowledge or demonstrated capability in this technical area.
+ I can demonstrate an understanding of the fundamental concepts involved in this technical area. I will require formal training and close supervision to perform this work.
+ I can demonstrate an understanding of some advanced concepts within this technical area and am capable of working on most projects in this technical area with moderate assistance. I am able to perform this work with minimal supervision.
+ I can demonstrate an understanding of many advanced concepts within this technical area and am capable of mentoring others on some projects in this technical area. I am able to perform this work without supervision except in the most complex situations.
+ I can demonstrate an understanding of most advanced concepts within this technical area. I am considered an expert in the field and am frequently consulted by others about this technical area. I am responsible for mentoring and training others in this technical area.
+33.
+Performs data searches and reports findings as directed.
+ I have no knowledge or demonstrated capability in this technical area.
+ I can demonstrate an understanding of the fundamental concepts involved in this technical area. I will require formal training and close supervision to perform this work.
+ I can demonstrate an understanding of some advanced concepts within this technical area and am capable of working on most projects in this technical area with moderate assistance. I am able to perform this work with minimal supervision.
+ I can demonstrate an understanding of many advanced concepts within this technical area and am capable of mentoring others on some projects in this technical area. I am able to perform this work without supervision except in the most complex situations.
+ I can demonstrate an understanding of most advanced concepts within this technical area. I am considered an expert in the field and am frequently consulted by others about this technical area. I am responsible for mentoring and training others in this technical area.
+34.
+Manages an array of related databases and spreadsheets to capture and catalog data elements for trending, information sharing working groups, and benchmarking.
+ I have no knowledge or demonstrated capability in this technical area.
+ I can demonstrate an understanding of the fundamental concepts involved in this technical area. I will require formal training and close supervision to perform this work.
+ I can demonstrate an understanding of some advanced concepts within this technical area and am capable of working on most projects in this technical area with moderate assistance. I am able to perform this work with minimal supervision.
+ I can demonstrate an understanding of many advanced concepts within this technical area and am capable of mentoring others on some projects in this technical area. I am able to perform this work without supervision except in the most complex situations.
+ I can demonstrate an understanding of most advanced concepts within this technical area. I am considered an expert in the field and am frequently consulted by others about this technical area. I am responsible for mentoring and training others in this technical area.
+35.
+Responsible for documenting, obtaining, applying, securing, and protecting classified records, documents, hardware and software.
+ I have no knowledge or demonstrated capability in this technical area.
+ I can demonstrate an understanding of the fundamental concepts involved in this technical area. I will require formal training and close supervision to perform this work.
+ I can demonstrate an understanding of some advanced concepts within this technical area and am capable of working on most projects in this technical area with moderate assistance. I am able to perform this work with minimal supervision.
+ I can demonstrate an understanding of many advanced concepts within this technical area and am capable of mentoring others on some projects in this technical area. I am able to perform this work without supervision except in the most complex situations.
+ I can demonstrate an understanding of most advanced concepts within this technical area. I am considered an expert in the field and am frequently consulted by others about this technical area. I am responsible for mentoring and training others in this technical area.
+36.
+Analyzes trends in deficiencies, provides engineers and other entities with devised repair procedures, performs prototype repair while providing instructions to other employees
+ I have no knowledge or demonstrated capability in this technical area.
+ I can demonstrate an understanding of the fundamental concepts involved in this technical area. I will require formal training and close supervision to perform this work.
+ I can demonstrate an understanding of some advanced concepts within this technical area and am capable of working on most projects in this technical area with moderate assistance. I am able to perform this work with minimal supervision.
+ I can demonstrate an understanding of many advanced concepts within this technical area and am capable of mentoring others on some projects in this technical area. I am able to perform this work without supervision except in the most complex situations.
+ I can demonstrate an understanding of most advanced concepts within this technical area. I am considered an expert in the field and am frequently consulted by others about this technical area. I am responsible for mentoring and training others in this technical area.
+37.
+Do you certify that all of your responses to this questionnaire are true and accurate; and do you accept that if your supporting documentation does not support one or more of your responses to the questionnaire that your application may be rated lower or you may be removed from further consideration?
+ Yes.
+ No.
