@@ -1,0 +1,123 @@
+Position Title
+IT SPECIALIST (SYSTEMS ADMINISTRATION) (TITLE 32)
+Agency
+Army National Guard Units
+Announcement Number
+MO-13085473-AR-26-227
+Open Period
+Oct 07, 2026 to Oct 21, 2026
+Preferences
+1.
+Choose one answer which best describes the category you fall into:
+ Permanent Title 32 National Guard employee currently working for the Missouri Army National Guard.
+ Indefinite Title 32 National Guard employee currently working for the Missouri Army National Guard.
+ None of the above.
+2.
+Do you currently possess or able to obtain a TOP SECRET security clearance?
+ Yes
+ No
+2210-09/11-D1618000-MONG
+.
+Respond to all the questions below. For each question, choose the response below that best describes your experience and/or training. Mark only one response for each question. Please note that your answers will be verified against the information you provide in your resume or application and information your references provide.
+1.
+Do you possess experience that provided you basic knowledge of data processing functions and general management principles that enable you to understand the stages required to automate a work process; experience in work such as computer operator or assistant, computer sales representative, program analyst, or other positions that required the use or adaptation of computer programs and systems?
+ Yes.
+ No.
+2.
+Do you possess 36 months of specialized experience that demonstrates thorough knowledge of a variety of operating systems on desktops and servers; system administration of various server platforms and virtual machine infrastructure to include Storage Area Network (SAN); project management techniques and tools sufficient to provide technical guidance on the implementation of emerging technologies; and principles and methods used in planning and managing the implementation, update and integration of information system components? The specialized experience must indicate your ability to troubleshoot problems and implement changes on multi-faceted and interdependent computer platforms; modify application code and devise software patches or workarounds; document problems and advise the responsible party on support issues; apply systems design techniques, program language and hardware capabilities to analyze requests for new and modified applications; apply storage management practices, assignment of resources and file management techniques; and use performance tuning tools and techniques that are used to optimize systems functionality in order to meet installation systems requirements.
+ Yes.
+ No.
+3.
+IF YOU ANSWERED NO TO QUESTION 2, do you possess a Ph.D. or equivalent, or three years of progressively higher level graduate education in computer science, engineering, information science, or information systems management leading to such a degree?
+ Yes.
+ No.
+.
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+4.
+Provide remote and on-site field technical support services, such as software baseline installation, configuration, planning, installing, testing, operating, troubleshooting, and maintaining enterprise hardware and software, to the organizations fixed and tactical Military Intelligence (MI) systems, Army intelligence networks, and partner nation coalition networks.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+5.
+Provide advice and guidance on implementing automation in support of intelligence production.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+6.
+Facilitate user and administrator access to Army Intelligence networks and tactical MI systems.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+7.
+Maintain all necessary administrator and user accounts, clearance, privileges, and training to perform maintenance on Army Military Intelligence systems; including, but not limited to, the below or equivalent Top Secret/SCI with read on Counterintelligence scope polygraph NSA privileged access.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+8.
+Coordinate lifecycle replacement, warranty replacement, and sustainment level support and funding to organization and subordinate MI systems and networks.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+9.
+Manage the MI maintenance programs and use of MI equipment within designated facilities throughout the organization.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+10.
+Coordinate MI system support events and personnel as needed for organization and subordinate unit system maintenance.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+11.
+Execute established processes to coordinate with appropriate offices on the correction of identified deficiencies.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+12.
+Provide guidance and advice to the Senior Intelligence Officer (SIO) for career management of MI system maintainer/integrators.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+13.
+Coordinate and tracks MI system fielding, training, and modernization initiatives.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+14.
+Ensure subordinate units enter major training events and mobilizations with latest available software and technologies.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+15.
+Coordinate with State FIRO and PBO for New Equipment Fielding (NEF), New Equipment Training (NET), technology insertions, and technology refreshes for subordinate unit MI systems.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+16.
+Do you certify that all of your responses to this questionnaire are true and accurate; and do you accept that if your supporting documentation does not support one or more of your responses to the questionnaire that your application may be rated lower or you may be removed from further consideration?
+ Yes.
+ No.
