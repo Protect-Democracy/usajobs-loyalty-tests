@@ -1,0 +1,68 @@
+Position Title
+DATA ENGINEER
+Agency
+Environmental Protection Agency
+Announcement Number
+EPA-OIG-DE-26-13032109
+Open Period
+Oct 09, 2026 to Oct 17, 2026
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+2.
+Are you a current or former federal employee displaced from the agency hiring for this position? If yes, confirm: you are located in the same local commuting area of the vacancy; AND, you are applying to a position that is at or below the grade level of the position from which you were or will be separated; AND, you are applying to a position that does not have greater promotion potential than the position from which you were or will be separated; AND, your last performance rating of record is at least fully successful or the equivalent. For more information, review the USAJOBS Help Center. To verify your eligibility, you must submit supporting documentation such as a Reduction in Force (RIF) separation notice or a Proposed Removal/Separation notice to include your latest performance rating (if the notice does not have this information included, you must submit a copy of your most recent performance appraisal) and a copy of your latest Notification of Personnel Action, Standard Form 50.
+ Yes
+ No
+3.
+Are you a current or former federal employee displaced from a position in a Federal agency other than the agency hiring for this position? If yes, confirm: • you are located in the same local commuting area of the vacancy; AND, • you are applying to a position that is at or below the grade level of the position from which you were or will be separated; AND, • you are applying to a position that does not have greater promotion potential than the position from which you were or will be separated; AND, • your last performance rating of record is at least fully successful or the equivalent. For more information, review the USAJOBS Help Center. To verify your eligibility, you must submit supporting documentation such as a Reduction in Force (RIF) separation notice to include your latest performance rating (if the notice does not have this information included, you must submit a copy of your most recent performance appraisal) and a copy of your latest Notification of Personnel Action, Standard Form 50.
+ Yes
+ No
+4.
+Reasonable Accommodations for taking the online assessments are provided on a case-by-case basis only to qualified individuals with a disability covered by the Rehabilitation Act of 1973, as amended. Do you have a disability (physical or mental) that you believe will interfere with completing the online assessments and require a Reasonable Accommodation?
+ Yes
+ No
+Preferences
+1.
+Select the location(s) you want to be considered for. You must choose at least one location.
+ Washington, DC
+ Durham, NC
+DATA ENGINEER-GS-2210-13
+.
+Select “Yes” or “No” to the following question(s).
+1.
+Does your resume demonstrate at least one year of specialized experience in the Federal service or equivalent public or private sector experience at a level comparable in scope and responsibility to the GS-12 grade level performing the following duty? Designing a production Extract, Transform, and Load (ETL) pipeline to ingest data from disparate sources into an enterprise environment feeding both, Structured Query Language (SQL) databases and Power Business Intelligence (Power BI) reporting endpoints.
+ Yes
+ No
+1a.
+Please indicate in the text box below where in your resume you describe gaining the above required specialized experience.
+.
+Select “Yes” or “No” to the following question(s).
+2.
+Does your resume demonstrate at least one year of specialized experience in the Federal service or equivalent public or private sector experience at a level comparable in scope and responsibility to the GS-12 grade level performing the following duty? Implementing controls to ensure data compliance and governance standards (e.g., metadata tagging, role-based access, data cataloging) across both, cloud and on-premises environments.
+ Yes
+ No
+2a.
+Please indicate in the text box below where in your resume you describe gaining the above required specialized experience.
+.
+Select “Yes” or “No” to the following question(s).
+3.
+Does your resume demonstrate at least one year of specialized experience in the Federal service or equivalent public or private sector experience at a level comparable in scope and responsibility to the GS-12 grade level, performing the following duty? Implementing a testing and monitoring strategy to guarantee data integrity.
+ Yes
+ No
+3a.
+Please indicate in the text box below where in your resume you describe gaining the above required specialized experience.
+.
+Select “Yes” or “No” to the following question(s).
+4.
+Does your resume demonstrate at least one year of specialized experience in the Federal service or equivalent public or private sector experience at a level comparable in scope and responsibility to the GS-12 grade level performing the following duty? Leading or participating orally in meetings to collect data and technical requirements.
+ Yes
+ No
+4a.
+Please indicate in the text box below where in your resume you describe gaining the above required specialized experience.

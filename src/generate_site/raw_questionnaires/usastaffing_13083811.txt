@@ -1,0 +1,124 @@
+Position Title
+Supervisory Civil (Construction Management) / Mechanical / Electrical / Electronics Engineer
+Agency
+Bonneville Power Administration
+Announcement Number
+27-BPA-53177-13083811-BPA
+Open Period
+Oct 09, 2026 to Oct 18, 2026
+Eligibilities
+1.
+Are you a current career/career-conditional federal employee at the Department of Energy applying for a PROMOTION to a position with a higher grade/pay band or higher promotion potential than you previously held on a permanent basis? Note: also select "Yes" if applying for a change-to-lower grade (CTLG) to a position with higher promotion potential than you previously held on a permanent basis. Check the REQUIRED DOCUMENTS section in the job announcement for instructions to support your eligibility to apply for this vacancy.
+ Yes
+ No
+2.
+Are you a current career/career-conditional federal employee at the Department of Energy applying for a REASSIGNMENT, CHANGE-TO-LOWER GRADE, or REPROMOTION and you currently or previously held a position with the same grade/pay band or higher and the same or higher promotion potential on a permanent basis? Check the REQUIRED DOCUMENTS section in the job announcement for instructions to support your eligibility to apply for this vacancy.
+ Yes
+ No
+3.
+I understand that I must select "Yes" to at least one of the eligibility questions to be considered for this position.
+ Yes
+ No
+Preferences
+1.
+Select the series you want to be considered for. You must choose at least one series.
+ 0810 - Civil Engineering
+ 0830 - Mechanical Engineering
+ 0850 - Electrical Engineering
+ 0855 - Electronics Engineering
+2.
+Do any of your relatives work for the agency to which you are applying? If so, please list any applicable names below. Please enter N/A in the text box, if not Applicable. (Include: father, mother, husband, wife, son, daughter, brother, sister, uncle, aunt, first cousin, nephew, niece, father-in-law, mother-in-law, daughter-in-law, son-in-law, brother-in-law, sister-in-law, stepfather, stepmother, stepson, stepdaughter, stepbrother, stepsister, half brother, and half sister).
+3.
+Instructions : To provide the hiring manager an opportunity to consider your accomplishments, you may submit/attach copies of your performance appraisals and/or incentive award justification as part of your application by uploading these documents into USA Staffing. All current Federal employees must have at least a fully successful or equivalent performance rating or higher, to be considered for competitive placement. Competitive Federal employees who have a current unacceptable performance rating will be excluded from consideration.
+ I am a current Federal employee, my last performance rating was fully successful (meets expectations) or equivalent, or higher.
+ I am a current Federal employee; my last performance rating was unacceptable (fails to meet expectations).
+ I am a new Federal employee and have not received a performance rating as of the date of this application.
+ I am not a Federal employee; however, I will consider attaching my recent performance appraisal from my employer for consideration.
+ I am not a Federal employee, and I do not have any performance documentation to submit for consideration.
+4.
+Have you received awards or been recognized as part of your annual performance appraisal for work that was based on one or more of the competencies described in this vacancy announcement?
+ Yes
+ No
+5.
+Are you currently serving or have served in the last five (5) years in a Political Appointment in the Federal Government?
+ Yes
+ No
+6.
+Please list the title, agency and dates of the appointments
+Executive Order 14170
+.
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+3.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+Min Qual J07633/J08386/J07634/J07635 Interdis Supervisory Engineer, GS-0810/0830/0850/0855-14
+1.
+BASIC REQUIREMENT - You must meet the minimum basic education and/or experience requirements for engineering positions in the Federal government. Select the response that best describes your education and/or experience.
+ I have a degree in engineering. The program must: (1) lead to a bachelor's degree in a school of engineering with at least one program accredited by ABET; or (2) include differential and integral calculus and courses (more advanced than first-year physics and chemistry) in 5 of the following 7 areas of engineering science or physics: (a) statics, dynamics; (b) strength of materials (stress-strain relationships); (c) fluid mechanics, hydraulics; (d) thermodynamics; (e) electrical fields and circuits; (f) nature and properties of materials (relating particle and aggregate structure to properties); and (g) any other comparable area of fundamental engineering science or physics, such as optics, heat transfer, soil mechanics, or electronics; OR
+ I have a qualifying combination of education and experience as demonstrated by current registration as an Engineer Intern (EI), Engineer in Training (EIT), or licensure as a Professional Engineer (PE) by any State, the District of Columbia, Guam, or Puerto Rico; OR
+ I have a qualifying combination of education and experience as demonstrated by evidence of having successfully passed the Fundamentals of Engineering (FE) examination or any other written test required for professional registration by an engineering licensure board in the various States, the District of Columbia, Guam, and Puerto Rico; OR
+ I have a qualifying combination of education and experience as demonstrated by successful completion of at least 60 semester hours of courses in the physical, mathematical, and engineering sciences and that included the courses specified in the basic requirements under paragraph A in the announcement. The courses must be fully acceptable toward meeting the requirements of an engineering program as described in paragraph A; OR
+ I have a qualifying combination of education and experience as demonstrated by successful completion of a curriculum leading to a bachelor's degree in an appropriate scientific field, e.g., engineering technology, physics, chemistry, architecture, computer science, mathematics, hydrology, or geology, may be accepted in lieu of a bachelor's degree in engineering, provided the applicant has had at least 1 year of professional engineering experience acquired under professional engineering supervision and guidance. Ordinarily there should be either an established plan of intensive training to develop professional engineering competence, or several years of prior professional engineering-type experience, e.g., in interdisciplinary positions. (The above examples of related curricula are not all-inclusive.)
+ I do not meet any of the education or experience/education combinations listed above.
+2.
+In addition to the basic requirement, choose one answer that best describes your experience.
+ I possess at least one year of specialized experience equivalent to the GS-13 grade level in the Federal service performing work appropriate to the position advertised in the vacancy announcement.
+ I do not meet the requirement as described above.
+KBA Interdis Supervisory Engineer, GS-0810-0830-0850-0855-14
+1.
+During the construction of a high-voltage electrical substation, an inspection engineer identifies severe soil compaction and foundation settling anomalies beneath heavy transformer pads that deviate from approved geotechnical engineering designs. As the engineering supervisor, what is the most appropriate technical course of action?
+ Instruct the construction contractor to continue structural steel erection while monitoring settlement rates over time.
+ Direct an immediate hold on structural equipment installation, convene a multidisciplinary engineering review to analyze structural bearing capacity and soil mechanics, and establish an engineered remediation plan compliant with seismic and loading criteria.
+ Authorize the on-site inspector to independently redraw the foundation dimensions and approve field-mixed grouting without formal engineering calculations.
+ Issue an administrative waiver to bypass foundation tolerances and adjust electrical bus clearances to compensate for structural variance.
+2.
+When reviewing multi-disciplinary engineering plans for a transmission corridor expansion involving transmission line clearances, tower mechanical stresses, and fiber optic communication integration, what technical approach ensures compliance across interconnected systems?
+ Isolate review authority strictly within the electrical discipline, treating structural and telecommunications systems as secondary non-critical elements.
+ Conduct an integrated technical review with civil, structural, electrical, and telecommunications specialists to verify that physical clearances, tower load dynamics, and fiber path survivability conform to national electrical safety and utility design standards.
+ Approve the contractor’s submittals conditionally and allow field construction crews to resolve interface interferences during physical assembly.
+ Request that municipal building authorities perform the primary structural and electrical code verification for utility infrastructure.
+3.
+During off-site factory witness testing of high-voltage power transformers and circuit breakers, factory inspection personnel report that electrical insulation dielectric test values fail to satisfy contract technical specifications. What is the required quality assurance protocol?
+ Approve conditional acceptance of the units to maintain the delivery schedule and perform corrective adjustments after installation on-site.
+ Reject the non-conforming equipment, document the non-compliance against contractual specifications, and require the manufacturer to submit a formal root cause analysis and corrective action plan prior to re-testing and acceptance.
+ Direct the contractor to ship the equipment immediately and offset testing deficiencies by deducting a standard monetary penalty from the invoice.
+ Re-classify the specifications to match the lower factory test results if the units demonstrate partial operational capability.
+4.
+A quality assurance audit of an ongoing transmission line construction site reveals that field inspection personnel are utilizing inconsistent sampling rates and uncalibrated testing equipment for torque verification on structural steel connections. Which action must the supervisor take to restore quality compliance?
+ Mandate the immediate re-inspection and calibrated verification of completed connections, standardize inspection checklists and sampling protocols, and verify all field testing equipment is calibrated to certified standards.
+ Authorize the contractor to perform self-inspections for the duration of the project to prevent production delays.
+ Disregard torque discrepancies if visual structural alignment appears adequate from ground-level surveys.
+ Reassign field inspection personnel to administrative duties and eliminate on-site quality testing requirements.
+5.
+A supervisor observes consistent variance in how subordinate senior project engineers evaluate contractor performance deliverables, resulting in uneven quality ratings and disputes across projects. What is the most effective supervisory approach to achieve rating consistency and equity?
+ Direct subordinates to award uniform passing scores regardless of contractor performance to minimize contract grievances.
+ Assume individual responsibility for reviewing and scoring all contractor submittals personally, removing inspection duties from subordinates.
+ Convene regular calibration sessions with engineering staff, clarify objective performance standards and criteria, and implement structured review rubrics to ensure equitable and defensible contractor evaluations.
+ Instruct subordinates to resolve performance rating differences through informal majority voting.
+6.
+An employee approaches the supervisor alleging unfair treatment in project assignments and expressing interest in professional development opportunities necessary to handle more complex engineering work. How should the supervisor manage this situation?
+ Inform the employee that project assignments are distributed at management's discretion and require no further discussion.
+ Review current workload allocations, discuss the specific technical competencies required for complex assignments, and collaborate with the employee to establish an Individual Development Plan (IDP) linked to targeted mentoring and advanced training.
+ Immediately reassign the most complex ongoing construction projects to the employee without verifying requisite technical proficiency.
+ Transfer the employee to another work unit to eliminate potential friction with coworkers.
+7.
+During the execution of a fixed-price construction contract for an infrastructure project, differing subsurface conditions are encountered that require significant design changes and additional heavy civil works. How must the supervisory engineer handle this contractual modification?
+ Direct the contractor to execute the additional civil works verbally and assure them that financial compensation will be calculated after final project commissioning.
+ Coordinate with the Contracting Officer (CO) and Contracting Officer's Representative (COR) to evaluate technical necessity, conduct an independent government cost estimate, ensure funding availability, and execute a formal bilateral contract modification prior to authorizing changed work.
+ Reallocate surplus contingency funds from unrelated operational maintenance accounts to pay contractor invoices without formal modification.
+ Reject the contractor's notification of differing site conditions as outside the scope of government responsibility regardless of site realities.
+8.
+A prime construction contractor repeatedly fails to meet critical milestone dates outlined in the approved project baseline schedule, placing interconnected utility delivery commitments at risk. What is the appropriate contract management procedure?
+ Terminate the contract immediately for default without prior formal documentation or consultation with procurement authorities.
+ Coordinate with the Contracting Officer to issue formal contractual notifications (such as a cure notice or show-cause letter), substantiate schedule slippages with verified inspection records, and require a formal recovery schedule.
+ Disregard the milestone dates and extend the contract completion deadline indefinitely to assist the contractor.
+ Instruct government engineering staff to perform physical construction tasks to make up for contractor delays.
