@@ -1,0 +1,68 @@
+Position Title
+IT Specialist
+Agency
+Office of Justice Programs
+Announcement Number
+JP-26-022
+Open Period
+Oct 08, 2026 to Oct 21, 2026
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+2.
+Are you a current or former federal employee displaced from the Department of Justice? To be eligible under CTAP you must meet all of the following: You are located in the same local commuting area of this vacancy; AND, You are applying to a position that is at (or below) the grade level of the position from which you were (or will) be separated from; AND, You are applying to a position that does not have greater promotion potential than the position from which you were (or will be) separated from; AND, Your last performance rating of record is at least fully successful, or the equivalent. For more information, review the USAJOBS Help Center. .. To verify your eligibility: You must submit appropriate supporting documentation, such as a Reduction in Force (RIF) separation notice or a Proposed Removal/Separation notice, You must submit a copy of your most recent performance appraisal and a copy of your latest Notification of Personnel Action (SF-50) form.
+ Yes
+ No
+3.
+Are you an employee that was involuntarily separated from another agency due to a reduction-in-force (RIF)? The Inter-agency Career Transition Assistance Plan (ICTAP) is an inter-agency program that helps "surplus" or "displaced" federal employees improve their chances of finding a new job at another agency (not their current or former agency), by giving these employees selection priority over other applicants from outside the agency. You may be eligible for ICTAP if: You're a current federal employee who meets the definition of a "surplus" or "displaced employee—you've received official notice that your job is no longer needed or that you will lose your job by Reduction-in-Force (RIF). The agency you're applying to is accepting applications from outside of their workforce. The job you're applying to is in the local commuting area. You meet the qualifications and other requirements of the job you're applying for. For example, if you work for the Department of Defense and receive a Reduction in Force (RIF) separation notice, you can apply for a competitive service job in the local commuting area at the Department of Justice. T o verify your eligibility: You must submit appropriate supporting documentation such as a Reduction in Force (RIF) separation notice to include your latest performance rating (if the notice does not have this information included, you must submit a copy of your most recent performance appraisal) and a copy of your latest Notification of Personnel Action, Standard Form 50.
+ Yes
+ No
+4.
+Reasonable Accommodations for taking the online assessments are provided on a case-by-case basis only to qualified individuals with a disability covered by the Rehabilitation Act of 1973, as amended. Do you have a disability (physical or mental) that you believe will interfere with completing the online assessments and require a Reasonable Accommodation?
+ Yes
+ No
+Questions
+.
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+3.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+6.
+The following information is requested in order to determine your status in the military, if any. Place select the response that describes your type of military service.
+ None (You have not served in the military, either currently or in the past)
+ Ready Reserve
+ Standby
+ National Guard
+ Retired Military Regular
+ Retired Military Nonregular
+ Retired Military (Regular) AND Reserve National Guard
+ Retired Military (Nonregular) AND Reserve National Guard
+ Retired Military and DC National Guard
+ DC National Guard
+IT Specialist, GS-2210-15, KJ0010
+.
+Thank you for your interest in the IT Specialist, GS-2210-15 position with the Office of the Chief Information Officer (OCIO). Your resume and the responses you provide to this assessment questionnaire will be used to determine if you are among the best qualified for this position. Your responses are subject to verification. Please review your responses for accuracy before you submit your application.
+1.
+Select the one statement that best describes how you meet the basic requirement for the IT Specialist, series 2210.
+ A. Experience must be IT related; the experience may be demonstrated by paid or unpaid experience and/or completion of specific, intensive training (for example, IT certification), as appropriate Individuals must have IT-related experience demonstrating each of the following four competencies: Attention to Detail - Is thorough when performing work and conscientious about attending to detail; Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services; Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately; Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.
+ I do not have the IT related experience described above.
+2.
+From the descriptions below, select the letter that BEST describes the highest level of experience that you fully possess for the IT Specialist, GS-2210-15 position. Read all of the statements completely before making your selection.
+ A. I possess one year of specialized experience that equipped me with the particular knowledge, skills, and abilities (KSAs) to successfully perform the duties of the position and is directly in or related to this position. To be creditable, specialized experience must be at the GS-14 grade level or equivalent under other pay systems in the Federal service, military or private sector. Specialized experience is: Leading development and refinement of enterprise product strategies, roadmaps, or multi-year plans for complex IT or e-Government systems involving cross-functional teams and multiple stakeholders; Managing complex product or program plans with interdependent tasks, overlapping deadlines, limited resources, or competing organizational priorities; Evaluating IT system performance, user experience, or operational efficiency to identify modernization opportunities, improve value delivery, and enhance enterprise outcomes; Conducting business process studies and translating findings into formalized policies, Product Charters, SOPs, or governance documentation; Applying Agile methodologies, user-centered design principles, or enterprise architecture frameworks to develop and maintain IT product plans, governance structures, or performance reporting mechanisms; Providing expert consultation on product management, technology adoption, IT lifecycle processes, or enterprise service delivery and representing an agency on committees or working groups related to IT, product management, or federal grant-making systems; Conducting analysis or evaluation of complex enterprise technology programs, including statistical analysis, feasibility studies, conflict resolution between mission needs and technical requirements, or interpreting market trends for strategic planning.
+ My experience does not meet the requirements listed above.
