@@ -1,0 +1,77 @@
+Position Title
+IT Solutions Architect (Cyber and DevSecOps)
+Agency
+National Credit Union Administration
+Announcement Number
+OCIO-DH-2103-13085381-27
+Open Period
+Oct 09, 2026 to Oct 23, 2026
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+2.
+Reasonable Accommodations for taking the online assessments are provided on a case-by-case basis only to qualified individuals with a disability covered by the Rehabilitation Act of 1973, as amended. Do you have a disability (physical or mental) that you believe will interfere with completing the online assessments and require a Reasonable Accommodation?
+ Yes
+ No
+Preferences
+1.
+Are you a NCUA employee?
+ Yes
+ No
+2.
+Are you currently serving or have served in the last five years in a Political Appointment in the Federal Government? If yes, please list the title, agency, and dates of this appointment below. Please note you will be required to meet OPM Approval of your appointment if selected. If no, please type N/A in the box below.
+3.
+Would you like to opt-in to be considered for other positions within the NCUA that require similar qualifications and are in the same series and at the same grade level of this position? PLEASE NOTE: Opting-in does not automatically guarantee you will be considered for future vacancies. You should always apply to every vacancy announcement for which you wish to be considered.
+ Yes
+ No
+4.
+Former NCUA Employee Please select "yes" as your response in the box below if you have been employed as a Federal Government employee at the NCUA in the past; otherwise please select "no" as your response. Note: If you were employed as a contractor at the NCUA, please select "no" as your response below.
+ Yes
+ No
+5.
+To assist us in our outreach efforts in the future, please tell us how you heard about this job. Please choose the best option available.
+ A recruiter from NCUA contacted me via Linkedin
+ A recruiter from NCUA contacted me via my college career center or via Handshake
+ I saw the position advertised on LinkedIn
+ I saw the position advertised on my university career center page or on Handshake
+ I saw the position advertised on Indeed
+ I saw the position advertised on a different social media website (e.g. Facebook, Twitter)
+ I heard about the advertisement/position at a recruitment event (job fair, meetup, etc.)
+ I heard about the position from a current/former NCUA employee
+ I found this position advertised directly on my state’s employment website
+ A recruiter from NCUA contacted me via USAJobs
+ I found this position advertised directly on the USAJOBS website
+ Other, not listed
+Short Essay Questions
+.
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+3.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+DH - IT Solutions Architect - PD 2103
+.
+Select “Yes” or “No” to the following question(s).
+1.
+Do you have at least one full year specialized experience equivalent to the CU/GS-13 level in federal service (obtained in either the public or private sectors) in all of the following: 1. Leading the design, and modernization of enterprise applications across on-premises, cloud, and hybrid environments, including the integration of advanced capabilities such as analytics, machine learning, or intelligent automation; and 2. Implementing and maturing DevSecOps practices, including automated testing, security scanning, and Continuous Integration/Continuous Deployment (CI/CD) pipelines to support secure and reliable deployment; and 3. Developing secure enterprise applications using at least one of the following and consistently applying recognized secure coding standards: C#, NET, ASP.NET, Angular, Blazor, Java/Spring, Python, JavaScript; and 4. Evaluating and recommending cloud migration strategies (such as lift-and-shift, refactoring, and re-platforming approaches) for enterprise applications.
+ Yes
+ No
+2.
+I certify, to the best of my knowledge and belief, all of the information included in this questionnaire and my application materials is true, correct, and provided in good faith. I understand, if I make an intentional false statement, or commit deception or fraud in this application and its supporting materials, or in any document or interview associated with the examination process, I may be fined or imprisoned (18 U.S.C. 1001); my eligibilities may be cancelled; I may be denied an appointment; or I may be removed and debarred from Federal service (5 C.F.R. part 731). I understand, any information I give may be investigated. I understand, I will not be considered for employment if I do not respond "Yes" to this certification item.
+ Yes
+ No

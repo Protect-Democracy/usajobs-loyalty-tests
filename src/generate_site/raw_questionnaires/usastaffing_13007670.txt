@@ -1,0 +1,115 @@
+Position Title
+DATA ENGINEER
+Agency
+Environmental Protection Agency
+Announcement Number
+EPA-OIG-ST-26-13007670
+Open Period
+Oct 09, 2026 to Oct 17, 2026
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+2.
+Are you a current or former federal employee displaced from the agency hiring for this position? If yes, confirm: you are located in the same local commuting area of the vacancy; AND, you are applying to a position that is at or below the grade level of the position from which you were or will be separated; AND, you are applying to a position that does not have greater promotion potential than the position from which you were or will be separated; AND, your last performance rating of record is at least fully successful or the equivalent. For more information, review the USAJOBS Help Center. To verify your eligibility, you must submit supporting documentation such as a Reduction in Force (RIF) separation notice or a Proposed Removal/Separation notice to include your latest performance rating (if the notice does not have this information included, you must submit a copy of your most recent performance appraisal) and a copy of your latest Notification of Personnel Action, Standard Form 50.
+ Yes
+ No
+3.
+Are you eligible for competitive consideration under any of the following merit promotion categories? Current Federal civilian employee in the Competitive service on a permanent career or career-conditional appointment Current Excepted service employee covered by an Interchange Agreement Former Federal employee with Reinstatement eligibility Veterans Employment Opportunities Act of 1998 (VEOA)Current Federal employee serving on a VRA appointment Land Management Employee eligible under Public Law 114-47 Other competitive category not listed above (you must submit proof of eligibility
+ Yes
+ No
+4.
+Are you a current or former federal employee displaced from a position in a Federal agency other than the agency hiring for this position? If yes, confirm: • you are located in the same local commuting area of the vacancy; AND, • you are applying to a position that is at or below the grade level of the position from which you were or will be separated; AND, • you are applying to a position that does not have greater promotion potential than the position from which you were or will be separated; AND, • your last performance rating of record is at least fully successful or the equivalent. For more information, review the USAJOBS Help Center. To verify your eligibility, you must submit supporting documentation such as a Reduction in Force (RIF) separation notice to include your latest performance rating (if the notice does not have this information included, you must submit a copy of your most recent performance appraisal) and a copy of your latest Notification of Personnel Action, Standard Form 50.
+ Yes
+ No
+5.
+Are you a current Excepted Service employee of a Federal Agency covered by an OPM Interchange agreement that conveys noncompetitive eligibility? For more information, review Interchange Agreements with Other Merit Systems. https://www.opm.gov/policy-data-oversight/hiring-information/competitivehiring/#url=InterchangeAgreementsWithOtherMeritSystems To verify your eligibility, you must submit a copy of your Notification of Personnel Action, Standard Form (SF-50) reflecting your status.
+ Yes
+ No
+6.
+Reasonable Accommodations for taking the online assessments are provided on a case-by-case basis only to qualified individuals with a disability covered by the Rehabilitation Act of 1973, as amended. Do you have a disability (physical or mental) that you believe will interfere with completing the online assessments and require a Reasonable Accommodation?
+ Yes
+ No
+7.
+Reinstatement - I was formerly employed as a federal civilian on a permanent competitive appointment, but I am not a current permanent federal employee. (NOTE: If you indicate "yes" for this question, you MUST submit a copy of your most recent competitive career/career conditional separation SF50 AND you must submit a copy of an SF50 that reflects your highest grade held on a permanent basis).
+ Yes
+ No
+8.
+Current Permanent Career or Career Conditional Federal Employee with Competitive Status - I am currently employed as a permanent career or career-conditional employee in the competitive service. (NOTE: If you indicate "yes" for this question, you MUST submit a copy of your most recent career/career-conditional SF50 AND you must submit a copy of an SF50 that reflects your highest grade held on a permanent basis).
+ Yes
+ No
+9.
+Are you a veteran whose latest discharge was under honorable conditions AND you: • served three or more years of continuous active duty service in the military (Note: if released shortly before completing a 3-year tour, you are considered to meet the eligibility); OR, • are entitled to veterans' preference? For more information, review USAJOBS Veterans resources. USAJOBS Veterans resources To verify your eligibility, you must submit a copy of your latest Certificate of Release or Discharge from Active Duty, DD-214 (copy indicating character of service) or other proof of service which includes character of service.
+ Yes
+ No
+Preferences
+1.
+Select the location(s) you want to be considered for. You must choose at least one location.
+ Washington, DC
+ Durham, NC
+2.
+Are you a current or former Executive Branch political appointee who served on a political Schedule A or Schedule C appointment within the past 5 years?
+ Yes
+ No
+3.
+Select the response that best describes the rating of record for your most recent performance appraisal:
+ Outstanding
+ Exceeds Fully Successful/Exceeds Expectations
+ Fully Successful
+ Minimally Successful
+ Unacceptable
+ I have not received a performance appraisal
+Merit Hiring Plan Short Essay Questions
+.
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+3.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+Minimum Quals, Data Engineer, GS-13
+.
+Select “Yes” or “No” to the following question(s).
+1.
+Does your resume demonstrate at least one year of specialized experience in the Federal service or equivalent public or private sector experience at a level comparable in scope and responsibility to the GS-12 grade level performing the following duty? Designing a production Extract, Transform, and Load (ETL) pipeline to ingest data from disparate sources into an enterprise environment feeding both, Structured Query Language (SQL) databases and Power Business Intelligence (Power BI) reporting endpoints.
+ Yes
+ No
+1a.
+Please indicate in the text box below where in your resume you describe gaining the above required specialized experience.
+.
+Select “Yes” or “No” to the following question(s).
+2.
+Does your resume demonstrate at least one year of specialized experience in the Federal service or equivalent public or private sector experience at a level comparable in scope and responsibility to the GS-12 grade level performing the following duty? Implementing controls to ensure data compliance and governance standards (e.g., metadata tagging, role-based access, data cataloging) across both, cloud and on-premises environments.
+ Yes
+ No
+2a.
+Please indicate in the text box below where in your resume you describe gaining the above required specialized experience.
+.
+Select “Yes” or “No” to the following question(s).
+3.
+Does your resume demonstrate at least one year of specialized experience in the Federal service or equivalent public or private sector experience at a level comparable in scope and responsibility to the GS-12 grade level, performing the following duty? Implementing a testing and monitoring strategy to guarantee data integrity.
+ Yes
+ No
+3a.
+Please indicate in the text box below where in your resume you describe gaining the above required specialized experience.
+.
+Select “Yes” or “No” to the following question(s).
+4.
+Does your resume demonstrate at least one year of specialized experience in the Federal service or equivalent public or private sector experience at a level comparable in scope and responsibility to the GS-12 grade level performing the following duty? Leading or participating orally in meetings to collect data and technical requirements.
+ Yes
+ No
+4a.
+Please indicate in the text box below where in your resume you describe gaining the above required specialized experience.
