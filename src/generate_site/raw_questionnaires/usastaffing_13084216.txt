@@ -1,0 +1,66 @@
+Position Title
+Senior IT Specialist - Information Security (InfoSec)
+Agency
+Supreme Court of the United States
+Announcement Number
+SCOTUS-13084216-27-OIT-JEJ
+Open Period
+Oct 09, 2026 to Oct 25, 2026
+Eligibilities
+1.
+Do you have a college degree?
+ Yes
+ No
+2.
+Are you a current employee of the Supreme Court of the United States?
+ Yes
+ No
+3.
+Are you able to acquire and retain a Top Secret (TS) clearance?
+ Yes
+ No
+Sr. IT Spec (Sr. Cyber Security Engineer)
+.
+All applicants are required to submit a cover letter and resume in order to be eligible for consideration. Please note that generic or re-used cover letters will not be accepted; resumes may be in any format.
+.
+Select “Yes” or “No” to the following question(s).
+1.
+Is a resume and cover letter included as part of your application package?
+ Yes
+ No
+2.
+Do you meet the minimum combination of experience and education having two (2) years of experience as an Information Systems Security Officer (ISSO) or a Security Control Assessor, and at least two (2) additional years of applicable Information Technology (IT) or Information Security experience, and a computer-related college degree?
+ Yes
+ No
+3.
+Do you have at least two (2) years of experience as an Information Systems Security Officer (ISSO) or a Security Control Assessor, and at least three (3) additional years of applicable Information Technology (IT) or Information Security experience, for a total of five years of experience?
+ Yes
+ No
+4.
+Are you willing and eligible to obtain and maintain a Top-Secret security clearance during the course of employment?
+ Yes
+ No
+5.
+Do you currently hold an active security clearance?
+ Yes
+ No
+6.
+Are you willing to report to a duty site within Washington, DC multiple times per week?
+ Yes
+ No
+7.
+Select the response that best describes your level of experience demonstrating your ability to coordinate a security assessment with assessors and the system owner. Do you have demonstrated experience determining scope, control implementation, and resolved assessment findings?
+ Yes, I have demonstrated two (2) or more years of experience coordinating a security assessment with assessors and the system owner. I have the skills and the knowledge to determine the scope, the control implementation and the assessment findings.
+ No, I do not meet the minimum experience level required.
+8.
+Do you have demonstrated experience with cyber threat intelligence and proactive hunting for threats and anomalies in systems?
+ Yes, I have two (2) or more years of demonstrated experience with cyber threat intelligence and proactive hunting for threats and anomalies in systems.
+ No, I do not meet the minimum experience level required.
+.
+Narrative responses must directly address the subject of the question asked. Comments such as "see resume" will not be accepted.
+9.
+Describe a situation where you had to communicate complex security requirements or risks to non-technical stakeholders. How did you ensure understanding and compliance?
+10.
+Describe a situation in which you determined that a security policy requirement needed to be applied to an information system. What steps did you take to ensure the requirement was implemented?
+11.
+List the relevant certifications you currently hold, including certification numbers if required for validation.

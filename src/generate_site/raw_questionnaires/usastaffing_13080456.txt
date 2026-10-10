@@ -1,0 +1,134 @@
+Position Title
+Loan Specialist (Transportation)
+Agency
+Export-Import Bank of the United States
+Announcement Number
+D27-MJ-13080456-OBAF
+Open Period
+Oct 09, 2026 to Oct 23, 2026
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+2.
+Career Transition Assistance Plan (CTAP): I am a current or former Export Import Bank of the United States employee displaced from a position in the same local commuting area of the vacancy. I have a current (or last) performance rating of record of at least fully successful or the equivalent. Applicants eligible under CTAP are provided priority selection for vacancies within the local commuting area for which they apply and are well qualified. NOTE: If you indicate "yes" for this statement, you must submit copies of the appropriate documentation, such as a reduction in force (RIF) separation notice, a SF50 reflecting your RIF separation, or a notice of proposed removal for declining a directed reassignment or transfer of function to another commuting area. You must also submit documentation to reflect your current (or last) performance rating of record.
+ Yes
+ No
+3.
+US Citizen: Are you a US citizen (either by birth or naturalization) or national of the United States?
+ Yes
+ No
+4.
+Current or Former Political Appointees : The Office of Personnel Management (OPM) must authorize employment offers made to current or former political appointees. If you are currently employed, or have been employed within the last 5 years, in any one of the categories below, you must disclose this information. Failure to disclose this information could result in disciplinary action including removal from Federal Service. Are you a current or former political appointee as described under 5 U.S.C. sections 5312 through 5316? -OR- Are you a current or former Schedule A or Schedule C political appointee, or an appointee who serves/served in a political capacity under agency-specific authority in the Executive Branch? -OR- Are you a current or former political appointee or non-career SES Executive Branch employee?
+ Yes
+ No
+5.
+Interagency Career Transition Assistance Plan (ICTAP): I am a current or former federal employee displaced from a position in a federal agency (e.g., IRS, VA, Dept of Labor, etc.) in the same local commuting area of the vacancy. I have a current (or last) performance rating of record of at least fully successful or the equivalent. Applicants eligible under ICTAP are provided priority selection for vacancies within the local commuting area for which they apply and are well qualified. NOTE: If you indicate "yes" for this statement, you must submit copies of the appropriate documentation, such as a reduction in force (RIF) separation notice, a SF50 reflecting your RIF separation, or a notice of proposed removal for declining a directed reassignment or transfer of function to another commuting area. You must also submit documentation to reflect your current (or last) performance rating of record.
+ Yes
+ No
+Preferences
+1.
+Select the lowest grade you are willing to accept for this position.
+ 12
+ 13
+Short Essay Questions
+.
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+3.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+Loan Specialist- 8496 & 8497
+1.
+GS-12 - Do you have one year of specialized experience equivalent to the GS-11 level in the Federal service or other equivalent pay system that has equipped you to perform the specialized experience of this position? This specialized experience includes: • Experience assisting with the analysis of financial transactions; • Experience analyzing financial statements and credit risk of borrowers; • Experience analyzing country risk, industry conditions, financial structures, and/or technical information to support credit decisions; and • Experience assisting with writing and presenting credit memos.
+ Yes (Your resume must reflect this specialized experience in order to qualify for the GS-12 grade level)
+ My experience is not reflected in the description above.
+2.
+Please indicate which position(s) on your resume supports this response (include title, agency/organization, dates of experience (month/year to month/year) DO NOT COPY AND PASTE RESUME or state 'REFER TO RESUME'.
+3.
+GS-13 - Do you have one year of specialized experience equivalent to the GS-12 level in the Federal service or other equivalent pay system that has equipped you to perform the specialized experience of this position? This specialized experience includes: • Experience independently performing analysis of financial transactions; • Experience analyzing financial statements and credit risk of borrowers; • Experience analyzing country risk, industry conditions, financial structures, and/or technical information to support credit decisions; and • Experience independently writing and presenting credit memos.
+ Yes (Your resume must reflect this specialized experience in order to qualify for the GS-13 grade level)
+ My experience is not reflected in the description above.
+4.
+Please indicate which position(s) on your resume supports this response (include title, agency/organization, dates of experience (month/year to month/year) DO NOT COPY AND PASTE RESUME or state 'REFER TO RESUME'.
+5.
+When analyzing an airline, which items would you assess to determine if a transaction has reasonable assurance of repayment? Please select the best response.
+ The Airline’s operations, including fleet, business plan, and route network.
+ The Airline’s financial statements, including income statement, cash flow statement, and balance sheet, to determine profitability, leverage, and liquidity metrics.
+ Support from the Airline’s management and ownership, including, for a government-owned airline, support from the government as needed.
+ The Airline’s prior experience with EXIM, including repayment history and past compliance with EXIM requirements.
+ All of the above should be assessed.
+ None of the Above.
+6.
+Which of the following can be used to assess a borrower's willingness and ability to repay a loan? Please select the best response.
+ Cash and cash equivalents
+ Debt Service Coverage Ratio
+ Relevant prior history with the borrower
+ All of the above
+ None of the above
+7.
+What global events can have a negative material impact on airline operations? Please select the best response.
+ Economic Upturn (e.g., market boom)
+ Pandemic (e.g., COVID-19 pandemic)
+ Geopolitical Conflict (e.g., the current Ukraine/Russia conflict)
+ None of the above
+ B and C
+8.
+EXIM receives an application from an airline requesting financing for its upcoming deliveries of U.S. manufactured aircraft. The airline is in poor financial condition with net losses and negative cash from operations. What structural enhancement(s) can be used to help overcome the poor financial condition? Please select the best response.
+ Increase the advance rate
+ Obtain a guarantee from a creditworthy entity
+ Provide a longer tenor
+ None of the above
+9.
+A government-owned airline with two decades of experience with EXIM has applied for another transaction. All prior transactions with this airline have included a payment and performance guarantee from the government whereby the government agrees to pay EXIM should the airline fail to do so. This pending application includes the government guarantee as usual, and EXIM is able to do business in the airline's country per EXIM's country limitation schedule. Prior transactions have included occasional payments made past the due date. In conversations with the airline, it has become apparent that the airline wants to pay on time and endeavors to do so, but foreign exchange issues in the country can lead to payment delays. Payments have typically been delayed by less than two months. The airline and the government have always worked with EXIM's portfolio management team to communicate about payment status. Which of the following risk mitigants would you recommend for the new transaction, and why?
+ I would recommend reducing the loan-to-value ratio to finance a lower amount because that gives EXIM less total risk in the event of a default.
+ I would recommend getting a security deposit equal to one quarter of debt service because that gives EXIM extra cash collateral to draw on in the event of a default.
+ I would recommend having the airline make payments into a dedicated account three months before the scheduled payment due date because if the early payment is late, the airline and EXIM have three months to ensure that payment is received prior to the scheduled due date and thereby avoid a payment default; or
+ I would recommend denying the application in its entirety despite a successful history of working with the airline because the risk of default is too high.
+10.
+Why is it important for EXIM to support the U.S. aircraft manufacturing industry, including financing foreign airlines' purchases of U.S.-manufactured aircraft and financing the development of domestic manufacturing facilities for new companies in the emerging advanced air mobility sector? Please select the best response.
+ To help ensure U.S. dominance of the emerging segment of the aerospace industry.
+ To help ensure existing U.S. manufacturers of aircraft remain competitive with foreign aircraft manufacturers, such as Airbus, which enjoy the support of export credit agencies in their own countries.
+ To support the U.S. aerospace supply chain, and the high paying jobs associated with aerospace.
+ To compete with aircraft development in other countries, especially China.
+ To increase efficiency in logistics and regional connectivity.
+ All of the above answers are true.
+ None of the above answers is true.
+11.
+Large commercial aircraft transactions are often underwritten and documented under tight deadlines, due to the manufacturer's delivery schedule. EXIM strives to ensure that the EXIM supported aircraft financing is ready for disbursement at the time of delivery of the aircraft. As a Loan Officer in the Transportation Division, you are coordinating with a deal team within EXIM that includes policy analysts, attorneys, engineers, and economists. You and the members of your deal team are managing several transactions at one time. One of your transactions has a tight deadline for completing a transaction memorandum to present to EXIM's Board of Directors for a decision regarding transaction approval. Which of the following actions would you take to ensure timely completion of the Board memorandum?
+ I would check with the aircraft manufacturer to confirm the expected delivery date of the first aircraft EXIM is being asked to finance to determine the date by which a Board decision is needed.
+ I would coordinate with the transaction attorneys and the airline and suggest that legal documentation should start as soon as possible in line with prior EXIM practice to ensure documentation is complete prior to the aircraft delivery date.
+ I would communicate with the rest of the deal team to emphasize that this transaction has a tighter turnaround time and should be prioritized over other transactions with later aircraft deliveries.
+ I would discuss the transaction with my Managing Director to ensure additional staff resources are placed on the transaction as needed in line with past Transportation Division practice; or
+ I would take all of the above actions.
+ I would do none of the above.
+12.
+You are the Loan Officer responsible for underwriting a complex, long-term financing transaction involving a foreign airline. The airline has experienced declining profitability and negative operating cash flow over the past two years. However, the airline is of strong strategic importance to its country, a supportive government shareholder, and a history of successfully meeting its EXIM obligations. The proposed transaction also involves a government guarantee. During your review, you identify concerns regarding the airline's cash flows and its ability to withstand industry-related risks. Which approach BEST demonstrates the level of analysis and judgment expected in the position?
+ Recommend approval because the government guarantee and the airline's prior repayment history provide sufficient assurance of repayment, without requiring further analysis of the airline's financial condition.
+ Recommend denial because the airline has negative operating cash flow and declining profitability, which indicate that the transaction does not provide reasonable assurance of repayment.
+ Complete a comprehensive assessment of the airline’s financial and operational condition, including profitability, liquidity, leverage, industry and country risks, strategic position, and other relevant transaction terms; identify the principal risks and determine whether appropriate structural or credit enhancements can address those risks.
+ Conduct the comprehensive analysis described in C and, based on the identified risks and mitigants, develop an independent recommendation regarding approval, or denial of the transaction, including proposed changes to the transaction structure or credit enhancements where appropriate, and present the key issues and recommendation to the appropriate approval authority.
+13.
+You are the Loan Officer leading a complex EXIM transaction with a time-sensitive aircraft delivery schedule. The transaction requires coordination among the borrower, exporter, lender, EXIM attorneys, engineers, economists, and other stakeholders. A material risk is identified that requires a change to the transaction structure. To meet the delivery deadline, the transaction is scheduled to be presented to the Board of Directors in a couple weeks. Which of the following actions BEST demonstrates the judgment, leadership, and coordination expected of a Loan Specialist?
+ Independently coordinate the deal team, the exporter, and the borrower to identify an updated transaction structure that mitigates the material risk and ensure that this risk and mitigant is clearly stated in the Board memorandum.
+ Notify your supervisor of the issues and wait for the supervisor to determine how the deal team should proceed because the transaction involves several specialized areas.
+ Work solely with outside counsel to structure and document the transaction to mitigate the identified risk.
+ Recommend delaying the transaction until all outstanding issues have been resolved, regardless of the aircraft delivery schedule, because proceeding before every issue is resolved could create additional risk for EXIM.
+14.
+I certify that, to the best of my knowledge and belief, all of the information included in this questionnaire is true, correct, and provided in good faith. I understand that if I make an intentional false statement, or commit deception or fraud in this application and all supporting materials, including my resume, or in any document or interview associated with the examination process, I may be fined or imprisoned (18 U.S.C. 1001); my eligibilities may be cancelled; I may be denied an appointment; or I may be removed and debarred from Federal service (5C.F.R. part 731). I understand that any information I give may be investigated. I understand that I will not be considered for employment if I do not respond "Yes" to this certification item.
+ Yes
+ No
