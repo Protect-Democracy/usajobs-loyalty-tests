@@ -1,25 +1,25 @@
 {
   "metadata": {
-    "total_jobs": 298604,
+    "total_jobs": 298612,
     "cutoff_date": "2025-06-01",
-    "generation_date": "2026-10-10T09:58:48.690210"
+    "generation_date": "2026-10-11T10:13:43.604687"
   },
   "by_service_type": {
-    "Competitive": 190391,
-    "Excepted": 106546,
-    "Senior Executive": 1667
+    "Competitive": 190394,
+    "Excepted": 106549,
+    "Senior Executive": 1669
   },
   "by_grade_level": {
     "GS-12": 24973,
     "GS-13": 22786,
-    "GS-11": 16230,
+    "GS-11": 16233,
     "VN-00": 15504,
-    "GS-9": 12925,
+    "GS-9": 12926,
     "GS-14": 12866,
     "GS-7": 11251,
     "GS-6": 9922,
     "GS-9/11": 7327,
-    "VM-15": 6976,
+    "VM-15": 6977,
     "GS-15": 6680,
     "GS-5": 6675,
     "WG-10": 5376,
@@ -32,7 +32,7 @@
     "NF-4": 3091
   },
   "by_location": {
-    "Washington, District of Columbia": 15417,
+    "Washington, District of Columbia": 15419,
     "Salt Lake City, Utah": 3614,
     "Phoenix, Arizona": 2153,
     "San Diego, California": 2061,
@@ -54,13 +54,13 @@
     "Philadelphia, Pennsylvania": 1311
   },
   "by_agency": {
-    "Department of Veterans Affairs": 97383,
+    "Department of Veterans Affairs": 97386,
     "Department of the Air Force": 34129,
     "Department of the Navy": 32911,
-    "Department of the Army": 30183,
-    "Department of Defense": 29117,
+    "Department of the Army": 30184,
+    "Department of Defense": 29119,
     "Department of Justice": 15465,
-    "Department of Homeland Security": 14547,
+    "Department of Homeland Security": 14549,
     "Other Agencies and Independent Organizations": 8222,
     "Department of the Interior": 7515,
     "Department of Transportation": 5656,
@@ -78,7 +78,7 @@
   "by_occupation": {
     "0610 - Nurse": 17013,
     "0301 - Miscellaneous Administration And Program": 11870,
-    "0602 - Medical Officer": 8177,
+    "0602 - Medical Officer": 8178,
     "2210 - Information Technology Management": 7850,
     "0343 - Management And Program Analysis": 7667,
     "0185 - Social Work": 7302,
@@ -92,8 +92,8 @@
     "0620 - Practical Nurse": 4160,
     "0801 - General Engineering": 3952,
     "0180 - Psychology": 3726,
-    "0640 - Health Aid And Technician": 3421,
-    "0905 - Attorney": 3419,
+    "0640 - Health Aid And Technician": 3422,
+    "0905 - Attorney": 3421,
     "0101 - Social Science": 3017,
     "0501 - Financial Administration And Program": 2974
   }
