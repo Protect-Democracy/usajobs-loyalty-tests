@@ -1,0 +1,119 @@
+Position Title
+BASE SUSTAINMENT MANAGER-TITLE 32
+Agency
+Air National Guard Units
+Announcement Number
+GA-13087035-AF-27-017
+Open Period
+Oct 12, 2026 to Oct 26, 2026
+Eligibilities
+1.
+Current nationwide military/prior members willing and eligible to become National Guard members. Are you a current military or prior member willing and eligible to become a National Guard member?
+ Yes
+ No
+Preferences
+1.
+Please select the response that best describes your status:
+ I am a permanent technician.
+ I am an indefinite technician.
+ I am a temporary technician.
+ I am a traditional Guard Member.
+ I am an Active Guard Reserve (AGR)/ADOS/ADSW) member.
+ I am a traditional Reserve member.
+ I am an Army Reserve MT or Air Force Reserve ART member.
+ I am an Active Duty military member.
+ I am a Civilian.
+2.
+Please select the response that best describes your status:
+ I am a Commissioned Officer.
+ I am a Warrant Officer.
+ I am an Enlisted member.
+ I am a Civilian.
+3.
+Are you a current member of the Air National Guard holding the AFSC of 3F171 with the military grade of E7-E8?
+ Yes
+ No
+0301-11-D2042000-GANG
+.
+Respond to all questions. For each, choose the response that best describes your experience and/or training. Please note that your answers will be verified against the information you provide in your resume or application.
+.
+Select “Yes” or “No” to the following question(s).
+1.
+I possess experience or training which provided a general knowledge of principles of organization, management, and administration. Experience using computer and automation systems.
+ Yes
+ No
+2.
+I have at least 36 months specialized experience in program or managerial experience in a type of work or a combination of functions directly related to the position to be filled or in comparable work or functions. Experience developing and recommending policy; organizing and carrying out specific programs, evaluating and recommending changes in methods of operations. Experience in supervisory, staff or technical work which included study, analysis or evaluation leading to the development or improvement of managerial or administrative policies, practices and procedures. Experience preparing written communications and oral presentations.
+ Yes
+ No
+.
+For each item, select the one response that most accurately describes your current level of experience and capability using the scale below.
+3.
+Ensure Services combat readiness is achieved through the analysis, supervision, development, and implementation of Base Services programs, missions, functions, activities, and events.
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+4.
+Provide technical guidance and recommendations regarding program operations and effectiveness to squadron commander on a daily basis.
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+5.
+Prepare, manage, and maintain a comprehensive annual budget and related contracts for Services training, equipment, and supplies, as well as official travel within the Operations and Maintenance (O&M) and Military Personnel (MILPERS) appropriations.
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+6.
+Maintain close working relationship with, and provides liaison between, squadron commander, wing senior leadership, active duty host, NGB/A1S, and gaining MAJCOM for management of manpower, budget, training, deployment, and coordination of Base Services programs. Provides technical guidance to wing, GSUs, and host Services personnel concerning all Services programs and customer support. Manages and ensures effective accomplishment of all administrative functions for customer support activities.
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+7.
+Plan, coordinate, monitor, and document Services training activities for Unit Training Assemblies (UTAs) and annual training (AT) periods. Evaluates annual training exercises, UTAs, and other Services support requirements for potential amendment or revision to flight training programs.
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+8.
+Develop directives, plan, and program relative to Services of MAJCOM-gained resources. Implements Services plans, training, and programs throughout wing/GSUs and coordinates initiatives between higher echelons, lateral organizations, and host.
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+9.
+Administer, monitor, and document wing Private Organizations, Non-Appropriated Funds (NAF), and Unit Welfare Funds. Maintains files for Private Organizations and ensures financial statements, documents, records, and procedures comply with Air Force Instructions/Regulations. Briefs chain-of-command on program requirements, including definitions, types, roles and responsibilities, establishment, operation, and dissolution procedures.
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+10.
+Manage the Unit Welfare Funds (UWF) and ensures disbursements, accounting, and auditing procedures are accomplished in accordance with established policies.
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+11.
+Accomplish constructive and documented review of program deficiencies, coordinates or directs appropriate corrective actions and provides progress reports via the chain-of-command.
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+.
+Select “Yes” or “No” to the following question(s).
+12.
+I certify that, to the best of my knowledge and belief, all of the information included in this questionnaire is true, correct and provided in good faith. I understand that if I make an intentional false statement or commit deception or fraud in this application or its supporting materials, or in any document or interview associated with the examination process, I may be fined or imprisoned (18 U.S.C 1001); my eligibilities may be canceled; I may be denied an appointment; or I may be removed and debarred from Federal Service (5 C.F.R Part 731). I understand that any information I give may be investigated. I understand that responding "No" to this item will result in my not being considered for this position.
+ Yes
+ No
