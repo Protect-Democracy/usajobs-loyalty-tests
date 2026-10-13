@@ -1,0 +1,177 @@
+Position Title
+Management Analyst
+Agency
+National Oceanic and Atmospheric Administration
+Announcement Number
+UNSEC-26-13079671-IMP
+Open Period
+Oct 13, 2026 to Oct 19, 2026
+Eligibilities
+1.
+Are you a current Department of Commerce employee who meets the definition of surplus or displaced definition of surplus or displaced from a position in the competitive service that makes you eligible under the Career Transition Assistance Plan (CTAP)? Note: You are required to submit supporting documentation as proof of eligibility. If yes, please confirm that you meet all the following eligibility requirements: This position is in the same local commuting area as the position of record from which you will be separated; and This position is at a grade level no higher than the grade of the position of record from which you will be separated; and This position has no greater promotion potential than the position of record from which you will be separated; and You have a current performance rating of record of at least fully successful or the equivalent; and You have not yet been separated.
+ Yes
+ No
+2.
+Are you a current Department of the Commerce employee who holds a career or career conditional appointment in the competitive service and has held a permanent position in the competitive service at the same or higher full performance level as the position being announced?
+ Yes
+ No
+3.
+Have you previously served as a NOAA Commissioned Officer under NOAA Corps and separated honorably after at least 3 years of active service? To verify your eligibility as a former NOAA Corps Officer, you must submit a copy of your DD Form 214 or NOAA Form 56-16.
+ Yes
+ No
+4.
+Are you a current Department of the Commerce employee who holds a career or career conditional appointment in the competitive service? Department of Commerce, Bureau of Economic Analysis (BEA) Department of Commerce, Bureau of Industry and Security (BIS) Department of Commerce, Bureau of the Census (CENSUS) Department of Commerce, Economic Development Administration (EDA) Department of Commerce, Economic and Statistics Administration (ESA) Department of Commerce, International Trade Administration (ITA) Department of Commerce, Minority Business Development Agency (MBDA) Department of Commerce, National Institute of Standards and Technology (NIST) Department of Commerce, National Oceanic and Atmospheric Administration (NOAA) Department of Commerce, National Telecommunications and Information Administration (NTIA) Department of Commerce, National Technical Information Service (NTIS) Department of Commerce, Office of the Secretary (OS) Department of Commerce, U.S. Patent and Trademark Office (USPTO) Department of Commerce, Office of the Inspector General (OIG)
+ Yes
+ No
+Preferences
+1.
+I authorize my application information being shared with hiring managers for similar positions. I understand this option may not result in further consideration for additional positions nor will it impact my application for this announcement.
+ Yes
+ No
+Merit Hiring Plan
+.
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+3.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+SE Question
+1.
+Select the statement that best describes your experience performing the work of a Management Analyst, ZA-0343-4, or equivalent grade level (GS-13) in the Federal service.
+ I have at least one full year (52 weeks) of specialized experience equivalent to the next lower pay band (ZA-3) or GS-12 grade level in the Federal service which includes all of the following: Analyzing program operations to identify strategies or improvements to increase efficiency or effectiveness; Reporting on program requirements, policies or procedures to determine and plan for impacts on operations; and Providing administrative support to an executive office, such as travel, scheduling, personal property accountability and disposal, office equipment, security, safety and health, and other programs and services.
+ I do not possess the experience described above.
+JKT
+1.
+A program's workload has increased by 18% over two years, while staffing increased by only 3%. At the same time, processing time increased by 12% and customer complaints increased by 9%. What should the Management Analyst do first?
+ Recommend an immediate staffing increase.
+ Conduct a comparative and trend analysis to determine the relationship among workload, resources, processing time, and quality indicators.
+ Recommend reducing the program's workload.
+ Conclude that insufficient staffing is the root cause.
+2.
+Which analytical method is most appropriate for determining why a performance indicator deteriorated after a new procedure was implemented?
+ Trend analysis
+ Comparative analysis
+ Root-cause analysis
+ Descriptive statistics
+3.
+A division's processing backlog has increased for six consecutive months. Which combination of information would provide the strongest basis for diagnosing the problem?
+ Current backlog only
+ Employee satisfaction scores only
+ Workload volume, staffing/resources, cycle time, process steps, error rates, and historical trends
+ The division's annual budget only
+4.
+Two comparable program offices have similar workloads, but Office A processes cases 25% faster than Office B. What is the most appropriate analytical approach?
+ Recommend that Office B immediately adopt all practices used by Office A.
+ Conduct comparative analysis to identify differences in processes, resources, technology, workload characteristics, and operating practices.
+ Conclude that Office A has more productive employees.
+ Compare only the number of employees in each office.
+5.
+Senior leadership asks whether a proposed process change is likely to improve performance before the change is implemented. Which analytical approach is most appropriate?
+ Predictive analysis using historical and relevant operational data
+ Root-cause analysis
+ Audit sampling
+ Descriptive reporting of last year's results
+6.
+A performance dashboard shows that productivity increased substantially after a new automated system was implemented. However, error rates also increased. What should the analyst conclude?
+ The system is successful because productivity increased.
+ The system failed because errors increased.
+ The results require additional analysis of productivity, quality, workload characteristics, and process changes before determining overall effectiveness.
+ Error rates should be excluded because productivity is the primary measure.
+7.
+A senior leader asks an analyst to recommend a change to an administrative process that is governed by a Department-level directive. What should the analyst do before recommending implementation?
+ Implement the change within the office and notify headquarters afterward.
+ Review the applicable laws, regulations, Department directives, NOAA policies, procedures, and delegated authorities to determine constraints and approval requirements.
+ Ask employees whether they believe the change is appropriate.
+ Implement the change if it improves efficiency, regardless of existing policy.
+8.
+Which statement best describes organizational awareness for a Management Analyst working in a federal agency?
+ Knowing the names and positions of senior executives.
+ Understanding the organization's mission, programs, authorities, policies, processes, stakeholders, and how administrative, technological, and organizational systems interact.
+ Knowing how to create management reports.
+ Understanding only the policies governing the analyst's immediate office.
+9.
+A new Department policy could substantially change how a NOAA program collects and reports performance information. What is the analyst's most appropriate role?
+ Wait until implementation problems occur before assessing the policy.
+ Determine the policy's operational implications, identify affected processes and systems, assess risks and resource requirements, and advise leadership on implementation considerations.
+ Rewrite the Department policy for the organization.
+ Determine whether employees personally agree with the policy.
+10.
+A program representative provides information that conflicts with data contained in the organization's official reporting system. What should the analyst do?
+ Use the program representative's information because it is more recent.
+ Use the official data without further investigation.
+ Validate the sources, definitions, collection methods, timing, and data quality before determining which information should be used.
+ Average the two data sets.
+11.
+An analyst is asked to interpret a new regulation and advise leadership about its effect on operations. Which approach demonstrates the strongest technical credibility?
+ Provide an interpretation based primarily on past practice.
+ Identify the authoritative regulatory or policy requirements, determine applicability, analyze operational implications, document assumptions, and clearly distinguish requirements from recommendations.
+ Ask program employees to decide what the regulation means.
+ Recommend adopting the strictest possible interpretation.
+12.
+Which characteristic is most important when developing a management performance measure?
+ It is easy to calculate.
+ It produces a large amount of data.
+ It is clearly defined, relevant to mission objectives, measurable, reliable, and useful for management decisions.
+ It is consistent with measures used by another organization.
+13.
+A senior leader requests a report showing that a program is operating efficiently. The available data do not support that conclusion. What should the analyst do?
+ Select the data that support the requested conclusion.
+ Explain the limitations of the available evidence and provide an objective analysis of what the data do and do not demonstrate.
+ Change the performance measures.
+ Delay the report until favorable data become available.
+14.
+An analyst discovers that two offices calculate "processing time" using different definitions. Why is this a significant analytical problem?
+ It makes employee performance ratings more difficult.
+ It prevents meaningful comparison unless the definitions, data sources, and calculation methods are standardized or appropriately reconciled.
+ It means the data cannot be used for any purpose.
+ It proves that one office is performing incorrectly.
+15.
+Senior leadership is developing its annual resource requirements. Which information would be most useful to a Management Analyst in advising leadership?
+ Prior-year funding only.
+ Historical and projected workload, performance trends, staffing, resource utilization, mission requirements, operational risks, and anticipated changes in policy or workload.
+ Employee preferences regarding staffing levels.
+ The largest funding request submitted by comparable offices.
+16.
+A program requests additional positions because workload has increased. Which analysis provides the strongest basis for evaluating the request?
+ Compare the requested positions with the number of employees in similar organizations.
+ Analyze workload trends, productivity, staffing levels, process efficiency, automation opportunities, mission requirements, and the relationship between resources and outputs/outcomes.
+ Approve the request because workload increased.
+ Deny the request because technology may eventually replace some work.
+17.
+During a process review, program representatives identify several deficiencies but disagree about their causes. What should the analyst do?
+ Select the explanation provided by the most senior representative.
+ Document the differing perspectives, collect and validate relevant evidence, analyze process and performance data, and determine the most supportable causes.
+ Report all explanations as equally established facts.
+ Exclude the issue from the final report.
+18.
+A headquarters organization requests a performance report with a large number of data elements. Several data elements are not available from existing systems. What should the analyst do?
+ Create estimates without identifying them as estimates.
+ Report only the data that are convenient to obtain.
+ Assess the reporting requirement, identify available and unavailable data, validate definitions and sources, explain limitations, and recommend feasible alternatives where appropriate.
+ Reject the request.
+19.
+An internal review identifies a recurring control deficiency that has resulted in several similar findings over three years. Which action is most appropriate?
+ Close the finding after notifying management.
+ Perform root-cause analysis, assess the associated risk, develop corrective actions with responsible parties and milestones, and monitor implementation and effectiveness.
+ Conduct additional employee training without determining the underlying cause.
+ Remove the finding from future reports.
+20.
+An audit identifies three corrective actions with different levels of operational risk and different implementation deadlines. Which approach best demonstrates effective corrective-action management?
+ Track all actions identically regardless of risk.
+ Prioritize and monitor actions based on risk, significance, responsible parties, milestones, dependencies, and required evidence of completion and effectiveness.
+ Close actions when management says they are complete.
+ Track only actions that affect budget execution.
+.
+Select “Yes” or “No” to the following question(s).
+21.
+I certify that I did not use a consultant or artificial intelligence tool (such as a large language model) to complete the responses above. To the best of my knowledge, all information provided in my application is true and accurate. I affirm that I have truthfully and accurately represented my work experience, knowledge, skills, abilities, and education. I understand that providing false or misleading information may result in disqualification from consideration or termination of employment if hired. I further certify that I have read the entire vacancy announcement, reviewed my responses to the eligibility questions for accuracy, and understand the requirements regarding supporting documentation, including what must be submitted and applicable deadlines.
+ Yes
+ No
