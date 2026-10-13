@@ -1,0 +1,210 @@
+Position Title
+RPA SENSOR OPERATOR (INSTRUCTOR) - TITLE 32
+Agency
+Air National Guard Units
+Announcement Number
+GA-13085310-AF-27-008
+Open Period
+Oct 13, 2026 to Dec 31, 2026
+Eligibilities
+1.
+US Citizens. Are you a US Citizen?
+ Yes
+ No
+2.
+Are you a current member of the state National Guard for which this position is being advertised, or are you willing and eligible to become a member?
+ Yes
+ No
+3.
+Please select the response that best describes your status:
+ I am a member of the Georgia Army National Guard.
+ I am a member of an Army National Guard component outside of Georgia.
+ I am a member of an Army Reserve or Army Active Duty component.
+ I am a member of the Georgia Air National Guard.
+ I am a member of an Air National Guard component outside of Georgia.
+ I am a member of an Air Force Reserve or Air Force Active Duty component.
+ I am a member of a Coast Guard, Marine Corps, or Navy Active Duty component.
+ I am prior service; no current military status.
+ I am a civilian; no prior military service.
+4.
+Please select the response that best describes your status:
+ I am a permanent technician.
+ I am an indefinite technician.
+ I am a temporary technician.
+ I am a traditional Guard Member.
+ I am an Active Guard Reserve (AGR)/ADOS/ADSW) member.
+ I am a traditional Reserve member.
+ I am an Army Reserve MT or Air Force Reserve ART member.
+ I am an Active Duty military member.
+ I am a Civilian.
+5.
+Please select the response that best describes your status:
+ I am a Commissioned Officer.
+ I am a Warrant Officer.
+ I am an Enlisted member.
+ I am a Civilian.
+Preferences
+1.
+Are you a current member of the Georgia Air National Guard, Air Force Reserve or an Air Force Active Duty component holding a military rank of A1C-MSgt?
+ Yes
+ No
+2101-11-D2294000-GANG
+.
+Thank you for your interest in completing the Occupational Questionnaire. Your responses to this questionnaire, in conjunction with the other portions of your completed application, will be evaluated in making preliminary screening decisions for this position. Do not overstate or understate your level of experience and capability. You should be aware that your ratings are subject to evaluation and verification. Particularly, your resume must support the response to the questions in the Occupational Questionnaire. Additional steps in the selections process are designed to verify your stated level of experience and capability. It is important to note that all of your responses to the Assessment Questionnaire are subject to review and verification. If after reviewing your resume and/or supporting documentation a determination is made that you have overstated your qualifications and/or experience, you will be rated ineligible.
+.
+Select “Yes” or “No” to the following question(s).
+1.
+I possess experience, education, or training interpreting, explaining, and/or applying a variety of regulations and procedures and experience using computer and automation systems.
+ Yes
+ No
+2.
+I have at least 36 months specialized experience, education, or training coordinating and negotiating with organizations/personnel both orally and in writing to resolve differences/problems.
+ Yes
+ No
+.
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+.
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+3.
+Perform mission planning, preflight, in-flight, and post-flight duties in accordance with aircraft technical orders, applicable Air Force Instructions, and Unified Combatant Commands' theater Rules of Engagement.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+4.
+Operate mission planning ancillary equipment to initialize information for download to airborne mission systems.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+5.
+Receive, interpret, extract, and disseminate relevant ATO, Airspace Control Order, and Special Instructions information.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+6.
+Participate in post-flight debriefing to establish mission accomplishments and potential procedural development.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+7.
+Perform Intelligence, Surveillance and Reconnaissance, Close Air Support; Combat Search and Rescue; Dynamic Targeting/Time Sensitive Targeting; Air Interdiction; Strike Coordination and Reconnaissance; and Air Operations in Maritime Surface Warfare utilizing Full Motion Video and various sensors, mission equipment, and precision guided munitions.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+8.
+Detect, analyze and discriminate between valid and invalid targets using synthetic aperture radar, electro-optical, low-light, and infrared full-motion video imagery, and other active acquisition and tracking systems.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+9.
+Assist in air navigation, AOB integration, control planning, and determining effective sensor control and delivery tactics to achieve overall mission objectives.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+10.
+Conduct immediate first phase Battle Damage Assessments for up-channel coordination and potential reattack.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+11.
+Utilize laser target marking systems to provide target identification and illumination in support of other combat assets.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+12.
+Responsible for onboard/off-board sensors for guidance and delivery.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+13.
+Conduct crewmember duties related to deployed and in-garrison launch and recovery operations.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+14.
+Configure Ground Control Station and aircraft systems to effectively conduct handover operations.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+15.
+Monitor aircraft systems, notify pilot of system malfunctions, and assist with diagnosis and troubleshooting.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+16.
+Execute all normal and emergency procedure checklists and assists pilot in complying with all applicable technical orders and flight regulations.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+17.
+Perform training, planning, standardization and evaluation, and other administrative duty functions for Remotely Piloted Aircraft system operations.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+18.
+Conduct training for RPA operations systems personnel.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+19.
+Develop and review instructional methods and procedures used in Initial Qualification Training, Upgrade Training, and Continuation Training.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+.
+For each technical area below, select the response that most accurately describes your current level of experience and demonstrated capability.
+20.
+Review trend analysis of flight evaluations to identify training deficiencies.
+ I have no knowledge or demonstrated capability in this technical area.
+ I can demonstrate an understanding of the fundamental concepts involved in this technical area. I will require formal training and close supervision to perform this work.
+ I can demonstrate an understanding of some advanced concepts within this technical area and am capable of working on most projects in this technical area with moderate assistance. I am able to perform this work with minimal supervision.
+ I can demonstrate an understanding of many advanced concepts within this technical area and am capable of mentoring others on some projects in this technical area. I am able to perform this work without supervision except in the most complex situations.
+ I can demonstrate an understanding of most advanced concepts within this technical area. I am considered an expert in the field and am frequently consulted by others about this technical area. I am responsible for mentoring and training others in this technical area.
+.
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+21.
+Conduct periodic inspections of aircrew operations and unit activities.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+.
+Select “Yes” or “No” to the following question(s).
+22.
+CERTIFICATION: I certify that, to the best of my knowledge and belief, all of the information included in this questionnaire is true, correct, and provided in good faith. I understand that if I make an intentional false statement or commit deception or fraud in this application and its supporting materials, or in any document or interview associated with the examination process, I may be fined or imprisoned (18 U.S.C. 1001); my eligibilities may be cancelled, I may be denied an appointment, or I may be removed and debarred from Federal service (5 C.F.R. part 731). I understand that any information I give may be investigated. I understand that responding "No" to this item will result in my not being considered for this position. Failure to agree or respond to the statement below will disqualify you from further consideration for the position. Select the most appropriate response below.
+ Yes
+ No
