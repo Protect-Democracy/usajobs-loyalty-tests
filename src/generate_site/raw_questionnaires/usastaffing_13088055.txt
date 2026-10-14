@@ -1,0 +1,106 @@
+Position Title
+Supervisory IT Specialist (Service Desk Supervisor)
+Agency
+Offices, Boards and Divisions
+Announcement Number
+DE-13088055-27-JS
+Open Period
+Oct 13, 2026 to Oct 28, 2026
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+2.
+Are you a current or former federal employee displaced from the Department of Justice? To be eligible under CTAP you must meet all of the following: You are located in the same local commuting area of this vacancy; AND, You are applying to a position that is at (or below) the grade level of the position from which you were (or will) be separated from; AND, You are applying to a position that does not have greater promotion potential than the position from which you were (or will be) separated from; AND, Your last performance rating of record is at least fully successful, or the equivalent. For more information, review the USAJOBS Help Center. .. To verify your eligibility: You must submit appropriate supporting documentation, such as a Reduction in Force (RIF) separation notice or a Proposed Removal/Separation notice, You must submit a copy of your most recent performance appraisal and a copy of your latest Notification of Personnel Action (SF-50) form.
+ Yes
+ No
+3.
+Are you an employee that was involuntarily separated from another agency due to a reduction-in-force (RIF)? The Inter-agency Career Transition Assistance Plan (ICTAP) is an inter-agency program that helps "surplus" or "displaced" federal employees improve their chances of finding a new job at another agency (not their current or former agency), by giving these employees selection priority over other applicants from outside the agency. You may be eligible for ICTAP if: You're a current federal employee who meets the definition of a "surplus" or "displaced employee—you've received official notice that your job is no longer needed or that you will lose your job by Reduction-in-Force (RIF). The agency you're applying to is accepting applications from outside of their workforce. The job you're applying to is in the local commuting area. You meet the qualifications and other requirements of the job you're applying for. For example, if you work for the Department of Defense and receive a Reduction in Force (RIF) separation notice, you can apply for a competitive service job in the local commuting area at the Department of Justice. T o verify your eligibility: You must submit appropriate supporting documentation such as a Reduction in Force (RIF) separation notice to include your latest performance rating (if the notice does not have this information included, you must submit a copy of your most recent performance appraisal) and a copy of your latest Notification of Personnel Action, Standard Form 50.
+ Yes
+ No
+Preferences
+1.
+In the last five years (from the closing date of this announcement) have you served, or are you currently serving, as an Executive Branch Political, Schedule C, or Non-career Senior Executive Services appointee? You can find out if you have held one of these appointment types by looking at the SF-50s in your Electronic Official Personnel Folder (eOPF), in Section 5 where the legal authorities are listed. A political appointee is an appointment made by the President with or without confirmation by the Senate (5 CFR 213.3102(c)) OR an assistant position to a top-level federal official if filled by a person designated by the President as a White House Fellow (5 CFR 213.3102(z)). A Schedule C appointee occupies a position excepted from the competitive service because of the confidential or policy-determining nature of the position duties (5 CFR 213.3301 and 5 CFR 213.3302). A noncareer SES appointee serves at the pleasure of the appointing official without time limitations (5 CFR 317 Subpart F).
+ Yes, I have held one of the above appointment types in the last 5 years.
+ No, I have not held any of the above appointment types in the last 5 years.
+ I am uncertain if I have held any of these appointment types in the last 5 years.
+.
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+2.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+3.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+4.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+5.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+6.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+Min Quals
+.
+Carefully read each statement and all possible answers before selecting a response. Some questions will be used to screen out ineligible applicants. Applicant errors in responses will not be corrected. You are responsible for the accuracy of your application. If you fail to provide the requested information contained in the vacancy announcement, or the information submitted is insufficient, you may lose consideration for the position.
+1.
+Do you have at least one year of specialized experience equivalent to the GS-13 grade level in the Federal service performing duties such as: Leading or supervising enterprise IT customer support operations, including Tier 1 and Tier 2 incident resolution, deskside support, audio-video services, device management, and asset tracking. Resolving complex technical issues involving user systems, endpoint devices, applications, or network-connected environments, and providing expert troubleshooting guidance to support staff. Applying IT service management principles and tools to manage incidents, requests, problems, assets, and service improvements across a large-scale enterprise environment. Integrating cybersecurity requirements into customer support operations, including secure configuration standards, endpoint protection, vulnerability mitigation, and incident escalation. Coordinating technical activities across multiple teams, contractors, vendors, and cybersecurity personnel to address service delivery challenges and implement process or technology enhancements. Providing authoritative technical guidance and recommendations on customer support operations, endpoint management, IT policies, and emerging technologies to leadership and stakeholders.
+ Yes, I have at least one year of specialized experience.
+ No, I do not have one year of specialized experience.
+2.
+I certify that, to the best of my knowledge and belief, all of the information included in this questionnaire is true, correct and provided in good faith. I did not receive any help in answering these questions. I understand that if I make an intentional false statement, or commit deception or fraud in this application and its supporting materials, or in any document or interview associated with the examination process, I may be fined or imprisoned (18 5 U.S.C. 1001); my eligibilities may be canceled, I may be denied an appointment, or I may be removed and debarred from Federal service (5 C.F.R. part 731). I understand that any information I give may be investigated. I understand that responding "No" to this item will result in my not being considered for this position.
+ Yes, I certify that the information provided in this questionnaire is true, correct and provided in good faith, and I understand the information provided above.
+ No, I do not certify/understand the information provided above.
+Job Knowledge Test
+1.
+A surge in repeated incidents related to user account lockouts appeared in the ITSM system over a two-day period. As the Service Desk Supervisor, which approach best aligns with IT service management principles for identifying and addressing the underlying issue?
+ Clear all repeated incidents and rely on technicians to report if the pattern continues.
+ Direct technicians to reset affected accounts without further investigation.
+ Analyze incident trends in the ITSM tool to identify common factors and determine whether a systemic issue is causing the lockouts.
+ Notify all users that account lockouts will be resolved only during scheduled maintenance windows.
+2.
+A critical Division user reports persistent failures when their endpoint attempts to connect to required DOJ applications. Tier 1 has already ruled out credential and network connectivity issues. As the supervisor providing advanced support, what is the most appropriate next step?
+ Advise the user to try again later in case the application becomes available.
+ Reimage the device without further diagnostic steps.
+ . Review application logs, endpoint configuration, and recent device management changes to identify the technical cause of the connectivity failures.
+ Escalate immediately to the vendor without internal analysis.
+3.
+IT plans a configuration upgrade to a major application to address potential security vulnerabilities in the coming days. As the IT Customer Communications lead, which is the best action?
+ Inform the known specific application users of the security upgrades and potential outage information.
+ Inform all users of the application maintenance and provide workaround instructions as well as timing information.
+ Do not inform users as security vulnerabilities are not a user issue.
+ Inform only IT personnel who are assisting with the upgrade.
+4.
+A user reports that they cannot access their account, and after verification you discover multiple failed login attempts, an outdated user profile and signs that the4 account may have been accessed from an unfamiliar location. What is the next appropriate action?
+ Immediately delete the suspicious login record, update the user?s email and unlock the account so that they can continue working.
+ Lock the user account, reset the password, update the recovery email and close the ticket without further review.
+ Verify the user?s identity, temporarily lock the account, report the suspicious activity, assist with recovery steps and document the incident.
+ Tell the user to create a new account, since the existing one may be compromised.
+5.
+The Civil Division is upgrading their laptops. Customer support, including asset management, are preparing to replace the outdated devices. What should be done with the outdated equipment?
+ Hold the old devices in storage in case anyone needs a secondary device for their home office.
+ Offer them to a local charity who may need IT equipment.
+ Advise customers that the new equipment was configured last week and that they should swap out their laptops by close of business.
+ Remove the hard drives to protect any division data and follow the excess equipment procedures.
+6.
+During a system outage, dozens of users report account access failures. What should the supervisor do first?
+ Have HelpDesk personnel troubleshoot each case individually.
+ Pause all tickets until the outage ends to reduce volume.
+ Confirm the outage, communicate a unified message to IT personnel and users and activate the problem management workflow.
+ Tell users to try again later without further guidance.
+7.
+A HelpDesk agent reports that a user is requesting elevated account permissions that exceed standard user access profiles. What is the supervisor's appropriate action?
+ Approve the permission changes immediately to avoid delays for the customer
+ Review the request against internal policies and procedures, verify the business justification and escalate the request to the appropriate official if required.
+ Tell the HelpDesk agent to close the ticket without further explanation.
+ Ask the user to resubmit the request again through a different channel.
+8.
+As the supervisor, you receive reports that an end user has been rude and abrasive to a HelpDesk agent. How do you respond to your employee and the end user?
+ Confront the user in front of your employee and demand an immediate apology.
+ Tell the HelpDesk agent that it is usual for people to be stressed out and to have a thicker skin.
+ Contact the user to discuss the situation and request that moving forward they escalate their request rather than verbally attack HelpDesk personnel. Advise the HelpDesk employee of your action and tell them in the future to escalate tickets involving verbal abuse to you as the supervisor.
+ Require that the HelpDesk employees attend remedial training on dealing with difficult customers.
