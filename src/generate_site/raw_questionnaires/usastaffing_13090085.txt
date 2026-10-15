@@ -1,0 +1,66 @@
+Position Title
+IT SPECIALIST (CUSTSPT)
+Agency
+Air National Guard Units
+Announcement Number
+KS-13090085-AF-27-014
+Open Period
+Oct 14, 2026 to Oct 28, 2026
+Eligibilities
+1.
+All on-board National Guard Title 32 Excepted Technicians within the state for which you are applying (Title 32 Permanent and Excepted Indefinite). Are you a current on-board National Guard Title 32 Excepted Technician within the state for which this position is being advertised? To verify your eligibility, you must submit a copy of your most recent Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Tenure in Block 24 (1, 2, or 3).
+ Yes
+ No
+Preferences
+1.
+Would you accept a term appointment?
+ Yes
+ No
+2.
+Are you a current member of the 184th Wing?
+ Yes
+ No
+3.
+Do you currently hold the rank of E-3 through E-5?
+ Yes
+ No
+2210-11-D2182P01
+.
+Select “Yes” or “No” to the following question(s).
+1.
+Do you have experience, education or training that has provided a basic knowledge of data processing functions and general management principles that enabled the applicant to understand the stages required to automate a work process? Experience may have been gained in work such as computer operator or assistant, computer sales representative, program analyst, or other positions that required the use or adaptation of computer programs and systems?
+ Yes
+ No
+2.
+Do you have 1-year specialized experience equivalent to at least the next lower grade? Experience, education, or training that approaches techniques and requirements appropriate to an assigned computer applications area or computer specialty area in an organization? Experience planning the sequence of actions necessary to accomplish the assignment where this entailed coordination with others outside the organizational unit and development of project controls. Experience that required adaptations of guidelines or precedents to meet the needs of the assignment. Experience preparing documentation on cost/benefit studies where is involved summarizing the material and organizing it in a logical fashion.
+ Yes
+ No
+.
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+3.
+Ability to analyze, apply methods and practices for recovering, adjusting and modifying information technology (IT) systems to solve complex problems, while improving customer support practices, that minimizes interruptions in service.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+4.
+Knowledge of network operations, security methods, and network architecture optimization techniques; the capabilities and limitations of the information technology (IT) systems, infrastructure and software configuration in order to manage the tenant network, carry out network and/or independent platform projects and coordinate efforts with others affected in the organization.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+5.
+Ability to gather facts and use effective analytical and evaluative methods to assess information, plan the sequence of actions necessary, make sound decisions, and solve a variety of complex information technology (IT) device and infrastructure problems.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+.
+Select “Yes” or “No” to the following question(s).
+6.
+I certify that, to the best of my knowledge and belief, all of the information included in this questionnaire is true, correct and provided in good faith. I understand that if I make an intentional false statement or commit deception or fraud in this application or its supporting materials, or in any document or interview associated with the examination process, I may be fined or imprisoned (18 U.S.C 1001); my eligibilities may be canceled; I may be denied an appointment; or I may be removed and debarred from Federal Service (5 C.F.R Part 731). I understand that any information I give may be investigated. I understand that responding "No" to this item will result in my not being considered for this position.
+ Yes
+ No

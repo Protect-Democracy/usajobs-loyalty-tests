@@ -1,0 +1,212 @@
+Position Title
+Management and Program Analyst
+Agency
+National Oceanic and Atmospheric Administration
+Announcement Number
+NMFS-27-13087314-DE
+Open Period
+Oct 15, 2026 to Oct 21, 2026
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+2.
+Are you a current Department of Commerce employee who meets the definition of surplus or displaced definition of surplus or displaced from a position in the competitive service that makes you eligible under the Career Transition Assistance Plan (CTAP)? Note: You are required to submit supporting documentation as proof of eligibility. If yes, please confirm that you meet all the following eligibility requirements: This position is in the same local commuting area as the position of record from which you will be separated; and This position is at a grade level no higher than the grade of the position of record from which you will be separated; and This position has no greater promotion potential than the position of record from which you will be separated; and You have a current performance rating of record of at least fully successful or the equivalent; and You have not yet been separated.
+ Yes
+ No
+3.
+Are you a current or former employee of a Federal agency who meets the definition of surplus or displaced from a position in the competitive service from a Federal agency outside of the Department of Commerce that makes you eligible under the Interagency Career Transition Assistance Plan (ICTAP)? Note: You are required to submit supporting documentation as proof of eligibility. If yes , please confirm that you meet all the following eligibility requirements: This position is in the same local commuting area as the position of record from which you were separated; and This position is at a grade level no higher than the grade of the position of record from which you were separated; and This position has no greater promotion potential than the position of record from which you were separated; and Your last performance rating of record was at least fully successful or the equivalent; and You were separated from your position of record less than one (1) year ago.
+ Yes
+ No
+Preferences
+1.
+Select the location(s) you want to be considered for. You must choose at least one location.
+ Anchorage, AK
+ Juneau, AK
+ Long Beach, CA
+ Sacramento, CA
+ San Diego, CA
+ Santa Rosa, CA
+ Miami, FL
+ Panama City, FL
+ Saint Petersburg, FL
+ Honolulu, HI
+ Silver Spring, MD
+ Gloucester, MA
+ Woods Hole, MA
+ Pascagoula, MS
+ Beaufort, NC
+ Newport, OR
+ Portland, OR
+ Narragansett, RI
+ Galveston, TX
+ Burley, WA
+ Lacey, WA
+ Manchester, WA
+ Seattle, WA
+2.
+Select the lowest grade you are willing to accept for this position.
+ 2
+ 3
+Merit Hiring Plan
+.
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+3.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+Min Quals
+1.
+ZA-2: Select the statement that best describes the experience and/or education that demonstrates your ability to perform the work of a Management and Program Analyst, ZA-0343-2 pay band or equivalent grade level (GS-07) in the Federal service.
+ I have at least one full year (52 weeks) of specialized experience equivalent to the next lower pay band (ZA-1) or GS-05 grade level in the Federal service which includes all of the following: Assisting with administrative tasks such as such as budget, personnel, procurement, space, or property management.
+ I have one full year of graduate-level education. (Note: You must attach a copy of your transcripts.)
+ I meet the criteria for a superior academic achievement demonstrated by a related bachelor’s degree from an accredited college or university with one of the following: A grade point average (GPA) of 2.9 or higher based on a 4.0 scale for all completed undergraduate courses, or those completed in the last 2 full years of undergraduate study; A GPA of 3.5 or higher based on a 4.0 scale for required courses completed in a major field of study, or those courses completed in a major field of study during the last two years of undergraduate study; Class standing of upper third of the graduating class in the college, university, or major subdivision of the college; Membership in a national Scholastic Honor Society certified by the Association of College honor Societies, excluding freshman honor societies. Note: It is your responsibility to ensure your application clearly states how you meet one of these provisions. You must attach a copy of your transcripts showing completed degree and, if applicable, proof of national Scholastic Honor Society membership.
+ I have a combination of graduate-level education and specialized experience as described above. (Note: You must attach a copy of your transcripts.)
+ I do not possess the experience and/or education described above.
+2.
+ZA-3: Select the statement that best describes the experience and/or education that demonstrates your ability to perform the work of a Management and Program Analyst, ZA-0343-3 pay band or equivalent grade level (GS-11) in the Federal service.
+ I have at least one full year (52 weeks) of specialized experience equivalent to the next lower pay band (ZA-2) or GS-09 grade level in the Federal service which includes all of the following: Assisting with analysis or evaluations on program effectiveness and improvements related to budgetary, financial, or administrative operations; and Supporting contracts or the procurement of resources for an organization.
+ I have a Ph.D. or equivalent doctoral degree or 3 full years of progressively higher level graduate education leading to such a degree or LL.M., if related. (Note: You must attach a copy of your transcripts.)
+ I have a combination of education and specialized experience as described above. Note: Only graduate level in excess of the amount required for the next lower band level may be combined with experience. (Note: You must attach a copy of your transcripts.)
+ I do not possess the experience and/or education described above.
+JKT
+1.
+While conducting an inventory audit of office monitors, you count 45 physical units in the storage room, but the database record lists 52 units. What is the best initial step to resolve this discrepancy?
+ Delete 7 entries from the database to match physical counts immediately.
+ Report 7 monitors as stolen to local security.
+ Cross-reference recent sign-out logs and transfer records to account for missing units.
+ Order 7 additional monitors to replenish the storage room.
+2.
+When logging new office assets into a central inventory system, which combination of data fields provides the necessary tracking details?
+ Item description, serial number, assigned location, and custodian name.
+ Item color, vendor website, employee home address, and shipping box size.
+ Store hours, item description, manufacturer phone number, and purchase date.
+ Serial number, office temperature, total budget, and vendor employee name.
+3.
+An analyst notices that three separate team members submitted duplicate purchase requests for the exact same software license. What is the most efficient course of action?
+ Process all three requests to ensure everyone receives a license.
+ Consolidate the requests into a single order to avoid unnecessary costs.
+ Deny all three requests without explanation.
+ Forward all three requests to legal counsel for review.
+4.
+An operational audit reveals that an invoice approval workflow takes an average of 21 days due to multi-layered manual handoffs. What analytical step should be taken first to streamline the process?
+ Mandate that employees work overtime to process invoices faster.
+ Map the current end-to-end workflow to identify specific bottlenecks and redundant approval steps.
+ Eliminate all invoice reviews and authorize automatic payments.
+ Outsource the invoice approval process to an external firm without analyzing root causes.
+5.
+Multiple branches in an organization are purchasing similar analytical software independently, leading to higher per-license costs. What policy or procedural change should a management analyst recommend?
+ Require branches to stop using analytical software entirely.
+ Instruct each branch to double their individual software budgets.
+ Allow branches to continue independent purchases but prohibit sharing data.
+ Establish a centralized procurement process to leverage volume licensing discounts across all branches.
+6.
+Operational data shows that Customer Service Ticket Resolution Time increased from 2 days to 8 days over a 6-month period. To identify the root cause, which analytical approach is most effective?
+ Analyzing ticket volume, staffing trends, and complexity distribution over the same 6-month period.
+ Asking customer service agents if they feel busier than usual.
+ Assuming the delay is due to system hardware failure without reviewing data.
+ Comparing ticket resolution times with a completely unrelated department.
+7.
+A vendor submits an invoice for 20 laptop computers at $1,200 each, but the approved purchase order price was $1,000 per unit. What is the correct immediate action?
+ Pay the invoice to avoid vendor penalties.
+ Pause payment and notify the vendor of the discrepancy between the purchase order and invoice.
+ Adjust the original purchase order to match the higher price.
+ Cancel the contract entirely and return all equipment.
+8.
+An administrative unit receives a purchase requisition missing an authorizing signature and account code. What should the analyst processing the form do?
+ Sign for the manager so the purchase is not delayed.
+ Reject the purchase outright and archive the file permanently.
+ Contact the requestor to obtain the missing authorization and account code before processing.
+ Process the request using a generic account code and skip approval.
+9.
+A vendor is contracted to deliver 100 research reports across a 10-month contract. By Month 5, the vendor has submitted only 20 reports. What does this indicate to the tracking analyst?
+ The contract is progressing exactly on schedule.
+ The vendor is operating ahead of schedule.
+ The vendor is behind schedule, requiring progress monitoring and follow-up.
+ The contract should automatically receive additional funding.
+10.
+A contractor delivering IT support services submits a monthly progress report showing all tasks completed, but end-users report frequent system outages and unresolved tickets. How should you address this issue?
+ Approve the monthly invoice since the vendor's written report states all tasks were completed.
+ Terminate the contract immediately without giving notice.
+ Increase the contract value to incentivize better performance.
+ Compare objective service desk performance metrics against contractual quality standards before approving payment.
+11.
+A division needs to evaluate whether to renew an equipment lease contract or purchase replacement equipment outright. Which financial analysis method provides the most accurate basis for this decision?
+ Comparing the initial down payment of the lease to the list price of the equipment.
+ Performing a total cost of ownership (TCO) analysis, including maintenance, depreciation, and operating costs over time.
+ Selecting whichever option has the shortest contract document.
+ Choosing the purchase option based solely on current month cash balances.
+12.
+An analyst is evaluating two competing vendor proposals for a multi-year service project. Vendor A offers a lower initial price but vague deliverable milestones. Vendor B offers a slightly higher price with detailed milestone schedules and clear performance metrics. How should the analyst evaluate this trade-off?
+ Recommend Vendor A solely based on the lowest initial cost.
+ Recommend Vendor B solely because higher prices always guarantee better quality.
+ Conduct a risk-benefit analysis evaluating long-term performance reliability against total project cost.
+ Reject both proposals and cancel the project requirements.
+13.
+An organization experiences frequent discrepancies during annual physical property audits across three regional offices. What long-term structural solution should the program analyst recommend?
+ Conduct physical audits every five years instead of annually.
+ Standardize property tracking protocols and institute periodic interim self-audits at each regional office.
+ Stop tracking non-fixed physical assets altogether.
+ Replace regional staff with temporary contract workers during audit periods.
+14.
+A multi-year vendor contract specifies key deliverable deadlines. Due to supply chain disruptions, the vendor requests a 60-day extension on a major deliverable without an increase in cost. How should the analyst evaluate and handle this request?
+ Deny the extension immediately and assess financial penalties regardless of impact.
+ Grant an indefinite extension without establishing new milestone dates.
+ Assess the operational impact of the delay on project milestones and draft a formal contract amendment if acceptable.
+ Cancel the contract and re-solicit bids from new vendors immediately.
+15.
+An analyst is tracking a project budget of $50,000. In Quarter 1, $12,500 was spent, and in Quarter 2, $18,000 was spent. What percentage of the total budget remains for the rest of the year?
+ 39%
+ 41%
+ 59%
+ 61%
+16.
+A manager asks for a quick summary of monthly departmental supply expenses. You have a raw spreadsheet with 500 individual transaction rows. How should you structure this data?
+ Print all 500 rows and hand them directly to the manager.
+ Group expenses into major categories and present total spend per category in a concise summary table.
+ Delete all transactions under $50 to make the document shorter.
+ Forward the spreadsheet as an unformatted text email.
+17.
+You are tasked with reconciling monthly credit card expenditures. What documentation must be matched against the monthly statement balance?
+ General news articles about the vendor.
+ Itemized receipts and approved purchase requests for each transaction.
+ Next year's budget projections.
+ Employee performance reviews.
+18.
+A department's travel budget for the year is $24,000. If travel expenses average $2,500 per month, in which month will the budget be exceeded?
+ Month 8
+ Month 9
+ Month 10
+ Month 12
+19.
+During mid-year financial analysis, a program's expenditure rate indicates that personnel costs are 15% higher than budgeted due to unprojected overtime, while equipment purchases are 20% under budget. What is the most appropriate analytical recommendation?
+ Immediately freeze all program operations until the next fiscal year.
+ Evaluate options to reallocate surplus equipment funds to offset personnel costs while verifying project impact.
+ Request a doubling of the total annual budget from leadership.
+ Take no action, as underspending in one category automatically cancels out overspending in another.
+20.
+A major project is experiencing a 30% cost growth due to frequent changes in project requirements. What operational control mechanism should be recommended to stabilize costs?
+ Implement a formal change control process requiring impact assessments before scope modifications are approved.
+ Prohibit all future project modifications regardless of operational necessity.
+ Increase the project contingency budget by 30% each quarter automatically.
+ Require daily financial reporting from all project personnel.
+.
+Select “Yes” or “No” to the following question(s).
+21.
+I certify that I did not use a consultant or artificial intelligence tool (such as a large language model) to complete the responses above. To the best of my knowledge, all information provided in my application is true and accurate. I affirm that I have truthfully and accurately represented my work experience, knowledge, skills, abilities, and education. I understand that providing false or misleading information may result in disqualification from consideration or termination of employment if hired. I further certify that I have read the entire vacancy announcement, reviewed my responses to the eligibility questions for accuracy, and understand the requirements regarding supporting documentation, including what must be submitted and applicable deadlines.
+ Yes
+ No
