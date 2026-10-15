@@ -1,0 +1,109 @@
+Position Title
+IT Specialist (System Developer/Data Integration)
+Agency
+Air Force Services Agency
+Announcement Number
+26-9PVTEI277850
+Open Period
+Oct 15, 2026 to Nov 05, 2026
+Eligibilities
+1.
+Are you a Department of Defense (DoD) Air Force Nonappropriated Fund (NAF) employee separated by a business-based action within the last year? If claiming yes , a copy of the AF Form 2545 or notice of separation due to business based action must be uploaded with your application to receive priority consideration.
+ Yes
+ No
+2.
+Are you a Veteran? If claiming yes, a copy of the DD 214 (member 4 or service 2 copy) or equivalent must be uploaded with your application to receive priority consideration.
+ Yes
+ No
+3.
+Are you the spouse, widow/widower or parent of a veteran who was disabled or killed in action? If claiming yes, you will need to provide proof to validate this claim prior to a tentative job offer.
+ Yes
+ No
+4.
+Have you been involuntarily separated from the Armed Services with an honorable or general under honorable conditions discharge within the last year? If claiming yes, a copy of your transition assistance identification card must be uploaded with your application to receive preference.
+ Yes
+ No
+Condition of Employment
+.
+This position has requirements which must be met prior to employment, and conditions for continued employment. Your answers to the questions in this section will indicate your understanding of, or possession of, these requirements and conditions.
+1.
+This position requires the incumbent be able to obtain and maintain a determination of eligibility for a Secret security clearance or access for the duration of employment. A background investigation and credit check are required. Are you willing to undergo pre-employment and recurring investigations to obtain and maintain a Secret clearance as required?
+ Yes
+ No
+2.
+Hiring (appointments or transfers) of retiring (terminal leave) or retired members of the Armed Forces to positions in any DoD Component during the 180 days immediately following retirement may only be made in accordance with DoDI 1402.01 and may require a waiver for appointment prior to the 180 days from official military retirement. Are you a current or prior active duty military member that is retiring or has been retired from active duty less than 180 days? Please respond Yes or No below.
+ Yes
+ No
+3.
+To be considered for this position, the applicant must be a U.S. Citizen or a Legal U.S. Resident for a minimum of 3 years and must reside in/around the area as noted in the Job Opportunity Announcement. Do you meet this requirement?
+ Yes
+ No
+4.
+This position includes information assurance (lA) work as a paramount duty requirement. Are you willing to achieve this appropriate qualification requirement?
+ Yes
+ No
+5.
+Per DoDM 8140.03, the incumbent must achieve and maintain the appropriate foundational and resident qualification requirements within 9 months of appointment. Failure to receive the proper DoDM 8140.03 qualification may result in removal from this position. Are you willing to meet the foundational and residential qualifications for this position?
+ Yes
+ No
+6.
+This position requires the incumbent to obtain a Security + Certification within six months of hire. Are you willing to obtain a Security + Certification within six months of hire?
+ Yes
+ No
+7.
+This position may require the incumbent to work other than normal duty hours, which may include evenings, weekends, and/or holidays. Are you willing and able to meet work requirements?
+ Yes
+ No
+8.
+This position may require occasional travel for training, meetings, or other work-related duties. Travel may be required by either commercial or military aircraft in the performance of temporary duty or training assignment to CONUS/OCONUS locations. Are you willing to travel?
+ Yes
+ No
+9.
+This position requires the incumbent to possess, or obtain and maintain, a valid regular or official U.S. Passport. Are you willing and able to obtain and maintain the required passport for this position?
+ Yes.
+ No.
+10.
+This position may require the incumbent to recall to duty. Are you willing and able to meet requirement?
+ Yes
+ No
+11.
+This position may require overtime and/or emergency overtime. Are you willing and able to meet this requirement?
+ Yes
+ No
+12.
+By agreeing to the statement below you are confirming that you: Have reviewed your responses to this questionnaire for accuracy Verified your responses accurately describe your current level of experience and capability Failure to agree or respond to the this will disqualify you from further consideration for this position.
+ Yes
+ No
+10033 IT Specialist (System Developer/Data Integration) NF-2210-04
+.
+Thank you for your interest in employment with the Department of the Air Force Non-Appropriated Funds (NAF). This section will be used to determine, if you possess the experience needed to qualify for an IT Specialist (System Developer/Data Integration), NF-2210-04. Your resume must reflect your responses. Failure to respond to the question(s) will result in an ineligible rating.
+.
+Select “Yes” or “No” to the following question(s).
+1.
+Do you have extensive development experience with Oracle e-Business Suite (EBS) including the development platforms Oracle Application Framework and/or Application Express (APEX)?
+ Yes
+ No
+2.
+Do you have broad working experience with the data integration effort?
+ Yes
+ No
+3.
+Do you have experience with the operation and functioning of relational databases, data integration and warehousing techniques using third party integration tools?
+ Yes
+ No
+4.
+Do you possess the skill and ability to build interfaces and APIs for data transactions?
+ Yes
+ No
+5.
+Do you possess the ability to demonstrate or brief new development with stakeholders?
+ Yes
+ No
+6.
+Do you possess the skill and ability to work with users for information gathering and testing?
+ Yes
+ No
+7.
+Certification Statement: By agreeing to the statement below, you are confirming that you: Understand this warning; have reviewed your responses to this questionnaire for accuracy; and verified your responses accurately describe your current level of experience and capability. Failure to agree or respond to the statement below will disqualify you from further consideration for the position. Select the most appropriate response below.
+ Yes, I certify all my responses to this questionnaire are true and accurate. I accept that if my resume and/or supporting documents do not support my responses to the questionnaire my application may be rated lower and/or I may be removed from further consideration.
+ No, I do not wish to certify the accuracy of my responses; and do not wish to be considered further for this position.

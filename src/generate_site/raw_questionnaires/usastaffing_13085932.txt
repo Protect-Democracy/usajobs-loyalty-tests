@@ -1,0 +1,136 @@
+Position Title
+ACTUARY
+Agency
+Pension Benefit Guaranty Corporation
+Announcement Number
+OO-ASTD-ASPVFBD-27-13085932
+Open Period
+Oct 14, 2026 to Oct 21, 2026
+Eligibilities
+1.
+Are you requesting consideration as a current PBGC employee? In order to be eligible, you must: • Be a current PBGC employee serving under (or who has previously served under) a career, career-conditional, or permanent appointment. • Provide an SF-50 showing qualifying PBGC employment and tenure/appointment type. • Meet all applicable time-in-grade , qualification , and promotion potential requirements. • Understand that applicants who are not current PBGC employees are not eligible for PBGC-only announcements.
+ Yes
+ No
+Four Essay Questions
+.
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+3.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+AI Question
+1.
+Please describe your experience using super intelligence (SI) tools or technology in a professional or personal setting. Include examples of how you used SI to improve efficiency, decision-making, communication, research, analysis, or work products. Note: Your response will not be rated or used to determine your qualifications. It will be provided only to the hiring manager for consideration.
+Core Questions
+1.
+If you answered "other" to the previous question, please provide the resource here.
+2.
+Are you currently a contractor at PBGC?
+ Yes
+ No
+PBGC Employee
+1.
+Are you a current PBGC employee? (Note: you will be required to provide an SF-50 as proof.)
+ Yes
+ No
+Vacancy Questions
+.
+Specialized Experience: Applicants must have at least one year of specialized experience at the GS-13 grade level in the federal service or equivalent to the GS-13 grade level in the private sector performing complex actuarial valuations for defined benefit pension plans or pension insurance programs, including determining present value of future benefits liabilities; analyzing and reconciling valuation results for financial reporting; and supporting actuarial audit documentation or valuation system testing. Examples include: developing actuarial valuation procedures; evaluating incomplete plan data; preparing quarterly or year-end liability reports; responding to actuarial audit inquiries; or validating actuarial valuation software changes.
+.
+Select “Yes” or “No” to the following question(s).
+1.
+Do you have at least one year of specialized experience at the GS-13 grade level in the Federal service or equivalent to the GS-13 grade level in the private sector as described above?
+ Yes
+ No
+2.
+Do you possess a bachelor's degree that included courses in actuarial science, mathematics, relevant statistics, business, finance, economics, insurance, or computer science totaling at least 24 semester hours. This course work must have included a minimum of 12 semester hours of mathematics that included differential and integral calculus and one or more courses in mathematics for which these calculus courses were prerequisites.
+ Yes
+ No
+.
+The following questions relate to your skill in actuarial principles, advanced theories, and valuation methods. For each statement below, select the option that best reflects your experience.
+.
+Select “Yes” or “No” to the following question(s).
+3.
+I have experience independently establishing or substantially revising actuarial valuation methods and procedures for complex defined benefit pension liabilities or pension insurance reserves.
+ Yes
+ No
+4.
+I have experience performing defined benefit pension valuations or preparing reserve calculations and supporting exhibits using established actuarial methods.
+ Yes
+ No
+5.
+I have experience evaluating alternative plan data sources and developing approaches to address incomplete or inconsistent data in complex pension valuations.
+ Yes
+ No
+6.
+I have experience calculating or reviewing present value of future benefits reserves and developing actuarial exhibits for financial statements or annual actuarial reports.
+ Yes
+ No
+.
+The following questions relate to your skill in applying actuarial valuation and analytical methods. For each statement below, select the option that best reflects your experience.
+.
+Select “Yes” or “No” to the following question(s).
+7.
+I have experience independently determining or reviewing liabilities for probable or contingent pension plan losses, including plans with incomplete data, and preparing final quarterly or year-end valuation figures.
+ Yes
+ No
+8.
+I have experience monitoring pension plan data, calculating liabilities, or preparing and explaining valuation results and supporting schedules under established reporting procedures.
+ Yes
+ No
+9.
+I have experience analyzing changes in pension liabilities and reconciling valuation results with prior reporting periods to identify and resolve significant discrepancies.
+ Yes
+ No
+10.
+I have experience preparing written valuation summaries or reconciliations and orally presenting results, assumptions, and explanations of liability changes to management, other departments, or auditors.
+ Yes
+ No
+.
+The following questions relate to your knowledge of methods and techniques for making and documenting actuarial calculations for audited financial statements. For each statement below, select the option that best reflects your experience.
+.
+Select “Yes” or “No” to the following question(s).
+11.
+I have experience independently developing or reviewing actuarial workpapers that substantiate material pension liabilities, valuation assumptions, methods, and reported financial statement amounts.
+ Yes
+ No
+12.
+I have experience preparing actuarial calculations, workpapers, or supporting documentation for an audit or assisting with responses to auditor requests.
+ Yes
+ No
+13.
+I have experience responding to complex auditor inquiries and providing written documentation and oral explanations that support actuarial calculations and related controls.
+ Yes
+ No
+14.
+I have experience investigating and resolving audit questions or discrepancies involving actuarial valuation results, supporting data, or control documentation in coordination with finance, technology, or actuarial staff.
+ Yes
+ No
+.
+The following questions relate to your skill in applying computer techniques, databases, and actuarial software. For each statement below, select the option that best reflects your experience.
+.
+Select “Yes” or “No” to the following question(s).
+15.
+I have experience designing and performing sophisticated tests of actuarial valuation software releases to verify calculation accuracy, efficiency, and consistency with actuarial principles and audit requirements.
+ Yes
+ No
+16.
+I have experience using actuarial valuation software or databases and assisting with system testing, data validation, or maintenance of supporting files and documentation.
+ Yes
+ No
+17.
+I have experience reviewing or approving technical specifications and test results for changes to actuarial valuation systems and confirming that implemented changes meet business and actuarial requirements.
+ Yes
+ No
+18.
+I have experience monitoring actuarial system files and maintaining technical documentation of coding, architecture, or database structures, while coordinating system changes or maintenance with technology staff or contractors.
+ Yes
+ No

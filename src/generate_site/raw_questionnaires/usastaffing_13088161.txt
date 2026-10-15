@@ -1,0 +1,181 @@
+Position Title
+Research Biologist
+Agency
+National Oceanic and Atmospheric Administration
+Announcement Number
+NMFS-27-13088161-DHA
+Open Period
+Oct 15, 2026 to Oct 21, 2026
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+2.
+Are you a current Department of Commerce employee who meets the definition of surplus or displaced definition of surplus or displaced from a position in the competitive service that makes you eligible under the Career Transition Assistance Plan (CTAP)? Note: You are required to submit supporting documentation as proof of eligibility. If yes, please confirm that you meet all the following eligibility requirements: This position is in the same local commuting area as the position of record from which you will be separated; and This position is at a grade level no higher than the grade of the position of record from which you will be separated; and This position has no greater promotion potential than the position of record from which you will be separated; and You have a current performance rating of record of at least fully successful or the equivalent; and You have not yet been separated.
+ Yes
+ No
+3.
+Are you a current or former employee of a Federal agency who meets the definition of surplus or displaced from a position in the competitive service from a Federal agency outside of the Department of Commerce that makes you eligible under the Interagency Career Transition Assistance Plan (ICTAP)? Note: You are required to submit supporting documentation as proof of eligibility. If yes , please confirm that you meet all the following eligibility requirements: This position is in the same local commuting area as the position of record from which you were separated; and This position is at a grade level no higher than the grade of the position of record from which you were separated; and This position has no greater promotion potential than the position of record from which you were separated; and Your last performance rating of record was at least fully successful or the equivalent; and You were separated from your position of record less than one (1) year ago.
+ Yes
+ No
+Preferences
+1.
+Select the lowest grade you are willing to accept for this position.
+ 3
+ 4
+2.
+I authorize my application information being shared with hiring managers for similar positions. I understand this option may not result in further consideration for additional positions nor will it impact my application for this announcement.
+ Yes
+ No
+Merit Hiring Plan
+.
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+3.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+Min Quals
+1.
+I meet the Individual Occupational Requirements for the General Natural Resources Management and Biological Sciences Series, 0401 because I have:
+ A degree: biological sciences, agriculture, natural resource management, chemistry, or related disciplines appropriate to the position.
+ A combination of education and experience--Courses equivalent to a major, as shown in A above, plus appropriate experience or additional education.
+ I do not meet the Individual Occupational Requirement for the General Natural Resources Management and Biological Sciences Series, 0401.
+2.
+ZP-3: In addition to meeting the Individual Occupational Requirements, select the statement that best describes the education and/or experience that demonstrates your ability to perform the work of a Research Biologist, ZP- 0401-3 pay band or equivalent grade level (GS-11) in the Federal service in the Federal service.
+ I have at least one full year (52 weeks) of specialized experience equivalent to the next lower pay band (ZP-2) or GS-09 grade level in the Federal service which includes all of the following: Participating in activities on larva development, life history stages or cultivation practices affecting all aspects of shellfish growth and health; and Assisting with the publication of experimental results into technical reports, and scientific manuscripts.
+ I have a Master’s or equivalent graduate degree. (Note: You must attach a copy of your transcripts.)
+ I have a combination of successfully completed graduate-level education and specialized experience as described above. Note: Only graduate-level in excess of the amount required for the next lower grade level may be combined with experience. (Note: You must attach a copy of your transcripts.)
+ I do not possess the experience and/or education described above.
+3.
+ZP-4: In addition to meeting the Individual Occupational Requirements, select the statement that best describes your experience performing the work of a Research Biologist, ZP-0401-4 pay band or equivalent grade level (GS-13) in the Federal service.
+ I have at least one full year (52 weeks) of specialized experience equivalent to the next lower pay band (ZP-3) or GS-12 grade level in the Federal service which includes all of the following: Planning research activities on larva development, life history stages or cultivation practices affecting all aspects of shellfish growth and health; and Authoring peer-review scientific publications, technical reports or guidance briefings to present at conferences and national forums.
+ I do not possess the experience described above.
+JKT
+1.
+In a molecular biology workflow supporting shellfish disease research, what is the primary operational risk associated with failing to maintain a strict one-way laboratory workflow from pre-Polymerase Chain Reaction (PCR) to post-PCR processing areas?
+ Equipment power failure due to circuit overloading across workstations.
+ Thermal degradation of target biological samples stored in deep freezers.
+ Carryover contamination of amplified DNA leading to false-positive results.
+ Inaccurate calibration of analytical balances during sample weighing.
+2.
+In bioinformatics processing of next-generation sequencing data, what is the primary objective of "Quality Trimming" raw sequence reads?
+ To convert raw DNA sequence strings into equivalent RNA sequences.
+ To reduce file storage size by removing low-abundance target genes.
+ To remove low-quality base calls and sequencing adapters to prevent downstream analytical errors.
+ To automatically align reads against a reference genome without needing specialized software.
+3.
+During low-tide exposure or severe estuarine hypoxia, intertidal bivalves transition from aerobic respiration to anaerobic metabolic pathways. Which physiological end-product profile is characteristic of alternative pathway utilization (such as the succinate-propionate pathway) in the adductor muscle of facultative anaerobic mollusks?
+ Rapid accumulation of lactic acid exclusively, mirroring vertebrate skeletal muscle pathways.
+ Accumulation of succinate, alanine, and volatile fatty acids (propionate and acetate) to maintain redox balance and generate ATP efficiently without oxygen.
+ Direct conversion of glycogen into uric acid crystals to prevent metabolic acidosis.
+ Total cessation of metabolic activity (zero ATP production) through crystalline style solidification.
+4.
+Competent pediveliger larvae of many commercial bivalve species utilize specific chemical cues (e.g., bacterial exopolysaccharides or microalgal surface metabolites) to initiate attachment and morphological transformation. Pharmacological and neurobiological studies indicate that settlement behavior is frequently modulated by which neurotransmitter receptor pathway located in the larval apical ganglion?
+ GABA-ergic inhibitory suppression of ciliary movement
+ Catecholaminergic and dopaminergic signaling pathways regulating pedal activity and foot-searching behavior
+ Acetylcholinesterase upregulation leading to hyper-relaxation of the adductor muscle
+ Histaminergic down-regulation of velar resorption
+5.
+When evaluating an uncultured, native bivalve species for potential introduction into a regional aquaculture portfolio, a research biologist must establish a systematic screening framework. Which integrated methodological approach provides the most robust scientific justification for determining both the biological feasibility and economic viability of the candidate species before scaling up hatchery production?
+ Immediate deployment of wild-harvested adults into high-density commercial arrays to evaluate market pricing dynamics through direct consumer test panels.
+ A tiered evaluation consisting of: (1) physiological performance modeling (Scope for Growth and thermal/salinity tolerance limits) under controlled conditions; (2) experimental scale-up of closed-loop hatchery conditioning and larval development protocols; and (3) genetic baseline screening via high-throughput sequencing to evaluate wild population structure and minimize bottleneck risks during future broodstock sourcing.
+ Exclusively analyzing historical commercial landing data of wild stocks within the target geography to extrapolate potential aquaculture yield curves and stocking densities.
+ Constructing high-density flow-through systems to maximize antibiotic and chemotherapeutant regimens, testing if the species can survive extreme artificial environment densities without consideration of ambient environmental baselines.
+6.
+A research biologist is tasked with predicting the carrying capacity and ecological impact of a proposed extensive bivalve longline lease within a semi-enclosed estuary. Which modeling strategy correctly integrates physiological processes with environmental dynamics to predict both individual shellfish growth rates and the spatial extent of localized phytoplankton depletion?
+ Coupling an individual Dynamic Energy Budget (DEB) or Scope for Growth (SFG) model with a 3D hydrodynamic transport model that incorporates advection-diffusion-reaction equations for seston and nutrients.
+ Utilizing a static, non-spatial linear regression model that correlates historic regional sea surface temperature directly with total annual harvest tons.
+ Implementing a closed-loop qualitative loop analysis model based entirely on steady-state microalgal batch culture growth kinetics under saturating light conditions.
+ A localized chemical equilibrium model focusing exclusively on calculating the absolute thermodynamic solubility index of aragonite within the sediment-water boundary layer.
+7.
+In bivalve immunology, marine heatwaves can alter host-pathogen dynamics, leading to catastrophic mortality events in commercial hatcheries and aquaculture farms. When a research biologist evaluates the cellular and biochemical mechanism by which elevated temperature exacerbates bacterial infections (e.g., Vibrio coralliilyticus ) in larval or juvenile bivalves, which response profile reflects the most accurate scientific understanding of shellfish immunophysiology?
+ Elevated temperatures suppress the production of vertebrate-like circulating IgG immunoglobulins, completely halting adaptive antibody-mediated immune memory cascades.
+ Thermal stress disrupts hemocyte cellular function, accelerating the suppression of reactive oxygen species (ROS) production, phagocytic clearance capacity, and antimicrobial peptide (AMP) expression while simultaneously enhancing bacterial virulence factors and proliferation rates.
+ High temperatures cause the crystalline style to over-produce calcium carbonate crystals, mechanically puncturing the cellular walls of circulating granulocytes and inducing systemic internal hemorrhaging.
+ Hyper-thermal conditions force a permanent down-regulation of all lysosomal enzyme activities, rendering the open circulatory system sterile but metabolically non-functional.
+8.
+In directing a major regional selective breeding initiative for Pacific oysters ( Crassostrea gigas ) facing dual threats of Summer Mortality Syndrome and Vibrio coralliilyticus outbreaks, a principal investigator integrates transcriptomics, metabolomics, and genomic selection matrix models. Which advanced multi-omic integration strategy provides the highest predictive accuracy for identifying resilient broodstock candidates before field deployment challenges?
+ Conducting a single-point RNA-seq assay on healthy adult gill tissues under baseline hatchery conditions and selecting candidates based purely on total ribosomal RNA abundance.
+ Correlating historical phenotypic survival percentages with total wet weight tissue biomass across ten separate non-monitored wild populations.
+ Utilizing a supervised machine learning framework (e.g., Random Forest or Deep Learning) to combine dense SNP-chip genomic data with time-series expression profiles of key immune-related genes (like C-type lectins) and liquid chromatography-mass spectrometry (LC-MS) plasma metabolomic profiles (e.g., proline/betaine ratios) generated during controlled, sublethal temperature and pathogen kinetic challenges.
+ Eliminating molecular sequencing entirely and utilizing basic external shell morphometrics (length-to-width ratios) as a proxy for systemic physiological immune function.
+9.
+What is the fundamental purpose of utilizing "Negative Control" during molecular diagnostic assays (e.g., qPCR or NGS) for bivalve pathogen detection?
+ To verify that all reagents are operating at maximum thermal efficiency.
+ To establish the highest possible target signal intensity for quantification.
+ To validate the exact chronological age of the biological tissue specimen.
+ To monitor for potential nucleic acid contamination introduced during sample preparation or handling.
+10.
+In intensive bivalve larviculture, managing the nutritional profile through mixed microalgal diets is critical for achieving metamorphic competence. Which specific biochemical metric is the primary indicator of nutritional adequacy and energy storage in Isochrysis galbana used for late-stage veliger feeding?
+ Total crude protein content relative to dry weight biomass.
+ Polyunsaturated fatty acid (PUFA) profile, specifically the ratio and concentration of eicosapentaenoic acid (EPA, 20:5n-3) and docosahexaenoic acid (DHA, 22:6n-3).
+ Total ash and mineral content as a proxy for shell calcification potential.
+ Chlorophyll-a to phaeophytin degradation ratio.
+11.
+A research biologist aims to selectively breed Eastern oysters for enhanced growth rates in a low-salinity estuary. If the narrow-sense heritability (h^2) for growth rate in this population is calculated to be 0.15, what does this indicate regarding the expected selection response?
+ Growth is governed entirely by a single dominant locus, enabling rapid fixation via mass selection.
+ The phenotypic variance is primarily driven by additive genetic variance, ensuring immediate progress in a single generation.
+ Environmental and non-additive genetic variances predominate, meaning phenotypic mass selection will yield slow progress, and family-based selection designs should be prioritized.
+ The population has reached complete genetic fixation, and no further growth gains are mathematically possible without mutagenesis.
+12.
+When managing a conservation hatchery supplementation program for a depleted Olympia oyster ( Ostrea lurida ) population, what genetic phenomenon-often occurs when a small number of broodstock contribute disproportionately to the spawned cohort-directly depresses the effective population size (N_e) and accelerates inbreeding depression in subsequent generations?
+ Hatchery sweepstakes reproductive success (variance in reproductive output among parents).
+ Outbreeding depression due to localized linkage disequilibrium across clines.
+ Polyploid stabilization via mitotic non-disjunction.
+ Selective sweep artifacts during larval algal feeding phases.
+13.
+In modern shellfish breeding programs, high-density Single Nucleotide Polymorphism (SNP) arrays are utilized to construct genetic linkage maps and execute Genomic Selection (GS). What is the primary operational advantage of implementing Genomic Estimated Breeding Values (GEBVs) over traditional phenotype-based selection when breeding for disease resistance (e.g., against Oyster Herpesvirus, OsHV-1)?
+ GS changes the ploidy level of the animal automatically, bypassing the need for chemical or physical shocks.
+ GEBVs allow the selection of superior breeding candidates at the larval or juvenile stage before they are exposed to the live pathogen, preventing disease transmission within selection lines.
+ SNP arrays eliminate environmental variance entirely, making the broad-sense heritability of all structural traits equal to 1.0.
+ Genetic markers alter the mutation rate of target loci, inducing targeted beneficial mutations in immunoglobulins.
+14.
+In marine bivalve ecophysiology, Scope for Growth (SFG) is a standard bioenergetic index used to assess the net energy available for somatic growth and reproduction after accounting for metabolic maintenance. Which specific physiological equation and response profile correctly describes a negative SFG in a bivalve population experiencing combined thermal stress and high seston turbidity?
+ SFG = Ingested Energy (I) - Fecal Energy (F); a negative value indicates that structural shell calcification has completely decoupled from soft-tissue somatic mass accumulation.
+ SFG = Absorbed Energy (A) - [Respiration Energy (R) + Excretory Energy (U)]; a negative value indicates that metabolic and excretory expenditures exceed energy gains, forcing the organism to catabolize stored endogenous biochemical reserves (glycogen and lipids) for survival. C. SFG = Cleared Energy.
+ x Assimilation Efficiency (AE); a negative value denotes that the ciliary activity of the gill filaments has reversed direction to expel toxic cellular metabolic byproducts.
+ SFG = Metabolic Rate (M) / Specific Dynamic Action (SDA); a negative value occurs when the organism shuts down its crystalline style and transitions completely to anaerobic metabolic pathways.
+15.
+When serving as a technical expert reviewing professional scientific manuscripts or providing recommendations on complex marine biological issues, what is the scientist's core responsibility to agency leadership and external stakeholders?
+ To provide independent, scientifically sound technical judgments and evidence-based recommendations.
+ To align research findings strictly with the financial interests of local commercial entities.
+ To restrict scientific findings to internal agency reports and prevent peer-reviewed publication.
+ To defer all technical judgments to non-scientific regulatory administrative staff.
+16.
+As a Principal Investigator leading a federally mandated spatial optimization framework for commercial shellfish aquaculture expansion across a macro-tidal estuary, you must establish an ecosystem carrying capacity threshold. The target system features multiple competing commercial bivalve lease zones (intensive longlines and bottom-culture arrays). Local stakeholders have raised concerns that further farm expansion will cross an ecological tipping point, causing far-field energy depletion for wild trophic webs and stunting commercial cohort production rates on down-current leases. Which strategic modeling approach provides the scientifically defensible quantitative framework required to set legally binding, sound-wide biomass production caps?
+ Implementing an isolated, farm-scale mass-balance equation that treats individual leases as closed thermodynamic loops, calculating localized clearance rates without feedback loops to the surrounding estuarine water column.
+ Deploying a fully coupled, spatially explicit ecosystem model that links high-resolution 3D hydrodynamics with a particle-tracking seston module and individual-based bioenergetic models (e.g., Dynamic Energy Budget), calibrated to calculate both the "production carrying capacity" (growth limits of the crop) and "ecological carrying capacity" (thresholds where seston depletion alters wild consumer populations).
+ Utilizing a historical time-series regression analysis that correlates regional commercial landings data directly with wild bird population counts, omitting hydrodynamic transport vectors and nutrient recycling dynamics.
+ Constructing a static, steady-state loop analysis model based on constant linear filtration rates and fixed annual microalgal cell division metrics, assuming zero spatial heterogeneity across the estuarine boundaries.
+17.
+When serving as the Principal Investigator (PI) on a complex, multi-year marine research initiative, what is the primary administrative and technical responsibility during the project launch phase?
+ Authoring federal legislation to update regional shellfish harvesting quotas.
+ Developing original research proposals, building multi-agency teams, and establishing project budgets.
+ Conducting routine physical overhauls on government research vessel engines.
+ Mandating that all academic partners utilize identical commercial computer hardware.
+18.
+A senior research biologist designs a multi-generational climate resilience project evaluating transgenerational plasticity in Eastern oysters ( Crassostrea virginica ). When examining structural tolerance mechanisms passed from parents exposed to severe oxidative and hypercapnic stress down to their unexposed F1 and F2 offspring, which molecular mechanism is the most definitive indicator of functional epigenetic inheritance rather than structural maternal energetic provisioning?
+ Elevated total triacylglycerol (TAG) and glycogen concentrations measured inside the oocyte yolk matrix of the F0 maternal generation.
+ Differential DNA methylation patterns at specific cytosine-phosphate-guanine (CpG) islands linked to metabolic and calcification genes, persisting into the F2 generation alongside altered chromatin accessibility profiles.
+ A transient, short-term upregulation of general heat-shock protein 70 (Hsp70) transcripts that returns to baseline within 48 hours of initial larval settlement.
+ Direct incorporation of structural parental carbonate ions into the crystalline lattice of the juvenile prodissoconch shell, verified via stable isotope tracing.
+.
+Select “Yes” or “No” to the following question(s).
+19.
+I certify that I did not use a consultant or artificial intelligence tool (such as a large language model) to complete the responses above. To the best of my knowledge, all information provided in my application is true and accurate. I affirm that I have truthfully and accurately represented my work experience, knowledge, skills, abilities, and education. I understand that providing false or misleading information may result in disqualification from consideration or termination of employment if hired. I further certify that I have read the entire vacancy announcement, reviewed my responses to the eligibility questions for accuracy, and understand the requirements regarding supporting documentation, including what must be submitted and applicable deadlines.
+ Yes
+ No

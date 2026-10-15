@@ -1,0 +1,110 @@
+Position Title
+SUPERVISORY IT SPECIALIST (CUSTOMER SUPPORT)
+Agency
+Army National Guard Units
+Announcement Number
+IMP-13086917-27-001-AR-T5
+Open Period
+Oct 14, 2026 to Oct 21, 2026
+Eligibilities
+1.
+National Guard- All On-Board In-State National Guard Title 5 Excepted Employees (NG T5 Perm Empl).
+ Yes
+ No
+2.
+US Citizens. Are you a US Citizen?
+ Yes
+ No
+Preferences
+.
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+3.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+6.
+Would you accept a temporary appointment?
+ Yes
+ No
+2210-12-T57023P1-DEARNG
+1.
+This position DOES NOT require membership in the Delaware National Guard but is only open to applicants in (Area 1). Please indicate your current status below.
+ I am presently employed as a permanent or indefinite Title 5 Excepted Service Employee within the Delaware National Guard. (Area 1)
+ I am presently employed as a Permanent OR Indefinite Title 32 Technicians of the Delaware National Guard, and I am eligible for Title 5 Excepted Service Employment. (Area 2)
+ I am a current Traditional military member (M-DAY & DSG), Temporary Title 32 Employee, OR AGR member and I am eligible for Title 5 Excepted Service. (Area 3)
+ I am a presently a State employee of the Delaware Guard eligible for Title 5 Excepted Service Employment (Area 4)
+ I am a U.S. Citizens eligible for Title 5 Excepted Service Employment in the Delaware National Guard (Area 5)
+ I am not a U.S. Citizen and do not fall in any of the categories listed above and I'm ineligible for Title 5 Excepted Service Employment in the Delaware National Guard.
+.
+Select “Yes” or “No” to the following question(s).
+2.
+Do you have or are you eligible to obtain a secret security clearance? (Applicant must possess or be able to obtain a clearance within one year of appointment.)
+ Yes
+ No
+3.
+SPECIALIZED EXPERIENCE: GS-12 Must have 1-year specialized experience equivalent to at least the next lower grade. In addition to the OPM IORs (Alternative A) specialized experience examples, specialized experience includes experience, education, or training that approaches techniques and requirements appropriate to an assigned computer applications area or computer specialty area in an organization. Experience planning the sequence of actions necessary to accomplish the assignment where this entailed coordination with others outside the organizational unit and development of project controls. Experience that required adaptations of guidelines or precedents to meet the needs of the assignment. Experience preparing documentation on cost/benefit studies where is involved summarizing the material and organizing it in a logical fashion. Experience that provided a basic knowledge of data processing functions and general management principles that enabled the applicant to understand the stages required to automate a work process. Experience may have been gained in work such as computer operator or assistant, computer sales representative, program analyst, or other positions that required the use or adaptation of computer programs and systems. Do you meet this requirement?
+ Yes
+ No
+4.
+SUPERVISORY EXPERIENCE: Experience in managing the function of the work to be performed. Experience which includes leading, directing and assigning work of personnel? Do you you meet the supervisory experience required for this position?
+ Yes
+ No
+.
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+5.
+Tasks require the ability to supervise subordinate staff, including establishing performance standards; evaluating performance; approving work plans, priorities, and schedules; resolving employee grievances and complaints; identifying training needs; and making recommendations or decisions regarding awards, recognition, and disciplinary actions. Indicate your level of experience.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+6.
+Tasks require knowledge of service desk operations and the IT tools, technologies, applications, operating systems, protocols, and equipment used to deliver customer support services. This includes applying information security and information assurance policies, principles, and practices in the delivery of IT services. Indicate your level of experience.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+7.
+Tasks require skill in managing customer service performance, including analyzing service metrics and trends; maintaining problem-tracking and resolution data; researching customer inquiries; diagnosing recurring issues; and recommending solutions to technology- or process-related concerns. Indicate your level of experience.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+8.
+Tasks require the ability to serve as a Contracting Officer's Representative (COR), including preparing or overseeing technical statements of work, monitoring contractor performance and deliverables, and providing IT resource acquisition and asset-management support. Indicate your level of experience.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+9.
+Tasks require skill in developing and communicating customer support policies, procedures, and standards; explaining technical information to technical and non-technical audiences; adapting communications to customer needs; delivering customer training; and maintaining professional, courteous service when resolving routine or difficult customer issues. Indicate your level of experience.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+.
+Select “Yes” or “No” to the following question(s).
+10.
+Did you provide the required documents listed below with your application? Current resume. APPLICATIONS DETERMINED TO BE INCOMPLETE, INCORRECT OR INSUFFICIENT UPON INITIAL REVIEW WILL NOT RECIEVE FURTHER CONSIDERATION.
+ Yes
+ No
+11.
+Qualifications Acknowledge Statement - Do you understand and certify that you will comply with the requirements listed below? Qualifications are based on your ability to demonstrate in your resume that you possess one year of the specialized experience for this announcement at a comparable scope and responsibility. To ensure all of the essential information is in your resume, we encourage you to use the USAJOBS online Resume Builder (https://www.usajobs.gov/Help/how-to/account/documents/resume/build/). If you choose to use your own resume, it must contain the following information organized by experience/position: (1) job title, (2) name of employer, (3) start and end dates of each period of employment (from MM/DD/YY to MM/DD/YY), (4) detailed description of duties performed, accomplishments, and related skills, and (5) hours worked per week (full-time employment and part-time employment will be prorated in crediting experience). Federal experience/ positions must also include the occupational series, grade level, and dates in which you held each grade level. Determining length of General or Specialized Experience is dependent on the above information. Failure to provide the above information in your resume may result in your application being found "not qualified. Do not copy and paste the duties, specialized experience, or occupational assessment questionnaire from this announcement into your resume as that will not be considered a demonstration of your qualifications for this position. Your resume serves as the basis for experience related qualification determinations, and you must highlight your most relevant and significant work experience and education (if applicable), as it relates to this job opportunity. Please use your own words, be clear, and specific when describing your work history. We cannot make assumptions regarding your experience. Do you understand the above statement?
+ Yes
+ No
+12.
+Please take this opportunity to review your ratings to ensure their accuracy. By agreeing to the statement below, you are confirming that you: (1) understand this warning, (2) have reviewed your responses to this questionnaire for accuracy, and (3) verify that your responses accurately describe your current level of experience and capability.
+ Yes, I verify that all of my responses to this questionnaire are true and accurate. I accept that if my supporting documentation and/or later steps in the selection process do not support one or more of my responses to the questionnaire that I will be removed from consideration.
+ No, I do not accept this agreement and/or I no longer wish to be considered for this position.
