@@ -1,0 +1,119 @@
+Position Title
+Interdisciplinary - CES Recent Graduate
+Agency
+Defense Information Systems Agency
+Announcement Number
+CESRG-DISA-13086724-26AB
+Open Period
+Oct 16, 2026 to Oct 23, 2026
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+Preferences
+1.
+Select the location(s) you want to be considered for. You must choose at least one location.
+ Huachuca City, AZ
+ Fort Meade, MD
+2.
+Select the lowest grade you are willing to accept for this position.
+ 7
+ 9
+3.
+Select the series you want to be considered for. You must choose at least one series.
+ 0854 - Computer Engineering
+ 0855 - Electronics Engineering
+ 1550 - Computer Science
+4.
+Have you previously retired from the Federal government and receive an annuity from the Office of Personnel Management? (NOTE: If you answered yes to this question, attach a copy of your retirement Standard Form 50 to your application.)?
+ Yes
+ No
+5.
+Are you a Current or Former Political Appointee within the last 5 years? (NOTE: Agencies must request OPM approval to appoint the following current or former (within five-years) Executive Branch political appointees to permanent competitive service, non-political excepted service, or career SES positions: https://www.opm.gov/FAQs/QA.aspx?fid=023f2059-dff7-4307-89b4-c553c218af1d&pid=08248d29-d26e-44b6-9988-57655358d509 )
+ Yes
+ No
+6.
+Do you have any relatives working for the Agency for which you are applying?
+ Yes
+ No
+7.
+If you answered yes to the previous question, please provide the name, relationship, organization employed within, and location if known.
+8.
+If you were recommended to apply for this position by a current DISA employee, please indicate the name of that employee.
+9.
+Are you a current employee of the Agency for which you are applying?
+ Yes
+ No
+10.
+Have you previously worked for the Federal government and received a Voluntary Separation Incentive Payment (VSIP) within the last 5 years?
+ Yes
+ No
+Short Essay Questions
+.
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+3.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+Interdisciplinary GG - 845/855/1550 - 7/9
+.
+Please accurately identify your level of training or experience when completing this questionnaire. Your responses will be evaluated and verified based on your submitted resume. Ensure that your resume accurately describes the level of education and/or experience claimed in the assessment questionnaire. Later steps in the selection process are specifically designed to verify your stated level of experience and demonstrated capability. By continuing in the application process, I acknowledge that my self-assessment questionnaire score may be reduced, and I may lose consideration for this position if the work experience described in my resume does not support my responses to the assessment questionnaire.
+1.
+Recent Graduate Eligibility - Have you completed, within the previous two years, a qualifying associates, bachelors, masters, professional, doctorate, vocational or technical degree or certificate from a qualifying educational institution; or, are you a veteran who has been unable to apply within two years of receiving your degree due to military service obligations? Select only one letter for each item.
+ I have received my degree or certificate of completion within the past two years from an accredited technical or vocational school, 2-year or 4-year college or university, a graduate or professional school, or a post-secondary home school curriculum.
+ I am a veteran (as defined in 5 U.S.C. 2108) who completed the requirements for an associates, bachelors, masters, professional, doctorate, vocational or technical degree or certificate after December 27, 2010 and due to military service obligation, was precluded from applying to a Recent Graduates Program during my 2 year eligibility period AND it is less than 6 years from the date on which I completed the academic requirements of my degree or certificate.
+ I do not meet either of the requirements above.
+.
+Select “Yes” or “No” to the following question(s).
+2.
+This position requires a minimum cumulative (GPA) Grade Point Average OF 2.5 or higher on a 4.0 scale. (You must submit transcripts or proof of education to verify your claim) Do you have a minimum cumulative GPA of 2.5 or higher?
+ Yes
+ No
+3.
+This position requires the selectee to sign a Program Participant Agreement that states the internship period, work schedule, position information, developmental assignments and program requirements. Are you willing to sign the Agreement?
+ Yes
+ No
+4.
+Computer Scientist (GS-1550): Select the appropriate answer to each of the following questions based on your current level of education and/or experience that demonstrates your ability to perform the duties of a Computer Scientist. Make sure the response you select is supported by your resume and transcripts. NOTE: You must submit copies of your transcripts, failure to provide transcripts may render you ineligible for the position.
+ I have a Bachelor's or higher degree in Computer Science.
+ I have a Bachelor's or higher degree with 30 semester hours (or 45 quarter hours) in a combination of mathematics, statistics, and computer science. At least 15 of the 30 semester hours (or 23 of the 45 quarter hours) must have included any combination of statistics and mathematics that included differential and integral calculus.
+ I do not have a Bachelor's or higher degree in Computer Science or a Bachelor's or higher degree with a combination of 30 semester hours (or 45 quarter hours) in mathematics, statistics, and computer science as described above.
+5.
+Computer Engineer (GS-854) or Electronics Engineer (GS-855): Select the appropriate answer to each of the following questions based on your current level of education and/or experience that demonstrates your ability to perform the duties of a Computer Engineer or Electronics Engineer. Make sure the response you select is supported by your resume and transcripts. NOTE: You must submit copies of your transcripts, failure to provide transcripts may render you ineligible for the position.
+ I have a four-year Professional engineering degree. To be acceptable, the curriculum must: (1) be in a school of engineering with at least one curriculum accredited by the Accreditation Board for Engineering and Technology (ABET) as a professional engineering curriculum; or (2) include differential and integral calculus and courses (more advanced than first-year physics and chemistry) in five of the following seven areas of engineering science or physics: (a) statics, dynamics; (b) strength of materials (stress-strain relationships); (c) fluid mechanics, hydraulics; (d) thermodynamics; (e) electrical fields and circuits; (f) nature and properties of materials (relating particle and aggregate structure to properties); and (g) any other comparable area of fundamental engineering science or physics, such as optics, heat transfer, soil mechanics, or electronics.
+ Professional registration or licensure-I possess a current registration as an Engineer Intern (EI), Engineer in Training (EIT), or licensure as a professional engineer by any State, the District of Columbia, Guam, or Puerto Rico.
+ Written Test- Evidence of having successfully passed the Engineer-in-Training (EIT) examination, or the written test required for professional registration, which is administered by the Boards of Engineering Examiners in the various States, the District of Columbia, Guam, and Puerto Rico.
+ Specified academic courses--Successful completion of at least 60 semester hours of courses in the physical, mathematical, and engineering sciences and in engineering that included the courses specified in "A". The courses must be fully acceptable toward meeting the requirements of a professional engineering curriculum.
+ Related curriculum -- Successful completion of a curriculum leading to a bachelor's degree in an appropriate scientific field, e.g., engineering technology, physics, chemistry, architecture, computer science, mathematics, hydrology, or geology, may be accepted in lieu of a bachelor’s degree in engineering, provided the applicant has had at least 1 year of professional engineering experience acquired under professional engineering supervision and guidance.) With this criteria, applicants also need verification of employment from a supervisor stating you have performed professional engineering duties.)
+ I do not have a degree or a combination of education and experience as described above.
+6.
+For the GG-07, your resume must describe at least one year of experience that demonstrates the competencies necessary for immediate success in the position. Experience refers to any paid or unpaid experience, including volunteer work and Military service, that would be considered equivalent to work normally performed at the next lower grade level in the federal service. For this position, qualifying experience is defined as: Assisting professional engineers or computer scientists in applying foundational engineering, electronic, or computer science principles, theories, and standard practices to information systems, hardware/software, or network components participating in routine data collection, system testing, or technical documentation.
+ I have at least one year of applicable experience that demonstrates the competencies necessary for immediate success in this position at the GG-05 level that would be considered equivalent to work normally performed at the next lower grade level in the federal service. My resume clearly demonstrates experience "Assisting professional engineers or computer scientists in applying foundational engineering, electronic, or computer science principles, theories, and standard practices to information systems, hardware/software, or network components participating in routine data collection, system testing, or technical documentation."
+ I have successfully completed one full year of graduate level education. One full year of graduate education is the number of hours the school determines to equal one year. If this information is unavailable, 18 semester hours will be used as the standard. (You MUST submit transcripts or proof of education to verify your claim.)
+ I have successfully completed all of the requirements for a bachelor’s degree from an accredited college or university and claim eligibility for superior academic achievement based on one of the following: a grade point average of a 3.0 or higher on a 4.0 scale, class standing in the upper third of my graduating class or major subdivision, or membership in a national scholastic honor society. (You MUST submit transcripts or proof of education and any other applicable documentation to verify your claim.)
+ I do not meet any of the above requirements.
+7.
+For the GG-09, your resume must describe at least one year of experience that demonstrates the competencies necessary for immediate success in the position. Experience refers to any paid or unpaid experience, including volunteer work and Military service, that would be considered equivalent to work normally performed at the next lower grade level in the federal service. For this position, qualifying experience is defined as: ??????Utilizing professional engineering or computer science methodologies to resolve developmental problems in information systems and networks by: (a) evaluating system performance, reliability, and interface compatibility across complex network architectures; (b) assessing engineering alternatives and contractor-submitted technical deviations against capability objectives and fiscal/policy parameters; and (c) developing engineering documentation, road-maps, and transition strategies that support enterprise system modernization.
+ I have at least one year of applicable experience that demonstrates the competencies necessary for immediate success in this position at the GG- 07 level that would be considered equivalent to work normally performed at the next lower grade level in the federal service. My resume clearly demonstrates my qualifying experience "??????Utilizing professional engineering or computer science methodologies to resolve developmental problems in information systems and networks by: (a) evaluating system performance, reliability, and interface compatibility across complex network architectures; (b) assessing engineering alternatives and contractor-submitted technical deviations against capability objectives and fiscal/policy parameters; and (c) developing engineering documentation, road-maps, and transition strategies that support enterprise system modernization."
+ I have successfully completed a Master's or equivalent graduate degree or 2 full years of progressively higher level graduate education leading to such a degree or LL.B. or J.D. that may be substituted to meet the specialized experience requirement. To be creditable, education must have been obtained from an accredited college or university. (You MUST submit transcripts or proof of education to verify your claim.)
+ I do not meet any of the above requirements.
+.
+Select “Yes” or “No” to the following question(s).
+8.
+Do you certify, to the best of your knowledge and belief, all of the information submitted by you with your application for employment is true, complete, and made in good faith, and that you have truthfully and accurately represented your work experience, knowledge, skills, abilities, and education (degrees, accomplishments, etc.)? Do you understand that the information provided may be investigated? Do you understand that misrepresenting your experience or education, or providing false or fraudulent information in or with your application may be grounds for not hiring you or for firing you after you begin work? Do you also understand that false or fraudulent statements may be punishable by fine or imprisonment (18 U.S.C. 1001)?
+ Yes
+ No

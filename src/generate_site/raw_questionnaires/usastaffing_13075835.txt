@@ -1,0 +1,72 @@
+Position Title
+Investigative Analyst
+Agency
+Office of the Chief Financial Officer
+Announcement Number
+DE-13075835-27-MW
+Open Period
+Oct 16, 2026 to Oct 29, 2026
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+2.
+Are you a current federal employee displaced from the agency hiring for this position? If yes, confirm: • this vacancy is in the same local commuting area as your current or last permanent position of record; AND, • you are applying to a position that is at or below the grade level of the position from which you were or will be separated; AND, • you are applying to a position that does not have greater promotion potential than the position from which you were or will be separated; AND, • your last performance rating of record is at least fully successful or the equivalent. To verify your eligibility, you must submit supporting documentation such as a Reduction in Force (RIF) separation notice to include your latest performance rating (if the notice does not have this information included, you must submit a copy of your most recent performance appraisal) and a copy of your latest Notification of Personnel Action, Standard Form 50. For more information, review the USAJOBS Help Center
+ Yes
+ No
+3.
+Are you a current or former federal employee displaced from a position in a Federal agency other than the agency hiring for this position? If yes, confirm: • this vacancy is in the same local commuting area as your current or last permanent position of record; AND, • you are applying to a position that is at or below the grade level of the position from which you were or will be separated; AND, • you are applying to a position that does not have greater promotion potential than the position from which you were or will be separated; AND, • your last performance rating of record is at least fully successful or the equivalent. To verify your eligibility, you must submit supporting documentation such as a Reduction in Force (RIF) separation notice or a Proposed Removal/Separation notice to include your latest performance rating (if the notice does not have this information included, you must submit a copy of your most recent performance appraisal) and a copy of your latest Notification of Personnel Action, Standard Form 50. For more information, review the USAJOBS Help Center
+ Yes
+ No
+Preferences
+1.
+In the last five years, based on the closing date of this announcement, have you served or are you currently serving as an Executive Branch political, Schedule C, or Non-career SES appointee? You can find out if you have held one of these appointment types by looking at your Standard Form 50s in your Electronic Official Personnel Folder (eOPF), in Section 5 where the legal authorities are listed. A political appointee is an appointment made by the President without confirmation by the Senate (5 CFR 213.3102(c)) OR an assistant position to a top-level federal official if filled by a person designated by the President as a White House Fellow (5 CFR 213.3102(z)). A Schedule C appointee occupies a position excepted from the competitive service by the President, or by the Director of OPM, because of the confidential or policy-determining nature of the position duties (5 CFR 213.3301 and 5 CFR 213.3302). A Non-career SES appointee is approved by the White House and serves at the pleasure of the appointing official without time limitations (5 CFR 317 Subpart F).
+ Yes
+ No
+2.
+I am interested in having my application shared with other HUD hiring managers. I understand that electing this option will not impact my chances of selection from this vacancy announcement and does not guarantee that a similar vacancy announcement will be opened by another hiring manager for which I can be considered or selected. Please select one or more of the following HUD Program Offices that you authorize to receive your application information. If you do not wish for your application to be shared, please select "Please do not share my application information with other HUD hiring managers.
+ Center for Faith-Based and Neighborhood Partnerships
+ Congressional/Intergovernmental Relations
+ Ginnie Mae (GNMA)
+ Office of the Assistant Secretary for Administration
+ Office of the Chief Financial Officer (OCFO)
+ Office of the Chief Human Capital Officer (OCHCO)
+ Office of the Chief Information Officer (OCIO)
+ Office of the Chief Procurement Officer (OCPO
+ Office of Community Planning and Development (CPD)
+ Office of Departmental Equal Employment Opportunity (ODEEO)
+ Office of Fair Housing and Equal Opportunity (FHEO)
+ Office of Field Policy and Management (FPM)
+ Office of General Counsel (OGC)
+ Office of Housing
+ Office of Lead Hazard Control and Healthy Homes (OLHCHH)
+ Office of Policy Development and Research (PD&R)
+ Office of Public Affairs (OPA)
+ Office of the Secretary
+ Public and Indian Housing (PIH)
+ Please do not share my application information with other HUD hiring managers.
+.
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+3.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+4.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+5.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+6.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+7.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+HUD-CFO-INV-ANALYST-GS-1805-14
+1.
+Select one statement from the choices below to show how you meet the qualification requirement for this GS-14 level position.
+ I have at least one full year of specialized experience comparable in scope and responsibility to the GS-13 level in the Federal service (obtained in either the public or private sectors) that included 1)Conducting research leveraging open source data, proprietary data bases (such as LexisNexis) and organizational records to find evidence of wrong doing or inappropriate activity; AND 2) Analyzing facts and circumstances around allegations of misconduct to plan investigative steps and write reports on the investigation's outcome; AND 3) Reviewing financial systems to identify vulnerabilities and provide risk management solutions to minimize potential abuse or non-compliant behavior; AND 4) Providing recommendations informed through trend analysis to improve internal controls and oversight capabilities.
+ My experience is not demonstrated in the statement above.
