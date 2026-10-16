@@ -1,0 +1,62 @@
+Position Title
+TITLE 32 AIRCRAFT WORKER WG-8852-08
+Agency
+Army National Guard Units
+Announcement Number
+WV-13090760-AR-26-135
+Open Period
+Oct 15, 2026 to Oct 30, 2026
+Eligibilities
+1.
+All on-board federal employees/technicians within the state for which you are applying (Title 32 and Title 5, Permanent and Excepted Indefinite). Are you a current on-board federal employee or technician within the state for which this position is being advertised? To verify your eligibility, you must submit a copy of your most recent Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Tenure in Block 24 (1, 2,or 3).
+ Yes
+ No
+2.
+Current Army M-Day and current Air DSG members within the state for which you are applying. Are you a current Army M-Day or current Air DSG member within the state for which this position is being advertised?
+ Yes
+ No
+3.
+Are you a current Permanent full-time Dual Status National Guard Technician within the state for which this position is being advertised? To verify your eligibility, you must submit a copy of your Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Permanent full-time status with the state National Guard.
+ Yes
+ No
+WG-08 T32
+.
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+1.
+What is your level of experience performing repairs on military or similar aircraft, including removing, cleaning, reinstalling, adjusting, or replacing defective parts, accessories, and components such as fittings, gauges, actuators, accumulators, fuel or oil lines, pulleys, cables, and lights?
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+2.
+What is your level of experience assisting higher-graded mechanics with more complex aircraft maintenance tasks, such as removing and installing engines, rotor heads, transmissions, and making adjustments to controls, cable rigging, or related aircraft systems?
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+3.
+What is your level of experience performing or assisting with functional checks, preventive maintenance, daily or pre- and post-flight inspections, fuel contamination checks, oil sampling, leak inspections, aircraft servicing, and aircraft launch and recovery operations?
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+4.
+What is your level of experience performing additional operational or emergency support duties, such as firefighting, crash/rescue, snow removal, or other related support activities in an aviation or maintenance environment?
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+.
+Select “Yes” or “No” to the following question(s).
+5.
+Do you have experience or training that provided skill in removing and replacing aircraft parts, accessories, and components; making adjustments and settings to established specifications; and using hand tools and test equipment?
+ Yes
+ No
+6.
+Do you have experience or training using common hand tools to make mechanical repairs; removing and installing aircraft parts, components, and accessories with detailed guidance; and following detailed instructions to perform routine, recurring repairs and modifications to aircraft parts, subassemblies, and components, such as jacking and leveling aircraft, and installing or adjusting engines, landing gear assemblies, instrument panels, and flight control systems?
+ Yes
+ No
