@@ -1,23 +1,23 @@
 {
   "metadata": {
-    "total_jobs": 302850,
+    "total_jobs": 302856,
     "cutoff_date": "2025-06-01",
-    "generation_date": "2026-10-17T10:23:04.415972"
+    "generation_date": "2026-10-18T10:13:48.918568"
   },
   "by_service_type": {
-    "Competitive": 193173,
+    "Competitive": 193179,
     "Excepted": 107986,
     "Senior Executive": 1691
   },
   "by_grade_level": {
-    "GS-12": 25323,
+    "GS-12": 25325,
     "GS-13": 23174,
-    "GS-11": 16480,
+    "GS-11": 16481,
     "VN-00": 15690,
     "GS-9": 13135,
     "GS-14": 13058,
-    "GS-7": 11419,
-    "GS-6": 10084,
+    "GS-7": 11420,
+    "GS-6": 10085,
     "GS-9/11": 7423,
     "VM-15": 7046,
     "GS-15": 6775,
@@ -54,12 +54,12 @@
     "Philadelphia, Pennsylvania": 1340
   },
   "by_agency": {
-    "Department of Veterans Affairs": 98678,
+    "Department of Veterans Affairs": 98682,
     "Department of the Air Force": 34569,
     "Department of the Navy": 33282,
-    "Department of the Army": 30763,
+    "Department of the Army": 30764,
     "Department of Defense": 29544,
-    "Department of Justice": 15617,
+    "Department of Justice": 15618,
     "Department of Homeland Security": 14826,
     "Other Agencies and Independent Organizations": 8341,
     "Department of the Interior": 7689,
@@ -80,7 +80,7 @@
     "0301 - Miscellaneous Administration And Program": 12120,
     "0602 - Medical Officer": 8275,
     "2210 - Information Technology Management": 7986,
-    "0343 - Management And Program Analysis": 7859,
+    "0343 - Management And Program Analysis": 7860,
     "0185 - Social Work": 7363,
     "0303 - Miscellaneous Clerk And Assistant": 6483,
     "0679 - Medical Support Assistance": 6198,
@@ -93,8 +93,8 @@
     "0801 - General Engineering": 4021,
     "0180 - Psychology": 3761,
     "0905 - Attorney": 3490,
-    "0640 - Health Aid And Technician": 3485,
-    "0101 - Social Science": 3051,
+    "0640 - Health Aid And Technician": 3486,
+    "0101 - Social Science": 3052,
     "0501 - Financial Administration And Program": 3034
   }
 }
