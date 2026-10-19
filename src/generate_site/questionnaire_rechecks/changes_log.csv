@@ -3121,3 +3121,9 @@ date,questionnaire_url,change,had_loyalty_q,has_loyalty_q,had_new_wording,has_ne
 2026-10-17,https://apply.usastaffing.gov/ViewQuestionnaire/13092657,changed,False,False,True,True,False,False,questionnaire_rechecks/2026-10-17/usastaffing_13092657.txt
 2026-10-17,https://apply.usastaffing.gov/ViewQuestionnaire/13092839,changed,False,False,True,True,False,False,questionnaire_rechecks/2026-10-17/usastaffing_13092839.txt
 2026-10-17,https://jobs.faa.gov/Preview/100533,changed,True,True,False,False,False,False,questionnaire_rechecks/2026-10-16/faa_100533.txt
+2026-10-19,https://apply.usastaffing.gov/ViewQuestionnaire/13076736,changed,False,False,True,True,False,False,questionnaire_rechecks/2026-10-19/usastaffing_13076736.txt
+2026-10-19,https://apply.usastaffing.gov/ViewQuestionnaire/13077815,changed,False,False,True,True,False,False,questionnaire_rechecks/2026-10-19/usastaffing_13077815.txt
+2026-10-19,https://apply.usastaffing.gov/ViewQuestionnaire/13081544,changed,False,False,False,False,False,False,questionnaire_rechecks/2026-10-19/usastaffing_13081544.txt
+2026-10-19,https://apply.usastaffing.gov/ViewQuestionnaire/13082583,first_seen,,False,,False,,False,questionnaire_rechecks/2026-10-19/usastaffing_13082583.txt
+2026-10-19,https://apply.usastaffing.gov/ViewQuestionnaire/13092842,changed,False,False,False,False,False,False,questionnaire_rechecks/2026-10-19/usastaffing_13092842.txt
+2026-10-19,https://apply.usastaffing.gov/ViewQuestionnaire/13092931,changed,False,False,False,False,False,False,questionnaire_rechecks/2026-10-19/usastaffing_13092931.txt
