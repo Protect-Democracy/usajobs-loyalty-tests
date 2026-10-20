@@ -1,0 +1,98 @@
+Position Title
+Program Analyst (Acquisitions)
+Agency
+Administrative Office of the U.S. Courts
+Announcement Number
+26-CIO-13068054
+Open Period
+Oct 20, 2026 to Nov 03, 2026
+Eligibilities
+1.
+Are you a veteran who separated from active duty under honorable conditions and you: • have a rating by the Department of Veterans Affairs showing a compensable service-connected disability of 10% or more OR • retired from active military service with a service-connected disability rating of 10% or more (**TP or 5 point veterans please do not answer 'yes' to this question.**) If eligible, submit a copy of your latest Certificate of Release or Discharge from Active Duty, DD-214 (copy indicating character of service) or other proof of your service which includes character of service. Please also provide the disability letter from the Department of Veterans Affairs or Armed Service and the Application for 10-Point Veteran Preference, Standard Form 15. For more information, review USAJOBS Veterans resources .
+ Yes
+ No
+2.
+Are you a current employee of the AO or the Federal Judiciary?
+ Yes
+ No
+3.
+Are you a current or former Federal employee? All applicants outside of the AO must submit a copy of your latest Notification of Personnel Action (SF-50) to verify current or former Federal employment status.
+ Yes
+ No
+4.
+Are you a former employee of the AO or the Federal Judiciary?
+ Yes
+ No
+Program Analyst-0343-2E-MS
+.
+Thank you for your interest in an Program Analyst position with the Administrative Office of the U.S. Courts. Applicants must have demonstrated experience as listed below. This requirement is according to the AO Classification, Compensation, and Recruitment Systems which include interpretive guidance and reference to the OPM Operating Manual for Qualification Standards for General Schedule Positions. WHEN MANDATORY NARRATIVE RESPONSES ARE REQUIRED, PLEASE DO NOT DUPLICATE INFORMATION YOU HAVE ALREADY PROVIDED IN YOUR RESUME AS A RESPONSE TO THE QUESTION OR RESPOND WITH SEE RESUME. WE ARE SEEKING AN ELABORATION OF THOSE DUTIES AND SKILLS YOU HAVE MENTIONED WHICH ADDRESS THE QUESTION MORE FULLY. THIS IS YOUR OPPORTUNITY TO EXPAND ON YOUR EXPERIENCE AND/OR EDUCATION AS IT RELATES TO THE QUESTION. FAILURE TO DO THIS WILL RESULT IN YOUR BEING CONSIDERED AS INELIGIBLE.
+1.
+This vacancy announcement is open to candidates who live in the Washington, DC commuting area and/or current employees of the federal Judiciary (AO or U.S. Courts) nationwide. From the description below, select how you meet this requirement.
+ I currently live in the Washington, DC Metropolitan area.
+ I am a current employee of the federal judiciary (AO or U.S. Courts)
+ None of the above. I do not meet the area of consideration requirements.
+.
+Select “Yes” or “No” to the following question(s).
+2.
+Do you have at least one year (52 weeks) experience managing federal IT contracts?
+ Yes
+ No
+2a.
+If yes, please identify the time frame and employer(s) where we can locate this information. THIS IS A MANDATORY REQUIREMENT. Please limit your response to 250 words or less.
+3.
+Please describe your experience managing federal IT contracts. THIS IS A MANDATORY REQUIREMENT. Please limit your response to 2,000 words or less.
+.
+Select “Yes” or “No” to the following question(s).
+4.
+Do you have at least one year (52 weeks) experience formatting, executing, reviewing, evaluating, and justifying resource requirements for complex programs?
+ Yes
+ No
+4a.
+If yes, please identify the time frame and employer(s) where we can locate this information. THIS IS A MANDATORY REQUIREMENT. Please limit your response to 250 words or less.
+.
+Select “Yes” or “No” to the following question(s).
+5.
+Do you have at least one year (52 weeks) experience using technical skills in accounting or finance and analytical software?
+ Yes
+ No
+5a.
+If yes, please i dentify the time frame and employer(s) where we can locate this information. THIS IS A MANDATORY REQUIREMENT. Please limit your response to 250 words or less.
+6.
+Please best describe your experience managing software licensing activities? THIS IS MANDATORY REQUIREMENT. Please limit your response to 2,000 words or less.
+.
+For each item, select the one response that most accurately describes your current level of experience and capability using the scale below.
+7.
+Which level description best describes your experience developing statements of work, conducting market research, and evaluating performance criteria for IT hardware, software, and services acquisitions?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+8.
+Which level description best describes your experience serving as COR for IT, hardware, software, cloud, and security services contracts?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+.
+Select “Yes” or “No” to the following question(s).
+9.
+Do you have experience participating in post-award orientation conferences?
+ Yes
+ No
+.
+For each item, select the one response that most accurately describes your current level of experience and capability using the scale below.
+10.
+Which level description best describes your experience serving on technical evaluation panels.
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+.
+Select “Yes” or “No” to the following question(s).
+11.
+I understand that failure to provide a written statement ("See Resume" or other non-descriptive responses not sufficient) for each essay question could result in non-consideration for this position.
+ Yes
+ No
