@@ -1,0 +1,149 @@
+Position Title
+Information Technology Specialist (Operating Systems)
+Agency
+Administrative Office of the U.S. Courts
+Announcement Number
+27-CIO-13090989
+Open Period
+Oct 20, 2026 to Oct 26, 2026
+Eligibilities
+1.
+Are you a current employee of the Administrative Office of the U.S. Courts?
+ Yes
+ No
+Information Technology Spec.(Operating System)--2210-2D-CS
+.
+Thank you for your interest in a Supervisory Information Technology Specialist position with the federal government. Applicants must have demonstrated experience as listed below. This requirement is according to the AO Classification, Compensation, and Recruitment Systems which include interpretive guidance and reference to the OPM Operating Manual for Qualification Standards for General Schedule Positions. WHEN MANDATORY NARRATIVE RESPONSES ARE REQUIRED, PLEASE DO NOT DUPLICATE INFORMATION YOU HAVE ALREADY PROVIDED IN YOUR RESUME AS A RESPONSE TO THIS QUESTION. WE ARE SEEKING AN ELABORATION OF THOSE DUTIES AND SKILLS YOU HAVE MENTIONED WHICH ADDRESS THE QUESTION MORE FULLY. THIS IS YOUR OPPORTUNITY TO EXPAND ON YOUR EXPERIENCE AND/OR EDUCATION AS IT RELATES TO THE QUESTION. FAILURE TO DO THIS WILL RESULT IN YOUR BEING CONSIDERED AS INELIGIBLE.
+1.
+Applicants must have at least one full year (52 weeks) of specialized experience which is in or directly related to the line of work of this position. Specialized experience is demonstrated experience in ALL of the following: Installing, configuring, and maintaining enterprise Windows and Linux server operating systems. Tuning and troubleshooting systems performance. Applying security baselines in virtualized or cloud environments.
+ Yes, I have one year of specialized experience which is in or directly related to the line of work of this position
+ No, I do not possess the specialized experience described above.
+2.
+If A is selected above, a narrative statement must be submitted in the space provided below addressing your experience installing, configuring, and maintaining enterprise Windows and Linux server operating systems. THIS IS A MANDATORY REQUIREMENT. Please limit your response to 2,000 characters or less.
+2a.
+In the space provided below, please indicate the time frame and employer(s) where we can locate this information. THIS IS A MANDATORY REQUIREMENT. Please limit your response to 250 words or less.
+3.
+If A is selected above, a narrative statement must be submitted in the space provided below addressing your experience tuning and troubleshooting systems performance. THIS IS A MANDATORY REQUIREMENT. Please limit your response to 2,000 characters or less.
+3a.
+In the space provided below, please indicate the time frame and employer(s) where we can locate this information. THIS IS A MANDATORY REQUIREMENT. Please limit your response to 250 words or less.
+4.
+If A is selected above, a narrative statement must be submitted in the space provided below addressing your experience applying security baselines in virtualized or cloud environments. THIS IS A MANDATORY REQUIREMENT. Please limit your response to 2,000 characters or less.
+4a.
+In the space provided below, please indicate the time frame and employer(s) where we can locate this information. THIS IS A MANDATORY REQUIREMENT. Please limit your response to 250 words or less.
+.
+For each item, select the one response that most accurately describes your current level of experience and capability using the scale below.
+5.
+Which level description best describes your ability to perform work accurately, thoroughly, and consistently while identifying and preventing errors?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+6.
+Which level description best describes your experience assessing customer needs, providing technical assistance, resolving issues, and delivering quality services?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+7.
+Which level description best describes your ability to communicate technical information clearly and effectively, adapt presentations to different audiences, and respond appropriately to questions and feedback?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+8.
+Which level description best describes your ability to identify problems, evaluate information, analyze alternatives, and recommend effective solutions?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+9.
+Which level description best describes your experience advising management on technical issues related to the planning, design, development, procurement, implementation, operation, and maintenance of IT systems?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+10.
+Which level description best describes your knowledge and experience installing, configuring, administering, and maintaining enterprise Windows Server and Linux/UNIX operating systems in large-scale environments?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+11.
+Which level description best describes your experience integrating server hardware, storage, firmware, and software components to establish stable and supportable operating environments?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+12.
+Which level description best describes your experience monitoring system performance, analyzing metrics, identifying bottlenecks, and optimizing operating system and resource utilization?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+13.
+Which level description best describes your experience implementing secure configuration baselines, managing patches, remediating vulnerabilities, and maintaining compliance with IT security policies and NIST guidance?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+14.
+Which level description best describes your experience performing advanced, Tier 3 diagnostics and resolving complex operating system failures, boot and kernel issues, and hardware and software compatibility problems?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+15.
+Which level description best describes your ability to quickly learn and apply new platforms and technologies and adapt to changing operational requirements across multiple IT platforms?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+16.
+Which level description best describes your experience protecting sensitive or sealed court information, maintaining confidentiality, and complying with applicable codes of conduct and IT security policies?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+17.
+Which level description best describes your ability to work independently, take initiative, identify needed actions, and complete assignments with minimal supervision?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+18.
+Which level description best describes your ability to manage competing priorities, respond to changing requirements, and maintain work quality in a fast-paced environment?
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+19.
+From the list below, select the certification applicable to you.
+ Red Hat Certified Engineer (RHCE)
+ Microsoft Certified: Windows Server Hybrid Administrator Associate
+ VMware Certified Professional (VCP)
+ Amazon Web Services (AWS)
+ Microsoft Azure administrator certification
+ Other equivalent certification
+ None of the above
+20.
+If other relevant certification was selected, which certification do you posses?
+.
+Select “Yes” or “No” to the following question(s).
+21.
+I understand that failure to provide a written statement ("See Resume" or other non-descriptive response is not sufficient) for each essay question could result in non-consideration for this position.
+ Yes
+ No
