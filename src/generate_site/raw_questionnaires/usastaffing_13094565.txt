@@ -1,0 +1,118 @@
+Position Title
+Environmental Engineer
+Agency
+National Oceanic and Atmospheric Administration
+Announcement Number
+CAO SEC-27-13094565-DE
+Open Period
+Oct 21, 2026 to Oct 27, 2026
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+2.
+Are you a current Department of Commerce employee who meets the definition of surplus or displaced definition of surplus or displaced from a position in the competitive service that makes you eligible under the Career Transition Assistance Plan (CTAP)? Note: You are required to submit supporting documentation as proof of eligibility. If yes, please confirm that you meet all the following eligibility requirements: This position is in the same local commuting area as the position of record from which you will be separated; and This position is at a grade level no higher than the grade of the position of record from which you will be separated; and This position has no greater promotion potential than the position of record from which you will be separated; and You have a current performance rating of record of at least fully successful or the equivalent; and You have not yet been separated.
+ Yes
+ No
+3.
+Are you a current or former employee of a Federal agency who meets the definition of surplus or displaced from a position in the competitive service from a Federal agency outside of the Department of Commerce that makes you eligible under the Interagency Career Transition Assistance Plan (ICTAP)? Note: You are required to submit supporting documentation as proof of eligibility. If yes , please confirm that you meet all the following eligibility requirements: This position is in the same local commuting area as the position of record from which you were separated; and This position is at a grade level no higher than the grade of the position of record from which you were separated; and This position has no greater promotion potential than the position of record from which you were separated; and Your last performance rating of record was at least fully successful or the equivalent; and You were separated from your position of record less than one (1) year ago.
+ Yes
+ No
+Merit Hiring Plan
+.
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+3.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+IOR & SE
+1.
+I meet the Individual Occupational Requirement for the Professional Engineering Position Series, 0800 because I have:
+ Degree: Engineering. To be acceptable, the program must: (1) lead to a bachelor’s degree in a school of engineering with at least one program accredited by ABET; or (2) include differential and integral calculus and courses (more advanced than first-year physics and chemistry) in five of the following seven areas of engineering science or physics: (a) statics, dynamics; (b) strength of materials (stress-strain relationships); (c) fluid mechanics, hydraulics; (d) thermodynamics; (e) electrical fields and circuits; (f) nature and properties of materials (relating particle and aggregate structure to properties); and (g) any other comparable area of fundamental engineering science or physics, such as optics, heat transfer, soil mechanics, or electronics.
+ Combination of education and experience: college-level education, training, and/or technical experience that furnished (1) a thorough knowledge of the physical and mathematical sciences underlying engineering, and (2) a good understanding, both theoretical and practical, of the engineering sciences and techniques and their applications to one of the branches of engineering. The adequacy of such background must be demonstrated by one of the following: (1) Professional registration or licensure -- Current registration as an Engineer Intern (EI), Engineer in Training (EIT), or licensure as a Professional Engineer (PE) by any State, the District of Columbia, Guam, or Puerto Rico. Absent other means of qualifying under this standard, those applicants who achieved such registration by means other than written test (e.g., State grandfather or eminence provisions) are eligible only for positions that are within or closely related to the specialty field of their registration. For example, an applicant who attains registration through a State Board's eminence provision as a manufacturing engineer typically would be rated eligible only for manufacturing engineering positions. (2) Written Test -- Evidence of having successfully passed the Fundamentals of Engineering (FE) examination or any other written test required for professional registration by an engineering licensure board in the various States, the District of Columbia, Guam, and Puerto Rico. (3) Specified academic courses -- Successful completion of at least 60 semester hours of courses in the physical, mathematical, and engineering sciences and that included the courses specified in the basic requirements under paragraph A. The courses must be fully acceptable toward meeting the requirements of an engineering program as described in paragraph A. (4) Related curriculum -- Successful completion of a curriculum leading to a bachelor's degree in an appropriate scientific field, e.g., engineering technology, physics, chemistry, architecture, computer science, mathematics, hydrology, or geology, may be accepted in lieu of a bachelor’s degree in engineering, provided the applicant has had at least 1 year of professional engineering experience acquired under professional engineering supervision and guidance. Ordinarily there should be either an established plan of intensive training to develop professional engineering competence, or several years of prior professional engineering-type experience, e.g., in interdisciplinary positions. (The above examples of related curricula are not all-inclusive.)
+ I do not meet the Individual Occupational Requirement for the Professional Engineering Position Series, 0800.
+2.
+In addition to meeting the Individual Occupational Requirements, select the statement that best describes your experience performing the work of an Environmental Engineer, ZP-0819-4 pay band or equivalent grade level (GS-13) in the Federal service.
+ I have at least one full year (52 weeks) of specialized experience equivalent to the next lower pay band (ZP-3) or GS-12 grade level in the Federal service which includes all of the following: Applying environmental compliance statutes and regulations, such as the National Environmental Policy Act (NEPA), the Comprehensive Environmental Response Compensation, and Liability Act (CERCLA), and The Clean Water Act (CWA) to a project or program; Planning environmental projects and performing duties associated with executing contract actions; and Performing audits, assessments, or regulatory reviews for compliance with federal, state or local environmental regulations.
+ I do not possess the experience described above.
+JKT
+1.
+When serving as a Contracting Officer's Representative (COR) or contract manager on a National Environmental Policy Act (NEPA) project, what is your primary technical responsibility regarding the contractor's deliverables?
+ Ensuring the environmental assessment accurately evaluates the project's impacts and complies with all NEPA regulations and agency policies.
+ Negotiating the final contract price and payment terms with the contractor.
+ Rewriting the entire environmental assessment to match your personal writing style.
+ Approving the contractor's internal payroll and human resources policies.
+2.
+During the preparation of an Environmental Assessment (EA), it is determined that a proposed agency action will likely have significant environmental impacts that cannot be mitigated. What is the appropriate next step under NEPA?
+ Proceed with the project immediately, as the EA is complete.
+ Issue a Finding of No Significant Impact (FONSI) and monitor the situation.
+ Initiate the preparation of a comprehensive Environmental Impact Statement (EIS).
+ Cancel the project without any further analysis or documentation.
+3.
+What is the fundamental principle of "pollution prevention" (P2) as it relates to environmental management?
+ Treating waste effectively after it has been generated and released into the environment.
+ Reducing or eliminating waste at the source through modifying production processes, promoting the use of non-toxic substances, and implementing conservation techniques.
+ Transferring hazardous waste to an off-site, long-term storage facility.
+ Purchasing carbon offset credits to balance out the facility's emissions.
+4.
+When conducting a regulatory review of a facility's hazardous waste management practices, what is the most critical first step to ensure compliance with applicable regulations (federal, state, and/or local)?
+ Draft a new facility-wide recycling policy.
+ Immediately halt operations until a third-party audit is completed.
+ Determine the facility's generator status based on the volume and type of hazardous waste produced per month.
+ Order replacement containers for all hazardous materials on site.
+5.
+As an Environmental Engineer overseeing compliance audits, which of the following best describes the primary goal of reviewing a facility's environmental documentation and monitoring reports?
+ To verify that the facility is operating within permitted limits and adhering to all applicable environmental regulations.
+ To determine the financial profitability of the facility's current operations.
+ To evaluate the efficiency of the facility's human resources department.
+ To prepare the facility for an upcoming real estate appraisal.
+6.
+As an Environmental Engineer reviewing a proposed federal facility expansion project, what is the most critical initial step to ensure environmental compliance prior to construction?
+ Evaluating the project scope to determine the appropriate level of National Environmental Policy Act (NEPA) documentation, required permits, and necessary interagency consultations (e.g., ESA, NHPA).
+ Immediately approving the construction contract to ensure the project stays on schedule, assuming environmental reviews can be completed concurrently with the build.
+ Requesting local municipal zoning variances to maximize the footprint of the facility without consulting federal environmental guidelines.
+ Deferring all environmental assessments until after construction is complete so that reviews can be based on actual impacts rather than projected ones.
+7.
+When performing a regulatory review and audit of a federal facility, which of the following best indicates that the facility's environmental compliance program is effective and mitigating regulatory risk?
+ The facility conducts routine internal monitoring, maintains accurate hazardous waste documentation, and implements timely corrective actions for any identified deficiencies prior to external inspections.
+ The facility relies entirely on external state and federal regulators to identify environmental violations during unannounced inspections.
+ The facility reduces its operational overhead by eliminating routine environmental training for personnel handling hazardous materials.
+ The facility mixes different streams of hazardous and non-hazardous waste to reduce the total number of containers requiring administrative tracking.
+8.
+When developing guidance for hazardous materials and waste management across multiple facilities, which approach best ensures consistent regulatory compliance and reduces environmental risk?
+ Establishing standardized procedures for the tracking, storage, handling, and disposal of hazardous materials from procurement to final disposition ("cradle-to-grave").
+ Allowing each facility to independently determine their own hazardous waste handling procedures based on local preference.
+ Focusing solely on emergency response procedures rather than preventative storage and handling protocols.
+ Minimizing the documentation required for hazardous waste manifests to save administrative time.
+9.
+In your role as a technical expert providing advisory services, a facility manager asks for guidance on managing a newly identified stream of regulated waste. What is the most appropriate technical response?
+ Advise them to mix the new waste stream with existing non-hazardous waste to dilute it.
+ Suggest they wait until their next scheduled state inspection to ask the regulatory inspector for advice.
+ Review the waste characteristics against federal and state regulations, determine the proper waste classification, and provide authoritative guidance on compliant storage, labeling, and disposal methods.
+ Direct them to search for a solution online without providing specific agency policy guidance.
+10.
+As a technical expert and program manager within the Safety and Environmental Compliance Office, you are responsible for providing authoritative guidance across the agency. When a new federal environmental regulation is issued that affects facility operations, which action best represents the effective fulfillment of your duties?
+ Analyzing the regulation, developing updated agency-wide compliance policies, and providing targeted training and advisory services to facility personnel to ensure implementation.
+ Filing the new regulation for future reference and waiting for individual facilities to request guidance only after they receive a notice of violation.
+ Personally traveling to every regional facility to physically alter their operational processes and manage their hazardous materials directly.
+ Delegating the interpretation of the new regulation entirely to external contractors without providing internal agency oversight or policy direction.
+.
+Select “Yes” or “No” to the following question(s).
+11.
+I certify that I did not use a consultant or artificial intelligence tool (such as a large language model) to complete the responses above. To the best of my knowledge, all information provided in my application is true and accurate. I affirm that I have truthfully and accurately represented my work experience, knowledge, skills, abilities, and education. I understand that providing false or misleading information may result in disqualification from consideration or termination of employment if hired. I further certify that I have read the entire vacancy announcement, reviewed my responses to the eligibility questions for accuracy, and understand the requirements regarding supporting documentation, including what must be submitted and applicable deadlines.
+ Yes
+ No
