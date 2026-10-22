@@ -1,0 +1,52 @@
+Position Title
+Information Technology Specialist (Applications Software)
+Agency
+ARMY TRANSPORTATION
+Announcement Number
+MCGT-27-13085281-DHA
+Open Period
+Oct 21, 2026 to Nov 02, 2026
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+Conditions of Employment
+.
+This position has requirements which must be met prior to employment, and conditions for continued employment. Your answers to the questions in this section will indicate your understanding of, or possession of, these requirements and conditions.
+1.
+This position requires the incumbent be able to obtain and maintain a determination of eligibility for a Secret security clearance or access for the duration of employment. A background investigation and credit check are required. Are you willing to undergo pre-employment and recurring investigations to obtain and maintain a Secret clearance as required?
+ Yes
+ No
+2.
+This position has a Temporary Duty (TDY) or business travel requirement of 10% of the time. Are you willing and able to travel away from your permanent duty station up to 10% of the time?
+ Yes
+ No
+3.
+In accordance with DoDM 8140.03 and supplemental Army guidance, the employee must obtain and maintain the following requirements for each Cyber work role (except Data, AI, and/or Software Engineering) at the assigned proficiency level: 1) Foundational qualification requirements within 9 months, 2) Resident qualification requirements within 12 months, 3) 20hours of Continuous Professional Development (CPD) per work role code (which can overlap). Are you willing and able to adhere to this requirement?
+ Yes
+ No
+4.
+This is a Defense Cyberspace Workforce Framework (DCWF) position. The incumbent is required to satisfactorily complete the appropriate training and obtain the required certification / re-certification for this position as outlined in DoD 8140.01 Cyberspace Workforce Management within 6 months of assignment. Are you willing and able to adhere to this requirement?
+ Yes
+ No
+5.
+Appointment to this position is subject to a one year probationary period unless the appointee has previously met the requirements as described in 5 CFR Part 11. While probationary the incumbent can be terminated with limited appeal rights. Are you willing to serve a one year probationary period?
+ Yes
+ No
+MQ Only GT XT062HQDCWF 13085279 MP
+.
+Thank you for your interest in a IT Specialist (Applications Software) position with Department of the Army. Your resume and the responses you provide to this assessment questionnaire will be used to determine if you are among the best qualified for this position. Your responses are subject to verification. Please review your responses for accuracy before you submit your application.
+1.
+Select the one statement that best describes the experience that you possess that demonstrates your ability to perform the work of IT Specialist (Applications Software) at the GS-13 grade level or equivalent pay band in the Federal Service.
+ I have one year of specialized experience equivalent to the GS-12 grade level in the Federal service which includes 1) Develop automated systems by applying software engineering, systems integration, testing, and agile development methods while managing/implementing RMF controls to ensure cybersecurity compliance for complex mission requirements, 2) Evaluate contractor technical proposals, assessed software deliverables, and monitored acquisition phases to ensure compliance with DoD, SDDC, and federal cybersecurity standards, and 3) Lead project teams by preparing technical work statements, overseeing multiple software development efforts, and resolving critical automation, ensuring system security, and Authorization to Operate (ATO) milestones are met. The OPM Qualification Standard provides the following definition: specialized experience is experience that has equipped the applicant with the particular competencies/knowledge, skills, and abilities to successfully perform the duties of the position and is typically in or related to the work of the position to be filled. Such experience is typically gained in the IT field or through the performance of work where the primary concern is IT. My specialized experience includes, or was supplemented by, information technology related experience (paid or unpaid experience and/or completion of specific, intensive training, as appropriate) which demonstrates each of the following competencies, as defined: 1. Attention to Detail - Is thorough when performing work and conscientious about attending to detail. 2. Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services. 3. Decision Making - Makes sound, well-informed, and objective decisions; perceives the impact and implications of decisions; commits to action, even in uncertain situations, to accomplish organizational goals; causes change. 4. Information Management - Identifies a need for and knows where or how to gather information; organizes and maintains information or information management systems. 5. Interpersonal Skills - Shows understanding, friendliness, courtesy, tact, empathy, concern, and politeness to others; develops and maintains effective relationships with others; may include effectively dealing with individuals who are difficult, hostile, or distressed; relates well to people from varied backgrounds and different situations. 6. Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately. 7. Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations. 8. Teamwork - Encourages and facilitates cooperation, pride, trust, and group identity; fosters commitment and team spirit; works with others to achieve goals. 9. Technical Competence – Uses knowledge that is acquired through formal training or on-the-job experience to perform one's job; works with, understands, and evaluates technical information related to the job; advises others on technical issues.
+ My experience is not reflected in the above statement.
+2.
+Your responses to the Announcement and Assessment Questionnaires, along with your resume and all supporting documentation are subject to evaluation and verification to ensure accuracy. Please take this opportunity to review your responses to ensure their accuracy.
+ Yes, I verify that all of my responses to this questionnaire are true and accurate. I accept that if my supporting documentation and/or later steps in the selection process do not support one or more of my responses to the questionnaire that my application may be rated lower and/or I may be removed from further consideration.
+ No, I do not accept this agreement and/or I no longer wish to be considered for this position.

@@ -1,0 +1,129 @@
+Position Title
+Supervisory Interdisciplinary Mechanical/Civil/Electrical/Electronics Engineer
+Agency
+Bonneville Power Administration
+Announcement Number
+27-BPA-53150-13095924-BPA
+Open Period
+Oct 22, 2026 to Nov 01, 2026
+Eligibilities
+1.
+Are you a current career/career-conditional federal employee at the Department of Energy applying for a PROMOTION to a position with a higher grade/pay band or higher promotion potential than you previously held on a permanent basis? Note: also select "Yes" if applying for a change-to-lower grade (CTLG) to a position with higher promotion potential than you previously held on a permanent basis. Check the REQUIRED DOCUMENTS section in the job announcement for instructions to support your eligibility to apply for this vacancy.
+ Yes
+ No
+2.
+Are you a current career/career-conditional federal employee at the Department of Energy applying for a REASSIGNMENT, CHANGE-TO-LOWER GRADE, or REPROMOTION and you currently or previously held a position with the same grade/pay band or higher and the same or higher promotion potential on a permanent basis? Check the REQUIRED DOCUMENTS section in the job announcement for instructions to support your eligibility to apply for this vacancy.
+ Yes
+ No
+3.
+I understand that I must select "Yes" to at least one of the eligibility questions to be considered for this position.
+ Yes
+ No
+Preferences
+1.
+Select the series you want to be considered for. You must choose at least one series.
+ 0810 - Civil Engineering
+ 0830 - Mechanical Engineering
+ 0850 - Electrical Engineering
+ 0855 - Electronics Engineering
+2.
+Do any of your relatives work for the agency to which you are applying? If so, please list any applicable names below. Please enter N/A in the text box, if not Applicable. (Include: father, mother, husband, wife, son, daughter, brother, sister, uncle, aunt, first cousin, nephew, niece, father-in-law, mother-in-law, daughter-in-law, son-in-law, brother-in-law, sister-in-law, stepfather, stepmother, stepson, stepdaughter, stepbrother, stepsister, half brother, and half sister).
+3.
+Instructions : To provide the hiring manager an opportunity to consider your accomplishments, you may submit/attach copies of your performance appraisals and/or incentive award justification as part of your application by uploading these documents into USA Staffing. All current Federal employees must have at least a fully successful or equivalent performance rating or higher, to be considered for competitive placement. Competitive Federal employees who have a current unacceptable performance rating will be excluded from consideration.
+ I am a current Federal employee, my last performance rating was fully successful (meets expectations) or equivalent, or higher.
+ I am a current Federal employee; my last performance rating was unacceptable (fails to meet expectations).
+ I am a new Federal employee and have not received a performance rating as of the date of this application.
+ I am not a Federal employee; however, I will consider attaching my recent performance appraisal from my employer for consideration.
+ I am not a Federal employee, and I do not have any performance documentation to submit for consideration.
+4.
+Have you received awards or been recognized as part of your annual performance appraisal for work that was based on one or more of the competencies described in this vacancy announcement?
+ Yes
+ No
+5.
+Are you currently serving or have served in the last five (5) years in a Political Appointment in the Federal Government?
+ Yes
+ No
+6.
+Please list the title, agency and dates of the appointments
+Executive Order 14170
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+3.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+.
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+Min Qual, J07792,J07793,J07794,J07795 Interdisciplinary Engineer GS-0810/0830/0850/0855-15
+1.
+BASIC REQUIREMENT - You must meet the minimum basic education and/or experience requirements for engineering positions in the Federal government. Select the response that best describes your education and/or experience.
+ I have a degree in engineering. The program must: (1) lead to a bachelor's degree in a school of engineering with at least one program accredited by ABET; or (2) include differential and integral calculus and courses (more advanced than first-year physics and chemistry) in 5 of the following 7 areas of engineering science or physics: (a) statics, dynamics; (b) strength of materials (stress-strain relationships); (c) fluid mechanics, hydraulics; (d) thermodynamics; (e) electrical fields and circuits; (f) nature and properties of materials (relating particle and aggregate structure to properties); and (g) any other comparable area of fundamental engineering science or physics, such as optics, heat transfer, soil mechanics, or electronics; OR
+ I have a qualifying combination of education and experience as demonstrated by current registration as an Engineer Intern (EI), Engineer in Training (EIT), or licensure as a Professional Engineer (PE) by any State, the District of Columbia, Guam, or Puerto Rico; OR
+ I have a qualifying combination of education and experience as demonstrated by evidence of having successfully passed the Fundamentals of Engineering (FE) examination or any other written test required for professional registration by an engineering licensure board in the various States, the District of Columbia, Guam, and Puerto Rico; OR
+ I have a qualifying combination of education and experience as demonstrated by successful completion of at least 60 semester hours of courses in the physical, mathematical, and engineering sciences and that included the courses specified in the basic requirements under paragraph A in the announcement. The courses must be fully acceptable toward meeting the requirements of an engineering program as described in paragraph A; OR
+ I have a qualifying combination of education and experience as demonstrated by successful completion of a curriculum leading to a bachelor's degree in an appropriate scientific field, e.g., engineering technology, physics, chemistry, architecture, computer science, mathematics, hydrology, or geology, may be accepted in lieu of a bachelor's degree in engineering, provided the applicant has had at least 1 year of professional engineering experience acquired under professional engineering supervision and guidance. Ordinarily there should be either an established plan of intensive training to develop professional engineering competence, or several years of prior professional engineering-type experience, e.g., in interdisciplinary positions. (The above examples of related curricula are not all-inclusive.)
+ I do not meet any of the education or experience/education combinations listed above.
+2.
+In addition to the basic requirement, choose one answer that best describes your experience.
+ I possess at least one year of specialized experience equivalent to the GS-14 grade level in the Federal service performing work appropriate to the position advertised in the vacancy
+ I do not meet the requirement as described above.
+KBA Interdisciplinary Supervisory Civil/Mechanical/Electrical/Electronic GS-0810/0830/0850/0855-15
+1.
+When evaluating workload demands against resource allocations within an engineering division experiencing staffing constraints, what is the required managerial protocol to maintain program delivery?
+ Halt engineering reviews for 3 months, across all TEL capital projects until new hires can be acquired.
+ Contemplate long-range staffing requirements, determine the optimal mix of in-house versus contracted work, and identify the best approach for resolving staffing shortages.
+ Recommend all TEL students be re-assigned to administrative work enabling experienced staff the time to focus on priority projects.
+ Outsource all project work completely to external design contractors, by working through contract models supported by TEG.
+ Decline the initiation of new projects in the TETRIS queue, citing temporary staff shortages and coordinate the decision with Asset Management (TI).
+2.
+The Vice Presidents of Transmission Planning, Asset Management and Transmission Engineering have asked for a method to demonstrate Transmission's capacity to accomplish customer work on time. What is your contribution as a TEL manager?
+ Coordinate with TI to initiate a meeting between TI, TE and TP SMEs to align on required objectives and data sources. Then come together to decide which team will formulate a Power BI solution using current and/or new data that meets the needs of all 3 transmission business lines.
+ Recommend the TETRIS list be referenced as the source of work TEL will accomplish since that is the annual work plan. Confirm with TIPE that TETRIS will be updated monthly to show the most current project list.
+ Confirm in email to the TE VP that TEL will 100% support all customer work and will ensure these projects are consistently the top priority.
+ Report to the TE VP Project Management team (TIP) that has the responsibility to provide status updates for all customer projects they oversee. Initiate a RACI chart to demonstrate and agree upon the responsible entity.
+3.
+In aligning engineering program elements with the broader Transmission Business Line mission, how must the manager address major external shifts in policy, legislation, or technology?
+ Direct the restructuring, reorienting, and recasting of immediate and long-range goals, plans, and schedules to meet changes in legislation, program authority, and funding.
+ Immediately stop all capital project work until appropriate changes in policy and standards are adopted.
+ Petition higher management to transfer external compliance accountability strictly to regional utility partners.
+ Suspend participation in industry standard-setting bodies until internal agency re-alignments are concluded.
+4.
+The new administrator has asked that BPA accept more risk to enable quicker capital project output. What is the next step that you take?
+ Reach out to BPA’s NATF representative and set up a survey that asks other utilities how much risk they accept.
+ Tell the TE VP that they need to host a townhall to tell everyone our culture is changing.
+ Initiate a TEL meeting to brainstorm high value opportunities to gain speed through traditional or non-traditional methods while underscoring the need for change and highlighting the value in contributing to successful outcomes from our new mission.
+ Work directly with the standards organization without TEL SME input to convert BPA’s unique TEL standards to industry standards.
+ Reach out to BPA’s compliance organization and request a meeting to discuss risk assessment capabilities.
+5.
+Under federal personnel guidelines, when planning and assigning work to a team of engineers, on what basis should the supervisor primarily assign work?
+ Strictly based on employee seniority and grade level within the organization.
+ Equally across all employees using a randomized rotational queue, regardless of task complexity.
+ Based on selective consideration of task difficulty, project priorities, and individual employee capabilities, development needs, and resources.
+ By allowing employees to self-select their own assignments on a first-come, first-served basis, so that no single person is overwhelmed.
+ Outsourcing all complex project work to contractors and assigning only project scoping to the entire team.
+6.
+DOE has mandated that no more than 30% of staff will receive an Exceeds or Significantly Exceeds Expectations rating. One of your Tier 4 supervisors has completed their team's performance reviews and strongly affirms that 80% of their staff deserve a higher than meets rating. What do you do?
+ You recommend rating all employees as Meets Expectations to avoid team disputes and grievances.
+ Meet with your Tier 4 supervisor and discuss all justifications for higher ratings. Talk over the performance results and ultimate impact to the mission. Direct the supervisor to narrow down the numbers of higher rated staff to stay within the 30% threshold. Then provide counsel if needed for conducting difficult conversations.
+ You trust your supervisor and therefore agree with their assessment. Take results to the TE VP for their evaluation.
+ Use your subjective personal impressions of employees during your quarterly or bi-yearly team meetings to influence your supervisor’s final ratings of employees.
+ You recommend the supervisor utilize peer reviews or opinion polls to differentiate between employees instead of performance metrics.
+7.
+When representing the organization before executive leadership, regulatory bodies, and external utility partners on matters involving significant or controversial program issues, what is the primary objective of the manager's interactions?
+ Justify, defend, or negotiate in representing the program segment in obtaining or committing resources, and in gaining compliance with established policies, regulations, or contracts.
+ Formally direct external regulatory authorities to adopt agency operating practices without negotiation.
+ Concede proposed engineering requirements to opposing stakeholders to avoid administrative hearings.
+ Provide routine administrative notices without engaging in dialogue concerning operational impacts.
+8.
+You learn from the TEV Manager that one of your Tier 4 teams will be asked to modify a long-standing work process to align with industry standard approaches that would speed up work by external contractors. What is your next step?
+ Prepare to defend your long-standing work process because the Tier 4 team team cannot handle more changes at this time.
+ Meet with your supervisor of the Tier 4 team to discuss strategies for addressing the request. Strategies could include gathering facts and concerns from stakeholders, addressing those concerns, preparing for change management to influence the team, and negotiating with TEV and/or project sponsors.
+ Delegate decision-making authority to the Standards team to expedite change.
+ Assume the role of technical expert and lead a meeting to build rapport with and influence members of the Tier 4 team to attain the goal.
+ Initiate a project with owners of the Process Classification Framework to document changes to processes without customer or stakeholder engagement.

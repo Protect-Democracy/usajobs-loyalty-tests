@@ -1,0 +1,37 @@
+Position Title
+Space Joint Interface Control Cell (S-JICC) Specialist
+Agency
+Space Development Agency
+Announcement Number
+SDA-27-13095920-DH
+Open Period
+Oct 21, 2026 to Oct 28, 2026
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+2.
+Are you the spouse of a member of the Armed Forces on active duty? -OR- Are you the spouse of a member of the Armed Forces who is retired, released, or discharged from the Armed Forces AND on the date of retirement, release, or discharge, has a 100% disability rating from the Department of Veterans Affairs? -OR- Are you the un-remarried widow or widower of a member of the Armed Forces killed while in active duty status? For more information, review USAJOBS Veterans resources.
+ Yes
+ No
+Preferences
+1.
+Would you accept a term appointment?
+ Yes
+ No
+Announcement Screen-Out
+1.
+Are you a former Federal employee who has retired and is receiving an annuity either under the Civil Service Retirement System (CSRS) or Federal Employees Retirement System (FERS)? NOTE: If you are receiving a temporary medical disability retirement OR are a retired Military Service Member your response should be NO .
+ Yes
+ No
+Space Joint Interface Control Cell (S-JICC) Specialist NH-0301-3
+1.
+From the description below, select the letter that best describes your level of specialized experience.
+ I have one year specialized experience to the next lower grade level NH-02/GS-11 or equivalent in the federal service (experience may have been gained in the private sector) with experience planning and executing complex, multi-faceted Tactical Data Link (TDL) operations; developing and implementing solutions for diverse and complex issues across multiple disciplines, such as managing Joint Range Extension Application Protocol-C (JREAP-C), Link 16, and Integrated Broadcast Service (IBS) to maintain a common operational picture; experience serving as a functional and technical expert in a 24/7 operations center environment; acting as a Joint Interface Control Officer (JICO), guiding teams to resolve mission-critical problems, and providing authoritative advice and assistance to leadership on TDL architecture, mission planning, and system integration; demonstrated experience in developing and improving operational plans and procedures to enhance mission effectiveness; analyzing future mission needs, developing innovative techniques for TDL services, creating training documents for operations personnel, and establishing precedents for applying problem-solving techniques to new or existing processes; experience identifying, analyzing, and resolving highly complex TDL anomalies and contingency situations. This requires coordinating with subject matter experts, recommending appropriate courses of action to mitigate risk, and ensuring the stability and integrity of the Proliferated Warfighter Space Architecture (PWSA) and its associated data transport services. Experience must be reflected in your resume.
+ My experience does not meet the requirements listed above.
