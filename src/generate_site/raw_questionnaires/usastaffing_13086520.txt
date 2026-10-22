@@ -1,0 +1,77 @@
+Position Title
+ELECTRICAL INTEGRATED SYSTEMS MECHANIC (Title 32)
+Agency
+Air National Guard Units
+Announcement Number
+DC-13086520-AF-26-016
+Open Period
+Oct 21, 2026 to Oct 20, 2027
+Preferences
+1.
+This position requires military membership in the District of Columbia Air National Guard (DCANG). Are you willing and able to meet the requirements to join the DCANG upon selection?
+ Yes
+ No
+D2324000-2610-13-DCNG
+.
+We will evaluate your resume and responses to this Assessment Questionnaire to determine if you are among the best qualified for this position. Your responses are subject to verification and must be supported by your resume and supporting documents.
+.
+For each item, select the one response that most accurately describes your current level of experience and capability using the scale below.
+1.
+Do you possess the general experience for this position? General experience includes but is not limited to experience or training which demonstrates the applicant's knowledge to perform duties such as, install, modify, overhaul, maintain, troubleshoot, repair, align, calibrate, and rebuild multi-system avionics complexes. Ability to collect and analyze data effectively, efficiently, and accurately. Able to apply procedures and directives by reading and interpreting material. Ability to communicate clearly and effectively. Applicant must have a validated understanding of the basic principles and concepts of the occupational series and grade.
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+2.
+Do you possess the specialized experience for this job? Specialized experience includes but is not limited to experience or training demonstrating the ability to repair, overhaul, rebuild, align, and adjust complete multi-systems such as the electronics package in a highly automated aircraft where target acquisition and tracking, weapons control, aircraft attitude control, navigation, and other complex functions are performed by numerous systems which are extensively interconnected with data feedback loops. Applies comprehensive knowledge of all major units of the complete multisystem, i.e., how they function independently, how they are interfaced in the integrated subsystems, and how the subsystems interact to achieve operating specifications. Able to determine proper sequence of operations and start point in sequential operations in order to pinpoint areas of malfunction. Extensive practical knowledge of the theories and practices of electromagnetic propagation, electronic circuits, computer theory, hydraulic or pneumatic control and power systems, and many other areas covering a wide range of system applications. Broad knowledge of the interactions among a number of closely integrated complex systems. Knowledge of mathematics, including trigonometry, to calculate power relation ships, signal phasing, etc. Ability to interpret drawings for multisystem complexes such as the complete electronics package for an aircraft including numerous interconnections of signal paths both between and within individual subsystems of the multisystem complex. Ability to isolate malfunctions of complete multiple integrated systems consisting of closely interrelated fire control, bombing-navigation, flight control, countermeasures or similar systems and to determine the methods of repair where extremely complex relationships exist among numerous interconnected units and control circuits not only within the individual control systems but between them as well, requiring complete knowledge of all electronic, mechanical, and or optical systems and units. Performs on-equipment or off-equipment maintenance on one or more complete electronic integrated systems associated with the assigned aircraft, and/or maintenance on automatic flight control systems, instrument systems, inertial and radar navigation systems.
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+.
+For each of the following tasks, choose the statement from the list below that best describes your experience and/or training. Mark only one response for each question. Please note that your answers will be verified against the information you provide in your resume.
+.
+For each item, select the one response that most accurately describes your current level of experience and capability using the scale below.
+3.
+Provides hands-on training instructions to lower grade personnel concerned with repair of computer controlled automatic test equipment, manually controlled test equipment, line replaceable units and aircraft integrated systems. Also provides on-the-job instruction to newly assigned personnel, regardless of grade level.
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+4.
+If the malfunction is found to be in the UUT, Pod or the test station, isolates it to the specific component(s), disassembles and effects repair by replacing solid state devices, micro miniature modules, gyros, sensors, transducers, and any other required parts, and assembles after repair is accomplished and performs operational tests. If the malfunction is in the test program, informs engineers and/or Air Force Logistics Command (AFLC) of the problem and serves as subject matter expert in providing practical technical assistance in resolution.
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+5.
+Analyzes program data and determines if the criteria is sufficient to provide adequate testing and troubleshooting. Examines recurring malfunctions and software deficiencies to determine testing voids and initiates corrective action by submission of quality deficiency reports, software deficiency reports or proposed modifications.
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+6.
+Removes and replaces components, assemblies, subassemblies, or parts using special and common hand tools, soldering devices and special electronic instruments.
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+7.
+May be required to perform such additional duties as structural firefighting, aircraft fire/crash/rescue duty, security guard, snow removal, munitions loading and handling, heavy equipment operator, maintenance of facilities and equipment, or serve as a team member on a board to cope with natural disasters or civil emergencies.
+ I have no experience in performing this work behavior, but I am willing to learn.
+ I have limited experience in performing this work behavior. I have had exposure to this work behavior but would require additional guidance, instruction, or experience to perform it at a proficient level.
+ I have experience performing this work behavior across routine or predictable situations with minimal supervision or guidance.
+ I have performed this work behavior independently across a wide range of situations. I have assisted others in carrying out this work behavior. I seek guidance in carrying out this work behavior only in unusually complex situations.
+ I am considered an expert in carrying out this work behavior. I advise and instruct others in carrying out this work behavior on a regular basis. I am consulted by my colleagues and/or supervisors to carry out this work behavior in unusually complex situations.
+.
+Select “Yes” or “No” to the following question(s).
+8.
+I certify that all the answers I have provided in this assessment are accurate and verifiable. I further certify that the documents I have provided are accurate and verifiable. I understand that any discrepancies with my assessment and/or required documents may result in a lower rating and/or loss of consideration. I further understand that all documents provided are subject to verification by the District of Columbia National Guard.
+ Yes
+ No

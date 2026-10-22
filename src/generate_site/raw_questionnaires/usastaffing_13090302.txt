@@ -1,0 +1,78 @@
+Position Title
+SUPERVISORY ELECTRONIC TECHNICIAN (DATA/IT)
+Agency
+Air National Guard Units
+Announcement Number
+KS-13090302-AF-27-016
+Open Period
+Oct 21, 2026 to Nov 04, 2026
+Eligibilities
+1.
+All on-board federal employees/technicians within the state for which you are applying (Title 32 and Title 5, Permanent and Excepted Indefinite). Are you a current on-board federal employee or technician within the state for which this position is being advertised? To verify your eligibility, you must submit a copy of your most recent Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Tenure in Block 24 (1, 2,or 3).
+ Yes
+ No
+Preferences
+1.
+Are you a current on-board indefinite or permanent federal employee or technician within the Kansas Air National Guard? To verify your eligibility, you must submit a copy of your most recent Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Tenure in Block 24 (1, 2, or 3).
+ Yes
+ No
+2.
+Do you currently hold the rank of E-8 through E-9?
+ Yes
+ No
+2210-12-D1748000-KSNG
+.
+Please answer the following multiple choice questions to the best of your knowledge.
+.
+Select “Yes” or “No” to the following question(s).
+1.
+Do you have experience, education or training performing simple mechanical installations and adjustments? Experience which demonstrates the applicant's ability to recognize obvious malfunctions. A good understanding of basic electronic theories and techniques and familiarity with standard electronic components and their use. Tracing circuitry, diagnosing malfunctions and adjusting controls to achieve peak performance. Experience using specific layout and schematic diagrams to construct and package simple devices and subunits of equipment such as power supplies, oscillators, amplifiers, etc. Using advanced methods in a full-range of troubleshooting procedures, techniques, and usage of test-set related equipment. Experience using common hand tools. Experience that demonstrates the ability to follow written instructions?
+ Yes
+ No
+2.
+Do you have 1-year equivalent to at least next lower grade level experience, education, or training in utilizing principles, basic functions, and application of theory of electronic systems or equipment? Experience in diagnosing problems and determining needed repairs for malfunctions in electronic equipment or systems. Experience in making mechanical repairs that required the use of precision measuring and calibrating equipment. Experience in using complex test equipment such as deviation meters, complex special test panels, etc. Experience which demonstrates the ability to interpret technical manuals, specifications, and publications? Experience in managing the function of the work to be performed. Experience which includes leading, directing and assigning work of personnel?
+ Yes
+ No
+.
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+3.
+Plans work to be accomplished by subordinates, sets and adjusts short-term priorities, and prepares schedules for completion of work of the full range of C-E (Communications-Electronics) equipment and systems assigned.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+4.
+Evaluates scheduling, rescheduling or reassignment of work by assigning work to subordinates based on priorities, selective consideration of the difficulty and requirements of assignments, and the capabilities of employees.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+5.
+Establishes work performance standards and evaluates the work performance of subordinates.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+6.
+Knowledge of, and skill in applying the principles and methods for planning, updating, and integrating information system components, including software, controlling future releases, and documenting information and physical characteristics of an information system or product.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+7.
+Analyzes the branch's mission support capabilities, evaluates maintenance effectiveness, and reports the branch's mission capability. Initiates action required to maintain maximum degrees of efficiency and reliability.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+.
+Select “Yes” or “No” to the following question(s).
+8.
+I certify that, to the best of my knowledge and belief, all of the information included in this questionnaire is true, correct and provided in good faith. I understand that if I make an intentional false statement or commit deception or fraud in this application or its supporting materials, or in any document or interview associated with the examination process, I may be fined or imprisoned (18 U.S.C 1001); my eligibilities may be canceled; I may be denied an appointment; or I may be removed and debarred from Federal Service (5 C.F.R Part 731). I understand that any information I give may be investigated. I understand that responding "No" to this item will result in my not being considered for this position.
+ Yes
+ No
