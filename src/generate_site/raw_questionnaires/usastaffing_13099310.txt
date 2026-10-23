@@ -1,0 +1,52 @@
+Position Title
+SURFACE MAINTENANCE REPAIRER-TITLE 32
+Agency
+Army National Guard Units
+Announcement Number
+KY-13099310-AR-27-001
+Open Period
+Oct 22, 2026 to Dec 06, 2026
+Preferences
+1.
+Select the location(s) you want to be considered for. You must choose at least one location.
+ Ashland, KY
+ Bowling Green, KY
+ Burlington, KY
+ Fort Knox, KY
+ Frankfort, KY
+ Glasgow, KY
+ Greenville, KY
+ Jackson, KY
+ Lexington, KY
+ London, KY
+ Paducah, KY
+ Richmond, KY
+AOC
+1.
+What is your current military grade?
+ E-1
+ E-2
+ E-3
+ E-4
+ E-5
+ E-6
+ E-7
+ E-8
+ E-9
+ W-1
+ W-2
+ W-3
+ W-4
+ W-5
+ O-1
+ O-2
+ O-3
+ O-4
+ O-5
+ O-6
+ O-7
+ O-8
+2.
+Are you a current member of the Kentucky Army National Guard?
+ Yes
+ No

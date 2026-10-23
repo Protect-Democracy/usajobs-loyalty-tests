@@ -1,0 +1,37 @@
+Position Title
+General Engineer
+Agency
+Space Development Agency
+Announcement Number
+SDA-27-13095925-DH
+Open Period
+Oct 22, 2026 to Oct 29, 2026
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+2.
+Are you the spouse of a member of the Armed Forces on active duty? -OR- Are you the spouse of a member of the Armed Forces who is retired, released, or discharged from the Armed Forces AND on the date of retirement, release, or discharge, has a 100% disability rating from the Department of Veterans Affairs? -OR- Are you the un-remarried widow or widower of a member of the Armed Forces killed while in active duty status? For more information, review USAJOBS Veterans resources.
+ Yes
+ No
+Preferences
+1.
+Would you accept a term appointment?
+ Yes
+ No
+Announcement Screen-Out
+1.
+Are you a former Federal employee who has retired and is receiving an annuity either under the Civil Service Retirement System (CSRS) or Federal Employees Retirement System (FERS)? NOTE: If you are receiving a temporary medical disability retirement OR are a retired Military Service Member your response should be NO .
+ Yes
+ No
+General Engineer NH-0801-4
+1.
+From the description below, select the letter that best describes your level of specialized experience.
+ I have one year specialized experience to the next lower grade level NH-03/GS-13 or equivalent in the federal service (experience may have been gained in the private sector) with experience directing and orchestrating real-time anomaly resolution for high-risk spacecraft and ground system contingencies. Experience in space systems, cloud-based architectures, and ground networks, exercising authoritative oversight over all hardware, software, and procedural documentation. Experience applying extensive background in satellite vehicle and ground network development, coordinates rigorous Integration and Test (I&T) campaigns. Experience must be reflected in your resume.
+ My experience does not meet the requirements listed above.
