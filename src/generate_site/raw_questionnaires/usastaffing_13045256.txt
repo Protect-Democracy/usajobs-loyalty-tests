@@ -1,0 +1,117 @@
+Position Title
+SUPERVISORY IT SPECIALIST (NETWORK) (D15540000)
+Agency
+Air National Guard Units
+Announcement Number
+PR-13045256-AF-26-076
+Open Period
+Oct 22, 2026 to Nov 04, 2026
+Eligibilities
+1.
+All on-board federal employees/technicians within the state for which you are applying (Title 32 and Title 5, Permanent and Excepted Indefinite). Are you a current on-board federal employee or technician within the state for which this position is being advertised? To verify your eligibility, you must submit a copy of your most recent Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Tenure in Block 24 (1, 2,or 3).
+ Yes
+ No
+2.
+Are you a current Permanent full-time Dual Status National Guard Technician within the state for which this position is being advertised? To verify your eligibility, you must submit a copy of your Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Permanent full-time status with the state National Guard.
+ Yes
+ No
+3.
+Are you a current Temporary Indefinite full-time Dual Status National Guard Technician within the state for which this position is being advertised? To verify your eligibility, you must submit a copy of your Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Indefinite full-time status with the state National Guard.
+ Yes
+ No
+Preferences
+1.
+Rank: ___________________ Military email: ___________________________ Unit of assignment: _______________________ MOS/AFSC: ___________________
+Elegibilities
+1.
+All on-board federal employees/technicians within the state for which you are applying (Title 32 and Title 5, Permanent and Excepted Indefinite). Are you a current on-board federal employee or technician within the state for which this position is being advertised? To verify your eligibility, you must submit a copy of your most recent Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Tenure in Block 24 (1, 2,or 3).
+ Yes
+ No
+2.
+Are you a current Permanent Full-Time Dual Status National Guard Technician within the state for which this position is being advertised? To verify your eligibility, you must submit a copy of your Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Permanent Full-Time status (Tenure 1 and 2) with the state National Guard.
+ Yes
+ No
+3.
+Are you a current Temporary Indefinite Full-Time Dual Status National Guard Technician within the state for which this position is being advertised? To verify your eligibility, you must submit a copy of your Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Indefinite Full-Time status (Tenure 3) with the state National Guard.
+ Yes
+ No
+2210-12-D1554000-PRNG
+1.
+For the following group, choose the statement that best describe your current military affiliation. This position requires a military membership in the Puerto Rico Air National Guard.
+ I am a permanent technician employee (NG T32/NG T5) of the Puerto Rico Air National Guard. (Refer to block 24 of SF 50 Tenure 1 or 2) (Please attach SF 50)
+ I am an Indefinite technician employee (NG T32/NG T5) of the Puerto Rico Air National Guard. (Refer to block 24 of SF 50 Tenure 3) (Please attach SF 50)
+ I am a Temporary technician (Tenure 0) employee of the Puerto Rico Air National Guard. (Refer to block 24 of SF 50)
+ I am currently working in the PRANG as AGR or ADOS (Active-Duty Operational Support) Orders.
+ I am an M-Day Airman of the Puerto Rico Air National Guard.
+ I am a Guard member of the PR Army National Guard or Guard member from another state, Reservist/IRR; and/or Active Duty Soldier; willing to join the PRANG immediately.
+ I am a civilian that meet all requirements to become a member of the Puerto Rico Air National Guard immediately in case that I'm selected for the position.
+ None of the above. (If you select this statement, please do not continue with the application. This position requires military membership)
+2.
+Provide current Military Grade/Rank or equivalent (Ex. E4/SrA).
+.
+Select “Yes” or “No” to the following question(s).
+3.
+Do you possess as a minimum Federal Information Security Management Act of 2002, Clinger Cohen Act of 1996 (certified IAW DOD 8570.01-M) and Special Experience Identifier (SEI) 264, Information Assurance - Technical Level II (IAT II), IAW current AF directives? (A copy of the certificate must be submitted with your application)
+ Yes
+ No
+4.
+Do you possess at least ONE (1) year at the next lower lever GS-11 or the equivalent THIRTY-SIX (36) months of Specialized experience required in the vacancy announcement?
+ Yes
+ No
+.
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+5.
+Knowledge of information technology principles, concepts, and methods; e.g., data storage, software applications, networking, etc.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+6.
+Plans and develops methods, procedures, policies, and techniques concerning telecommunication systems.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+7.
+Implements IT and communications programs and special projects
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+8.
+Experience in management, supervision, leadership, administration, development, delivery, and support of information technology systems and services.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+9.
+Analyzes requirements and establishes plans of action for improving IT applications.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+10.
+Ability to plan, direct, and coordinate difficult and complex programs
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+11.
+Skilled in training, mentoring, and problem solving
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+.
+Select “Yes” or “No” to the following question(s).
+12.
+You certify that all of the information and attached documents to this application is true, correct, and complete and is made in good faith? (This will constitute your official signature.)
+ Yes
+ No

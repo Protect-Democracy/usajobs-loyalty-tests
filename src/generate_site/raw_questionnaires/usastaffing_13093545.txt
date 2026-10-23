@@ -1,0 +1,55 @@
+Position Title
+IT Specialist (Network Services)
+Agency
+U.S. Army Cyber Command
+Announcement Number
+DAKB-26-13093545-CES
+Open Period
+Oct 23, 2026 to Nov 02, 2026
+Eligibilities
+1.
+Current Civilian Employees of the Organization Applying to Cyber Excepted Service (CES) Positions Do you meet the following? CIVILIAN EMPLOYEES SERVING ON A PERMANENT COMPETITIVE OR EXCEPTED SERVICE APPOINTMENT WITHIN THE ORGANIZATION. You must submit a copy of your most recent SF-50, Notification of Personnel Action. Block 24 of your SF-50 must be a "1" or "2" AND block 34 must be a"1" or "2". Notes: *If you are currently working on a temporary or term appointment, or you are serving on active duty in the U.S. military service, you are NOT eligible for this hiring category. *If you are currently working for a private sector company performing work related to a contract with a federal agency, you are NOT eligible for this hiring category *DOD employees can access their SF-50 at: My Biz
+ Yes
+ No
+Conditions of Employment
+.
+This position has requirements which must be met prior to employment, and conditions for continued employment. Your answers to the questions in this section will indicate your understanding of, or possession of, these requirements and conditions.
+1.
+Must be able to obtain and maintain a Top Secret, High Risk/SCI Clearance, SS, T5. This position is designated as a system administrator (SA) with elevated privileges and operational control of servers and network devices. Failure to do so may result in separation for the efficiency of the Federal Service. Are you willing and able to maintain this clearance level?
+ Yes
+ No
+2.
+This position is designated as an IAT-II and requires a COMPTIA (security +) certification at a minimum. Are you willing and able to maintain the above?
+ Yes
+ No
+3.
+This position is a Testing Designated Position (TDP) subject to applicant testing and random drug testing IAW AR 600-85. Applicants tentatively selected for appointment to this position will participate in drug urinalysis testing, unless currently occupying a TDP within the Department of Defense. Tentatively selected applicants will be required to sign DA Form 5019 (Condition of Employment for Certain Civilian Positions Identified as Critical Under the Department of the Army Drug-Free Federal Workplace Program) requiring participation in random drug testing as a condition of employment. A job offer to an applicant who is not a current employee will be withdrawn if the applicant refuses to be tested. Applicants with verified positive test results shall be refused employment. Applications from such individuals shall not be considered for employment for a period of 6 months from the date of the test results. As a condition of employment, the incumbent shall be subject to periodic and random urinalysis drug testing. Detection of drug usage through confirmed positive urinalysis test results might be cause for a determination that the incumbent has failed to meet the conditions necessary for continued employment in this position. Are you willing and able to complete the above?
+ Yes
+ No
+4.
+Overtime and shift work may be required on short notice to include nights, holidays, and weekends in support of related mission requirements. Call back and emergency duty are regular requirements of this position. Are you willing and able to complete the above?
+ Yes
+ No
+5.
+This position has a Temporary Duty (TDY) or business travel requirement of 10 % of the time. Are you willing and able to travel away from your permanent duty station up to 10% of the time?
+ Yes
+ No
+6.
+The duties of this position require the incumbent to possess or obtain and maintain a valid state Driver's License in one of the 50 U.S. states or possessions to operate vehicles. Do you currently possess or are you willing and able to obtain and maintain a valid license to comply with the requirement?
+ Yes
+ No
+7.
+A physical examination is required lifting up to 40 pounds. Are you willing and able to complete the above?
+ Yes
+ No
+MQ Only-KB 606371 13093545 MP
+.
+Thank you for your interest in an IT Specialist (Network) with Department of the Army. Your resume and the responses you provide to this assessment questionnaire will be used to determine if you are among the best qualified for this position. Your responses are subject to verification. Please review your responses for accuracy before you submit your application.
+1.
+Select the one statement that best describes directly applicable experience that demonstrates the possession of knowledge, skills, abilities, and competencies necessary for immediate success in the position. Qualifying experience may have been acquired in any public or private sector job, but will clearly demonstrate past experience in the application of the particular competencies or knowledge, skills, and abilities necessary to successfully perform the duties of the position. Such experience is typically in or directly related to the work of the position to be filled.
+ I have at least 1 year of applicable experience that demonstrates the possession of knowledge, skills, abilities, and competencies necessary for immediate success in the position. Qualifying experience would be demonstrated by Maintaining network system software and/or hardware which provides information to command in support of decision making for installation and local area networks; Analyzing the scope of computer network work to be automated to suggest recommendations that could determine the need for system updates; Preparing research for supervisors to develop into formal briefings for senior commands officials and others as required; and Assists Node Site Coordinator for SIPRNET and NIPRNET to coordinate installation, testing and operation of node circuits for Defense Information Systems Agency (DISA), Department of the Army, Pentagon, and contractor representatives at Fort Huachuca.
+ My experience and/or education is not reflected in any of the above statements.
+2.
+Your responses to the Announcement and Assessment Questionnaires, along with your resume and all supporting documentation are subject to evaluation and verification to ensure accuracy. Please take this opportunity to review your responses to ensure their accuracy.
+ Yes, I verify that all of my responses to this questionnaire are true and accurate. I accept that if my supporting documentation and/or later steps in the selection process do not support one or more of my responses to the questionnaire that my application may be rated lower and/or I may be removed from further consideration.
+ No. I do not accept this agreement and/or I no longer wish to be considered for this position.
