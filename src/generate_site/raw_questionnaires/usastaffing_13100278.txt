@@ -1,0 +1,135 @@
+Position Title
+Operations Research Analyst
+Agency
+Defense Human Resources Activity
+Announcement Number
+DHRADPAC-27-13100278-DH
+Open Period
+Oct 23, 2026 to Nov 09, 2026
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+2.
+Are you the spouse of a current Department of Defense employee who is being transferred in the interest of the Government from one official station within the Department to another within the Department for permanent duty? Supporting Documentation : You are required to submit proof of marriage AND permanent change of station (PCS) orders: spouse's PCS orders (showing you as a dependent) and/or copy of marriage certificate. If you are a current or previous Federal employee, please include your most recent SF-50.
+ Yes
+ No
+3.
+Are you the spouse of a member of the Armed Forces on active duty? -OR- Are you the spouse of a member of the Armed Forces who is retired, released, or discharged from the Armed Forces AND on the date of retirement, release, or discharge, has a 100% disability rating from the Department of Veterans Affairs? -OR- Are you the un-remarried widow or widower of a member of the Armed Forces killed while in active duty status? For more information, review USAJOBS Veterans resources.
+ Yes
+ No
+Preferences
+1.
+Are you a former Federal employee who has retired and is receiving an annuity either under the Civil Service Retirement System (CSRS) or Federal Employees Retirement System (FERS)?* NOTE: If you are receiving a temporary medical disability retirement OR are a retired Military Service Member your response should be NO .
+ Yes
+ No
+.
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+2.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+3.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+4.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+5.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+6.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+TA for Operations Research Analyst GS 1515 13
+1.
+This is a screen out question. From the descriptions below, select the letter that BEST describes the highest level of education and/or experience that you fully possess in order to minimally qualify for this position. Read all of the statements completely before making your selection.
+ I possess one year of specialized experience at the GS-12 grade level or equivalent under other pay systems in the Federal service, military or private sector. My creditable specialized experience includes: Experience applying advanced data analytics, statistical modeling, and machine learning techniques (e.g., regression, clustering, NLP) to support organizational decision-making, under the guidance of senior staff. Experience contributing to the analytic lifecycle, including data ingestion, preparation, feature engineering, modeling, validation, and delivery of results for assigned projects. Experience designing, building, and maintaining data pipelines and analytic tools, including the use of version control software (e.g., GitLab) to ensure reproducibility and documentation. Experience engaging with stakeholders to clarify analytic requirements and communicating results through briefings, written reports, and data visualizations (e.g., Tableau, Power BI). Experience contributing to the management of analytic projects or research portfolios, including planning, tracking, and reporting on project progress.
+ I do not possess the required level of specialized experience to qualify for either position.
+2.
+This is a screen out question: The purpose of this question is to verify that you meet the basic requirements for this position. Please select the best answer that fits your situation. FAILURE TO ANSWER THIS QUESTION WILL MAKE YOU INELIGIBLE. APPLICANTS MUST PROVIDE SUPPORTING DOCUMENTATION TO SUPPORT THIS BASIC REQUIREMENT.
+ I have a Bachelor's Degree or higher in Operations Research.
+ A Bachelor's Degree or higher with at least 24 semester hours in a combination of operations research, mathematics, probability, statistics, mathematical logic, science, or subject-matter courses requiring substantial competence in college-level mathematics or statistics. At least 3 of the 24 semester hours were in calculus.
+ My education is not reflected in the above statements
+.
+In this part you will respond to questions about your experience as it relates to the position for which you are applying. For each task question, choose the level description that best describes your experience and/or training. Your responses must be fully supported within the text of your resume. Failure to properly identify your experience may result in the lowering of your overall score and/or your disqualification for this position.
+3.
+You are tasked with simulating workforce attrition over a five-year period. Which modeling approach is most appropriate for capturing transitions between employment states?
+ Linear regression
+ Monte Carlo simulation
+ Markov chain modeling
+ Decision tree classification
+4.
+When validating a simulation model for personnel policy changes, which method best ensures the model's predictive reliability?
+ Compare simulated outcomes to historical averages.
+ Use out-of-sample testing and sensitivity analysis.
+ Review model assumptions with subject matter experts.
+ Accept results if they match stakeholder expectations.
+5.
+You need to model the impact of a new policy on workforce diversity. Which technique would best allow you to explore multiple scenarios and their potential outcomes?
+ Scenario-based simulation
+ Descriptive statistics
+ Random sampling
+ Logistic regression
+6.
+You are tasked with identifying latent groupings in a large, unlabeled dataset of personnel records. Which approach is most appropriate?
+ Principal Component Analysis (PCA)
+ K-means clustering
+ Logistic regression
+ Time series forecasting
+7.
+When validating a predictive model, which metric best assesses its accuracy for a classification problem?
+ Mean squared error
+ R-squared
+ Confusion matrix
+ Mode of the target variable
+8.
+You are evaluating the performance of a binary classification model for predicting employee attrition. Which metric would be most appropriate if the cost of false negatives (failing to identify someone who will leave) is much higher than false positives?
+ Overall accuracy
+ Area under the ROC curve (AUC)
+ Recall (Sensitivity)
+ Specificity
+9.
+When preparing data for a predictive workforce model, you discover several features have a high degree of multicollinearity. What is the best course of action?
+ Standardize all features to have zero mean and unit variance.
+ Remove or combine highly correlated features to reduce redundancy.
+ Increase the sample size to minimize the effect.
+ Ignore the issue if the model's accuracy is high.
+10.
+You are designing a data pipeline to integrate personnel data from multiple sources. Which practice best ensures data quality and consistency?
+ Apply basic data cleaning scripts to each source independently.
+ Implement standardized data validation and transformation rules across all sources.
+ Rely on source system documentation for data definitions.
+ Accept all incoming data without checks.
+11.
+You discover duplicate records in your personnel database. What is the most effective way to resolve this issue?
+ Ignore duplicates if they are not causing immediate problems.
+ Use automated deduplication algorithms based on unique identifiers and matching rules.
+ Manually review and delete duplicates.
+ Delete all records and start over.
+12.
+To ensure reproducibility of your analytics workflow, which practice is most important?
+ Save final results in a shared folder.
+ Document steps in a Word file.
+ Use version control (e.g., Git) and maintain code, data, and documentation together.
+ Rely on memory for workflow steps.
+13.
+When managing multiple research projects with competing deadlines, what is the best approach to ensure timely delivery and alignment with mission priorities?
+ Work on all projects simultaneously without prioritization.
+ Complete projects in the order they were assigned.
+ Assess project impact, urgency, and resource requirements; prioritize and develop a project plan with milestones and regular progress reviews.
+ Focus only on the project with the nearest deadline.
+14.
+You are preparing to present your research findings to senior leadership and policy analysts. Which practice best ensures your results are understood and actionable?
+ Email the full research paper to all stakeholders.
+ Summarize findings in a written report.
+ Tailor your presentation to the audience, using clear visuals, concise summaries, and actionable recommendations, while being prepared to answer technical questions.
+ Provide only raw data tables and technical details.
+15.
+You are evaluating new analytical tools and methodologies for potential adoption in your research portfolio. What is the best practice for making recommendations to leadership?
+ Recommend the newest tool without evaluation.
+ Select tools based on popularity in the industry.
+ Conduct a systematic evaluation of tools/methodologies, considering fit for mission needs, technical requirements, and potential impact; present evidence-based recommendations with pros and cons.
+ Choose tools based on personal preference.
