@@ -1,0 +1,37 @@
+Position Title
+DATA ANALYTICS SPECIALIST (TITLE 5)
+Agency
+Army National Guard Units
+Announcement Number
+MO-13100309-AR-26-238
+Open Period
+Oct 23, 2026 to Nov 13, 2026
+Preferences
+1.
+Choose one answer which best describes the category you fall into:
+ Permanent National Guard Title 5 employee currently working for the USPFO in Jefferson City, Missouri.
+ Indefinite National Guard Title 5 employee currently working for the USPFO in Jefferson City, Missouri.
+ None of the above.
+0101-12-T5827700-MONG
+.
+Respond to all the questions below. For each question, choose the response below that best describes your experience and/or training. Mark only one response for each question. Please note that your answers will be verified against the information you provide in your resume or application and information your references provide.
+1.
+Do you possess experience, education or training that provided you with a general knowledge of principles of organization, management, and administration; compiling reports, letters, memoranda, etc.; required person-to-person contacts to convey information; and experience using computer and automation systems?
+ Yes.
+ No.
+2.
+Do you possess one year of experience equivalent to at least the GS 11 grade level or pay band in the Federal Service or equivalent in the private or public sector that experience in program or managerial experience in a type of work or a combination of functions directly related to the position to be filled or in comparable work functions; experience developing and recommending policy; organizing and carrying out specific programs, evaluating and recommending changes in methods of operations? This specialized experience must also include knowledge of data analytics principles and policies and a working knowledge of software such as Power BI and other Power Platform tools.
+ Yes.
+ No.
+3.
+In detail, explain your experience using knowledge of innovative business intelligence, to create, prepare, design, test, validate and deploy superior quality, compelling insightful and timely delivered data visualization solutions from various sources, which are automated and sustainable.
+4.
+In detail, explain your experience using data analytic and business intelligent tools to develop custom workflows, other applications and to process numerous additional data analytics and management tasks.
+5.
+In detail, explain your experience conducting studies, identifing trends, risks, and themes based on data and information.
+6.
+In detail, explain your experience providing technical guidance in the development and review of policy and procedural issuances
+7.
+Do you certify that all of your responses to this questionnaire are true and accurate; and do you accept that if your supporting documentation does not support one or more of your responses to the questionnaire that your application may be rated lower or you may be removed from further consideration?
+ Yes.
+ No.
