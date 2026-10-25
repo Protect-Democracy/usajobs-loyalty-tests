@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "total_jobs": 308577,
+    "total_jobs": 308582,
     "cutoff_date": "2025-06-01",
-    "generation_date": "2026-10-24T10:29:22.508067"
+    "generation_date": "2026-10-25T10:14:43.838022"
   },
   "by_service_type": {
-    "Competitive": 196860,
-    "Excepted": 109983,
+    "Competitive": 196864,
+    "Excepted": 109984,
     "Senior Executive": 1734
   },
   "by_grade_level": {
@@ -14,7 +14,7 @@
     "GS-13": 23622,
     "GS-11": 16784,
     "VN-00": 15946,
-    "GS-9": 13423,
+    "GS-9": 13424,
     "GS-14": 13335,
     "GS-7": 11660,
     "GS-6": 10285,
@@ -24,7 +24,7 @@
     "GS-5": 6885,
     "WG-10": 5543,
     "NF-2": 4855,
-    "GS-8": 4201,
+    "GS-8": 4202,
     "GS-11/12": 4087,
     "NF-3": 3826,
     "GS-3/6": 3745,
@@ -54,11 +54,11 @@
     "Philadelphia, Pennsylvania": 1360
   },
   "by_agency": {
-    "Department of Veterans Affairs": 100364,
+    "Department of Veterans Affairs": 100365,
     "Department of the Air Force": 35176,
     "Department of the Navy": 33772,
     "Department of the Army": 31557,
-    "Department of Defense": 30088,
+    "Department of Defense": 30092,
     "Department of Justice": 15821,
     "Department of Homeland Security": 15092,
     "Other Agencies and Independent Organizations": 8463,
@@ -91,7 +91,7 @@
     "0201 - Human Resources Management": 4555,
     "0620 - Practical Nurse": 4277,
     "0801 - General Engineering": 4105,
-    "0180 - Psychology": 3806,
+    "0180 - Psychology": 3807,
     "0640 - Health Aid And Technician": 3570,
     "0905 - Attorney": 3551,
     "0501 - Financial Administration And Program": 3123,
