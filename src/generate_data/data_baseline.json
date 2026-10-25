@@ -1,8 +1,8 @@
 {
-  "created_at": "2026-10-24T07:23:31.406759",
+  "created_at": "2026-10-25T07:26:31.385813",
   "row_counts": {
     "current_jobs_2025.parquet": 87401,
-    "current_jobs_2026.parquet": 191594,
+    "current_jobs_2026.parquet": 191599,
     "historical_jobs_2026.parquet": 207480,
     "current_jobs_2024.parquet": 584,
     "historical_jobs_2024.parquet": 367186,
@@ -279006,7 +279006,12 @@
       "890149400",
       "890152400",
       "890174700",
-      "890174800"
+      "890174800",
+      "890107400",
+      "889885300",
+      "890178600",
+      "890178900",
+      "890179200"
     ],
     "historical_jobs_2026.parquet": [
       "847434900",
