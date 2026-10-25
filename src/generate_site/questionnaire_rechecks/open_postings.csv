@@ -41,7 +41,7 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 842910200,Department of the Air Force,FOOD SERVICE WORKER (MVO),2025-08-08,2026-10-30,True,False,False,False,https://www.usajobs.gov/job/842910200,,True
 844393000,Department of the Air Force,WAITER - MCGUIRE,2025-08-26,2026-10-30,True,False,False,False,https://www.usajobs.gov/job/844393000,,True
 845309600,Department of Homeland Security,Intelligence Research Specialist,2025-09-08,2026-11-12,True,False,False,False,https://www.usajobs.gov/job/845309600,,False
-846713900,Department of Transportation,Technical Operations (AJW) Airway Transportation Systems Specialist Employee Requested Reassignment,2025-09-29,2027-09-14,True,True,False,False,https://www.usajobs.gov/job/846713900,,False
+846713900,Department of Transportation,Technical Operations (AJW) Airway Transportation Systems Specialist Employee Requested Reassignment,2025-09-29,2027-09-14,True,False,True,False,https://www.usajobs.gov/job/846713900,,False
 846974600,Department of Homeland Security,Transportation Security Officer,2025-09-30,2026-11-30,True,False,True,False,https://www.usajobs.gov/job/846974600,,True
 847394000,Department of Homeland Security,Transportation Security Officer,2025-10-03,2026-10-26,True,False,True,False,https://www.usajobs.gov/job/847394000,,True
 848246200,Department of the Army,Marine Equipment Repairer/Operator (Dual Rate),2025-10-16,2026-10-28,True,False,False,False,https://www.usajobs.gov/job/848246200,,True
@@ -112,10 +112,10 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 852147800,Department of the Navy,NONDESTRUCTIVE TEST EXAMINING WORKER,2025-12-12,2026-12-11,True,False,False,False,https://www.usajobs.gov/job/852147800,,True
 852207800,Department of Veterans Affairs,Nurse Anesthetist (Intermittent),2025-12-11,2026-12-02,True,False,False,False,https://www.usajobs.gov/job/852207800,,True
 852268200,Other Agencies and Independent Organizations,NRO OIG Auditor,2025-10-01,2027-01-31,False,,,,https://www.usajobs.gov/job/852268200,,
-852270000,Department of Transportation,Public Notice for General Engineer (Direct Hire),2025-12-12,2026-12-11,True,True,False,False,https://www.usajobs.gov/job/852270000,,False
-852270300,Department of Transportation,Public Notice for General Engineer (Direct Hire),2025-12-12,2026-12-11,True,True,False,False,https://www.usajobs.gov/job/852270300,,False
-852272900,Department of Transportation,Public Notice for Aerospace Engineer (Direct Hire),2025-12-12,2026-12-11,True,True,False,False,https://www.usajobs.gov/job/852272900,,False
-852274600,Department of Transportation,Public Notice for Aerospace Engineer (Direct Hire),2025-12-12,2026-12-11,True,True,False,False,https://www.usajobs.gov/job/852274600,,False
+852270000,Department of Transportation,Public Notice for General Engineer (Direct Hire),2025-12-12,2026-12-11,True,False,True,False,https://www.usajobs.gov/job/852270000,,False
+852270300,Department of Transportation,Public Notice for General Engineer (Direct Hire),2025-12-12,2026-12-11,True,False,True,False,https://www.usajobs.gov/job/852270300,,False
+852272900,Department of Transportation,Public Notice for Aerospace Engineer (Direct Hire),2025-12-12,2026-12-11,True,False,True,False,https://www.usajobs.gov/job/852272900,,False
+852274600,Department of Transportation,Public Notice for Aerospace Engineer (Direct Hire),2025-12-12,2026-12-11,True,False,True,False,https://www.usajobs.gov/job/852274600,,False
 852344200,Department of the Navy,NONDESTRUCTIVE TEST EXAMINER,2025-12-15,2026-12-14,True,False,True,False,https://www.usajobs.gov/job/852344200,,True
 852353600,Department of Defense,Contract Specialist (12 Month Register),2025-12-12,2026-12-10,True,False,True,False,https://www.usajobs.gov/job/852353600,,True
 852368000,Other Agencies and Independent Organizations,NRO OIG Inspector,2025-10-01,2027-01-31,False,,,,https://www.usajobs.gov/job/852368000,,
@@ -297,7 +297,7 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 856812500,Department of the Air Force,AIRCRAFT LOADMASTER (TITLE 32),2026-02-13,2027-02-12,True,False,False,False,https://www.usajobs.gov/job/856812500,,True
 856867900,Department of the Army,Bartender NA-03,2026-02-06,2026-12-31,True,False,False,False,https://www.usajobs.gov/job/856867900,,True
 856893100,Department of the Army,Cook NA-04,2026-02-06,2026-11-04,True,False,False,False,https://www.usajobs.gov/job/856893100,,True
-856925000,Department of Transportation,Public Notice for Medical Officer (Direct Hire),2026-02-07,2027-02-07,True,True,False,False,https://www.usajobs.gov/job/856925000,,False
+856925000,Department of Transportation,Public Notice for Medical Officer (Direct Hire),2026-02-07,2027-02-07,True,False,True,False,https://www.usajobs.gov/job/856925000,,False
 856925300,Department of Transportation,Public Notice for Airplane Pilot (Direct Hire),2026-02-07,2027-03-22,False,,,,https://www.usajobs.gov/job/856925300,,
 856965900,Department of the Air Force,POLICE OFFICER (TITLE 32),2026-01-30,2027-01-29,True,False,False,False,https://www.usajobs.gov/job/856965900,,True
 856974100,Department of Veterans Affairs,CHIEF ORTHOPEDIC SURGEON,2026-02-09,2027-02-05,True,False,False,False,https://www.usajobs.gov/job/856974100,,False
@@ -348,12 +348,12 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 858552200,Department of the Army,Veterinary Medical Officer,2026-02-23,2027-02-22,True,False,True,False,https://www.usajobs.gov/job/858552200,,False
 858558200,Department of the Air Force,OPERATIONS OFFICER - TITLE 32,2026-02-26,2026-12-31,True,False,False,False,https://www.usajobs.gov/job/858558200,,True
 858561500,Department of the Navy,CONSTRUCTION MANAGEMENT SPECIALIST,2026-02-24,2027-02-23,True,False,True,False,https://www.usajobs.gov/job/858561500,,False
-858633700,Department of Transportation,Public Notice for Mechanical Engineer (Direct Hire),2026-02-24,2027-02-23,True,True,False,False,https://www.usajobs.gov/job/858633700,,False
-858635700,Department of Transportation,Public Notice for Electrical Engineer (Direct Hire),2026-02-24,2027-02-23,True,True,False,False,https://www.usajobs.gov/job/858635700,,False
-858636600,Department of Transportation,Public Notice for Computer Engineer (Direct Hire),2026-02-24,2027-02-23,True,True,False,False,https://www.usajobs.gov/job/858636600,,False
+858633700,Department of Transportation,Public Notice for Mechanical Engineer (Direct Hire),2026-02-24,2027-02-23,True,False,True,False,https://www.usajobs.gov/job/858633700,,False
+858635700,Department of Transportation,Public Notice for Electrical Engineer (Direct Hire),2026-02-24,2027-02-23,True,False,True,False,https://www.usajobs.gov/job/858635700,,False
+858636600,Department of Transportation,Public Notice for Computer Engineer (Direct Hire),2026-02-24,2027-02-23,True,False,True,False,https://www.usajobs.gov/job/858636600,,False
 858646800,Department of the Air Force,CHILD AND YOUTH PROGRAM ASSISTANT (ENTRY LEVEL),2026-02-24,2026-12-31,True,False,False,False,https://www.usajobs.gov/job/858646800,,True
-858672400,Department of Transportation,Public Notice for Electronics Engineer (Direct Hire),2026-02-24,2027-02-23,True,True,False,False,https://www.usajobs.gov/job/858672400,,False
-858682400,Department of Transportation,Public Notice for Electronics Engineer (Direct Hire),2026-02-24,2027-02-23,True,True,False,False,https://www.usajobs.gov/job/858682400,,False
+858672400,Department of Transportation,Public Notice for Electronics Engineer (Direct Hire),2026-02-24,2027-02-23,True,False,True,False,https://www.usajobs.gov/job/858672400,,False
+858682400,Department of Transportation,Public Notice for Electronics Engineer (Direct Hire),2026-02-24,2027-02-23,True,False,True,False,https://www.usajobs.gov/job/858682400,,False
 858686300,Department of Defense,PHYSICIAN (NEUROLOGY),2026-02-25,2026-10-30,True,False,True,False,https://www.usajobs.gov/job/858686300,,True
 858693800,Department of Transportation,Public Notice for Engineering Technician (Direct Hire),2026-02-24,2027-02-23,False,,,,https://www.usajobs.gov/job/858693800,,
 858760900,Department of the Air Force,AIR BATTLE MANAGER (INSTRUCTOR) - TITLE 32,2026-02-27,2026-12-31,True,False,False,False,https://www.usajobs.gov/job/858760900,,True
@@ -613,7 +613,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 863852100,Department of Homeland Security,Transportation Security Officer,2026-04-03,2026-11-16,True,False,True,False,https://www.usajobs.gov/job/863852100,,True
 863938500,Department of Defense,Practical Nurse (Family Medicine),2026-04-03,2026-12-31,True,False,True,False,https://www.usajobs.gov/job/863938500,,True
 863940000,Judicial Branch,Administrative Analyst / Executive Assistant to the Clerk,2026-04-03,2027-04-02,False,,,,https://www.usajobs.gov/job/863940000,,
-863953400,Department of Defense,Research Psychologist,2026-04-06,2026-10-24,False,,,,https://www.usajobs.gov/job/863953400,,
 864107100,Department of the Air Force,Custodial Worker,2026-04-07,2026-10-27,True,False,False,False,https://www.usajobs.gov/job/864107100,,True
 864199400,Department of the Army,Recreation Assistant (Head Lifeguard) NF-02,2026-04-07,2026-11-02,True,False,False,False,https://www.usajobs.gov/job/864199400,,True
 864236300,Department of Defense,Physician (Family Medicine),2026-04-08,2026-10-29,True,False,True,False,https://www.usajobs.gov/job/864236300,,True
@@ -627,7 +626,7 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 864412900,Department of the Army,EQUAL EMPLOYMENT MANAGER,2026-04-08,2026-11-22,True,False,True,False,https://www.usajobs.gov/job/864412900,,False
 864439600,Department of Justice,Assistant United States Attorney,2026-04-08,2027-04-07,True,False,True,False,https://www.usajobs.gov/job/864439600,,False
 864449800,Department of Defense,Diagnostic Radiologic Technologist (MRI),2026-04-09,2026-12-31,True,False,True,False,https://www.usajobs.gov/job/864449800,,True
-864463400,Department of Transportation,Public Notice for Chemist (Direct Hire),2026-04-09,2027-04-08,True,True,False,False,https://www.usajobs.gov/job/864463400,,False
+864463400,Department of Transportation,Public Notice for Chemist (Direct Hire),2026-04-09,2027-04-08,True,False,True,False,https://www.usajobs.gov/job/864463400,,False
 864485700,Department of the Air Force,RECREATION AID (LIFEGUARD),2026-04-08,2026-10-30,True,False,False,False,https://www.usajobs.gov/job/864485700,,True
 864512900,Department of the Air Force,Child Development Specialist,2026-04-09,2027-04-08,True,False,True,False,https://www.usajobs.gov/job/864512900,,True
 864528500,Department of the Navy,POLICE OFFICER,2026-04-13,2027-04-07,False,,,,https://www.usajobs.gov/job/864528500,,
@@ -638,10 +637,10 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 864739300,Department of Homeland Security,Transportation Security Officer,2026-04-10,2026-10-28,True,False,True,False,https://www.usajobs.gov/job/864739300,,True
 864800400,Department of the Army,Food and Beverage Attendant NA-03,2026-04-10,2026-12-31,True,False,False,False,https://www.usajobs.gov/job/864800400,,True
 864887500,Department of the Army,PHYSICIAN (DISABILITY EVALUATION),2026-04-13,2026-12-31,True,False,False,False,https://www.usajobs.gov/job/864887500,,True
-864890800,Department of Transportation,Public Notice for Civil Engineer (Direct Hire),2026-04-14,2027-04-13,True,True,False,False,https://www.usajobs.gov/job/864890800,,False
-864894100,Department of Transportation,Public Notice for Safety Engineer (Direct Hire),2026-04-14,2027-04-13,True,True,False,False,https://www.usajobs.gov/job/864894100,,False
-864906500,Department of Transportation,Public Notice for Industrial Engineer (Direct Hire),2026-04-14,2027-04-13,True,True,False,False,https://www.usajobs.gov/job/864906500,,False
-864912000,Department of Transportation,Public Notice for Environmental Engineer (Direct Hire),2026-04-14,2027-04-13,True,True,False,False,https://www.usajobs.gov/job/864912000,,False
+864890800,Department of Transportation,Public Notice for Civil Engineer (Direct Hire),2026-04-14,2027-04-13,True,False,True,False,https://www.usajobs.gov/job/864890800,,False
+864894100,Department of Transportation,Public Notice for Safety Engineer (Direct Hire),2026-04-14,2027-04-13,True,False,True,False,https://www.usajobs.gov/job/864894100,,False
+864906500,Department of Transportation,Public Notice for Industrial Engineer (Direct Hire),2026-04-14,2027-04-13,True,False,True,False,https://www.usajobs.gov/job/864906500,,False
+864912000,Department of Transportation,Public Notice for Environmental Engineer (Direct Hire),2026-04-14,2027-04-13,True,False,True,False,https://www.usajobs.gov/job/864912000,,False
 864984900,Department of the Army,AIRCRAFT MECHANIC (UH-72A),2026-04-13,2027-04-12,True,False,False,False,https://www.usajobs.gov/job/864984900,,False
 864998200,Department of the Air Force,AIRCRAFT ENGINE MECHANIC,2026-04-13,2026-11-12,True,False,True,False,https://www.usajobs.gov/job/864998200,,False
 865062100,Department of the Army,INTERNATIONAL PARTNERSHIP SPECIALIST (TITLE 32),2026-04-14,2027-04-13,True,False,False,False,https://www.usajobs.gov/job/865062100,,True
@@ -687,7 +686,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 866381600,Department of the Army,Child and Youth Program Assistant CY-01/02,2026-04-23,2026-12-31,True,False,False,False,https://www.usajobs.gov/job/866381600,,True
 866382300,Department of the Army,Child and Youth Program Assistant CY-01/02,2026-04-23,2026-12-31,True,False,False,False,https://www.usajobs.gov/job/866382300,,True
 866382900,Department of the Army,Child and Youth Program Assistant CY-01/02,2026-04-23,2026-12-31,True,False,False,False,https://www.usajobs.gov/job/866382900,,True
-866394400,Department of the Navy,REGIONAL EMERGENCY RESPONSE DISPATCHER,2026-04-27,2026-10-24,False,,,,https://www.usajobs.gov/job/866394400,,
 866443700,Department of the Army,Lead Child and Youth Program Assistant CY-02,2026-04-23,2026-12-28,True,False,False,False,https://www.usajobs.gov/job/866443700,,True
 866444600,Department of the Army,Child and Youth Program Assistant CY-01/02,2026-04-23,2026-12-28,True,False,False,False,https://www.usajobs.gov/job/866444600,,True
 866452800,Department of the Army,Child and Youth Program Assistant CY-01/02,2026-04-23,2026-12-28,True,False,False,False,https://www.usajobs.gov/job/866452800,,True
@@ -1060,7 +1058,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 871359000,Department of Defense,Store Worker,2026-06-01,2027-05-31,True,False,False,False,https://www.usajobs.gov/job/871359000,,True
 871380700,Department of Veterans Affairs,Physician (Neurology),2026-06-02,2026-12-31,True,False,False,False,https://www.usajobs.gov/job/871380700,,False
 871423900,Department of the Air Force,Custodial Worker (Housekeeper),2026-06-02,2026-12-07,True,False,False,False,https://www.usajobs.gov/job/871423900,,True
-871434800,Department of the Army,PRODUCTION CONTROLLER,2026-06-03,2026-10-24,True,False,False,False,https://www.usajobs.gov/job/871434800,,True
 871457500,Department of Veterans Affairs,Physician Cardiologist,2026-05-29,2026-12-02,True,False,False,False,https://www.usajobs.gov/job/871457500,,False
 871467100,Department of the Navy,SUPERVISORY LEAD EDUCATOR NF4,2026-06-02,2026-11-29,False,,,,https://www.usajobs.gov/job/871467100,,
 871475500,Department of Veterans Affairs,Dental Hygienist - Recruitment/Relocation Incentive,2026-06-02,2026-12-03,True,False,False,False,https://www.usajobs.gov/job/871475500,,True
@@ -1408,7 +1405,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 875281400,Department of the Air Force,Custodial Worker (Housekeeping - Non-Driving),2026-07-01,2026-11-19,True,False,False,False,https://www.usajobs.gov/job/875281400,,True
 875281600,Department of the Air Force,Custodial Worker (Housekeeping-Driving),2026-07-01,2026-11-19,True,False,False,False,https://www.usajobs.gov/job/875281600,,True
 875281900,Department of the Air Force,Guest Services Representative,2026-07-01,2026-11-19,True,False,False,False,https://www.usajobs.gov/job/875281900,,True
-875297900,Department of the Air Force,TRAFFIC MANAGEMENT SPECIALIST (Title 32),2026-07-02,2026-10-24,True,False,False,False,https://www.usajobs.gov/job/875297900,,False
 875310200,Department of Defense,Optometrist,2026-07-07,2026-10-27,True,False,True,False,https://www.usajobs.gov/job/875310200,,True
 875311900,Department of the Army,"Custodial Worker (Housekeeping), NA-02",2026-07-06,2026-12-28,False,,,,https://www.usajobs.gov/job/875311900,,
 875313400,Department of Veterans Affairs,Therapeutic Medical Physicist (Advanced Level),2026-07-02,2026-12-01,True,False,False,False,https://www.usajobs.gov/job/875313400,,True
@@ -1660,7 +1656,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 877977200,Department of Homeland Security,Transportation Security Officer,2026-07-24,2026-11-19,True,False,True,False,https://www.usajobs.gov/job/877977200,,True
 877979100,Department of Homeland Security,Transportation Security Officer,2026-07-24,2026-11-19,True,False,True,False,https://www.usajobs.gov/job/877979100,,True
 878003400,Department of the Army,SOCIAL WORKER,2026-07-24,2027-07-23,True,False,False,False,https://www.usajobs.gov/job/878003400,,True
-878006100,Department of the Air Force,Maintenance Worker,2026-07-24,2026-10-24,True,False,False,False,https://www.usajobs.gov/job/878006100,,True
 878010700,Department of the Army,Cook NA-04,2026-07-24,2026-12-31,True,False,False,False,https://www.usajobs.gov/job/878010700,,True
 878040700,Judicial Branch,Counsel,2026-07-31,2027-07-30,True,False,False,False,https://www.usajobs.gov/job/878040700,,True
 878041000,Department of Veterans Affairs,Primary Care Physician (Camdenton) PCS Authorized,2026-07-27,2026-12-04,True,False,False,False,https://www.usajobs.gov/job/878041000,,False
@@ -1962,7 +1957,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 880441700,Department of the Army,AUDITOR (PERFORMANCE),2026-10-14,2026-10-29,True,False,False,False,https://www.usajobs.gov/job/880441700,,True
 880453700,Department of the Air Force,UNIT PROGRAM COORDINATOR (TITLE 32),2026-08-17,2027-08-16,True,False,False,False,https://www.usajobs.gov/job/880453700,,True
 880490300,Other Agencies and Independent Organizations,Student Trainee (Compliance and Policy),2026-08-13,2026-12-31,False,,,,https://www.usajobs.gov/job/880490300,,
-880492300,Department of the Navy,Child & Youth Program Assistant CY1/CY2,2026-08-13,2026-10-24,False,,,,https://www.usajobs.gov/job/880492300,,
 880496700,Department of Health and Human Services,Health Technician (EMT),2026-08-13,2026-10-27,True,False,True,False,https://www.usajobs.gov/job/880496700,,True
 880497100,Department of Health and Human Services,Social Worker,2026-08-13,2026-11-20,True,False,True,False,https://www.usajobs.gov/job/880497100,,True
 880517000,Department of the Army,SURFACE MAINTENANCE MECHANIC (TITLE 32),2026-08-14,2027-08-13,True,False,False,False,https://www.usajobs.gov/job/880517000,,True
@@ -1977,7 +1971,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 880604300,Department of Homeland Security,Transportation Security Officer,2026-08-14,2026-11-13,True,False,True,False,https://www.usajobs.gov/job/880604300,,True
 880607300,Department of Defense,Physician (Internal Medicine),2026-08-14,2026-10-26,True,False,True,False,https://www.usajobs.gov/job/880607300,,True
 880609300,Department of Transportation,Aviation Safety Inspector (AC - Flight Oversight AQPM),2026-08-17,2026-10-26,False,,,,https://www.usajobs.gov/job/880609300,,
-880629200,Department of the Air Force,COOK - BARISTA,2026-08-14,2026-10-24,True,False,False,False,https://www.usajobs.gov/job/880629200,,True
 880630000,Department of the Air Force,Food Service Worker,2026-08-14,2026-11-14,True,False,False,False,https://www.usajobs.gov/job/880630000,,True
 880633100,Department of Veterans Affairs,Staff Physician/Cardiac Anesthesiology,2026-08-14,2027-08-13,True,False,False,False,https://www.usajobs.gov/job/880633100,,False
 880638300,Department of Veterans Affairs,Nursing Assistant (Intermittent),2026-08-14,2026-11-30,True,False,False,False,https://www.usajobs.gov/job/880638300,,True
@@ -2024,7 +2017,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 880853100,Department of the Air Force,INVESTIGATIONS AND INQUIRIES SPECIALIST - DIRECT HIRE AUTHORITY,2026-08-17,2026-12-15,True,False,True,False,https://www.usajobs.gov/job/880853100,,True
 880856600,Department of Homeland Security,Transportation Security Officer,2026-08-17,2026-10-29,True,False,True,False,https://www.usajobs.gov/job/880856600,,True
 880867700,Department of the Army,Cook NA-04,2026-08-18,2026-11-16,True,False,False,False,https://www.usajobs.gov/job/880867700,,True
-880894900,Department of the Navy,MWR Food Service Worker - Bowling Alley Snack Bars,2026-08-17,2026-10-24,True,False,True,False,https://www.usajobs.gov/job/880894900,,True
 880899000,Department of Veterans Affairs,Physician (Radiology-Diagnostic),2026-08-17,2026-12-31,True,False,False,False,https://www.usajobs.gov/job/880899000,,False
 880903700,Department of the Air Force,AIRCRAFT OVERHAUL SUPERVISOR,2026-08-18,2027-08-17,True,False,True,False,https://www.usajobs.gov/job/880903700,,True
 880904300,Department of Veterans Affairs,Diagnostic Radiologic Technologist,2026-08-18,2026-12-01,True,False,False,False,https://www.usajobs.gov/job/880904300,,True
@@ -2204,7 +2196,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 881982700,Department of Veterans Affairs,Physician (Vascular Surgeon)- Recruitment/Relocation Incentive/EDRP Authorized,2026-08-25,2027-01-11,True,False,False,False,https://www.usajobs.gov/job/881982700,,False
 881982800,Department of Homeland Security,Utility Systems Operator,2026-08-25,2026-11-25,True,False,True,False,https://www.usajobs.gov/job/881982800,,True
 881989900,Department of the Navy,CYP Assistant Multi-level,2026-08-26,2026-10-30,True,False,False,False,https://www.usajobs.gov/job/881989900,,True
-882007300,Judicial Branch,Courtroom Technology Specialist,2026-08-14,2026-12-14,False,,,,https://www.usajobs.gov/job/882007300,,
 882007600,Department of Defense,Health Technician (Dietetic),2026-08-27,2027-02-27,True,False,True,False,https://www.usajobs.gov/job/882007600,,True
 882008700,Department of the Air Force,Recreation Aid,2026-08-25,2026-11-27,True,False,False,False,https://www.usajobs.gov/job/882008700,,True
 882017400,Department of Defense,Medical Technician,2026-08-27,2027-02-27,True,False,True,False,https://www.usajobs.gov/job/882017400,,True
@@ -2348,7 +2339,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 882828700,Department of Defense,Diagnostic Radiologic Technologist,2026-09-01,2026-12-31,True,False,True,False,https://www.usajobs.gov/job/882828700,,True
 882829700,Department of Veterans Affairs,Physician (Supervisory Psychiatrist) - Recruitment Incentive/EDRP Authorized,2026-08-31,2026-12-31,True,False,False,False,https://www.usajobs.gov/job/882829700,,False
 882831800,Department of Defense,Nuclear Medicine Technician,2026-09-01,2026-11-02,True,False,True,False,https://www.usajobs.gov/job/882831800,,True
-882841300,Department of the Navy,CYP Leader - May be eligible for 1000.00 Incentive at 6 mo. and 1 year,2026-08-31,2026-10-24,True,False,False,False,https://www.usajobs.gov/job/882841300,,True
 882843500,Department of the Army,Fire Protection Engineer,2026-09-01,2026-11-06,True,False,True,False,https://www.usajobs.gov/job/882843500,,False
 882846200,Department of the Army,SOCIAL WORKER (T5),2026-08-31,2026-11-05,True,False,False,False,https://www.usajobs.gov/job/882846200,,True
 882854400,Department of the Air Force,Gardener,2026-08-31,2026-11-30,True,False,False,False,https://www.usajobs.gov/job/882854400,,True
@@ -2497,8 +2487,8 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 883524700,Department of Defense,PHYSICIAN (OBSTETRICS/GYNECOLOGY),2026-09-03,2026-12-04,True,False,True,False,https://www.usajobs.gov/job/883524700,,True
 883535000,Department of the Army,EQUIPMENT SPECIALIST-TITLE 32,2026-09-03,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/883535000,,False
 883545000,Department of the Army,Animal Caretaker NA-03,2026-09-03,2026-10-28,True,False,False,False,https://www.usajobs.gov/job/883545000,,True
-883547700,Department of Transportation,Aviation Safety Inspector (General Aviation - Operations),2026-09-04,2026-10-26,True,True,False,False,https://www.usajobs.gov/job/883547700,,False
-883549400,Department of Transportation,Aviation Safety Inspector (General Aviation Operations),2026-09-04,2026-10-26,True,True,False,False,https://www.usajobs.gov/job/883549400,,False
+883547700,Department of Transportation,Aviation Safety Inspector (General Aviation - Operations),2026-09-04,2026-10-26,True,False,True,False,https://www.usajobs.gov/job/883547700,,False
+883549400,Department of Transportation,Aviation Safety Inspector (General Aviation Operations),2026-09-04,2026-10-26,True,False,True,False,https://www.usajobs.gov/job/883549400,,False
 883555600,Department of Veterans Affairs,Physician (Psychiatry),2026-09-03,2026-12-31,True,False,False,False,https://www.usajobs.gov/job/883555600,,False
 883557100,Department of Veterans Affairs,Diagnostic Radiologic Technologist (Advanced) - Computed Tomography,2026-09-04,2026-12-04,True,False,False,False,https://www.usajobs.gov/job/883557100,,True
 883563700,Department of the Army,First Assistant Engineer Hopper Dredge Dual Rate,2026-09-04,2026-11-04,True,False,False,False,https://www.usajobs.gov/job/883563700,,True
@@ -2598,7 +2588,7 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 884051200,Department of the Air Force,RECORDS & INFO MANAGEMENT SPECIALIST (KNOWLEDGE MANAGEMENT),2026-09-09,2026-11-12,True,False,True,False,https://www.usajobs.gov/job/884051200,,False
 884057400,Department of the Air Force,LABORER,2026-09-09,2026-12-09,True,False,False,False,https://www.usajobs.gov/job/884057400,,True
 884060400,Legislative Branch,Elevator Mechanic (Electronics),2026-09-10,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/884060400,,True
-884062700,Department of Transportation,Management and Program Assistant,2026-09-10,2026-10-26,True,True,False,False,https://www.usajobs.gov/job/884062700,,False
+884062700,Department of Transportation,Management and Program Assistant,2026-09-10,2026-10-26,True,False,True,False,https://www.usajobs.gov/job/884062700,,False
 884066100,Department of Veterans Affairs,Dietitian (Clinical),2026-09-10,2026-10-30,True,False,False,False,https://www.usajobs.gov/job/884066100,,True
 884066400,Department of Veterans Affairs,Dietitian (Clinical),2026-09-10,2026-10-30,True,False,False,False,https://www.usajobs.gov/job/884066400,,True
 884066600,Department of Homeland Security,Transportation Security Officer,2026-09-10,2026-11-06,True,False,True,False,https://www.usajobs.gov/job/884066600,,True
@@ -2706,7 +2696,7 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 884595000,Department of Veterans Affairs,Physician (Primary Care),2026-09-14,2026-10-30,True,False,False,False,https://www.usajobs.gov/job/884595000,,False
 884597800,Department of the Air Force,Child and Youth Program Assistant,2026-09-14,2027-03-12,True,False,False,False,https://www.usajobs.gov/job/884597800,,True
 884609000,Department of the Air Force,HR SPEC (MILITARY),2026-09-14,2026-11-16,True,False,False,False,https://www.usajobs.gov/job/884609000,,False
-884611500,Department of Transportation,Supervisory Aviation Technical Systems Specialist (OESG Manager),2026-09-15,2026-10-31,True,True,False,False,https://www.usajobs.gov/job/884611500,,False
+884611500,Department of Transportation,Supervisory Aviation Technical Systems Specialist (OESG Manager),2026-09-15,2026-10-31,True,False,True,False,https://www.usajobs.gov/job/884611500,,False
 884612800,Department of Defense,Practical Nurse (Outpatient),2026-09-14,2026-10-27,True,False,True,False,https://www.usajobs.gov/job/884612800,,True
 884613300,Department of Justice,Trial Attorney - Environmental Crimes Section,2026-09-16,2026-11-16,False,,,,https://www.usajobs.gov/job/884613300,,
 884618300,Department of Veterans Affairs,Physician (Primary Care),2026-09-14,2026-10-30,True,False,False,False,https://www.usajobs.gov/job/884618300,,False
@@ -2736,7 +2726,7 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 884774300,Department of Veterans Affairs,Physician (Gastroenterology) - EDRP and Recruitment/Relocation May be Authorized,2026-09-15,2026-12-18,True,False,False,False,https://www.usajobs.gov/job/884774300,,False
 884789100,Department of Defense,GENERAL ATTORNEY,2026-09-16,2026-11-16,False,,,,https://www.usajobs.gov/job/884789100,,
 884791300,Department of the Air Force,AIRCRAFT SURVIVAL FLIGHT EQUIPMENT REPAIRER,2026-09-16,2026-10-27,True,False,False,False,https://www.usajobs.gov/job/884791300,,False
-884794600,Department of Transportation,Aviation Safety Inspector  (General Aviation - Operations),2026-09-16,2026-11-05,True,True,False,False,https://www.usajobs.gov/job/884794600,,False
+884794600,Department of Transportation,Aviation Safety Inspector  (General Aviation - Operations),2026-09-16,2026-11-05,True,False,True,False,https://www.usajobs.gov/job/884794600,,False
 884796900,Department of Veterans Affairs,Physician-Psychiatrist,2026-09-15,2026-10-30,True,False,False,False,https://www.usajobs.gov/job/884796900,,False
 884808300,Department of the Navy,CYP Food Service Worker,2026-09-15,2026-10-29,True,False,False,False,https://www.usajobs.gov/job/884808300,,True
 884811500,Department of Defense,Practical Nurse (Outpatient),2026-09-16,2027-01-31,True,False,True,False,https://www.usajobs.gov/job/884811500,,True
@@ -2802,7 +2792,7 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 885069300,Department of the Air Force,COOK,2026-09-16,2026-10-28,True,False,False,False,https://www.usajobs.gov/job/885069300,,True
 885071100,Department of the Navy,SUPERVISORY ENGINEER OR SCIENTIST,2026-09-17,2027-09-16,False,,,,https://www.usajobs.gov/job/885071100,,
 885077600,Department of the Navy,Embedded Integrated Prevention Coordinator,2026-09-16,2026-11-01,True,False,True,False,https://www.usajobs.gov/job/885077600,,False
-885078300,Department of Transportation,"Aviation Safety Inspector (OPS), FAASTeam Program Manager, Greater Chicago FSDO, GLSD07",2026-09-17,2026-10-30,True,True,False,False,https://www.usajobs.gov/job/885078300,,False
+885078300,Department of Transportation,"Aviation Safety Inspector (OPS), FAASTeam Program Manager, Greater Chicago FSDO, GLSD07",2026-09-17,2026-10-30,True,False,True,False,https://www.usajobs.gov/job/885078300,,False
 885078600,Department of the Army,HOLISTIC HEALTH AND FITNESS PROGRAM DIRECTOR,2026-10-23,2026-10-30,True,False,True,False,https://www.usajobs.gov/job/885078600,,True
 885082800,Department of the Navy,Fitness Assistant,2026-09-17,2026-12-31,True,False,False,False,https://www.usajobs.gov/job/885082800,,True
 885090700,Other Agencies and Independent Organizations,Laborer ,2026-09-17,2027-02-17,True,False,False,False,https://www.usajobs.gov/job/885090700,,True
@@ -3031,7 +3021,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 885881300,Department of the Army,SHEET METAL MECHANIC (AIRCRAFT) TITLE 32,2026-09-25,2027-09-24,True,False,False,False,https://www.usajobs.gov/job/885881300,,True
 885881700,Department of Defense,School Principal (Elementary/Middle/High),2026-10-01,2027-03-31,True,False,False,False,https://www.usajobs.gov/job/885881700,,True
 885882100,Department of Defense,Assistant Principal (Elementary/Middle/High/Special Education),2026-10-01,2027-03-31,True,False,False,False,https://www.usajobs.gov/job/885882100,,True
-885885000,Department of Homeland Security,IHSC Special Operations Unit Section Chief (O-6 Billet) Supervisory,2026-09-24,2026-10-24,False,,,,https://www.usajobs.gov/job/885885000,,
 885885600,Department of the Air Force,Air Traffic Control Specialist (Terminal),2026-09-22,2027-09-21,True,False,True,False,https://www.usajobs.gov/job/885885600,,True
 885886200,Department of the Army,RANGE OPERATIONS TECHNICIAN (TITLE 32),2026-09-25,2027-09-24,True,False,False,False,https://www.usajobs.gov/job/885886200,,True
 885895000,Department of the Army,Emergency Medical Technician (Paramedic/MVO),2026-09-23,2026-10-26,True,False,True,False,https://www.usajobs.gov/job/885895000,,True
@@ -3093,9 +3082,7 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 886111700,Department of the Army,SURFACE MAINTENANCE MECHANIC - TITLE 32,2026-09-29,2026-12-31,True,False,False,False,https://www.usajobs.gov/job/886111700,,True
 886114700,Department of Defense,Clinical Laboratory Scientist,2026-09-24,2026-10-28,True,False,True,False,https://www.usajobs.gov/job/886114700,,True
 886114800,Department of the Army,Veterinarian NF-04,2026-09-24,2026-10-29,True,False,True,False,https://www.usajobs.gov/job/886114800,,True
-886115500,Department of the Army,PROGRAM ANALYST (T32),2026-09-24,2026-10-24,True,False,False,False,https://www.usajobs.gov/job/886115500,,True
 886118700,Department of Veterans Affairs,Senior Social Worker - Outpatient Substance Use Disorders Program,2026-09-24,2026-12-01,True,False,False,False,https://www.usajobs.gov/job/886118700,,True
-886119400,Department of the Navy,Business Manager,2026-09-24,2026-10-24,True,False,True,False,https://www.usajobs.gov/job/886119400,,True
 886121200,Department of Veterans Affairs,Senior Social Worker- Primary Care Mental Health Integration,2026-09-24,2026-11-05,True,False,False,False,https://www.usajobs.gov/job/886121200,,True
 886123100,Department of Veterans Affairs,Physician GI & Hepatology Section Chief,2026-09-24,2026-10-30,True,False,False,False,https://www.usajobs.gov/job/886123100,,False
 886123300,Department of Veterans Affairs,Staff Psychologist - Primary Care Mental Health Integration,2026-09-24,2026-11-05,True,False,False,False,https://www.usajobs.gov/job/886123300,,True
@@ -3104,11 +3091,8 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 886128200,Department of Health and Human Services,Dentist (Pediatric),2026-09-25,2026-10-30,True,False,True,False,https://www.usajobs.gov/job/886128200,,True
 886134500,Department of the Army,SURFACE MAINTENANCE MECHANIC INSPECTOR - TITLE 32,2026-09-29,2026-12-31,True,False,False,False,https://www.usajobs.gov/job/886134500,,True
 886136500,Department of Veterans Affairs,Audiologist (Recruitment/Relocation Incentive),2026-09-24,2026-12-23,True,False,False,False,https://www.usajobs.gov/job/886136500,,True
-886136800,Other Agencies and Independent Organizations,STATISTICIAN,2026-09-24,2026-10-24,True,False,True,False,https://www.usajobs.gov/job/886136800,,True
 886137900,Department of Veterans Affairs,Physical Therapist,2026-09-24,2026-12-31,True,False,False,False,https://www.usajobs.gov/job/886137900,,True
-886139400,Other Agencies and Independent Organizations,STATISTICIAN,2026-09-24,2026-10-24,True,False,True,False,https://www.usajobs.gov/job/886139400,,True
 886139600,Department of the Air Force,Paralegal Specialist Direct Hire Authority,2026-09-24,2027-01-22,True,False,True,False,https://www.usajobs.gov/job/886139600,,True
-886141000,Department of the Navy,CYP Child and Youth Program Leader,2026-09-24,2026-10-24,True,False,False,False,https://www.usajobs.gov/job/886141000,,False
 886141200,Department of the Army,Aircraft Mechanic (Title 32),2026-09-28,2026-11-06,True,False,False,False,https://www.usajobs.gov/job/886141200,,True
 886142400,Department of the Air Force,Custodial Worker (Club Complex),2026-09-24,2026-12-24,True,False,False,False,https://www.usajobs.gov/job/886142400,,True
 886151300,Department of Homeland Security,Transportation Security Officer,2026-09-24,2026-11-20,True,False,True,False,https://www.usajobs.gov/job/886151300,,True
@@ -3116,7 +3100,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 886157800,Department of Homeland Security,Compliance-Healthcare Risk Management Program Manager (O-5 Billet) Non-Supervisory,2026-10-01,2027-09-30,False,,,,https://www.usajobs.gov/job/886157800,,
 886158800,Department of Veterans Affairs,Dental Assistant,2026-09-24,2026-12-31,True,False,False,False,https://www.usajobs.gov/job/886158800,,True
 886159300,Department of Defense,Physician (Internal Medicine),2026-09-26,2026-11-30,True,False,True,False,https://www.usajobs.gov/job/886159300,,True
-886160200,Department of the Air Force,Air Conditioning Equipment Mechanic-Direct Hire Authority,2026-09-25,2026-10-24,True,False,False,False,https://www.usajobs.gov/job/886160200,,True
 886162500,Department of Defense,Physician (Family Medicine),2026-09-25,2026-10-30,True,False,True,False,https://www.usajobs.gov/job/886162500,,True
 886164500,Department of Veterans Affairs,Diagnostic Radiologist - Remote Eligible,2026-08-26,2026-11-20,True,False,False,False,https://www.usajobs.gov/job/886164500,,False
 886168400,Department of Homeland Security,Police Officer (Secret Service Police),2026-10-01,2026-12-31,False,,,,https://www.usajobs.gov/job/886168400,,
@@ -3124,7 +3107,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 886174600,Department of the Army,AIRCRAFT MECHANIC,2026-09-24,2026-10-25,True,False,False,False,https://www.usajobs.gov/job/886174600,,False
 886174700,Department of Veterans Affairs,Physician - Cardiologist,2026-09-24,2026-11-23,True,False,False,False,https://www.usajobs.gov/job/886174700,,False
 886174800,Department of Veterans Affairs,Physician - Cardiologist,2026-09-24,2026-11-23,True,False,False,False,https://www.usajobs.gov/job/886174800,,False
-886175400,Department of the Air Force,High Voltage Electrical Technician-Direct Hire Authority,2026-09-25,2026-10-24,True,False,False,False,https://www.usajobs.gov/job/886175400,,True
 886176600,Department of the Navy,Contracting Specialist,2026-09-28,2026-10-28,True,False,False,False,https://www.usajobs.gov/job/886176600,,True
 886188300,Department of the Navy,Child and Youth Program Assistant,2026-09-24,2026-12-31,True,False,False,False,https://www.usajobs.gov/job/886188300,,True
 886196700,Department of the Air Force,FIREFIGHTER (HAZARDOUS MATERIALS TECHNICIAN) - DIRECT HIRE AUTHORITY,2026-09-28,2026-10-28,True,False,True,False,https://www.usajobs.gov/job/886196700,,True
@@ -3176,7 +3158,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 886317200,Department of Veterans Affairs,Health Technician (Hearing Instrument Specialist),2026-09-25,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/886317200,,True
 886317800,Department of the Air Force,LOGISTICS MANAGEMENT SPECIALIST-DIRECT HIRE AUTHORITY,2026-09-25,2026-10-25,True,False,True,False,https://www.usajobs.gov/job/886317800,,True
 886320900,Department of Veterans Affairs,Physician - Vascular Surgeon,2026-09-22,2026-12-31,True,False,False,False,https://www.usajobs.gov/job/886320900,,False
-886321500,Department of the Army,PRODUCTION CONTROLLER,2026-09-25,2026-10-24,True,False,False,False,https://www.usajobs.gov/job/886321500,,True
 886326400,Department of Homeland Security,Transportation Security Officer,2026-09-25,2026-11-09,True,False,True,False,https://www.usajobs.gov/job/886326400,,True
 886327900,Department of the Air Force,SUPERVISORY TRANSPORTATION SPECIALIST-DIRECT HIRE AUTHORITY,2026-09-25,2027-01-25,True,False,True,False,https://www.usajobs.gov/job/886327900,,True
 886328300,Department of the Air Force,HUMAN RESOURCES ASSISTANT (MILITARY) (TITLE 32),2026-09-30,2027-09-29,True,False,True,False,https://www.usajobs.gov/job/886328300,,True
@@ -3445,7 +3426,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 886814200,Department of Veterans Affairs,Physician - PACT,2026-09-29,2026-10-30,True,False,False,False,https://www.usajobs.gov/job/886814200,,False
 886814700,Department of the Air Force,Logistics Management Specialist,2026-10-01,2027-09-30,True,False,True,False,https://www.usajobs.gov/job/886814700,,True
 886816400,Department of the Air Force,Recreation Aid (Lifeguard),2026-09-29,2026-12-29,True,False,False,False,https://www.usajobs.gov/job/886816400,,True
-886817400,Department of the Interior,Biological Science Technician (Fisheries) (Seasonal),2026-10-19,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/886817400,,True
 886818100,Department of the Navy,CRIMINAL INVESTIGATOR,2026-09-30,2026-12-30,False,,,,https://www.usajobs.gov/job/886818100,,
 886821200,Department of the Air Force,CASHIER - CHECKER,2026-09-29,2026-10-28,True,False,False,False,https://www.usajobs.gov/job/886821200,,True
 886822500,Department of the Army,Supervisory Educational Technician NF-04,2026-10-02,2026-11-02,True,False,True,False,https://www.usajobs.gov/job/886822500,,True
@@ -3673,7 +3653,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 887101000,Department of Veterans Affairs,Psychology (Program Manager),2026-10-01,2026-10-30,True,False,False,False,https://www.usajobs.gov/job/887101000,,True
 887101600,Department of Veterans Affairs,Social Worker (Program Coordinator),2026-10-01,2026-10-30,True,False,False,False,https://www.usajobs.gov/job/887101600,,True
 887103300,Department of Veterans Affairs,Physician - Physical Medicine & Rehab,2026-10-01,2027-09-30,True,False,False,False,https://www.usajobs.gov/job/887103300,,False
-887106000,Department of Defense,Medical Instrument Technician (Ultrasound),2026-10-01,2026-10-24,True,False,True,False,https://www.usajobs.gov/job/887106000,,True
 887106700,Judicial Branch,Information Technology Security Administrator,2026-09-21,2026-10-30,False,,,,https://www.usajobs.gov/job/887106700,,
 887108400,Department of the Army,Army Reserve Administrator,2026-10-05,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/887108400,,True
 887111600,Department of Veterans Affairs,Physician - Emergency Medicine,2026-10-01,2026-11-05,True,False,False,False,https://www.usajobs.gov/job/887111600,,False
@@ -4269,7 +4248,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 887809100,Department of Veterans Affairs,Physician (Gastroenterologist),2026-10-06,2027-09-30,True,False,False,False,https://www.usajobs.gov/job/887809100,,False
 887810500,Department of Veterans Affairs,Electrician,2026-10-06,2026-10-29,True,False,False,False,https://www.usajobs.gov/job/887810500,,True
 887810600,Department of Veterans Affairs,Registered Nurse - Hospice / Short Stay CLC (Recruitment/Relocation Incentives),2026-10-07,2026-12-31,True,False,False,False,https://www.usajobs.gov/job/887810600,,True
-887810900,Department of the Army,SUPERVISORY IT SPECIALIST (PLCYPLN),2026-10-09,2026-10-24,True,False,False,False,https://www.usajobs.gov/job/887810900,,True
 887812400,Department of the Air Force,Recreation Aid,2026-10-06,2027-04-07,True,False,False,False,https://www.usajobs.gov/job/887812400,,True
 887813300,Department of the Army,Mechanical Engineer,2026-10-06,2026-11-10,True,False,True,False,https://www.usajobs.gov/job/887813300,,False
 887814100,Department of Transportation,"Aviation Safety Inspector (Airworthiness), ACV, Geographic Program Inspector",2026-10-07,2026-10-29,False,,,,https://www.usajobs.gov/job/887814100,,
@@ -4594,7 +4572,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 888168100,Department of Homeland Security,BORDER PATROL AGENT (INTELLIGENCE),2026-10-13,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/888168100,,True
 888170500,Department of Health and Human Services,Dietitian,2026-10-08,2026-11-30,True,False,True,False,https://www.usajobs.gov/job/888170500,,True
 888171200,Other Agencies and Independent Organizations,General Attorney (Fraud),2026-10-12,2027-04-12,True,False,True,False,https://www.usajobs.gov/job/888171200,,True
-888171900,Department of the Air Force,SUPERVISORY POLICE OFFICER,2026-10-09,2026-10-24,True,False,False,False,https://www.usajobs.gov/job/888171900,,True
 888172800,Department of the Army,Army Reserve Administrator,2026-10-13,2026-11-03,True,False,True,False,https://www.usajobs.gov/job/888172800,,True
 888174400,Department of Health and Human Services,Health Physicist,2026-10-13,2026-10-26,True,False,True,False,https://www.usajobs.gov/job/888174400,,True
 888176400,Department of Defense,Nurse (Community/Occupational Health),2026-10-10,2026-10-29,True,False,True,False,https://www.usajobs.gov/job/888176400,,True
@@ -4868,7 +4845,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 888394700,Department of Health and Human Services,Medical Records Technician (Coder),2026-10-09,2026-10-26,True,False,True,False,https://www.usajobs.gov/job/888394700,,True
 888395400,Department of Veterans Affairs,Lead Medical Support Assistant,2026-10-09,2026-11-06,True,False,False,False,https://www.usajobs.gov/job/888395400,,True
 888395900,Department of the Army,SURFACE MAINTENANCE REPAIRER (TITLE 32),2026-10-09,2026-10-30,True,False,False,False,https://www.usajobs.gov/job/888395900,,True
-888396000,Department of the Air Force,BOWLING EQUIPMENT WORKER,2026-10-10,2026-10-24,True,False,False,False,https://www.usajobs.gov/job/888396000,,True
 888396400,Department of the Army,AIRCRAFT MECHANIC (TITLE 32),2026-10-09,2026-11-02,True,False,False,False,https://www.usajobs.gov/job/888396400,,True
 888396600,Department of the Air Force,RANGE OPERATIONS SPECIALIST,2026-10-13,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/888396600,,True
 888396900,Department of Veterans Affairs,Physician - Section Chief - Hospitalist,2026-10-09,2026-11-13,True,False,False,False,https://www.usajobs.gov/job/888396900,,False
@@ -4886,7 +4862,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 888408200,Other Agencies and Independent Organizations,Attorney Advisor,2026-10-09,2026-10-27,True,False,True,False,https://www.usajobs.gov/job/888408200,,True
 888408700,Department of Veterans Affairs,Diagnostic Radiologic Technologist - CT,2026-10-09,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/888408700,,True
 888409100,Department of the Interior,Transitional Teacher (Elementary),2026-10-13,2026-11-03,True,False,True,False,https://www.usajobs.gov/job/888409100,,True
-888409600,Department of the Air Force,SOCIAL WORKER (Title 5),2026-10-09,2026-10-24,True,False,True,False,https://www.usajobs.gov/job/888409600,,False
 888410000,Department of the Interior,Teacher (Elementary),2026-10-13,2026-11-03,True,False,True,False,https://www.usajobs.gov/job/888410000,,True
 888410100,Department of Justice,Trial Attorney,2026-10-09,2026-10-30,True,False,False,False,https://www.usajobs.gov/job/888410100,,True
 888410200,Department of the Army,Cook NA-04,2026-10-09,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/888410200,,True
@@ -4915,7 +4890,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 888427300,Department of the Interior,Carpentry Worker (Seasonal),2026-10-19,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/888427300,,True
 888428100,Department of the Interior,Carpenter (Seasonal),2026-10-22,2026-11-02,True,False,False,False,https://www.usajobs.gov/job/888428100,,True
 888428900,Legislative Branch,Air Conditioning Equipment Mechanic Worker,2026-10-09,2026-10-27,True,False,False,False,https://www.usajobs.gov/job/888428900,,True
-888429000,Department of the Interior,Lead Dispatcher (Public Safety),2026-10-09,2026-10-24,True,False,True,False,https://www.usajobs.gov/job/888429000,,True
 888429900,Department of the Interior,Program Support Specialist,2026-10-10,2026-11-07,True,False,True,False,https://www.usajobs.gov/job/888429900,,True
 888430800,Department of Veterans Affairs,Physician- Chief of Medicine,2026-10-09,2026-10-30,True,False,False,False,https://www.usajobs.gov/job/888430800,,False
 888431200,Department of the Army,Casualty Operations Coordinator,2026-10-14,2026-10-28,True,False,False,False,https://www.usajobs.gov/job/888431200,,True
@@ -5169,7 +5143,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 888528300,Department of Veterans Affairs,VCS Food Service- Sioux Falls SD,2026-10-13,2026-11-12,True,False,False,False,https://www.usajobs.gov/job/888528300,,False
 888529300,Department of Homeland Security,Supervisory Border Patrol Agent,2026-10-14,2026-10-27,True,False,False,False,https://www.usajobs.gov/job/888529300,,True
 888529500,Department of the Air Force,IT SPECIALIST (INFOSEC) (TITLE 32),2026-10-14,2027-10-13,True,False,True,False,https://www.usajobs.gov/job/888529500,,True
-888530000,Department of Homeland Security,Marine Inspector (District Training),2026-10-14,2026-10-24,True,False,False,False,https://www.usajobs.gov/job/888530000,,True
 888530200,Department of Defense,Clinical Psychologist (Mental Health Consultant),2026-10-14,2026-12-31,True,False,True,False,https://www.usajobs.gov/job/888530200,,True
 888530300,Department of Veterans Affairs,Health Technician (Hearing Instrument Technician),2026-10-13,2026-12-31,True,False,False,False,https://www.usajobs.gov/job/888530300,,True
 888530500,Department of the Army,SURFACE MAINTENANCE MECHANIC (TITLE 32),2026-10-15,2026-10-30,True,False,False,False,https://www.usajobs.gov/job/888530500,,False
@@ -5331,7 +5304,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 888598600,Department of Defense,IT CYBERSECURITY SPECIALIST (CUSTSPT),2026-10-16,2026-11-02,True,False,True,False,https://www.usajobs.gov/job/888598600,,True
 888598800,Department of the Navy,Canteen Operator,2026-10-13,2026-10-27,True,False,False,False,https://www.usajobs.gov/job/888598800,,False
 888599000,Department of Defense,SUPERVISORY ATTORNEY-ADVISER (GENERAL),2026-10-14,2026-10-27,False,,,,https://www.usajobs.gov/job/888599000,,
-888600400,Department of the Interior,Budget Analyst,2026-10-14,2026-10-24,True,False,True,False,https://www.usajobs.gov/job/888600400,,True
 888601100,Department of Defense,Entomologist,2026-10-13,2026-10-26,True,False,True,False,https://www.usajobs.gov/job/888601100,,True
 888601200,Department of the Navy,School Age Care Director - Small or Medium,2026-10-13,2026-12-31,True,False,True,False,https://www.usajobs.gov/job/888601200,,True
 888601400,Department of the Air Force,ACQUISITION PROGRAM MANAGEMENT SPECIALIST,2026-10-01,2027-09-30,True,False,True,False,https://www.usajobs.gov/job/888601400,,True
@@ -5445,7 +5417,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 888635700,Department of the Navy,Secretary,2026-10-14,2026-10-27,True,False,False,False,https://www.usajobs.gov/job/888635700,,True
 888636700,Department of the Air Force,Technical Director,2026-10-14,2026-10-28,False,,,,https://www.usajobs.gov/job/888636700,,
 888636900,Department of the Navy,Child and Youth Program Assistant,2026-10-14,2026-10-28,True,False,False,False,https://www.usajobs.gov/job/888636900,,True
-888637000,Department of the Navy,Maintenance Worker (Irrigation),2026-10-09,2026-10-24,True,False,True,False,https://www.usajobs.gov/job/888637000,,True
 888637400,Department of Energy,INTERDISCIPLINARY Physical Scientist (Recent Graduate),2026-10-14,2026-10-28,True,False,True,False,https://www.usajobs.gov/job/888637400,,True
 888637600,Department of Energy,INTERDISCIPLINARY General Engineer (Recent Graduate),2026-10-14,2026-10-28,True,False,True,False,https://www.usajobs.gov/job/888637600,,True
 888637800,Department of Defense,Clinical Psychologist (Mental Health),2026-10-16,2026-12-31,True,False,True,False,https://www.usajobs.gov/job/888637800,,True
@@ -5464,7 +5435,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 888640500,Department of Veterans Affairs,Health Technician,2026-10-14,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/888640500,,True
 888640900,Department of the Army,SUPERVISORY TRAINING SPECIALIST,2026-10-14,2026-10-28,True,False,False,False,https://www.usajobs.gov/job/888640900,,True
 888641000,Department of the Army,SUPERVISORY TRAINING SPECIALIST,2026-10-14,2026-10-28,True,False,False,False,https://www.usajobs.gov/job/888641000,,True
-888641300,Department of Homeland Security,SECURITY SPECIALIST (SPECIAL SECURITY OFFICER),2026-10-14,2026-10-24,True,False,True,False,https://www.usajobs.gov/job/888641300,,True
 888641800,Other Agencies and Independent Organizations,Senior  Materials Engineer,2026-10-14,2026-10-27,True,False,True,False,https://www.usajobs.gov/job/888641800,,True
 888641900,Department of Veterans Affairs,Practical Nurse,2026-10-14,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/888641900,,True
 888642100,Other Agencies and Independent Organizations,Affirmative Employment Specialist,2026-10-14,2026-10-27,True,False,True,False,https://www.usajobs.gov/job/888642100,,False
@@ -5473,8 +5443,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 888642800,Department of the Navy,SUPERVISORY INTERDISCIPLINARY GENERAL ENGINEER/ARCHITECT,2026-10-15,2026-10-28,True,False,True,False,https://www.usajobs.gov/job/888642800,,False
 888642900,Department of the Interior,FUL-Wildlife Biologist,2026-10-14,2026-10-28,True,False,True,False,https://www.usajobs.gov/job/888642900,,True
 888643100,Department of the Navy,Supply Technician,2026-10-16,2026-12-15,False,,,,https://www.usajobs.gov/job/888643100,,
-888643300,Department of Homeland Security,SECURITY SPECIALIST (SPECIAL SECURITY OFFICER),2026-10-14,2026-10-24,True,False,False,False,https://www.usajobs.gov/job/888643300,,True
-888643500,Department of the Navy,CDC Assistant Director,2026-10-14,2026-10-24,True,False,True,False,https://www.usajobs.gov/job/888643500,,True
 888643800,Department of the Navy,PROGRAM ANALYST,2026-10-15,2026-10-26,False,,,,https://www.usajobs.gov/job/888643800,,
 888644600,Department of the Army,Army Reserve Administrator,2026-10-16,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/888644600,,True
 888645000,Department of the Navy,SUPERVISORY OPERATIONS RESEARCH ANALYST,2026-10-14,2026-11-02,False,,,,https://www.usajobs.gov/job/888645000,,
@@ -5509,7 +5477,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 888654800,Other Agencies and Independent Organizations,Paralegal Specialist,2026-10-14,2026-10-28,True,False,True,False,https://www.usajobs.gov/job/888654800,,True
 888655400,Department of the Interior,Laborer (Seasonal),2026-10-19,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/888655400,,True
 888655600,Department of Defense,READINESS & DOCTRINE SPECIALIST,2026-10-14,2026-10-28,True,False,True,False,https://www.usajobs.gov/job/888655600,,True
-888656000,Department of Defense,EDUCATIONAL AIDE (PREKINDERGARTEN),2026-10-14,2026-10-24,True,False,False,False,https://www.usajobs.gov/job/888656000,,True
 888656400,Department of the Navy,Child and Youth Program Direct Care Supervisor,2026-10-14,2026-10-25,True,False,True,False,https://www.usajobs.gov/job/888656400,,True
 888656500,Department of the Navy,"SUPERVISORY, LODGING PROGRAM SPECIALIST",2026-10-14,2026-10-28,False,,,,https://www.usajobs.gov/job/888656500,,
 888656600,Department of the Army,Staff Operations and Training Specialist,2026-10-15,2026-10-28,True,False,True,False,https://www.usajobs.gov/job/888656600,,False
@@ -5520,7 +5487,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 888658500,Department of the Army,SUPPLY TECHNICIAN,2026-10-14,2026-10-28,True,False,False,False,https://www.usajobs.gov/job/888658500,,True
 888658600,Department of Defense,Public Affairs Specialist (Social Media),2026-10-14,2026-10-28,True,False,True,False,https://www.usajobs.gov/job/888658600,,True
 888659000,Department of the Army,Veterinarian NF-04,2026-10-14,2026-10-28,True,False,True,False,https://www.usajobs.gov/job/888659000,,True
-888659100,Department of the Army,Construction Control Representative,2026-10-14,2026-10-24,True,False,False,False,https://www.usajobs.gov/job/888659100,,True
 888659400,Department of the Army,LEAD CIVIL ENGINEER,2026-10-20,2026-11-03,True,False,False,False,https://www.usajobs.gov/job/888659400,,True
 888659600,Department of the Army,ELECTRONICS MECHANIC,2026-10-14,2026-10-28,True,False,False,False,https://www.usajobs.gov/job/888659600,,True
 888659800,Department of the Treasury,Supervisory Contact Representative,2026-10-14,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/888659800,,True
@@ -5617,12 +5583,10 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 888687400,Department of Veterans Affairs,Medical Technician- Phlebotomist,2026-10-14,2026-10-29,True,False,False,False,https://www.usajobs.gov/job/888687400,,True
 888687500,Other Agencies and Independent Organizations,Chief Operations Coordination Group,2026-10-15,2026-10-30,True,False,True,False,https://www.usajobs.gov/job/888687500,,False
 888691200,Department of the Army,Supervisory Interdisciplinary,2026-10-15,2026-10-26,True,False,True,False,https://www.usajobs.gov/job/888691200,,True
-888691400,Department of Defense,Patient Service Representative,2026-10-17,2026-10-24,True,False,True,False,https://www.usajobs.gov/job/888691400,,True
 888692000,Department of Veterans Affairs,Materials Handler,2026-10-14,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/888692000,,True
 888692800,Other Agencies and Independent Organizations,Information Technology Specialist (Sys Admin),2026-10-15,2026-10-29,True,False,True,False,https://www.usajobs.gov/job/888692800,,True
 888692900,Legislative Branch,Head Deskperson,2026-10-14,2026-10-28,True,False,False,False,https://www.usajobs.gov/job/888692900,,True
 888693100,Department of Defense,Training Specialist,2026-10-14,2026-10-28,True,False,True,False,https://www.usajobs.gov/job/888693100,,True
-888693300,Department of the Navy,Short Order Cook,2026-10-14,2026-10-24,True,False,False,False,https://www.usajobs.gov/job/888693300,,True
 888693500,Department of Veterans Affairs,Staff Psychologist (Spinal Cord Injury/Disorders Service),2026-10-14,2026-12-14,True,False,False,False,https://www.usajobs.gov/job/888693500,,True
 888694100,Department of the Army,TOOLS AND PARTS ATTENDANT,2026-10-14,2026-11-16,True,False,False,False,https://www.usajobs.gov/job/888694100,,False
 888694200,Other Agencies and Independent Organizations,Information Technology Specialist (Sys Admin),2026-10-15,2026-10-29,True,False,True,False,https://www.usajobs.gov/job/888694200,,True
@@ -5731,7 +5695,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 888728400,Department of Veterans Affairs,Diagnostic Radiologic Technologist - CT,2026-10-15,2026-12-31,True,False,False,False,https://www.usajobs.gov/job/888728400,,True
 888728500,Department of Veterans Affairs,Diagnostic Radiologic Technologist - CT,2026-10-15,2026-12-31,True,False,False,False,https://www.usajobs.gov/job/888728500,,True
 888728700,Department of Defense,MEDICAL TECHNICIAN,2026-10-16,2026-10-27,True,False,True,False,https://www.usajobs.gov/job/888728700,,True
-888728800,Department of the Army,SUPV HR SPEC (MILITARY),2026-10-14,2026-10-24,True,False,False,False,https://www.usajobs.gov/job/888728800,,True
 888728900,Department of Veterans Affairs,Physician - Gynecologic Surgeon (Part-Time),2026-10-15,2026-11-13,True,False,False,False,https://www.usajobs.gov/job/888728900,,False
 888729500,Department of Veterans Affairs,Inventory Management Specialist (Non-Expendable),2026-10-15,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/888729500,,True
 888730100,Department of Veterans Affairs,Advanced Practice Nurse (Certified Nurse Anesthetist),2026-10-14,2026-11-12,True,False,False,False,https://www.usajobs.gov/job/888730100,,True
@@ -5801,7 +5764,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 888750500,Department of the Treasury,Director of Audit Operations (Supervisory Performance Auditor),2026-10-15,2026-10-28,True,False,True,False,https://www.usajobs.gov/job/888750500,,True
 888750700,Department of the Air Force,TRACTOR OPERATOR (GARDENER),2026-10-15,2026-10-28,True,False,False,False,https://www.usajobs.gov/job/888750700,,True
 888750800,Department of the Army,EQUIPMENT SPECIALIST (TITLE 32),2026-10-15,2026-11-14,True,False,False,False,https://www.usajobs.gov/job/888750800,,True
-888751000,Department of Defense,Supervisory Logistics Management Specialist,2026-10-14,2026-10-24,True,False,False,False,https://www.usajobs.gov/job/888751000,,True
 888751300,Department of the Air Force,Public Affairs Specialist (Title 32)(Permanent),2026-10-14,2026-10-28,True,False,False,False,https://www.usajobs.gov/job/888751300,,True
 888751600,Legislative Branch,Maintenance Mechanic Assistant Supervisor,2026-10-14,2026-10-29,True,False,False,False,https://www.usajobs.gov/job/888751600,,True
 888752000,Department of the Interior,Engineering Technician (Seasonal),2026-10-19,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/888752000,,True
@@ -5837,7 +5799,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 888762600,Department of the Army,PERSONNEL SECURITY SPECIALIST,2026-10-14,2026-10-28,True,False,False,False,https://www.usajobs.gov/job/888762600,,True
 888763200,Department of the Interior,Supervisory Recreation Fee Specialist,2026-10-14,2026-10-27,True,False,True,False,https://www.usajobs.gov/job/888763200,,True
 888763600,Department of Transportation,"Aviation Safety Inspector (AC - Flight Oversight), Assistant Aircrew Program Manager (AAPM)",2026-10-15,2026-11-06,False,,,,https://www.usajobs.gov/job/888763600,,
-888763700,Department of Homeland Security,Supv Vessel Traffic Management Specialist,2026-10-15,2026-10-24,True,False,False,False,https://www.usajobs.gov/job/888763700,,True
 888763900,Department of Defense,Meatcutting Worker,2026-10-14,2026-10-28,True,False,False,False,https://www.usajobs.gov/job/888763900,,True
 888764000,Department of Veterans Affairs,VCS Food Service Worker- Las Vegas NV,2026-10-14,2026-11-13,True,False,False,False,https://www.usajobs.gov/job/888764000,,False
 888764900,General Services Administration,Structural Engineer,2026-10-16,2026-10-29,True,False,True,False,https://www.usajobs.gov/job/888764900,,True
@@ -5974,11 +5935,9 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 888800700,Department of Agriculture,Program Manager,2026-10-14,2026-10-26,True,False,True,False,https://www.usajobs.gov/job/888800700,,True
 888800800,Department of Veterans Affairs,Physician (Primary Care),2026-10-14,2026-10-28,True,False,False,False,https://www.usajobs.gov/job/888800800,,False
 888800900,Department of the Interior,Motor Vehicle Operator (Animal Packer) (Seasonal),2026-10-19,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/888800900,,True
-888801300,Other Agencies and Independent Organizations,Supervisory Compliance Officer,2026-10-14,2026-10-24,True,False,True,False,https://www.usajobs.gov/job/888801300,,True
 888801400,Department of Veterans Affairs,Physician - Chief of Staff,2026-10-15,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/888801400,,False
 888801700,Department of the Army,Range Safety Technician,2026-10-15,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/888801700,,True
 888801800,Department of the Interior,Carpentry Worker (Seasonal),2026-10-19,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/888801800,,True
-888801900,Other Agencies and Independent Organizations,Supervisory Compliance Officer,2026-10-14,2026-10-24,True,False,True,False,https://www.usajobs.gov/job/888801900,,True
 888802000,Department of Justice,Assistant United States Attorney,2026-10-14,2026-10-28,True,False,True,False,https://www.usajobs.gov/job/888802000,,False
 888802100,Department of the Army,Meatcutter NA-07,2026-10-14,2026-10-28,True,False,False,False,https://www.usajobs.gov/job/888802100,,True
 888802200,Department of the Interior,Motor Vehicle Operator (Seasonal),2026-10-19,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/888802200,,True
@@ -6017,7 +5976,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 888812100,Department of Veterans Affairs,Nursing Assistant,2026-10-15,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/888812100,,True
 888812500,Department of Veterans Affairs,Licensed Professional Mental Health Counselor-Substance Use Disorder Program,2026-10-14,2026-12-14,True,False,False,False,https://www.usajobs.gov/job/888812500,,True
 888812700,Department of Veterans Affairs,Marriage and Family Therapist- Substance Use Disorder Program,2026-10-14,2026-12-14,True,False,False,False,https://www.usajobs.gov/job/888812700,,True
-888813000,Department of the Army,Transportation Planning Specialist,2026-10-14,2026-10-24,True,False,True,False,https://www.usajobs.gov/job/888813000,,True
 888813100,Department of Veterans Affairs,Senior Social Worker - Substance Use Disorder Program,2026-10-14,2026-12-14,True,False,False,False,https://www.usajobs.gov/job/888813100,,True
 888813300,Department of the Navy,"BRIDGEPORT, CA - VENDING SUPERVISOR/MACHINE REPAIRER NF3",2026-10-14,2027-01-12,False,,,,https://www.usajobs.gov/job/888813300,,
 888813700,Department of the Air Force,"S&E Workforce Development Specialist, SSC/S37",2026-10-14,2026-10-28,False,,,,https://www.usajobs.gov/job/888813700,,
@@ -6029,7 +5987,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 888815400,Department of the Air Force,Operations Support Assistant,2026-10-14,2026-11-05,True,False,False,False,https://www.usajobs.gov/job/888815400,,True
 888816100,Department of the Navy,SUPERVISORY NUCLEAR ENGINEER,2026-10-14,2026-10-27,True,False,True,False,https://www.usajobs.gov/job/888816100,,False
 888816200,Department of the Army,Interdisciplinary,2026-10-15,2026-10-29,True,False,True,False,https://www.usajobs.gov/job/888816200,,True
-888816300,Department of the Air Force,Recreation Aid (Outdoor Adventure Program),2026-10-14,2026-10-24,True,False,False,False,https://www.usajobs.gov/job/888816300,,True
 888816600,Department of the Air Force,HUMAN RESOURCES SPECIALIST (MILITARY),2026-10-14,2026-10-26,True,False,True,False,https://www.usajobs.gov/job/888816600,,True
 888817400,Judicial Branch,Supervisory IT Specialist (Business Asministrative Support Systems Division Chief),2026-10-15,2026-10-29,True,False,False,False,https://www.usajobs.gov/job/888817400,,True
 888817500,Department of the Navy,SALES ASSOCIATE NF1 (FLEX) MCX RETAIL WAREHOUSE,2026-10-14,2026-11-11,False,,,,https://www.usajobs.gov/job/888817500,,
@@ -6154,7 +6111,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 888857400,Department of the Army,ELECTRONICS MECHANIC (D1204000),2026-10-15,2026-10-29,True,False,True,False,https://www.usajobs.gov/job/888857400,,True
 888857600,Department of the Army,SURFACE MAINTENANCE REPAIRER (D1193000),2026-10-15,2026-10-29,True,False,True,False,https://www.usajobs.gov/job/888857600,,True
 888857700,Department of the Army,Integration Branch Analyst,2026-10-20,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/888857700,,True
-888857800,Department of Homeland Security,Marine Inspector,2026-10-15,2026-10-24,True,False,False,False,https://www.usajobs.gov/job/888857800,,True
 888857900,Department of Homeland Security,Supervisory Program Analyst,2026-10-15,2026-10-29,True,False,True,False,https://www.usajobs.gov/job/888857900,,True
 888858700,Department of the Army,Tools and Parts Attendant,2026-10-16,2026-10-30,True,False,False,False,https://www.usajobs.gov/job/888858700,,True
 888859200,Department of Veterans Affairs,Lead Clinical Laboratory Scientist,2026-10-15,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/888859200,,True
@@ -6201,7 +6157,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 888869500,Department of the Interior,Maintenance Worker (Seasonal),2026-10-19,2027-03-01,True,False,False,False,https://www.usajobs.gov/job/888869500,,True
 888869700,Department of Homeland Security,Transportation Security Manager,2026-10-15,2026-10-29,True,False,False,False,https://www.usajobs.gov/job/888869700,,True
 888870400,Department of the Interior,Maintenance Worker (Trails) (Seasonal),2026-10-19,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/888870400,,True
-888870700,Department of Veterans Affairs,Voluntary Services Officer,2026-10-15,2026-10-24,True,False,False,False,https://www.usajobs.gov/job/888870700,,True
 888871000,Department of Veterans Affairs,Supply Technician,2026-10-16,2026-10-30,True,False,False,False,https://www.usajobs.gov/job/888871000,,True
 888871200,Department of the Interior,Maintenance Worker (Trails) (Seasonal),2026-10-19,2027-03-01,True,False,False,False,https://www.usajobs.gov/job/888871200,,True
 888871400,Department of the Interior,Maintenance Worker (Custodial) (Seasonal),2026-10-19,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/888871400,,True
@@ -6216,7 +6171,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 888873000,Department of Energy,Supervisory Program Manager,2026-10-15,2026-10-26,True,False,True,False,https://www.usajobs.gov/job/888873000,,True
 888873300,Department of the Interior,Post-Fire Community Reforestation & Environmental Outreach Lead Volunteer,2026-10-16,2026-10-29,True,False,False,False,https://www.usajobs.gov/job/888873300,,True
 888873400,Department of the Army,SURFACE MAINTENANCE REPAIRER - TITLE 32,2026-10-20,2026-12-31,True,False,False,False,https://www.usajobs.gov/job/888873400,,True
-888874000,Department of the Interior,Biological Science Technician (Plants)(Seasonal),2026-10-19,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/888874000,,True
 888874200,Department of the Navy,MANAGEMENT ANALYST,2026-10-20,2026-10-26,True,False,True,False,https://www.usajobs.gov/job/888874200,,False
 888874300,Other Agencies and Independent Organizations,SPACE AND FACILITIES PROGRAM MANAGER,2026-10-15,2026-11-03,True,False,True,False,https://www.usajobs.gov/job/888874300,,False
 888874800,Department of Transportation,Aviation Safety Inspector  (General Aviation - Operations),2026-10-16,2026-11-12,False,,,,https://www.usajobs.gov/job/888874800,,
@@ -6380,12 +6334,10 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 888926400,Department of Veterans Affairs,Facility Services Assistant,2026-10-16,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/888926400,,True
 888926500,Department of Labor,Industrial Hygienist,2026-10-15,2026-10-26,True,False,True,False,https://www.usajobs.gov/job/888926500,,True
 888926700,Department of the Interior,Laborer (Seasonal),2026-10-19,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/888926700,,True
-888927000,Department of Defense,Storage Specialist,2026-10-15,2026-10-24,True,False,False,False,https://www.usajobs.gov/job/888927000,,True
 888927400,Department of Justice,Legal Assistant (Criminal) (Office Automation),2026-10-15,2026-11-05,True,False,True,False,https://www.usajobs.gov/job/888927400,,True
 888927600,Department of Veterans Affairs,Registered Nurse - Outpatient Mental Health,2026-10-15,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/888927600,,True
 888927900,Department of Justice,Legal Assistant (Criminal) (Office Automation),2026-10-15,2026-11-05,True,False,True,False,https://www.usajobs.gov/job/888927900,,True
 888928000,Department of Veterans Affairs,INT Chaplain,2026-10-15,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/888928000,,True
-888928300,Department of Homeland Security,COMMAND CENTER WATCHSTANDER,2026-10-15,2026-10-24,True,False,False,False,https://www.usajobs.gov/job/888928300,,True
 888928800,Other Agencies and Independent Organizations,Securities Compliance Examiner - Risk Strategist,2026-10-15,2026-10-29,True,False,True,False,https://www.usajobs.gov/job/888928800,,True
 888929200,Department of the Interior,Animal Packer and Caretaker (Trails) (Seasonal),2026-10-19,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/888929200,,True
 888930100,Department of the Air Force,AIRCRAFT PNEUDRAULIC SYSTEMS MECHANIC,2026-10-15,2026-11-15,True,False,False,False,https://www.usajobs.gov/job/888930100,,False
@@ -6432,7 +6384,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 888940700,Department of the Navy,Cook,2026-10-15,2026-10-29,True,False,False,False,https://www.usajobs.gov/job/888940700,,True
 888941200,Department of Health and Human Services,Physician (Hansen's Disease),2026-10-19,2026-10-28,True,False,True,False,https://www.usajobs.gov/job/888941200,,True
 888941300,Department of the Interior,Planning and Environmental Coordinator,2026-10-16,2026-10-30,True,False,True,False,https://www.usajobs.gov/job/888941300,,True
-888941800,Department of Homeland Security,Marine Investigator,2026-10-15,2026-10-24,True,False,False,False,https://www.usajobs.gov/job/888941800,,True
 888942200,Department of the Interior,Planning and Environmental Coordinator,2026-10-16,2026-10-30,True,False,True,False,https://www.usajobs.gov/job/888942200,,True
 888942400,National Aeronautics and Space Administration,Chief Data and Super Intelligence Officer,2026-10-15,2026-10-29,True,False,False,False,https://www.usajobs.gov/job/888942400,,False
 888942500,Department of the Interior,Facilities Operations Specialist,2026-10-16,2026-10-26,True,False,True,False,https://www.usajobs.gov/job/888942500,,True
@@ -6446,7 +6397,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 888945600,Department of the Navy,TELECOMMUNICATIONS MANAGER,2026-10-21,2026-10-26,False,,,,https://www.usajobs.gov/job/888945600,,
 888945700,Department of Homeland Security,Procurement Analyst,2026-10-15,2026-10-26,True,False,True,False,https://www.usajobs.gov/job/888945700,,True
 888945900,Department of Veterans Affairs,Registered Nurse - Assistant Nurse Manager Primary Care,2026-10-15,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/888945900,,True
-888946700,Department of Defense,Lead Supply Technician,2026-10-15,2026-10-24,True,False,False,False,https://www.usajobs.gov/job/888946700,,True
 888946800,Department of the Navy,NAVFAC MARIANAS CAREER FAIR at HYATT REGENCY GUAM,2026-10-19,2026-10-28,False,,,,https://www.usajobs.gov/job/888946800,,
 888946900,Department of Veterans Affairs,Recreation Therapist,2026-10-16,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/888946900,,True
 888947600,Department of the Air Force,MAINTENANCE WORKER,2026-10-15,2026-10-29,True,False,False,False,https://www.usajobs.gov/job/888947600,,True
@@ -6584,7 +6534,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 888983100,Department of the Air Force,Space Electromagnetic Training Instructor,2026-10-15,2026-10-29,False,,,,https://www.usajobs.gov/job/888983100,,
 888983300,Department of the Air Force,Food Service Worker (Cashier),2026-10-15,2027-01-15,True,False,False,False,https://www.usajobs.gov/job/888983300,,True
 888983700,Department of the Army,Occupational Therapist (Holistic Health and Fitness),2026-10-16,2026-10-29,True,False,True,False,https://www.usajobs.gov/job/888983700,,False
-888983900,Department of Veterans Affairs,Physician - Psychiatrist,2026-10-15,2026-10-24,True,False,False,False,https://www.usajobs.gov/job/888983900,,False
 888984000,Department of the Air Force,INTELLIGENCE SPECIALIST,2026-10-16,2026-11-16,True,False,True,False,https://www.usajobs.gov/job/888984000,,True
 888984200,Department of the Army,Arts and Crafts Program Manager NF-04,2026-10-15,2026-10-29,True,False,True,False,https://www.usajobs.gov/job/888984200,,True
 888984900,Department of the Air Force,Traffic Management Specialist (Title 32),2026-10-16,2026-10-30,True,False,True,False,https://www.usajobs.gov/job/888984900,,True
@@ -6697,7 +6646,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 889018600,Department of the Air Force,CHILD AND YOUTH PROGRAM ASSISTANT (CDC-FLEX),2026-10-15,2027-04-14,True,False,False,False,https://www.usajobs.gov/job/889018600,,True
 889018700,Department of the Air Force,CHILD AND YOUTH PROGRAM ASSISTANT (CDC-REGULAR),2026-10-15,2027-04-14,True,False,False,False,https://www.usajobs.gov/job/889018700,,True
 889019100,Department of the Interior,Education Technician (Seasonal),2026-10-19,2026-10-30,True,False,False,False,https://www.usajobs.gov/job/889019100,,True
-889019300,Department of Defense,Food Service Worker,2026-10-15,2026-10-24,True,False,False,False,https://www.usajobs.gov/job/889019300,,True
 889020100,Department of the Navy,NAVAL ARCHITECT,2026-10-16,2026-10-29,False,,,,https://www.usajobs.gov/job/889020100,,
 889020800,Department of the Navy,Information Technology Specialist (Customer Support),2026-10-16,2026-10-29,True,False,True,False,https://www.usajobs.gov/job/889020800,,True
 889021000,Department of the Army,Supervisory Civil Engineer,2026-10-19,2026-10-26,True,False,True,False,https://www.usajobs.gov/job/889021000,,True
@@ -6708,7 +6656,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 889023000,Department of Defense,PRACTICAL NURSE (FAMILY MEDICINE),2026-10-16,2026-11-06,True,False,True,False,https://www.usajobs.gov/job/889023000,,True
 889023500,Department of the Army,General Supply Specialist (Safety),2026-10-19,2026-11-02,True,False,False,False,https://www.usajobs.gov/job/889023500,,True
 889023600,Department of the Army,General Supply Specialist (Safety),2026-10-19,2026-11-02,True,False,False,False,https://www.usajobs.gov/job/889023600,,True
-889023800,Department of the Navy,CHIEF OF STAFF,2026-10-20,2026-10-24,True,False,True,False,https://www.usajobs.gov/job/889023800,,False
 889024000,Department of the Army,Supervisory Information Technology Specialist (Network Services),2026-10-16,2026-11-04,True,False,False,False,https://www.usajobs.gov/job/889024000,,True
 889024300,Department of Veterans Affairs,Advanced Diagnostic Radiologic Technician (MRI),2026-10-16,2027-02-16,True,False,False,False,https://www.usajobs.gov/job/889024300,,True
 889024400,Department of Veterans Affairs,Advanced Diagnostic Radiologic Tech (MRI),2026-10-16,2027-02-16,True,False,False,False,https://www.usajobs.gov/job/889024400,,True
@@ -6829,6 +6776,7 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 889049300,Department of the Army,Power Plant Senior Electrician,2026-10-16,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/889049300,,True
 889049400,Department of Defense,SUPERVISORY IT SPECIALIST (PLCYPLN),2026-10-16,2026-10-26,True,False,True,False,https://www.usajobs.gov/job/889049400,,True
 889049500,Department of Veterans Affairs,RN Admissions/Discharge Coordinator,2026-10-16,2026-10-27,True,False,False,False,https://www.usajobs.gov/job/889049500,,True
+889049900,Department of the Interior,Park Ranger Interpretation (Seasonal)-FUL,2026-10-16,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/889049900,,True
 889050100,Department of Veterans Affairs,Physician Section Chief Compensation and Benefits Employee Occupational Health,2026-10-16,2026-11-16,True,False,False,False,https://www.usajobs.gov/job/889050100,,False
 889050200,Department of the Air Force,Nondestructive Tester (Title 32) (Permanent),2026-10-16,2026-10-30,True,False,False,False,https://www.usajobs.gov/job/889050200,,True
 889050300,Department of Homeland Security,Transportation Security Manager,2026-10-16,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/889050300,,True
@@ -7244,7 +7192,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 889148000,Department of the Interior,Preservation Worker,2026-10-19,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/889148000,,True
 889148500,Department of the Interior,Park Ranger (Interpretation),2026-10-16,2026-10-26,True,False,True,False,https://www.usajobs.gov/job/889148500,,True
 889148700,Department of Agriculture,County Program Analyst,2026-10-16,2026-10-29,True,False,False,False,https://www.usajobs.gov/job/889148700,,True
-889148900,Department of Defense,Medical Insurance Technician,2026-10-20,2026-10-24,True,False,True,False,https://www.usajobs.gov/job/889148900,,True
 889149200,Department of Defense,Deli-Bakery Department Manager,2026-10-16,2026-10-26,True,False,True,False,https://www.usajobs.gov/job/889149200,,True
 889149300,Department of the Army,Unit Administrative Technician,2026-10-17,2026-11-02,True,False,True,False,https://www.usajobs.gov/job/889149300,,True
 889149400,Department of Justice,Assistant United States Attorney - Criminal,2026-10-16,2027-01-09,True,False,False,False,https://www.usajobs.gov/job/889149400,,False
@@ -7338,7 +7285,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 889168100,Department of Health and Human Services,Health Technician (EMT),2026-10-16,2026-10-29,True,False,True,False,https://www.usajobs.gov/job/889168100,,True
 889168300,Department of Health and Human Services,Health Technician (EMT),2026-10-16,2026-10-29,True,False,True,False,https://www.usajobs.gov/job/889168300,,True
 889168500,Department of Veterans Affairs,VCS Region Director- Sacramento CA,2026-10-16,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/889168500,,False
-889168700,Department of the Interior,Fish and Wildlife Biologist,2026-10-19,2026-11-09,True,False,True,False,https://www.usajobs.gov/job/889168700,,True
 889168900,Department of Defense,Dental Assistant (Expanded Function),2026-10-17,2026-10-26,True,False,True,False,https://www.usajobs.gov/job/889168900,,True
 889169500,Legislative Branch,Construction Representative (On Site) Night Shift,2026-10-16,2026-11-03,True,False,False,False,https://www.usajobs.gov/job/889169500,,True
 889169700,Department of Defense,Health Technician (Audiology),2026-10-16,2026-10-27,True,False,True,False,https://www.usajobs.gov/job/889169700,,True
@@ -7559,7 +7505,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 889223900,Department of Veterans Affairs,Food Service Worker,2026-10-19,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/889223900,,True
 889224100,Department of the Army,Engineering Technician (Civil),2026-10-19,2026-11-02,True,False,True,False,https://www.usajobs.gov/job/889224100,,True
 889224300,Department of the Army,Supervisory Housing Management Specialist,2026-10-21,2026-11-03,True,False,False,False,https://www.usajobs.gov/job/889224300,,True
-889224400,Department of Defense,Dietitian,2026-10-20,2026-10-24,True,False,True,False,https://www.usajobs.gov/job/889224400,,True
 889224700,Department of Veterans Affairs,Lead Histopathology Technologist,2026-10-19,2026-11-02,True,False,False,False,https://www.usajobs.gov/job/889224700,,True
 889224900,Department of Veterans Affairs,Registered Nurse - Quality Management Consultant,2026-10-20,2026-11-02,True,False,False,False,https://www.usajobs.gov/job/889224900,,True
 889225000,Department of the Air Force,Cook,2026-10-19,2026-11-02,True,False,False,False,https://www.usajobs.gov/job/889225000,,True
@@ -7638,7 +7583,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 889237800,Department of Veterans Affairs,Nurse Practitioner - Urology,2026-10-19,2026-10-29,True,False,False,False,https://www.usajobs.gov/job/889237800,,True
 889238000,Other Agencies and Independent Organizations,Operations Officer,2026-10-20,2026-11-04,True,False,True,False,https://www.usajobs.gov/job/889238000,,False
 889238100,Department of the Interior,Correctional Officer,2026-10-19,2026-11-06,True,False,True,False,https://www.usajobs.gov/job/889238100,,True
-889238200,Department of the Navy,STRATEGIC COMMUNICATIONS SPECIALIST,2026-10-19,2026-10-24,True,False,True,False,https://www.usajobs.gov/job/889238200,,False
 889238500,Department of Agriculture,Consumer Safety Inspector,2026-10-20,2026-11-02,True,False,True,False,https://www.usajobs.gov/job/889238500,,True
 889238700,Other Agencies and Independent Organizations,Impact Monitoring Data Specialist,2026-10-19,2026-10-30,True,False,True,False,https://www.usajobs.gov/job/889238700,,True
 889238900,Other Agencies and Independent Organizations,Impact Monitoring Data Specialist,2026-10-19,2026-10-30,True,False,True,False,https://www.usajobs.gov/job/889238900,,True
@@ -7648,7 +7592,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 889239400,Department of Veterans Affairs,Registered Nurse - Access Office and Travelling Vet Coordinator,2026-10-19,2026-10-29,True,False,False,False,https://www.usajobs.gov/job/889239400,,True
 889239500,Department of Transportation,Airway Transportation Systems Specialist (Service Delivery Specialist (SDS)),2026-10-20,2026-11-11,False,,,,https://www.usajobs.gov/job/889239500,,
 889239700,Department of the Army,Heavy Mobile Equipment Repairer,2026-10-21,2026-11-04,True,False,False,False,https://www.usajobs.gov/job/889239700,,True
-889240000,Department of the Navy,HUMAN RESOURCES SPECIALIST,2026-10-19,2026-10-24,True,False,True,False,https://www.usajobs.gov/job/889240000,,False
 889240100,Department of Veterans Affairs,Physician - ACOS Acute Care,2026-10-19,2027-09-30,True,False,False,False,https://www.usajobs.gov/job/889240100,,False
 889240200,General Services Administration,Supervisory Security Specialist ,2026-10-19,2026-11-02,True,False,True,False,https://www.usajobs.gov/job/889240200,,True
 889240300,Department of Veterans Affairs,Information Receptionist - Lodging Clerk,2026-10-20,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/889240300,,True
@@ -7949,7 +7892,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 889300500,Department of the Army,IT SPECIALIST (SYSADMIN/NETWORK) (TITLE 32),2026-10-20,2026-11-03,True,False,False,False,https://www.usajobs.gov/job/889300500,,True
 889301400,Department of the Navy,SUPERVISORY LOGISTICS MANAGEMENT SPECIALIST,2026-10-20,2026-10-29,True,False,True,False,https://www.usajobs.gov/job/889301400,,False
 889301900,Department of Veterans Affairs,Nursing Assistant-Geriatric Extended Care,2026-10-19,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/889301900,,True
-889302400,Department of the Interior,Budget Analyst,2026-10-20,2026-10-26,True,False,True,False,https://www.usajobs.gov/job/889302400,,True
 889302500,Department of the Interior,Maintenance Worker Leader (Seasonal),2026-10-20,2026-10-27,True,False,False,False,https://www.usajobs.gov/job/889302500,,True
 889302800,Department of the Air Force,SUPERVISORY POLICE OFFICER,2026-10-20,2026-10-26,True,False,True,False,https://www.usajobs.gov/job/889302800,,True
 889303000,Department of the Interior,Budget Analyst,2026-10-20,2026-10-26,True,False,True,False,https://www.usajobs.gov/job/889303000,,True
@@ -8146,11 +8088,9 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 889345400,Department of Veterans Affairs,Cook,2026-10-19,2026-11-02,True,False,False,False,https://www.usajobs.gov/job/889345400,,True
 889345500,Department of the Navy,SUPERVISORY PROGRAM MANAGER,2026-10-20,2026-10-26,True,False,True,False,https://www.usajobs.gov/job/889345500,,False
 889346000,Department of Veterans Affairs,Physician (Cardiothoracic Surgeon),2026-10-19,2026-12-31,True,False,False,False,https://www.usajobs.gov/job/889346000,,False
-889346200,Department of Veterans Affairs,Supervisory Veterans Service Representative,2026-10-20,2026-10-24,True,False,False,False,https://www.usajobs.gov/job/889346200,,True
 889346300,Department of the Air Force,GUEST SERVICES REPRESENTATIVES,2026-10-19,2026-10-26,False,,,,https://www.usajobs.gov/job/889346300,,
 889346700,Department of the Interior,FUL - Park Ranger,2026-10-19,2026-10-30,True,False,True,False,https://www.usajobs.gov/job/889346700,,True
 889346800,Department of the Interior,Recreation Fee Clerk,2026-10-21,2026-10-27,True,False,False,False,https://www.usajobs.gov/job/889346800,,True
-889346900,Department of Veterans Affairs,Supervisory Field Examiner (Fiduciary Coach),2026-10-20,2026-10-24,True,False,False,False,https://www.usajobs.gov/job/889346900,,True
 889347000,Other Agencies and Independent Organizations,Field Office - Claims Specialist,2026-10-20,2026-10-28,True,False,True,False,https://www.usajobs.gov/job/889347000,,True
 889347200,Department of Justice,"Building Manager (Chief, Building Management Section)",2026-10-19,2026-10-26,True,False,True,False,https://www.usajobs.gov/job/889347200,,True
 889347300,Department of Justice,Human Resource Specialist,2026-10-20,2026-11-03,True,False,True,False,https://www.usajobs.gov/job/889347300,,True
@@ -8169,7 +8109,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 889349800,Department of the Army,Traffic Management Specialist,2026-10-20,2026-11-03,True,False,False,False,https://www.usajobs.gov/job/889349800,,True
 889349900,Legislative Branch,Business Financial Analyst ,2026-10-19,2026-11-05,True,False,False,False,https://www.usajobs.gov/job/889349900,,True
 889350000,Department of the Navy,MANAGEMENT ANALYST,2026-10-22,2026-10-30,True,False,True,False,https://www.usajobs.gov/job/889350000,,False
-889350100,Department of Veterans Affairs,Supervisory Veterans Service Representative (VSR),2026-10-20,2026-10-24,True,False,False,False,https://www.usajobs.gov/job/889350100,,True
 889350500,Department of the Army,Human Resources Assistant (Classification),2026-10-20,2026-10-27,True,False,True,False,https://www.usajobs.gov/job/889350500,,True
 889350600,Other Agencies and Independent Organizations,Supervisory AI/ML Engineer,2026-10-19,2026-10-30,True,False,True,False,https://www.usajobs.gov/job/889350600,,True
 889350700,Department of Defense,Inventory Management Specialist,2026-10-19,2026-10-29,True,False,False,False,https://www.usajobs.gov/job/889350700,,True
@@ -8211,7 +8150,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 889357500,Department of Veterans Affairs,Communications Specialist,2026-10-19,2026-10-29,True,False,False,False,https://www.usajobs.gov/job/889357500,,True
 889357700,Department of the Army,Deckhand,2026-10-19,2026-11-09,True,False,False,False,https://www.usajobs.gov/job/889357700,,True
 889357800,Department of the Army,Deckhand,2026-10-19,2026-11-09,True,False,False,False,https://www.usajobs.gov/job/889357800,,True
-889357900,Department of Agriculture,Supervisory Loan Specialist (Agricultural),2026-10-19,2026-10-24,True,False,True,False,https://www.usajobs.gov/job/889357900,,True
 889358000,Department of the Army,Realty Specialist,2026-10-19,2026-10-28,True,False,False,False,https://www.usajobs.gov/job/889358000,,True
 889358200,Department of the Air Force,Laborer,2026-10-19,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/889358200,,True
 889358500,Department of Defense,Computer Assisted Ordering Technician,2026-10-19,2026-10-26,True,False,True,False,https://www.usajobs.gov/job/889358500,,True
@@ -8298,14 +8236,12 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 889373200,Department of Veterans Affairs,Electronics Mechanic,2026-10-23,2026-10-30,True,False,False,False,https://www.usajobs.gov/job/889373200,,False
 889373400,Department of Veterans Affairs,Food Service Worker,2026-10-19,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/889373400,,True
 889373600,Department of the Interior,Civil Engineer (Hydraulics),2026-10-20,2026-10-27,True,False,True,False,https://www.usajobs.gov/job/889373600,,True
-889374100,Department of the Navy,CYP Child and Youth Programs Assistant (Multi-Level),2026-10-19,2026-10-24,True,False,False,False,https://www.usajobs.gov/job/889374100,,True
 889374200,Department of the Navy,QUALITY ASSURANCE SPECIALIST,2026-10-21,2026-10-26,True,False,True,False,https://www.usajobs.gov/job/889374200,,False
 889374400,Department of the Air Force,SUPERVISORY LOGISTICS MANAGEMENT SPECIALIST,2026-10-19,2026-10-26,True,False,True,False,https://www.usajobs.gov/job/889374400,,True
 889374500,Department of Health and Human Services,Supervisory HR Specialist,2026-10-21,2026-10-27,True,False,True,False,https://www.usajobs.gov/job/889374500,,True
 889374600,Department of the Army,Operations and Maintenance Manager,2026-10-19,2026-10-30,True,False,True,False,https://www.usajobs.gov/job/889374600,,True
 889374700,Other Agencies and Independent Organizations,Attorney Advisor (Agency Law),2026-10-19,2026-11-02,False,,,,https://www.usajobs.gov/job/889374700,,
 889374900,Department of the Interior,Horse Wrangler (Motor Vehicle Operator),2026-10-20,2026-11-02,True,False,False,False,https://www.usajobs.gov/job/889374900,,True
-889375100,Department of the Navy,MWR Fitness Instructor,2026-10-19,2026-10-24,False,,,,https://www.usajobs.gov/job/889375100,,
 889375300,Department of Veterans Affairs,Supervisory Dietitian (Food Operations),2026-10-19,2026-12-22,True,False,False,False,https://www.usajobs.gov/job/889375300,,True
 889375500,Department of Veterans Affairs,Supervisory Dietitian (Food Operations),2026-10-19,2026-12-22,True,False,False,False,https://www.usajobs.gov/job/889375500,,True
 889375600,Department of Health and Human Services,Supervisory Dental Officer (Deputy Dental Supervisor),2026-10-19,2026-11-03,True,False,True,False,https://www.usajobs.gov/job/889375600,,True
@@ -8318,7 +8254,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 889376600,Department of the Interior,Civil Engineer,2026-10-21,2026-11-03,True,False,True,False,https://www.usajobs.gov/job/889376600,,True
 889376700,Department of Veterans Affairs,Psychology Program Manager,2026-10-19,2026-11-02,True,False,False,False,https://www.usajobs.gov/job/889376700,,True
 889376900,Department of Transportation,"Aviation Safety Inspector (AC - Flight Oversight), Principal Flight Oversight Inspector (POI)",2026-10-20,2026-11-11,False,,,,https://www.usajobs.gov/job/889376900,,
-889377000,Department of the Navy,CYP Operations Clerk,2026-10-19,2026-10-24,False,,,,https://www.usajobs.gov/job/889377000,,
 889377100,Department of the Navy,Recreation Assistant - Community Recreation,2026-10-16,2026-10-30,True,False,False,False,https://www.usajobs.gov/job/889377100,,False
 889377300,Department of Health and Human Services,SUPERVISORY HUMAN RESOURCES SPECIALIST,2026-10-21,2026-10-30,True,False,True,False,https://www.usajobs.gov/job/889377300,,True
 889377400,Department of Veterans Affairs,Nurse (Community Living Center),2026-10-19,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/889377400,,True
@@ -8344,7 +8279,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 889380800,Department of the Navy,PROGRAM MANAGER/DEPUTY,2026-10-20,2026-10-26,True,False,True,False,https://www.usajobs.gov/job/889380800,,False
 889380900,Department of Veterans Affairs,"Registered Nurse-Medical, Surgical, Oncology, Telemetry (Inpatient/Acute Care C1_C2)",2026-10-19,2027-09-30,True,False,False,False,https://www.usajobs.gov/job/889380900,,True
 889381200,Department of the Navy,Library Technician,2026-10-19,2026-11-02,True,False,False,False,https://www.usajobs.gov/job/889381200,,True
-889381500,Department of the Interior,Park Ranger (Interpretation-Language) (Seasonal),2026-10-19,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/889381500,,True
 889381700,Department of Defense,Commissary Officer,2026-10-19,2026-11-01,True,False,True,False,https://www.usajobs.gov/job/889381700,,True
 889382300,Department of Defense,Commissary Management Specialist (Senior Reset Specialist),2026-10-19,2026-11-01,True,False,True,False,https://www.usajobs.gov/job/889382300,,True
 889382400,Department of the Army,SUPERVISORY GENERAL ENGINEER,2026-10-21,2026-10-29,True,False,False,False,https://www.usajobs.gov/job/889382400,,True
@@ -8352,7 +8286,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 889382600,Department of the Navy,STRENGTH & CONDITIONING COACH NF-04 RFT WWH,2026-10-19,2026-11-09,False,,,,https://www.usajobs.gov/job/889382600,,
 889382700,Department of the Navy,WARRIOR ATHLETE READINESS & RESILIENCE (WARR) MANAGER NF-04 RFT WWH,2026-10-19,2026-11-09,False,,,,https://www.usajobs.gov/job/889382700,,
 889382800,Department of the Navy,MENTAL PERFORMANCE CONSULTANT NF-04 RFT WWH,2026-10-19,2026-11-09,False,,,,https://www.usajobs.gov/job/889382800,,
-889383400,Department of the Navy,MOTOR VEHICLE OPERATOR (COURIER),2026-10-19,2026-10-24,True,False,False,False,https://www.usajobs.gov/job/889383400,,True
 889383500,Department of Defense,Assistant Commissary Officer,2026-10-20,2026-11-01,True,False,True,False,https://www.usajobs.gov/job/889383500,,True
 889383700,Department of Defense,Commissary Officer,2026-10-20,2026-11-01,True,False,True,False,https://www.usajobs.gov/job/889383700,,True
 889384200,Department of Defense,Store Manager,2026-10-20,2026-11-01,True,False,True,False,https://www.usajobs.gov/job/889384200,,True
@@ -8404,7 +8337,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 889392000,Department of Veterans Affairs,Licensed Professional Mental Health Counselor (OPMH),2026-10-20,2026-10-30,True,False,False,False,https://www.usajobs.gov/job/889392000,,True
 889392300,Department of Homeland Security,Information Systems Security Manager (ISSM),2026-10-20,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/889392300,,True
 889392400,Department of the Navy,RFT Supply Clerk,2026-10-20,2026-10-26,True,False,True,False,https://www.usajobs.gov/job/889392400,,True
-889392500,Department of Veterans Affairs,Insurance Specialist,2026-10-20,2026-10-24,True,False,False,False,https://www.usajobs.gov/job/889392500,,True
 889392600,Department of the Army,Civil Engineer,2026-10-21,2026-11-03,True,False,True,False,https://www.usajobs.gov/job/889392600,,False
 889392700,Department of Veterans Affairs,Social Worker (OPMH),2026-10-20,2026-10-30,True,False,False,False,https://www.usajobs.gov/job/889392700,,True
 889392800,Department of the Interior,Emergency Management Specialist,2026-10-21,2026-11-03,True,False,True,False,https://www.usajobs.gov/job/889392800,,True
@@ -8598,7 +8530,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 889425700,Department of the Air Force,INTELLIGENCE SPECIALIST,2026-10-22,2026-10-29,True,False,True,False,https://www.usajobs.gov/job/889425700,,True
 889425800,Department of Veterans Affairs,Executive Director Office of Human Capital Services,2026-10-20,2026-11-03,True,False,False,False,https://www.usajobs.gov/job/889425800,,False
 889425900,Department of Justice,Training Instructor (Vocational Training Instructor - Barber),2026-10-20,2026-10-27,True,False,True,False,https://www.usajobs.gov/job/889425900,,True
-889426200,Department of Veterans Affairs,Supervisory Vocational Rehabilitation Counselor,2026-10-20,2026-10-24,True,False,False,False,https://www.usajobs.gov/job/889426200,,True
 889426300,Department of Homeland Security,Mechanical Engineer,2026-10-20,2026-11-03,True,False,False,False,https://www.usajobs.gov/job/889426300,,True
 889426700,Department of Veterans Affairs,Physician Assistant - Dermatology,2026-10-20,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/889426700,,True
 889426900,Department of the Navy,SUPERVISORY PRODUCTION CONTROLLER,2026-10-21,2026-10-30,True,False,True,False,https://www.usajobs.gov/job/889426900,,False
@@ -8816,7 +8747,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 889467700,Department of the Air Force,MILCON Information Technology Program Manager,2026-10-20,2026-10-26,False,,,,https://www.usajobs.gov/job/889467700,,
 889467800,Department of the Treasury,Employee & Labor Relations and Performance Program Manager,2026-10-21,2026-10-27,True,False,False,False,https://www.usajobs.gov/job/889467800,,False
 889468200,Department of Veterans Affairs,Health System Specialist-Integrity and Compliance Officer,2026-10-20,2026-10-28,True,False,False,False,https://www.usajobs.gov/job/889468200,,True
-889468500,Department of Defense,Program Support Specialist (Graduate Medical Education),2026-10-22,2026-10-24,True,False,True,False,https://www.usajobs.gov/job/889468500,,True
 889468900,Department of the Treasury,Resources Training Coordinator,2026-10-22,2026-10-28,True,False,False,False,https://www.usajobs.gov/job/889468900,,True
 889469000,Department of Veterans Affairs,Supervisory Management and Program Analyst,2026-10-20,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/889469000,,True
 889469100,Department of Defense,Medical Support Assistant (OA),2026-10-21,2026-10-26,True,False,True,False,https://www.usajobs.gov/job/889469100,,True
@@ -9249,7 +9179,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 889550400,Department of the Army,IT SPECIALIST (NETWORK),2026-10-21,2026-11-19,True,False,False,False,https://www.usajobs.gov/job/889550400,,True
 889550500,Department of Justice,Supervisory Criminal Investigator (Division Operations Officer),2026-10-21,2026-10-27,True,False,False,False,https://www.usajobs.gov/job/889550500,,False
 889550600,Department of Justice,Supervisory Physical Scientist (Friction Ridge)-Direct Hire,2026-10-21,2026-11-03,True,False,True,False,https://www.usajobs.gov/job/889550600,,True
-889550800,Department of Defense,Medical Support Assistant (Office Automation),2026-10-22,2026-10-24,True,False,True,False,https://www.usajobs.gov/job/889550800,,True
 889550900,Department of the Army,Interdisciplinary,2026-10-22,2026-11-05,True,False,True,False,https://www.usajobs.gov/job/889550900,,True
 889551000,Department of the Navy,MWR Recreation Assistant,2026-10-20,2026-10-30,False,,,,https://www.usajobs.gov/job/889551000,,
 889551100,Department of Veterans Affairs,Gardener (Tractor Operator),2026-10-20,2026-10-30,True,False,False,False,https://www.usajobs.gov/job/889551100,,True
@@ -9627,7 +9556,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 889619600,Department of Veterans Affairs,Audiologist (Clinical Specialist) - Vestibular Services,2026-10-21,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/889619600,,True
 889619700,Department of the Navy,LEAD FIREFIGHTER (HAZMAT TECH/BLS),2026-10-22,2026-10-28,True,False,True,False,https://www.usajobs.gov/job/889619700,,False
 889619900,Department of Veterans Affairs,Licensed Practical Nurse,2026-10-22,2026-10-29,True,False,False,False,https://www.usajobs.gov/job/889619900,,True
-889620200,Department of Health and Human Services,HR Specialist (Employee and Labor Relations),2026-10-23,2026-10-27,True,False,True,False,https://www.usajobs.gov/job/889620200,,True
 889620300,Department of the Treasury,Technical Advisor,2026-10-21,2026-10-27,True,False,False,False,https://www.usajobs.gov/job/889620300,,True
 889620600,Department of Veterans Affairs,Housekeeping Aid,2026-10-21,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/889620600,,True
 889620800,Department of the Air Force,Training Instructor (Youth Programs),2026-10-21,2027-01-18,True,False,False,False,https://www.usajobs.gov/job/889620800,,True
@@ -9741,7 +9669,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 889644900,Department of the Air Force,Child and Youth Program Assistant,2026-10-21,2027-01-24,True,False,False,False,https://www.usajobs.gov/job/889644900,,True
 889645000,Department of Energy,Physical Scientist,2026-10-22,2026-11-04,True,False,True,False,https://www.usajobs.gov/job/889645000,,True
 889645100,Department of Veterans Affairs,Management and Program Analyst,2026-10-22,2026-10-28,True,False,False,False,https://www.usajobs.gov/job/889645100,,False
-889645200,Department of the Army,Interdisciplinary,2026-10-22,2026-10-24,True,False,True,False,https://www.usajobs.gov/job/889645200,,True
 889645300,Department of Veterans Affairs,Housekeeping Aid - Environmental Services Technician,2026-10-21,2027-09-30,True,False,False,False,https://www.usajobs.gov/job/889645300,,True
 889645400,Department of Defense,PHYSICIAN (CRITICAL CARE),2026-10-21,2026-11-13,True,False,True,False,https://www.usajobs.gov/job/889645400,,True
 889645600,Department of Veterans Affairs,Supervisory Assistant Nurse Manager-Gastroenterology Department,2026-10-21,2026-11-05,True,False,False,False,https://www.usajobs.gov/job/889645600,,True
@@ -9755,7 +9682,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 889647400,Department of the Treasury,"Associate Director, International PFM Assistance",2026-10-22,2026-11-05,True,False,True,False,https://www.usajobs.gov/job/889647400,,False
 889647600,Department of Defense,EDUCATIONAL AIDE (PREKINDERGARTEN),2026-10-22,2026-11-05,True,False,False,False,https://www.usajobs.gov/job/889647600,,True
 889648000,Department of Homeland Security,Student Trainee (Accounting Technician),2026-10-21,2026-10-26,True,False,False,False,https://www.usajobs.gov/job/889648000,,True
-889648200,Department of the Interior,Park Ranger (Interpretation),2026-10-23,2026-10-29,True,False,True,False,https://www.usajobs.gov/job/889648200,,True
 889648500,Department of Veterans Affairs,File Clerk,2026-10-23,2026-10-30,True,False,False,False,https://www.usajobs.gov/job/889648500,,True
 889648800,Department of Veterans Affairs,Social Worker (Program Coordinator),2026-10-21,2026-10-30,True,False,False,False,https://www.usajobs.gov/job/889648800,,True
 889649000,Department of Veterans Affairs,Supply Technician,2026-10-21,2026-10-28,True,False,False,False,https://www.usajobs.gov/job/889649000,,True
@@ -10027,7 +9953,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 889706400,Department of Veterans Affairs,Advanced Practice Registered Nurse - Cardiology,2026-10-22,2026-10-29,True,False,False,False,https://www.usajobs.gov/job/889706400,,True
 889706600,Department of Veterans Affairs,Supervisory Healthcare Engineer,2026-10-21,2026-10-29,True,False,False,False,https://www.usajobs.gov/job/889706600,,True
 889706800,Department of Defense,Information Security Specialist,2026-10-22,2026-10-26,True,False,True,False,https://www.usajobs.gov/job/889706800,,True
-889706900,Department of Veterans Affairs,Nursing Assistant-Escort,2026-10-22,2026-10-29,True,False,False,False,https://www.usajobs.gov/job/889706900,,True
 889707000,Department of Justice,Trial Attorney (Federal Programs Branch),2026-10-21,2026-11-12,True,False,True,False,https://www.usajobs.gov/job/889707000,,False
 889707100,Department of the Army,AUDITOR (TITLE 5),2026-10-22,2026-10-29,True,False,True,False,https://www.usajobs.gov/job/889707100,,True
 889707300,Department of the Army,Natural Resources Specialist (Ranger),2026-10-21,2026-11-04,True,False,False,False,https://www.usajobs.gov/job/889707300,,True
@@ -10103,7 +10028,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 889719100,Department of Veterans Affairs,Senior Social Worker,2026-10-21,2026-10-28,True,False,False,False,https://www.usajobs.gov/job/889719100,,True
 889719400,Department of Labor,Supervisory Contracting Officer,2026-10-21,2026-11-12,True,False,True,False,https://www.usajobs.gov/job/889719400,,True
 889719600,Department of the Interior,Park Ranger (Interpretation),2026-10-22,2026-11-06,True,False,True,False,https://www.usajobs.gov/job/889719600,,True
-889719800,Department of the Navy,PROGRAM MANAGER,2026-10-21,2026-10-24,True,False,True,False,https://www.usajobs.gov/job/889719800,,False
 889719900,Department of Defense,Secretary (Office Automation),2026-10-21,2026-11-02,True,False,False,False,https://www.usajobs.gov/job/889719900,,True
 889720400,Department of the Navy,Barista/Sales Clerk,2026-10-23,2026-11-06,True,False,False,False,https://www.usajobs.gov/job/889720400,,True
 889720800,Department of the Army,MATERIALS EXAMINER AND IDENTIFIER (FORKLIFT OPERATOR),2026-10-21,2026-11-03,True,False,False,False,https://www.usajobs.gov/job/889720800,,True
@@ -10930,6 +10854,7 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 889884800,Department of Veterans Affairs,Registered Nurse (Ambulatory Care),2026-10-22,2026-10-30,True,False,False,False,https://www.usajobs.gov/job/889884800,,True
 889884900,Department of the Navy,POLICE OFFICER (FIELD TRAINING OFFICER),2026-10-22,2026-10-28,True,False,True,False,https://www.usajobs.gov/job/889884900,,False
 889885100,Department of the Air Force,BIOLOGICAL SCIENTIST (ENVIRONMENTAL),2026-10-21,2026-11-04,True,False,True,False,https://www.usajobs.gov/job/889885100,,True
+889885300,Department of Defense,Health System Specialist,2026-10-25,2026-10-26,True,False,True,False,https://www.usajobs.gov/job/889885300,,True
 889885400,Department of Defense,Accounting Technician NF-02,2026-10-22,2026-10-29,True,False,False,False,https://www.usajobs.gov/job/889885400,,True
 889885700,Department of Veterans Affairs,Peer Specialist,2026-10-23,2026-10-30,True,False,False,False,https://www.usajobs.gov/job/889885700,,True
 889885800,Department of Defense,International Student Support Specialist,2026-10-22,2026-11-02,True,False,True,False,https://www.usajobs.gov/job/889885800,,True
@@ -11292,7 +11217,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 889959500,Department of Veterans Affairs,Supervisory Medical Records Technician (Coder),2026-10-22,2026-10-29,True,False,False,False,https://www.usajobs.gov/job/889959500,,True
 889959600,Department of the Navy,SECURITY ASSISTANT (OA),2026-10-23,2026-11-23,True,False,True,False,https://www.usajobs.gov/job/889959600,,False
 889959700,Department of the Navy,PROGRAM ANALYST,2026-10-23,2026-10-29,True,False,True,False,https://www.usajobs.gov/job/889959700,,False
-889959800,Department of Veterans Affairs,Supervisory Medical Records Technician (Coder),2026-10-22,2026-10-29,True,False,False,False,https://www.usajobs.gov/job/889959800,,True
 889960100,Department of the Air Force,PROGRAM ANALYST,2026-10-22,2026-10-28,True,False,True,False,https://www.usajobs.gov/job/889960100,,True
 889960200,Department of the Air Force,Cook (Motor Vehicle Operator),2026-10-22,2026-11-05,True,False,False,False,https://www.usajobs.gov/job/889960200,,True
 889960500,Department of Defense,IT PROJECT MANAGER (SYSANALYSIS),2026-10-23,2026-11-09,True,False,True,False,https://www.usajobs.gov/job/889960500,,True
@@ -11312,7 +11236,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 889963200,Department of the Air Force,SECURITY SPECIALIST,2026-10-22,2026-10-29,True,False,True,False,https://www.usajobs.gov/job/889963200,,True
 889963300,Department of Veterans Affairs,Social Worker- Primary Care Mental Health Integration (PCMHI),2026-10-23,2026-11-23,True,False,False,False,https://www.usajobs.gov/job/889963300,,True
 889963400,Department of Health and Human Services,Custodial Worker,2026-10-22,2026-12-31,True,False,True,False,https://www.usajobs.gov/job/889963400,,True
-889963800,Department of the Interior,Park Ranger (Interpretation)(Temporary),2026-10-23,2026-10-30,True,False,True,False,https://www.usajobs.gov/job/889963800,,True
 889963900,Department of Justice,Supervisory Assistant United States Attorney,2026-10-22,2027-04-22,True,False,True,False,https://www.usajobs.gov/job/889963900,,False
 889964000,Department of the Air Force,EDUCATION SERVICES SPECIALIST,2026-10-22,2026-10-29,True,False,True,False,https://www.usajobs.gov/job/889964000,,True
 889964100,Department of Veterans Affairs,Social Worker - Primary Care Mental Health Integration (PCMHI),2026-10-23,2026-11-23,True,False,False,False,https://www.usajobs.gov/job/889964100,,True
@@ -11400,7 +11323,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 889984000,Department of the Air Force,RECREATION ASSISTANT,2026-10-22,2026-11-11,True,False,False,False,https://www.usajobs.gov/job/889984000,,True
 889984100,Department of the Air Force,COOK,2026-10-23,2026-10-30,True,False,False,False,https://www.usajobs.gov/job/889984100,,True
 889984300,Department of Homeland Security,Logistics Management Specialist,2026-10-22,2026-11-02,True,False,False,False,https://www.usajobs.gov/job/889984300,,True
-889984400,Department of Commerce,Management and Program Analyst,2026-10-23,2026-10-30,True,False,True,False,https://www.usajobs.gov/job/889984400,,True
 889984700,Department of Veterans Affairs,Medical Support Assistant (Advanced),2026-10-22,2026-11-30,True,False,False,False,https://www.usajobs.gov/job/889984700,,True
 889984800,Department of Veterans Affairs,Registered Nurse - Acute Care 3 South - Nightshift,2026-10-23,2026-10-30,True,False,False,False,https://www.usajobs.gov/job/889984800,,True
 889985200,Department of the Army,Administrative Officer,2026-10-23,2026-10-27,True,False,True,False,https://www.usajobs.gov/job/889985200,,True
@@ -11621,7 +11543,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 890032800,Department of the Air Force,FUEL DISTRIBUTION SYSTEM MECHANIC LEADER,2026-10-23,2026-10-30,True,False,False,False,https://www.usajobs.gov/job/890032800,,True
 890033300,Department of the Air Force,COMPUTER SCIENTIST,2026-10-23,2026-11-09,True,False,True,False,https://www.usajobs.gov/job/890033300,,True
 890033800,Department of Veterans Affairs,Nursing Assistant - Community Living Center,2026-10-23,2027-01-27,True,False,False,False,https://www.usajobs.gov/job/890033800,,True
-890033900,Department of the Interior,Wildland Firefighter - Direct Hire Authority,2026-10-23,2026-11-06,True,False,True,False,https://www.usajobs.gov/job/890033900,,True
 890034000,Legislative Branch,Film Restoration Project Coordinator,2026-10-23,2026-11-20,True,False,False,False,https://www.usajobs.gov/job/890034000,,True
 890034100,Department of Veterans Affairs,Physician - Hematology/Oncology (Regular FT),2026-10-23,2027-04-23,False,,,,https://www.usajobs.gov/job/890034100,,
 890034200,Department of Veterans Affairs,Physician - Cardiologist - Supervisory,2026-10-23,2027-09-30,True,False,False,False,https://www.usajobs.gov/job/890034200,,False
@@ -11915,6 +11836,7 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 890106900,Department of the Navy,SUPERVISORY PROGRAM ANALYST,2026-10-23,2026-10-28,True,False,True,False,https://www.usajobs.gov/job/890106900,,False
 890107000,Department of Veterans Affairs,Supervisory Recreation Therapist,2026-10-23,2026-11-05,True,False,False,False,https://www.usajobs.gov/job/890107000,,True
 890107300,Department of the Army,Supervisory Information Technology Specialist (Policy and Planning),2026-10-24,2026-11-03,True,False,False,False,https://www.usajobs.gov/job/890107300,,True
+890107400,Department of Veterans Affairs,Staff Psychologist-Psychosocial Rehabilitation and Recovery Center (PRRC),2026-10-25,2026-10-30,True,False,False,False,https://www.usajobs.gov/job/890107400,,True
 890107700,Department of Veterans Affairs,Registered Nurse (Education Debt Repayment and Sign on Bonus),2026-10-23,2026-11-02,True,False,False,False,https://www.usajobs.gov/job/890107700,,True
 890107800,Department of the Air Force,CHILD AND YOUTH PROGRAM ASSISTANT,2026-10-23,2026-11-02,True,False,False,False,https://www.usajobs.gov/job/890107800,,True
 890108100,Department of the Air Force,SUPERVISORY ESL INSTRUCTOR,2026-10-23,2026-10-30,True,False,True,False,https://www.usajobs.gov/job/890108100,,True
@@ -12178,7 +12100,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 890168600,Department of the Air Force,TRANSPORTATION ASSISTANT (PERSONAL PROPERTY),2026-10-23,2026-10-29,True,False,True,False,https://www.usajobs.gov/job/890168600,,True
 890168900,Department of Veterans Affairs,Pharmacy Technician (Procurement/Inventory),2026-10-23,2026-10-30,True,False,False,False,https://www.usajobs.gov/job/890168900,,True
 890169100,Department of Veterans Affairs,Registered Nurse - Outpatient Mental Health - Intensive Community Mental Health Recovery (ICMHR),2026-10-23,2026-10-30,True,False,False,False,https://www.usajobs.gov/job/890169100,,True
-890169200,Department of Veterans Affairs,Advanced Practice Nurse (Comprehensive Genetic Services (CGS)),2026-10-23,2026-11-02,True,False,False,False,https://www.usajobs.gov/job/890169200,,True
 890169500,Department of Veterans Affairs,Registered Nurse - Pre/Post Anesthesia Care Unit,2026-10-23,2026-10-30,True,False,False,False,https://www.usajobs.gov/job/890169500,,True
 890170100,Department of the Navy,MWR Fitness Instructor,2026-10-23,2026-11-22,False,,,,https://www.usajobs.gov/job/890170100,,
 890170300,Department of the Air Force,HUMAN RESOURCES SPECIALIST-DIRECT HIRE AUTHORITY,2026-10-23,2026-11-03,False,,,,https://www.usajobs.gov/job/890170300,,
@@ -12217,3 +12138,6 @@ usajobs_control_number,hiring_agency,position_title,position_open_date,position_
 890177600,Department of Veterans Affairs,Surgical Technician,2026-10-23,2026-10-29,True,False,False,False,https://www.usajobs.gov/job/890177600,,True
 890178100,Department of Veterans Affairs,Air Conditioning Equipment Mechanic- Leader,2026-10-23,2026-11-06,True,False,False,False,https://www.usajobs.gov/job/890178100,,True
 890178200,Department of Veterans Affairs,Interior Designer - Intermittent - Not to Exceed 1 Year,2026-10-23,2026-10-30,True,False,False,False,https://www.usajobs.gov/job/890178200,,True
+890178600,Department of Defense,Produce Department Manager,2026-10-24,2026-11-08,True,False,True,False,https://www.usajobs.gov/job/890178600,,True
+890178900,Department of Defense,Grocery Department Manager,2026-10-24,2026-11-08,True,False,True,False,https://www.usajobs.gov/job/890178900,,True
+890179200,Department of Defense,Produce Department Manager,2026-10-24,2026-11-08,True,False,True,False,https://www.usajobs.gov/job/890179200,,True
