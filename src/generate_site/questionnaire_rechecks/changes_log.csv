@@ -3889,3 +3889,5 @@ date,questionnaire_url,change,had_loyalty_q,has_loyalty_q,had_new_wording,has_ne
 2026-10-25,https://jobs.faa.gov/Preview/98161,changed,True,False,False,True,False,False,questionnaire_rechecks/2026-10-24/faa_98161.txt
 2026-10-25,https://jobs.faa.gov/Preview/98164,changed,True,False,False,True,False,False,questionnaire_rechecks/2026-10-24/faa_98164.txt
 2026-10-25,https://jobs.faa.gov/Preview/98165,changed,True,False,False,True,False,False,questionnaire_rechecks/2026-10-24/faa_98165.txt
+2026-10-26,https://apply.usastaffing.gov/ViewQuestionnaire/13098789,changed,False,False,False,False,False,False,questionnaire_rechecks/2026-10-26/usastaffing_13098789.txt
+2026-10-26,https://apply.usastaffing.gov/ViewQuestionnaire/13100675,changed,False,False,False,False,False,False,questionnaire_rechecks/2026-10-26/usastaffing_13100675.txt
