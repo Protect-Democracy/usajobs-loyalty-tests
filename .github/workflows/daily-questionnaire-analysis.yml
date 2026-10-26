@@ -215,6 +215,35 @@ jobs:
             assignees: ['abigailhaddad-2'],
           });
 
+    - name: Open an issue if today's re-check has warnings
+      # refresh_open_questionnaires.py lists problems with today's data in
+      # last_run.json's "warnings": many open postings missing from the USAJobs
+      # listing (kept as open), blocked-portal questionnaires (jobs.faa.gov) whose
+      # local re-check didn't run, or many failed fetches. The daily email shows
+      # the same warnings at the top.
+      if: always() && steps.refresh.outcome == 'success'
+      uses: actions/github-script@v7
+      with:
+        script: |
+          const fs = require('fs');
+          const run = JSON.parse(fs.readFileSync('src/generate_site/questionnaire_rechecks/last_run.json', 'utf8'));
+          const warnings = run.warnings || [];
+          if (!warnings.length) return;
+          await github.rest.issues.create({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            title: `Open postings data warnings - ${run.date}`,
+            body: `Today's open-questionnaire re-check (${run.date}) finished, but:
+
+          ${warnings.map(w => '- ' + w).join('\n')}
+
+          The daily email shows these at the top. See questionnaire_rechecks/README.md ("Postings missing from the listing" and "Blocked portals").
+
+          [View the workflow run](${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId})`,
+            labels: ['bug', 'automated'],
+            assignees: ['abigailhaddad-2'],
+          });
+
     - name: Open an issue if the email and tracker do not match
       if: always() && steps.tracker_email_check.outcome == 'failure'
       uses: actions/github-script@v7
