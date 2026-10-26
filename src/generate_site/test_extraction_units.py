@@ -468,7 +468,28 @@ def test_run_warnings_for_a_day_like_2026_10_23():
     assert r.run_warnings(quiet, fresh, date(2026, 10, 24)) == []        # yesterday's local check is fresh
 
 
+def test_kept_postings_faa_questionnaires_stay_on_the_local_recheck_list():
+    import refresh_open_questionnaires as r
+    cols = r.STATUS_COLUMNS
+    row = dict.fromkeys(cols, '')
+    prev = pd.DataFrame([
+        row | {'questionnaire_url': 'https://jobs.faa.gov/Preview/1', 'usajobs_control_numbers': '20'},
+        row | {'questionnaire_url': 'https://jobs.faa.gov/Preview/2', 'usajobs_control_numbers': '20;30'},
+        row | {'questionnaire_url': 'https://apply.usastaffing.gov/ViewQuestionnaire/9', 'usajobs_control_numbers': '20'},
+        row | {'questionnaire_url': 'https://jobs.faa.gov/Preview/3', 'usajobs_control_numbers': '40'},
+        row | {'questionnaire_url': 'https://jobs.faa.gov/Preview/4', 'usajobs_control_numbers': '20'},
+    ], columns=cols)
+    out = r.blocked_portal_urls_of(prev, {20, 30}, known_urls={'https://jobs.faa.gov/Preview/4'})
+    assert out == {'https://jobs.faa.gov/Preview/1': '20', 'https://jobs.faa.gov/Preview/2': '20;30'}
+    assert r.is_blocked_portal('https://jobs.faa.gov/Preview/1')
+    assert not r.is_blocked_portal('https://apply.usastaffing.gov/ViewQuestionnaire/9')
+    assert not r.is_blocked_portal('https://jobs.monstergovt.com/x/vacancy/previewVacancyQuestions.hms?jnum=1')
+    # fetch() puts them in the blocked-portal state the local re-check reads
+    assert r.fetch('https://jobs.faa.gov/Preview/1')[0] == 'skipped_blocked_domain'
+
+
 TESTS = [
+    test_kept_postings_faa_questionnaires_stay_on_the_local_recheck_list,
     test_unlisted_postings_kept_unless_their_page_says_closed,
     test_usajobs_page_status_reads_the_closed_line,
     test_kept_postings_keep_their_questionnaires,
