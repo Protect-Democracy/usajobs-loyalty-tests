@@ -328,7 +328,153 @@ def test_derived_row_has_no_raw_descriptor():
     assert 'MatchedObjectDescriptor' not in row.index
 
 
+# ── postings missing from USAJobs search (2026-10-23) ──────────────────────────
+
+def _prev_postings(rows):
+    cols = ['usajobs_control_number', 'hiring_agency', 'position_title', 'position_open_date',
+            'position_close_date', 'questionnaire_found', 'has_loyalty_q', 'has_new_wording', 'has_question_5',
+            'usajobs_link', 'possible_variant', 'questionnaire_link_in_posting', 'listed_today',
+            'not_listed_since', 'checked_date']
+    base = dict.fromkeys(cols, '')
+    return pd.DataFrame([base | r for r in rows], columns=cols)
+
+
+def test_unlisted_postings_kept_unless_their_page_says_closed():
+    import refresh_open_questionnaires as r
+    from datetime import date
+    today = date(2026, 10, 23)
+    prev = _prev_postings([
+        {'usajobs_control_number': '1', 'position_close_date': '2026-11-01'},   # listed today
+        {'usajobs_control_number': '2', 'position_close_date': '2026-11-01'},   # page: closed early
+        {'usajobs_control_number': '3', 'position_close_date': '2026-11-01'},   # page: still open
+        {'usajobs_control_number': '4', 'position_close_date': '2026-11-01'},   # page unreadable, day 1
+        {'usajobs_control_number': '5', 'position_close_date': '2026-11-01',    # unreadable for 3 days
+         'listed_today': 'False', 'not_listed_since': '2026-10-20'},
+        {'usajobs_control_number': '6', 'position_close_date': '2026-10-22'},   # close date passed
+    ])
+    pages = {2: 'closed', 3: 'open', 4: 'unreadable', 5: 'unreadable'}
+    looked_up = []
+
+    def page_status(cn):
+        looked_up.append(cn)
+        return pages[cn]
+    kept, outcomes = r.unlisted_postings(today, prev, {1}, page_status=page_status, workers=1)
+    assert sorted(looked_up) == [2, 3, 4, 5]                      # not the listed or the expired one
+    assert outcomes == {2: 'closed_early', 3: 'kept_page_open', 4: 'kept_page_unreadable',
+                        5: 'dropped_page_unreadable'}
+    assert kept['usajobs_control_number'].tolist() == ['3', '4']
+    assert set(kept['listed_today']) == {'False'} and set(kept['not_listed_since']) == {'2026-10-23'}
+
+
+def test_usajobs_page_status_reads_the_closed_line():
+    import refresh_open_questionnaires as r
+
+    class Resp:
+        def __init__(self, code, text):
+            self.status_code, self.text = code, text
+
+    class Session:
+        def __init__(self, resp):
+            self.resp = resp
+
+        def get(self, *a, **k):
+            return self.resp
+    closed = '<div>This job announcement has closed</div><p>This job is open to</p>'
+    assert r.usajobs_page_status(1, Session(Resp(200, closed))) == 'closed'
+    assert r.usajobs_page_status(1, Session(Resp(200, '<h2>This job is open to</h2>'))) == 'open'
+    assert r.usajobs_page_status(1, Session(Resp(200, '<html>Something went wrong</html>'))) == 'unreadable'
+    assert r.usajobs_page_status(1, Session(Resp(503, closed))) == 'unreadable'
+
+
+def test_kept_postings_keep_their_questionnaires():
+    import refresh_open_questionnaires as r
+    cols = r.STATUS_COLUMNS
+    row = dict.fromkeys(cols, '')
+    today = pd.DataFrame([row | {'questionnaire_url': 'u1', 'usajobs_control_numbers': '10', 'fetch_status': 'ok'}],
+                         columns=cols)
+    prev = pd.DataFrame([
+        row | {'questionnaire_url': 'u1', 'usajobs_control_numbers': '10;20', 'fetch_status': 'ok'},
+        row | {'questionnaire_url': 'u2', 'usajobs_control_numbers': '20', 'fetch_status': 'skipped_blocked_domain',
+               'has_loyalty_q': 'True', 'checked_date': '2026-10-22'},
+        row | {'questionnaire_url': 'u3', 'usajobs_control_numbers': '30', 'fetch_status': 'ok'},
+    ], columns=cols)
+    out = r.carry_status_rows(today, prev, {20})
+    by = out.set_index('questionnaire_url')
+    assert by.loc['u1', 'usajobs_control_numbers'] == '10;20'           # shared with a listed posting
+    assert by.loc['u2', 'fetch_status'] == 'posting_not_listed'          # kept as it was
+    assert by.loc['u2', 'has_loyalty_q'] == 'True' and by.loc['u2', 'checked_date'] == '2026-10-22'
+    assert 'u3' not in by.index                                          # its posting wasn't kept
+
+
+def test_link_log_records_the_drop_and_what_happened():
+    import refresh_open_questionnaires as r
+    from datetime import date
+    jobs = pd.DataFrame({'usajobs_control_number': [1], 'position_close_date': pd.to_datetime(['2026-11-01'])})
+    empty = pd.DataFrame(columns=r.STATUS_COLUMNS)
+    day1 = _prev_postings([{'usajobs_control_number': n, 'position_close_date': '2026-11-01'} for n in ('1', '2')])
+    rows = r.link_changes(date(2026, 10, 23), empty, day1, empty, jobs, {2: 'kept_page_open'})
+    assert [(x['usajobs_control_number'], x['change']) for x in rows] == [(2, 'no_longer_listed'), (2, 'kept_page_open')]
+    # next day it's still kept: nothing new to log
+    day2 = _prev_postings([{'usajobs_control_number': '1', 'position_close_date': '2026-11-01'},
+                           {'usajobs_control_number': '2', 'position_close_date': '2026-11-01', 'listed_today': 'False'}])
+    assert r.link_changes(date(2026, 10, 24), empty, day2, empty, jobs, {2: 'kept_page_open'}) == []
+    # the day its page says closed
+    rows = r.link_changes(date(2026, 10, 25), empty, day2, empty, jobs, {2: 'closed_early'})
+    assert [(x['usajobs_control_number'], x['change']) for x in rows] == [(2, 'closed_early')]
+
+
+def test_open_postings_mark_unlisted_and_oldest_check():
+    import refresh_open_questionnaires as r
+    cols = r.STATUS_COLUMNS
+    row = dict.fromkeys(cols, '')
+    status = pd.DataFrame([
+        row | {'questionnaire_url': 'u1', 'usajobs_control_numbers': '1', 'has_loyalty_q': 'False',
+               'has_new_wording': 'False', 'has_question_5': 'False', 'checked_date': '2026-10-23'},
+        row | {'questionnaire_url': 'u2', 'usajobs_control_numbers': '1', 'has_loyalty_q': 'True',
+               'has_new_wording': 'False', 'has_question_5': 'False', 'checked_date': '2026-10-21'},
+        row | {'questionnaire_url': 'u3', 'usajobs_control_numbers': '2', 'has_loyalty_q': 'True',
+               'has_new_wording': 'False', 'has_question_5': 'False', 'checked_date': '2026-10-22'},
+    ], columns=cols)
+    jobs = pd.DataFrame({'usajobs_control_number': [1, 2], 'hiring_agency': ['A', 'DOT'], 'position_title': ['x', 'y'],
+                         'position_open_date': pd.to_datetime(['2026-10-01'] * 2),
+                         'position_close_date': pd.to_datetime(['2026-11-01'] * 2)})
+    kept = pd.DataFrame({'usajobs_control_number': ['2'], 'not_listed_since': ['2026-10-23']})
+    with tempfile.TemporaryDirectory() as d:
+        out = r.write_open_postings(jobs, status, os.path.join(d, 'o.csv'), set(), kept).set_index(
+            'usajobs_control_number')
+    assert out.loc[1, 'checked_date'] == '2026-10-21'                     # the oldest of its questionnaires
+    assert out.loc[1, 'listed_today'] == 'True' and out.loc[1, 'not_listed_since'] == ''
+    assert out.loc[2, 'listed_today'] == 'False' and out.loc[2, 'not_listed_since'] == '2026-10-23'
+    assert out.loc[2, 'has_loyalty_q'] == 'True'
+
+
+def test_run_warnings_for_a_day_like_2026_10_23():
+    import refresh_open_questionnaires as r
+    from datetime import date
+    cols = r.STATUS_COLUMNS
+    row = dict.fromkeys(cols, '')
+    status = pd.DataFrame([row | {'fetch_status': 'skipped_blocked_domain', 'checked_date': '2026-10-22'}] * 22
+                          + [row | {'fetch_status': 'ok', 'checked_date': '2026-10-24'}], columns=cols)
+    summary = {'open_postings_not_listed_today': 124, 'open_postings_not_listed_today_with_loyalty_q': 22,
+               'open_postings_with_loyalty_q_checked_before_yesterday': 22, 'failed': 331}
+    w = r.run_warnings(summary, status, date(2026, 10, 24))
+    assert len(w) == 3
+    assert w[0].startswith("124 open postings (22 with the Loyalty Q) weren't in today's USAJobs listing")
+    assert 'last checked on 2026-10-22' in w[1] and '22 open postings with the Loyalty Q' in w[1]
+    assert w[2].startswith('331 questionnaires')
+    quiet = {'open_postings_not_listed_today': 3, 'open_postings_not_listed_today_with_loyalty_q': 0,
+             'open_postings_with_loyalty_q_checked_before_yesterday': 0, 'failed': 0}
+    fresh = status.assign(checked_date='2026-10-23')
+    assert r.run_warnings(quiet, fresh, date(2026, 10, 24)) == []        # yesterday's local check is fresh
+
+
 TESTS = [
+    test_unlisted_postings_kept_unless_their_page_says_closed,
+    test_usajobs_page_status_reads_the_closed_line,
+    test_kept_postings_keep_their_questionnaires,
+    test_link_log_records_the_drop_and_what_happened,
+    test_open_postings_mark_unlisted_and_oldest_check,
+    test_run_warnings_for_a_day_like_2026_10_23,
     test_possible_variants_flags_rewordings_with_full_question,
     test_verified_usastaffing_link_counts_only_for_its_own_posting,
     test_old_question_matched_through_html_entities,
