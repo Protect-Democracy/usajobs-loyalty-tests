@@ -259,6 +259,30 @@ def carry_status_rows(status, previous_status, kept_ids):
     return status
 
 
+def is_blocked_portal(url):
+    """True for a questionnaire fetch() can't read (it returns skipped_blocked_domain):
+    anything that isn't a USAStaffing or Monster questionnaire, e.g. jobs.faa.gov."""
+    return 'apply.usastaffing.gov/ViewQuestionnaire/' not in url and 'monstergovt.com' not in url
+
+
+def blocked_portal_urls_of(previous_status, kept_ids, known_urls):
+    """{questionnaire_url: 'id;id'} for the blocked-portal questionnaires of postings
+    kept although USAJobs didn't list them (unlisted_postings), other than ones today's
+    links already have. They go through the refresh like any other blocked-portal
+    questionnaire (skipped_blocked_domain), so the evening local re-check
+    (recheck_blocked_portals.py) covers them and the next refresh uses what it found.
+    On 2026-10-23 the 22 FAA postings missing from the listing weren't re-checked
+    that evening, and 2026-10-24 reported their 2026-10-22 text."""
+    kept = {str(i) for i in kept_ids}
+    out = {}
+    for _, row in previous_status.iterrows():
+        url = row['questionnaire_url']
+        ids = [i for i in str(row['usajobs_control_numbers']).split(';') if i in kept]
+        if ids and url not in known_urls and is_blocked_portal(url):
+            out[url] = ';'.join(sorted(set(ids) | set(out.get(url, '').split(';')) - {''}, key=int))
+    return out
+
+
 def blocked_portal_check_dates(out_dir):
     """{questionnaire_url: date of its last successful local re-check} from blocked_portal_checks.csv."""
     path = out_dir / 'blocked_portal_checks.csv'
@@ -507,10 +531,10 @@ def main():
     jobs, links, not_in_job_data, link_in_posting_ids = open_postings_and_links(pd.Timestamp(today))
     n_open = len(jobs)
     by_url = links.groupby('questionnaire_url')['usajobs_control_number'].apply(
-        lambda ids: ';'.join(str(int(i)) for i in sorted(ids)))
+        lambda ids: ';'.join(str(int(i)) for i in sorted(ids))).to_dict()
     verify_urls = set(links.loc[links['blacklisted'] | links['inferred'], 'questionnaire_url'])
-    announcements_by_url = links.groupby('questionnaire_url')['announcement_number'].agg(set)
-    urls = sorted(by_url.index)
+    announcements_by_url = links.groupby('questionnaire_url')['announcement_number'].agg(set).to_dict()
+    urls = sorted(by_url)
     if args.limit:
         urls = urls[:args.limit]
     print(f'{n_open:,} open postings; refreshing {len(urls):,} questionnaires', flush=True)
@@ -532,6 +556,14 @@ def main():
                                         if not args.limit else (previous_postings.iloc[0:0], {}))
     print(f'{len(unlisted_outcomes):,} postings open last run are missing from today\'s listing before their '
           f'close date: ' + json.dumps(pd.Series(unlisted_outcomes, dtype=str).value_counts().to_dict()), flush=True)
+    kept_blocked = blocked_portal_urls_of(previous_status, set(kept_unlisted['usajobs_control_number'].astype('int64')),
+                                          set(by_url))
+    for url, ids in kept_blocked.items():
+        by_url[url], announcements_by_url[url] = ids, set()
+        urls.append(url)
+    if kept_blocked:
+        print(f'{len(kept_blocked):,} blocked-portal questionnaires of those postings stay on the local '
+              're-check list', flush=True)
 
     with ThreadPoolExecutor(args.workers) as pool:
         fetched = list(pool.map(lambda u: fetch(u, by_url[u].split(';'), u in verify_urls, announcements_by_url[u]), urls))

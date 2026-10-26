@@ -66,7 +66,11 @@ page:
   `link_changes_log.csv`). Agencies close postings early, e.g. when a set number of
   applications has come in.
 - the page shows the posting without saying that: kept as open, with its last
-  re-checked flags (`kept_page_open`).
+  re-checked flags (`kept_page_open`). Its questionnaires on blocked portals
+  (jobs.faa.gov) stay `skipped_blocked_domain`, so that evening's local re-check still
+  reads them. (On 2026-10-23 it didn't: the 22 FAA postings missing from the listing
+  weren't on that evening's list, so 2026-10-24 reported their 2026-10-22 text even
+  though the listing had them again.)
 - the page can't be read: kept (`kept_page_unreadable`) for up to three days out of the
   listing, then dropped (`dropped_page_unreadable`).
 
