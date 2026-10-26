@@ -176,9 +176,10 @@ WARN_FAILED = 100
 
 def usajobs_page_status(cn, session=None):
     """'closed' if the posting's own USAJobs page says it has closed, 'open' if the page
-    shows the posting without saying so, else 'unreadable'. (2026-10-26: 12 FAA postings
-    missing from the listing said "This job announcement has closed", closed early on
-    10/21-22; 2 open postings' pages had "This job is open to" and no such line.)"""
+    shows the posting without saying so, else 'unreadable'. (2026-10-26: 12 Department of
+    Transportation postings missing from the listing said "This job announcement has
+    closed", closed early on 10/21-22; 2 open postings' pages had "This job is open to"
+    and no such line.)"""
     try:
         resp = (session or requests).get(USAJOBS_JOB_PAGE.format(cn), headers=BROWSER_HEADERS, timeout=30)
     except requests.RequestException:

@@ -130,9 +130,12 @@ def get_job_data_page(params: Optional[Dict] = None, next_url: Optional[str] = N
             
             response.raise_for_status()
             
-            # Handle "204 No Content" text response
-            if response.text.strip() == "204 No Content":
-                return {"results": []}
+            # No jobs for these dates (e.g. days the historical feed hasn't reached yet;
+            # it lags a day or two). The API used to answer with the text "204 No
+            # Content"; since about 2026-10-24 it sends status 204 with an empty body,
+            # which json() can't parse, so each such day was reported as a failure.
+            if response.status_code == 204 or response.text.strip() in ("", "204 No Content"):
+                return {"data": []}
                 
             return response.json()
             
