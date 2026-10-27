@@ -667,7 +667,57 @@ def test_announcement_guess_only_for_postings_that_apply_through_usastaffing():
     assert not r.applies_through_usastaffing('') and not r.applies_through_usastaffing('https://jobs.faa.gov/x')
 
 
+def test_usastaffing_id_scan_walks_to_the_end_and_stops_when_blocked():
+    import scan_usastaffing_ids as sc
+    table = pd.DataFrame({'qid': [1000, 1001], 'control_number': ['1', '2'], 'close_date': '2026-11-01'})
+    old = (sc.lookup, sc.RESCAN, sc.STOP_AFTER, sc.BATCH)
+    sc.RESCAN, sc.STOP_AFTER, sc.BATCH = 5, 20, 7
+    try:
+        # IDs up to 1010 exist, except 1005 (taken but not published yet)
+        sc.lookup = lambda s, q: ((q, 200, str(q), '2026-12-01') if q <= 1010 and q != 1005 else (q, 'missing', None, None))
+        rows, _, blocked = sc.scan(table, 2)
+        assert not blocked and sorted(r['qid'] for r in rows) == [q for q in range(996, 1011) if q not in (1000, 1001, 1005)]
+        sc.lookup = lambda s, q: (q, 403, None, None)
+        rows, summary, blocked = sc.scan(table, 2)
+        assert blocked and rows == [] and '403' in summary
+    finally:
+        sc.lookup, sc.RESCAN, sc.STOP_AFTER, sc.BATCH = old
+
+
+def test_refresh_adds_questionnaires_whose_control_number_is_the_postings():
+    """ICE Health Service Corps postings don't link their questionnaire and have no number
+    to guess from; usastaffing_ids.csv says which questionnaires are theirs."""
+    import refresh_open_questionnaires as r
+    listing = pd.DataFrame({'usajobs_control_number': ['1', '2', '3'],
+                            'questionnaire_links': ['[]', '[]', json.dumps(['https://apply.usastaffing.gov/ViewQuestionnaire/7'])],
+                            'mentions_questionnaire': 'False', 'uses_usastaffing': 'False', 'announcement_number': 'HSC-26',
+                            'position_uri': '', 'position_close_date': '2026-11-12', 'listed_date': '2026-10-27'})
+    jobs = pd.DataFrame({'usajobs_control_number': [1, 2, 3], 'hiring_agency': 'X', 'position_title': 'T',
+                         'position_open_date': '2026-10-20', 'position_close_date': '2026-11-12'})
+    with tempfile.TemporaryDirectory() as d:
+        listing.to_csv(Path(d) / 'listing.csv', index=False)
+        jobs.to_csv(Path(d) / 'all_jobs_clean.csv', index=False)
+        pd.DataFrame({'qid': [11, 22, 33], 'control_number': ['1', '2', '3'], 'close_date': '2026-11-12'}).to_csv(
+            Path(d) / 'ids.csv', index=False)
+        old = (r.CURRENT_LISTING, r.apply_online_urls, r.USASTAFFING_IDS, os.getcwd())
+        r.CURRENT_LISTING, r.USASTAFFING_IDS = Path(d) / 'listing.csv', Path(d) / 'ids.csv'
+        # 2 has no Apply button, so its applicants may never see questionnaire 22
+        r.apply_online_urls = lambda cns: {1: 'https://apply.usastaffing.gov/Application/Apply', 2: '',
+                                           3: 'https://apply.usastaffing.gov/Application/Apply'}
+        os.chdir(d)
+        try:
+            _, links, _, _ = r.open_postings_and_links(pd.Timestamp('2026-10-27'))
+        finally:
+            r.CURRENT_LISTING, r.apply_online_urls, r.USASTAFFING_IDS = old[:3]
+            os.chdir(old[3])
+    got = sorted(zip(links['usajobs_control_number'], links['questionnaire_url'].str.rsplit('/', n=1).str[1], links['inferred']))
+    # 3 keeps its own link as direct, and gets questionnaire 33 too (on 2026-10-27, 890164100 linked another posting's)
+    assert got == [(1, '11', True), (3, '33', True), (3, '7', False)]
+
+
 TESTS = [
+    test_usastaffing_id_scan_walks_to_the_end_and_stops_when_blocked,
+    test_refresh_adds_questionnaires_whose_control_number_is_the_postings,
     test_announcement_guess_only_for_postings_that_apply_through_usastaffing,
     test_blacklisted_faa_links_are_kept_and_unread_ones_warned,
     test_check_blocked_portals_reports_and_never_raises,
