@@ -639,7 +639,36 @@ def test_blacklisted_faa_links_are_kept_and_unread_ones_warned():
         'their postings are counted as not having the Loyalty Q or Question 5 whether they do or not.']
 
 
+def test_announcement_guess_only_for_postings_that_apply_through_usastaffing():
+    """2026-10-27: a Navy police officer "public notice flyer" (apply by email, no Apply
+    button) matched a USAStaffing questionnaire with the Loyalty Q through its
+    announcement number, though its applicants may never see it."""
+    import refresh_open_questionnaires as r
+    listing = pd.DataFrame({'usajobs_control_number': ['882412600', '883170300'], 'questionnaire_links': '[]',
+                            'mentions_questionnaire': 'False', 'uses_usastaffing': ['False', 'True'],
+                            'announcement_number': ['DE-13045838-26-LE', 'ST-13053378-26-LJ'],
+                            'position_uri': '', 'position_close_date': '2027-03-01', 'listed_date': '2026-10-27'})
+    jobs = pd.DataFrame({'usajobs_control_number': [882412600, 883170300], 'hiring_agency': 'X', 'position_title': 'T',
+                         'position_open_date': '2026-10-20', 'position_close_date': '2027-03-01'})
+    with tempfile.TemporaryDirectory() as d:
+        listing.to_csv(Path(d) / 'listing.csv', index=False)
+        jobs.to_csv(Path(d) / 'all_jobs_clean.csv', index=False)
+        old = (r.CURRENT_LISTING, r.apply_online_urls, os.getcwd())
+        r.CURRENT_LISTING = Path(d) / 'listing.csv'
+        r.apply_online_urls = lambda cns: {882412600: '', 883170300: 'https://apply.usastaffing.gov/Application/Apply'}
+        os.chdir(d)
+        try:
+            _, links, _, _ = r.open_postings_and_links(pd.Timestamp('2026-10-27'))
+        finally:
+            r.CURRENT_LISTING, r.apply_online_urls = old[:2]
+            os.chdir(old[2])
+    assert list(links['questionnaire_url']) == ['https://apply.usastaffing.gov/ViewQuestionnaire/13053378']
+    assert r.applies_through_usastaffing('https://apply.usastaffing.gov/Application/Apply')
+    assert not r.applies_through_usastaffing('') and not r.applies_through_usastaffing('https://jobs.faa.gov/x')
+
+
 TESTS = [
+    test_announcement_guess_only_for_postings_that_apply_through_usastaffing,
     test_blacklisted_faa_links_are_kept_and_unread_ones_warned,
     test_check_blocked_portals_reports_and_never_raises,
     test_reopened_postings_read_from_the_usajobs_page,
