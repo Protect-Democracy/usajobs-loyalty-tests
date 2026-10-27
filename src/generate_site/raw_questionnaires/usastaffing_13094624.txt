@@ -1,0 +1,65 @@
+Position Title
+IT CYBERSECURITY SPECIALIST (INFOSEC) T32
+Agency
+Army National Guard Units
+Announcement Number
+AZ-13094624-27-NW-27-028T
+Open Period
+Oct 26, 2026 to Nov 16, 2026
+Eligibilities
+1.
+US Citizens. Are you a US Citizen?
+ Yes
+ No
+Preferences
+1.
+This position is in the Arizona Army National Guard and requires membership with the Arizona Army National Guard. This position is open to the U.S. Armed Forces and those eligible in becoming a member with the Arizona Army National Guard. Are you currently a member or eligible in becoming a member of the Arizona Army National Guard?
+ Yes
+ No
+2.
+Do you possess the rank of Enlisted: SGT/E-5 to MSG/1SG/E-8 Officer: 2LT/O-1 to MAJ/O-4 Warrant Officer: WO1/W-1 to CW5/W-5 Warrant Officer Candidate: WOC
+ Yes
+ No
+3.
+Do you possess the MOS/Branch of Enlisted: 25 Series MOS Officer: 25 series, 17 series, or 49B Series Warrant Officer: 255 Series, 170A, 170D MOS Warrant Officer Candidate: 09W MOS
+ Yes
+ No
+4.
+Do you possess a secret security clearance?
+ Yes
+ No
+5.
+Do you possess DoDD 8140 Compliance Certification (Security+, CCSP, CYSA+ or CASP)? [Must upload Certification to validate claim]
+ Yes
+ No
+6.
+Must possess at least 1-year specialized experience equivalent to the next lower grade. In addition to the OPM IORs (Alternative A) specialized experience examples, specialized experience includes experience, education, or training that approaches techniques and requirements appropriate to an assigned computer applications area or computer specialty area in an organization. Specialized experience is experience that has equipped the applicant with the particular competencies/knowledge, skills, and abilities to successfully perform the duties of the position and is typically in or related to the work of the position to be filled. Such experience is typically gained in the IT field or through the performance of work where the primary concern is IT. Experience planning the sequence of actions necessary to accomplish the assignment where this entailed coordination with others outside the organizational unit and development of project controls. Experience that required adaptations of guidelines or precedents to meet the needs of the assignment. Experience preparing documentation on cost/benefit studies where is involved summarizing the material and organizing it in a logical fashion. DUTIES: Conducts audits of information systems compliance, to include network devices; servers; and end user devices, related to security standards, guides and application updates to enable and ensure accreditation of all systems IAW with all command, Army, and DOD security directives, policies and procedures. Ensures that all elements are in compliance with guidance concerning accreditation of automated information systems, risk management, control of computer viruses, and other similar issues. Reviews Army Training and Certification Tracking System, approves new user accounts, and conducts ongoing audits to ensure all privileged and user accounts comply with Army Standards. Conducts investigation of security incidents reports findings to leadership and remediates findings based on guidance from the cybersecurity service provider and IAW with all command, Army, and DOD security directives, policies and procedures to include: computer viruses and sanitation of highly classified information from organization. Reviews submissions to Change Configuration Board, or other bodies proposing changes, to network or information systems and applications and makes recommendations to senior cybersecurity team lead. Maintains an operational knowledge base of past, current and possible future threats to the security posture by attending courses, conferences, seminars, online research, and information sharing between other Cybersecurity/Information Assurance professionals. Must anticipate the effects of new emerging technology and develop policies to control it to prevent security violations. Makes recommendations regarding policies and/or procedures to prevent or react to security concerns. Performs other duties as assigned. Do you meet the above qualification standard?
+ Yes
+ No
+7.
+Individual Occupational Requirements: Individuals must have IT-related experience demonstrating each of the four competencies listed below. Experience must be IT related; the experience may be demonstrated by paid or unpaid experience and/or completion of specific, intensive training (for example, IT certification), as appropriate. 1. Attention to Detail - Is thorough when performing work and conscientious about attending to detail. 2. Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services. 3. Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately. 4. Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations. Do you meet the above Individual Occupational Requirements?
+ Yes
+ No
+GS-2210-11
+.
+Respond to all statements and questions. These statements and questions allow applicants to highlight their Knowledge, Skills and Abilities (KSAs) which are applicable to the position for which you are applying. If it is necessary to limit the number of applicants for a position, these KSAs will be used to determine the "Best Qualified". For each KSA please identify below in the space provided how you have either demonstrated the KSA or have shown the potential to acquire them. Give specific examples describing related project, details, work assignments, outside activities, and the time frames involved in each. If you do not answer these statements and questions an accurate evaluation of your qualifications may not be possible. This may result in your application not being certified.
+1.
+Knowledge and ability to ensure that all elements are in compliance with guidance concerning accreditation of automated information systems, risk management, control of computer viruses, and other similar issues.
+2.
+Ability to conduct ongoing audits to ensure all privileged and user accounts comply with Army Standards.
+3.
+Ability to conduct investigations of security incident report findings to leadership and remediate findings based on guidance from the cybersecurity service provider and IAW with all command, Army, and DOD security directives, policies and procedures to include: computer viruses and sanitation of highly classified information from organization
+4.
+Ability to review submissions to Change Configuration Board, or other bodies proposing changes, to network or information systems and applications and makes recommendations to senior cybersecurity team lead.
+5.
+Ability to anticipate the effects of new emerging technology and develop polices to control it to prevent security violations.
+.
+Select “Yes” or “No” to the following question(s).
+6.
+Must possess at least 1-year specialized experience equivalent to the next lower grade. In addition to the OPM IORs (Alternative A) specialized experience examples, specialized experience includes experience, education, or training that approaches techniques and requirements appropriate to an assigned computer applications area or computer specialty area in an organization. Specialized experience is experience that has equipped the applicant with the particular competencies/knowledge, skills, and abilities to successfully perform the duties of the position and is typically in or related to the work of the position to be filled. Such experience is typically gained in the IT field or through the performance of work where the primary concern is IT. Experience planning the sequence of actions necessary to accomplish the assignment where this entailed coordination with others outside the organizational unit and development of project controls. Experience that required adaptations of guidelines or precedents to meet the needs of the assignment. Experience preparing documentation on cost/benefit studies where is involved summarizing the material and organizing it in a logical fashion. DUTIES: Conducts audits of information systems compliance, to include network devices; servers; and end user devices, related to security standards, guides and application updates to enable and ensure accreditation of all systems IAW with all command, Army, and DOD security directives, policies and procedures. Ensures that all elements are in compliance with guidance concerning accreditation of automated information systems, risk management, control of computer viruses, and other similar issues. Reviews Army Training and Certification Tracking System, approves new user accounts, and conducts ongoing audits to ensure all privileged and user accounts comply with Army Standards. Conducts investigation of security incidents reports findings to leadership and remediates findings based on guidance from the cybersecurity service provider and IAW with all command, Army, and DOD security directives, policies and procedures to include: computer viruses and sanitation of highly classified information from organization. Reviews submissions to Change Configuration Board, or other bodies proposing changes, to network or information systems and applications and makes recommendations to senior cybersecurity team lead. Maintains an operational knowledge base of past, current and possible future threats to the security posture by attending courses, conferences, seminars, online research, and information sharing between other Cybersecurity/Information Assurance professionals. Must anticipate the effects of new emerging technology and develop policies to control it to prevent security violations. Makes recommendations regarding policies and/or procedures to prevent or react to security concerns. Performs other duties as assigned. Do you meet the above qualification standard?
+ Yes
+ No
+7.
+Do you certify that all of your responses to this questionnaire are true and accurate; and do you accept that if your supporting documentation does not support one or more of your responses to the questionnaire that your application may be rated lower or you may be removed from further consideration?
+ Yes
+ No

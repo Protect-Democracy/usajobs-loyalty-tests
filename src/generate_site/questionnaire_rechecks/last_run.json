@@ -1,19 +1,29 @@
 {
-  "date": "2026-10-26",
-  "open_postings": 12408,
+  "date": "2026-10-27",
+  "open_postings": 12021,
   "listed_postings_not_in_job_data": 0,
   "links_added": 0,
   "links_removed": 0,
-  "postings_no_longer_listed": 17,
-  "questionnaires": 11296,
-  "fetched_ok": 11273,
+  "postings_no_longer_listed": 58,
+  "questionnaires": 10918,
+  "fetched_ok": 10897,
   "failed": 0,
-  "skipped_blocked_domain": 23,
-  "changed_today": 2,
-  "with_loyalty_q": 19,
-  "with_new_wording": 4357,
+  "skipped_blocked_domain": 21,
+  "changed_today": 277,
+  "with_loyalty_q": 20,
+  "with_new_wording": 4179,
   "with_question_5": 12,
-  "open_postings_with_loyalty_q": 17,
+  "open_postings_with_loyalty_q": 18,
   "open_postings_with_question_5": 12,
-  "open_postings_with_possible_variant": 0
+  "open_postings_with_possible_variant": 0,
+  "open_postings_not_listed_today": 0,
+  "open_postings_not_listed_today_with_loyalty_q": 0,
+  "unlisted_outcomes": {
+    "closed_early": 58
+  },
+  "blocked_portal_last_checked": "2026-10-26",
+  "open_postings_with_loyalty_q_checked_before_yesterday": 1,
+  "warnings": [
+    "1 questionnaires on portals that block automated checks (e.g. jobs.faa.gov) were last checked on an unknown date, not yesterday: the local re-check (recheck_blocked_portals.py) didn't run. 1 open postings with the Loyalty Q rest on an older check."
+  ]
 }
