@@ -579,7 +579,7 @@ def check_analysis_data():
                 print(f"    {status}: {count:,}")
             
             # Verify counts make logical sense
-            no_questionnaire = status_counts.get('No questionnaire', 0)
+            no_questionnaire = status_counts.get('No questionnaire found', 0)
             not_scraped = status_counts.get('Has questionnaire (not scraped)', 0)
             without_eo = status_counts.get('Questionnaire without EO question', 0)
             with_eo = status_counts.get('Questionnaire with EO question', 0)

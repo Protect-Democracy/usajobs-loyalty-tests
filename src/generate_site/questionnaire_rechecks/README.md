@@ -116,6 +116,26 @@ flags, `last_run.json` records the failure (`blocked_portal_check`), and their
 2026-10-24 the email reported 22 FAA postings with the Loyalty Q from the 2026-10-22
 check; that evening's check found all 22 had switched to the new wording.
 
+Until 2026-10-27 most FAA questionnaires were never checked at all. The scraper can't get
+past jobs.faa.gov's bot check, took that as a broken link, and added the link to
+`../questionnaire_known_bad.txt` (4,900 FAA lines), and the refresh dropped blacklisted
+links. That hid 136 of the 182 open FAA postings' questionnaires; one had the Loyalty Q.
+The refresh now keeps blacklisted links on blocked portals and the Chrome re-check reads
+them, and the scraper no longer blacklists them. A blocked-portal questionnaire that has
+never been read (the re-check failed and there's no saved copy) gets its own warning, since
+its posting counts as not having the question.
+
+## Questionnaires not linked from the posting
+
+Some USAStaffing postings don't link their questionnaire and don't show a "Preview job
+questionnaire" button, and USAJobs marks some of them as not using USAStaffing. When a
+posting still has no link, the refresh tries every 7-9 digit number in its announcement
+number (e.g. `DE-13101174-27-ALK`) and keeps a guess only if the questionnaire's own control
+number or announcement number is the posting's. On 2026-10-27 that found questionnaires
+for 476 open postings, 2 with the Loyalty Q. Others (e.g. ICE Health Service Corps) have no
+number to go on; a one-off scan of questionnaire IDs that day found 380 more, none with the
+Loyalty Q.
+
 - `blocked_portal_checks.csv`: append-only, one row per questionnaire per re-check,
   with its flags, so each has a date it was last verified even when nothing changed.
 
