@@ -140,6 +140,17 @@ That leaves 82 postings, 1 with the Loyalty Q. Others (e.g. ICE Health Service C
 have no number to go on; a one-off scan of questionnaire IDs that day found 380 more, none
 with the Loyalty Q (198 of them have no Apply button either).
 
+USAStaffing numbers questionnaires in order, about 1,500-2,000 a day, and each one's
+public JSON names its posting's control number. `../scan_usastaffing_ids.py` runs daily
+before the refresh and appends each new ID to `usastaffing_ids.csv` (`qid`,
+`control_number`, `close_date`; rows closed more than 90 days are dropped). The refresh
+adds those questionnaires to the open postings they belong to that apply through
+USAStaffing, and verifies each against its control number like any other inferred link.
+The table was seeded from the 2026-10-27 scan, IDs 12,756,000-13,104,000. A home IP got
+blocked (403) after about 300,000 requests at 28 a second; the daily run asks for far
+fewer, and `usastaffing_ids_last_scan.json` records whether it finished (a warning in
+`last_run.json` if not).
+
 - `blocked_portal_checks.csv`: append-only, one row per questionnaire per re-check,
   with its flags, so each has a date it was last verified even when nothing changed.
 

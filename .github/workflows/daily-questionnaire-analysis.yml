@@ -97,6 +97,18 @@ jobs:
         fi
         echo "analysis_data.json regenerated ($SIZE bytes)"
 
+    - name: Record new USAStaffing questionnaires
+      # Appends each new questionnaire ID and its posting's control number to
+      # questionnaire_rechecks/usastaffing_ids.csv, so the refresh below finds
+      # questionnaires that postings don't link. If it doesn't finish, the refresh
+      # warns in last_run.json (and so the email).
+      if: always()
+      timeout-minutes: 15
+      continue-on-error: true
+      run: |
+        cd src/generate_site
+        python scan_usastaffing_ids.py
+
     - name: Refresh every open posting's questionnaire
       # Re-fetches each currently-open posting's questionnaire and records what
       # it says now in src/generate_site/questionnaire_rechecks/ (agencies edit

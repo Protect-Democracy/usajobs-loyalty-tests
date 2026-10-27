@@ -173,6 +173,9 @@ def flags(text):
 
 CURRENT_LISTING = Path('../../data/current_listing.csv')
 CURRENT_JOBS = Path('../../data')
+# Which posting each USAStaffing questionnaire belongs to (scan_usastaffing_ids.py).
+USASTAFFING_IDS = Path('questionnaire_rechecks/usastaffing_ids.csv')
+USASTAFFING_ID_SCAN = Path('questionnaire_rechecks/usastaffing_ids_last_scan.json')
 LINK_LOG_COLUMNS = ['date', 'usajobs_control_number', 'change', 'questionnaire_url', 'position_close_date']
 
 USAJOBS_JOB_PAGE = 'https://www.usajobs.gov/job/{}'
@@ -390,6 +393,18 @@ def apply_online_urls(control_numbers):
     return urls
 
 
+def questionnaires_by_control_number():
+    """{usajobs_control_number: [ViewQuestionnaire URLs]} from usastaffing_ids.csv."""
+    if not USASTAFFING_IDS.exists():
+        return {}
+    ids = pd.read_csv(USASTAFFING_IDS, dtype=str, keep_default_na=False)
+    ids = ids[ids['control_number'].str.fullmatch(r'\d+')]
+    out = {}
+    for cn, qid in zip(ids['control_number'].astype('int64'), ids['qid']):
+        out.setdefault(cn, []).append(f'https://apply.usastaffing.gov/ViewQuestionnaire/{qid}')
+    return out
+
+
 def applies_through_usastaffing(apply_url):
     """True when the posting's Apply button goes to USAStaffing, so an applicant goes
     through its USAStaffing questionnaire."""
@@ -440,13 +455,23 @@ def open_postings_and_links(today):
     # "public notice flyer" (882412600, apply by email) matched one with the Loyalty Q,
     # and 394 of the 476 postings this guess found had no Apply button at all.
     apply_urls = apply_online_urls(set(listing['usajobs_control_number']))
+    # Such a posting also gets the questionnaires whose own control number is the
+    # posting's (usastaffing_ids.csv): e.g. ICE Health Service Corps postings, which
+    # don't link theirs and have no number to guess from, and 890164100, which on
+    # 2026-10-27 linked another posting's questionnaire.
+    by_control_number = questionnaires_by_control_number()
 
     def find(row):
+        through_usastaffing = applies_through_usastaffing(apply_urls.get(row.usajobs_control_number))
         links, by_announcement, by_page = questionnaire_links_for_posting(
             load_questionnaire_links(row.questionnaire_links), row.mentions_questionnaire == 'True',
             row.uses_usastaffing == 'True', row.announcement_number, row.position_uri, session=session,
-            guess_any=applies_through_usastaffing(apply_urls.get(row.usajobs_control_number)))
-        return [(row.usajobs_control_number, url, by_announcement or by_page, row.announcement_number) for url in links]
+            guess_any=through_usastaffing)
+        found = [(row.usajobs_control_number, url, by_announcement or by_page, row.announcement_number) for url in links]
+        if through_usastaffing:
+            found += [(row.usajobs_control_number, url, True, row.announcement_number)
+                      for url in by_control_number.get(row.usajobs_control_number, []) if url not in links]
+        return found
 
     with ThreadPoolExecutor(5) as pool:
         found = [link for links in pool.map(find, listing.itertuples(index=False)) for link in links]
@@ -656,6 +681,11 @@ def run_warnings(summary, status, today):
         out.append(f"Today's re-check of questionnaires on portals that block automated checks failed for "
                    f"{check['failed']:,} of {check['questionnaires']:,}"
                    + (f" ({check['error']})" if check['error'] else '') + '; they keep their last check.')
+    scan = summary.get('usastaffing_id_scan')
+    if scan is not None and (scan.get('date') != today.isoformat() or not scan.get('finished')):
+        out.append("Today's scan of new USAStaffing questionnaires didn't finish"
+                   + (f" ({scan['summary']})" if scan.get('date') == today.isoformat() else '')
+                   + ". Postings that don't link their questionnaire may be missing one.")
     if summary['failed'] >= WARN_FAILED:
         out.append(f"{summary['failed']:,} questionnaires couldn't be fetched today; they keep their last "
                    "re-checked flags.")
@@ -881,6 +911,8 @@ def main():
         'blocked_portal_last_checked': max(blocked_checked.values(), default=''),
         # This run's own re-check of blocked portals (--check-blocked-portals); null if not run.
         'blocked_portal_check': blocked_check,
+        # Today's scan of new USAStaffing questionnaire IDs (scan_usastaffing_ids.py).
+        'usastaffing_id_scan': json.loads(USASTAFFING_ID_SCAN.read_text()) if USASTAFFING_ID_SCAN.exists() else {},
         # Open postings with the Loyalty Q whose flags rest on a check older than yesterday.
         'open_postings_with_loyalty_q_checked_before_yesterday': int(
             ((postings['has_loyalty_q'] == 'True')
