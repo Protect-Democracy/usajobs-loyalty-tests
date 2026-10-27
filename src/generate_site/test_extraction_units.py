@@ -458,14 +458,21 @@ def test_run_warnings_for_a_day_like_2026_10_23():
     summary = {'open_postings_not_listed_today': 124, 'open_postings_not_listed_today_with_loyalty_q': 22,
                'open_postings_with_loyalty_q_checked_before_yesterday': 22, 'failed': 331}
     w = r.run_warnings(summary, status, date(2026, 10, 24))
-    assert len(w) == 3
+    assert len(w) == 4
     assert w[0].startswith("124 open postings (22 with the Loyalty Q) weren't in today's USAJobs listing")
-    assert 'last checked on 2026-10-22' in w[1] and '22 open postings with the Loyalty Q' in w[1]
-    assert w[2].startswith('331 questionnaires')
+    assert 'last checked on 2026-10-22' in w[1] and "didn't run" in w[1]
+    assert w[2] == '22 open postings with the Loyalty Q rest on one of those older answers.'
+    assert w[3].startswith('331 questionnaires')
     quiet = {'open_postings_not_listed_today': 3, 'open_postings_not_listed_today_with_loyalty_q': 0,
              'open_postings_with_loyalty_q_checked_before_yesterday': 0, 'failed': 0}
     fresh = status.assign(checked_date='2026-10-23')
     assert r.run_warnings(quiet, fresh, date(2026, 10, 24)) == []        # yesterday's local check is fresh
+    # 2026-10-27: the re-check ran the evening before, but one FAA posting reopened that morning
+    tue = status.assign(checked_date='2026-10-26')
+    tue.loc[0, 'checked_date'] = ''
+    w = r.run_warnings(quiet | {'open_postings_with_loyalty_q_checked_before_yesterday': 1}, tue, date(2026, 10, 27))
+    assert len(w) == 2 and "haven't been re-checked yet" in w[0] and "didn't run" not in w[0], w
+    assert w[1] == '1 open postings with the Loyalty Q rest on one of those older answers.'
 
 
 def test_kept_postings_faa_questionnaires_stay_on_the_local_recheck_list():

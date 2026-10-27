@@ -584,13 +584,24 @@ def run_warnings(summary, status, today):
                    "Loyalty Q) weren't in today's USAJobs listing although their own pages don't say they "
                    "closed. They are counted as open with their last re-checked flags.")
     blocked = status[status['fetch_status'] == 'skipped_blocked_domain']
-    stale = blocked[blocked['checked_date'] < (today - timedelta(days=1)).isoformat()]
+    # Checked before yesterday: the local re-check (recheck_blocked_portals.py) didn't run.
+    # Never checked: its posting wasn't on the list when the re-check last ran (new, back in
+    # the listing, or reopened today; 2026-10-27: an FAA posting reopened that morning, the
+    # evening after a re-check that did run), so the flags come from the copy saved when
+    # the questionnaire was first found.
+    stale = blocked[(blocked['checked_date'] != '') & (blocked['checked_date'] < (today - timedelta(days=1)).isoformat())]
+    never = blocked[blocked['checked_date'] == '']
     if len(stale):
         out.append(f"{len(stale):,} questionnaires on portals that block automated checks (e.g. jobs.faa.gov) "
-                   f"were last checked on {min(stale['checked_date']) or 'an unknown date'}, not yesterday: the "
-                   "local re-check (recheck_blocked_portals.py) didn't run. "
-                   f"{summary['open_postings_with_loyalty_q_checked_before_yesterday']:,} open postings with the "
-                   "Loyalty Q rest on an older check.")
+                   f"were last checked on {min(stale['checked_date'])}, not yesterday: the local re-check "
+                   "(recheck_blocked_portals.py) didn't run.")
+    if len(never):
+        out.append(f"{len(never):,} questionnaires on portals that block automated checks (e.g. jobs.faa.gov) "
+                   "haven't been re-checked yet: their postings weren't on the list when the local re-check last "
+                   "ran. Their answers come from the copy saved when each was first found.")
+    n_q = summary['open_postings_with_loyalty_q_checked_before_yesterday']
+    if n_q and (len(stale) or len(never)):
+        out.append(f"{n_q:,} open postings with the Loyalty Q rest on one of those older answers.")
     if summary['failed'] >= WARN_FAILED:
         out.append(f"{summary['failed']:,} questionnaires couldn't be fetched today; they keep their last "
                    "re-checked flags.")
