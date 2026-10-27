@@ -33,11 +33,11 @@ of every currently-open posting:
   - `fetch_status` is `ok`, `failed` (flags carried over from the last known text),
     `skipped_blocked_domain`, or `posting_not_listed`. `skipped_blocked_domain` applies
     to portals such as `jobs.faa.gov` that block automated access; their flags come from
-    the latest stored copy, which the local re-check below keeps current.
+    the latest stored copy, which the re-check below keeps current.
     `posting_not_listed` is a questionnaire of a posting kept open although USAJobs
     didn't list it today (below); it isn't re-fetched.
   - `checked_date` is the day the flags were last confirmed against the questionnaire
-    itself: today for a fetched one, the last local re-check for a blocked portal.
+    itself: today for a fetched one, the last re-check for a blocked portal.
   - `text_file` is where the current text lives: a dated folder here, or
     `raw_questionnaires/` if it hasn't changed since first scraped.
 - `changes_log.csv`: append-only, one row per questionnaire per day it changed, with
@@ -96,20 +96,27 @@ re-checked status, and the workflow rebuilds it after the refresh.
 agrees with `open_postings.csv`, and the workflow opens an "Email and tracker do not
 match" issue if any don't.
 
-## Blocked portals (local re-check)
+## Blocked portals (jobs.faa.gov)
 
-`../recheck_blocked_portals.py` fetches the questionnaires the daily refresh skips
-(`skipped_blocked_domain`, e.g. `jobs.faa.gov`) through a real Chrome window over the
-DevTools Protocol. It runs on a laptop, not in GitHub Actions. It saves any copy whose
-text changed to `<YYYY-MM-DD>/`, and the next daily refresh uses it.
+The daily refresh can't fetch some portals with plain requests (`skipped_blocked_domain`,
+e.g. `jobs.faa.gov`). Its bot check turns away headless browsers, from a home IP or
+GitHub's, but lets a real Chrome window in (tested 2026-10-27). So the daily workflow
+runs the refresh with `--check-blocked-portals` on a virtual display (`xvfb-run`).
+Before it decides each questionnaire's answers, it re-checks every one on today's list,
+new and reopened postings included, through `../recheck_blocked_portals.py`. That
+script saves any copy whose text changed to `<YYYY-MM-DD>/`, and the refresh uses it
+right away. The same script also runs on a laptop in the evening (the
+loyalty-q-reports FAA job). That job was the only re-check before 2026-10-28; it's kept
+as a backup for now.
 
-If it doesn't run, the daily refresh keeps those questionnaires' last flags, and their
+If the re-check fails, the refresh still runs: those questionnaires keep their last
+flags, `last_run.json` records the failure (`blocked_portal_check`), and their
 `checked_date` shows how old they are. When the newest check is older than yesterday,
 `last_run.json` gets a warning (and so an issue and a line at the top of the email). On
 2026-10-24 the email reported 22 FAA postings with the Loyalty Q from the 2026-10-22
 check; that evening's check found all 22 had switched to the new wording.
 
-- `blocked_portal_checks.csv`: append-only, one row per questionnaire per local run,
+- `blocked_portal_checks.csv`: append-only, one row per questionnaire per re-check,
   with its flags, so each has a date it was last verified even when nothing changed.
 
 ## One-off re-check, 2026-09-28

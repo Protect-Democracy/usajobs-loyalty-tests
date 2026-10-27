@@ -460,7 +460,7 @@ def test_run_warnings_for_a_day_like_2026_10_23():
     w = r.run_warnings(summary, status, date(2026, 10, 24))
     assert len(w) == 4
     assert w[0].startswith("124 open postings (22 with the Loyalty Q) weren't in today's USAJobs listing")
-    assert 'last checked on 2026-10-22' in w[1] and "didn't run" in w[1]
+    assert 'last checked on 2026-10-22: no re-check has succeeded since' in w[1]
     assert w[2] == '22 open postings with the Loyalty Q rest on one of those older answers.'
     assert w[3].startswith('331 questionnaires')
     quiet = {'open_postings_not_listed_today': 3, 'open_postings_not_listed_today_with_loyalty_q': 0,
@@ -471,7 +471,7 @@ def test_run_warnings_for_a_day_like_2026_10_23():
     tue = status.assign(checked_date='2026-10-26')
     tue.loc[0, 'checked_date'] = ''
     w = r.run_warnings(quiet | {'open_postings_with_loyalty_q_checked_before_yesterday': 1}, tue, date(2026, 10, 27))
-    assert len(w) == 2 and "haven't been re-checked yet" in w[0] and "didn't run" not in w[0], w
+    assert len(w) == 2 and "haven't been re-checked since their postings joined the list" in w[0], w
     assert w[1] == '1 open postings with the Loyalty Q rest on one of those older answers.'
 
 
@@ -580,7 +580,31 @@ def test_open_postings_carry_reopened_dates():
     assert out.loc[2, 'reopened_date'] == '2026-10-23'                    # kept unlisted: carried over
 
 
+def test_check_blocked_portals_reports_and_never_raises():
+    import refresh_open_questionnaires as r
+    seen = []
+
+    def ok(urls, out_dir):
+        seen.append(list(urls))
+        return [{'status': 'ok'}, {'status': 'blocked_or_empty_page'}]
+    assert r.check_blocked_portals(['a', 'b'], 'd', recheck=ok) == {'questionnaires': 2, 'ok': 1, 'failed': 1, 'error': ''}
+    assert seen == [['a', 'b']]
+
+    def boom(urls, out_dir):
+        raise RuntimeError('Chrome did not start')
+    out = r.check_blocked_portals(['a', 'b'], 'd', recheck=boom)
+    assert out['failed'] == 2 and out['error'] == 'RuntimeError: Chrome did not start'
+    # and it shows up as a warning
+    from datetime import date
+    status = pd.DataFrame(columns=r.STATUS_COLUMNS)
+    w = r.run_warnings({'open_postings_not_listed_today': 0, 'open_postings_not_listed_today_with_loyalty_q': 0,
+                        'open_postings_with_loyalty_q_checked_before_yesterday': 0, 'failed': 0,
+                        'blocked_portal_check': out}, status, date(2026, 10, 28))
+    assert w == ["Today's re-check of questionnaires on portals that block automated checks failed for 2 of 2 "
+                 "(RuntimeError: Chrome did not start); they keep their last check."], w
+
 TESTS = [
+    test_check_blocked_portals_reports_and_never_raises,
     test_reopened_postings_read_from_the_usajobs_page,
     test_usajobs_page_open_date_reads_the_date_display,
     test_open_postings_carry_reopened_dates,

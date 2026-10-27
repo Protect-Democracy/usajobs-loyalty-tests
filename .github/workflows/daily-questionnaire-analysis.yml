@@ -109,7 +109,17 @@ jobs:
       continue-on-error: true
       run: |
         cd src/generate_site
-        python refresh_open_questionnaires.py
+        # jobs.faa.gov turns away headless browsers but lets a real Chrome window in, from
+        # a runner too (tested 2026-10-27), so its questionnaires are re-checked here on a
+        # virtual display: today's list, before the email goes out. Without a display the
+        # refresh still runs, and those keep their last check (warned in last_run.json).
+        command -v xvfb-run >/dev/null || sudo apt-get install -y xvfb >/dev/null || true
+        if command -v xvfb-run >/dev/null && command -v google-chrome >/dev/null; then
+          xvfb-run -a python refresh_open_questionnaires.py --check-blocked-portals
+        else
+          echo "::warning::No xvfb-run or google-chrome: skipping the jobs.faa.gov re-check"
+          python refresh_open_questionnaires.py
+        fi
 
     - name: Rebuild website JSON with today's re-check
       # The site reports each posting's latest re-checked status, and the first

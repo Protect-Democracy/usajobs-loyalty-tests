@@ -34,8 +34,9 @@ posting_not_listed in current_status.csv).
 
 Every questionnaire row, and every open posting, has a checked_date: the day its
 flags were last confirmed against the questionnaire itself. That is today for a
-fetched questionnaire; for a blocked portal it is the last local re-check
-(blocked_portal_checks.csv), which can be days old if that job didn't run.
+fetched questionnaire; for a blocked portal (jobs.faa.gov) it is the last re-check
+through a Chrome window (blocked_portal_checks.csv): today's when the daily run is
+given --check-blocked-portals and it works, else the laptop job's.
 last_run.json counts what was carried over and lists warnings, which the daily
 workflow turns into an issue and the daily email shows at the top. Each open
 posting's questionnaires are found from scratch every day, the same way a new
@@ -336,6 +337,24 @@ def is_blocked_portal(url):
     return 'apply.usastaffing.gov/ViewQuestionnaire/' not in url and 'monstergovt.com' not in url
 
 
+def check_blocked_portals(urls, out_dir, recheck=None):
+    """Re-checks questionnaires on blocked portals (jobs.faa.gov) through a Chrome window
+    (recheck_blocked_portals.recheck; the run needs a display, e.g. xvfb-run), so today's
+    list is covered before the email goes out, new and reopened postings included. Never
+    raises: if Chrome or the portal fails, those questionnaires keep their last check,
+    which run_warnings reports. Returns counts for last_run.json."""
+    if recheck is None:
+        from recheck_blocked_portals import recheck
+    try:
+        rows = recheck(urls, out_dir)
+    except Exception as e:
+        print(f'Blocked-portal re-check failed: {type(e).__name__}: {e}', file=sys.stderr, flush=True)
+        return {'questionnaires': len(urls), 'ok': 0, 'failed': len(urls), 'error': f'{type(e).__name__}: {e}'[:300]}
+    ok = sum(r['status'] == 'ok' for r in rows)
+    print(f'{ok:,} of {len(urls):,} blocked-portal questionnaires re-checked through Chrome', flush=True)
+    return {'questionnaires': len(urls), 'ok': ok, 'failed': len(urls) - ok, 'error': ''}
+
+
 def blocked_portal_urls_of(previous_status, kept_ids, known_urls):
     """{questionnaire_url: 'id;id'} for the blocked-portal questionnaires of postings
     kept although USAJobs didn't list them (unlisted_postings), other than ones today's
@@ -584,24 +603,29 @@ def run_warnings(summary, status, today):
                    "Loyalty Q) weren't in today's USAJobs listing although their own pages don't say they "
                    "closed. They are counted as open with their last re-checked flags.")
     blocked = status[status['fetch_status'] == 'skipped_blocked_domain']
-    # Checked before yesterday: the local re-check (recheck_blocked_portals.py) didn't run.
-    # Never checked: its posting wasn't on the list when the re-check last ran (new, back in
-    # the listing, or reopened today; 2026-10-27: an FAA posting reopened that morning, the
-    # evening after a re-check that did run), so the flags come from the copy saved when
-    # the questionnaire was first found.
+    # Re-checked by this run (--check-blocked-portals) or the laptop job; both write
+    # blocked_portal_checks.csv. Checked before yesterday: neither has succeeded since.
+    # Never checked: its posting is new to the list (new, back in the listing, or reopened)
+    # and no re-check has succeeded since (2026-10-27: an FAA posting reopened the morning
+    # after the laptop's evening re-check), so the flags come from the copy saved when the
+    # questionnaire was first found.
     stale = blocked[(blocked['checked_date'] != '') & (blocked['checked_date'] < (today - timedelta(days=1)).isoformat())]
     never = blocked[blocked['checked_date'] == '']
     if len(stale):
         out.append(f"{len(stale):,} questionnaires on portals that block automated checks (e.g. jobs.faa.gov) "
-                   f"were last checked on {min(stale['checked_date'])}, not yesterday: the local re-check "
-                   "(recheck_blocked_portals.py) didn't run.")
+                   f"were last checked on {min(stale['checked_date'])}: no re-check has succeeded since.")
     if len(never):
         out.append(f"{len(never):,} questionnaires on portals that block automated checks (e.g. jobs.faa.gov) "
-                   "haven't been re-checked yet: their postings weren't on the list when the local re-check last "
-                   "ran. Their answers come from the copy saved when each was first found.")
+                   "haven't been re-checked since their postings joined the list. Their answers come from the copy "
+                   "saved when each was first found.")
     n_q = summary['open_postings_with_loyalty_q_checked_before_yesterday']
     if n_q and (len(stale) or len(never)):
         out.append(f"{n_q:,} open postings with the Loyalty Q rest on one of those older answers.")
+    check = summary.get('blocked_portal_check')
+    if check and check['failed']:
+        out.append(f"Today's re-check of questionnaires on portals that block automated checks failed for "
+                   f"{check['failed']:,} of {check['questionnaires']:,}"
+                   + (f" ({check['error']})" if check['error'] else '') + '; they keep their last check.')
     if summary['failed'] >= WARN_FAILED:
         out.append(f"{summary['failed']:,} questionnaires couldn't be fetched today; they keep their last "
                    "re-checked flags.")
@@ -613,6 +637,8 @@ def main():
     parser.add_argument('--out-dir', default='questionnaire_rechecks')
     parser.add_argument('--limit', type=int, help='Only refresh this many questionnaires (for testing)')
     parser.add_argument('--workers', type=int, default=5)
+    parser.add_argument('--check-blocked-portals', action='store_true',
+                        help="Re-check jobs.faa.gov etc. through a Chrome window first (needs a display, e.g. xvfb-run)")
     args = parser.parse_args()
 
     out_dir = Path(args.out_dir)
@@ -657,6 +683,11 @@ def main():
     if kept_blocked:
         print(f'{len(kept_blocked):,} blocked-portal questionnaires of those postings stay on the local '
               're-check list', flush=True)
+
+    blocked_check = None
+    if args.check_blocked_portals and not args.limit:
+        blocked_check = check_blocked_portals([u for u in urls if is_blocked_portal(u)], out_dir)
+        blocked_checked = blocked_portal_check_dates(out_dir)
 
     with ThreadPoolExecutor(args.workers) as pool:
         fetched = list(pool.map(lambda u: fetch(u, by_url[u].split(';'), u in verify_urls, announcements_by_url[u]), urls))
@@ -818,6 +849,8 @@ def main():
             ((postings['listed_today'] == 'False') & (postings['has_loyalty_q'] == 'True')).sum()),
         'unlisted_outcomes': pd.Series(unlisted_outcomes, dtype=str).value_counts().to_dict(),
         'blocked_portal_last_checked': max(blocked_checked.values(), default=''),
+        # This run's own re-check of blocked portals (--check-blocked-portals); null if not run.
+        'blocked_portal_check': blocked_check,
         # Open postings with the Loyalty Q whose flags rest on a check older than yesterday.
         'open_postings_with_loyalty_q_checked_before_yesterday': int(
             ((postings['has_loyalty_q'] == 'True')
