@@ -23,6 +23,7 @@ from questionnaire_utils import (
     infer_questionnaire_url_from_announcement, discover_questionnaire_url_from_usajobs_posting,
     questionnaire_text_matches_announcement, questionnaire_links_for_posting,
     load_known_bad_urls, append_known_bad_url, fetch_usastaffing_questionnaire,
+    is_blocked_portal,
 )
 
 # job_fields lives one level up in src/ so the collector and the site scripts
@@ -541,7 +542,10 @@ def scrape_questionnaire_worker(args):
         # and the scrape failed after retries, record it as known-bad so we
         # don't re-add it to the CSV on subsequent runs. We only blacklist
         # guessed URLs — URLs that came directly from the API are presumed real.
-        if questionnaire.get('inferred_from_announcement') or questionnaire.get('inferred_from_posting_html'):
+        # Not blocked portals (jobs.faa.gov): their scrape fails on the bot check, not
+        # because the link is wrong, and the daily refresh reads them through Chrome.
+        if ((questionnaire.get('inferred_from_announcement') or questionnaire.get('inferred_from_posting_html'))
+                and not is_blocked_portal(questionnaire['questionnaire_url'])):
             with progress_lock:
                 append_known_bad_url(questionnaire['questionnaire_url'])
         with progress_lock:

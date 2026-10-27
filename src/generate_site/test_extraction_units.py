@@ -15,6 +15,7 @@ import pandas as pd
 
 import os
 import tempfile
+from pathlib import Path
 
 from questionnaire_utils import (
     discover_qid_from_usajobs_html,
@@ -470,6 +471,7 @@ def test_run_warnings_for_a_day_like_2026_10_23():
     # 2026-10-27: the re-check ran the evening before, but one FAA posting reopened that morning
     tue = status.assign(checked_date='2026-10-26')
     tue.loc[0, 'checked_date'] = ''
+    tue.loc[0, 'text_file'] = '../raw_questionnaires/x.txt'
     w = r.run_warnings(quiet | {'open_postings_with_loyalty_q_checked_before_yesterday': 1}, tue, date(2026, 10, 27))
     assert len(w) == 2 and "haven't been re-checked since their postings joined the list" in w[0], w
     assert w[1] == '1 open postings with the Loyalty Q rest on one of those older answers.'
@@ -603,7 +605,42 @@ def test_check_blocked_portals_reports_and_never_raises():
     assert w == ["Today's re-check of questionnaires on portals that block automated checks failed for 2 of 2 "
                  "(RuntimeError: Chrome did not start); they keep their last check."], w
 
+def test_blacklisted_faa_links_are_kept_and_unread_ones_warned():
+    """2026-10-27: the scraper had blacklisted 136 open FAA postings' questionnaires because
+    jobs.faa.gov's bot check turned it away, and the refresh dropped them."""
+    import refresh_open_questionnaires as r
+    from datetime import date
+    faa, usas, monster = ('https://jobs.faa.gov/Preview/100931', 'https://apply.usastaffing.gov/ViewQuestionnaire/1',
+                          'https://jobs.monstergovt.com/x/vacancy/previewVacancyQuestions.hms?jnum=1')
+    listing = pd.DataFrame({'usajobs_control_number': ['1', '2', '3'], 'questionnaire_links': [json.dumps([u]) for u in (faa, usas, monster)],
+                            'mentions_questionnaire': 'True', 'uses_usastaffing': 'False', 'announcement_number': 'A',
+                            'position_uri': '', 'position_close_date': '2026-11-12', 'listed_date': '2026-10-27'})
+    jobs = pd.DataFrame({'usajobs_control_number': [1, 2, 3], 'hiring_agency': 'X', 'position_title': 'T',
+                         'position_open_date': '2026-10-20', 'position_close_date': '2026-11-12'})
+    with tempfile.TemporaryDirectory() as d:
+        listing.to_csv(Path(d) / 'listing.csv', index=False)
+        jobs.to_csv(Path(d) / 'all_jobs_clean.csv', index=False)
+        old = (r.CURRENT_LISTING, r.load_known_bad_urls, os.getcwd())
+        r.CURRENT_LISTING, r.load_known_bad_urls = Path(d) / 'listing.csv', lambda: {faa, usas, monster}
+        os.chdir(d)
+        try:
+            _, links, _, _ = r.open_postings_and_links(pd.Timestamp('2026-10-27'))
+        finally:
+            r.CURRENT_LISTING, r.load_known_bad_urls = old[:2]
+            os.chdir(old[2])
+    assert sorted(links['questionnaire_url']) == [usas, faa]     # the Monster one is still dropped
+    # An FAA questionnaire the Chrome check couldn't read and that was never saved
+    cols = r.STATUS_COLUMNS
+    status = pd.DataFrame([dict.fromkeys(cols, '') | {'fetch_status': 'skipped_blocked_domain'}], columns=cols)
+    quiet = {'open_postings_not_listed_today': 0, 'open_postings_not_listed_today_with_loyalty_q': 0,
+             'open_postings_with_loyalty_q_checked_before_yesterday': 0, 'failed': 0}
+    assert r.run_warnings(quiet, status, date(2026, 10, 28)) == [
+        '1 questionnaires on portals that block automated checks (e.g. jobs.faa.gov) have never been read, so '
+        'their postings are counted as not having the Loyalty Q or Question 5 whether they do or not.']
+
+
 TESTS = [
+    test_blacklisted_faa_links_are_kept_and_unread_ones_warned,
     test_check_blocked_portals_reports_and_never_raises,
     test_reopened_postings_read_from_the_usajobs_page,
     test_usajobs_page_open_date_reads_the_date_display,

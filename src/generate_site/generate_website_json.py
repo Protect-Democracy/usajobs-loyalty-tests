@@ -346,7 +346,8 @@ def main():
         'usajobs_control_number')[['usajobs_control_number', 'questionnaire_url']]
     current['usajobs_control_number'] = current['usajobs_control_number'].astype('int64')
     current['questionnaire_id'] = current['questionnaire_url'].apply(lambda url: extract_questionnaire_id(url)[1])
-    # Links the scraper judged broken aren't re-checked (the refresh drops them), but
+    # Links the scraper judged broken aren't re-checked (the refresh drops them, except
+    # on blocked portals such as jobs.faa.gov, which are in current_status.csv), but
     # they still tell viewers a posting had a link we couldn't verify, so they stay.
     from questionnaire_utils import load_known_bad_urls
     is_open_link = links_df['usajobs_control_number'].astype(str).isin(open_ids)
@@ -447,7 +448,9 @@ def main():
     all_jobs_for_display['has_eo_question'] = all_jobs_for_display['usajobs_control_number'].isin(jobs_with_eo)
 
     # Create questionnaire status column (later assignments override earlier ones)
-    all_jobs_for_display['questionnaire_status'] = 'No questionnaire'
+    # "found": some postings have a questionnaire we can't see (2026-10-27: 476 open
+    # USAStaffing postings whose only clue was the announcement number).
+    all_jobs_for_display['questionnaire_status'] = 'No questionnaire found'
     all_jobs_for_display.loc[all_jobs_for_display['only_bad_link'], 'questionnaire_status'] = 'Questionnaire URL could not be verified'
     all_jobs_for_display.loc[all_jobs_for_display['has_valid_link'], 'questionnaire_status'] = 'Has questionnaire (not scraped)'
     all_jobs_for_display.loc[all_jobs_for_display['questionnaire_scraped'], 'questionnaire_status'] = 'Questionnaire without EO question'

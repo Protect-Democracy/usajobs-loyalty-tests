@@ -83,6 +83,7 @@ from questionnaire_utils import (  # noqa: E402
     RAW_QUESTIONNAIRES_DIR,
     fetch_usastaffing_questionnaire_json,
     get_questionnaire_filename,
+    is_blocked_portal,
     load_known_bad_urls,
     questionnaire_json_to_text,
     transform_monster_url,
@@ -331,12 +332,6 @@ def carry_status_rows(status, previous_status, kept_ids):
     return status
 
 
-def is_blocked_portal(url):
-    """True for a questionnaire fetch() can't read (it returns skipped_blocked_domain):
-    anything that isn't a USAStaffing or Monster questionnaire, e.g. jobs.faa.gov."""
-    return 'apply.usastaffing.gov/ViewQuestionnaire/' not in url and 'monstergovt.com' not in url
-
-
 def check_blocked_portals(urls, out_dir, recheck=None):
     """Re-checks questionnaires on blocked portals (jobs.faa.gov) through a Chrome window
     (recheck_blocked_portals.recheck; the run needs a display, e.g. xvfb-run), so today's
@@ -425,7 +420,8 @@ def open_postings_and_links(today):
     def find(row):
         links, by_announcement, by_page = questionnaire_links_for_posting(
             load_questionnaire_links(row.questionnaire_links), row.mentions_questionnaire == 'True',
-            row.uses_usastaffing == 'True', row.announcement_number, row.position_uri, session=session)
+            row.uses_usastaffing == 'True', row.announcement_number, row.position_uri, session=session,
+            guess_any=True)
         return [(row.usajobs_control_number, url, by_announcement or by_page, row.announcement_number) for url in links]
 
     with ThreadPoolExecutor(5) as pool:
@@ -441,11 +437,16 @@ def open_postings_and_links(today):
     # some are live questionnaires for the right posting (2 open postings with the
     # old question were hidden that way on 2026-09-29). Blacklisted USAStaffing
     # links are kept and verified in fetch() against the questionnaire's own
-    # control number; blacklisted links on other sites can't be verified and are
+    # control number. Blacklisted links on blocked portals (jobs.faa.gov) are kept too:
+    # the scraper blacklisted them because it can't get past the portal's bot check,
+    # not because they're broken (on 2026-10-27 that hid 136 of the 182 open FAA
+    # postings' questionnaires). The Chrome re-check reads them and checks each page
+    # is that questionnaire. Blacklisted Monster links can't be verified and are
     # dropped as before.
     blacklisted = links['questionnaire_url'].isin(load_known_bad_urls())
     usastaffing = links['questionnaire_url'].str.contains('apply.usastaffing.gov/ViewQuestionnaire/', regex=False)
-    links = links[~blacklisted | usastaffing].assign(blacklisted=blacklisted)
+    blocked = links['questionnaire_url'].map(is_blocked_portal)
+    links = links[~blacklisted | usastaffing | blocked].assign(blacklisted=blacklisted)
     return jobs, links.drop_duplicates(['usajobs_control_number', 'questionnaire_url']), not_in_job_data, has_direct
 
 
@@ -610,7 +611,8 @@ def run_warnings(summary, status, today):
     # after the laptop's evening re-check), so the flags come from the copy saved when the
     # questionnaire was first found.
     stale = blocked[(blocked['checked_date'] != '') & (blocked['checked_date'] < (today - timedelta(days=1)).isoformat())]
-    never = blocked[blocked['checked_date'] == '']
+    never = blocked[(blocked['checked_date'] == '') & (blocked['text_file'] != '')]
+    unread = blocked[(blocked['checked_date'] == '') & (blocked['text_file'] == '')]
     if len(stale):
         out.append(f"{len(stale):,} questionnaires on portals that block automated checks (e.g. jobs.faa.gov) "
                    f"were last checked on {min(stale['checked_date'])}: no re-check has succeeded since.")
@@ -618,8 +620,12 @@ def run_warnings(summary, status, today):
         out.append(f"{len(never):,} questionnaires on portals that block automated checks (e.g. jobs.faa.gov) "
                    "haven't been re-checked since their postings joined the list. Their answers come from the copy "
                    "saved when each was first found.")
+    if len(unread):
+        out.append(f"{len(unread):,} questionnaires on portals that block automated checks (e.g. jobs.faa.gov) "
+                   "have never been read, so their postings are counted as not having the Loyalty Q or "
+                   "Question 5 whether they do or not.")
     n_q = summary['open_postings_with_loyalty_q_checked_before_yesterday']
-    if n_q and (len(stale) or len(never)):
+    if n_q and (len(stale) or len(never) or len(unread)):
         out.append(f"{n_q:,} open postings with the Loyalty Q rest on one of those older answers.")
     check = summary.get('blocked_portal_check')
     if check and check['failed']:

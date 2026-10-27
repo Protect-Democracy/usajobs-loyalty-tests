@@ -266,8 +266,18 @@ def discover_questionnaire_url_from_usajobs_posting(position_uri, session=None, 
 
 
 
+def announcement_number_guesses(announcement_number):
+    """Every USAStaffing ViewQuestionnaire URL an announcement number could point to:
+    each distinct 7-9 digit token, 8-digit ones first (e.g. 'DE-13101174-27-ALK' ->
+    13101174). Most are wrong for a posting that doesn't use USAStaffing; callers
+    verify each against the questionnaire's own control number."""
+    tokens = re.findall(r'(?<!\d)(\d{7,9})(?!\d)', str(announcement_number or ''))
+    tokens = sorted(dict.fromkeys(tokens), key=lambda t: len(t) != 8)
+    return [f'https://apply.usastaffing.gov/ViewQuestionnaire/{t}' for t in tokens]
+
+
 def questionnaire_links_for_posting(direct_links, mentions_questionnaire, uses_usastaffing, announcement_number,
-                                    position_uri, fetch_usajobs_html=True, session=None):
+                                    position_uri, fetch_usajobs_html=True, session=None, guess_any=False):
     """A posting's questionnaire links: the ones in its text, else a guess from its
     announcement number, else one found on its rendered USAJobs page.
 
@@ -278,7 +288,14 @@ def questionnaire_links_for_posting(direct_links, mentions_questionnaire, uses_u
     Fallback 1 is gated on uses_usastaffing because the guess only makes sense as an
     apply.usastaffing.gov URL. Fallback 2 isn't: that flag is False for jobs that apply
     through an agency-branded portal on another domain (e.g. FAA's jobs.faa.gov),
-    which is the case it exists to catch."""
+    which is the case it exists to catch.
+
+    guess_any (the daily refresh, which verifies every guess): a posting still without
+    a link gets every number in its announcement number tried, whatever its flags say.
+    USAJobs marks some USAStaffing postings as not using it, and many don't mention a
+    questionnaire; on 2026-10-27, 476 open postings (2 with the Loyalty Q) had a
+    USAStaffing questionnaire found only this way. It comes last so it can't stand in
+    for a link on the posting's page (jobs.faa.gov announcement numbers have numbers too)."""
     links = list(direct_links)
     inferred_from_announcement = inferred_from_posting_html = False
     if not links and mentions_questionnaire and uses_usastaffing:
@@ -291,7 +308,17 @@ def questionnaire_links_for_posting(direct_links, mentions_questionnaire, uses_u
         if discovered_url:
             links.append(discovered_url)
             inferred_from_posting_html = True
+    if not links and guess_any:
+        links = announcement_number_guesses(announcement_number)
+        inferred_from_announcement = bool(links)
     return links, inferred_from_announcement, inferred_from_posting_html
+
+def is_blocked_portal(url):
+    """True for a questionnaire that plain requests and headless browsers can't read:
+    anything that isn't a USAStaffing or Monster questionnaire, e.g. jobs.faa.gov.
+    Only a real Chrome window gets through (recheck_blocked_portals.py)."""
+    return 'apply.usastaffing.gov/ViewQuestionnaire/' not in url and 'monstergovt.com' not in url
+
 
 def load_known_bad_urls(path=None):
     """Load the set of URLs previously confirmed to not exist."""
