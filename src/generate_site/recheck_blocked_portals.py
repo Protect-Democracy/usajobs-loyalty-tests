@@ -14,8 +14,13 @@ for why that gets through), and records what each says now:
                        questionnaire per run, so there's a date each was last
                        verified even when nothing changed.
 
-It runs locally (scheduled on a laptop), never in GitHub Actions. Exits 1 if any
-questionnaire couldn't be fetched or the page didn't match its posting.
+The daily refresh calls recheck() itself (--check-blocked-portals) with a Chrome
+window on a virtual display: jobs.faa.gov's bot check (Akamai) turns away
+headless browsers, from a home IP or GitHub's alike, but let a GitHub runner's
+headed Chrome in (tested 2026-10-27). Run on its own, it attaches to a Chrome
+started by hand (the laptop job, run_faa_recheck.sh in loyalty-q-reports), and
+exits 1 if any questionnaire couldn't be fetched or the page didn't match its
+posting.
 
 Usage:
     1. Start Chrome with remote debugging:
@@ -59,22 +64,22 @@ def fetch_page_text(page, url):
     return 'ok', text
 
 
-def main():
-    parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    parser.add_argument('--out-dir', default='questionnaire_rechecks')
-    parser.add_argument('--cdp-url', default='http://localhost:9222')
-    args = parser.parse_args()
-
-    out_dir = Path(args.out_dir)
-    status = pd.read_csv(out_dir / 'current_status.csv', dtype=str, keep_default_na=False)
-    urls = status.loc[status['fetch_status'] == 'skipped_blocked_domain', 'questionnaire_url'].tolist()
+def recheck(urls, out_dir, cdp_url=None):
+    """Fetches each URL through a real Chrome and records it (see the module docstring).
+    cdp_url: attach to a Chrome already running with remote debugging; None: launch
+    Chrome with a window (it needs a display, e.g. xvfb-run on a server). Returns the
+    rows appended to blocked_portal_checks.csv."""
+    out_dir = Path(out_dir)
+    out_dir.mkdir(parents=True, exist_ok=True)
     today = datetime.now(timezone.utc).date().isoformat()
-    print(f'{len(urls)} open questionnaires on blocked portals', flush=True)
-
     rows = []
     with sync_playwright() as pw:
-        browser = pw.chromium.connect_over_cdp(args.cdp_url)
-        page = browser.contexts[0].new_page()
+        if cdp_url:
+            browser = pw.chromium.connect_over_cdp(cdp_url)
+            page = browser.contexts[0].new_page()
+        else:
+            browser = pw.chromium.launch(headless=False, channel='chrome')
+            page = browser.new_page()
         # A fixed size, so responsive layout (e.g. FAA's header spelling out
         # "AVIATOR") doesn't make the same questionnaire read as changed text.
         page.set_viewport_size({'width': 1280, 'height': 900})
@@ -100,9 +105,25 @@ def main():
             print(f"  {url}: {row['status']} loyalty_q={row.get('has_loyalty_q', '')}", flush=True)
             time.sleep(2 + random.random() * 2)
         page.close()
+        if not cdp_url:
+            browser.close()
 
     log_path = out_dir / 'blocked_portal_checks.csv'
     pd.DataFrame(rows, columns=LOG_COLUMNS).to_csv(log_path, mode='a', index=False, header=not log_path.exists())
+    return rows
+
+
+def main():
+    parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    parser.add_argument('--out-dir', default='questionnaire_rechecks')
+    parser.add_argument('--cdp-url', default='http://localhost:9222')
+    args = parser.parse_args()
+
+    out_dir = Path(args.out_dir)
+    status = pd.read_csv(out_dir / 'current_status.csv', dtype=str, keep_default_na=False)
+    urls = status.loc[status['fetch_status'] == 'skipped_blocked_domain', 'questionnaire_url'].tolist()
+    print(f'{len(urls)} open questionnaires on blocked portals', flush=True)
+    rows = recheck(urls, out_dir, args.cdp_url)
     failed = [r for r in rows if r['status'] != 'ok']
     print(f"{len(rows) - len(failed)} checked, {sum(r['saved_new_copy'] for r in rows)} with new text, "
           f"{len(failed)} failed", flush=True)
