@@ -1,0 +1,251 @@
+Position Title
+Utility Systems Repairer Operator
+Agency
+National Institute of Standards and Technology
+Announcement Number
+OFPM-193-27-13099922-AS
+Open Period
+Oct 27, 2026 to Nov 09, 2026
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+2.
+Are you eligible fo r derived preference or military spouse preference for a PCS move? To verify your eligibility, you must submit the documents outlined on the Required Documents site.
+ Yes
+ No
+3.
+Are you a current or former federal employee DISPLACED from the Department of Commerce? For more information, review the USAJOBS Help Center. To verify your eligibility, you must submit the documents outlined on the Required Documents site.
+ Yes
+ No
+4.
+Are you a current or former federal employee DISPLACED from a position in a Federal agency OTHER THAN the Department of Commerce? For more information, review the USAJOBS Help Center. To verify your eligibility, you must submit the documents outlined on the Required Documents site.
+ Yes
+ No
+5.
+Are you a current Federal or former employee on a career or career-conditional appointment in the competitive service? To verify your eligibility, you must submit the documents outlined on the Required Documents site.
+ Yes
+ No
+6.
+Are you a United States citizen?
+ Yes
+ No
+7.
+Are you a former Peace Corps volunteer or VISTA member? To verify your eligibility, you must submit the documents outlined on the Required Documents site.
+ Yes
+ No
+8.
+Are you applying for eligibility based on the Schedule A hiring authority for the employment of persons with severe physical, intellectual, or psychiatric disabilities? Learn more about Schedule A. To verify your eligibility, you must submit the documents outlined on the Required Documents site.
+ Yes
+ No
+9.
+Are you a veteran eligible for an appointment under the Veterans Employment Opportunity Act ? For more information, review USAJOBS Veterans resources. USAJOBS Veterans resources To verify your eligibility, you must submit the documents outlined on the Required Documents site that verify your current employment with the Department of Commerce.
+ Yes
+ No
+10.
+Are you a veteran eligible to be hired under the Veterans Recruitment Authority (VRA) ? To verify your eligibility, you must submit the documents outlined on the Required Documents site.
+ Yes
+ No
+Preferences
+1.
+Select the lowest grade you are willing to accept for this position.
+ 10
+ 11
+ 12
+2.
+Have you held a political appointment within the previous 5-year period?
+ Yes
+ No
+3.
+I authorize the sharing of my application for other similar positions within NIST.
+ Yes
+ No
+4.
+How did you learn about this position?
+ College or University
+ Advertisement in Newspaper or Journal
+ Conference or Meeting
+ Professional Organization
+ Job Fair
+ Word of mouth, e.g., from a friend or family member
+ USAJOBS search
+ NIST Careers website
+ LinkedIn
+ Facebook
+ Twitter
+ None of the above
+ Other
+5.
+If you heard about this vacancy through a Conference or Job Fair, please indicate which event by selecting from the list below.
+ RecruitMilitary Career Fair
+ Maryland School Week (Howard Community College, UMD, and Towson)
+ Biomedical Engineering Society 2026 Annual Meeting
+ Colorado School Week (CU Denver, Colorado School of Mines, and Community College of Denver)
+ American Institute of Chemical Engineers Annual Meeting
+ Society for Industrial and Applied Mathematics (SIAM) Conference
+ Student Veterans of America 19th Annual NatCon
+ CyberCorps Scholarship for Service Career Fair
+ Maryland School Week (Frederick Community College, Montgomery College, and UMBC)
+ Colorado School Week (Front Range Community College, Metro State University, and CU Boulder)
+ National Science Teaching Association's National Conference on Science Education
+ American Chemical Society Spring Meeting
+ RecruitMilitary Career Fair
+ APS Global Physics Summit 2027
+ Symposium on Data Science & Statistics (SDSS) Conference
+ IEEE International Conference on Communications (ICC) Conference
+ High Impact Technology Exchange Conference
+ Service Academy Career Conference
+ Disabled American Veterans (DAV) Career Fair
+ DC School Week (Georgetown, Catholic University, GW)
+ Denver School Week (Regis University, University of Denver, Red Rocks Community College)
+ Handshake Job Posting
+ LinkedIn Job Posting (NIST Careers)
+ a NIST Talent Ambassador
+WG-4742-10/11/12
+1.
+From the descriptions below, select the response that best matches your level of experience, education, and/or training. You must fully possess the selected qualification and demonstrate the ability to perform the duties of this position without more than normal supervision. The duties of this position include: Troubleshooting operating and maintenance problems involving high-pressure steam, industrial chiller, cogeneration, and associated utility systems. Determining appropriate maintenance or repair methods for utility system equipment based on operating conditions and established procedures. Analyzing instrument readings and test results to identify equipment malfunctions and determine necessary adjustments or repairs. Interpreting blueprints, operating and maintenance manuals, and technical specifications to perform utility system work. Using specialized tools and equipment to adjust, maintain, and repair high-pressure steam, industrial chiller, cogeneration, and associated utility systems.
+ I have no education, training, or experience performing work related to the operation, maintenance, repair, testing, or troubleshooting of HVAC or utility systems.
+ I have education, training, or experience performing basic or routine HVAC/utility system work, such as assisting with equipment inspections, preventive maintenance, minor repairs, taking system readings, or using basic tools and measuring instruments.
+ I have experience performing a range of HVAC/utility system operation and repair work, such as troubleshooting equipment problems; performing maintenance and repairs; using testing and measuring instruments; and interpreting equipment manuals, diagrams, blueprints, or specifications to complete assigned work.
+ I have experience performing difficult utility system operation, maintenance, and repair work, including troubleshooting equipment malfunctions; analyzing instrument readings and test results; determining appropriate maintenance or repair methods; interpreting blueprints, specifications, and technical manuals; and adjusting, maintaining, and repairing high-pressure steam, industrial chiller, cogeneration, or associated utility systems.
+ I have extensive experience performing complex utility system operation, maintenance, and repair work, including independently diagnosing and resolving complex or unusual system problems; determining appropriate procedures, methods, tools, and corrective actions; interpreting and applying technical specifications and operating manuals; and assisting others in troubleshooting high-pressure steam, industrial chiller, cogeneration, or associated utility systems.
+.
+Select “Yes” or “No” to the following question(s).
+2.
+Do you possess a valid Universal EPA Section 608 Technician Certification (CFC Certification) for handling refrigerants? If selected for an interview, you will be required to provide a copy of your certification prior to or during the interview.
+ Yes
+ No
+.
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+3.
+Apply established safety procedures while operating, maintaining, and repairing complex HVAC and utility systems.
+ I know little or nothing about this.
+ I have had study or training in this.
+ I have used my knowledge or ability, but I have been closely supervised.
+ I have used my knowledge or ability on my own, under normal supervision.
+ I am consulted by other journeypersons in difficult situations, or I am called on to do unusually difficult jobs.
+4.
+Perform lockout/tagout and other required safety procedures during utility system maintenance and repairs.
+ I know little or nothing about this.
+ I have had study or training in this.
+ I have used my knowledge or ability, but I have been closely supervised.
+ I have used my knowledge or ability on my own, under normal supervision.
+ I am consulted by other journeypersons in difficult situations, or I am called on to do unusually difficult jobs.
+5.
+Respond safely to equipment malfunctions and abnormal operating conditions in accordance with established procedures.
+ I know little or nothing about this.
+ I have had study or training in this.
+ I have used my knowledge or ability, but I have been closely supervised.
+ I have used my knowledge or ability on my own, under normal supervision.
+ I am consulted by other journeypersons in difficult situations, or I am called on to do unusually difficult jobs.
+6.
+Troubleshoot operating and maintenance problems involving high-pressure steam, industrial chiller, cogeneration, and associated utility systems.
+ I know little or nothing about this.
+ I have had study or training in this.
+ I have used my knowledge or ability, but I have been closely supervised.
+ I have used my knowledge or ability on my own, under normal supervision.
+ I am consulted by other journeypersons in difficult situations, or I am called on to do unusually difficult jobs.
+7.
+Determine appropriate maintenance or repair methods for utility system equipment based on operating conditions and established procedures.
+ I know little or nothing about this.
+ I have had study or training in this.
+ I have used my knowledge or ability, but I have been closely supervised.
+ I have used my knowledge or ability on my own, under normal supervision.
+ I am consulted by other journeypersons in difficult situations, or I am called on to do unusually difficult jobs.
+8.
+Perform adjustments and repairs necessary to maintain safe and efficient utility system operation.
+ I know little or nothing about this.
+ I have had study or training in this.
+ I have used my knowledge or ability, but I have been closely supervised.
+ I have used my knowledge or ability on my own, under normal supervision.
+ I am consulted by other journeypersons in difficult situations, or I am called on to do unusually difficult jobs.
+9.
+Use precision measuring and testing instruments to evaluate the performance of high-pressure steam, industrial chiller, cogeneration, and associated utility systems.
+ I know little or nothing about this.
+ I have had study or training in this.
+ I have used my knowledge or ability, but I have been closely supervised.
+ I have used my knowledge or ability on my own, under normal supervision.
+ I am consulted by other journeypersons in difficult situations, or I am called on to do unusually difficult jobs.
+10.
+Analyze instrument readings and test results to identify equipment malfunctions and determine necessary adjustments or repairs.
+ I know little or nothing about this.
+ I have had study or training in this.
+ I have used my knowledge or ability, but I have been closely supervised.
+ I have used my knowledge or ability on my own, under normal supervision.
+ I am consulted by other journeypersons in difficult situations, or I am called on to do unusually difficult jobs.
+11.
+Use measuring and testing instruments to troubleshoot system problems and verify proper operation following maintenance or repairs.
+ I know little or nothing about this.
+ I have had study or training in this.
+ I have used my knowledge or ability, but I have been closely supervised.
+ I have used my knowledge or ability on my own, under normal supervision.
+ I am consulted by other journeypersons in difficult situations, or I am called on to do unusually difficult jobs.
+12.
+Interpret blueprints, sketches, operating and maintenance manuals, and technical specifications to perform utility system work.
+ I know little or nothing about this.
+ I have had study or training in this.
+ I have used my knowledge or ability, but I have been closely supervised.
+ I have used my knowledge or ability on my own, under normal supervision.
+ I am consulted by other journeypersons in difficult situations, or I am called on to do unusually difficult jobs.
+13.
+Apply technical instructions and equipment documentation when troubleshooting and repairing complex utility system equipment.
+ I know little or nothing about this.
+ I have had study or training in this.
+ I have used my knowledge or ability, but I have been closely supervised.
+ I have used my knowledge or ability on my own, under normal supervision.
+ I am consulted by other journeypersons in difficult situations, or I am called on to do unusually difficult jobs.
+14.
+Use standard operating procedures and technical guidance to determine appropriate actions for system operation and maintenance.
+ I know little or nothing about this.
+ I have had study or training in this.
+ I have used my knowledge or ability, but I have been closely supervised.
+ I have used my knowledge or ability on my own, under normal supervision.
+ I am consulted by other journeypersons in difficult situations, or I am called on to do unusually difficult jobs.
+15.
+Select and use appropriate tools and equipment to perform complex maintenance and repairs on utility systems.
+ I know little or nothing about this.
+ I have had study or training in this.
+ I have used my knowledge or ability, but I have been closely supervised.
+ I have used my knowledge or ability on my own, under normal supervision.
+ I am consulted by other journeypersons in difficult situations, or I am called on to do unusually difficult jobs.
+16.
+Use the full range of applicable trade tools and equipment to adjust, maintain, and repair high-pressure steam, industrial chiller, cogeneration, and associated utility systems.
+ I know little or nothing about this.
+ I have had study or training in this.
+ I have used my knowledge or ability, but I have been closely supervised.
+ I have used my knowledge or ability on my own, under normal supervision.
+ I am consulted by other journeypersons in difficult situations, or I am called on to do unusually difficult jobs.
+17.
+Determine appropriate tools and equipment needed to perform difficult maintenance and repair assignments.
+ I know little or nothing about this.
+ I have had study or training in this.
+ I have used my knowledge or ability, but I have been closely supervised.
+ I have used my knowledge or ability on my own, under normal supervision.
+ I am consulted by other journeypersons in difficult situations, or I am called on to do unusually difficult jobs.
+18.
+Identify materials and replacement components required for maintenance and repair of complex utility systems.
+ I know little or nothing about this.
+ I have had study or training in this.
+ I have used my knowledge or ability, but I have been closely supervised.
+ I have used my knowledge or ability on my own, under normal supervision.
+ I am consulted by other journeypersons in difficult situations, or I am called on to do unusually difficult jobs.
+19.
+Select appropriate materials based on equipment specifications, system requirements, and operating conditions.
+ I know little or nothing about this.
+ I have had study or training in this.
+ I have used my knowledge or ability, but I have been closely supervised.
+ I have used my knowledge or ability on my own, under normal supervision.
+ I am consulted by other journeypersons in difficult situations, or I am called on to do unusually difficult jobs.
+20.
+Evaluate the compatibility and suitability of materials used in high-pressure steam, industrial chiller, and associated utility system repairs.
+ I know little or nothing about this.
+ I have had study or training in this.
+ I have used my knowledge or ability, but I have been closely supervised.
+ I have used my knowledge or ability on my own, under normal supervision.
+ I am consulted by other journeypersons in difficult situations, or I am called on to do unusually difficult jobs.

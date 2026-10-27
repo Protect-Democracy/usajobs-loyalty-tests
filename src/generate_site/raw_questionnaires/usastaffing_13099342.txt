@@ -1,0 +1,62 @@
+Position Title
+TITLE 32 PRODUCTION CONTROLLER GS-1152-09
+Agency
+Army National Guard Units
+Announcement Number
+WV-13099342-AR-26-141
+Open Period
+Oct 26, 2026 to Nov 26, 2026
+Eligibilities
+1.
+All on-board federal employees/technicians within the state for which you are applying (Title 32 and Title 5, Permanent and Excepted Indefinite). Are you a current on-board federal employee or technician within the state for which this position is being advertised? To verify your eligibility, you must submit a copy of your most recent Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Tenure in Block 24 (1, 2,or 3).
+ Yes
+ No
+2.
+Current Army M-Day and current Air DSG members within the state for which you are applying. Are you a current Army M-Day or current Air DSG member within the state for which this position is being advertised?
+ Yes
+ No
+3.
+Are you a current Permanent full-time Dual Status National Guard Technician within the state for which this position is being advertised? To verify your eligibility, you must submit a copy of your Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Permanent full-time status with the state National Guard.
+ Yes
+ No
+T32 GS-1152-09
+.
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+1.
+What is your level of experience establishing and adjusting maintenance and repair plans, schedules, and priorities for a variety of vehicles, equipment, or weapon systems; monitoring work progress; inputting and tracking work order data; and providing status information on maintenance actions, equipment readiness, and equipment location?
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+2.
+What is your level of experience managing reportable equipment and line item data, supporting readiness and property accountability reporting, prioritizing maintenance resources based on operational requirements, and ensuring the accuracy and timely submission of readiness reports?
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+3.
+What is your level of experience programming workload, shop space, and personnel on a short- and long-term basis; planning for maintenance operations and training requirements; monitoring Class IX funding and execution; and conducting demand analysis or stockage reviews to support mission readiness?
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+4.
+What is your level of experience analyzing repair methods, developing maintenance control procedures, coordinating with units and logistics or supply personnel on repair operations and parts shortages, resolving production issues, and providing technical guidance or oversight to production controllers, mechanics, or other maintenance support personnel?
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+.
+Select “Yes” or “No” to the following question(s).
+5.
+Do you have experience, education, or training that demonstrates the ability to reason in quantitative terms; communicate clearly and concisely both orally and in writing; and understand the terminology, data, repair operations, and process characteristics related to a production or maintenance activity?
+ Yes
+ No
+6.
+Do you have at least 1 year of specialized experience equivalent to at least the GS-7 level that included scheduling workflow in more than one area; coordinating products or materials from support activities; performing or supervising journeyman-level work in a production facility; preparing job or work orders; scheduling various phases of work; following up to ensure work progressed as planned; making adjustments in materials, machine processes, and work sequencing; and using automation support programs to input data, provide equipment status, monitor job orders and work priorities, requisition repair parts, and track repair part status?
+ Yes
+ No
