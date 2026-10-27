@@ -483,6 +483,14 @@ def main():
     all_jobs_for_display.loc[is_open_now, 'position_close_date'] = (
         all_jobs_for_display.loc[is_open_now, 'usajobs_control_number'].astype(str).map(open_close))
     all_jobs_for_display['close_date'] = pd.to_datetime(all_jobs_for_display['position_close_date'], format='mixed', errors='coerce').dt.strftime('%m/%d/%Y')
+    # Open postings that closed and were reopened under the same control number: the
+    # day they reopened, from their USAJobs page (open_postings.csv reopened_date). The
+    # open date stays the first one, as in the daily email.
+    open_reopened = (open_postings.set_index('usajobs_control_number')['reopened_date']
+                     if 'reopened_date' in open_postings.columns else pd.Series(dtype=str))
+    open_reopened = open_reopened[open_reopened != '']
+    all_jobs_for_display['reopened_date'] = pd.to_datetime(
+        all_jobs_for_display['usajobs_control_number'].astype(str).map(open_reopened), errors='coerce').dt.strftime('%m/%d/%Y')
     
     # Create occupation display - pad occupation series to 4 digits
     all_jobs_for_display['occupation'] = all_jobs_for_display['occupation_series'].astype(str).str.zfill(4) + ' - ' + all_jobs_for_display['occupation_name'].fillna('Unknown')
@@ -503,6 +511,7 @@ def main():
             'questionnaire_status': job['questionnaire_status'],
             'open': bool(job['is_open']),
             **({'link_inferred': True} if job['link_inferred'] else {}),
+            **({'reopened_date': job['reopened_date']} if pd.notna(job['reopened_date']) else {}),
             'questionnaire_link': transform_monster_url(job['questionnaire_url']) if pd.notna(job.get('questionnaire_url')) else ''
         }
         job_postings.append(posting)

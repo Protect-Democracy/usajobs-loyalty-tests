@@ -942,12 +942,18 @@
                     { data: 'service' },
                     {
                         data: 'open_date',
-                        render: function(data, type) {
-                            if (type === 'sort' && data) {
-                                var parts = data.split('/');
+                        render: function(data, type, row) {
+                            // Reopened postings sort by the day they reopened and show it
+                            // under their first open date.
+                            var sortDate = row.reopened_date || data;
+                            if (type === 'sort' && sortDate) {
+                                var parts = sortDate.split('/');
                                 if (parts.length === 3) {
                                     return parts[2] + '-' + parts[0] + '-' + parts[1];
                                 }
+                            }
+                            if (type === 'display' && row.reopened_date) {
+                                return data + '<div class="small text-muted">Reopened ' + row.reopened_date + '</div>';
                             }
                             return data;
                         }
@@ -1288,7 +1294,7 @@
                 });
             }
             
-            const headers = ['USAJobs ID', 'Position Title', 'Occupation', 'Agency', 'Location', 'Grade', 'Service Type', 'Open Date', 'Close Date', 'Questionnaire Status', 'USAJobs Link', 'Questionnaire Link', 'Open Now', 'Questionnaire Link In Posting'];
+            const headers = ['USAJobs ID', 'Position Title', 'Occupation', 'Agency', 'Location', 'Grade', 'Service Type', 'Open Date', 'Close Date', 'Questionnaire Status', 'USAJobs Link', 'Questionnaire Link', 'Open Now', 'Questionnaire Link In Posting', 'Reopened Date'];
             const csvContent = [
                 headers.join(','),
                 ...allJobsData.map(row => {
@@ -1307,7 +1313,9 @@
                         row.questionnaire_link || '',
                         row.open ? 'Open' : 'Closed',
                         // Known only for open postings, as of the latest re-check.
-                        row.open && row.questionnaire_link ? (row.link_inferred ? 'No (inferred)' : 'Yes') : ''
+                        row.open && row.questionnaire_link ? (row.link_inferred ? 'No (inferred)' : 'Yes') : '',
+                        // Open postings that closed and were reopened under the same control number.
+                        row.reopened_date || ''
                     ].join(',');
                 })
             ].join('\n');
