@@ -488,7 +488,95 @@ def test_kept_postings_faa_questionnaires_stay_on_the_local_recheck_list():
     assert r.fetch('https://jobs.faa.gov/Preview/1')[0] == 'skipped_blocked_domain'
 
 
+def test_reopened_postings_read_from_the_usajobs_page():
+    import refresh_open_questionnaires as r
+    from datetime import date
+    d = pd.to_datetime
+    jobs = pd.DataFrame({
+        'usajobs_control_number': [1, 2, 3, 4, 5, 6],
+        'position_open_date': d(['2026-09-04', '2026-05-18', '2026-10-01', '2026-07-15', '2026-07-02', '2026-07-01']),
+        'first_close_date': d(['2026-09-24', '2026-06-05', '2026-11-01', '2026-08-04', '2026-07-17', '2026-07-20']),
+        'position_close_date': d(['2026-11-16', '2026-11-05', '2026-11-01', '2026-11-05', '2026-11-20', '2026-11-30']),
+    })
+    prev = _prev_postings([
+        # 4 was read and found reopened on an earlier run; its close date hasn't changed
+        {'usajobs_control_number': '4', 'position_close_date': '2026-11-05'},
+        # 5 was read before, but its close date changed since
+        {'usajobs_control_number': '5', 'position_close_date': '2026-11-09'},
+        # 6 was read before and the page couldn't be read
+        {'usajobs_control_number': '6', 'position_close_date': '2026-11-30'},
+    ])
+    prev['page_open_date'] = ['2026-10-23', '2026-10-21', '']
+    prev['reopened_date'] = ['2026-10-23', '2026-10-21', '']
+    prev['original_close_date'] = ['2026-08-04', '2026-07-17', '']
+    pages = {1: '2026-10-27', 2: '2026-05-18', 5: '2026-10-21', 6: ''}
+    looked_up = []
+
+    def page_open_date(cn):
+        looked_up.append(cn)
+        return pages[cn]
+    out = r.reopened_postings(date(2026, 10, 27), jobs, prev, page_open_date=page_open_date, workers=1)
+    assert sorted(looked_up) == [1, 2, 5, 6]          # not 3 (first close date ahead) or 4 (carried)
+    assert out.loc[1, 'reopened_date'] == '2026-10-27' and out.loc[1, 'original_close_date'] == '2026-09-24'
+    assert out.loc[2, 'reopened_date'] == '' and out.loc[2, 'page_open_date'] == '2026-05-18'   # extended
+    assert (out.loc[3] == '').all()
+    assert out.loc[4, 'reopened_date'] == '2026-10-23' and out.loc[4, 'original_close_date'] == '2026-08-04'
+    assert out.loc[5, 'reopened_date'] == '2026-10-21'
+    assert (out.loc[6] == '').all()                    # unreadable: tried again next run
+
+    # Not reopened: a new cycle before the first close date, and renewals on or the day after it
+    cycles = pd.DataFrame({
+        'usajobs_control_number': [7, 8, 9, 10],
+        'position_open_date': d(['2025-10-01', '2026-06-05', '2026-09-11', '2026-10-01']),
+        'first_close_date': d(['2026-09-30', '2026-09-04', '2026-09-30', '2026-10-13']),
+        'position_close_date': d(['2027-01-31', '2026-10-30', '2027-09-30', '2026-11-01']),
+    })
+    pages = {7: '2026-09-01', 8: '2026-09-04', 9: '2026-10-01', 10: '2026-10-15'}
+    out = r.reopened_postings(date(2026, 10, 27), cycles, prev.iloc[0:0], page_open_date=pages.get, workers=1)
+    assert out['reopened_date'].tolist() == ['', '', '', '2026-10-15']   # 10: closed all of 10/14
+
+
+def test_usajobs_page_open_date_reads_the_date_display():
+    import refresh_open_questionnaires as r
+
+    class Resp:
+        status_code = 200
+        text = ('<script>x = { "DateDisplay": "Open 10/27/2026 to 11/16/2026", "ClockDisplay": "" }</script>'
+                '<p>males born after 12/31/1959</p>')
+
+    class Session:
+        def get(self, *a, **k):
+            return Resp()
+    assert r.usajobs_page_open_date(1, Session()) == '2026-10-27'
+    Resp.text = '<html>Something went wrong 01/02/2026 to 01/03/2026</html>'
+    assert r.usajobs_page_open_date(1, Session()) == ''
+
+
+def test_open_postings_carry_reopened_dates():
+    import refresh_open_questionnaires as r
+    cols = r.STATUS_COLUMNS
+    row = dict.fromkeys(cols, '')
+    status = pd.DataFrame([row | {'questionnaire_url': 'u', 'usajobs_control_numbers': '1;2', 'has_loyalty_q': 'True',
+                                  'has_new_wording': 'False', 'has_question_5': 'False'}], columns=cols)
+    jobs = pd.DataFrame({'usajobs_control_number': [1, 2], 'hiring_agency': ['DOT', 'HHS'], 'position_title': ['x', 'y'],
+                         'position_open_date': pd.to_datetime(['2026-09-04'] * 2),
+                         'position_close_date': pd.to_datetime(['2026-11-16'] * 2)})
+    reopened = pd.DataFrame({'page_open_date': ['2026-10-27'], 'reopened_date': ['2026-10-27'],
+                             'original_close_date': ['2026-09-24']}, index=[1])
+    kept = pd.DataFrame({'usajobs_control_number': ['2'], 'not_listed_since': ['2026-10-27'],
+                         'page_open_date': ['2026-10-23'], 'reopened_date': ['2026-10-23'],
+                         'original_close_date': ['2026-08-04']})
+    with tempfile.TemporaryDirectory() as d:
+        out = r.write_open_postings(jobs, status, os.path.join(d, 'o.csv'), set(), kept, reopened).set_index(
+            'usajobs_control_number')
+    assert out.loc[1, 'reopened_date'] == '2026-10-27' and out.loc[1, 'original_close_date'] == '2026-09-24'
+    assert out.loc[2, 'reopened_date'] == '2026-10-23'                    # kept unlisted: carried over
+
+
 TESTS = [
+    test_reopened_postings_read_from_the_usajobs_page,
+    test_usajobs_page_open_date_reads_the_date_display,
+    test_open_postings_carry_reopened_dates,
     test_kept_postings_faa_questionnaires_stay_on_the_local_recheck_list,
     test_unlisted_postings_kept_unless_their_page_says_closed,
     test_usajobs_page_status_reads_the_closed_line,

@@ -44,6 +44,13 @@ text today, else a guess from its announcement number, else a link on its render
 USAJobs page. Inferred USAStaffing questionnaires count only if their own posting or
 announcement number matches.
 
+A posting that closes and is later reopened under the same control number keeps
+its original open date in the job data. Its USAJobs page shows the day it
+reopened, so postings past the close date they were first collected with are
+looked up there (reopened_postings): reopened_date and original_close_date in
+open_postings.csv. (2026-10-27: 883557000, first open 09-04 to 09-24, reopened
+10-27 with the Loyalty Q still in its questionnaire.)
+
 USAStaffing questionnaires come from the JSON the public ViewQuestionnaire page
 itself loads (/public/api/viewquestionnaire/<id>); Monster ones from the
 Monster preview page. Other portals (e.g. jobs.faa.gov) block automated access
@@ -174,19 +181,83 @@ WARN_NOT_LISTED = 25
 WARN_FAILED = 100
 
 
+def usajobs_page_text(cn, session=None):
+    """The posting's USAJobs page with tags stripped, or None if it couldn't be fetched."""
+    try:
+        resp = (session or requests).get(USAJOBS_JOB_PAGE.format(cn), headers=BROWSER_HEADERS, timeout=30)
+    except requests.RequestException:
+        return None
+    if resp.status_code != 200:
+        return None
+    return html.unescape(re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', ' ', resp.text)))
+
+
+def usajobs_page_open_date(cn, session=None):
+    """The open date the posting's USAJobs page shows ('Open 10/27/2026 to 11/16/2026'),
+    as YYYY-MM-DD, or '' if the page can't be read. A posting that closes and is reopened
+    under the same control number shows the day it reopened here, while the job data keeps
+    the date it first opened (883557000: first opened 2026-09-04 and closed 09-24; its page
+    on 2026-10-27 said "Open 10/27/2026 to 11/16/2026")."""
+    text = usajobs_page_text(cn, session)
+    m = re.search(r'"DateDisplay":\s*"Open (\d{2})/(\d{2})/(\d{4}) to', text or '')
+    return f'{m[3]}-{m[1]}-{m[2]}' if m else ''
+
+
+def reopened_postings(today, jobs, previous_postings, page_open_date=usajobs_page_open_date, workers=5):
+    """Which open postings were closed and then reopened, from each one's USAJobs page.
+
+    jobs has today's position_close_date and first_close_date, the close date from when
+    the posting was first collected. A posting whose first close date has passed is still
+    open only because the agency extended it (same open date on its page) or reopened it
+    (a later open date). Its page is read when it's new to the list, its close date changed
+    since the last run, or it hasn't been read yet; otherwise the last run's answer carries
+    over. Reopened means the page's open date is at least two days after the first close
+    date. Returns a DataFrame indexed by control number with page_open_date (blank if not
+    read), reopened_date (the page's open date, when later than the one on file), and
+    original_close_date (first_close_date, for reopened postings)."""
+    today_s = today.isoformat()
+    cols = ['page_open_date', 'reopened_date', 'original_close_date']
+    out = pd.DataFrame(index=jobs['usajobs_control_number'].astype('int64'), columns=cols).fillna('')
+    prev = previous_postings.reindex(columns=['usajobs_control_number', 'position_close_date', *cols],
+                                     fill_value='').fillna('')
+    prev = prev.set_index(prev['usajobs_control_number'].astype('int64'))
+    prev = prev[~prev.index.duplicated()]
+    first_close = jobs['first_close_date'].dt.strftime('%Y-%m-%d').fillna('').values
+    close = jobs['position_close_date'].dt.strftime('%Y-%m-%d').fillna('').values
+    opened = jobs['position_open_date'].dt.strftime('%Y-%m-%d').fillna('').values
+    to_read = []
+    for cn, fc, c, o in zip(out.index, first_close, close, opened):
+        if not fc or fc >= today_s:
+            continue
+        p = prev.loc[cn] if cn in prev.index else None
+        if p is not None and p['page_open_date'] and p['position_close_date'] == c:
+            out.loc[cn, cols] = p[cols].values
+        else:
+            to_read.append((cn, fc, o))
+    with ThreadPoolExecutor(workers) as pool:
+        dates = list(pool.map(page_open_date, [cn for cn, _, _ in to_read]))
+    for (cn, fc, o), d in zip(to_read, dates):
+        out.loc[cn, 'page_open_date'] = d
+        # Reopened only after at least one whole day closed. A later open date before the first
+        # close date is a continuous announcement starting a new cycle (2025-10-01 postings
+        # showing "Open 09/01/2026"), and one on the close date or the day after a renewal
+        # (closed 09/30, "Open 10/01/2026"): none of those left the daily list. Of the
+        # 2026-10-27 reopenings with a day between, 19 of 21 were missing from it on every one
+        # of those days and the other 2 on some.
+        if d and d > o and d >= (datetime.fromisoformat(fc) + timedelta(days=2)).date().isoformat():
+            out.loc[cn, ['reopened_date', 'original_close_date']] = [d, fc]
+    return out
+
+
 def usajobs_page_status(cn, session=None):
     """'closed' if the posting's own USAJobs page says it has closed, 'open' if the page
     shows the posting without saying so, else 'unreadable'. (2026-10-26: 12 Department of
     Transportation postings missing from the listing said "This job announcement has
     closed", closed early on 10/21-22; 2 open postings' pages had "This job is open to"
     and no such line.)"""
-    try:
-        resp = (session or requests).get(USAJOBS_JOB_PAGE.format(cn), headers=BROWSER_HEADERS, timeout=30)
-    except requests.RequestException:
+    text = usajobs_page_text(cn, session)
+    if text is None:
         return 'unreadable'
-    if resp.status_code != 200:
-        return 'unreadable'
-    text = html.unescape(re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', ' ', resp.text)))
     if 'This job announcement has closed' in text:
         return 'closed'
     if 'This job is open to' in text:
@@ -317,7 +388,9 @@ def open_postings_and_links(today):
     not_in_job_data = len(listed - set(jobs['usajobs_control_number']))
     jobs = jobs[jobs['usajobs_control_number'].isin(listed)].copy()
     # The stored close date is the one first collected; agencies extend and shorten
-    # postings, so use today's from the listing.
+    # postings, so use today's from the listing. The first one tells extended or reopened
+    # postings apart (reopened_postings).
+    jobs['first_close_date'] = jobs['position_close_date']
     close_today = pd.to_datetime(listing.set_index('usajobs_control_number')['position_close_date'],
                                  format='mixed', errors='coerce')
     jobs['position_close_date'] = jobs['usajobs_control_number'].map(close_today).fillna(jobs['position_close_date'])
@@ -401,7 +474,7 @@ def link_changes(today, previous_status, previous_postings, status, jobs, unlist
              'questionnaire_url': url, 'position_close_date': close.get(cn, '')} for cn, change, url in rows]
 
 
-def write_open_postings(jobs, status, path, link_in_posting_ids, kept_unlisted=None):
+def write_open_postings(jobs, status, path, link_in_posting_ids, kept_unlisted=None, reopened=None):
     """One row per open posting with its current flags. A posting counts as having a
     question if any of its questionnaires does; postings with no questionnaire link get
     questionnaire_found = False and blank flags. questionnaire_link_in_posting is False
@@ -433,10 +506,19 @@ def write_open_postings(jobs, status, path, link_in_posting_ids, kept_unlisted=N
     since = dict(zip(kept['usajobs_control_number'].astype('int64'), kept.get('not_listed_since', [])))
     out['listed_today'] = (~out['usajobs_control_number'].isin(since)).map({True: 'True', False: 'False'})
     out['not_listed_since'] = out['usajobs_control_number'].map(since).fillna('')
+    # Postings kept although not listed today keep the previous run's values.
+    reopen_cols = ['page_open_date', 'reopened_date', 'original_close_date']
+    carried = kept.reindex(columns=['usajobs_control_number', *reopen_cols], fill_value='').fillna('')
+    carried = carried.set_index(carried['usajobs_control_number'].astype('int64'))[reopen_cols]
+    reopened = pd.concat([reopened if reopened is not None else pd.DataFrame(columns=reopen_cols), carried])
+    reopened = reopened[~reopened.index.duplicated()]
+    for col in reopen_cols:
+        out[col] = out['usajobs_control_number'].map(reopened[col]).fillna('')
     out = out.sort_values('usajobs_control_number')[[
         'usajobs_control_number', 'hiring_agency', 'position_title', 'position_open_date', 'position_close_date',
         'questionnaire_found', *flag_cols, 'usajobs_link', 'possible_variant', 'questionnaire_link_in_posting',
-        'listed_today', 'not_listed_since', 'checked_date']]
+        'listed_today', 'not_listed_since', 'checked_date', 'reopened_date', 'original_close_date',
+        'page_open_date']]
     out.to_csv(path, index=False)
     return out
 
@@ -679,8 +761,12 @@ def main():
     if 'questionnaire_link_in_posting' in kept_unlisted:
         link_in_posting_ids = set(link_in_posting_ids) | set(
             kept_jobs.loc[kept_unlisted['questionnaire_link_in_posting'].values == 'True', 'usajobs_control_number'])
+    reopened = (reopened_postings(today, jobs, previous_postings) if not args.limit
+                else pd.DataFrame(columns=['page_open_date', 'reopened_date', 'original_close_date']))
+    print(f'{(reopened["page_open_date"] != "").sum():,} postings past their first close date checked on '
+          f'their USAJobs page; {(reopened["reopened_date"] != "").sum():,} reopened', flush=True)
     postings = write_open_postings(pd.concat([jobs, kept_jobs], ignore_index=True), status, postings_path,
-                                   link_in_posting_ids, kept_unlisted)
+                                   link_in_posting_ids, kept_unlisted, reopened)
     status.to_csv(status_path, index=False)
     if log_rows:
         pd.DataFrame(log_rows, columns=LOG_COLUMNS).to_csv(log_path, mode='a', index=False,
@@ -708,6 +794,11 @@ def main():
         'open_postings_with_loyalty_q': int((postings['has_loyalty_q'] == 'True').sum()),
         'open_postings_with_question_5': int((postings['has_question_5'] == 'True').sum()),
         'open_postings_with_possible_variant': int((postings['possible_variant'] != '').sum()),
+        # Open postings that closed and were reopened under the same control number
+        # (reopened_postings), and those of them reopened today.
+        'open_postings_reopened': int((postings['reopened_date'] != '').sum()),
+        'open_postings_reopened_today_with_loyalty_q': int(
+            ((postings['reopened_date'] == today.isoformat()) & (postings['has_loyalty_q'] == 'True')).sum()),
         # Open postings USAJobs didn't list today but whose pages don't say they closed
         # (counted in open_postings.csv, listed_today = False), and what happened to
         # the postings that dropped out of the listing.

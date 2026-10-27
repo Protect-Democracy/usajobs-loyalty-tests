@@ -49,7 +49,12 @@ of every currently-open posting:
   has the old question, the new wording, or Question 5. Built from `current_status.csv`.
   `listed_today` is `False` for a posting kept although USAJobs didn't list it today
   (`not_listed_since` says from when), and `checked_date` is the oldest `checked_date`
-  of its questionnaires: its flags are only as fresh as that.
+  of its questionnaires: its flags are only as fresh as that. `reopened_date` is set for a
+  posting that closed and was reopened under the same control number: the open date its
+  USAJobs page shows, at least two days after `original_close_date` (the close date it was
+  first collected with). `position_open_date` stays the first open date. `page_open_date`
+  is the open date read from the page, for postings past their first close date (blank if
+  not read).
 - `last_run.json`: date and counts for the latest run, and `warnings`: problems with
   today's data. The workflow opens an "Open postings data warnings" issue for them, and
   the daily email shows them at the top.
