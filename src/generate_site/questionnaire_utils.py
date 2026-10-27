@@ -290,11 +290,12 @@ def questionnaire_links_for_posting(direct_links, mentions_questionnaire, uses_u
     through an agency-branded portal on another domain (e.g. FAA's jobs.faa.gov),
     which is the case it exists to catch.
 
-    guess_any (the daily refresh, which verifies every guess): a posting still without
-    a link gets every number in its announcement number tried, whatever its flags say.
-    USAJobs marks some USAStaffing postings as not using it, and many don't mention a
-    questionnaire; on 2026-10-27, 476 open postings (2 with the Loyalty Q) had a
-    USAStaffing questionnaire found only this way. It comes last so it can't stand in
+    guess_any (the daily refresh, which verifies every guess, and sets it only for a
+    posting whose Apply button goes to USAStaffing): a posting still without a link gets
+    every number in its announcement number tried, whatever its flags say. USAJobs
+    marks some USAStaffing postings as not using it, and many don't mention a
+    questionnaire; on 2026-10-27, 82 open postings that apply through USAStaffing (1 with
+    the Loyalty Q) had a questionnaire found only this way. It comes last so it can't stand in
     for a link on the posting's page (jobs.faa.gov announcement numbers have numbers too)."""
     links = list(direct_links)
     inferred_from_announcement = inferred_from_posting_html = False

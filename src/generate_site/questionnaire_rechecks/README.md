@@ -131,10 +131,14 @@ Some USAStaffing postings don't link their questionnaire and don't show a "Previ
 questionnaire" button, and USAJobs marks some of them as not using USAStaffing. When a
 posting still has no link, the refresh tries every 7-9 digit number in its announcement
 number (e.g. `DE-13101174-27-ALK`) and keeps a guess only if the questionnaire's own control
-number or announcement number is the posting's. On 2026-10-27 that found questionnaires
-for 476 open postings, 2 with the Loyalty Q. Others (e.g. ICE Health Service Corps) have no
-number to go on; a one-off scan of questionnaire IDs that day found 380 more, none with the
-Loyalty Q.
+number or announcement number is the posting's. It does this only for a posting whose
+Apply button goes to USAStaffing: on 2026-10-27 the guess matched questionnaires for 476
+open postings, but 394 of them had no Apply button, so their applicants may never see the
+questionnaire. One was a Navy police officer "public notice flyer" (882412600) that takes
+applications by email; its questionnaire has the Loyalty Q.
+That leaves 82 postings, 1 with the Loyalty Q. Others (e.g. ICE Health Service Corps)
+have no number to go on; a one-off scan of questionnaire IDs that day found 380 more, none
+with the Loyalty Q (198 of them have no Apply button either).
 
 - `blocked_portal_checks.csv`: append-only, one row per questionnaire per re-check,
   with its flags, so each has a date it was last verified even when nothing changed.

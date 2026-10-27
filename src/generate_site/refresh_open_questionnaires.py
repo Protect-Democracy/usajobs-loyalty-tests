@@ -172,6 +172,7 @@ def flags(text):
 
 
 CURRENT_LISTING = Path('../../data/current_listing.csv')
+CURRENT_JOBS = Path('../../data')
 LINK_LOG_COLUMNS = ['date', 'usajobs_control_number', 'change', 'questionnaire_url', 'position_close_date']
 
 USAJOBS_JOB_PAGE = 'https://www.usajobs.gov/job/{}'
@@ -378,6 +379,23 @@ def blocked_portal_check_dates(out_dir):
     return ok.assign(day=ok['date'].str[:10]).groupby('questionnaire_url')['day'].max().to_dict()
 
 
+def apply_online_urls(control_numbers):
+    """{usajobs_control_number: the posting's Apply URL} from the current_jobs parquets
+    ('' for a posting with none, i.e. no Apply button on USAJobs)."""
+    urls = {}
+    for path in sorted(CURRENT_JOBS.glob('current_jobs_*.parquet')):
+        df = pd.read_parquet(path, columns=['usajobsControlNumber', 'applyOnlineUrl'])
+        df = df[df['usajobsControlNumber'].astype('int64').isin(control_numbers)]
+        urls.update(zip(df['usajobsControlNumber'].astype('int64'), df['applyOnlineUrl'].fillna('')))
+    return urls
+
+
+def applies_through_usastaffing(apply_url):
+    """True when the posting's Apply button goes to USAStaffing, so an applicant goes
+    through its USAStaffing questionnaire."""
+    return 'apply.usastaffing.gov' in (apply_url or '')
+
+
 def open_postings_and_links(today):
     """Every posting USAJobs lists today (one row each), and its
     (usajobs_control_number, questionnaire_url) links.
@@ -416,12 +434,18 @@ def open_postings_and_links(today):
     # removed, or replaced show up as changes.
     listing = listing[listing['usajobs_control_number'].isin(set(jobs['usajobs_control_number']))]
     session = requests.Session()
+    # Every number in the announcement number is tried (guess_any) only for a posting
+    # that takes applications through USAStaffing. The others have a USAStaffing
+    # questionnaire their applicants may never see: on 2026-10-27 a Navy police officer
+    # "public notice flyer" (882412600, apply by email) matched one with the Loyalty Q,
+    # and 394 of the 476 postings this guess found had no Apply button at all.
+    apply_urls = apply_online_urls(set(listing['usajobs_control_number']))
 
     def find(row):
         links, by_announcement, by_page = questionnaire_links_for_posting(
             load_questionnaire_links(row.questionnaire_links), row.mentions_questionnaire == 'True',
             row.uses_usastaffing == 'True', row.announcement_number, row.position_uri, session=session,
-            guess_any=True)
+            guess_any=applies_through_usastaffing(apply_urls.get(row.usajobs_control_number)))
         return [(row.usajobs_control_number, url, by_announcement or by_page, row.announcement_number) for url in links]
 
     with ThreadPoolExecutor(5) as pool:
