@@ -142,14 +142,20 @@ with the Loyalty Q (198 of them have no Apply button either).
 
 USAStaffing numbers questionnaires in order, about 1,500-2,000 a day, and each one's
 public JSON names its posting's control number. `../scan_usastaffing_ids.py` runs daily
-before the refresh and appends each new ID to `usastaffing_ids.csv` (`qid`,
-`control_number`, `close_date`; rows closed more than 90 days are dropped). The refresh
-adds those questionnaires to the open postings they belong to that apply through
-USAStaffing, and verifies each against its control number like any other inferred link.
-The table was seeded from the 2026-10-27 scan, IDs 12,756,000-13,104,000. A home IP got
-blocked (403) after about 300,000 requests at 28 a second; the daily run asks for far
-fewer, and `usastaffing_ids_last_scan.json` records whether it finished (a warning in
-`last_run.json` if not).
+after the refresh and appends each new ID to `usastaffing_ids.csv` (`qid`,
+`control_number`, `close_date`; rows closed more than 90 days are dropped): it re-tries
+the last 2,000 IDs it doesn't have and goes on until 500 in a row don't exist, about
+3,000 requests. The next day's refresh adds those questionnaires to the open postings
+they belong to that apply through USAStaffing, and verifies each against its control
+number like any other inferred link. The table was seeded from scans of IDs
+12,370,000-13,104,000 on 2026-10-27/28.
+
+USAStaffing refuses clients that ask too fast: a home IP was blocked (403) after about
+300,000 requests at 28 a second, and on 2026-10-28 a GitHub runner after about 1,700 at 4
+workers, when the scan ran before the refresh (the refresh and the jobs.faa.gov check
+weren't affected). So it now runs after them, with 2 workers.
+`usastaffing_ids_last_scan.json` records whether it finished; if the last one didn't (or
+is older than yesterday), `last_run.json` warns.
 
 - `blocked_portal_checks.csv`: append-only, one row per questionnaire per re-check,
   with its flags, so each has a date it was last verified even when nothing changed.

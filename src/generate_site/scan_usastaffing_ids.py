@@ -10,7 +10,9 @@ that apply through USAStaffing and have no link; on 2026-10-27 a one-off scan li
 found questionnaires for 187 such postings.
 
 Each run re-tries the last RESCAN IDs it doesn't have (an ID can be taken before its
-questionnaire is published) and goes on until STOP_AFTER IDs in a row don't exist. It
+questionnaire is published) and goes on until STOP_AFTER IDs in a row don't exist:
+about 3,000 requests a day. USAStaffing refused a runner after ~1,700 requests at 4
+workers (2026-10-28), so it runs with 2, after the daily refresh. It
 stops early, keeping what it found, if USAStaffing starts refusing requests (403).
 Rows whose close date is more than KEEP_DAYS past are dropped.
 """
@@ -31,8 +33,8 @@ TABLE = Path(__file__).resolve().parent / 'questionnaire_rechecks' / 'usastaffin
 # Read by refresh_open_questionnaires.py, which warns when today's scan didn't finish.
 LAST_SCAN = TABLE.with_name('usastaffing_ids_last_scan.json')
 COLUMNS = ['qid', 'control_number', 'close_date']
-RESCAN = 10_000
-STOP_AFTER = 3_000
+RESCAN = 2_000
+STOP_AFTER = 500
 BATCH = 500
 KEEP_DAYS = 90
 
@@ -84,7 +86,7 @@ def scan(table, workers):
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
-    parser.add_argument('--workers', type=int, default=4)
+    parser.add_argument('--workers', type=int, default=2)
     args = parser.parse_args()
     table = pd.read_csv(TABLE, dtype={'control_number': str, 'close_date': str}, keep_default_na=False)
     rows, summary, blocked = scan(table, args.workers)

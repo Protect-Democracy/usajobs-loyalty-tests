@@ -681,11 +681,17 @@ def run_warnings(summary, status, today):
         out.append(f"Today's re-check of questionnaires on portals that block automated checks failed for "
                    f"{check['failed']:,} of {check['questionnaires']:,}"
                    + (f" ({check['error']})" if check['error'] else '') + '; they keep their last check.')
+    # The scan runs after the refresh, so today's refresh uses yesterday's.
     scan = summary.get('usastaffing_id_scan')
-    if scan is not None and (scan.get('date') != today.isoformat() or not scan.get('finished')):
-        out.append("Today's scan of new USAStaffing questionnaires didn't finish"
-                   + (f" ({scan['summary']})" if scan.get('date') == today.isoformat() else '')
-                   + ". Postings that don't link their questionnaire may be missing one.")
+    if scan is not None:
+        problem = None
+        if (scan.get('date') or '') < (today - timedelta(days=1)).isoformat():
+            problem = f"hasn't run since {scan['date']}" if scan.get('date') else 'has never run'
+        elif not scan.get('finished'):
+            problem = f"didn't finish on {scan['date']} ({scan.get('summary', '')})"
+        if problem:
+            out.append(f"The scan of new USAStaffing questionnaires {problem}. Postings that don't link "
+                       "their questionnaire may be missing one.")
     if summary['failed'] >= WARN_FAILED:
         out.append(f"{summary['failed']:,} questionnaires couldn't be fetched today; they keep their last "
                    "re-checked flags.")
