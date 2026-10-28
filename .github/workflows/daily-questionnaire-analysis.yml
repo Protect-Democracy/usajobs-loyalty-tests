@@ -97,18 +97,6 @@ jobs:
         fi
         echo "analysis_data.json regenerated ($SIZE bytes)"
 
-    - name: Record new USAStaffing questionnaires
-      # Appends each new questionnaire ID and its posting's control number to
-      # questionnaire_rechecks/usastaffing_ids.csv, so the refresh below finds
-      # questionnaires that postings don't link. If it doesn't finish, the refresh
-      # warns in last_run.json (and so the email).
-      if: always()
-      timeout-minutes: 15
-      continue-on-error: true
-      run: |
-        cd src/generate_site
-        python scan_usastaffing_ids.py
-
     - name: Refresh every open posting's questionnaire
       # Re-fetches each currently-open posting's questionnaire and records what
       # it says now in src/generate_site/questionnaire_rechecks/ (agencies edit
@@ -158,6 +146,20 @@ jobs:
         cd src/generate_site
         python test_questionnaire_artifacts.py
         # If tests fail, this step will fail and stop the workflow
+
+    - name: Record new USAStaffing questionnaires
+      # Appends each new questionnaire ID and its posting's control number to
+      # questionnaire_rechecks/usastaffing_ids.csv, which tomorrow's refresh uses to
+      # find questionnaires postings don't link. Runs after today's refresh: on
+      # 2026-10-28 USAStaffing refused this runner after ~1,700 scan requests, and a
+      # block must not reach the refresh or the jobs.faa.gov check. If it doesn't
+      # finish, tomorrow's last_run.json warns (and so the email).
+      if: always()
+      timeout-minutes: 15
+      continue-on-error: true
+      run: |
+        cd src/generate_site
+        python scan_usastaffing_ids.py
 
     - name: Commit and push to questionnaire-updates branch
       # Only commit if tests passed
