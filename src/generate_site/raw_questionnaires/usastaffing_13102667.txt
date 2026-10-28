@@ -1,0 +1,57 @@
+Position Title
+IT SPECIALIST (SYSTEMS ADMINISTRATION)
+Agency
+Army National Guard Units
+Announcement Number
+KS-13102667-AR-26-135
+Open Period
+Oct 27, 2026 to Nov 10, 2026
+Eligibilities
+1.
+Current Army M-Day and current Air DSG members within the state for which you are applying. Are you a current Army M-Day or current Air DSG member within the state for which this position is being advertised?
+ Yes
+ No
+Preferences
+1.
+Are you a current member of the Kansas Army National Guard?
+ Yes
+ No
+2.
+Do you currently hold the rank of E-3 through E-6?
+ Yes
+ No
+2210-11A-D2341000-KSNG
+.
+Please answer the following multiple choice questions below to the best of your knowledge.
+.
+Select “Yes” or “No” to the following question(s).
+1.
+Do you have experience, education or training that has provided a basic knowledge of data processing functions and general management principles that enabled the applicant to understand the stages required to automate a work process? Experience may have been gained in work such as computer operator or assistant, computer sales representative, program analyst, or other positions that required the use or adaptation of computer programs and systems?
+ Yes
+ No
+2.
+Do you have 1-year specialized experience equivalent to at least the next lower grade? Do you have experience, education, or training that approaches techniques and requirements appropriate to an assigned computer applications area or computer specialty area in an organization? Experience planning the sequence of actions necessary to accomplish the assignment where this entails coordination with others outside the organizational unit and development of project controls? Experience that required adaptations of guidelines or precedents to meet the needs of the assignment? Experience preparing documentation on cost/benefit studies and summarizing the material and organizing it in a logical fashion?
+ Yes
+ No
+.
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+3.
+Knowledge of, and skill in applying interrelationships of multiple information technology (IT) specialties; the organization's IT architecture; emerging technologies and their application to intelligence processes; monitoring activities, and evaluating and reporting on accomplishments.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+4.
+Knowledge of, and skill in applying, information technology (IT) principles, concepts, methods, standards, and practices; IT security principles and methods; IT security certification and accreditation requirements; sufficient to accomplish assignments such as: interpret policies, standards, and guidelines; provide technical advice, guidance, and recommendations to leadership and other technical specialists on IT issues; monitor and evaluate systems' compliance with IT security requirements; and make recommendations that influence IT policies or programs.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+.
+Select “Yes” or “No” to the following question(s).
+5.
+I certify that, to the best of my knowledge and belief, all of the information included in this questionnaire is true, correct and provided in good faith. I understand that if I make an intentional false statement or commit deception or fraud in this application or its supporting materials, or in any document or interview associated with the examination process, I may be fined or imprisoned (18 U.S.C 1001); my eligibilities may be canceled; I may be denied an appointment; or I may be removed and debarred from Federal Service (5 C.F.R Part 731). I understand that any information I give may be investigated. I understand that responding "No" to this item will result in my not being considered for this position.
+ Yes
+ No

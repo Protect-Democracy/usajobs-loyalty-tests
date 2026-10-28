@@ -1,0 +1,155 @@
+Position Title
+PURCHASING AGENT (TEMP) (TITLE 5)
+Agency
+Army National Guard Units
+Announcement Number
+UT-26-188-AR-13103402
+Open Period
+Oct 28, 2026 to Nov 04, 2026
+Eligibilities
+.
+VETERANS PREFERENCE INSTRUCTIONS **** Any alterations in the shaded areas render the DD Form 214 void. **** Veterans' preference is not the same thing as being considered a veteran. A list of qualifying criteria can be found on the Office of Personnel Management (OPM) website at following link: OPM Guide: https://www.opm.gov/policy-data-oversight/veterans-services/vet-guide-for-hr-professionals/ **** If claiming TP -submit a copy of your DD Form 214, "Certificate of Release or Discharge from Active Duty," which must reflect dates of service, discharge; Honorable or under honorable condition, and an authorized campaign medal. **** If claiming CP or CPS - submit a copy of your DD Form 214, and you must submit a letter from the Department of Veterans Affairs reflecting your level of disability for preference eligibility. You may obtain one by visiting a VA Regional Office, contacting a VA call center, or online at www.va.gov. You will need to submit a Standard Form, SF-15, "Application for 10-point Veterans' Preference". **** If claiming XP - submit a copy of your DD form 214, and you must submit a letter from the Department of Veterans Affairs reflecting 100% disability. You will need to submit a Standard Form, SF-15, "Application for 10-point Veterans' Preference".
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+2.
+Are you a U.S. Citizen?
+ Yes
+ No
+3.
+Priority Placement Program, DoD Military Reserve (MR) and National Guard (NG) Technician Eligible, I am a MR or NG Reserve Technician who will lose or has lost my military membership through no fault of my own after completing at least 15 years of technician service and a minimum of 20 years of service creditable for non-regular retirement. I am exercising my preference eligibility to DoD positions within my local commuting area in accordance with Section 3329(b) of Title 5, U.S.C. This preference eligibility is valid for 1 year after separation. NOTE: By using this eligibility, you certify that you have not obtained permanent Federal employment, nor have you accepted or declined a PPP job offer. Supporting Documentation: If you indicate "yes" to this question, you must submit a copy of the Military Reserve and National Guard Technician PPP Self-Certification Checklist and copies of the appropriate documentation, such as the notification letter you received showing you are no longer eligible for military or NG membership (through no fault of your own) and that you have completed at least 15 years of technician service and a minimum of 20 years of service creditable for non-regular retirement. Are you a Priority Placement Program (PPP) DoD Military Reserve (MR) and National Guard (NG) Technician Eligible?
+ Yes
+ No
+4.
+Priority Placement Program, DoD Military Reserve (MR) and National Guard (NG) Preference Eligible Technician Receiving Disability Retirement. I am an MR or NG Technician who will be or has been involuntarily medically separated or retired due to a service-connected medical disability that disqualifies me from military membership or from holding my required military grade. I am exercising my preference eligibility to DoD positions within my local commuting area. I understand that the position for which I am applying must be at the same grade or equivalent level, tenure, and work schedule as the position held currently or upon separation. NOTE: By using this eligibility, you certify that you have not obtained permanent Federal employment, nor have you accepted or declined a PPP job offer. Supporting Documentation: If you indicate "yes" to this question, you must submit a copy of the Military Reserve and National Guard Technician Disability PPP Self-Certification Checklist and copies of the appropriate documentation, such as the notification letter you received that states you are no longer eligible for Reserve membership due to a service-connected disability. Are you a Priority Placement Program, DoD Military Reserve (MR) and National Guard (NG) Preference Eligible Technician Receiving Disability Retirement?
+ Yes
+ No
+5.
+Priority Placement Program, DoD Retained Grade Preference Eligible. I am currently on retained grade based on receiving a written RIF notification letter of a change to lower grade, or a notification letter of a classification downgrade dated within the last 2 years. I am exercising my preference eligibility to DoD positions within my local commuting area. NOTE: By using this eligibility, you certify that you have not accepted permanent Federal employment at your retained grade, nor have you accepted or declined a PPP job offer. Supporting Documentation: If you indicate "yes" for this statement, you must submit a copy of the Retained Grade PPP Self-Certification Checklist and copies of the appropriate documentation, such as a RIF change-to-lower-grade notice, and an SF-50 reflecting your RIF change to lower grade. Are you a Priority Placement Program, DoD Retained Grade Preference Eligible?
+ Yes
+ No
+.
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+6.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+7.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+8.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+9.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+10.
+This position supports UTNG's mission and current priorities, including Readiness, Innovation and Culture throughout the state of Utah. Describe how your skills and experience would help the agency advance those priorities in this role.
+11.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+Preferences
+1.
+Would you accept a temporary appointment?
+ Yes
+ No
+GS-0511-11
+.
+We will evaluate your resume and responses to this questionnaire to determine if you are among the best qualified for this position. Your responses are subject to verification and must be fully supported by your resume and supporting documents.
+.
+Select “Yes” or “No” to the following question(s).
+1.
+BASIC QUALIFICATION REQUIREMENTS: Do you have experience in clerical, administrative or technical work which demonstrated knowledge of purchasing procedures, practices, or regulations; or experience which demonstrates ability to meet and deal satisfactorily with others?
+ Yes
+ No
+2.
+Specialized Experience: Do you have 1 year of Specialized Experience equivalent to GS-1105-6? (Must provide SF 50 to validate response) OR Do you have experience using a variety of purchasing procedures to acquire supplies, services, furniture, and equipment. Experience with awarding and signing routine purchase contracts. Experience applying previously acquired procurement training to make open market awards for supplies and services?
+ Yes
+ No
+.
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+3.
+Skill in analyzing descriptions that have unique aspects and many critical characteristics to identify problem areas in specifications or work statements, determine if quotations are responsive, or decidei f substitutions are acceptable or should be referred to other personnel for further review.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+4.
+Knowledge of solicitation or purchasing methods, such as would be acquired through extended training or experience, to make competitive or sole source small purchases that involve collecting data to determine price reasonableness for new items, preparing detailed written solicitations, tailoring special terms and conditions, or other matters of similar complexity.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+5.
+Knowledge of price analysis techniques to evaluate prices or costs for requirements within adequate price history or evaluate allowable charges for requirements involving special cost features (e.g., per diem, lodging rates, and airfare for purchases that require on-site repair service by nonlocal vendors).
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+6.
+Knowledge of various acquisition clauses, such as those pertaining to inspection, acceptance, packaging, or testing to select or tailor clauses for purchases that involve special handling.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+7.
+Knowledge of post award procedures to discuss equitable price adjustments for modifications to a purchase order, determine whether to recommend termination of an accepted purchase order for convenience, or perform similar actions.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+8.
+Knowledge of contract administration sufficient to monitor a group of diverse contracts, understanding quality assurance, inspection, acceptance, and corrective action terms and conditions.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+9.
+Knowledge of contract cost analysis techniques sufficient to gather and evaluate price and/or cost data for a variety of pre-award and/or post-award procurement actions.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+10.
+Knowledge of the GPC program to analyze issues and identify alternative courses of action, modify standard procedures and terms to satisfy requirements, and solve a variety of common problems.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+11.
+Knowledge of Contract Regulations to verify contractual documents for compliance and accuracy of terminology.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+12.
+Ability to interpret and clarify regulatory contractual material.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+13.
+Knowledge of standard automated systems, non-standard systems, and Web postings that affect the organization's mission execution to review and evaluate of automated systems to determine their overall effectiveness and recommend changes to improve system performance.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+.
+Select “Yes” or “No” to the following question(s).
+14.
+I certify that, to the best of my knowledge and belief, all of the information included in this questionnaire is true, correct and provided in good faith. I understand that if I make an intentional false statement, or commit deception or fraud in this application and its supporting materials, or in any document or interview associated with the process, I may be fined or imprisoned (18 U.S.C. 1001); my eligibilities may be cancelled, I may be denied an appointment, or I may be removed and debarred from Federal service (5 C.F.R. part 731). I understand that any information I give may be investigated. I understand that responding "No" to this item will result in my not being considered for this position.
+ Yes
+ No

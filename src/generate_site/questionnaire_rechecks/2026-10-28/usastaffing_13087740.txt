@@ -1,0 +1,138 @@
+Position Title
+Software Engineer and Data Automation Specialist
+Agency
+U. S. Sentencing Commission
+Announcement Number
+27-01
+Open Period
+Oct 13, 2026 to Nov 13, 2026
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+Preferences
+1.
+Select the lowest grade you are willing to accept for this position.
+ 12
+ 13
+ 14
+Software Engineer and Data Automation Specialist
+.
+We will evaluate your resume and responses to this Assessment Questionnaire to determine if you are among the best qualified for this position. Your responses are subject to verification and must be supported by your resume and supporting documents. Applicants are advised that false answers or omissions of information on application materials may be grounds for non-selection, withdrawal of an offer of employment, or dismissal after being employed.
+1.
+This position is not remote and requires the selected applicant to report, in person, to the agency duty station in Washington, DC. Are you willing to relocate, at your own expense, to the Washington Metropolitan Area if you are selected for this position?
+ Yes, I would be willing to relocate at my own expense to the Washington Metropolitan Area.
+ No, I would not be willing to relocate at my own expense to the Washington Metropolitan Area.
+ Not applicable; I already reside in the Washington Metropolitan Area.
+.
+Select “Yes” or “No” to the following question(s).
+2.
+Do you possess an undergraduate degree from an accredited college or university in information technology or a related field of study?
+ Yes
+ No
+3.
+Do you have at least three (3) years of application development experience (equivalent to the GS-11 level in the federal service) to qualify for this JS-12 position?
+ Yes
+ No
+4.
+Do you have one year of specialized experience (equivalent to the GS-11 level in the federal service) obtained in either the public or private sector which is in or directly related to the line of work of this position that has equipped you with the particular knowledge, skills, and abilities to successfully perform the duties of this position at the JS-12 level?
+ Yes
+ No
+5.
+Do you have one year of specialized experience (equivalent to the GS-12 level in the federal service) obtained in either the public or private sector which is in or directly related to the line of work of this position that has equipped you with the particular knowledge, skills, and abilities to successfully perform the duties of this position at the JS-13 level?
+ Yes
+ No
+6.
+Do you have one year of specialized experience (equivalent to the GS-13 level in the federal service) obtained in either the public or private sector which is in or directly related to the line of work of this position that has equipped you with the particular knowledge, skills, and abilities to successfully perform the duties of this position at the JS-14 level?
+ Yes
+ No
+7.
+Do you possess experience developing and maintaining production Python applications using modular design, source control, testing, documentation, and secure development practices?
+ Yes
+ No
+8.
+Do you have experience using relational databases to transform, validate, reconcile, and load data, and translating business requirements and documented coding rules into maintainable software?
+ Yes
+ No
+9.
+Do you have experience extracting and processing information from PDFs, text documents, or scanned images using text parsing, regular expressions, OCR, or similar techniques (with attention to document structure, context, and accuracy)?
+ Yes
+ No
+10.
+Do you have experience developing and supporting ETL/ELT or automated data-processing workflows and integrating applications, databases, APIs, or other enterprise systems?
+ Yes
+ No
+11.
+Do you have experience implementing logging, exception handling, automated testing, monitoring, and recovery procedures, and troubleshooting application, database, or data-quality issues?
+ Yes
+ No
+12.
+Do you have experience analyzing user needs, designing maintainable technical solutions, documenting business logic and system behavior, and working with technical staff and subject-matter experts?
+ Yes
+ No
+13.
+Do you perform your work thoroughly and accurately, with careful attention to detail?
+ Yes
+ No
+14.
+Do you possess the ability to assess customer needs, provide effective assistance, resolve issues, and deliver quality service?
+ Yes
+ No
+15.
+Do you possess the ability to make sound, objective decisions and take appropriate action to achieve organizational goals?
+ Yes
+ No
+16.
+Do you possess the ability to identify, gather, organize, and maintain information and information systems effectively?
+ Yes
+ No
+17.
+Do you possess the ability to build effective working relationships and communicates with courtesy, tact, empathy, and professionalism?
+ Yes
+ No
+18.
+Are you able to clearly communicate information, findings, recommendations, and viewpoints and effectively persuade others when appropriate?
+ Yes
+ No
+19.
+Are you able to identify problems, evaluate constraints, and develop practical solutions using available technology and resources?
+ Yes
+ No
+20.
+Do you possess the ability to promote cooperation, trust, and team commitment while working effectively with others to achieve shared goals?
+ Yes
+ No
+21.
+Do you possess the ability to apply job-related technical knowledge and experience to perform duties, evaluate technical information, and provide technical guidance?
+ Yes
+ No
+22.
+Do you have experience with Oracle databases, SQL and PL/SQL development, data modeling, query optimization, and enterprise data integration?
+ Yes
+ No
+23.
+Do you have experience with advanced document processing, including OCR, layout analysis, context-preserving segmentation, and extraction from varied or complex document formats?
+ Yes
+ No
+24.
+Do you have experience with applied machine learning, natural-language processing, or LLM-based information extraction, including evaluation of accuracy, error analysis, and workflows for human review?
+ Yes
+ No
+25.
+Do you have experience with locally hosted AI models or application deployment in air-gapped, restricted-network, or other controlled environments?
+ Yes
+ No
+26.
+Do you have experience with data warehouses, business intelligence, analytics, and application support, including tools such as ODI, OAS/OBIEE, Oracle APEX, or comparable platforms?
+ Yes
+ No
+27.
+Do you have experience with AI-enabled database and application capabilities, including vector search or integration of models through APIs, where relevant to document processing and data analysis?
+ Yes
+ No

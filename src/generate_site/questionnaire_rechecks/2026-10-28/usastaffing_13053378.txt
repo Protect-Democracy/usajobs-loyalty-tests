@@ -1,0 +1,566 @@
+Position Title
+Veterans and Individuals with Disabilities (Schedule A) Repository
+Agency
+U.S. Marshals Service
+Announcement Number
+ST-13053378-26-LJ
+Open Period
+Sep 02, 2026 to Mar 02, 2027
+Eligibilities
+1.
+This position has an age requirement. Enter or select your date of birth.
+2.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+3.
+Are you a veteran who separated from active duty under honorable conditions AND you: have a rating by the Department of Veterans Affairs showing a compensable service-connected disability of 30% or more; OR are retired from active military service with a service-connected disability rating of 30% or more? For more information, review USAJOBS Veterans resources . To verify your eligibility, you must submit a copy of your latest Certificate of Release or Discharge from Active Duty, DD-214 (copy indicating character of service) or other proof of your service which includes character of service. You must also submit the disability letter from the Department of Veterans Affairs or Armed Service and the Application for 10-Point Veteran Preference, Standard Form 15 .
+ Yes
+ No
+4.
+Are you the spouse of a deployed, disabled, or deceased member of the military? Federal agencies can use the military spouse non-competitive hiring process to fill positions on either a temporary or permanent basis. You may be eligible if you are : A spouse of an active duty member of the armed forces. OR A spouse of a service member who is 100% disabled due to a service-connected injury. OR A spouse of a service member killed while on active duty . You are no longer eligible if you remarry. You must meet certain criteria for each of these eligibility categories. Your eligibility does not entitle you to a job within the Federal Government. You must still apply and meet qualification standards and additional requirements, such as a background investigation. Learn more about the specific criteria for military spouses ... To verify your eligibility for option 1: You must submit documentation showing 1) your spouse's active-duty status and 2) your marriage to the member of the armed forces (i.e., a marriage certificate or other legal documentation verifying marriage). To verify your eligibility for options 2 and 3: You must submit the Application for 10-Point Veteran Preference, Standard Form 15 and all supporting documentation identified on that document (e.g., Certificate of Release or Discharge from Active Duty, DD-214 (copy indicating character of service) or other proof of service which includes character of service; death certificate and documentation identifying marital status at the time of death; disability letter from the Department of Veterans Affairs or Armed Service, etc..
+ Yes
+ No
+5.
+Reasonable Accommodations for taking the online assessments are provided on a case-by-case basis only to qualified individuals with a disability covered by the Rehabilitation Act of 1973, as amended. Do you have a disability (physical or mental) that you believe will interfere with completing the online assessments and require a Reasonable Accommodation?
+ Yes
+ No
+6.
+Are you an individual with a documented intellectual, severe physical, or psychiatric disability that substantially limits one or more major life activities? If so, you may be eligible for employment through a Schedule A appointment . In order to be eligible, documentation of the disability is required. Documentation of eligibility for employment under Schedule A can be obtained from a licensed medical professional (e.g., a physician or other medical professional certified by a state, the District of Columbia, or a U.S. territory to practice medicine); a licensed vocational rehabilitation specialist (i.e., state or private); or any Federal agency, state agency, or agency of the District of Columbia or a U.S. territory that issues or provides disability benefits. The letter must be printed on the official letterhead of a medical professional and must include a signature or it is invalid. Please visit OPM's website for sample letters. Learn more about Schedule A eligibility . Based on the above, are you eligible, and do you wish to be considered for, a Schedule A appointment? If so, you must select "Yes" and provide the required documents with your application package, before the announcement closes.
+ Yes
+ No
+7.
+Are you a veteran who separated from active duty under honorable conditions AND you: • recently separated (within the past 3 years); • are a disabled veteran; • served on active duty during a war, campaign or expedition; -OR- • received an Armed Forces Service Medal? For more information, review USAJOBS Veterans resources . To verify your eligibility, you must submit a copy of your latest Certificate of Release or Discharge from Active Duty, DD-214 (copy indicating character of service) or other proof of your service which includes character of service. If claiming disability preference, you must also submit the disability letter from the Department of Veterans Affairs or Armed Service and the Application for 10-Point Veteran Preference, Standard Form 15.
+ Yes
+ No
+Preferences
+1.
+Select the lowest grade you are willing to accept for this position.
+ 5
+ 6
+ 7
+ 8
+ 9
+ 10
+ 11
+ 12
+ 13
+ 14
+ 15
+2.
+Select the location(s) you want to be considered for. You must choose at least one location. You may only select up to 5 location(s).
+ Anniston, AL
+ Birmingham, AL
+ Huntsville, AL
+ Mobile, AL
+ Montgomery, AL
+ Tuscaloosa, AL
+ Anchorage, AK
+ Fairbanks, AK
+ Flagstaff, AZ
+ Phoenix, AZ
+ Tucson, AZ
+ Yuma, AZ
+ El Dorado, AR
+ Fayetteville, AR
+ Fort Smith, AR
+ Hot Springs, AR
+ Jonesboro, AR
+ Little Rock, AR
+ Bakersfield, CA
+ Dublin, CA
+ El Centro, CA
+ Eureka, CA
+ Fresno, CA
+ Los Angeles, CA
+ Oakland, CA
+ Riverside, CA
+ Sacramento, CA
+ San Diego, CA
+ San Francisco, CA
+ San Jose, CA
+ Santa Ana, CA
+ Broomfield, CO
+ Colorado Springs, CO
+ Denver, CO
+ Durango, CO
+ Grand Junction, CO
+ Parker, CO
+ Bridgeport, CT
+ Hartford, CT
+ New Haven, CT
+ Wilmington, DE
+ Washington, DC
+ Clermont, FL
+ Fort Lauderdale, FL
+ Fort Myers, FL
+ Fort Pierce, FL
+ Gainesville, FL
+ Jacksonville, FL
+ Key West, FL
+ Miami, FL
+ Miami Beach, FL
+ Miami Lakes, FL
+ Ocala, FL
+ Orlando, FL
+ Panama City, FL
+ Pensacola, FL
+ Tallahassee, FL
+ Tampa, FL
+ West Palm Beach, FL
+ Albany, GA
+ Atlanta, GA
+ Augusta, GA
+ Brunswick, GA
+ Columbus, GA
+ Gainesville, GA
+ Glynco, GA
+ Macon, GA
+ Savannah, GA
+ Agana, GU
+ Hagatna, GU
+ Honolulu, HI
+ Boise, ID
+ Coeur d'Alene, ID
+ Pocatello, ID
+ Benton, IL
+ Chicago, IL
+ East Saint Louis, IL
+ Peoria, IL
+ Rock Island, IL
+ Rockford, IL
+ Springfield, IL
+ Urbana, IL
+ Evansville, IN
+ Fishers, IN
+ Fort Wayne, IN
+ Hammond, IN
+ Indianapolis, IN
+ New Albany, IN
+ South Bend, IN
+ Terre Haute, IN
+ Cedar Rapids, IA
+ Council Bluffs, IA
+ Davenport, IA
+ Des Moines, IA
+ Sioux City, IA
+ Kansas City, KS
+ Topeka, KS
+ Wichita, KS
+ Ashland, KY
+ Bowling Green, KY
+ Covington, KY
+ Lexington, KY
+ London, KY
+ Louisville, KY
+ Owensboro, KY
+ Paducah, KY
+ Pikeville, KY
+ Alexandria, LA
+ Baton Rouge, LA
+ Lafayette, LA
+ Lake Charles, LA
+ Monroe, LA
+ New Orleans, LA
+ Pineville, LA
+ Shreveport, LA
+ Bangor, ME
+ Portland, ME
+ Baltimore, MD
+ Columbia, MD
+ Greenbelt, MD
+ Salisbury, MD
+ Boston, MA
+ Springfield, MA
+ Westwood, MA
+ Worcester, MA
+ Ann Arbor, MI
+ Bay City, MI
+ Detroit, MI
+ Flint, MI
+ Grand Rapids, MI
+ Kalamazoo, MI
+ Lansing, MI
+ Marquette, MI
+ Duluth, MN
+ Minneapolis, MN
+ Saint Paul, MN
+ Aberdeen, MS
+ Greenville, MS
+ Gulfport, MS
+ Hattiesburg, MS
+ Jackson, MS
+ Oxford, MS
+ Cape Girardeau, MO
+ Jefferson City, MO
+ Kansas City, MO
+ Saint Louis, MO
+ Springfield, MO
+ Billings, MT
+ Butte, MT
+ Great Falls, MT
+ Missoula, MT
+ Lincoln, NE
+ Omaha, NE
+ Las Vegas, NV
+ Reno, NV
+ Concord, NH
+ Atlantic City, NJ
+ Camden, NJ
+ Colts Neck, NJ
+ Morristown, NJ
+ Newark, NJ
+ Robbinsville, NJ
+ Trenton, NJ
+ Windsor, NJ
+ Albuquerque, NM
+ Las Cruces, NM
+ Roswell, NM
+ Santa Fe, NM
+ Albany, NY
+ Binghamton, NY
+ Brooklyn, NY
+ Buffalo, NY
+ Central Islip, NY
+ Kings, NY
+ New York, NY
+ Plattsburgh, NY
+ Rochester, NY
+ Syracuse, NY
+ White Plains, NY
+ Asheville, NC
+ Charlotte, NC
+ Durham, NC
+ Elizabeth City, NC
+ Fayetteville, NC
+ Greensboro, NC
+ Greenville, NC
+ Monroe, NC
+ New Bern, NC
+ Raleigh, NC
+ Wilmington, NC
+ Winston-Salem, NC
+ Bismarck, ND
+ Fargo, ND
+ Saipan, Mariana Island, MP
+ Akron, OH
+ Bellbrook, OH
+ Cincinnati, OH
+ Cleveland, OH
+ Columbus, OH
+ Dayton, OH
+ Toledo, OH
+ Youngstown, OH
+ Lawton, OK
+ Muskogee, OK
+ Oklahoma City, OK
+ Tulsa, OK
+ Eugene, OR
+ Medford, OR
+ Portland, OR
+ Allentown, PA
+ Easton, PA
+ Erie, PA
+ Harrisburg, PA
+ Johnstown, PA
+ King of Prussia, PA
+ Philadelphia, PA
+ Pittsburgh, PA
+ Reading, PA
+ Scranton, PA
+ Wilkes Barre, PA
+ Williamsport, PA
+ Guaynabo, PR
+ Hato Rey, PR
+ San Juan, PR
+ Providence, RI
+ Charleston, SC
+ Columbia, SC
+ Florence, SC
+ Greenville, SC
+ Myrtle Beach, SC
+ Pierre, SD
+ Rapid City, SD
+ Sioux Falls, SD
+ Chattanooga, TN
+ Greeneville, TN
+ Jackson, TN
+ Knoxville, TN
+ Memphis, TN
+ Nashville, TN
+ Abilene, TX
+ Alpine, TX
+ Amarillo, TX
+ Austin, TX
+ Beaumont, TX
+ Brownsville, TX
+ Corpus Christi, TX
+ Dallas, TX
+ Del Rio, TX
+ El Paso, TX
+ Fort Worth, TX
+ Galveston, TX
+ Houston, TX
+ Laredo, TX
+ Lubbock, TX
+ Lufkin, TX
+ Marshall, TX
+ McAllen, TX
+ Midland, TX
+ Pecos, TX
+ Plano, TX
+ San Antonio, TX
+ Sherman, TX
+ Texarkana, TX
+ Tomball, TX
+ Tyler, TX
+ Victoria, TX
+ Waco, TX
+ Saint George, UT
+ Salt Lake City, UT
+ Burlington, VT
+ Williston, VT
+ Saint Croix, VI
+ Saint Thomas, VI
+ Abingdon, VA
+ Alexandria, VA
+ Arlington, VA
+ Chantilly, VA
+ Charlottesville, VA
+ Fredericksburg, VA
+ Harrisonburg, VA
+ Lynchburg, VA
+ Merrifield, VA
+ Newport News, VA
+ Norfolk, VA
+ Richmond, VA
+ Roanoke, VA
+ Springfield, VA
+ Richland, WA
+ Seattle, WA
+ Spokane, WA
+ Tacoma, WA
+ Vancouver, WA
+ Yakima, WA
+ Beckley, WV
+ Bluefield, WV
+ Charleston, WV
+ Clarksburg, WV
+ Huntington, WV
+ Martinsburg, WV
+ Wheeling, WV
+ Green Bay, WI
+ Madison, WI
+ Milwaukee, WI
+ Casper, WY
+ Cheyenne, WY
+ Lander, WY
+ Yellowstone National Park, WY
+.
+Please select all occupational series you wish to be considered for. Certain series may require specific educational qualifications. If the exact title of your desired position is not listed, select the option that most closely aligns with your interests. Applications will be sorted by area(s) of interest if/when requests are received from hiring managers. For information on each occupational series, see the General Schedule Qualification Standards.
+3.
+Select any of the following job series of interest.
+ 0080 – Security Administration
+ 0082 – United States Marshal
+ 0086 – Security Clerical and Assistance
+ None of the Above
+4.
+Select any of the following job series of interest.
+ 0101 - Social Science
+ 0132 - Intelligence
+ 0180 - Psychology
+ 0185 - Social Work
+ None of the Above
+5.
+Select any of the following job series of interest.
+ 0201 - Human Resources Management
+ 0203 - Human Resources Assistance
+ 0260 - Equal Employment Opportunity
+ None of the Above
+6.
+Select any of the following job series of interest.
+ 0301 - Miscellaneous Administration and Programs
+ 0303 - Miscellaneous Clerk and Assistant
+ 0306 - Government Information
+ 0308 - Records and Information Management
+ 0318 - Secretary
+ 0340 - Program Management
+ 0341 - Administrative Officer
+ 0343 - Management and Program Analysis
+ 0346 - Logistics Management
+ 0391 - Telecommunications
+ 0392 - General Telecommunications
+ None of the Above
+7.
+Select any of the following job series of interest.
+ 0501 - Financial Administration and Program
+ 0505 - Financial Management
+ 0510 - Accounting
+ 0511 - Auditing
+ 0525 - Accounting Technician
+ 0560 - Budget Analysis
+ None of the Above
+8.
+Select any of the following job series of interest.
+ 0601 - General Health Science
+ 0602 - Medical Officer
+ 0610 - Nurse
+ 0640 - Health Aid and Technician
+ 0690 - Industrial Hygienist
+ None of the Above
+9.
+Select any of the following job series of interest.
+ 0808 - Architecture
+ 0856 - Electronics Technician
+ None of the Above
+10.
+Select any of the following job series of interest.
+ 0905 - General Attorney
+ 0950 - Paralegal Specialist
+ None of the Above
+11.
+Select any of the following job series of interest.
+ 1001 - General Arts and Information
+ 1035 - Public Affairs
+ None of the Above
+12.
+Select any of the following job series of interest.
+ 1101 - General Business and Industry
+ 1102 - Contracting
+ 1105 - Purchasing
+ 1160 - Financial Analysis
+ 1170 - Realty
+ None of the Above
+13.
+Select any of the following job series of interest.
+ 1501 - General Mathematics and Statistics
+ 1515 - Operations Research
+ 1530 - Statistics
+ None of the Above
+14.
+Select any of the following job series of interest.
+ 1601 - Equipment Facilities, and Services
+ 1640 - Facility Operations Services
+ 1654 - Printing Services
+ 1670 - Equipment Specialist
+ None of the Above
+15.
+Select any of the following job series of interest.
+ 1701 - General Education and Training
+ 1702 - Education and Training Technician
+ 1712 - Training Instruction
+ None of the Above
+16.
+Select any of the following job series of interest.
+ 1801 - General Inspection, Investigation, Enforcement and Compliance
+ 1802 - Compliance Inspection and Support
+ 1805 - Investigative Analysis
+ 1811 - Criminal Investigation
+ None of the Above
+17.
+Are you interested in the 1910 - Quality Assurance job series?
+ Yes
+ No
+18.
+Are you interested in the 2030 - Distribution Facilities and Storage Management job series?
+ Yes
+ No
+19.
+Select any of the following job series of interest.
+ 2101 - Transportation Specialist
+ 2102 - Transportation Clerk and Assistant
+ 2151 - Dispatching
+ 2181 - Aircraft Operation
+ None of the Above
+20.
+Are you interested in the 2210 - Information Technology Management job series?
+ Yes
+ No
+21.
+Please select the level of education you have completed from the list below. (Select all that apply) Some positions require proof of education or allow you to use your education to meet qualification requirements. You are strongly encouraged to submit a copy of your transcripts, professional registration/licensure, and/or certification. Unofficial transcripts will be accepted that includes your name, the name of the educational institution, course title(s), number of credits, grade, and date of completion. An official transcript will be required if you are selected.
+ Associate degree
+ Bachelor's degree
+ Bachelor’s degree with Superior Academic Achievement
+ 1 full year of graduate level education
+ Master’s degree
+ Ph.D. or doctorate degree
+ LL.B. (Bachelor of Laws) or J.D. (Juris Doctor) degree
+ LL.M. (Master of Laws) degree
+ Professional registration or licensure
+ Vocational or technical degree
+ Certification
+ None of the above
+22.
+All positions will require a pre-employment drug test or be identified as a Testing Designated Position (TDP) pursuant to Executive Order 12564 Drug-Free Federal Workplace. All applicants tentatively selected for a position will be required to submit to a pre-employment drug screening for illicit/illegal drug use prior to receiving a final offer of employment. Are you willing to submit to drug testing?
+ Yes
+ No
+23.
+The following question is regarding your Selective Service status. If you are a male born after December 31, 1959, and are at least 18 years of age, civil service employment law (5 U.S.C.3328) requires that you must be registered with the Selective Service System, unless you meet certain exemptions under Selective Service law. Selective Service bases the registration requirement on gender assigned at birth and not on gender identity or on gender reassignment. Individuals who are born male and changed their gender to female are still required to register. Individuals who are born female and changed their gender to male are not required to register. If you are required to register but knowingly and willfully fail to do so, you are ineligible for appointment by executive agencies of the Federal Government (5 CFR 300.704). Visit http://www.sss.gov for additional information.
+ I am registered with the Selective Service System. I understand my registration will be verified with the Selective Service System database.
+ I meet one of the authorized Selective Service registration exemptions and understand that I will be required to provide verification before I can be employed by USMS.
+ I am not at least 18 years of age, but understand I am required by law to register upon turning 18.
+ I am or was a member of the U.S. Armed Forces on active duty or a member of the National Guard or Reserves; therefore, I am considered compliant with registration requirements. I understand I must provide documentation of my military service, such as my DD Form 214.
+ I was born a male on or before December 31, 1959; therefore, the registration requirement does not apply to me.
+ I was born a female; therefore, the registration requirement does not apply to me.
+ I was required to register for the Selective Service and did not register. I do not have an approved exemption, and I have not served in the military.
+24.
+If you are a Federal civilian employee, under what type of appointment are you currently serving?
+ Career Appointment, Competitive Service
+ Career-Conditional Appointment, Competitive Service
+ Career Appointment, Excepted Service
+ Career-Conditional Appointment, Excepted Service
+ Term Appointment (Time-Limited not to exceed more than 1 year, but not more than 4 years)
+ Temporary Appointment (Time-Limited not to exceed 1 year or less)
+ Pathways Program (Internship or Recent Graduates)
+ Other
+ Not Applicable
+25.
+If you are a current or former federal civilian employee, enter the pay plan/band and grade level of the highest graded position you have held (for example: GS-09,WG-04). If you have nor held a federal position, enter "N/A" (Not Applicable).
+26.
+Are you receiving a Federal civilian retirement annuity? If yes, and you are selected for this position, your salary will be reduced by the gross amount of the Federal annuity paid during the period of reemployment.
+ Yes
+ No
+27.
+Have you accepted a buyout, (i.e., Voluntary Separation Incentive Payment (VSIP)) from a Federal agency within the past 5 years? If yes, and you are selected for this position, you must repay the entire (pre-tax) amount of the incentive to the agency which paid the buyout before your first day of work in the new position.
+ Yes
+ No
+28.
+The Office of Personnel Management (OPM) must authorize employment offers made to current or former political appointees. In the last five years (from the closing date of this vacancy announcement) have you served, or are you currently serving, as an Executive Branch Political appointee, Political Schedule A, Schedule C (confidential or policy-determining), or Non-Career or Limited appointee in the Senior Executive System (SES)? If yes, please provide appropriate documentation in your application package to provide proof of your current or most recent political appointment.
+ Yes, I have held a political appointment within the last five years.
+ Yes, I am currently in a position based on a political appointment.
+ No, I have not held a political appointment within the last five years.
+29.
+Please enter the date of your most recent performance appraisal. If not applicable, please enter today's date.
+30.
+Select the rating level you received, as applicable to your agency's performance management system, for your most recent performance appraisal. Please provide a copy of your most recent performance appraisal (dated within last 3 years) showing the official rating of record, signed by a supervisor, or statement why the performance appraisal is unavailable.
+ Outstanding
+ Exceeds Fully Successful/Highly Successful
+ Fully Successful/Pass
+ Minimally Successful/Minimally Acceptable
+ Unacceptable/Fail
+ Not Ratable or I do not have a performance appraisal.
+ Not Applicable. I am not a federal civilian employee.
+31.
+For qualification determinations and to receive full consideration for relevant experience, your resume must contain complete information and support your question responses. Be clear and specific when describing your work history since human resources cannot make assumptions regarding your experience. Your resume MUST not exceed 2-pages In length and include the following: Full Legal Name Phone Number Email Address Work history (which includes Job Titles and Employer) Detailed description of your job-related qualifications (including tasks performed} Start and end dates of employment with the month and year (e.g., MM/YYYY to MM/YYYY, MM/YYYY to Present) Total hours worked per week for each job listed. If you are a current or former Federal civilian employee, your resume MUST also include the following for all Federal positions you have held: Pay Plan/Band (e.g., GS, WG, etc.) Occupational series (e.g., 201, 301, 2210, etc.) Grade level (e.g., 5, 9, 13, etc.) For military service, your resume MUST also include your rank and/or pay grade (e.g., O-03 (Captain/Lieutenant), E-5 (Sergeant/Petty Officer Second Class), etc.). If the pay plan/band, occupational series, grade level, and/or rank/pay grade are not provided, it may result in an ineligible determination. Do NOT include the following types of information in your resume: Photographs Social Media links (e.g., LinkedIn) Personal information, such as date of birth, social security (SSN), gender, religious affiliation, etc. Classified or government sensitive information Inappropriate material or content If your resume contains prohibited Information as listed above, it will result in an Ineligible determination, and you WILL NOT receive consideration for this position. Do you verify that your resume does not exceed 2-pages in length, includes all required information, and does not contain any of the prohibited information as listed above?
+ Yes, I verify that my resume does not exceed 2-pages in length, contains complete information for each job entry, and does not contain any of the prohibited information as listed above.
+ No, I am not wilting to verify that my resume does not exceed 2-pages in length, contains complete information for each job entry, or may contain prohibited information as listed above. I understand my application may be deemed insufficient and I may not receive consideration for this position. I further understand that if my resume contains any prohibited information, it will result in my removal from consideration for this position.
+Essay Questions
+.
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+3.
+How would you help advance the President's Executive Orders and policy priorities in this role? Identify one or two relevant Executive Orders or policy initiatives that are significant to you, and explain how you would help implement them if hired.
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No

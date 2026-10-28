@@ -1,33 +1,43 @@
 {
-  "date": "2026-10-27",
-  "open_postings": 12021,
+  "date": "2026-10-28",
+  "open_postings": 12442,
   "listed_postings_not_in_job_data": 0,
-  "links_added": 0,
+  "links_added": 385,
   "links_removed": 0,
-  "postings_no_longer_listed": 0,
-  "questionnaires": 10918,
-  "fetched_ok": 10897,
+  "postings_no_longer_listed": 65,
+  "questionnaires": 11720,
+  "fetched_ok": 11531,
   "failed": 0,
-  "skipped_blocked_domain": 21,
-  "changed_today": 37,
-  "with_loyalty_q": 20,
-  "with_new_wording": 4179,
+  "skipped_blocked_domain": 189,
+  "changed_today": 570,
+  "with_loyalty_q": 22,
+  "with_new_wording": 4456,
   "with_question_5": 12,
-  "open_postings_with_loyalty_q": 18,
+  "open_postings_with_loyalty_q": 20,
   "open_postings_with_question_5": 12,
   "open_postings_with_possible_variant": 0,
-  "open_postings_reopened": 202,
+  "open_postings_reopened": 201,
   "open_postings_reopened_today_with_loyalty_q": 1,
   "open_postings_not_listed_today": 0,
   "open_postings_not_listed_today_with_loyalty_q": 0,
-  "unlisted_outcomes": {},
-  "blocked_portal_last_checked": "2026-10-27",
+  "unlisted_outcomes": {
+    "closed_early": 65
+  },
+  "blocked_portal_last_checked": "2026-10-28",
   "blocked_portal_check": {
-    "questionnaires": 21,
-    "ok": 21,
+    "questionnaires": 189,
+    "ok": 189,
     "failed": 0,
     "error": ""
   },
+  "usastaffing_id_scan": {
+    "date": "2026-10-28",
+    "finished": false,
+    "summary": "stopped at 13,097,131: USAStaffing refused requests (403) {'missing': 1452, 200: 47, 403: 179}",
+    "new": 47
+  },
   "open_postings_with_loyalty_q_checked_before_yesterday": 0,
-  "warnings": []
+  "warnings": [
+    "Today's scan of new USAStaffing questionnaires didn't finish (stopped at 13,097,131: USAStaffing refused requests (403) {'missing': 1452, 200: 47, 403: 179}). Postings that don't link their questionnaire may be missing one."
+  ]
 }

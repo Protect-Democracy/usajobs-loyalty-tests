@@ -1,0 +1,49 @@
+Position Title
+General Maintenance and Operations
+Agency
+Department of the Air Force - Agency Wide
+Announcement Number
+AF-FY26-WG-47XX-SPLASH
+Open Period
+Mar 27, 2026 to Mar 26, 2027
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+2.
+US Citizen - Are you a US citizen (either by birth or naturalization) or national of the United States?
+ Yes
+ No
+Preferences
+1.
+Select the lowest grade you are willing to accept for this position.
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+ 10
+ 11
+ 12
+ 13
+ 14
+ 15
+2.
+Select the series you want to be considered for. You must choose at least one series.
+ 4701 - Miscellaneous General Maintenance and Operations Work
+ 4714 - Model Making
+ 4715 - Exhibits Making/Modeling
+ 4737 - General Equipment Mechanic
+ 4742 - Utility Systems Repairing-Operating
+ 4745 - Research Laboratory Mechanic
+ 4749 - Maintenance Mechanic

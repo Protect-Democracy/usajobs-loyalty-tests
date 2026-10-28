@@ -1,0 +1,67 @@
+Position Title
+Tech Lead/Senior Developer
+Agency
+U.S. Tax Court
+Announcement Number
+26-13094416
+Open Period
+Oct 27, 2026 to Nov 09, 2026
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+Preferences
+1.
+Do you have any experience with TypeScript software development for modern web and service-based applications?
+ Less than four years
+ More than four years
+2.
+Do you have any experience with Infrastructure as Code using Terraform?
+ Less than four years
+ More than four years
+3.
+Do you have any experience with CI/CD automation and workflow engineering using GitHub Actions?
+ Less than four years
+ More than four years
+4.
+Do you have any experience with AWS cloud services, architectures, security, and operations?
+ Less than four years
+ More than four years
+5.
+Do you have any experience with Git-based source control, pull requests, code review, and branching strategies?
+ Less than four years
+ More than four years
+6.
+Do you have any experience with automated testing, secure coding, observability, and application troubleshooting?
+ Less than four years
+ Moe than four years
+7.
+Do you have any experience with Agile software delivery, technical documentation, and cross-functional collaboration?
+ Less than four years
+ More than four years
+8.
+Do you possess professional judgment, accountability, and continuous improvement skills?
+ Yes
+ No
+9.
+Do you have any experience with technical leadership, architecture, design reviews, and engineering standards?
+ Less than four years
+ More than four years
+10.
+Do you have any experience with production operations, incident response, root-cause analysis, and complex troubleshooting?
+ Less than four years
+ More than four years
+11.
+Do you have any experience with system reliability, performance engineering, monitoring, logging, and operational readiness?
+ Less than four years
+ More than four years
+12.
+Do you have any experience with technical mentoring, work coordination, risk identification, and decision support?
+ Less than four years
+ More than four years

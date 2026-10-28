@@ -1,0 +1,41 @@
+Position Title
+Instructor/Assistant/Associate/Professor - STEM and Artificial Intelligence
+Agency
+U.S. Air Force Academy
+Announcement Number
+26-39-GSAT
+Open Period
+Oct 02, 2026 to Nov 13, 2026
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+2.
+US Citizen - Are you a US citizen (either by birth or naturalization) or national of the United States?
+ Yes
+ No
+Preferences
+1.
+Select the lowest grade you are willing to accept for this position.
+ 21
+ 22
+ 23
+ 24
+2.
+Would you accept a term appointment?
+ Yes
+ No
+3.
+I am a current or prior military member of the Armed Forces that is retiring or has been retired less than 180 days. Hiring (appointments or transfers) of retiring or retired members of the Armed Forces to positions in any DoD Component during the 180 days immediately following retirement may only be made IAW DoDI 1402.01 and may require a waiver for appointment prior to the 180 days from official military retirement.
+ Yes
+ No
+4.
+Are you retired from the Federal civilian service or are you in a phased retirement and receiving an annuity?
+ Yes
+ No

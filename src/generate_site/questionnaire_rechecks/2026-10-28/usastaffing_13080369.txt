@@ -1,0 +1,73 @@
+Position Title
+Attorney (Entry-Level)
+Agency
+Offices, Boards and Divisions
+Announcement Number
+27-CRT-ATT-002
+Open Period
+Oct 01, 2026 to Mar 31, 2027
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+2.
+Are you applying for eligibility based on the Schedule A hiring authority for the employment of persons with severe physical, intellectual, or psychiatric disabilities? Schedule A refers to a special hiring authority that gives Federal agencies an optional, and potentially quicker, way to hire individuals with disabilities. Applying under Schedule A offers an exception to the traditional competitive hiring process. You can apply for jobs using Schedule A, if you are a person with an intellectual disability, a severe physical disability, or a psychiatric disability. Learn more about Schedule A... Notes about Schedule A eligibility : You must provide " proof of a disability " documentation with your application, stating that you have an intellectual disability, severe physical disability or psychiatric disability. You can get this letter from your doctor, a licensed medical professional, a licensed vocational rehabilitation specialist, or any federal, state, or local agency that issues or provides disability benefits. Veterans with a 30% (or greater) disability rating from the Department of Veterans Affairs (VA) can qualify for Schedule A by submitting your VA Letter as part of your application and by claiming this eligibility option. Appointments under Schedule A are in the Excepted Service , but are eligible for conversion to the Competitive Service after 2 years with a successful performance rating and at the recommendation of management. (If you are already in a competitive service appointment, you would be converted back to the excepted service if you take an appointment under Schedule A.)
+ Yes
+ No
+3.
+Are you a Veteran with a Service-connected disability of 30% or more? You may qualify as a disabled Veteran if you separated from active duty under honorable conditions, and you must have a service-connected disability rating of 30% of more, as determined by the Department of Veterans Affairs. You may also qualify for this eligibility if you were awarded a Purple Heart for your service. For more information, review USAJOBS Veterans resources ... To verify your eligibility: You must submit a copy of your latest Certificate of Release or Discharge from Active Duty (DD-214) form, please submit the Member #4 copy. Additionally, you will need to submit the SF-15, Application of 10-point Veterans Preference form, and your VA Letter with the disability rating.
+ Yes
+ No
+Preferences
+1.
+Select the lowest grade you are willing to accept for this position.
+ 11
+ 12
+2.
+In the last five years (from the closing date of this announcement) have you served, or are you currently serving, as an Executive Branch Political, Schedule C, or Non-career Senior Executive Services appointee? You can find out if you have held one of these appointment types by looking at the SF-50s in your Electronic Official Personnel Folder (eOPF), in Section 5 where the legal authorities are listed. A political appointee is an appointment made by the President with or without confirmation by the Senate (5 CFR 213.3102(c)) OR an assistant position to a top-level federal official if filled by a person designated by the President as a White House Fellow (5 CFR 213.3102(z)). A Schedule C appointee occupies a position excepted from the competitive service because of the confidential or policy-determining nature of the position duties (5 CFR 213.3301 and 5 CFR 213.3302). A noncareer SES appointee serves at the pleasure of the appointing official without time limitations (5 CFR 317 Subpart F).
+ Yes, I have held one of the above appointment types in the last 5 years.
+ No, I have not held any of the above appointment types in the last 5 years.
+ I am uncertain if I have held any of these appointment types in the last 5 years.
+3.
+I certify that to the best of my knowledge and belief, all of the information included in this questionnaire is true, correct, and provided in good faith. I understand that if I make an intentional false statement, or commit deception or fraud in this application and its supporting materials, or in any document or interview associated with the examination process, I may be fined or imprisoned (18 U.S.C 1001); my eligibilities may be cancelled, I may be denied an appointment, or I may be removed and debarred from Federal service (5 C.F.R. part 731). I understand that any information I give may be investigated. I understand that responding "No" to this item will result in my not being considered for this position.
+ I certify that to the best of my knowledge and belief, all of the information included in this questionnaire is true, correct, and provided in good faith.
+ I DO NOT certify that to the best of my knowledge and belief, all of the information included in this questionnaire is true, correct, and provided in good faith.
+4.
+You may be required to complete a pre-employment security screening and background investigation, which includes a drug screening. Do you accept this condition?
+ I agree to a complete pre-employment security screening and background investigation, which includes a drug screening.
+ I do not accept this condition.
+5.
+I have read the full vacancy announcement on USAJOBS and understand the requirements laid out under Required Documents section. I understand that failure to provide a required document may result in my application being rated ineligible, incomplete, or that I may be rated based on the information I do provide. I further understand that my resume must contain sufficient information about my work experience in order for me to receive credit. Refer to the USAJOBS job opportunity announcement for the full list of required documents for each group of applicant. See What Types of Documents Might I Have to Provide? (USAJOBS) for additional information about documentation. See the Resume Writing Tutorial for more information about resume requirements.
+ Yes
+ No
+6.
+You may be required to complete a one or two-year probationary period. Do you accept this condition of employment?
+ I agree to serving a one or two-year probationary period.
+ I DO NOT agree with serving a probationary period.
+Attorney GS-0905-14
+.
+Please accurately identify your level of experience and demonstrated capability when completing this questionnaire, as your responses, resume, and supporting documents will be reviewed for accuracy. You will be asked at the end of this questionnaire to certify your entire application as true and accurate. In order to be considered, you must respond to each of the below-listed questions regardless of the grade level in which you are applying. Failure to answer all of the questions below will result in your ineligibility for this position.
+1.
+Do you possess a Juris Doctor (J.D.) or Master of Law (LL.M.)?
+ Yes, I possess a J.D. or LL.M. degree.
+ No, I do not possess this education.
+2.
+Provide the year in which you obtained your degree and the name of the College or University. If a recent graduate or current law school student, include anticipated date of bar exam.
+3.
+What year will your degree confer?
+ 2026
+ 2027
+ 2028
+ Not applicable. Answer to question #1 is YES.
+4.
+Applicants must possess a J.D. degree (or equivalent) and be an active member of the bar (any U.S. jurisdiction) by their entry on duty date. Law school graduates and current law students taking a February 2027 bar examination may be considered, provided they meet these requirements prior to entry on duty.
+ I am currently an active member of the bar of at least one State, territory, or the District of Columbia.
+ I am a member of the bar of at least one State, territory or the District of Columbia, but I am currently inactive.
+ I am not a member of the bar of at least one State, territory or the District of Columbia.
+ I am not a member of the bar and anticipate taking the bar exam in 2027.
