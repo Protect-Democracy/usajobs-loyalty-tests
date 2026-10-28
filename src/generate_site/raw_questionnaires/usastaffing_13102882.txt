@@ -1,0 +1,62 @@
+Position Title
+TITLE 32 MACHINIST WG-3414-11
+Agency
+Air National Guard Units
+Announcement Number
+WV-13102882-AF-26-154
+Open Period
+Oct 27, 2026 to Nov 27, 2026
+Eligibilities
+1.
+All on-board federal employees/technicians within the state for which you are applying (Title 32 and Title 5, Permanent and Excepted Indefinite). Are you a current on-board federal employee or technician within the state for which this position is being advertised? To verify your eligibility, you must submit a copy of your most recent Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Tenure in Block 24 (1, 2,or 3).
+ Yes
+ No
+2.
+Current Army M-Day and current Air DSG members within the state for which you are applying. Are you a current Army M-Day or current Air DSG member within the state for which this position is being advertised?
+ Yes
+ No
+3.
+Are you a current Permanent full-time Dual Status National Guard Technician within the state for which this position is being advertised? To verify your eligibility, you must submit a copy of your Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Permanent full-time status with the state National Guard.
+ Yes
+ No
+T32 WG-3414-11
+.
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+1.
+What is your level of experience performing machining, fabrication, modification, and repair work on aircraft parts, support equipment, tools, or assemblies, including operations such as cutting, bending, forming, casting, cleaning, molding, welding, sawing, machining, and assembly?
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+2.
+What is your level of experience laying out work; reading and interpreting blueprints, drawings, and technical publications; designing sketches, tools, jigs, dies, or fixtures; planning machining or welding operations; performing shop calculations; and working to close tolerances in the manufacture or repair of aircraft or mechanical parts?
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+3.
+What is your level of experience welding ferrous and non-ferrous metals or alloys using methods such as shielded gas, metallic arc, oxyacetylene, or resistance welding; heat treating metal parts; identifying metals and their characteristics; and testing materials for strength, hardness, or related properties?
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+4.
+What is your level of experience inspecting machined or repaired parts for compliance with drawings, technical orders, specifications, tolerances, fit, or finish; using precision measuring instruments and gauges; determining reparability of parts or components; training other personnel in shop work; and participating in readiness, mobility, or emergency support activities?
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+.
+Select “Yes” or “No” to the following question(s).
+5.
+Do you have experience or training that provided a basic knowledge of machining processes and the ability to use drill presses, shapers, planers, and other associated machine tools?
+ Yes
+ No
+6.
+Do you have experience or training performing the full range of machining operations on most types of conventional or CNC machine tools and their attachments; planning and laying out work from blueprints, worksheets, and drawings that may contain missing or incorrect information; applying shop mathematics to establish dimensions, chase threads, machine angular surfaces, and locate and mark surfaces and angles to be machined; programming, setting up, and operating CNC machine tools; and applying advanced shop mathematics, including geometric and trigonometric formulas, to compute layouts, machine unusual or compound angles, and determine gear ratios, pitch, angles, and other exact dimensions?
+ Yes
+ No

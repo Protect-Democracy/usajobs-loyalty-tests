@@ -1,0 +1,62 @@
+Position Title
+TITLE 32 IT SPEC (PLCYPLN) GS-2210-11
+Agency
+Air National Guard Units
+Announcement Number
+WV-13103025-AF-26-156
+Open Period
+Oct 27, 2026 to Nov 27, 2026
+Eligibilities
+1.
+All on-board federal employees/technicians within the state for which you are applying (Title 32 and Title 5, Permanent and Excepted Indefinite). Are you a current on-board federal employee or technician within the state for which this position is being advertised? To verify your eligibility, you must submit a copy of your most recent Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Tenure in Block 24 (1, 2,or 3).
+ Yes
+ No
+2.
+Current Army M-Day and current Air DSG members within the state for which you are applying. Are you a current Army M-Day or current Air DSG member within the state for which this position is being advertised?
+ Yes
+ No
+3.
+Are you a current Permanent full-time Dual Status National Guard Technician within the state for which this position is being advertised? To verify your eligibility, you must submit a copy of your Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Permanent full-time status with the state National Guard.
+ Yes
+ No
+T32 GS-2210-11
+.
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+1.
+What is your level of experience analyzing information technology requirements, evaluating existing or proposed systems, developing project plans or justifications, recommending improvements or new solutions, and developing or interpreting policies, plans, or guidance governing the use of information technology?
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+2.
+What is your level of experience planning or developing telecommunications methods, policies, procedures, networks, or systems; preparing planning documentation or specifications; coordinating resources; resolving communications problems; and conducting testing or implementation activities for telecommunications systems?
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+3.
+What is your level of experience implementing IT or communications programs or special projects; maintaining equipment documentation and inventories; conducting feasibility studies or economic analysis; preparing budgetary data or funding recommendations; and assisting with contract requirements such as statements of work, performance work statements, or technical reviews?
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+4.
+What is your level of experience participating in meetings, committees, planning groups, or special projects; consulting with management, customers, or technical personnel to resolve IT or communications issues; preparing and presenting reports or briefings; and conducting self-inspections or staff assistance visits to identify and resolve discrepancies?
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+.
+Select “Yes” or “No” to the following question(s).
+5.
+Do you have experience, education, and/or training that provided a basic knowledge of data processing functions and general management principles sufficient to understand the stages required to automate a work process? This experience may have been gained in work such as computer operator or assistant, computer sales representative, program analyst, or other positions requiring the use or adaptation of computer programs and systems.
+ Yes
+ No
+6.
+Do you have at least 1 year of specialized experience equivalent to at least the GS-9 level that included applying techniques and requirements appropriate to an assigned computer applications or computer specialty area; planning the sequence of actions necessary to accomplish assignments requiring coordination outside the organizational unit and development of project controls; adapting guidelines or precedents to meet assignment needs; and preparing documentation for cost/benefit studies by summarizing material and organizing it logically?
+ Yes
+ No
