@@ -1,0 +1,62 @@
+Position Title
+TITLE 32 MANAGEMENT ANALYST GS-0343-10
+Agency
+Air National Guard Units
+Announcement Number
+WV-13102958-AF-26-155
+Open Period
+Oct 28, 2026 to Nov 28, 2026
+Eligibilities
+1.
+All on-board federal employees/technicians within the state for which you are applying (Title 32 and Title 5, Permanent and Excepted Indefinite). Are you a current on-board federal employee or technician within the state for which this position is being advertised? To verify your eligibility, you must submit a copy of your most recent Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Tenure in Block 24 (1, 2,or 3).
+ Yes
+ No
+2.
+Current Army M-Day and current Air DSG members within the state for which you are applying. Are you a current Army M-Day or current Air DSG member within the state for which this position is being advertised?
+ Yes
+ No
+3.
+Are you a current Permanent full-time Dual Status National Guard Technician within the state for which this position is being advertised? To verify your eligibility, you must submit a copy of your Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Permanent full-time status with the state National Guard.
+ Yes
+ No
+T32 GS-0343-10
+.
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+1.
+What is your level of experience retrieving, analyzing, and interpreting maintenance data; identifying trends, deviations, or deficiencies; assessing the impact on mission performance; and preparing written reports or summary products for management use?
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+2.
+What is your level of experience controlling, managing, or maintaining maintenance information systems or databases; developing related policies and procedures; identifying and correcting data or file errors; building queries and reports; and advising leadership or supervisors on the use of automated maintenance information?
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+3.
+What is your level of experience conducting special studies or in-depth analysis of readiness issues; collecting, validating, and analyzing readiness metrics; developing readiness management plans or corrective actions; and preparing reports or briefings for senior leadership?
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+4.
+What is your level of experience analyzing performance data to evaluate manpower, equipment, material, or facility capabilities; identifying limitations affecting mission effectiveness; isolating trends; and developing methods to improve maintenance planning, programming, efficiency, or resource utilization?
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+.
+Select “Yes” or “No” to the following question(s).
+5.
+Do you have experience, education, or training in administrative, professional, investigative, technical, or other responsible work that demonstrates analytical ability and a practical and theoretical knowledge of the functions, processes, and principles of management; knowledge of National Guard organizational structures, functions, procedures, and techniques; and experience using computer and automation systems?
+ Yes
+ No
+6.
+Do you have at least 1 year of specialized experience, education, or training equivalent to at least the GS-9 level that prepared you to perform the duties of this position?
+ Yes
+ No

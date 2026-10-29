@@ -1,0 +1,53 @@
+Position Title
+SUPERVISORY ITSPEC (CUSTOMER SUPPORT) (Title 5)
+Agency
+Army National Guard Units
+Announcement Number
+AR-26-258-13082241
+Open Period
+Oct 28, 2026 to Nov 12, 2026
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+Specialized Experience
+.
+This questionnaire is required in order for your application to be reviewed. Answer each question "Yes" or "No" based on your personal work experience.
+1.
+Do you have experience supervising a customer support/service desk team, including establishing performance standards, evaluating employee performance, approving work plans/priorities, and recommending awards or disciplinary actions utilizing MyBiz?
+ Yes
+ No
+2.
+Do you have experience in the Global Combat Support System - Army (GCSS-ARMY) for inventory management and property book accountability?
+ Yes
+ No
+3.
+Do you have experience developing customer support policies, procedures, and standards?
+ Yes
+ No
+4.
+Do you have experience navigating the Army Unified Directory Service (AUDS)?
+ Yes
+ No
+5.
+Do you have experience operating the Army Enterprise Service Management (AESMP) help desk platform?
+ Yes
+ No
+6.
+Do you have experience serving as a Contracting Officer's Representative (COR), preparing technical statements of work, and providing oversight of IT asset/contract performance?
+ Yes
+ No
+7.
+Do you have experience navigating Microsoft INTUNE cloud based endpoint management?
+ Yes
+ No
+8.
+Do you currently hold a CompTIA Security Plus or equivalent certification?
+ Yes
+ No
