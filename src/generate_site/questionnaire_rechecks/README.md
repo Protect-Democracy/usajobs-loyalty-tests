@@ -105,9 +105,11 @@ runs the refresh with `--check-blocked-portals` on a virtual display (`xvfb-run`
 Before it decides each questionnaire's answers, it re-checks every one on today's list,
 new and reopened postings included, through `../recheck_blocked_portals.py`. That
 script saves any copy whose text changed to `<YYYY-MM-DD>/`, and the refresh uses it
-right away. The same script also runs on a laptop in the evening (the
-loyalty-q-reports FAA job). That job was the only re-check before 2026-10-28; it's kept
-as a backup for now.
+right away. Before 2026-10-28 the only re-check was the same script run on a laptop in
+the evening (the loyalty-q-reports FAA job). It was turned off on 2026-10-29: when both
+ran, each saved copies the other then counted as failures, because jobs.faa.gov lists a
+posting's locations in a different order on each load and the script won't overwrite a
+copy saved the same day.
 
 If the re-check fails, the refresh still runs: those questionnaires keep their last
 flags, `last_run.json` records the failure (`blocked_portal_check`), and their
