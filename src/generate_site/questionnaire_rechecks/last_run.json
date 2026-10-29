@@ -1,43 +1,43 @@
 {
-  "date": "2026-10-28",
-  "open_postings": 12442,
+  "date": "2026-10-29",
+  "open_postings": 12677,
   "listed_postings_not_in_job_data": 0,
-  "links_added": 385,
+  "links_added": 5,
   "links_removed": 0,
-  "postings_no_longer_listed": 65,
-  "questionnaires": 11720,
-  "fetched_ok": 11531,
+  "postings_no_longer_listed": 83,
+  "questionnaires": 11924,
+  "fetched_ok": 11725,
   "failed": 0,
-  "skipped_blocked_domain": 189,
-  "changed_today": 570,
+  "skipped_blocked_domain": 199,
+  "changed_today": 206,
   "with_loyalty_q": 22,
-  "with_new_wording": 4456,
-  "with_question_5": 12,
+  "with_new_wording": 4519,
+  "with_question_5": 10,
   "open_postings_with_loyalty_q": 20,
-  "open_postings_with_question_5": 12,
+  "open_postings_with_question_5": 10,
   "open_postings_with_possible_variant": 0,
-  "open_postings_reopened": 201,
-  "open_postings_reopened_today_with_loyalty_q": 1,
+  "open_postings_reopened": 215,
+  "open_postings_reopened_today_with_loyalty_q": 0,
   "open_postings_not_listed_today": 0,
   "open_postings_not_listed_today_with_loyalty_q": 0,
   "unlisted_outcomes": {
-    "closed_early": 65
+    "closed_early": 83
   },
-  "blocked_portal_last_checked": "2026-10-28",
+  "blocked_portal_last_checked": "2026-10-29",
   "blocked_portal_check": {
-    "questionnaires": 189,
-    "ok": 189,
-    "failed": 0,
+    "questionnaires": 199,
+    "ok": 191,
+    "failed": 8,
     "error": ""
   },
   "usastaffing_id_scan": {
     "date": "2026-10-28",
-    "finished": false,
-    "summary": "stopped at 13,097,131: USAStaffing refused requests (403) {'missing': 1452, 200: 47, 403: 179}",
-    "new": 47
+    "finished": true,
+    "summary": "scanned to 13,106,631: {'missing': 7678, 200: 606}",
+    "new": 606
   },
   "open_postings_with_loyalty_q_checked_before_yesterday": 0,
   "warnings": [
-    "Today's scan of new USAStaffing questionnaires didn't finish (stopped at 13,097,131: USAStaffing refused requests (403) {'missing': 1452, 200: 47, 403: 179}). Postings that don't link their questionnaire may be missing one."
+    "Today's re-check of questionnaires on portals that block automated checks failed for 8 of 199; they keep their last check."
   ]
 }

@@ -1,0 +1,55 @@
+Position Title
+SUPV ITSPEC (SYSADMIN) (Title 32)
+Agency
+Air National Guard Units
+Announcement Number
+AF-26-275-13095649
+Open Period
+Oct 28, 2026 to Nov 12, 2026
+Specialized Experience
+.
+This portion is a requirement of the application process. Answer each question using your personal Knowledge, Skills, and Abilities.
+1.
+Do you have experience establishing, implementing, and enforcing IT standard operating procedures (SOPs), and conducting quality reviews of technical work to ensure compliance with federal, DoD, and National Guard cybersecurity and regulatory mandates?
+ Yes
+ No
+2.
+Do you have experience managing and overseeing IT customer support operations, prioritizing competing user requests to resolve technical problems and ensure mission-critical systems experience minimal downtime?
+ Yes
+ No
+3.
+Do you have experience evaluating operational mission requirements to make independent decisions regarding IT resource allocation, workload distribution, and technical priorities during critical or changing operational conditions?
+ Yes
+ No
+4.
+Do you have experience managing the configuration, administration, security, and maintenance of server infrastructure, operating systems, and directory services across an enterprise network?
+ Yes
+ No
+5.
+Do you have experience mediating technical and administrative conflicts among subordinates, customers, and external partners to maintain productive working relationships and mission focus?
+ Yes
+ No
+6.
+Do you have experience translating complex technical and systems administration concepts into clear, actionable briefings and reports for senior commanders, supervisors, and non-technical stakeholders?
+ Yes
+ No
+7.
+Do you have experience diagnosing, troubleshooting, and resolving complex, non-routine system administration and network issues that lack established precedents or standard operating procedures?
+ Yes
+ No
+8.
+Do you have experience collaborating and coordinating IT operations, system upgrades, and technical support efforts across different military units, host-base communications squadrons, and external DoD/intelligence agencies?
+ Yes
+ No
+9.
+Do you have technical experience installing, administering, and securing multiple operating systems (e.g., Windows Server, Linux) and virtualized environments in accordance with DoD Information Assurance standards?
+ Yes
+ No
+10.
+Do you have professional experience exercising first-level supervisory authorities, including developing employee performance standards, rating subordinate personnel, approving leave, and recommending hiring or disciplinary actions?
+ Yes
+ No
+11.
+Do you have experience administering systems and servers within a secure, classified environment (e.g., Secret or TS/SCI), and are you able to meet the mandatory conditions of employment: obtaining/maintaining a Top Secret/SCI clearance and maintaining a DoD 8570.01-M baseline Information Assurance certification?
+ Yes
+ No
