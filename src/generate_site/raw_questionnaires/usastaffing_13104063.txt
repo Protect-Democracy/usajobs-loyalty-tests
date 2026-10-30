@@ -1,0 +1,56 @@
+Position Title
+SUPV HR SPEC (MIL)
+Agency
+Army National Guard Units
+Announcement Number
+CO-13104063-AR-27-009-I
+Open Period
+Oct 29, 2026 to Nov 28, 2026
+National Guard Requirements
+1.
+Are you currently a member of the Colorado Army National Guard (COARNG)?
+ Yes
+ No
+2.
+Are you an E-6 thru O-3?
+ Yes
+ No
+Current Status
+1.
+Are you CURRENTLY a TEMP, INDEF, or PERM technician employee in the CONG?
+ Temp
+ Indef
+ Perm
+ None of the above
+2.
+Are you CURRENTLY a Technician in another state OR a Federal Employee with another agency?
+ Yes
+ No
+Separated for cause
+1.
+Have you been separated for cause from a federal position?
+ Yes
+ No
+0201-11-D2004000-CONG
+.
+Select “Yes” or “No” to the following question(s).
+1.
+Do you have at least one year of specialized experiences as a GS-09, GS-10, or the equivalent in regard to human resources programs, such as federal civilian, military, or National Guard technician personnel programs?
+ Yes
+ No
+2.
+Do you have 12 months experience in executing personnel programs and Human Resources Information Systems, as applicable to the specific position and its position description?
+ Yes
+ No
+3.
+Do you have 12 months experience in performing personnel program requirements that involve advising supervisors and managers; and, experienced in completing accession planning and processing; classification and position management; and civilian and military promotions?
+ Yes
+ No
+4.
+Do you have 12 months experience in career counseling; completing or editing performance evaluations; and, conducting educational and skill development personnel course programs?
+ Yes
+ No
+5.
+Any information given on your resume or information that you declare is a truthful statement can be investigated and subject to UCMJ Action if found falsified. Is the information, on your resume and any documents that you upload, truthful?
+ Yes
+ No
