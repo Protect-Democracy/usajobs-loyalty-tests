@@ -1,0 +1,110 @@
+Position Title
+Data Scientist
+Agency
+District of Columbia Courts
+Announcement Number
+SMD-27-13103454
+Open Period
+Oct 30, 2026 to Nov 13, 2026
+Preferences
+1.
+Are you now, or have you ever been, a Federal employee, a District of Columbia Government employee, or a District of Columbia Courts employee?Answer to this question is required
+ No
+ Yes - DC Courts
+ Yes - DC Government
+ Yes - Federal Government
+2.
+If you answered yes to the above question, please enter the agency or organization, division, and dates of service. If you responded no, type N/A. (Maximum length of 100 characters)
+3.
+If you responded yes to the question above, please indicate your current pay: If you responded no, please type N/A. (Maximum length of 100 characters.)
+4.
+Does the DC Courts employ any member of your family? Family is defined as: father, mother, grandfather, grandmother, son, daughter, brother, sister, uncle, aunt, first cousin, nephew, niece, husband, wife, father-in-law, mother-in-law, son-in-law, daughter-in-law, brother-in-law, sister-in-law, stepfather, stepmother, stepson, stepdaughter, stepbrother, stepsister, half brother, or half sister.
+ Yes
+ No
+5.
+If you responded yes to the above question, please provide the name, relationship, and division. If you responded no, type N/A. (Maximum length of 100 characters.)
+6.
+Are you a retiree receiving a civilian Federal annuity? (Note: If you are an annuitant, your salary or annuity may be reduced upon employment.)
+ Yes
+ No
+7.
+Have you accepted a buyout from a Federal agency within the past 5 years?
+ Yes
+ No
+ Not applicable
+8.
+Are you eligible for employment in the United States (either a citizen of the United States, lawfully admitted for permanent residency, or authorized by the Immigration and Naturalization Service to work in the U.S.)?
+ Yes
+ No
+9.
+Within the past 5 years, have you been fired, or have you quit a job after being notified that you would be fired?Answer to this question is required
+ Yes
+ No
+10.
+If you answered yes to being fired within the last 5 years, explain here. If you answered no, type N/A. (Maximum length of 100 characters.)
+11.
+I hereby authorize the release of my adult criminal record revealing any convictions and forfeitures, and any criminal cases currently pending before the courts. Answer to this question is required
+ Yes
+ No
+12.
+May we contact your current employer for a reference?
+ Yes
+ No
+Minimum Qualifications/Self-Assessment
+.
+This section will be used to determine if you possess the education and/or experience to qualify for the Data Scientist position. Failure to respond to the question(s) will result in an ineligible rating. Your resume and documentation must reflect your responses.
+1.
+Select the response that best describes your education and experience.
+ I have a law degree from an accredited university or college and at least three (3) years collecting and analyzing data utilizing databases and PC software to prepare statistical reports.
+ I have a master's degree from an accredited university or college and at least four (4) years collecting and analyzing data utilizing databases and PC software to prepare statistical reports.
+ I have a bachelor's degree from an accredited university or college and at least five (5) years collecting and analyzing data utilizing databases and PC software to prepare statistical reports.
+ None of the above.
+.
+Select “Yes” or “No” to the following question(s).
+2.
+I have a minimum of five (5) years collecting and analyzing data utilizing databases and PC software to prepare statistical reports.
+ Yes
+ No
+.
+Select the response that most accurately reflects your highest level of experience demonstrated for each competence. Your response should be supported by the education, training, and/or work experience provided in your application or resume.
+.
+For each technical area below, select the response that most accurately describes your current level of experience and demonstrated capability.
+3.
+Select the response that best describes the scope of your experience making recommendations regarding changes in policies, procedures, or business practices.
+ I have no knowledge or demonstrated capability in this technical area.
+ I can demonstrate an understanding of the fundamental concepts involved in this technical area. I will require formal training and close supervision to perform this work.
+ I can demonstrate an understanding of some advanced concepts within this technical area and am capable of working on most projects in this technical area with moderate assistance. I am able to perform this work with minimal supervision.
+ I can demonstrate an understanding of many advanced concepts within this technical area and am capable of mentoring others on some projects in this technical area. I am able to perform this work without supervision except in the most complex situations.
+ I can demonstrate an understanding of most advanced concepts within this technical area. I am considered an expert in the field and am frequently consulted by others about this technical area. I am responsible for mentoring and training others in this technical area.
+.
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+4.
+Which statement reflects your highest level of experience planning, designing, and analyzing programs to accomplish organizational goals?
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+.
+Select “Yes” or “No” to the following question(s).
+5.
+I have experience interpreting policy, planning and carrying out assignments, meeting expected deadlines, resolving conflicts that arise, and coordinating work with others.
+ Yes
+ No
+6.
+Select the response(s) that best describe(s) your level of experience communicating complex concepts and recommendations in writing.
+ I have written policies and processes to provide guidance to staff in compliance with established procedures.
+ I have written narrative reports on institutional or operational achievements and/or needs.
+ I have prepared performance management documents with written justification or documentation.
+ I have produced operational impact statements and recommendations for legislation, rules and case law.
+ I have produced project plans, proposals and recommendations for programs, improvements or new initiatives.
+ None of the above.
+.
+For each technical area below, select the response that most accurately describes your current level of experience and demonstrated capability.
+7.
+Select the statement that best describes your professional experience applying artificial intelligence (AI) and generative AI technologies to sole complex data-related problems.
+ I have no knowledge or demonstrated capability in this technical area.
+ I can demonstrate an understanding of the fundamental concepts involved in this technical area. I will require formal training and close supervision to perform this work.
+ I can demonstrate an understanding of some advanced concepts within this technical area and am capable of working on most projects in this technical area with moderate assistance. I am able to perform this work with minimal supervision.
+ I can demonstrate an understanding of many advanced concepts within this technical area and am capable of mentoring others on some projects in this technical area. I am able to perform this work without supervision except in the most complex situations.
+ I can demonstrate an understanding of most advanced concepts within this technical area. I am considered an expert in the field and am frequently consulted by others about this technical area. I am responsible for mentoring and training others in this technical area.
