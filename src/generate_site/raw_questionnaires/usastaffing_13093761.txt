@@ -1,0 +1,209 @@
+Position Title
+SUPERVISORY INVESTIGATOR (Director of Digital Forensics and Investigative Technologies)
+Agency
+U.S. Agency for International Development
+Announcement Number
+OIG-27-IMP-13093761-CJ
+Open Period
+Oct 30, 2026 to Nov 06, 2026
+Eligibilities
+1.
+Are you a veteran who separated from active duty under honorable conditions AND you: • have a rating by the Department of Veterans Affairs showing a compensable service-connected disability of 30% or more; OR, • are retired from active military service with a service-connected disability rating of 30% or more? For more information, review USAJOBS Veterans resources: https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/veterans/. To verify your eligibility, you must submit a copy of your latest Certificate of Release or Discharge from Active Duty, DD-214 (copy indicating character of service) or other proof of your service which includes character of service. You must also submit the disability letter from the Department of Veterans Affairs or Armed Service and the Application for 10-Point Veteran Preference, Standard Form 15.
+ Yes
+ No
+2.
+Are you a current or former federal employee displaced from the agency hiring for this position? If yes, confirm: • you are located in the same local commuting area of the vacancy; AND, • you are applying to a position that is at or below the grade level of the position from which you were or will be separated; AND, • you are applying to a position that does not have greater promotion potential than the position from which you were or will be separated; AND, • your last performance rating of record is at least fully successful or the equivalent. For more information, review the USAJOBS Help Center. To verify your eligibility, you must submit supporting documentation such as a Reduction in Force (RIF) separation notice or a Proposed Removal/Separation notice to include your latest performance rating (if the notice does not have this information included, you must submit a copy of your most recent performance appraisal) and a copy of your latest Notification of Personnel Action, Standard Form 50.
+ Yes
+ No
+3.
+Are you a current Competitive Service Career or Career-Conditional, USAID employee? To verify your eligibility as a current USAID Federal civilian employee, you must submit a copy of your Notification of Personnel Action, Standard Form 50 (SF-50) or equivalent personnel action form reflecting your permanent, competitive status. Your SF-50 (or equivalent personnel action form) must reflect: • career or career-conditional (Tenure field is 1 or 2); AND, • status in the competitive service (Position Occupied field is 1); AND, • box 46 must show US Agency for International Development.
+ Yes
+ No
+4.
+Are you a current or former federal employee displaced from a position in a Federal agency other than the agency hiring for this position? If yes, confirm: • you are located in the same local commuting area of the vacancy; AND, • you are applying to a position that is at or below the grade level of the position from which you were or will be separated; AND, • you are applying to a position that does not have greater promotion potential than the position from which you were or will be separated; AND, • your last performance rating of record is at least fully successful or the equivalent. For more information, review the USAJOBS Help Center. To verify your eligibility, you must submit supporting documentation such as a Reduction in Force (RIF) separation notice to include your latest performance rating (if the notice does not have this information included, you must submit a copy of your most recent performance appraisal) and a copy of your latest Notification of Personnel Action, Standard Form 50.
+ Yes
+ No
+5.
+Are you a veteran whose latest discharge was under honorable conditions AND you: • served three or more years of continuous active duty service in the military (Note: if released shortly before completing a 3-year tour, you are considered to meet the eligibility); OR, • are entitled to veterans' preference? For more information, review USAJOBS Veterans resources. USAJOBS Veterans resources To verify your eligibility, you must submit a copy of your latest Certificate of Release or Discharge from Active Duty, DD-214 (copy indicating character of service) or other proof of service which includes character of service.
+ Yes
+ No
+SUPERVISORY INVESTIGATOR (DFIT Director)
+.
+Thank you for your interest in the Supervisory Investigator (Director of DFIT), GS-1810-15 position with U.S. Agency for International Development, Office of Inspector General (OIG). We will evaluate your resume and your responses to this Assessment Questionnaire to determine if you are among the best qualified for this position. Your responses are subject to verification. Please review your responses for accuracy before you submit this questionnaire.
+1.
+Select the one statement that best describes the experience that you possess that demonstrates your ability to perform the work of a Supervisory Investigator at the GS-14 grade level or equivalent pay band in the Federal Service.
+ I possess one year of specialized experience at the GS-14 level in the Federal service. Specialized experience is defined as:(1) directing or leading digital forensic or investigative technology operations supporting criminal, civil, or administrative investigations; (2) overseeing acquisition, preservation, examination, analysis, and reporting of electronic evidence using defensible forensic procedures; (3) evaluating complex digital forensic examinations, forensic methodologies, tools, or eDiscovery products and advising investigative or legal stakeholders on results and limitations; and (4) establishing operational priorities, quality standards, policies, or resource plans for a digital forensic or investigative technology program.
+ No, I do not meet the requirements above.
+.
+Select “Yes” or “No” to the following question(s).
+2.
+Have you successfully completed any of the following Digital Forensics courses: DoD Certified Digital Forensics Examiner course and/or the FLETC Seized Computer Evidence Recovery Specialist certifications or successor certifications/equivalents.
+ Yes
+ No
+.
+For each experience item in questions 3-23, select the ONE statement that best describes work you personally performed. Credit only experience supported by the resume. Do not count merely observing another person perform a task. Supervisory experience may be gained outside federal service; do not assume a particular occupational series is required.
+3.
+I have directed the identification, preservation, acquisition, examination, reporting, and disposition of electronic evidence across multiple investigations.
+ No experience performing this activity.
+ I have studied or assisted with this activity under close guidance.
+ I have independently performed this activity in routine situations.
+ I have independently led or managed this activity in complex situations and advised others.
+ I have directed organization-wide or multi-team implementation, resolved novel high-risk issues, and evaluated outcomes.
+4.
+I have evaluated the forensic soundness of evidence collection and analysis involving computers, mobile devices, cloud sources, or other electronically stored information.
+ No experience performing this activity.
+ I have studied or assisted with this activity under close guidance.
+ I have independently performed this activity in routine situations.
+ I have independently led or managed this activity in complex situations and advised others.
+ I have directed organization-wide or multi-team implementation, resolved novel high-risk issues, and evaluated outcomes.
+5.
+I have directed corrective actions when chain-of-custody records, forensic documentation, or evidence integrity were questioned.
+ No experience performing this activity.
+ I have studied or assisted with this activity under close guidance.
+ I have independently performed this activity in routine situations.
+ I have independently led or managed this activity in complex situations and advised others.
+ I have directed organization-wide or multi-team implementation, resolved novel high-risk issues, and evaluated outcomes.
+6.
+I have assigned and prioritized work for technical or investigative personnel, evaluated results, and held employees accountable for performance.
+ No experience performing this activity.
+ I have studied or assisted with this activity under close guidance.
+ I have independently performed this activity in routine situations.
+ I have independently led or managed this activity in complex situations and advised others.
+ I have directed organization-wide or multi-team implementation, resolved novel high-risk issues, and evaluated outcomes.
+7.
+I have addressed employee development, performance deficiencies, or conduct issues while sustaining operational delivery.
+ No experience performing this activity.
+ I have studied or assisted with this activity under close guidance.
+ I have independently performed this activity in routine situations.
+ I have independently led or managed this activity in complex situations and advised others.
+ I have directed organization-wide or multi-team implementation, resolved novel high-risk issues, and evaluated outcomes.
+8.
+I have built technical workforce capability through staffing, mentoring, training plans, succession planning, or professional development.
+ No experience performing this activity.
+ I have studied or assisted with this activity under close guidance.
+ I have independently performed this activity in routine situations.
+ I have independently led or managed this activity in complex situations and advised others.
+ I have directed organization-wide or multi-team implementation, resolved novel high-risk issues, and evaluated outcomes.
+9.
+I have managed competing investigative support requests using risk, urgency, resource availability, and mission impact to set priorities.
+ No experience performing this activity.
+ I have studied or assisted with this activity under close guidance.
+ I have independently performed this activity in routine situations.
+ I have independently led or managed this activity in complex situations and advised others.
+ I have directed organization-wide or multi-team implementation, resolved novel high-risk issues, and evaluated outcomes.
+10.
+I have developed or implemented operating procedures, service standards, case intake processes, or performance measures for investigative support operations.
+ No experience performing this activity.
+ I have studied or assisted with this activity under close guidance.
+ I have independently performed this activity in routine situations.
+ I have independently led or managed this activity in complex situations and advised others.
+ I have directed organization-wide or multi-team implementation, resolved novel high-risk issues, and evaluated outcomes.
+11.
+I have managed program resources, budgets, contracts, software licensing, or laboratory sustainment to maintain investigative readiness.
+ No experience performing this activity.
+ I have studied or assisted with this activity under close guidance.
+ I have independently performed this activity in routine situations.
+ I have independently led or managed this activity in complex situations and advised others.
+ I have directed organization-wide or multi-team implementation, resolved novel high-risk issues, and evaluated outcomes.
+12.
+I have resolved technically complex or disputed digital evidence issues by evaluating alternative methods, limitations, and investigative consequences.
+ No experience performing this activity.
+ I have studied or assisted with this activity under close guidance.
+ I have independently performed this activity in routine situations.
+ I have independently led or managed this activity in complex situations and advised others.
+ I have directed organization-wide or multi-team implementation, resolved novel high-risk issues, and evaluated outcomes.
+13.
+I have evaluated proposed forensic tools or methodologies, including validation, reliability, documentation, and defensibility before operational use.
+ No experience performing this activity.
+ I have studied or assisted with this activity under close guidance.
+ I have independently performed this activity in routine situations.
+ I have independently led or managed this activity in complex situations and advised others.
+ I have directed organization-wide or multi-team implementation, resolved novel high-risk issues, and evaluated outcomes.
+14.
+I have advised investigators or counsel on what digital artifacts can and cannot reliably establish, including attribution or evidentiary limitations.
+ No experience performing this activity.
+ I have studied or assisted with this activity under close guidance.
+ I have independently performed this activity in routine situations.
+ I have independently led or managed this activity in complex situations and advised others.
+ I have directed organization-wide or multi-team implementation, resolved novel high-risk issues, and evaluated outcomes.
+15.
+I have implemented safeguards for sensitive, classified, or otherwise protected digital investigative evidence and restricted access appropriately.
+ No experience performing this activity.
+ I have studied or assisted with this activity under close guidance.
+ I have independently performed this activity in routine situations.
+ I have independently led or managed this activity in complex situations and advised others.
+ I have directed organization-wide or multi-team implementation, resolved novel high-risk issues, and evaluated outcomes.
+16.
+I have evaluated privacy, legal, security, or records-management risks in forensic collections or investigative technology operations.
+ No experience performing this activity.
+ I have studied or assisted with this activity under close guidance.
+ I have independently performed this activity in routine situations.
+ I have independently led or managed this activity in complex situations and advised others.
+ I have directed organization-wide or multi-team implementation, resolved novel high-risk issues, and evaluated outcomes.
+17.
+I have coordinated with information security, privacy, legal, or records officials to resolve compliance issues affecting investigative evidence.
+ No experience performing this activity.
+ I have studied or assisted with this activity under close guidance.
+ I have independently performed this activity in routine situations.
+ I have independently led or managed this activity in complex situations and advised others.
+ I have directed organization-wide or multi-team implementation, resolved novel high-risk issues, and evaluated outcomes.
+18.
+I have briefed senior officials or legal stakeholders on complex forensic findings, investigative risks, or operational decisions in understandable language.
+ No experience performing this activity.
+ I have studied or assisted with this activity under close guidance.
+ I have independently performed this activity in routine situations.
+ I have independently led or managed this activity in complex situations and advised others.
+ I have directed organization-wide or multi-team implementation, resolved novel high-risk issues, and evaluated outcomes.
+19.
+I have reviewed or approved technical reports that clearly distinguish methodology, findings, limitations, and conclusions.
+ No experience performing this activity.
+ I have studied or assisted with this activity under close guidance.
+ I have independently performed this activity in routine situations.
+ I have independently led or managed this activity in complex situations and advised others.
+ I have directed organization-wide or multi-team implementation, resolved novel high-risk issues, and evaluated outcomes.
+20.
+I have resolved disagreements among investigative, legal, technical, or external partners concerning forensic support or evidence interpretation.
+ No experience performing this activity.
+ I have studied or assisted with this activity under close guidance.
+ I have independently performed this activity in routine situations.
+ I have independently led or managed this activity in complex situations and advised others.
+ I have directed organization-wide or multi-team implementation, resolved novel high-risk issues, and evaluated outcomes.
+21.
+I have planned modernization of forensic laboratories, investigative technologies, or eDiscovery workflows based on mission requirements.
+ No experience performing this activity.
+ I have studied or assisted with this activity under close guidance.
+ I have independently performed this activity in routine situations.
+ I have independently led or managed this activity in complex situations and advised others.
+ I have directed organization-wide or multi-team implementation, resolved novel high-risk issues, and evaluated outcomes.
+22.
+I have evaluated emerging forensic tools or platforms for operational utility, cost, interoperability, security, and sustainment.
+ No experience performing this activity.
+ I have studied or assisted with this activity under close guidance.
+ I have independently performed this activity in routine situations.
+ I have independently led or managed this activity in complex situations and advised others.
+ I have directed organization-wide or multi-team implementation, resolved novel high-risk issues, and evaluated outcomes.
+23.
+I have developed implementation plans, roadmaps, or acquisition requirements to deploy and sustain investigative technologies.
+ No experience performing this activity.
+ I have studied or assisted with this activity under close guidance.
+ I have independently performed this activity in routine situations.
+ I have independently led or managed this activity in complex situations and advised others.
+ I have directed organization-wide or multi-team implementation, resolved novel high-risk issues, and evaluated outcomes.
+24.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+25.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+26.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+27.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position
+28.
+This position supports the USAID Office of Inspector General's mission and current priorities, including safeguarding taxpayer resources through independent oversight of U.S. foreign assistance; strengthening accountability, integrity, efficiency, and transparency; and sustaining the workforce and organizational capabilities necessary to accomplish OIG's mission. Describe how your skills and experience would help the agency advance those priorities in this role.
+.
+Your responses in this Assessment Questionnaire are subject to evaluation and verification. Later steps in the selection process are specifically designed to verify your responses. Deliberate attempts to falsify information will be grounds for disqualifying you or for dismissing you from employment following acceptance. Please take this opportunity to review your responses to ensure their accuracy. If you fail to answer this question, you will be disqualified from consideration for this position
+.
+Select “Yes” or “No” to the following question(s).
+29.
+I certify that, to the best of my knowledge and belief, all of the information included in this questionnaire is true, correct, and provided in good faith. I understand that if I make an intentional false statement, or commit deception or fraud in the application and its supporting materials, or in any document or interview associated with the examination process, I may be fired or imprisoned (18 U.S.C. 1001) my eligibilities may be cancelled, I may be denied an appointment, or I may be removed and debarred from Federal service (5 C.F.R. part 731). I certify that I am using my own words, and did not use a consultant or AI (such as a large language model [LLM]).I understand that any information I give may be investigated. I understand that responding "No" to this item will result in my not being considered for this position.
+ Yes
+ No
