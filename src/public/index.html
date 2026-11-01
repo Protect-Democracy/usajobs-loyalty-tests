@@ -340,9 +340,9 @@
                                         
                                         <h6 class="text-muted mb-2">Understanding the Statistics</h6>
                                         <ul class="small mb-0">
-                                            <li><strong>Total Jobs:</strong> All federal job postings in each category</li>
+                                            <li><strong>Total Jobs:</strong> All federal job postings in each category. A posting is one USAJOBS announcement (one control number), not one position: a posting can fill several openings, and one announcement split by location or grade is several postings. Postings an agency later canceled are included, since their questionnaire was still published.</li>
                                             <li><strong>Scraped Questionnaires:</strong> Postings whose questionnaire we successfully downloaded (a questionnaire shared by several postings counts once for each)</li>
-                                            <li><strong>Jobs with Essay Questions:</strong> Jobs containing the Merit Hiring Plan questions</li>
+                                            <li><strong>Jobs with Essay Questions:</strong> Postings containing the Merit Hiring Plan questions</li>
                                             <li><strong>% of Scraped:</strong> Percentage of successfully scraped questionnaires containing the essay questions</li>
                                         </ul>
                                     </div>
@@ -409,7 +409,7 @@
                     <!-- Timeline Tab -->
                     <div class="tab-pane fade" id="timeline" role="tabpanel">
                         <h3>Essay Question Usage by Job Opening Date</h3>
-                        <p>Weekly and monthly percentages of jobs posted with the essay question</p>
+                        <p>Weekly and monthly percentages of job postings with the essay question</p>
                         <div class="alert alert-info">
                             <strong>Note:</strong> Percentages shown represent the portion of <em>scraped questionnaires</em> that contain the essay question for each time period. The "Total Jobs" column counts every posting that opened in that period, with or without a questionnaire; the percentages are of the postings in "Jobs with Questionnaires".
                         </div>
@@ -425,7 +425,7 @@
                         <div class="alert alert-warning" role="alert">
                             <strong>Important Notes:</strong>
                             <ul class="mb-0">
-                                <li>This table now shows ALL federal jobs from our dataset, not just those with the essay question</li>
+                                <li>This table now shows ALL federal job postings from our dataset, not just those with the essay question</li>
                                 <li>We only scrape questionnaires from USAStaffing and Monster Government sites</li>
                                 <li>Other agencies (e.g., FAA, Intelligence Community) may have questionnaires on their own sites that are not included</li>
                             </ul>

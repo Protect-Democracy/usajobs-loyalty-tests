@@ -6,9 +6,12 @@ Static website, generated daily, that tracks the use of essay questions within j
 
 The system:
 - Daily scrapes questionnaires from USAStaffing and Monster Government
-- Identifies jobs asking "How would you help advance the President's Executive Orders and policy priorities in this role?"
+- Identifies job postings asking "How would you help advance the President's Executive Orders and policy priorities in this role?"
 - Shows trends by agency, location, grade level, and time
 - Updates automatically via GitHub Actions
+
+Counts are of postings: one USAJOBS announcement (control number) each, not
+positions. Postings an agency later canceled are included.
 
 This site uses data from the [USAJobs API](https://developer.usajobs.gov/) but **is not an official USAJobs project**.
 
