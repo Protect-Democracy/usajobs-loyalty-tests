@@ -74,6 +74,14 @@ jobs:
         git config --global user.name "GitHub Actions Bot"
         git config --global user.email "actions@github.com"
 
+    # Closed postings' dates now come from the usajobs_historical mirror, and a
+    # shared questionnaire is credited to each posting linking it; test both
+    # before the run that depends on them.
+    - name: Test closed-posting dates and shared questionnaires
+      run: |
+        cd src/generate_site
+        python test_mirror_listings.py
+
     - name: Run questionnaire analysis
       # Leaves ~45 min of the 350-min job for the open-questionnaire refresh below.
       # Longest recent scrape was ~3h50m.

@@ -485,6 +485,21 @@ def main():
     is_open_now = all_jobs_for_display['usajobs_control_number'].astype(str).isin(open_close.index)
     all_jobs_for_display.loc[is_open_now, 'position_close_date'] = (
         all_jobs_for_display.loc[is_open_now, 'usajobs_control_number'].astype(str).map(open_close))
+    # Closed postings' close dates come from their latest listing in the
+    # usajobs_historical mirror, which re-polls them (see mirror_listings.py:
+    # ours are as first collected, and 10.8% were wrong on 2026-11-01). A
+    # closed posting re-opened under the same control number gets its latest
+    # listing's open date as its reopened date; the open date shown stays the
+    # first one, as for open postings. No fallback: a failed read fails the build.
+    from mirror_listings import apply_latest_listing, load_latest_listings, mirror_years
+    latest = load_latest_listings(mirror_years(
+        pd.to_datetime(all_jobs_for_display['position_open_date'], format='mixed', errors='coerce').min()))
+    all_jobs_for_display, mirror_counts = apply_latest_listing(
+        all_jobs_for_display, latest, all_jobs_for_display['is_open'])
+    print(f"Closed postings: {mirror_counts['closed']:,}; dated from the mirror: "
+          f"{mirror_counts['closed_in_mirror']:,} ({mirror_counts['close_date_changed']:,} close dates "
+          f"changed, {mirror_counts['reopened']:,} re-opened); not in the mirror, so dated as "
+          f"first collected: {mirror_counts['closed_not_in_mirror']:,}")
     all_jobs_for_display['close_date'] = pd.to_datetime(all_jobs_for_display['position_close_date'], format='mixed', errors='coerce').dt.strftime('%m/%d/%Y')
     # Open postings that closed and were reopened under the same control number: the
     # day they reopened, from their USAJobs page (open_postings.csv reopened_date). The
@@ -492,8 +507,10 @@ def main():
     open_reopened = (open_postings.set_index('usajobs_control_number')['reopened_date']
                      if 'reopened_date' in open_postings.columns else pd.Series(dtype=str))
     open_reopened = open_reopened[open_reopened != '']
+    reopened = all_jobs_for_display['usajobs_control_number'].astype(str).map(open_reopened)
+    reopened = reopened.where(reopened.notna(), all_jobs_for_display['reopened_open_date'])
     all_jobs_for_display['reopened_date'] = pd.to_datetime(
-        all_jobs_for_display['usajobs_control_number'].astype(str).map(open_reopened), errors='coerce').dt.strftime('%m/%d/%Y')
+        reopened, errors='coerce').dt.strftime('%m/%d/%Y')
     
     # Create occupation display - pad occupation series to 4 digits
     all_jobs_for_display['occupation'] = all_jobs_for_display['occupation_series'].astype(str).str.zfill(4) + ' - ' + all_jobs_for_display['occupation_name'].fillna('Unknown')
