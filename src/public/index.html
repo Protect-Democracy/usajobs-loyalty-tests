@@ -242,7 +242,7 @@
                             <div class="col-md-4">
                                 <div class="card stats-card">
                                     <div class="card-body">
-                                        <h5 class="card-title">Total Scraped Questionnaires</h5>
+                                        <h5 class="card-title">Postings with Scraped Questionnaires</h5>
                                         <h2 class="text-primary" id="totalScraped">-</h2>
                                     </div>
                                 </div>
@@ -341,7 +341,7 @@
                                         <h6 class="text-muted mb-2">Understanding the Statistics</h6>
                                         <ul class="small mb-0">
                                             <li><strong>Total Jobs:</strong> All federal job postings in each category</li>
-                                            <li><strong>Scraped Questionnaires:</strong> Jobs where we successfully downloaded the questionnaire</li>
+                                            <li><strong>Scraped Questionnaires:</strong> Postings whose questionnaire we successfully downloaded (a questionnaire shared by several postings counts once for each)</li>
                                             <li><strong>Jobs with Essay Questions:</strong> Jobs containing the Merit Hiring Plan questions</li>
                                             <li><strong>% of Scraped:</strong> Percentage of successfully scraped questionnaires containing the essay questions</li>
                                         </ul>
@@ -411,7 +411,7 @@
                         <h3>Essay Question Usage by Job Opening Date</h3>
                         <p>Weekly and monthly percentages of jobs posted with the essay question</p>
                         <div class="alert alert-info">
-                            <strong>Note:</strong> Percentages shown represent the portion of <em>scraped questionnaires</em> that contain the essay question for each time period. The "Total Jobs Posted" column shows the number of questionnaires we analyzed.
+                            <strong>Note:</strong> Percentages shown represent the portion of <em>scraped questionnaires</em> that contain the essay question for each time period. The "Total Jobs" column counts every posting that opened in that period, with or without a questionnaire; the percentages are of the postings in "Jobs with Questionnaires".
                         </div>
                         <div id="timelineTable"></div>
                     </div>
@@ -1315,7 +1315,7 @@
                         row.open ? 'Open' : 'Closed',
                         // Known only for open postings, as of the latest re-check.
                         row.open && row.questionnaire_link ? (row.link_inferred ? 'No (inferred)' : 'Yes') : '',
-                        // Open postings that closed and were reopened under the same control number.
+                        // Postings that closed and were reopened under the same control number.
                         row.reopened_date || ''
                     ].join(',');
                 })

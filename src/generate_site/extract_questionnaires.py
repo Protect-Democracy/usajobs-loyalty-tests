@@ -559,10 +559,13 @@ def extract_all_links_to_csv(data_dir='../../data', cutoff_date='2025-06-01'):
     
     # Check if we already have a CSV file
     existing_urls = set()
+    existing_pairs = set()
     if csv_file.exists():
         print(f"Found existing {csv_file.name}")
         existing_df = pd.read_csv(csv_file)
         existing_urls = set(existing_df['questionnaire_url'].values)
+        existing_pairs = set(zip(existing_df['questionnaire_url'].astype(str),
+                                 existing_df['usajobs_control_number'].astype(str)))
         print(f"  Contains {len(existing_urls)} unique URLs")
         # One-time schema migration: older CSVs (pre-inference-fallback)
         # lack this column. Appending rows with the new column would produce
@@ -650,14 +653,30 @@ def extract_all_links_to_csv(data_dir='../../data', cutoff_date='2025-06-01'):
             if links:
                 jobs_with_links += 1
 
+                inferred = bool(inferred_from_announcement or inferred_from_posting_html)
                 for link in links:
                     # Skip URLs we've previously confirmed don't exist
                     if link in known_bad_urls:
                         continue
-                    # Only add if we haven't seen this URL before
-                    if link not in existing_urls:
+                    # One row per (questionnaire, posting). This used to be one row
+                    # per URL, so a questionnaire linked from several postings -- one
+                    # announcement split by location or grade, or a repost -- was
+                    # credited to whichever posting was read first, and the others
+                    # showed "No questionnaire found" though their own text links it.
+                    # On 2026-11-01 that was 341 postings, 57 of them on a
+                    # questionnaire with the EO question (e.g. questionnaire
+                    # 12765890 names 841164000 but was credited to 841163600).
+                    # A second posting is only credited from a link in its own text:
+                    # an inferred link (a guess from the announcement number or the
+                    # rendered page) still only goes in for a URL nobody has yet.
+                    pair = (str(link), str(control_number))
+                    if pair in existing_pairs or (link in existing_urls and inferred):
+                        continue
+                    if pair not in existing_pairs:
+                        existing_pairs.add(pair)
+                        is_new_url = link not in existing_urls
                         existing_urls.add(link)
-                        new_links_in_file += 1
+                        new_links_in_file += is_new_url
                         
                         # Pay plan (e.g. GS, WG). The backfill rewrote payScale /
                         # minimumGrade / maximumGrade for every current row from
@@ -879,10 +898,16 @@ def main():
     known_bad_urls = load_known_bad_urls()
     skipped_known_bad = 0
 
+    queued = set()
     for idx, (_, row) in enumerate(df.iterrows()):
         url = row['questionnaire_url']
         # Transform Monster URLs for checking
         url = transform_monster_url(url)
+        # A questionnaire linked from several postings has a row for each;
+        # scrape it once.
+        if url in queued:
+            continue
+        queued.add(url)
 
         # Skip URLs previously confirmed to not exist
         if url in known_bad_urls or row['questionnaire_url'] in known_bad_urls:
