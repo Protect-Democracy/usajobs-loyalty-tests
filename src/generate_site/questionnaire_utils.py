@@ -62,8 +62,23 @@ def extract_questionnaire_id(url):
         return 'other', file_id
 
 
+STRUCK_MARKER = '[struck-through text removed]'
+_STRUCK_RE = re.compile(
+    r'<(s|strike|del)\b[^>]*>.*?</\1\s*>'
+    r'|<(\w+)\b[^>]*style\s*=\s*["\'][^"\']*line-through[^"\']*["\'][^>]*>.*?</\2\s*>',
+    re.IGNORECASE | re.DOTALL)
+
+
+def remove_struck_through(html_text):
+    """Replace struck-through text (<s>, <strike>, <del>, or a line-through style) with
+    STRUCK_MARKER, so a question an agency has struck out doesn't count as asked, while the
+    stored text still shows something was struck. (2026-11-02: GSA's open postings show the
+    old Loyalty Q wrapped in <s> after a "no longer used by GSA. Do not respond" notice.)"""
+    return _STRUCK_RE.sub(f' {STRUCK_MARKER} ', html_text or '')
+
+
 def _clean_questionnaire_text(s):
-    return re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', ' ', s or '')).strip()
+    return re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', ' ', remove_struck_through(s))).strip()
 
 
 def questionnaire_json_to_text(raw):

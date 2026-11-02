@@ -40,8 +40,16 @@ from pathlib import Path
 import pandas as pd
 from playwright.sync_api import sync_playwright
 
-from questionnaire_utils import extract_questionnaire_id, get_questionnaire_filename
+from questionnaire_utils import STRUCK_MARKER, extract_questionnaire_id, get_questionnaire_filename
 from refresh_open_questionnaires import flags, latest_stored_copy
+
+# Replaces struck-through elements (<s>, <strike>, <del>, or computed line-through) with a marker.
+STRIKE_JS = """marker => {
+  const struck = [...document.body.querySelectorAll('*')].filter(el =>
+    ['S', 'STRIKE', 'DEL'].includes(el.tagName) ||
+    getComputedStyle(el).textDecorationLine.includes('line-through'));
+  for (const el of struck) if (el.isConnected) el.replaceWith(' ' + marker + ' ');
+}"""
 
 BLOCK_PAGE = re.compile(r'access denied|just a moment|verifying you are human|ray id', re.IGNORECASE)
 MIN_CHARS = 1500
@@ -53,6 +61,8 @@ def fetch_page_text(page, url):
     """Returns (status, text). Status is 'ok', or why the page can't be trusted."""
     try:
         page.goto(url, wait_until='networkidle', timeout=60000)
+        # Struck-through text doesn't count as asked (questionnaire_utils.remove_struck_through).
+        page.evaluate(STRIKE_JS, STRUCK_MARKER)
         text = page.inner_text('body')
     except Exception as e:
         return f'error: {type(e).__name__}', None

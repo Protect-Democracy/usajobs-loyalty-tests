@@ -78,6 +78,8 @@ import requests
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from job_fields import load_questionnaire_links  # noqa: E402
 from questionnaire_utils import (  # noqa: E402
+    STRUCK_MARKER,
+    remove_struck_through,
     questionnaire_links_for_posting,
     BROWSER_HEADERS,
     RAW_QUESTIONNAIRES_DIR,
@@ -603,6 +605,7 @@ def fetch_monster(url):
             # Same cleanup extract_questionnaires.scrape_questionnaire applies to Monster pages.
             text = re.sub(r'<script[^>]*>.*?</script>', '', resp.text, flags=re.DOTALL)
             text = re.sub(r'<style[^>]*>.*?</style>', '', text, flags=re.DOTALL)
+            text = remove_struck_through(text)
             text = ' '.join(re.sub(r'<[^>]+>', ' ', text).split())
             return text if len(text) >= 500 else None
         time.sleep(2 * (attempt + 1))
@@ -819,6 +822,7 @@ def main():
 
     day_dir = out_dir / today.isoformat()
     rows, log_rows = [], []
+    struck_urls = []  # questionnaires with struck-through text, which doesn't count as asked
     for url, (fetch_status, text) in zip(urls, fetched):
         prev = previous.get(url)
         stored = None
@@ -844,6 +848,8 @@ def main():
                 if prev:
                     # Compare against what was reported last, not the new copy itself.
                     before = {k: prev[k] == 'True' for k in ('has_loyalty_q', 'has_new_wording', 'has_question_5')}
+        if text and STRUCK_MARKER in text:
+            struck_urls.append(url)
         if text is None:
             # Not fetched today: keep the last known flags and text.
             carried = before or {'has_loyalty_q': False, 'has_new_wording': False, 'has_question_5': False}
@@ -946,6 +952,9 @@ def main():
         'with_loyalty_q': int((status['has_loyalty_q'] == 'True').sum()),
         'with_new_wording': int((status['has_new_wording'] == 'True').sum()),
         'with_question_5': int((status['has_question_5'] == 'True').sum()),
+        # Questionnaires fetched today with struck-through text (remove_struck_through): the
+        # struck text doesn't count, e.g. GSA's struck-out Loyalty Q.
+        'questionnaires_with_struck_through_text': len(struck_urls),
         'open_postings_with_loyalty_q': int((postings['has_loyalty_q'] == 'True').sum()),
         'open_postings_with_question_5': int((postings['has_question_5'] == 'True').sum()),
         'open_postings_with_possible_variant': int((postings['possible_variant'] != '').sum()),
