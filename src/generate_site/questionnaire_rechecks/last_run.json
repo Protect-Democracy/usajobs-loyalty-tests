@@ -1,30 +1,29 @@
 {
-  "date": "2026-11-01",
-  "open_postings": 12602,
+  "date": "2026-11-02",
+  "open_postings": 12856,
   "listed_postings_not_in_job_data": 0,
-  "links_added": 4,
+  "links_added": 1,
   "links_removed": 0,
   "postings_no_longer_listed": 13,
-  "questionnaires": 11753,
-  "fetched_ok": 11550,
+  "questionnaires": 12022,
+  "fetched_ok": 11820,
   "failed": 0,
   "skipped_blocked_domain": 202,
-  "changed_today": 16,
-  "with_loyalty_q": 28,
-  "with_new_wording": 4484,
+  "changed_today": 21,
+  "with_loyalty_q": 27,
+  "with_new_wording": 4658,
   "with_question_5": 14,
-  "open_postings_with_loyalty_q": 26,
+  "open_postings_with_loyalty_q": 25,
   "open_postings_with_question_5": 14,
   "open_postings_with_possible_variant": 0,
-  "open_postings_reopened": 210,
+  "open_postings_reopened": 207,
   "open_postings_reopened_today_with_loyalty_q": 0,
-  "open_postings_not_listed_today": 1,
+  "open_postings_not_listed_today": 0,
   "open_postings_not_listed_today_with_loyalty_q": 0,
   "unlisted_outcomes": {
-    "closed_early": 13,
-    "kept_page_open": 1
+    "closed_early": 13
   },
-  "blocked_portal_last_checked": "2026-11-01",
+  "blocked_portal_last_checked": "2026-11-02",
   "blocked_portal_check": {
     "questionnaires": 202,
     "ok": 202,
@@ -32,10 +31,10 @@
     "error": ""
   },
   "usastaffing_id_scan": {
-    "date": "2026-10-31",
+    "date": "2026-11-01",
     "finished": true,
-    "summary": "scanned to 13,107,454: {'missing': 2188, 200: 608}",
-    "new": 608
+    "summary": "scanned to 13,107,927: {'missing': 2241, 200: 7}",
+    "new": 7
   },
   "open_postings_with_loyalty_q_checked_before_yesterday": 0,
   "warnings": []

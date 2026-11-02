@@ -1,0 +1,273 @@
+Position Title
+IT Cybersecurity Specialist (InfoSec)
+Agency
+Social Security Administration
+Announcement Number
+SSA-13104378-27-DE-SR
+Open Period
+Nov 02, 2026 to Nov 06, 2026
+Eligibilities
+1.
+Are you a current or former federal employee displaced from the agency hiring for this position? Select yes if you are located in the same local commuting area of the vacancy; your permanent grade is equivalent to or above the grade level of the vacancy; AND your last performance rating of record is at least fully successful or the equivalent. (Note: You must submit supporting documentation to validate your claim of CTAP eligibility such as a Reduction in Force (RIF) separation notice or a Proposed Removal/Separation notice and a copy of your latest Notification of Personnel Action, Standard Form 50. Please review the Required Documents section of the announcement for more information.)
+ Yes
+ No
+2.
+Are you a current or former federal employee displaced from a position in a federal agency other than the agency hiring for this position? Select yes if you are located in the same local commuting area of the vacancy; your permanent grade is equivalent to or above the grade level of the vacancy; AND your last performance rating of record is at least fully successful or the equivalent. (Note: You must submit supporting documentation to validate your claim of ICTAP eligibility such as a Reduction in Force (RIF) separation notice or a Proposed Removal/Separation notice and a copy of your latest Notification of Personnel Action, Standard Form 50. Please review the Required Documents section of the announcement for more information.)
+ Yes
+ No
+3.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+4.
+Are you the spouse of a member of the Armed Forces? -OR- Are you the spouse of a member of the Armed Forces who retired with a disability rating at the time of retirement of 100 percent or the spouse of a member of the Armed Forces who retired or separated from the Armed Forces and has a disability rating of 100 percent from the Department of Veterans Affairs? -OR- Are you the un-remarried widow or widower of a member of the Armed Forces killed while in active duty status? For more information, review USAJOBS Veterans resources. .
+ Yes
+ No
+Preferences
+1.
+Select the location(s) you want to be considered for. You must choose at least one location.
+ Denver County, CO
+ Woodlawn, MD
+ Durham County, NC
+2.
+Select the lowest grade you are willing to accept for this position.
+ 9
+ 11
+.
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+3.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+4.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+5.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+6.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+7.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+6F151B/A MOPP_DHA 10-29-26
+.
+Do not choose CTAP or ICTAP as your eligibility unless you were RIF'd (or notified that you will be RIF'd) from a Competitive Service position in the commuting area of this position AND you submit your RIF Notice AND your RIF SF-50 (see REQUIRED DOCUMENTS).
+.
+It is recommended (not required) that you use a computer to apply for this position -- applicants using a phone often miss key information.
+.
+If you experience difficulties while applying, use the links on the USAJobs website to seek help. If you're still unable to complete your application, submit a USAJobs Help Desk ticket to resolve the issue. You must also email HR Staffing - Team Seven@ssa.gov with the SUBJECT LINE: "Application Issue 1310 4378 JH" and provide details of the difficulties you're experiencing (with screenshots if applicable). This email must be received before the announcement closes. Technical difficulties reported after the announcement closes cannot be addressed.
+.
+MINIMUM QUALIFICATIONS for this IT Cybersecurity Specialist position are based on the IT Competencies for the federal 2210 series AND Specialized Experience OR optional education.
+.
+Questions 1-9 pertain to the federal 2210 IT Competencies. For each question, you must indicate if you have experience that demonstrates the required competency. Your experience must be IT-related and can be gained during employment (paid or unpaid) or through extensive training or education. Specialized Experience must be clearly described in your resume or it cannot be considered.
+1.
+Attention to Detail: Are you thorough when performing work and conscientious about attending to detail)?
+ Yes
+ No
+2.
+Customer Service: Do you work with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems or satisfy their expectations; do you know about available products and services; and are you committed to providing quality products and services)?
+ Yes
+ No
+3.
+Decision Making: Do you make sound, well-informed and objective decisions; perceive the impact and implications of decisions; commit to action, even in uncertain situations, to accomplish organizational goals; cause change?
+ Yes
+ No
+4.
+Information Management: Do you identify a need for and know where or how to gather information; organize and maintain information or information management systems?
+ Yes
+ No
+5.
+Interpersonal Skills: Do you show understanding, friendliness, courtesy, tact, empathy, concern and politeness to others; develop and maintain effective relationships with others (may include effectively dealing with individuals who are difficult, hostile or distressed); relate well to people from varied backgrounds and different situations?
+ Yes
+ No
+6.
+Oral Communication: Do you express information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); make clear and convincing oral presentations; listen to others, attend to nonverbal cues and respond appropriately?
+ Yes
+ No
+7.
+Problem Solving: Do you identify problems; determine accuracy and relevance of information; use sound judgment to generate and evaluate alternatives and to make recommendations?
+ Yes
+ No
+8.
+Teamwork: Do you encourage and facilitate cooperation, pride, trust and group identity; foster commitment and team spirit; work with others to achieve goals?
+ Yes
+ No
+9.
+Technical Competence: Do you use knowledge that is acquired through formal training or on-the-job experience to perform your job; work with, understand and evaluate technical information related to the job; advise others on technical issues?
+ Yes
+ No
+.
+You must answer questions 10 and 26.
+.
+Specialized Experience for this IT Cybersecurity position is the performance of basic IT cyber duties (or education/training) pertaining to incident monitoring and detection; compliance and audit support; documentation and reporting; system testing coordination and/or user support and access management.
+.
+Your resume must describe your IT-related experience to demonstrate your qualifications for this position. Qualifying experience may include paid or unpaid work, as well as relevant assignments or tasks completed as part of education or training. Your resume must clearly identify the duties you performed.
+.
+FOR GS-09: SPECIALIZED EXPERIENCE must have been gained in a federal position at or above GS-07 OR (if your experience is on another federal pay scale OR outside of federal service) by performing duties at a level of responsibility and difficulty equivalent to GS-07.
+10.
+GS-09: Do you have the Specialized Experience required for the GS-09 IT Cybersecurity Specialist position?
+ I’m not applying at this grade level. (Skip to Question 26).
+ Yes I have specialized experience at the required level of responsibility and difficulty (either from a job or performed as part of my education or training) that demonstrates following established procedures to support the planning, development, implementation of and/or maintenance of information security programs or policies. Specialized Experience can be demonstrated by: participating in the development of IT security policies and procedures; participating in risk assessments and helping to develop disaster recovery or contingency plans; participating in the collection, analysis and documentation of security-related information and recommendations and participating in explanations of technical security information and recommendations to different audiences. If you have this experience (either from a job or performed as part of your education or training), your resume must describe, in your own words, the duties you perform(ed) that demonstrate it. Reviewers cannot assume you perform duties you don't describe.
+ In lieu of specialized experience, I have a master’s degree from an accredited institution in a relevant technology field (such as cybersecurity, computer science, information systems management, engineering, mathematics or operations research) or a graduate degree in a related field that includes at least 24 semester hours of coursework in those areas.
+ In lieu of specialized experience, I have at least 2 full academic years of progressively higher graduate level education in a relevant technology field (such as cybersecurity, computer science, information systems management, engineering, mathematics or operations research) leading to a graduate degree (or equivalent).
+ My education and/or experience is not reflected above.
+11.
+GS-09: Do you have experience assisting with the review of an IT system or project for compliance with security requirements?
+ Yes
+ No
+12.
+GS-09: Do you have experience assisting with the collection, organization or maintenance of documentation used for security assessments?
+ Yes
+ No
+13.
+GS-09: Do you have experience following established IT security procedures while supporting information systems projects?
+ Yes
+ No
+14.
+GS-09: Do you have experience assisting with applying elements of the Risk Management Framework (RMF) or other system security principles by gathering information needed to identify and document cybersecurity risks to information systems or organizational data?
+ Yes
+ No
+15.
+GS-09: Do you have experience collecting and organizing information, such as system configurations, scan results or supporting records for use in vulnerability assessments, risk analyses or security audits in accordance with established cybersecurity guidance?
+ Yes
+ No
+16.
+GS-09: Do you have experience entering, organizing or maintaining cybersecurity information in tracking tools, spreadsheets or other records to support risk assessment or system security documentation?
+ Yes
+ No
+17.
+GS-09: do you have experience following established procedures to assist with the implementation or monitoring of established risk mitigation actions or security controls to help protect information systems and data?
+ Yes
+ No
+18.
+GS-09: Do you have experience assisting with gathering and documenting stakeholder needs or requirements for an IT or cybersecurity solution?
+ Yes
+ No
+19.
+GS-09: Do you have experience preparing or sharing cybersecurity information, instructions or status updates in clear language for nontechnical stakeholders?
+ Yes
+ No
+20.
+GS-09: Do you have experience participating in meetings or discussions with stakeholders to document issues related to an IT or cybersecurity solution?
+ Yes
+ No
+21.
+GS-09: Do you have experience providing administrative or technical support for the implementation of an IT solution such as tracking tasks, updating documentation or communicating status information?
+ Yes
+ No
+22.
+GS-09: Do you have experience communicating with others to obtain, share or clarify information for assigned IT, cybersecurity or information security tasks?
+ Yes
+ No
+23.
+GS-09: Do you have experience preparing basic written or verbal updates that communicate technical or cybersecurity information in understandable terms?
+ Yes
+ No
+24.
+GS-09: Do you have experience compiling information for security reports, status updates or supporting documentation using established templates or instructions?
+ Yes
+ No
+25.
+GS-09: Do you have experience responding to routine questions about security procedures, requirements or reference materials?
+ Yes
+ No
+.
+FOR GS-11: SPECIALIZED EXPERIENCE must have been gained in a federal position at or above GS-09 OR (if your experience is on another federal pay scale OR outside of federal service) by performing duties at a level of responsibility and difficulty equivalent to GS-09. Qualifying experience may include paid or unpaid work, as well as relevant assignments or tasks completed as part of education or training. Your resume must clearly identify the duties you performed.
+26.
+GS-11: Do you have the Specialized Experience required for the GS-11 Cybersecurity Specialist position?
+ I’m not applying at this grade level. (If you are not applying for GS-11, skip to question #42).
+ Yes I have specialized experience at the required level of responsibility and difficulty (either from a job or performed as part of my education or training) that demonstrates assisting with supporting the planning, development, implementation of and/or maintenance of information security programs or policies. Specialized Experience can be demonstrated by: assisting with the development of IT security policies and procedures; assisting with risk assessments and helping to develop disaster recovery or contingency plans; assisting with the collection, analysis and documentation of security-related information and recommendations; and assisting with explanations of technical security information and recommendations to different audiences. If you have this experience (either from a job or performed as part of your education or training), your resume must describe, in your own words, the duties you perform(ed) that demonstrate it. Reviewers cannot assume you perform duties you don't describe.
+ In lieu of Specialized Experience, I have a Ph.D. or equivalent doctoral degree from an accredited institution in a relevant technology field (such as cybersecurity, computer science, information systems management, engineering, mathematics or operations research) or a doctoral degree in a related field that includes at least 24 semester hours of coursework in those areas. *Education must be supported with appropriate transcripts.
+ In lieu of Specialized Experience, I have successfully completed at least 3 full academic years of progressively higher-level graduate education at an accredited institution in a relevant technology field (such as cybersecurity, computer science, information systems management, engineering, mathematics or operations research) leading to a Ph.D. or equivalent doctoral degree. *Education must be supported with appropriate transcripts.
+ I don’t meet any of the qualification requirements for this GS-11 position.
+27.
+GS-11: Do you have experience applying IT security procedures to support system security authorization activities?
+ Yes
+ No
+28.
+GS-11: Do you have experience assisting with the review of security documentation and assessment findings?
+ Yes
+ No
+29.
+GS-11: Do you have experience assisting with reviewing IT security policies?
+ Yes
+ No
+30.
+GS-11: Do you have experience applying elements of the Risk Management Framework (RMF) or other system security principles to support the identification and assessment of cybersecurity risks to information systems or organizational data?
+ Yes
+ No
+31.
+GS-11: Do you have experience assisting with vulnerability assessments, risk analyses or security audits in accordance with established federal cybersecurity standards, such as NIST, FISMA or OMB requirements?
+ Yes
+ No
+32.
+GS-11: Do you have experience assisting with preparing, updating or maintaining risk assessment documentation, system security plans or security control documentation?
+ Yes
+ No
+33.
+GS-11: Do you have experience supporting the implementation or monitoring of risk mitigation strategies and security controls designed to protect the confidentiality, integrity and availability of information systems and data?
+ Yes
+ No
+34.
+GS-11: Do you have experience working with stakeholders to gather and document functional requirements for an IT or cybersecurity solution?
+ Yes
+ No
+35.
+GS-11: Do you have experience explaining cybersecurity requirements or technical information in clear, understandable terms to nontechnical stakeholders?
+ Yes
+ No
+36.
+GS-11: Do you have experience supporting discussions with stakeholders who have differing priorities to help resolve issues and reach agreement on an IT or cybersecurity solution?
+ Yes
+ No
+37.
+GS-11: Do you have experience coordinating with stakeholders to support the implementation of a technical solution, security control or process improvement?
+ Yes
+ No
+38.
+GS-11: Do you have experience coordinating with personnel from other teams or departments to support assigned cybersecurity, information security or IT-related activities?
+ Yes
+ No
+39.
+GS-11: Do you have experience assisting with briefings, presentations or updates that explain technical or cybersecurity information to nontechnical audiences?
+ Yes
+ No
+40.
+GS-11: Do you have experience preparing security reports, status updates or supporting documentation using established reporting requirements, templates or procedures?
+ Yes
+ No
+41.
+GS-11: Do you have experience assisting with explaining security procedures, requirements or performance metrics to staff or stakeholders in support of assigned activities?
+ Yes
+ No
+42.
+I understand my resume should not simply list projects on which I worked or describe my experience in terms of accomplishments or achievements. but must describe, in my own words, the specific duties I perform that pertain to the Specialized Experience and IT Competencies required for this position.
+ Yes
+ No
+43.
+I understand that interviews for this position may or may not be conducted, but if an interview is desired, it will be scheduled by the hiring office and a representative from that office will contact me directly. HR will not have information pertaining to the scheduling or outcome of interviews and cannot provide feedback pertaining to completed interviews.
+ Yes
+ No
+44.
+If selected for this position I understand I must have (or be able to obtain) and maintain a Top Secret Security Clearance (TS-SCI).
+ Yes
+ No
+.
+Your resume must include: (1) your name and contact information, (2) employer name and position held, (3) full start and stop dates (month/day/year) for each position, (4) full-time or part-time hours worked per week, (5) your grade and pay scale (for federal positions) and (6) a clear description of the duties you perform that relate to the experience required for this position. If you no longer hold a position, it must show an ending date. If your resume doesn't clearly show this information, you will be found ineligible.
+.
+You may update your resume at any time during the announcement open period by returning to your USAJOBS account. There you will find a record of your application, the application status and an option to Edit My Application. Once you've edited your resume to include all the required information and a clear description of the duties you perform that meet the requirements of the Specialized Experience statement, you can save the edited resume to your USAJobs Account and then upload it to this vacancy announcement. This option will no longer be available once the announcement has closed.
+.
+To verify the status of your application both during and after the announcement open period, log into your USAJOBS account. On the Home page, scroll down and locate your job application. Once the job has been located, click the "Track this application" link on the right under the application date. The page will refresh to display the Agency's Application Information page where you can scroll down and review any notifications the agency has sent you. The Application Status will appear along with the date your application was last updated. For information on what each Application Status means, visit: https://www.usajobs.gov/Help/how-to/application/status/.
+.
+Complete this application by uploading your supporting documents and submitting your responses to this questionnaire - see HOW TO APPLY for specific instructions.
+45.
+I thoroughly read the announcement (QUALIFICATIONS, EDUCATION, HOW YOU WILL BE EVALUATED and REQUIRED DOCUMENTS sections) and am submitting documents that sufficiently demonstrate my eligibility and qualifications.
+ Yes
+ No
+46.
+I thoroughly read the information in this questionnaire and have answered each question truthfull.
+ Yes
+ No
