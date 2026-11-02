@@ -609,19 +609,22 @@ def fetch_monster(url):
     return None
 
 
-def fetch(url, linked_ids=(), verify=False, announcements=()):
+def fetch(url, linked_ids=(), verify=False, announcements=(), owners=None):
     """Returns (fetch_status, text). A USAStaffing questionnaire that needs verifying
     (blacklisted, or inferred rather than linked in the posting) counts only if it
     belongs to one of the postings linking to it: its own control number is one of
     theirs, or its announcement number is (the same announcement re-posted).
     Otherwise the status is 'not_this_posting' (or 'invalid' if USAStaffing rejects
-    the ID)."""
+    the ID). If `owners` is a dict, a verified questionnaire's own control number is
+    recorded in it under `url` (see drop_superseded_announcement_matches)."""
     if 'apply.usastaffing.gov/ViewQuestionnaire/' in url:
         raw, invalid = fetch_usastaffing_questionnaire_json(url)
         if verify and invalid:
             return 'invalid', None
         if verify and raw is not None:
             own = json.loads(raw)
+            if owners is not None:
+                owners[url] = str(own.get('controlNumber') or '')
             if (str(own.get('controlNumber')) not in linked_ids
                     and (own.get('announcementNumber') or '') not in announcements):
                 return 'not_this_posting', None
@@ -631,6 +634,38 @@ def fetch(url, linked_ids=(), verify=False, announcements=()):
     else:
         return 'skipped_blocked_domain', None
     return ('ok', text) if text is not None else ('failed', None)
+
+
+def drop_superseded_announcement_matches(by_url, inferred_pairs, owners):
+    """Remove a posting from an inferred questionnaire that matched it only by announcement
+    number when the posting has another questionnaire whose own control number is the
+    posting's. A re-posted announcement can reuse the earlier posting's questionnaire, so an
+    announcement match alone is kept when it's all a posting has; but once USAStaffing ties a
+    questionnaire to the posting itself, the earlier one belongs to the earlier posting.
+    (2026-11-02: 881742600 was counted as having the Loyalty Q through 12891436, the
+    questionnaire of closed posting 858413000 under the same announcement, while its own,
+    13045665, has the new wording.)
+
+    by_url: {url: 'id;id'} (changed in place). inferred_pairs: {(control_number, url)} for
+    links guessed rather than in the posting's text. owners: {url: own control number} for
+    verified USAStaffing questionnaires. Returns {url: [dropped ids]}; a url left with no
+    postings is removed from by_url."""
+    has_own = {cn for url, ids in by_url.items() for cn in ids.split(';') if owners.get(url) == cn}
+    dropped = {}
+    for url in list(by_url):
+        owner = owners.get(url)
+        if owner is None:
+            continue
+        ids = by_url[url].split(';')
+        drop = [cn for cn in ids if cn != owner and (cn, url) in inferred_pairs and cn in has_own]
+        if drop:
+            dropped[url] = drop
+            keep = [cn for cn in ids if cn not in drop]
+            if keep:
+                by_url[url] = ';'.join(keep)
+            else:
+                del by_url[url]
+    return dropped
 
 
 def latest_stored_copy(url, out_dir):
@@ -755,14 +790,26 @@ def main():
         blocked_check = check_blocked_portals([u for u in urls if is_blocked_portal(u)], out_dir)
         blocked_checked = blocked_portal_check_dates(out_dir)
 
+    owners = {}
     with ThreadPoolExecutor(args.workers) as pool:
-        fetched = list(pool.map(lambda u: fetch(u, by_url[u].split(';'), u in verify_urls, announcements_by_url[u]), urls))
+        fetched = list(pool.map(lambda u: fetch(u, by_url[u].split(';'), u in verify_urls, announcements_by_url[u],
+                                                owners), urls))
     # Blacklisted links that turned out invalid or someone else's questionnaire
     # don't belong to these postings at all.
     kept = [(u, f) for u, f in zip(urls, fetched) if f[0] not in ('invalid', 'not_this_posting')]
     print(f'{len(verify_urls):,} blacklisted or inferred links verified; '
           f'{len(urls) - len(kept):,} excluded (invalid or another posting\'s questionnaire)', flush=True)
     urls, fetched = [u for u, _ in kept], [f for _, f in kept]
+    # An earlier posting's questionnaire, matched only by announcement number, doesn't count
+    # for a posting that has its own.
+    inferred_pairs = {(str(int(cn)), url) for cn, url in
+                      links.loc[links['inferred'], ['usajobs_control_number', 'questionnaire_url']].itertuples(index=False)}
+    superseded = drop_superseded_announcement_matches(by_url, inferred_pairs, owners)
+    if superseded:
+        print(f'{sum(len(v) for v in superseded.values()):,} announcement-only matches dropped for postings with '
+              f'their own questionnaire: ' + json.dumps(superseded), flush=True)
+        kept = [(u, f) for u, f in zip(urls, fetched) if u in by_url]
+        urls, fetched = [u for u, _ in kept], [f for _, f in kept]
 
     attempted = [s for s, _ in fetched if s != 'skipped_blocked_domain']
     ok_share = attempted.count('ok') / len(attempted) if attempted else 1.0

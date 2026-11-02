@@ -195,6 +195,55 @@ def test_verified_usastaffing_link_counts_only_for_its_own_posting():
         r.fetch_usastaffing_questionnaire_json = original
 
 
+def test_announcement_only_match_dropped_when_posting_has_its_own_questionnaire():
+    # 2026-11-02: 881742600 was counted as having the Loyalty Q through 12891436, the
+    # questionnaire of closed posting 858413000 under the same announcement number;
+    # its own questionnaire, 13045665, has the new wording.
+    import refresh_open_questionnaires as r
+    old = 'https://apply.usastaffing.gov/ViewQuestionnaire/12891436'
+    own = 'https://apply.usastaffing.gov/ViewQuestionnaire/13045665'
+    by_url = {old: '881742600', own: '881742600'}
+    dropped = r.drop_superseded_announcement_matches(
+        by_url, {('881742600', old), ('881742600', own)}, {old: '858413000', own: '881742600'})
+    assert dropped == {old: ['881742600']}
+    assert by_url == {own: '881742600'}
+
+    # A re-posted announcement whose only questionnaire is the earlier posting's keeps it.
+    by_url = {old: '881742600'}
+    assert r.drop_superseded_announcement_matches(by_url, {('881742600', old)}, {old: '858413000'}) == {}
+    assert by_url == {old: '881742600'}
+
+    # A link in the posting's own text is never dropped, even if it's another posting's.
+    by_url = {old: '888632500', own: '888632500'}
+    assert r.drop_superseded_announcement_matches(by_url, {('888632500', own)},
+                                                  {old: '881957800', own: '888632500'}) == {}
+    assert by_url == {old: '888632500', own: '888632500'}
+
+    # A shared questionnaire is dropped only for the posting that has its own.
+    by_url = {old: '111111111;881742600', own: '881742600'}
+    r.drop_superseded_announcement_matches(by_url, {('111111111', old), ('881742600', old), ('881742600', own)},
+                                           {old: '858413000', own: '881742600'})
+    assert by_url == {old: '111111111', own: '881742600'}
+
+
+def test_fetch_records_verified_questionnaire_owner():
+    import refresh_open_questionnaires as r
+    raw = json.dumps({'controlNumber': 858413000, 'announcementNumber': 'MCFT-26-12891436-DHAS',
+                      'positionTitle': 'Lead Security Guard', 'announcementSections': [], 'assessmentSections': []})
+    original = r.fetch_usastaffing_questionnaire_json
+    try:
+        r.fetch_usastaffing_questionnaire_json = lambda url: (raw, False)
+        url = 'https://apply.usastaffing.gov/ViewQuestionnaire/12891436'
+        owners = {}
+        assert r.fetch(url, ['881742600'], verify=True, announcements={'MCFT-26-12891436-DHAS'}, owners=owners)[0] == 'ok'
+        assert owners == {url: '858413000'}
+        owners = {}
+        r.fetch(url, ['881742600'], verify=False, owners=owners)
+        assert owners == {}  # unverified links aren't recorded
+    finally:
+        r.fetch_usastaffing_questionnaire_json = original
+
+
 def test_possible_variants_flags_rewordings_with_full_question():
     import refresh_open_questionnaires as r
     exact_eo = ("3.\nHow would you help advance the President's Executive Orders and policy priorities in this role? "
@@ -733,6 +782,8 @@ TESTS = [
     test_run_warnings_for_a_day_like_2026_10_23,
     test_possible_variants_flags_rewordings_with_full_question,
     test_verified_usastaffing_link_counts_only_for_its_own_posting,
+    test_announcement_only_match_dropped_when_posting_has_its_own_questionnaire,
+    test_fetch_records_verified_questionnaire_owner,
     test_old_question_matched_through_html_entities,
     test_questionnaire_json_to_text_renders_questions_and_header,
     test_direct_link_read_from_derived_column,
