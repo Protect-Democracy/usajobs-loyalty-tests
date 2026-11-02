@@ -10,6 +10,7 @@ Covers:
 No network, no parquet — runs in under a second.
 """
 import json
+import re
 import sys
 import pandas as pd
 
@@ -224,6 +225,35 @@ def test_announcement_only_match_dropped_when_posting_has_its_own_questionnaire(
     r.drop_superseded_announcement_matches(by_url, {('111111111', old), ('881742600', old), ('881742600', own)},
                                            {old: '858413000', own: '881742600'})
     assert by_url == {old: '111111111', own: '881742600'}
+
+
+def test_struck_through_question_does_not_count():
+    # 2026-11-02: GSA's open postings (e.g. jnum=112834) show the old Loyalty Q wrapped in <s>.
+    import refresh_open_questionnaires as r
+    from questionnaire_utils import STRUCK_MARKER, remove_struck_through, questionnaire_json_to_text
+    q = ("How would you help advance the President's Executive Orders and policy priorities in this role? "
+         "Identify one or two relevant Executive Orders or policy initiatives that are significant to you, "
+         "and explain how you would help implement them if hired.")
+    gsa = ('<span class="question-text">\nAs of 9/18/2026, this question is no longer used by GSA. Do not respond to '
+           'this optional question. Responses have been or will be deleted per government policy.&nbsp;<s>' + q +
+           '</s>\t\t<span class="question-instructions">Maximum length of 1200 characters.</span>')
+    assert r.flags(re.sub(r'<[^>]+>', ' ', gsa))['has_loyalty_q']  # what the tracker did before
+    cleaned = remove_struck_through(gsa)
+    assert STRUCK_MARKER in cleaned and 'no longer used by GSA' in cleaned and 'Maximum length' in cleaned
+    assert not r.flags(re.sub(r'<[^>]+>', ' ', cleaned))['has_loyalty_q']
+    for html_text in (f'<STRIKE>{q}</STRIKE>', f'<del class="x">{q}</del>',
+                      f'<span style="color:red; text-decoration: line-through">{q}</span>',
+                      f"<p style='text-decoration:line-through'>{q}</p>"):
+        assert not r.flags(re.sub(r'<[^>]+>', ' ', remove_struck_through(html_text)))['has_loyalty_q'], html_text
+    # Unstruck, or only something else struck, still counts; <span>/<section> aren't <s>.
+    for html_text in (f'<span>{q}</span>', f'<section>{q}</section>', f'<s>Old note</s> <b>{q}</b>'):
+        assert r.flags(re.sub(r'<[^>]+>', ' ', remove_struck_through(html_text)))['has_loyalty_q'], html_text
+    # USAStaffing questionnaire JSON goes through the same cleanup.
+    raw = json.dumps({'controlNumber': 1, 'announcementNumber': 'X', 'positionTitle': 'T', 'assessmentSections': [
+        {'sectionTitle': 'Essay', 'questions': [{'displayIdentifier': '3', 'text': f'<p><s>{q}</s></p>', 'answers': []},
+                                                {'displayIdentifier': '4', 'text': '<p>Work ethic?</p>', 'answers': []}]}]})
+    text = questionnaire_json_to_text(raw)
+    assert not r.flags(text)['has_loyalty_q'] and STRUCK_MARKER in text and 'Work ethic?' in text
 
 
 def test_fetch_records_verified_questionnaire_owner():
@@ -784,6 +814,7 @@ TESTS = [
     test_verified_usastaffing_link_counts_only_for_its_own_posting,
     test_announcement_only_match_dropped_when_posting_has_its_own_questionnaire,
     test_fetch_records_verified_questionnaire_owner,
+    test_struck_through_question_does_not_count,
     test_old_question_matched_through_html_entities,
     test_questionnaire_json_to_text_renders_questions_and_header,
     test_direct_link_read_from_derived_column,

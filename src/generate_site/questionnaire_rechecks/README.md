@@ -162,6 +162,20 @@ is older than yesterday), `last_run.json` warns.
 - `blocked_portal_checks.csv`: append-only, one row per questionnaire per re-check,
   with its flags, so each has a date it was last verified even when nothing changed.
 
+## Struck-through questions
+
+Some agencies strike the old question through instead of removing it. On 2026-11-02 GSA's
+three open postings (Monster `jnum` 112834, 112847, 112848) showed it wrapped in `<s>`, after
+"As of 9/18/2026, this question is no longer used by GSA. Do not respond to this optional
+question." Until then the tracker read only the text, so it counted them.
+
+Struck-through text (`<s>`, `<strike>`, `<del>`, or a `line-through` style) now doesn't count
+as asked: `questionnaire_utils.remove_struck_through` replaces it with
+`[struck-through text removed]` in USAStaffing and Monster text, and the jobs.faa.gov re-check
+does the same in the page before reading it. The stored copy keeps the marker, so it shows
+something was struck, and `last_run.json` counts the day's questionnaires that had any
+(`questionnaires_with_struck_through_text`).
+
 ## One-off re-check, 2026-09-28
 
 Before the daily refresh existed, the open postings first scraped with the old
