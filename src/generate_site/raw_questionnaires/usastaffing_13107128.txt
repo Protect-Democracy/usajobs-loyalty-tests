@@ -1,0 +1,34 @@
+Position Title
+Sales Clerk
+Agency
+Commander, Navy Installations Command
+Announcement Number
+27-13107128
+Open Period
+Nov 03, 2026 to Nov 24, 2026
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+Sales Clerk
+1.
+Are you available to work weekends, holidays and evenings, as well as rotating shifts, that consisting of other than normal duty hours and seasonal lasting up to 4 months.
+ Yes
+ No
+2.
+How many years of customer service do you have documented on your resume?
+ 3-5 years of experience
+ 1-3 years of experience
+ No experience
+.
+Select “Yes” or “No” to the following question(s).
+3.
+Do you have experience in computing charges, dispersing change accurately, and preparing reports
+ Yes
+ No
