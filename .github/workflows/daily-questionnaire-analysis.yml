@@ -169,6 +169,17 @@ jobs:
         cd src/generate_site
         python scan_usastaffing_ids.py
 
+    - name: Check whose questionnaires inferred links point to
+      # Each guessed USAStaffing link's questionnaire names its own posting; one naming
+      # another posting is corrected in questionnaire_rechecks/inferred_link_corrections.csv,
+      # which tomorrow's site build applies. Only new links are looked up.
+      if: always()
+      timeout-minutes: 15
+      continue-on-error: true
+      run: |
+        cd src/generate_site
+        python check_inferred_link_owners.py
+
     - name: Commit and push to questionnaire-updates branch
       # Only commit if tests passed
       run: |

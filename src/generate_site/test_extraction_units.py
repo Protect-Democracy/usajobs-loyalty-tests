@@ -227,6 +227,34 @@ def test_announcement_only_match_dropped_when_posting_has_its_own_questionnaire(
     assert by_url == {old: '111111111', own: '881742600'}
 
 
+def test_inferred_link_naming_another_posting_is_corrected():
+    # 2026-11-02: 881742600 (announcement MCFT-26-12891436-DHAS, reused) was credited with 12891436,
+    # which belongs to 858413000; its own is 13045665 (new wording).
+    from generate_website_json import apply_inferred_link_corrections
+    u = 'https://apply.usastaffing.gov/ViewQuestionnaire/{}'.format
+    links = pd.DataFrame({'questionnaire_url': [u(1), u(2), u(3), u(1)], 'usajobs_control_number': [10, 20, 30, 40],
+                          'announcement_number': ['A', 'B', 'C', 'A']})
+    links['questionnaire_id'] = ['1', '2', '3', '1']
+    fixes = pd.DataFrame([
+        {'usajobs_control_number': '10', 'questionnaire_url': u(1), 'action': 'replaced', 'own_questionnaire_url': u(11),
+         'own_has_loyalty_q': 'False'},
+        {'usajobs_control_number': '20', 'questionnaire_url': u(2), 'action': 'replaced', 'own_questionnaire_url': u(22),
+         'own_has_loyalty_q': 'True'},
+        {'usajobs_control_number': '30', 'questionnaire_url': u(3), 'action': 'dropped', 'own_questionnaire_url': '',
+         'own_has_loyalty_q': ''},
+        {'usajobs_control_number': '40', 'questionnaire_url': u(1), 'action': 'kept_shared', 'own_questionnaire_url': '',
+         'own_has_loyalty_q': ''}])
+    with tempfile.TemporaryDirectory() as d:
+        fixes.to_csv(Path(d) / 'inferred_link_corrections.csv', index=False)
+        eo, scraped = {'1': 1}, {'1', '2', '3'}
+        out = apply_inferred_link_corrections(links, eo, scraped, Path(d))
+    got = set(zip(out['usajobs_control_number'], out['questionnaire_id']))
+    assert got == {(10, '11'), (20, '22'), (40, '1')}, got     # 30 dropped; 40 still shares 1
+    assert out.loc[out['usajobs_control_number'] == 20, 'announcement_number'].item() == 'B'
+    assert '22' in eo and '11' not in eo and {'11', '22'} <= scraped
+    assert eo['1'] == 1   # the shared questionnaire keeps its own flag
+
+
 def test_struck_through_question_does_not_count():
     # 2026-11-02: GSA's open postings (e.g. jnum=112834) show the old Loyalty Q wrapped in <s>.
     import refresh_open_questionnaires as r
@@ -815,6 +843,7 @@ TESTS = [
     test_announcement_only_match_dropped_when_posting_has_its_own_questionnaire,
     test_fetch_records_verified_questionnaire_owner,
     test_struck_through_question_does_not_count,
+    test_inferred_link_naming_another_posting_is_corrected,
     test_old_question_matched_through_html_entities,
     test_questionnaire_json_to_text_renders_questions_and_header,
     test_direct_link_read_from_derived_column,

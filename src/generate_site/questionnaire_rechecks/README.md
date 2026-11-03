@@ -176,6 +176,36 @@ does the same in the page before reading it. The stored copy keeps the marker, s
 something was struck, and `last_run.json` counts the day's questionnaires that had any
 (`questionnaires_with_struck_through_text`).
 
+## Inferred links that name another posting
+
+Before 2026-11-02 the scraper's guessed links (`inferred_from_announcement`,
+`inferred_from_posting_html` in `questionnaire_links.csv`) weren't checked against the
+questionnaire's own control number. A guess from a number in the announcement can land on an
+earlier posting's questionnaire: 881742600 reused announcement MCFT-26-12891436-DHAS and was
+credited with 12891436, which belongs to 858413000, so the site called it "EO question
+removed after posting" though its own questionnaire (13045665) never asked it.
+
+`../check_inferred_link_owners.py` runs daily after the ID scan. It records the owner of every
+guessed USAStaffing link in `inferred_link_owners.csv` (from `usastaffing_ids.csv`, else the
+questionnaire's JSON) and, for a link whose owner is another posting, adds a row to
+`inferred_link_corrections.csv`, which `../generate_website_json.py` applies:
+
+- `replaced`: USAStaffing's data names a questionnaire of the posting's own. The link is
+  replaced by it; its text, fetched that day, is in `inferred_link_corrections/` and gives its
+  flag. For a closed posting that's the questionnaire as of the check, not necessarily as
+  applicants saw it.
+- `kept_shared`: no questionnaire of its own is known and the owner has the same announcement
+  number (one announcement split across postings sharing a questionnaire). Left alone.
+- `dropped`: no questionnaire of its own is known and the owner's announcement number differs
+  (often a re-announcement, `-019R` vs `-019`). The link is dropped.
+
+The first run (2026-11-03, `--git-history`, which also searches old versions of
+`usastaffing_ids.csv`) checked all 32,932 guessed USAStaffing links: 32,545 name their own
+posting, 341 point to questionnaires that no longer exist (not checkable), and 46 name another
+posting: 25 replaced, 12 kept_shared, 9 dropped. That changed 16 postings' site status (one open:
+881742600) and 16 more postings' questionnaire link only. 4,691 guessed links on jobs.faa.gov and Monster can't be checked:
+those questionnaires don't name a posting.
+
 ## One-off re-check, 2026-09-28
 
 Before the daily refresh existed, the open postings first scraped with the old
