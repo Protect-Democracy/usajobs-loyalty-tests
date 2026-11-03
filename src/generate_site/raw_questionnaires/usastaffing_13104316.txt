@@ -1,0 +1,109 @@
+Position Title
+Management and Program Analyst (Chief Data Officer)
+Agency
+Export-Import Bank of the United States
+Announcement Number
+D27-AR-13104316-CFO
+Open Period
+Nov 02, 2026 to Nov 06, 2026
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+2.
+Career Transition Assistance Plan (CTAP): I am a current or former Export Import Bank of the United States employee displaced from a position in the same local commuting area of the vacancy. I have a current (or last) performance rating of record of at least fully successful or the equivalent. Applicants eligible under CTAP are provided priority selection for vacancies within the local commuting area for which they apply and are well qualified. NOTE: If you indicate "yes" for this statement, you must submit copies of the appropriate documentation, such as a reduction in force (RIF) separation notice, a SF50 reflecting your RIF separation, or a notice of proposed removal for declining a directed reassignment or transfer of function to another commuting area. You must also submit documentation to reflect your current (or last) performance rating of record.
+ Yes
+ No
+3.
+Interagency Career Transition Assistance Plan (ICTAP): I am a current or former federal employee displaced from a position in a federal agency (e.g., IRS, VA, Dept of Labor, etc.) in the same local commuting area of the vacancy. I have a current (or last) performance rating of record of at least fully successful or the equivalent. Applicants eligible under ICTAP are provided priority selection for vacancies within the local commuting area for which they apply and are well qualified. NOTE: If you indicate "yes" for this statement, you must submit copies of the appropriate documentation, such as a reduction in force (RIF) separation notice, a SF50 reflecting your RIF separation, or a notice of proposed removal for declining a directed reassignment or transfer of function to another commuting area. You must also submit documentation to reflect your current (or last) performance rating of record.
+ Yes
+ No
+Short Essay Questions
+.
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+3.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+Chief Data Officer
+.
+Your resume and supporting documents must support the responses you select (Failure to provide a response below may result in further lack of consideration for this announcement).
+1.
+Do you have one year of specialized experience equivalent to the GS-13 level in the Federal service or other equivalent pay system that has equipped you to perform the major duties of this position? This specialized experience includes: Experience leading enterprise data governance and management activities, including developing or implementing data policies, standards, governance frameworks, data quality practices, data inventories, and/or data stewardship processes. Experience applying data analytics, business intelligence, and evaluative methods to complex data to identify trends, risks, performance gaps, or opportunities and develop data-driven recommendations for organizational or executive decision-making. Experience providing advice and leading cross-functional data initiatives involving data governance, regulatory or statutory requirements, data reporting or sharing, analytics, and/or organizational data capabilities, including communicating complex data findings to senior stakeholders.
+ Yes (Your resume must reflect this specialized experience in order to qualify for the GS-14 grade level)
+ My experience is not reflected in the description above.
+1a.
+Please indicate which position(s) on your resume supports this response (include title, agency/organization, dates of experience (month/year to month/year) DO NOT COPY AND PASTE RESUME or state &lsquo;REFER TO RESUME&rsquo;.
+2.
+An organization is preparing to establish an enterprise data governance framework. Several offices currently maintain their own definitions, ownership practices, quality standards, and access procedures for similar data. Leadership wants a consistent approach, but the offices have different operational needs and are reluctant to change their existing practices. What would you do?
+ Allow each office to continue managing its data independently because its operational requirements are different.
+ Bring the affected offices together to identify the areas of greatest concern, establish common priorities, and develop a governance approach that addresses enterprise needs while allowing appropriate flexibility for program-specific requirements. Use the discussions to clarify ownership, stewardship, definitions, quality expectations, and access responsibilities and establish a process for maintaining the framework over time.
+ Ask each office to identify its preferred data definitions and procedures and consolidate the information into a governance document. Address disagreements as they arise during implementation. [4] D. Document the differences among the offices and develop recommended standards for data definitions, ownership, quality, and access. Present the recommendations to leadership for consideration before implementing the framework.
+ Assess the existing practices across the offices, identify significant inconsistencies, and work with representatives to establish common definitions, ownership responsibilities, and data quality expectations. Develop a governance framework that can be implemented across the organization.
+3.
+You are tasked with analyzing financial transaction data associated with direct loans, loan guarantees, and insurance products supporting trade and export finance. Your supervisor asks you to identify trends, assess program performance, and present your findings through data visualizations to support management decisions. What would you do?
+ Integrate and analyze financial transaction data across direct loans, loan guarantees, and insurance products. Apply appropriate analytical techniques to identify trends, assess performance, and develop clear visualizations that communicate findings and support data-driven decision-making.
+ Compile and organize financial transaction data from available sources, prepare summary statistics, and create basic charts to communicate financial activity and program results.
+ Compile financial transaction data and prepare basic spreadsheets as requested, without conducting independent analysis or developing visualizations to interpret trends or assess program performance.
+ Review existing financial reports and dashboards to identify relevant information and summarize findings for management, relying primarily on previously completed analyses.
+ Analyze financial transaction data using established analytical methods and visualization tools to identify key trends and prepare reports highlighting program performance and potential areas of concern.
+4.
+Your supervisor assigns you responsibility for supporting your agency's compliance with the Digital Accountability and Transparency Act (DATA Act). You are expected to help ensure financial data are accurately reported, meet federal reporting requirements, and are available for review. How would you approach this assignment?
+ Use knowledge of federal financial reporting requirements and experience supporting DATA Act reporting to review data for accuracy and completeness, identify discrepancies, and assist with resolving reporting issues before submission.
+ Apply foundational knowledge of federal financial reporting and DATA Act requirements to compile requested financial information, perform basic data quality checks, and assist with preparing required reports under established procedures.
+ Apply comprehensive knowledge of federal financial reporting requirements and hands-on experience with DATA Act reporting to validate financial data, reconcile discrepancies, assess data quality, and ensure accurate and timely submissions in accordance with applicable requirements.
+ Have limited knowledge or experience with federal financial reporting requirements and DATA Act reporting, requiring substantial training and direction to assist with related assignments.
+ Assist with DATA Act reporting by gathering financial information, reviewing documentation, and following established instructions, with guidance from experienced staff to address reporting requirements and data discrepancies.
+5.
+You are leading an agency-wide data initiative involving program offices, information technology personnel, financial staff, and senior leadership. Each group has different priorities, and two offices disagree about who should own a critical data element. The disagreement is beginning to delay the initiative. What would you do?
+ Assign ownership to the office that originally created the data and continue with the initiative.
+ Meet with the affected offices to understand their concerns, clarify responsibilities, and develop a mutually acceptable ownership arrangement. Escalate unresolved issues with supporting recommendations.
+ Ask senior leadership to determine which office should own the data element after presenting the competing positions.
+ Document the competing positions and facilitate a discussion among the offices to determine which organization is best positioned to assume ownership.
+ Establish a shared understanding of the business purpose and consequences of the data ownership decision, evaluate the competing requirements, and facilitate agreement on ownership based on organizational responsibilities and data stewardship principles. Where consensus cannot be reached, develop viable alternatives and provide senior leadership with a clear recommendation and rationale.
+6.
+Your agency is reviewing its data governance framework to improve data quality, consistency, security, and accountability across financial and operational programs. Your supervisor asks you to contribute to this effort by applying your knowledge of data governance policies, standards, roles, and procedures. How would you approach this assignment?
+ Lead or substantially contribute to implementing and evaluating a federal agency’s data governance framework by establishing or refining data standards, defining data ownership and accountability, monitoring data quality, and ensuring alignment with federal policies and agency objectives.
+ Apply established data governance policies and procedures to monitor data quality, support data stewardship, document data standards, and coordinate with stakeholders to address governance issues and improve data management practices.
+ Support data governance activities by maintaining data documentation, following established data standards, performing basic data quality checks, and reporting inconsistencies to appropriate personnel.
+ Use agency data systems and follow established data handling procedures, referring questions about data standards, ownership, quality, or governance requirements to experienced staff.
+ Have limited experience with data governance frameworks and require substantial training and guidance to understand and apply agency data governance policies and procedures.
+7.
+You have completed an analysis for senior executives that identifies several trends and risks. The underlying analysis is technically complex, but the executives need to understand the implications and determine whether action is warranted. You have limited time to brief them. How would you present the findings?
+ Present the primary analytical findings and supporting data, explain the major trends, and identify areas where management action may be appropriate.
+ Provide the complete technical analysis so executives can review the underlying data and draw their own conclusions.
+ Summarize the major findings, explain the most significant trends and risks, and provide recommendations supported by the analysis. Include relevant limitations so executives understand the context for the conclusions.
+ Focus the briefing on the decisions senior leaders need to make, translate the analytical results into clear findings and implications, distinguish significant risks and trends from supporting detail, explain important assumptions or limitations, and connect the findings to specific options or recommendations for action.
+ Provide executives with the analytical results and a summary of the major findings, allowing them to determine the appropriate actions.
+8.
+EXIM receives a request from an external oversight organization for data supporting an evaluation of one of the Bank's programs. The request includes information maintained across several EXIM systems and may include sensitive or restricted information. The requesting organization has provided a short deadline and expects EXIM to provide the information in its existing format. What would you do?
+ Review the request against applicable requirements, identify the appropriate data sources and information that may require additional safeguards or restrictions, consult the appropriate offices, and develop a response that addresses the request while protecting restricted information.
+ Review the requested information for potential compliance concerns and coordinate with the appropriate offices to determine what information can be provided.
+ Provide the request to the appropriate compliance officials and wait for their determination before taking further action.
+ Provide the requested information because the request comes from an external oversight organization.
+ Assess the request against applicable statutory, privacy, confidentiality, and information-security requirements; identify the appropriate data owners and authoritative sources and assess the quality and completeness of the requested data; determine what information can appropriately be disclosed and under what conditions; coordinate with appropriate stakeholders to resolve outstanding issues; and establish a defensible approach for responding within the required timeframe.
+9.
+Please select the response(s) that describe your experience with providing strategic leadership related to a federal agency's data management, governance, and reporting.
+ Managed and led a working group or tiger group of key federal agency stakeholders to resolve data analytics, interpretation, and application matters to address complex programmatic or operational issues.
+ Designed and held training related to data extraction, data analytics, and/or data reporting for a federal agency’s staff.
+ Led a federal agency’s Data Governance Board, or equivalent.
+ Developed and implemented a federal agency’s data plan.
+ None of the above.
+10.
+I certify that, to the best of my knowledge and belief, all of the information included in this questionnaire is true, correct, and provided in good faith. I understand that if I make an intentional false statement, or commit deception or fraud in this application and all supporting materials, including my resume, or in any document or interview associated with the examination process, I may be fined or imprisoned (18 U.S.C. 1001); my eligibilities may be cancelled; I may be denied an appointment; or I may be removed and debarred from Federal service (5 C.F.R. part 731). I understand that any information I give may be investigated. I understand that I will not be considered for employment if I do not respond "Yes" to this certification item.
+ Yes
+ No
