@@ -306,6 +306,38 @@ def build_analysis(all_jobs_df, scraped_df, scraped_df_in_current, links_df):
     return analysis_data
 
 
+def apply_inferred_link_corrections(links_df, eo_mentions, scraped_ids, recheck_dir=RECHECK_DIR):
+    """Corrects inferred links whose questionnaire names a different posting
+    (inferred_link_corrections.csv, from check_inferred_link_owners.py): 'replaced'
+    swaps in the posting's own questionnaire, adding its flag (fetched when the
+    correction was made) to eo_mentions and its ID to scraped_ids; 'dropped' removes
+    the link; 'kept_shared' leaves it. Returns the corrected links."""
+    path = recheck_dir / 'inferred_link_corrections.csv'
+    if not path.exists():
+        return links_df
+    fixes = pd.read_csv(path, dtype=str, keep_default_na=False)
+    key = links_df['usajobs_control_number'].astype(str) + ' ' + links_df['questionnaire_url']
+    changed = fixes[fixes['action'].isin(['replaced', 'dropped'])]
+    wrong = links_df[key.isin(changed['usajobs_control_number'] + ' ' + changed['questionnaire_url'])]
+    replaced = fixes[fixes['action'] == 'replaced']
+    # The own questionnaire takes the wrong link's row (posting details), keyed by
+    # posting and wrong URL.
+    swap = replaced[['usajobs_control_number', 'questionnaire_url', 'own_questionnaire_url']].copy()
+    swap['usajobs_control_number'] = swap['usajobs_control_number'].astype(links_df['usajobs_control_number'].dtype)
+    added = wrong.drop(columns=['questionnaire_id']).merge(swap, on=['usajobs_control_number', 'questionnaire_url'])
+    added = added.drop(columns=['questionnaire_url']).rename(columns={'own_questionnaire_url': 'questionnaire_url'})
+    added = added.drop_duplicates(['usajobs_control_number', 'questionnaire_url'])
+    added['questionnaire_id'] = added['questionnaire_url'].apply(lambda url: extract_questionnaire_id(url)[1])
+    for url, has_q in zip(replaced['own_questionnaire_url'], replaced['own_has_loyalty_q']):
+        qid = extract_questionnaire_id(url)[1]
+        scraped_ids.add(qid)
+        if has_q == 'True':
+            eo_mentions[qid] = 1
+    print(f"Inferred links naming a different posting: {len(wrong):,} corrected "
+          f"({fixes['action'].value_counts().to_dict()})")
+    return pd.concat([links_df.drop(wrong.index), added[links_df.columns]], ignore_index=True)
+
+
 def main():
     # Always regenerate the clean all jobs data to get the latest
     print("Generating clean all jobs data from latest parquet files...")
@@ -333,6 +365,7 @@ def main():
     # Whether each posting asked the question when first scraped, over all the links
     # first collected for it (some may since have been removed from the posting).
     links_df['questionnaire_id'] = links_df['questionnaire_url'].apply(lambda url: extract_questionnaire_id(url)[1])
+    links_df = apply_inferred_link_corrections(links_df, eo_mentions, scraped_ids)
     first_scrape_had_q = links_df['questionnaire_id'].isin(eo_mentions).groupby(links_df['usajobs_control_number']).any()
 
     # Open postings are the ones the latest refresh found listed on USAJobs
