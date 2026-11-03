@@ -4,12 +4,12 @@
   "listed_postings_not_in_job_data": 0,
   "links_added": 0,
   "links_removed": 0,
-  "postings_no_longer_listed": 58,
+  "postings_no_longer_listed": 0,
   "questionnaires": 11633,
   "fetched_ok": 11429,
   "failed": 0,
   "skipped_blocked_domain": 204,
-  "changed_today": 43,
+  "changed_today": 17,
   "with_loyalty_q": 19,
   "with_new_wording": 4708,
   "with_question_5": 17,
@@ -21,9 +21,7 @@
   "open_postings_reopened_today_with_loyalty_q": 0,
   "open_postings_not_listed_today": 0,
   "open_postings_not_listed_today_with_loyalty_q": 0,
-  "unlisted_outcomes": {
-    "closed_early": 58
-  },
+  "unlisted_outcomes": {},
   "blocked_portal_last_checked": "2026-11-03",
   "blocked_portal_check": {
     "questionnaires": 204,
@@ -34,8 +32,8 @@
   "usastaffing_id_scan": {
     "date": "2026-11-03",
     "finished": true,
-    "summary": "scanned to 13,108,970: {'missing': 2268, 200: 6}",
-    "new": 6
+    "summary": "scanned to 13,109,473: {'missing': 2739, 200: 16, 403: 14}",
+    "new": 16
   },
   "open_postings_with_loyalty_q_checked_before_yesterday": 0,
   "warnings": []
