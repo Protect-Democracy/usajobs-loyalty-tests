@@ -1,0 +1,40 @@
+Position Title
+PRODUCTION CONTROLLER (FLEET MANAGEMENT) (TITLE 32)
+Agency
+Air National Guard Units
+Announcement Number
+NC-13105288-AF-26-046
+Open Period
+Nov 04, 2026 to Dec 03, 2026
+Preferences
+1.
+I have a valid, current state driver's license or I am able and willing to obtain and maintain a valid state driver's license.
+ Yes
+ No
+2.
+Are you currently a Federal Employee? If so, a copy of your SF 50 is required.
+ Yes
+ No
+Military Requirement's
+1.
+Which Area of Consideration represents your current status?
+ Area 1 - I am currently a Tenure 1, 2, or 3 Technician (Title 32-NCANG (including AGR with Restoration Rights) or Title 5 with NCANG military membership) working at (xxxx) (See last SF50).
+ Area 2 - I am currently a Tenure 1, 2, or 3 Technician (Title 32-NCANG (including AGR with Restoration Rights) or Title 5 with NCANG military membership) working at a NC ANG unit/activity, other than (xxxx) (See last SF50).
+ Area 3 - Within the NC Air National Guard, I serve in one of the following categories: 1) Temporary Military Technician (Tenure 0 on SF50), or 2) AGR (without Restoration rights as a military technician), or 3) a "traditional (Drill Status Guard) member only".
+ Area 4 - I am currently assigned to one of the following: Active Duty Air Force, Air Force Reserve, or a State/Territory Air National Guard other than North Carolina.
+ I am not currently assigned to one of the areas listed above.
+2.
+Are you currently assigned militarily as an Enlisted (E5/SSgt to E6/TSgt)?
+ Yes
+ No
+1152-09-D2142000-NCNG
+.
+Once the application process is complete, a review of your resume and supporting documentation will be completed. If, after reviewing your resume and supporting documentation, it is determined that you have misrepresented your qualifications and/or experience, a revised assessment will be rendered.
+1.
+Select the one statement that best describes the Minimum Requirements that you possess that demonstrates your ability to perform the duties of a GS-1152-09 Production Controller (Fleet Management).
+ I HAVE experience, education or training which indicates I can reason in quantitative terms, communicate orally and in writing in a clear and concise manner, understanding the terminology and data pertaining to repair operations and process characteristics of the production activity.
+ I DO NOT HAVE the experience, education or training listed above.
+2.
+Select the one statement that best describes the Specialized Experience and/or education that you possess that demonstrates your ability to perform the duties of a GS-1152-09 Production Controller (Fleet Management).
+ I HAVE at least 24 months experience, education or training 1) preparing job or work orders, 2) scheduling various phases of projects into the production facility, 3) following up to see if work is progressing as planned and arranging for adjustments in materials, machine processes, and work sequencing allowing for changes, and 4) experience with current automation support programs to input data, provide status of equipment, and monitor job order status, monitor work priorities, requisition repair parts, track repair parts status, etc.
+ I DO NOT have 24 months of the experience, education or training listed above.

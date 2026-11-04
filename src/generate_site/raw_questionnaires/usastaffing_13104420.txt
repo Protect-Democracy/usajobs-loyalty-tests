@@ -1,0 +1,54 @@
+Position Title
+COMPUTER ASSISTANT
+Agency
+Army National Guard Units
+Announcement Number
+PA-13104420-AR-26-279
+Open Period
+Nov 04, 2026 to Nov 18, 2026
+Employment Criteria
+1.
+What is your current Unit of Assignment? If you are not currently in any branch of service, please put N/A. (Example 1/111th Infantry, 193rd SOW)
+2.
+What is your current military grade? If you are not currently serving in any branch of service, please put N/A. (Example: E1, WO1, O1)
+3.
+What is your current MOS (Army) or AFSC (Air Force)? If you are not currently serving in any branch of service, please put N/A.
+4.
+From the categories below, please select your current status.
+ AOC 1: NG Employees at the Army Aviation Support Facility 2
+ AOC 2: NG employees in the State Army Aviation Office (This includes AASF 1, AASF 2, and EAATS)
+ AOC 3: NG Employees of the Pennsylvania National Guard
+ AOC 4: All service members of the Pennsylvania National Guard (This includes M-Day Soldiers, Temporary Technicians and AGR Personnel)
+ AOC 5: Individuals who are currently serving in another branch of service who are willing to become members of the PANG
+ AOC 6: Individuals with Prior Service or No Prior Service, who are not currently in any branch of service AND are willing to become members of the PANG
+ Those individuals who are not willing to join the Pennsylvania National Guard.
+5.
+Are you a Warrant Officer in the grade of WO1 to CW4 or an Enlisted member in the grade of E1 to E9 in any branch of military service and are you willing to become a member of the Pennsylvania National Guard?
+ Yes
+ No
+0335-09-D1074000-PANG
+1.
+Do you have experience, training, or education which demonstrates the applicants ability to follow directions, procedures, or systematic work methods which gives evidence of the candidates ability to perform this work? Do you have experience using computer and automation systems?
+ Yes, I do.
+ No, I do not.
+.
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+2.
+Do you have at least 24 months experience maintaining continuity of production control; coordinating work load priorities and scheduling multiple requirements? Do you have experience applying optional methods to new or developmental requirements and provide for program dependencies and priorities? Do you have experience identifying computer requirements or techniques associated with the development and design of data processing systems? Do you have experience in planning and programming requirements related to computer systems or applications?
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+3.
+Are you related to anyone in this agency?
+ Yes, I have a relative employed with this agency.
+ No, I am not related to anyone in this agency.
+4.
+Have you been separated for cause from a federal position?
+ Yes.
+ No, I haven't.
+5.
+I certify that, to the best of my knowledge and belief, my answers are true, correct, complete, and made in good faith.
+ Yes.
+ No, I no longer wish to be considered for this position.

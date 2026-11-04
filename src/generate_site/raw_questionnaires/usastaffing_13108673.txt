@@ -1,0 +1,60 @@
+Position Title
+IT CYBERSECURITY SPECIALIST (INFOSEC)
+Agency
+Air National Guard Units
+Announcement Number
+OH-13108673-26-475-T5
+Open Period
+Nov 03, 2026 to Dec 02, 2026
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+Merit Hiring Plan Essay Questions
+.
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+3.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+2210-GS12-T5894000-OHANG
+.
+We will evaluate your resume and responses to this assessment questionnaire to determine if you are among the best qualified for this position. Your responses are subject to verification and must be supported by your resume and supporting documents.
+.
+Select “Yes” or “No” to the following question(s).
+1.
+Do you possess 1-year specialized experience equivalent to at least the next lower grade?
+ Yes
+ No
+2.
+Serves as an Information Technology Specialist providing Cybersecurity for an Air National Guard Wing's SAP or Sensitive Compartmented Information Facility (SCIF) infrastructure. Operates within the DoD, Air Force and NGB security procedures, operations, and practices. Ensures systems are operated and maintained IAW AFI 17-101, Joint SAP Implementation Guidance (JSIG), and all applicable command and DOD security directives and procedures. Monitors DoD information security bulletins and notifications as they relate to Information Security Vulnerability Alerts (ISVAs). Coordination is required with peer Wing contacts, MAJCOM elements, and commercial vendors. Incumbent is required to ensure compliance with Federal, DoD, Air Force, MAJCOM Information Assurance/Cyber Security policies.
+2a.
+Explain how you possess the experience for the above statement?
+3.
+Coordinates with Information System Security Managers at the Wing and MAJCOM level to verify or clarify information pertinent to cybersecurity/Information Assurance procedures. Ensures all IS and COTS/GOTS within the enclave are properly certified and accredited in accordance with the Risk Management Framework (RMF), and configuration management policies and practices prior to installing devices/systems. The incumbent has program oversight responsibility for networks and information systems residing within Wing SAP facilities (Joint Worldwide Intelligence Communications System (JWICs) and SCIF facilities for Intelligence ISSO). Duties include ensuring certification and accreditation (C&A) documentation and implementation meets AFI 17-101, JSIG, and Risk Management Framework (RMF) standards for DoD Information Technology. Validates all aspects of RMF are implemented for all assets connected, or to be added, to the local network are accepted and approved by the appropriate Designated Approving Authorities (DAAs).
+3a.
+Explain how you possess the experience for the above statement?
+4.
+Maintains an operational knowledge base of past, current, and possible future threats to the security posture by attending courses, conferences, seminars, online research, and information sharing between other Cyber Security/Information Security professionals. Using this knowledge base, the incumbent will be able to devise and implement new policies and procedures to prevent or react to security concerns.
+4a.
+Explain how you possess the experience for the above statement?
+.
+Select “Yes” or “No” to the following question(s).
+5.
+Your response to the Announcement and Assessment Questionnaires, along with your resume and all supporting documents are subject to evaluation and verification to ensure accuracy. Please take this opportunity to review your responses to ensure their accuracy.
+ Yes
+ No

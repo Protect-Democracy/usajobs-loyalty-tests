@@ -1,0 +1,68 @@
+Position Title
+IT Development and Analysis (Enterprise Applications Engineer)
+Agency
+Office of the Inspector General
+Announcement Number
+13101495- BSM-DE
+Open Period
+Nov 03, 2026 to Nov 18, 2026
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+2.
+Career Transition Assistance Plan (CTAP) - Are you a current employee of the Department of Justice who meets the definition of surplus or displaced from a position in the competitive service? If you indicate "Yes" for this question, confirm you meet all the following requirements: • You are located in the same local commuting area of the vacancy; • Your grade is equivalent to or below the grade level of the vacancy; • Your last performance rating of record is at least fully successful or the equivalent. You MUST also submit supporting documentation to validate your claim of CTAP eligibility such as: • A Reduction in Force (RIF) separation notice or a Certificate of Expected Separation (CES), AND • A copy of your most recent annual performance appraisal, AND • A copy of your most recent SF-50 (Notification of Personnel Action) For more information, USAJOBS Help Center. .
+ Yes
+ No
+3.
+Interagency Career Transition Assistance Plan (ICTAP) - Are you a current or former federal employee who meets the definition of displaced from a position in the competitive service from a Federal agency outside of Department of Justice? If yes, confirm you meet all the following requirements: • You are located in the same local commuting area of the vacancy; • Your grade is/was equivalent to or below the grade level of the vacancy; • Your last performance rating of record is at least fully successful or the equivalent; • It has been less than a year from your separation from Federal service If you indicate "Yes" for this question, you MUST submit supporting documentation to validate your claim of CTAP eligibility such as a Reduction in Force (RIF) separation notice or a Certificate of Expected Separation (CES) AND a copy of your most recent annual performance appraisal, AND a copy of your most recent SF-50 (Notification of Personnel Action). For more information, https://www.usajobs.gov/help/working-in-government/unique-hiring-paths/federal-employees/career-transition/
+ Yes
+ No
+4.
+Reasonable Accommodations for taking the online assessments are provided on a case-by-case basis only to qualified individuals with a disability covered by the Rehabilitation Act of 1973, as amended. Do you have a disability (physical or mental) that you believe will interfere with completing the online assessments and require a Reasonable Accommodation?
+ Yes
+ No
+Preferences
+1.
+If you fail to answer this question, you will be disqualified from consideration for this position. I certify that, to the best of my knowledge and belief, all of the information included in this questionnaire is true, correct, and provided in good faith. I understand that if I make an intentional false statement, or commit deception or fraud in this application and its supporting materials, or in any document or interview associated with the examination process, I may be fined or imprisoned (18 U.S.C.)1001); my eligibilities may be canceled; I may be denied an appointment; or I may be removed and debarred from Federal service (5 C.F.R. Part 731). I understand that any information I give may be investigated. I understand that responding "No" to this item will result in my not being considered for this position.
+ Yes
+ No
+Essay Questions
+.
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+3.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+Location
+1.
+This position is located in Washington, DC. Are you physically able to report to the Audit Headquarters Office in Washington, DC?
+ Yes
+ No
+Min Quals
+.
+We will evaluate your resume and responses to this Assessment Questionnaire to determine if you are among the best qualified for this position. Your responses are subject to verification and must be supported by your resume and supporting documents.
+.
+Select “Yes” or “No” to the following question(s).
+1.
+Specialized Experience To qualify for this position at the GS-13 grade level, applicants must have at least one year of specialized experience at or above the GS-12 grade level. Specialized experience is defined as experience that is typically in or related to work of the position to be filled and has equipped and has equipped you with the particular knowledge, skills, and abilities to successfully perform the duties of the position. For this position your application must demonstrate the below experience: Serving as an applications engineer, solutions architect, and/or administrator for enterprise applications built using Power Platform or equivalent platforms, Designing, developing, and modifying Power Platform solutions to support changing business processes, and Applying database management best practices to ensure data integrity, performance, and security. Does your resume clearly show at least one year (52 weeks) of specialized experience at the GS-2210-12 IT Specialist?
+ Yes
+ No
+2.
+Your resume must demonstrate you have IT-related experience demonstrating each of the below competencies. Do NOT copy and paste the duties, specialized experience, or occupational assessment questionnaire from this announcement into your resume as that will not be considered a demonstration of your qualifications for this position. Your resume must describe your work and experience, in your own words. Attention to Detail - Is thorough when performing work and conscientious about attending to detail. Customer Service - Works with clients and customers (that is any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services. Decision Making - Makes sound, well-informed, and objective decisions; perceives the impact and implications of decisions; commits to action, even in uncertain situations, to accomplish organizational goals; causes change. Information Management - Identifies a need for and knows where or how to gather information; organizes and maintains information or information management systems. Interpersonal Skills - Shows understanding, friendliness, courtesy, tact, empathy, concern, and politeness to others; develops and maintains effective relationships with others; may include effectively dealing with individuals who are difficult, hostile, or distressed; relates well to people from varied backgrounds and different situations. Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately. Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations. Teamwork - Encourages and facilitates cooperation, pride, trust, and group identity; fosters commitment and team spirit; works with others to achieve goals. Technical Competence - Uses knowledge that is acquired through formal training or extensive on the job experience to perform one's job; works with, understands, and evaluates technical information related to the job; advises others on technical issues. Application Development - Uses programming languages to script and automate tasks; applies programming languages and skills across multiple platforms or frameworks. Enterprise Report Development - Rapidly develops customer facing visualizations, dashboards and reusable components using Power BI. Works in DataOps delivery environments such as Agile, Azure DevOps, GitLab, Business Intelligence and Data Analytics. Ability to integrate maps from ArcGIS into PBI dashboards, connect external data sets from APIs for dynamic data updates. Database Management Systems - Uses of database management systems and software to control the organization, storage, retrieval, routing, security, and integrity of data. Do you have IT-related experience demonstrating each of competencies above?
+ Yes
+ No

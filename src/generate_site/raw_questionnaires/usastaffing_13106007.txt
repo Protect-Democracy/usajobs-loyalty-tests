@@ -1,0 +1,91 @@
+Position Title
+INTERDISCIPLINARY (DATA SCIENTIST/ECONOMIST)
+Agency
+Pension Benefit Guaranty Corporation
+Announcement Number
+OPEA PRAD-RAPI-27-13106007
+Open Period
+Nov 03, 2026 to Nov 19, 2026
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+2.
+Are you requesting consideration under Direct-Hire Authority (DHA)? In order to be eligible, you must: • Be applying to a position for which OPM has authorized DHA based on a severe shortage of candidates or a critical hiring need . • Understand that veterans' preference does not apply under DHA. • Meet minimum qualification requirements for the position. • Meet applicable OPM qualification standards and any specialized experience or certification requirements listed in the announcement.
+ Yes
+ No
+Preferences
+1.
+Select the lowest grade you are willing to accept for this position.
+ 13
+ 14
+2.
+Select the series you want to be considered for. You must choose at least one series.
+ 0110 - Economist
+ 1560 - Data Science Series
+Merit Hiring Plan Essay Questions
+.
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+3.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+Four Essay Questions
+1.
+This position supports PBGC's mission and current priorities, including putting participants and beneficiaries first, modernizing our processes to meet the evolving needs of the defined benefit pension system, and fostering a collaborative and adaptable workforce . Describe how your skills and experience would help the agency advance those priorities in this role.
+AI Question
+1.
+Please describe your experience using super intelligence (SI) tools or technology in a professional or personal setting. Include examples of how you used SI to improve efficiency, decision-making, communication, research, analysis, or work products. Note: Your response will not be rated or used to determine your qualifications. It will be provided only to the hiring manager for consideration.
+Core Questions
+1.
+If you answered "other" to the previous question, please provide the resource here.
+2.
+Are you currently a contractor at PBGC?
+ Yes
+ No
+PBGC Employee
+1.
+Are you a current PBGC employee? (Note: you will be required to provide an SF-50 as proof.)
+ Yes
+ No
+Vacancy Questions
+.
+Specialized Experience: Applicants must have at least one year of specialized experience at the GS-12 grade level in the Federal service or equivalent to the GS-12 grade level in the private sector using original research, current economic theory and current statistical and econometric methods to analyze current policy, legislative and regulatory issues. Examples include: Using algorithmic and programmatic approaches incorporating SI enabled automation to clean, manipulate, and sub-set (i.e., shrinking a large database to benefit information storage) data for the purposes of analysis. Developing novel ways to analyze and identify trends and patterns in data using advanced mathematical, statistical, and / or algorithmic techniques. Conducting independent research into questions of economic significance and using advanced statistical and econometric techniques. Developing research studies or analytical projects to address relevant problems, using scientific methods. Researching relevant Internal Revenue Code, and policy issues related to defined benefit plan financial accounting and disclosure.
+.
+Select “Yes” or “No” to the following question(s).
+1.
+Do you have at least one year of specialized experience at the GS-12 grade level in the Federal service or equivalent to the GS-12 grade level in the private sector as described above?
+ Yes
+ No
+.
+Specialized Experience: Applicants must have at least one year of specialized experience at the GS-13 grade level in the Federal service or equivalent to the GS-13 grade level in the private sector using original research, current economic theory and current statistical and econometric methods to analyze current policy, legislative and regulatory issues. Examples include: Using algorithmic and programmatic approaches incorporating SI enabled automation to clean, manipulate, and sub-set (i.e., shrinking a large database to benefit information storage) data for the purposes of analysis. Developing novel ways to analyze and identify trends and patterns in data using advanced mathematical, statistical, and / or algorithmic techniques. Conducting independent research into questions of economic significance and using advanced statistical and econometric techniques. Developing research studies or analytical projects to address relevant problems, using the scientific method. Researching relevant Internal Revenue Code, and policy issues related to defined benefit plan financial accounting and disclosure.
+.
+Select “Yes” or “No” to the following question(s).
+2.
+Do you have at least one year of specialized experience at the GS-13 grade level in the Federal service or equivalent to the GS-13 grade level in the private sector as described above?
+ Yes
+ No
+3.
+Select the one response that best describes the education and/or experience you possess that demonstrates you meet the Basic Qualification Requirement for the Data Scientist position.
+ I have a bachelor's degree or higher in mathematics, statistics, computer science, data science, or a field directly related to the position.
+ I have completed at least 30 semester hours of coursework equivalent to a major in mathematics, statistics, computer science, data science, or a field directly related to the position, plus additional education or appropriate experience.
+ I do not meet either of the basic education requirements described above.
+4.
+Select the one response that best describes the education and/or experience you possess that demonstrates you meet the Basic Qualification Requirement for the Economist position.
+ I have a degree in economics that included at least 21 semester hours in economics and 3 semester hours in statistics, accounting, or calculus.
+ I have completed coursework equivalent to a major in economics, including at least 21 semester hours in economics and 3 semester hours in statistics, accounting, or calculus, plus appropriate professional experience or additional education.
+ I do not meet either of the basic education requirements described above.
