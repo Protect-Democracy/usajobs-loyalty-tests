@@ -1,0 +1,89 @@
+Position Title
+IT Specialist (CUSTSPT/INFOSEC)
+Agency
+Office of the Inspector General
+Announcement Number
+OIG-27-DE-13106041-DF
+Open Period
+Nov 04, 2026 to Nov 25, 2026
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+2.
+Reasonable Accommodations for taking the online assessments are provided on a case-by-case basis only to qualified individuals with a disability covered by the Rehabilitation Act of 1973, as amended. Do you have a disability (physical or mental) that you believe will interfere with completing the online assessments and require a Reasonable Accommodation?
+ Yes
+ No
+Preferences
+1.
+Select the lowest grade you are willing to accept for this position.
+ 5
+ 7
+ 9
+.
+Thank you for your continued interest in employment with the Office of Inspector General. We will evaluate your resume and your responses to this Assessment Questionnaire to determine if you are among the best qualified for this position. For each of the following questions, please select the response that best describes your education and/or experience. You may only select one response for each question. If you feel that your education and/or experience exceeds all of the descriptions for a particular question, choose the description that is the closest level to the experience or education that you possess. This is a Department of Homeland Security job application system. Your responses in this Assessment Questionnaire are subject to evaluation and verification. Later steps in the selection process are specifically designed to verify your responses. Deliberate attempts to falsify information will be grounds for disqualifying you or for dismissing you from employment following acceptance. Please review your responses for accuracy before you submit this application.
+2.
+A pre-employment drug screening is required. Are you willing to undergo a drug screen?
+ Yes
+ No
+3.
+If you are a male U.S. Citizen born after 31 December 1959, you are required to register with the Selective Service. Have you registered with the Selective Service? (Female applicants must select C.)
+ Yes
+ No
+ Not Applicable (I am either a female applicant, or male applicant born before 31 December 1959, or an applicant who meets exemptions under the Selective Service law)
+4.
+A comprehensive background investigation, including a check of your credit history, is required for this position. Are you willing to authorize the release of your consumer/credit reports to DHS/OIG in connection with your application for employment?
+ Yes
+ No
+5.
+Are you a current or former political Schedule A, Schedule C, Non-career SES or Presidential Appointee employee? If yes, please submit a copy of your applicable SF-50, along with a statement that provides the following information regarding your most recent political appointment: 1) Position title 2) Type of appointment (Schedule A, Schedule C, Non-career SES, or Presidential Appointee) 3) Agency 4) Beginning and ending dates of appointment
+ Yes
+ No
+Merit Hiring Plan Essay Questions
+.
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot.
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+3.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+Min Quals
+.
+Carefully read the following questions, and select the answer below that best describes your experience/education.
+1.
+Minimum Qualifications GS-05: Please select the response that best describes your experience. You may only select one response. If you feel that your experience exceeds the description, choose the description that is the closest level to the experience you possess.
+ I possess at least one year of specialized experience equivalent to GS-04 grade level in the Federal service; Providing support for devices, software, printers, VoIP, and connectivity issues while following security procedures and escalating unresolved concerns, assisting with accounts, passwords, permissions, device setup, imaging, inventory, and tickets while verifying identity and protecting credentials and recording service requests, update support documentation, assist with secure equipment disposal, and report potential security concerns.
+ I have successfully completed a 4-year course of study leading to a bachelor's degree education from an accredited college or university.
+ I possess a combination of education and experience; successful completion of three years of undergraduate level education and 1 year of specialized experience, which may be used to meet total experience requirements for this grade level.
+ I do not have education or experience as described above.
+2.
+Minimum Qualifications GS-07: Please select the response that best describes your experience. You may only select one response. If you feel that your experience exceeds the description, choose the description that is the closest level to the experience you possess.
+ I have at least one year of specialized experience equivalent to GS-05 grade level in the Federal service; troubleshooting user devices, software, printers, VoIP, and network-access issues while applying security controls and escalating complex concerns, supporting accounts, permissions, imaging, software deployment, inventory, and ticket management while documenting actions and following access requirements and maintaining service records, knowledge articles, and asset information while documenting security symptoms and promoting secure IT practices.
+ I have successfully completed 1 full year of graduate level education or superior academic achievement, from an accredited college or university.
+ I possess a combination of education and experience; successful completion of one year of graduate level education and specialized experience, which may be used to meet total experience requirements for this grade level.
+ I do not have education or experience as described above.
+3.
+Minimum Qualifications GS-09: Please select the response that best describes your experience. You may only select one response. If you feel that your experience exceeds the description, choose the description that is the closest level to the experience you possess.
+ I have at least one year of specialized experience equivalent to GS-07 grade level in the Federal service; resolving issues with devices, software, printers, VoIP, and network connectivity while enforcing data-protection standards and escalating security anomalies, administering accounts, permissions, imaging, configurations, ITSM workflows, and asset records while meeting access-control, audit, and sanitation requirements and updating support procedures and FAQs, escalate security-related incidents, and provide safe-computing guidance.
+ I have successfully completed a master's degree (or 2 full years of progressively higher-level graduate education) from an accredited college or university.
+ I posses a combination of education and experience; successful completion of one year of graduate level education and specialized experience, which may be used to meet total experience requirements for this grade level.
+ I do not have education or experience as described above.
+.
+Select “Yes” or “No” to the following question(s).
+4.
+Certification of Accuracy: Your responses in this Assessment Questionnaire are subject to evaluation and verification. Later steps in the selection process are specifically designed to verify your responses. Deliberate attempts to falsify information will be grounds for disqualifying you or for dismissing you from employment following acceptance. Please take this opportunity to review your responses to ensure their accuracy. If you fail to answer this question, you will be disqualified from consideration for this position. I certify that, to the best of my knowledge and belief, all of the information included in this questionnaire is true, correct, and provided in good faith. I understand that if I make an intentional false statement, or commit deception or fraud in this application and its supporting materials, or in any document or interview associated with the examination process, I may be fined or imprisoned (18 U.S.C. 1001); my eligibilities may be canceled. I may be denied an appointment, or I may be removed and debarred from Federal service (5 C.F.R. part 731). I understand that any information I give may be investigated. I understand that responding "No" to this item will result in my not being considered for this position.
+ Yes
+ No
