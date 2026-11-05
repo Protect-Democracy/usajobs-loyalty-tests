@@ -1,0 +1,31 @@
+Position Title
+HR SPEC (INFORMATION SYSTEMS/MILITARY) - TITLE 5
+Agency
+Air National Guard Units
+Announcement Number
+KY-13064324-AF-26-208
+Open Period
+Nov 04, 2026 to Nov 19, 2026
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+Preferences
+1.
+Select the lowest grade you are willing to accept for this position.
+ 9
+ 11
+2.
+Are you a military retiree at the rank of major, lieutenant commander, or higher AND receiving military retirement pay? NOTE: Military retirees at the rank of major, lieutenant commander, or higher are not eligible for preference in appointment unless they are disabled veterans. (This does not apply to Reservists who will not begin drawing military retired pay until age 60.)
+ Yes
+ No
+3.
+Use the appropriate question based on AOC (be sure to use the correct branch/terms): AREA 1 - Are you a current federal employee/technician within Kentucky Air/Army National Guard (T32 and T5, with permanent, conditional or indefinite tenure)? AREA 2 - Are you a current or former member of the Kentucky Air/Army National Guard? AREA 3 - Are you a current federal employee (with permanent, conditional or indefinite tenure)? AREA 4 - Are you a U.S. citizen?
+ Yes
+ No
