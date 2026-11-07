@@ -1,43 +1,45 @@
 {
-  "date": "2026-11-06",
-  "open_postings": 13138,
+  "date": "2026-11-07",
+  "open_postings": 12976,
   "listed_postings_not_in_job_data": 0,
-  "links_added": 5,
+  "links_added": 7,
   "links_removed": 0,
-  "postings_no_longer_listed": 93,
-  "questionnaires": 12336,
-  "fetched_ok": 12084,
-  "failed": 0,
-  "skipped_blocked_domain": 251,
-  "changed_today": 217,
-  "with_loyalty_q": 11,
-  "with_new_wording": 5304,
-  "with_question_5": 16,
+  "postings_no_longer_listed": 62,
+  "questionnaires": 12161,
+  "fetched_ok": 11503,
+  "failed": 416,
+  "skipped_blocked_domain": 241,
+  "changed_today": 184,
+  "with_loyalty_q": 12,
+  "with_new_wording": 5231,
+  "with_question_5": 15,
   "questionnaires_with_struck_through_text": 6,
-  "open_postings_with_loyalty_q": 12,
-  "open_postings_with_question_5": 15,
-  "open_postings_with_possible_variant": 3,
-  "open_postings_reopened": 230,
+  "open_postings_with_loyalty_q": 13,
+  "open_postings_with_question_5": 14,
+  "open_postings_with_possible_variant": 4,
+  "open_postings_reopened": 228,
   "open_postings_reopened_today_with_loyalty_q": 0,
   "open_postings_not_listed_today": 1,
   "open_postings_not_listed_today_with_loyalty_q": 0,
   "unlisted_outcomes": {
-    "closed_early": 93,
+    "closed_early": 62,
     "kept_page_open": 1
   },
-  "blocked_portal_last_checked": "2026-11-06",
+  "blocked_portal_last_checked": "2026-11-07",
   "blocked_portal_check": {
-    "questionnaires": 251,
-    "ok": 251,
+    "questionnaires": 241,
+    "ok": 241,
     "failed": 0,
     "error": ""
   },
   "usastaffing_id_scan": {
-    "date": "2026-11-05",
+    "date": "2026-11-06",
     "finished": true,
-    "summary": "scanned to 13,111,230: {'missing': 2630, 200: 686}",
-    "new": 686
+    "summary": "scanned to 13,112,544: {'missing': 2609, 200: 750}",
+    "new": 750
   },
   "open_postings_with_loyalty_q_checked_before_yesterday": 0,
-  "warnings": []
+  "warnings": [
+    "416 questionnaires couldn't be fetched today; they keep their last re-checked flags."
+  ]
 }
