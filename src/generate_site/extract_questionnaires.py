@@ -23,7 +23,7 @@ from questionnaire_utils import (
     infer_questionnaire_url_from_announcement, discover_questionnaire_url_from_usajobs_posting,
     questionnaire_text_matches_announcement, questionnaire_links_for_posting,
     load_known_bad_urls, append_known_bad_url, fetch_usastaffing_questionnaire,
-    is_blocked_portal,
+    is_blocked_portal, is_monster_url, monster_on_new_host,
 )
 
 # job_fields lives one level up in src/ so the collector and the site scripts
@@ -177,7 +177,7 @@ def scrape_questionnaire(url, output_dir, timeout_seconds=60, headless=True, ses
     
     # Transform Monster URLs to preview format
     url = transform_monster_url(url)
-    if 'monstergovt.com' in url and '/vacancy/previewVacancyQuestions.hms' in url:
+    if is_monster_url(url) and '/vacancy/previewVacancyQuestions.hms' in url:
         print(f"  Transformed Monster URL to preview: {url}")
     
     # Get filename for this questionnaire
@@ -192,7 +192,7 @@ def scrape_questionnaire(url, output_dir, timeout_seconds=60, headless=True, ses
     start_time = time.time()
     
     # Use requests for Monster preview URLs (they don't require JavaScript)
-    if 'monstergovt.com' in url and '/vacancy/previewVacancyQuestions.hms' in url:
+    if is_monster_url(url) and '/vacancy/previewVacancyQuestions.hms' in url:
         try:
             print(f"  Scraping Monster preview URL with requests...")
             headers = {
@@ -200,6 +200,17 @@ def scrape_questionnaire(url, output_dir, timeout_seconds=60, headless=True, ses
             }
             
             response = requests.get(url, headers=headers, timeout=timeout_seconds)
+            # Agencies that moved to jobs.applygovt.net (2026-11-07; see
+            # questionnaire_utils.MONSTER_NEW_HOST) send the old address to an
+            # "Access Error" page. Try the same page on the new host before
+            # judging (and blacklisting) the old one.
+            moved = monster_on_new_host(url)
+            if moved != url and (response.status_code != 200
+                                 or re.search(r'<title[^>]*>[^<]*access error', response.text, re.IGNORECASE)
+                                 or len(' '.join(re.sub(r'<[^>]+>', ' ', re.sub(
+                                     r'<(script|style)[^>]*>.*?</\1>', '', response.text, flags=re.DOTALL)).split())) < 500):
+                print(f"    Old Monster host refused; trying {moved}")
+                response = requests.get(moved, headers=headers, timeout=timeout_seconds)
             
             if response.status_code == 200:
                 # Extract text from HTML
