@@ -822,7 +822,92 @@ def test_refresh_adds_questionnaires_whose_control_number_is_the_postings():
     assert got == [(1, '11', True), (3, '33', True), (3, '7', False)]
 
 
+
+class _FakeResp:
+    def __init__(self, status, text):
+        self.status_code, self.text = status, text
+
+
+_QUESTIONNAIRE_HTML = ('<html><head><title>Seeker - Vacancy - Questions Preview</title></head><body>'
+                       + 'Which response best describes your highest level of responsibility installing, '
+                       'maintaining, modifying, or repairing instrumentation and control systems? ' * 8
+                       + '</body></html>')
+_ACCESS_ERROR_HTML = ('<html><head><title>Seeker - Access Error</title></head><body>'
+                      + 'All AOC vacancies are posted on USAJOBS. Please refer to the USAJOBS link below. ' * 10
+                      + '</body></html>')
+
+
+def _fake_get(pages, calls):
+    def get(url, **kwargs):
+        calls.append(url)
+        return pages.get(url, _FakeResp(404, ''))
+    return get
+
+
+def test_monster_transform_keeps_the_host():
+    assert questionnaire_utils.transform_monster_url(
+        'https://jobs.monstergovt.com/aoc/ros/rosDashboard.hms?O=1749&J=148170'
+    ) == 'https://jobs.monstergovt.com/aoc/vacancy/previewVacancyQuestions.hms?orgId=1749&jnum=148170'
+    assert questionnaire_utils.transform_monster_url(
+        'https://jobs.applygovt.net/aoc/ros/rosDashboard.hms?O=1749&J=148170'
+    ) == 'https://jobs.applygovt.net/aoc/vacancy/previewVacancyQuestions.hms?orgId=1749&jnum=148170'
+    assert questionnaire_utils.is_monster_url('https://jobs.applygovt.net/x')
+    assert not questionnaire_utils.is_blocked_portal('https://jobs.applygovt.net/x/vacancy/previewVacancyQuestions.hms?jnum=1')
+
+
+def test_recheck_follows_an_agency_to_applygovt():
+    # 2026-11-07: Architect of the Capitol, State, DOT and others moved to
+    # jobs.applygovt.net; the old address lands on "Access Error" (or a 93-char
+    # page), and 416 of 496 Monster questionnaires failed the re-check.
+    import refresh_open_questionnaires as r
+    old = 'https://jobs.monstergovt.com/aoc/vacancy/previewVacancyQuestions.hms?orgId=1749&jnum=148170'
+    new = old.replace('jobs.monstergovt.com', 'jobs.applygovt.net')
+    original_get, original_sleep = r.requests.get, r.time.sleep
+    try:
+        r.time.sleep = lambda s: None
+        for old_page in (_FakeResp(200, _ACCESS_ERROR_HTML), _FakeResp(200, '<html>tiny</html>')):
+            calls = []
+            r.requests.get = _fake_get({old: old_page, new: _FakeResp(200, _QUESTIONNAIRE_HTML)}, calls)
+            text = r.fetch_monster('https://jobs.monstergovt.com/aoc/ros/rosDashboard.hms?O=1749&J=148170')
+            assert text and 'instrumentation and control systems' in text, calls
+            assert calls[-1] == new
+        # An agency still on the old host is fetched there, once.
+        calls = []
+        r.requests.get = _fake_get({old: _FakeResp(200, _QUESTIONNAIRE_HTML)}, calls)
+        assert r.fetch_monster(old)
+        assert calls == [old]
+        # An Access Error page is never a questionnaire, however long.
+        calls = []
+        r.requests.get = _fake_get({old: _FakeResp(200, _ACCESS_ERROR_HTML), new: _FakeResp(200, _ACCESS_ERROR_HTML)}, calls)
+        assert r.fetch_monster(old) is None
+    finally:
+        r.requests.get, r.time.sleep = original_get, original_sleep
+
+
+def test_new_questionnaire_scrape_tries_applygovt_before_blacklisting():
+    # 2026-11-07: 13 new Monster questionnaires on moved agencies were
+    # blacklisted as "Content too small" because only the old host was tried.
+    import extract_questionnaires as e
+    old = 'https://jobs.monstergovt.com/dos/vacancy/previewVacancyQuestions.hms?orgId=6&jnum=119591'
+    new = old.replace('jobs.monstergovt.com', 'jobs.applygovt.net')
+    path = _with_temp_known_bad()
+    original_get = e.requests.get
+    try:
+        calls = []
+        e.requests.get = _fake_get({old: _FakeResp(200, '<html>tiny</html>'), new: _FakeResp(200, _QUESTIONNAIRE_HTML)}, calls)
+        with tempfile.TemporaryDirectory() as d:
+            text = e.scrape_questionnaire(old, d)
+        assert text and 'instrumentation and control systems' in text
+        assert calls == [old, new]
+        assert old not in open(path).read()
+    finally:
+        e.requests.get = original_get
+        os.unlink(path)
+
 TESTS = [
+    test_monster_transform_keeps_the_host,
+    test_recheck_follows_an_agency_to_applygovt,
+    test_new_questionnaire_scrape_tries_applygovt_before_blacklisting,
     test_usastaffing_id_scan_walks_to_the_end_and_stops_when_blocked,
     test_refresh_adds_questionnaires_whose_control_number_is_the_postings,
     test_announcement_guess_only_for_postings_that_apply_through_usastaffing,

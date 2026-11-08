@@ -19,23 +19,42 @@ BROWSER_HEADERS = {
 }
 
 
+# Monster's federal hiring portal. On 2026-11-07 several agencies' sites
+# (Treasury HR "hment", State, DOT, Architect of the Capitol, Library of
+# Congress, Copyright Office, NIST academic programs, FCC, FDIC) moved from
+# jobs.monstergovt.com to jobs.applygovt.net: the old address answers with a
+# 307 to the new host and then an "Access Error" page, so 416 of 496 Monster
+# questionnaires failed that day's re-check. GSA and CFTC still answer on the
+# old host. A questionnaire keeps the URL it was first seen under (that is its
+# identity in current_status.csv); only the fetch follows the move.
+MONSTER_OLD_HOST = 'jobs.monstergovt.com'
+MONSTER_NEW_HOST = 'jobs.applygovt.net'
+MONSTER_HOSTS = (MONSTER_OLD_HOST, MONSTER_NEW_HOST)
+_MONSTER_HOST_RE = r'jobs\.(?:monstergovt\.com|applygovt\.net)'
+
+
+def is_monster_url(url):
+    return any(h in url for h in MONSTER_HOSTS)
+
+
+def monster_on_new_host(url):
+    """The same Monster address on jobs.applygovt.net."""
+    return url.replace(MONSTER_OLD_HOST, MONSTER_NEW_HOST)
+
+
 def transform_monster_url(url):
-    """Transform Monster dashboard URL to preview format"""
-    if 'monstergovt.com' in url and '/ros/rosDashboard.hms' in url:
+    """Transform Monster dashboard URL to preview format, on the host it came from"""
+    if is_monster_url(url) and '/ros/rosDashboard.hms' in url:
         # Handle both /ros/rosDashboard and /nga/ros/rosDashboard patterns
-        match = re.search(r'https://jobs\.monstergovt\.com/([^/]+)/(?:nga/)?ros/rosDashboard\.hms\?O=(\d+)&J=(\d+)', url)
+        match = re.search(r'https://(' + _MONSTER_HOST_RE + r')/([^/]+)/(?:nga/)?ros/rosDashboard\.hms\?O=(\d+)&J=(\d+)', url)
         if match:
-            subdomain = match.group(1)
-            org_id = match.group(2)
-            job_num = match.group(3)
-            return f'https://jobs.monstergovt.com/{subdomain}/vacancy/previewVacancyQuestions.hms?orgId={org_id}&jnum={job_num}'
-    elif 'monstergovt.com' in url and '/rospost/' in url:
-        match = re.search(r'https://jobs\.monstergovt\.com/([^/]+)/rospost/\?O=(\d+)&J=(\d+)', url)
+            host, subdomain, org_id, job_num = match.groups()
+            return f'https://{host}/{subdomain}/vacancy/previewVacancyQuestions.hms?orgId={org_id}&jnum={job_num}'
+    elif is_monster_url(url) and '/rospost/' in url:
+        match = re.search(r'https://(' + _MONSTER_HOST_RE + r')/([^/]+)/rospost/\?O=(\d+)&J=(\d+)', url)
         if match:
-            subdomain = match.group(1)
-            org_id = match.group(2)
-            job_num = match.group(3)
-            return f'https://jobs.monstergovt.com/{subdomain}/vacancy/previewVacancyQuestions.hms?orgId={org_id}&jnum={job_num}'
+            host, subdomain, org_id, job_num = match.groups()
+            return f'https://{host}/{subdomain}/vacancy/previewVacancyQuestions.hms?orgId={org_id}&jnum={job_num}'
     return url
 
 
@@ -45,7 +64,7 @@ def extract_questionnaire_id(url):
         match = re.search(r'ViewQuestionnaire/(\d+)', url)
         file_id = match.group(1) if match else 'unknown'
         return 'usastaffing', file_id
-    elif 'monstergovt.com' in url:
+    elif is_monster_url(url):
         # Try jnum first
         match = re.search(r'jnum=(\d+)', url)
         if not match:
@@ -333,7 +352,7 @@ def is_blocked_portal(url):
     """True for a questionnaire that plain requests and headless browsers can't read:
     anything that isn't a USAStaffing or Monster questionnaire, e.g. jobs.faa.gov.
     Only a real Chrome window gets through (recheck_blocked_portals.py)."""
-    return 'apply.usastaffing.gov/ViewQuestionnaire/' not in url and 'monstergovt.com' not in url
+    return 'apply.usastaffing.gov/ViewQuestionnaire/' not in url and not is_monster_url(url)
 
 
 def load_known_bad_urls(path=None):

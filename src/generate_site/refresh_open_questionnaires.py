@@ -88,6 +88,8 @@ from questionnaire_utils import (  # noqa: E402
     is_blocked_portal,
     load_known_bad_urls,
     questionnaire_json_to_text,
+    is_monster_url,
+    monster_on_new_host,
     transform_monster_url,
 )
 
@@ -594,14 +596,20 @@ def write_open_postings(jobs, status, path, link_in_posting_ids, kept_unlisted=N
     return out
 
 
-def fetch_monster(url):
+def _monster_page_text(preview_url):
+    """The questionnaire text of one Monster preview page, or None. An "Access
+    Error" page (what a moved agency's old address lands on) is not a
+    questionnaire, however long it is."""
     for attempt in range(3):
         try:
-            resp = requests.get(transform_monster_url(url), headers=BROWSER_HEADERS, timeout=30)
+            resp = requests.get(preview_url, headers=BROWSER_HEADERS, timeout=30)
         except requests.RequestException:
             time.sleep(2 * (attempt + 1))
             continue
         if resp.status_code == 200:
+            title = re.search(r'<title[^>]*>(.*?)</title>', resp.text, flags=re.DOTALL | re.IGNORECASE)
+            if title and 'access error' in title.group(1).lower():
+                return None
             # Same cleanup extract_questionnaires.scrape_questionnaire applies to Monster pages.
             text = re.sub(r'<script[^>]*>.*?</script>', '', resp.text, flags=re.DOTALL)
             text = re.sub(r'<style[^>]*>.*?</style>', '', text, flags=re.DOTALL)
@@ -610,6 +618,17 @@ def fetch_monster(url):
             return text if len(text) >= 500 else None
         time.sleep(2 * (attempt + 1))
     return None
+
+
+def fetch_monster(url):
+    """Fetch on the address's own host; if that fails and it's the old host,
+    try the same page on jobs.applygovt.net (see questionnaire_utils
+    MONSTER_NEW_HOST: agencies moved there on 2026-11-07)."""
+    preview = transform_monster_url(url)
+    text = _monster_page_text(preview)
+    if text is None and monster_on_new_host(preview) != preview:
+        text = _monster_page_text(monster_on_new_host(preview))
+    return text
 
 
 def fetch(url, linked_ids=(), verify=False, announcements=(), owners=None):
@@ -632,7 +651,7 @@ def fetch(url, linked_ids=(), verify=False, announcements=(), owners=None):
                     and (own.get('announcementNumber') or '') not in announcements):
                 return 'not_this_posting', None
         text = questionnaire_json_to_text(raw) if raw is not None else None
-    elif 'monstergovt.com' in url:
+    elif is_monster_url(url):
         text = fetch_monster(url)
     else:
         return 'skipped_blocked_domain', None
