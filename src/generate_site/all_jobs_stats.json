@@ -1,27 +1,27 @@
 {
   "metadata": {
-    "total_jobs": 320129,
+    "total_jobs": 320136,
     "cutoff_date": "2025-06-01",
-    "generation_date": "2026-11-07T10:23:28.285967"
+    "generation_date": "2026-11-08T10:37:25.366382"
   },
   "by_service_type": {
-    "Competitive": 204149,
-    "Excepted": 114171,
+    "Competitive": 204152,
+    "Excepted": 114175,
     "Senior Executive": 1809
   },
   "by_grade_level": {
-    "GS-12": 26785,
+    "GS-12": 26786,
     "GS-13": 24591,
     "GS-11": 17415,
     "VN-00": 16489,
-    "GS-9": 13920,
+    "GS-9": 13921,
     "GS-14": 13859,
-    "GS-7": 12168,
+    "GS-7": 12169,
     "GS-6": 10730,
     "GS-9/11": 7807,
     "VM-15": 7411,
     "GS-15": 7214,
-    "GS-5": 7130,
+    "GS-5": 7131,
     "WG-10": 5729,
     "NF-2": 4956,
     "GS-8": 4384,
@@ -29,7 +29,7 @@
     "NF-3": 3891,
     "GS-3/6": 3888,
     "GS-3/5": 3359,
-    "NF-4": 3242
+    "NF-4": 3243
   },
   "by_location": {
     "Washington, District of Columbia": 16706,
@@ -42,7 +42,7 @@
     "Los Angeles, California": 1672,
     "Alexandria, Virginia": 1667,
     "San Antonio, Texas": 1632,
-    "Portland, Oregon": 1614,
+    "Portland, Oregon": 1615,
     "Fort Bragg, North Carolina": 1549,
     "Anchorage, Alaska": 1520,
     "Pentagon, Arlington, Virginia": 1511,
@@ -55,10 +55,10 @@
   },
   "by_agency": {
     "Department of Veterans Affairs": 104261,
-    "Department of the Air Force": 36262,
-    "Department of the Navy": 35000,
-    "Department of the Army": 32718,
-    "Department of Defense": 31096,
+    "Department of the Air Force": 36263,
+    "Department of the Navy": 35001,
+    "Department of the Army": 32720,
+    "Department of Defense": 31098,
     "Department of Justice": 16193,
     "Department of Homeland Security": 15628,
     "Other Agencies and Independent Organizations": 8827,
@@ -72,29 +72,29 @@
     "Department of Energy": 2153,
     "Department of State": 1238,
     "Department of Labor": 1080,
-    "National Aeronautics and Space Administration": 928,
+    "National Aeronautics and Space Administration": 929,
     "Judicial Branch": 781
   },
   "by_occupation": {
-    "0610 - Nurse": 18253,
+    "0610 - Nurse": 18254,
     "0301 - Miscellaneous Administration And Program": 13016,
     "0602 - Medical Officer": 8697,
     "2210 - Information Technology Management": 8545,
     "0343 - Management And Program Analysis": 8516,
     "0185 - Social Work": 7756,
     "0303 - Miscellaneous Clerk And Assistant": 6862,
-    "0679 - Medical Support Assistance": 6702,
+    "0679 - Medical Support Assistance": 6703,
     "1101 - General Business And Industry": 6281,
     "1702 - Education And Training Technician": 5365,
     "0189 - Recreation Aid And Assistant": 5298,
-    "None - Unknown": 5296,
-    "0201 - Human Resources Management": 4741,
+    "None - Unknown": 5295,
+    "0201 - Human Resources Management": 4742,
     "0620 - Practical Nurse": 4451,
-    "0801 - General Engineering": 4272,
+    "0801 - General Engineering": 4273,
     "0180 - Psychology": 3957,
     "0640 - Health Aid And Technician": 3742,
     "0905 - Attorney": 3698,
     "0501 - Financial Administration And Program": 3274,
-    "0101 - Social Science": 3216
+    "0101 - Social Science": 3217
   }
 }
