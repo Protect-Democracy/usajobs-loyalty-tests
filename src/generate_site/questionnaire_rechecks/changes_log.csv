@@ -6613,3 +6613,12 @@ date,questionnaire_url,change,had_loyalty_q,has_loyalty_q,had_new_wording,has_ne
 2026-11-08,https://jobs.monstergovt.com/loc/ros/rosDashboard.hms?O=1&J=27886,first_seen,,False,,False,,False,questionnaire_rechecks/2026-11-08/monster_27886.txt
 2026-11-08,https://jobs.monstergovt.com/loc/ros/rosDashboard.hms?O=1&J=27895,first_seen,,False,,False,,False,questionnaire_rechecks/2026-11-08/monster_27895.txt
 2026-11-08,https://jobs.monstergovt.com/loc/ros/rosDashboard.hms?O=1&J=27899,first_seen,,False,,False,,False,questionnaire_rechecks/2026-11-08/monster_27899.txt
+2026-11-09,https://apply.usastaffing.gov/ViewQuestionnaire/13093251,changed,False,False,False,False,False,False,questionnaire_rechecks/2026-11-09/usastaffing_13093251.txt
+2026-11-09,https://apply.usastaffing.gov/ViewQuestionnaire/13108897,changed,False,False,False,False,False,False,questionnaire_rechecks/2026-11-09/usastaffing_13108897.txt
+2026-11-09,https://apply.usastaffing.gov/ViewQuestionnaire/13110348,first_seen,,False,,False,,False,questionnaire_rechecks/2026-11-09/usastaffing_13110348.txt
+2026-11-09,https://apply.usastaffing.gov/ViewQuestionnaire/13110710,changed,False,False,False,False,False,False,questionnaire_rechecks/2026-11-09/usastaffing_13110710.txt
+2026-11-09,https://apply.usastaffing.gov/ViewQuestionnaire/13112194,first_seen,,False,,True,,False,questionnaire_rechecks/2026-11-09/usastaffing_13112194.txt
+2026-11-09,https://apply.usastaffing.gov/ViewQuestionnaire/13112671,first_seen,,False,,False,,False,questionnaire_rechecks/2026-11-09/usastaffing_13112671.txt
+2026-11-09,https://jobs.faa.gov/Preview/101204,changed,False,False,True,True,False,False,questionnaire_rechecks/2026-11-09/faa_101204.txt
+2026-11-09,https://jobs.faa.gov/Preview/101280,changed,False,False,True,True,False,False,questionnaire_rechecks/2026-11-09/faa_101280.txt
+2026-11-09,https://jobs.faa.gov/Preview/101281,changed,False,False,True,True,False,False,questionnaire_rechecks/2026-11-09/faa_101281.txt
