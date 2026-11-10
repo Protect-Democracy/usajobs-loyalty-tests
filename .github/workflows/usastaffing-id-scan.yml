@@ -1,0 +1,114 @@
+name: USAStaffing ID Scan
+
+# Records which posting each new USAStaffing questionnaire belongs to
+# (scan_usastaffing_ids.py -> questionnaire_rechecks/usastaffing_ids.csv), so the
+# daily refresh (Daily Questionnaire Analysis, 09:00 UTC) can find questionnaires
+# that postings don't link, before the Loyalty Q email goes out.
+#
+# Why its own workflow, early, with retries (2026-11-10): the scan used to run at
+# the end of the daily analysis, after the refresh, so the email always used the
+# previous day's scan. On 2026-11-09 USAStaffing refused that runner (403) after
+# ~520 requests; the 2026-11-10 email went out warning that postings may be
+# missing a questionnaire, and 30 open postings it listed with none had one in
+# the next scan (none with the Loyalty Q). Blocks are per runner and short-lived:
+# the next day's scan, on another runner, finished. So this runs at 06:30 UTC on
+# its own runner (a block here can't reach the refresh's or the jobs.faa.gov
+# check's runner; on 2026-10-28 a blocked scan didn't affect them), and if it's
+# blocked it waits 10 minutes and re-dispatches itself on a fresh runner, up to
+# MAX_ATTEMPTS, all before the 09:00 refresh. Each attempt resumes where the
+# table ends (the scanner re-tries the last 2,000 IDs it doesn't have), and keeps
+# what it found. If every attempt is blocked, usastaffing_ids_last_scan.json says
+# so and the refresh's last_run.json warns (so does the email).
+
+on:
+  schedule:
+    - cron: '30 6 * * *'  # 1:30 AM EST; data update is 07:00, the refresh 09:00
+  workflow_dispatch:
+    inputs:
+      attempt:
+        description: "Attempt number (re-dispatches set this; leave at 1)"
+        default: '1'
+
+permissions:
+  contents: write
+  pull-requests: write
+  actions: write  # re-dispatch this workflow after a block
+
+concurrency:
+  group: usastaffing-id-scan
+  cancel-in-progress: false
+
+env:
+  MAX_ATTEMPTS: 3
+  RETRY_WAIT_SECONDS: 600
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35  # scan (<=15) + wait (10) + commit; 3 attempts end by 08:15
+    steps:
+    - name: Checkout the scanner and its table only
+      # The full repo is ~265k questionnaire files; the scanner needs none of them.
+      uses: actions/checkout@v4
+      with:
+        ref: main
+        sparse-checkout: |
+          .github/scripts
+          src/generate_site/scan_usastaffing_ids.py
+          src/generate_site/questionnaire_utils.py
+          src/generate_site/questionnaire_rechecks/usastaffing_ids.csv
+          src/generate_site/questionnaire_rechecks/usastaffing_ids_last_scan.json
+        sparse-checkout-cone-mode: false
+
+    - uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+
+    - name: Install the scanner's dependencies
+      run: pip install pandas==2.3.0 requests==2.32.4
+
+    - name: Scan new USAStaffing questionnaire IDs
+      id: scan
+      timeout-minutes: 15  # ~3,000 requests at 2 workers
+      run: |
+        cd src/generate_site
+        set +e
+        python scan_usastaffing_ids.py
+        code=$?
+        set -e
+        echo "code=$code" >> "$GITHUB_OUTPUT"
+        # 2 = USAStaffing refused requests (403); what was found is still saved.
+        if [ "$code" -ne 0 ] && [ "$code" -ne 2 ]; then exit "$code"; fi
+
+    - name: Commit the table to main
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        git config user.name "GitHub Actions Bot"
+        git config user.email "actions@github.com"
+        F=src/generate_site/questionnaire_rechecks
+        git add "$F/usastaffing_ids.csv" "$F/usastaffing_ids_last_scan.json"
+        if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+        git checkout -B usastaffing-ids
+        git commit -m "USAStaffing ID scan - $(date -u +%Y-%m-%d) (attempt ${{ inputs.attempt || '1' }})"
+        git push -f origin usastaffing-ids
+        source .github/scripts/gh_api_retry.sh
+        ensure_pr usastaffing-ids "USAStaffing ID scan - $(date -u +%Y-%m-%d)" "Automated USAStaffing questionnaire ID scan"
+        PR_NUMBER=$(gh pr list --base main --head usastaffing-ids --json number --jq '.[0].number')
+        merge_pr "$PR_NUMBER" --merge --admin
+
+    - name: Retry on a fresh runner if USAStaffing refused this one
+      if: steps.scan.outputs.code == '2'
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        ATTEMPT: ${{ inputs.attempt || '1' }}
+      run: |
+        if [ "$ATTEMPT" -ge "$MAX_ATTEMPTS" ]; then
+          echo "::warning::USAStaffing refused the scan on all $MAX_ATTEMPTS attempts; today's refresh will warn."
+          exit 0
+        fi
+        echo "Blocked on attempt $ATTEMPT; retrying in $RETRY_WAIT_SECONDS s on a fresh runner"
+        sleep "$RETRY_WAIT_SECONDS"
+        source .github/scripts/gh_api_retry.sh
+        gh_retry gh workflow run usastaffing-id-scan.yml --ref main -f attempt=$((ATTEMPT + 1))
