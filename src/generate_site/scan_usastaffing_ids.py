@@ -12,8 +12,11 @@ found questionnaires for 187 such postings.
 Each run re-tries the last RESCAN IDs it doesn't have (an ID can be taken before its
 questionnaire is published) and goes on until STOP_AFTER IDs in a row don't exist:
 about 3,000 requests a day. USAStaffing refused a runner after ~1,700 requests at 4
-workers (2026-10-28), so it runs with 2, after the daily refresh. It
-stops early, keeping what it found, if USAStaffing starts refusing requests (403).
+workers (2026-10-28), so it runs with 2. It stops early, keeping what it found, if
+USAStaffing starts refusing requests (403), and exits 2. It runs in its own workflow
+(.github/workflows/usastaffing-id-scan.yml) at 06:30 UTC, before the daily refresh,
+which re-dispatches it on a fresh runner after a block; blocks are per runner (on
+2026-11-09 one was refused after ~520 requests; the next day's runner finished).
 Rows whose close date is more than KEEP_DAYS past are dropped.
 """
 import argparse

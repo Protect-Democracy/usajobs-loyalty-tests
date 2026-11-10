@@ -791,6 +791,55 @@ def test_usastaffing_id_scan_walks_to_the_end_and_stops_when_blocked():
         sc.lookup, sc.RESCAN, sc.STOP_AFTER, sc.BATCH = old
 
 
+
+def test_scan_warning_expects_todays_scan():
+    """2026-11-10: the ID scan moved before the refresh (usastaffing-id-scan.yml), so the
+    refresh warns unless today's scan finished -- a scan from yesterday means the early
+    workflow didn't run, and an unfinished one means every retry was refused."""
+    import refresh_open_questionnaires as r
+    from datetime import date
+    status = pd.DataFrame(columns=r.STATUS_COLUMNS)
+    quiet = {'open_postings_not_listed_today': 0, 'open_postings_not_listed_today_with_loyalty_q': 0,
+             'open_postings_with_loyalty_q_checked_before_yesterday': 0, 'failed': 0}
+    today = date(2026, 11, 11)
+    ok = {'date': '2026-11-11', 'finished': True, 'summary': 'scanned to 1', 'new': 600}
+    assert r.run_warnings(quiet | {'usastaffing_id_scan': ok}, status, today) == []
+    w = r.run_warnings(quiet | {'usastaffing_id_scan': ok | {'date': '2026-11-10'}}, status, today)
+    assert len(w) == 1 and "hasn't run since 2026-11-10" in w[0], w
+    blocked = ok | {'finished': False, 'summary': 'stopped at 1: USAStaffing refused requests (403)'}
+    w = r.run_warnings(quiet | {'usastaffing_id_scan': blocked}, status, today)
+    assert len(w) == 1 and "didn't finish on 2026-11-11" in w[0], w
+
+
+def test_usastaffing_id_scan_runs_before_the_refresh_and_retries():
+    """The scan has its own workflow, scheduled before the daily analysis, which re-dispatches
+    itself after a block; the daily analysis no longer runs it after the refresh."""
+    import yaml
+    wf = Path(__file__).resolve().parents[2] / '.github' / 'workflows'
+    scan_wf = yaml.safe_load((wf / 'usastaffing-id-scan.yml').read_text())
+    daily = (wf / 'daily-questionnaire-analysis.yml').read_text()
+    daily_wf = yaml.safe_load(daily)
+    on_scan, on_daily = scan_wf.get('on', scan_wf.get(True)), daily_wf.get('on', daily_wf.get(True))
+
+    def minutes(cron):
+        m, h = cron.split()[:2]
+        return int(h) * 60 + int(m)
+    scan_at = minutes(on_scan['schedule'][0]['cron'])
+    daily_at = minutes(on_daily['schedule'][0]['cron'])
+    attempts, wait = int(scan_wf['env']['MAX_ATTEMPTS']), int(scan_wf['env']['RETRY_WAIT_SECONDS'])
+    # The wait happens inside the job, so each attempt fits in the job timeout, and every
+    # attempt ends before the refresh starts.
+    timeout = scan_wf['jobs']['scan']['timeout-minutes']
+    steps = scan_wf['jobs']['scan']['steps']
+    scan_step = next(s for s in steps if s.get('id') == 'scan')
+    assert scan_step['timeout-minutes'] + wait // 60 + 5 <= timeout
+    assert scan_at + attempts * timeout <= daily_at, (scan_at, attempts * timeout, daily_at)
+    run = '\n'.join(s.get('run', '') for s in steps)
+    assert 'python scan_usastaffing_ids.py' in run
+    assert 'gh workflow run usastaffing-id-scan.yml' in run and "steps.scan.outputs.code == '2'" in str(steps)
+    assert 'scan_usastaffing_ids.py' not in '\n'.join(
+        s.get('run', '') for s in daily_wf['jobs']['analyze-questionnaires']['steps'])
+
 def test_refresh_adds_questionnaires_whose_control_number_is_the_postings():
     """ICE Health Service Corps postings don't link their questionnaire and have no number
     to guess from; usastaffing_ids.csv says which questionnaires are theirs."""
@@ -909,6 +958,8 @@ TESTS = [
     test_recheck_follows_an_agency_to_applygovt,
     test_new_questionnaire_scrape_tries_applygovt_before_blacklisting,
     test_usastaffing_id_scan_walks_to_the_end_and_stops_when_blocked,
+    test_scan_warning_expects_todays_scan,
+    test_usastaffing_id_scan_runs_before_the_refresh_and_retries,
     test_refresh_adds_questionnaires_whose_control_number_is_the_postings,
     test_announcement_guess_only_for_postings_that_apply_through_usastaffing,
     test_blacklisted_faa_links_are_kept_and_unread_ones_warned,

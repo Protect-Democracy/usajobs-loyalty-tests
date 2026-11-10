@@ -738,11 +738,13 @@ def run_warnings(summary, status, today):
         out.append(f"Today's re-check of questionnaires on portals that block automated checks failed for "
                    f"{check['failed']:,} of {check['questionnaires']:,}"
                    + (f" ({check['error']})" if check['error'] else '') + '; they keep their last check.')
-    # The scan runs after the refresh, so today's refresh uses yesterday's.
+    # The scan runs before the refresh (usastaffing-id-scan.yml, 06:30 UTC, retried on a
+    # fresh runner if blocked), so today's refresh should have today's. Until 2026-11-10 it
+    # ran after the refresh and yesterday's was expected.
     scan = summary.get('usastaffing_id_scan')
     if scan is not None:
         problem = None
-        if (scan.get('date') or '') < (today - timedelta(days=1)).isoformat():
+        if (scan.get('date') or '') < today.isoformat():
             problem = f"hasn't run since {scan['date']}" if scan.get('date') else 'has never run'
         elif not scan.get('finished'):
             problem = f"didn't finish on {scan['date']} ({scan.get('summary', '')})"
