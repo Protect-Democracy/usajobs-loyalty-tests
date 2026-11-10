@@ -1,43 +1,45 @@
 {
-  "date": "2026-11-09",
-  "open_postings": 13264,
+  "date": "2026-11-10",
+  "open_postings": 12871,
   "listed_postings_not_in_job_data": 0,
   "links_added": 0,
   "links_removed": 0,
-  "postings_no_longer_listed": 16,
-  "questionnaires": 12455,
-  "fetched_ok": 12215,
+  "postings_no_longer_listed": 66,
+  "questionnaires": 12051,
+  "fetched_ok": 11814,
   "failed": 0,
-  "skipped_blocked_domain": 239,
-  "changed_today": 9,
-  "with_loyalty_q": 12,
-  "with_new_wording": 5449,
-  "with_question_5": 14,
+  "skipped_blocked_domain": 236,
+  "changed_today": 292,
+  "with_loyalty_q": 11,
+  "with_new_wording": 5377,
+  "with_question_5": 16,
   "questionnaires_with_struck_through_text": 6,
-  "open_postings_with_loyalty_q": 13,
-  "open_postings_with_question_5": 14,
+  "open_postings_with_loyalty_q": 12,
+  "open_postings_with_question_5": 16,
   "open_postings_with_possible_variant": 4,
-  "open_postings_reopened": 223,
+  "open_postings_reopened": 219,
   "open_postings_reopened_today_with_loyalty_q": 0,
   "open_postings_not_listed_today": 1,
   "open_postings_not_listed_today_with_loyalty_q": 0,
   "unlisted_outcomes": {
-    "closed_early": 16,
+    "closed_early": 66,
     "kept_page_open": 1
   },
-  "blocked_portal_last_checked": "2026-11-09",
+  "blocked_portal_last_checked": "2026-11-10",
   "blocked_portal_check": {
-    "questionnaires": 239,
-    "ok": 239,
+    "questionnaires": 236,
+    "ok": 236,
     "failed": 0,
     "error": ""
   },
   "usastaffing_id_scan": {
-    "date": "2026-11-08",
-    "finished": true,
-    "summary": "scanned to 13,113,864: {'missing': 2191, 200: 1}",
-    "new": 1
+    "date": "2026-11-09",
+    "finished": false,
+    "summary": "stopped at 13,111,864: USAStaffing refused requests (403) {'missing': 366, 200: 4, 403: 154}",
+    "new": 4
   },
   "open_postings_with_loyalty_q_checked_before_yesterday": 0,
-  "warnings": []
+  "warnings": [
+    "The scan of new USAStaffing questionnaires didn't finish on 2026-11-09 (stopped at 13,111,864: USAStaffing refused requests (403) {'missing': 366, 200: 4, 403: 154}). Postings that don't link their questionnaire may be missing one."
+  ]
 }
