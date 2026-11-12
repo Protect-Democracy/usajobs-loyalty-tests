@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-11",
-  "finished": true,
-  "summary": "scanned to 13,116,104: {'missing': 2575, 200: 702}",
-  "new": 702
+  "date": "2026-11-12",
+  "finished": false,
+  "summary": "stopped at 13,116,787: USAStaffing refused requests (403) {'missing': 2731, 200: 10, 403: 21}",
+  "new": 10
 }
