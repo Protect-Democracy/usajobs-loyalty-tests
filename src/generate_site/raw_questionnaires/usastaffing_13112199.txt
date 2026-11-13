@@ -1,0 +1,46 @@
+Position Title
+PRODUCTION CONTROLLER
+Agency
+Army National Guard Units
+Announcement Number
+OH-13112199-AR-26-503-T
+Open Period
+Nov 12, 2026 to Dec 11, 2026
+Area of Consideration
+1.
+Are you a current member of the Ohio Army National Guard, or a military member eligible to become a member of the Ohio Army National Guard?
+ Yes
+ No
+2.
+Are you currently within the Grade of E-4 through E-8?
+ Yes
+ No
+1152-GS09-D1255000-OHARNG
+.
+We will evaluate your resume and responses to this assessment questionnaire to determine if you are among the best qualified for this position. Your responses are subject to verification and must be supported by your resume and supporting documents.
+.
+Select “Yes” or “No” to the following question(s).
+1.
+Do you possess experience, education or training which indicates the candidate can reason in quantitative terms, communicate orally and in writing in a clear and concise manner, understanding the terminology and data pertaining to repair operations and process characteristics of the production activity?
+ Yes
+ No
+2.
+Do you possess experience, education or training scheduling workflow in more than one area and responsible for coordinating products or materials from support activities. Experience in performing or supervising journeyman level work in a production facility. Experience preparing job or work orders; scheduling various phases of projects into the production facility; following up to see if work is progressing as planned and arranging for adjustments in materials, machine processes, and work sequencing allowing for changes. Experience with current automation support programs to input data, provide status of equipment, and monitor job order status, monitor work priorities, requisition repair parts, track repair parts status, etc?
+ Yes
+ No
+.
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+3.
+Establishes plans and schedules for maintenance and repair, using multiple process production methods and procedures for a variety of vehicles and equipment such as combat vehicles, heavy- duty engineering and mobile equipment, tracked vehicles, towed and self-propelled artillery, communications and electronic equipment, guided missile systems, and small arms. Implements maintenance plans and monitors progress of accomplishments. Using readiness, production and management reports available from the current automation support program and/or manual system, provides status of equipment, maintenance actions in progress, and location of equipment as required or requested.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+4.
+Ensures Modified Table of Organization and Equipment (MTO&E) or Table of Distribution and Allowances (TDA) reportable Line Item Numbers (LIN) are properly managed, reported and accounted for with respect to readiness reports, property accountability reports, and system management. Based on guidance received, prioritizes resources to ensure the highest level of readiness in support of training and mobilization requirements of supported units. Ensures that Army Materiel Status System (AMSS) equipment readiness reports are correct and submitted in a timely manner to meet Department of the Army (DA) reporting suspense.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.

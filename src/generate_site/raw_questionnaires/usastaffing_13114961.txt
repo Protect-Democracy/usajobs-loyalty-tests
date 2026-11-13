@@ -1,0 +1,77 @@
+Position Title
+TITLE 32 SURFACE MAINTENANCE REPAIRER WG-5801-08
+Agency
+Army National Guard Units
+Announcement Number
+WV-13114961-AR-26-163
+Open Period
+Nov 12, 2026 to Dec 12, 2026
+Eligibilities
+1.
+All on-board federal employees/technicians within the state for which you are applying (Title 32 and Title 5, Permanent and Excepted Indefinite). Are you a current on-board federal employee or technician within the state for which this position is being advertised? To verify your eligibility, you must submit a copy of your most recent Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Tenure in Block 24 (1, 2,or 3).
+ Yes
+ No
+2.
+Current Army M-Day and current Air DSG members within the state for which you are applying. Are you a current Army M-Day or current Air DSG member within the state for which this position is being advertised?
+ Yes
+ No
+3.
+Are you a current Permanent full-time Dual Status National Guard Technician within the state for which this position is being advertised? To verify your eligibility, you must submit a copy of your Notification of Personnel Action, Standard Form 50 (SF 50) reflecting your Permanent full-time status with the state National Guard.
+ Yes
+ No
+Merit Hiring Plan Essay Questions
+.
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or Super Intelligence (SI) such as a large language model (LLM) like ChatGPT or Copilot.
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+3.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Super Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+T32 WG-5801-08
+.
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+1.
+What is your level of experience performing routine maintenance and repair on heavy-duty mobile equipment, combat, tactical, or automotive vehicles, including removing, adjusting, cleaning, reinstalling, or replacing defective or worn parts and components?
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+2.
+What is your level of experience diagnosing mechanical failures using visual or auditory checks and basic test equipment such as compression testers, voltmeters, ohmmeters, and pressure gauges, and determining whether parts should be cleaned, adjusted, or replaced?
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+3.
+What is your level of experience conducting preventive maintenance checks and services (PMCS), limited readiness or repair inspections, brake adjustments, fluid replacement, greasing, cleaning, and other routine maintenance needed to keep vehicles and equipment mission capable?
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+4.
+What is your level of experience performing vehicle maintenance in remote or field locations, recovering or evacuating inoperable vehicles, maintaining supply documentation for tools and parts, and performing limited repairs on related equipment such as communications equipment, small arms, canvas, leather, or minor body and metal components?
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+.
+Select “Yes” or “No” to the following question(s).
+5.
+Do you have experience or training that demonstrates knowledge of equipment sufficient to perform routine work, simple preventive maintenance tasks, and use common tools and equipment in this line of work?
+ Yes
+ No
+6.
+Do you have experience or training using common hand and power tools and a small variety of test and measurement devices to make mechanical repairs; removing, adjusting, replacing, cleaning, and installing a variety of parts, components, and accessories; applying a basic understanding of mechanical, electrical, and hydraulic theory related to vehicles; replacing, fitting, installing, and making adjustments to vehicle systems and components; understanding the makeup, operation, and interrelationships of the systems maintained; and reading and interpreting parts lists, manufacturers' repair manuals, diagrams, and electrical schematics?
+ Yes
+ No
