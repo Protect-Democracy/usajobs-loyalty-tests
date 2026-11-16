@@ -1,0 +1,164 @@
+Position Title
+Cartographic Technician (Seasonal)
+Agency
+National Park Service
+Announcement Number
+CAHQ-27-13112318-DE-BM
+Open Period
+Nov 16, 2026 to Nov 23, 2026
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+2.
+Are you a United States citizen or national (residents of American Samoa and Swains Island)? For more information, review help.usajobs.gov/working-in-government/unique-hiring-paths/public .
+ Yes
+ No
+3.
+Career Transition Assistance Plan (CTAP) To claim CTAP eligibility, please confirm: You are a current or former federal employee displaced from the Department of the Interior (or one of the associated bureaus) AND You are located in the same local commuting area of the vacancy; AND You are applying to a position that is at or below the grade level of the position from which you were or will be separated; AND You are applying to a position that does not have greater promotion potential than the position from which you were or will be separated; AND Your last performance rating of record is at least fully successful or the equivalent. To verify CTAP eligibility, you must submit supporting documentation with your application to include: Your agency notice, such as a Reduction in Force (RIF) separation notice or a Proposed Removal/Separation notice; AND Your most recent annual performance appraisal rating of record; AND Your most recent SF-50, or equivalent personnel action, noting current position, grade level, and duty location. To verify your eligibility, you must submit supporting documentation such as a Reduction in Force (RIF) separation notice to include your latest performance rating (if the notice does not have this information included, you must submit a copy of your most recent performance appraisal) and a copy of your latest Notification of Personnel Action, Standard Form 50. Additional supporting documentation requirements are listed in the Required Documents section of this announcement. For more information, visit the USAJOBS Help Center - Career Transition Programs (CTAP, ICTAP, RPL) . Are you a current or former federal employee displaced from a position in The Department of the Interior (or one of the associated bureaus) with CTAP eligibility?
+ Yes
+ No
+4.
+Interagency Career Transition Assistance Plan (ICTAP) Are you a current or former federal employee displaced from a position in a Federal agency other than the agency hiring for this position? If yes, confirm: you are located in the same local commuting area of the vacancy; AND, you are applying to a position that is at or below the grade level of the position from which you were or will be separated; AND, you are applying to a position that does not have greater promotion potential than the position from which you were or will be separated; AND, your last performance rating of record is at least fully successful or the equivalent. To verify your eligibility, you must submit supporting documentation such as a Reduction in Force (RIF) separation notice to include your latest performance rating (if the notice does not have this information included, you must submit a copy of your most recent performance appraisal) and a copy of your latest Notification of Personnel Action, Standard Form 50. Additional supporting documentation requirements are listed in the Required Documents section of this announcement. For more information, visit the USAJOBS Help Center - Career Transition Programs (CTAP, ICTAP, RPL) . Are you a current or former federal employee displaced from a position in a Federal agency other than the agency hiring for this position with ICTAP eligibility?
+ Yes
+ No
+Preferences
+.
+The current position I am applying to is a temporary seasonal appointment with less than 1040 hours. I am willing to accept this type of position. I understand that responding "No" to the item below will result in my not being considered for this position.
+1.
+Would you accept a temporary appointment?
+ Yes
+ No
+2.
+You may choose multiple options: What work schedule(s) are you willing to accept?
+ Full-Time
+ Part-Time
+ Intermittent
+AQ-CartoTech-GS-1371-5
+.
+Thank you for your interest in the Cartographic Technician, GS-1371-05 position. We will evaluate your resume and responses to this assessment questionnaire to determine if you are among the best qualified.
+.
+YOUR RESUME OR APPLICATION MATERIALS YOU SUBMIT FOR THIS ANNOUNCEMENT MUST SUPPORT THE ANSWER YOU CLAIM UNDER THIS AND ALL OTHER QUESTIONS. IF NOT, YOU WILL BE FOUND NOT QUALIFIED OR YOUR SCORE WILL BE LOWERED.
+1.
+From the descriptions below, (A-D) select the one response that best describes the specialized experience and/or education requirements that demonstrates your ability to perform the duties of the Cartographic Technician, GS-1371-05. Read all responses before making your selection.
+ I have at least one year of specialized experience equivalent to the GS-04 level in Federal service that is directly related to the position to be filled. Specialized experience for this position is work involving one or more aspects of cartography. Examples of specialized experience include: Compiled information from specified sources; Assembled and sorted material into a complete map; Used Global Navigation Satellite System (GNSS) technology to accomplish field-based mapping and inventory of natural or cultural resources; Used GIS software (e.g., ArcPro) to create new datasets and databases; Utilized image processing software (e.g., ArcGIS, ENVI, ERDAS Imagine) to geo-reference, orthorectify, and/or mosaic photographs; Utilized GIS software (e.g., ArcPro) for spatial analysis and three-dimensional analysis. You must include hours per week.
+ I have successfully completed completion of a full 4-year course of study leading to a bachelor's degree that included at least 18 semester hours in courses such as cartography, relevant mathematical and statistical sciences, or related sciences (e.g. physical geography or geodesy). Examples of acceptable courses include cartography, astronomy, geodesy, photogrammetry, oceanography, computer science, land surveying, geophysics, remote sensing, algebra, trigonometry, and calculus. Not more than 9 of the 18 semester hours should have been in mathematics or statistics. IMPORTANT - PLEASE NOTE: If you are using education to qualify you must submit a copy of your transcripts.
+ I have a combination of specialized experience and education as described above which total at least one year. Only education in excess of the first 60 semester hours (i.e. beyond the second year) is creditable toward meeting the specialized experience requirement. Two full academic years of study, or 60 semester hours, beyond the second year is equivalent to 1 year of specialized experience.
+ I do not have the experience and/or education required for this position.
+.
+For tasks below please select from A through E to indicate the skill level that you possess for each task listed. Each of your responses must be clearly supported by your education, training, and/or specific work experience you describe in your application packet submitted (resume, transcripts, description of training). If not, your score will be lowered, or you will be rated not qualified. Any exaggeration of your experience, false statements, or attempts to conceal information may be grounds for rating you not qualified or terminating your appointment after you begin work.
+.
+Applies Technology to Tasks
+.
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+2.
+Use Global Navigation Satellite System (GNSS) technology to accomplish field-based mapping and inventory of natural or cultural resources or park facilites.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+3.
+Use GIS software (e.g., ArcPro) to create and maintain datasets and databases.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+4.
+Utilize image processing software (e.g., ArcGIS, ENVI, ERDAS Imagine) to georeference, orthorectify, and/or mosaic photographs.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+5.
+Utilize GIS software (e.g., ArcPro) for spatial analysis and three-dimensional analysis.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+6.
+Utilize software (e.g., ArcPro) to create maps displaying spatial data.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+.
+Cartography
+.
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+7.
+Apply current land survey techniques to ensure accuracy of collected data.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+8.
+Collect spatial data using GNSS equipment and use software (e.g., ArcPro) to create maps displaying spatial data.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+9.
+Troubleshoot and maintain survey equipment.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+10.
+Create maps for use in field work, presentations, or publications.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+.
+Communications and Media
+.
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+11.
+Assist in the preparation of professional reports, studies, and/or plans.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+12.
+Document the nature, contents, and evaluation of information source of the GIS data base (metadata); create how-to manuals for equipment use.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+13.
+Establish and maintain working relationships with management and technical employees within the organization.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+14.
+Assist with field or research project after being given initial guidance.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+.
+Select “Yes” or “No” to the following question(s).
+15.
+I certify that, to the best of my knowledge and belief, all the information included in this questionnaire is true, correct, and provided in good faith. I understand that if I make an intentionally false statement or commit deception or fraud in this application and its supporting materials or any document or interview associated with the examination process, I may be fined or imprisoned (18 U.S.C. 1001); my eligibilities may be canceled, I may be denied an appointment, or I may be removed and debarred from Federal service (5 C.F.R. part 731). I understand that any information I give may be investigated. I understand that responding "No" to this item will result in my not being considered for this position.
+ Yes
+ No
