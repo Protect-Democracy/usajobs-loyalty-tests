@@ -1,0 +1,109 @@
+Position Title
+Telecommunications Specialist
+Agency
+Forest Service
+Announcement Number
+26-WO-CIO-13117243-DP-VM
+Open Period
+Nov 17, 2026 to Nov 19, 2026
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+2.
+Are you a current USDA employee who meets the definition of a "surplus" or "displaced" employee, in which received official notice that your job is no longer needed or that you will lose your job by Reduction-in-Force (RIF)? If yes, confirm: • you are located in the same local commuting area as the vacancy; AND, • you are applying to a position that is at or below the grade level of the position from which you will be separated; AND, • you are applying to a position that does not have greater promotion potential than the position from which you will be separated; AND, • your last performance rating of record is at least fully successful or the equivalent. For more information, review the USAJOBS Help Center.
+ Yes
+ No
+3.
+Are you a current or former federal employee displaced from a position in a Federal agency other than USDA? If yes, confirm: • you are located in the same local commuting area as the vacancy; AND, • you are applying to a position that is at or below the grade level of the position from which you were or will be separated; AND, • you are applying to a position that does not have greater promotion potential than the position from which you were or will be separated; AND, • your last performance rating of record is at least fully successful or the equivalent. For more information, review the USAJOBS Help Center .
+ Yes
+ No
+4.
+Have you registered for reemployment consideration AND meet one of the below: • Are you a current or former competitive service USDA employee who will be or was separated by Reduction-In-Force (RIF) and received a rating of satisfactory or above as your last annual performance rating? OR • Are you a former USDA competitive service employee who separated due to a compensable injury or disability?
+ Yes
+ No
+Preferences
+1.
+Are you a current or former Political appointee, Presidential appointee, and/or non-career Senior Executive Service (SES) appointee?
+ Yes
+ No
+2.
+How did you hear about this job opportunity? Please select one and specify if required:
+ Other Recruiting Website
+ Career Fair
+ Newspaper
+ Advertisement
+ Professional Journal
+ Agency Website
+ Agency Employee
+ Other Federal Agency
+ College or University
+ Other
+3.
+Please enter at least 3 references below. Include first and last name, phone number and email address.
+4.
+When we complete our selections, the remaining list of qualified candidates may be shared with hiring managers and Human Resources staff at additional federal agencies who are hiring for similar positions. Please opt-in here if you would like your name, application materials, and assessment results shared with additional agencies. There is no guarantee of further consideration.
+ I only want to be considered by this agency. I opt-out of having my name, application materials, and assessment results shared with additional agencies.
+ I consent to having my name, application materials, and assessment results shared with other agencies. I opt in to having this information shared with additional agencies who are hiring for similar positions.
+Merit Hiring Plan Essay Questions
+.
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or Super Intelligence (SI) such as a large language model (LLM) like ChatGPT or Copilot.
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+3.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Super Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+AQ-FS5916-Telecommunications Specialist-GS-0391-13-VM20260903
+.
+Thank you for your interest in this Telecommunications Specialist position. We will evaluate your resume and responses to this questionnaire to determine if you are among the best qualified for this position. Your responses are subject to verification and must be fully supported by your resume and supporting documents.
+1.
+From the descriptions below, select one response that best describes how your background meets the specialized experience and/or education requirements for the GS-0391-13 Telecommunications Specialist position. Read all responses before making your selection. If you do not meet these minimum qualifications, you will be considered unqualified and will not receive consideration for this position.
+ I have one year of specialized experience equivalent to at least the GS-12 grade level. Specialized experience is defined as three or more of the following: Manages national Law Enforcement and Investigations LMR systems by developing strategies for system sustainment and providing expert guidance on policy and network requirements; and/or Develops and implements secure digital P25 and encrypted communication plans that support multi-agency law enforcement operations; and/or Plans, analyzes, and optimizes LMR infrastructure to ensure reliable and secure mission-critical communications for law enforcement personnel; and/or Resolves radio interference issues, conducts coverage assessments, and applies strict information security practices to safeguard sensitive communications; and/or Provides expert consultation in determining radio communications policy and establishes departmental views, positions, and recommendations concerning frequency management to support nationwide law enforcement communication needs.
+ I do not meet the requirement(s) described above.
+.
+INSTRUCTIONS: For each item below, in your own words, do not use a consultant or artificial intelligence (AI) such as a large language model (LLM) like ChatGPT or Copilot. Describe a specific instance from your training and/or experience. Your response must include: 1. The situation or assignment, i.e., the challenge faced, the problem to be solved; 2. The specific actions you took; 3. The outcome, results, or long-term impact of your accomplishment; 4. Your position title at the time; and 5. Provide the name and contact information for someone who can verify each accomplishment.
+2.
+Describe a situation in which you were responsible for resolving a complex telecommunications or law enforcement Land Mobile Radio communications challenge. What was the situation, mission requirement, or communications problem? What specific actions did you personally take to analyze the problem, develop solutions, coordinate stakeholders, and implement corrective measures?
+2a.
+Provide verifier name and contact information.
+3.
+Describe a significant telecommunications, Land Mobile Radio, or information technology initiative that required extensive planning and evaluation. What was the project, program, or organizational need? How did you determine priorities, establish goals, identify resource requirements, and develop implementation plans?
+3a.
+Provide verifier name and contact information.
+4.
+Describe a time when you applied your technical expertise to solve a complex telecommunications or Land Mobile Radio-related problem. What was the challenge, what actions did you take, and what were the results?
+4a.
+Provide verifier name and contact information.
+5.
+Describe a situation where you identified, evaluated, or implemented an emerging technology, new capability, or modernization effort to improve telecommunications or law enforcement communications operations. What technology or capability was being considered, what need drove the change, and what steps did you take to evaluate, recommend, test, or implement the solution?
+5a.
+Provide verifier name and contact information.
+6.
+Describe a time when you developed or influenced a long-term telecommunications, law enforcement communications, interoperability, or modernization strategy. What drove the need for your strategy, and what lasting improvements or results did it deliver?
+6a.
+Provide verifier name and contact information.
+7.
+Please select the statement(s) that reflect your educational achievement(s). Transcripts, certificates, or other appropriate documentation must be included with this application to verify GPA, coursework, and degree.
+ I have a grade point average (GPA) of 2.7 or above for all completed courses at the time of this application or for all completed courses during the last two years of college.
+ I have a GPA of 3.0 or above in my major field of college study for all courses completed at the time of this application or for all courses completed during the last two years of a 4 year curriculum.
+ I am/(was) a member of a college national honor society (does not include a freshman honor society).
+ I have completed all the requirements for an advanced degree in a field related to this position (e.g.,M.A. or Ph.D.).
+ I have a GPA of 2.7 or above for at least 24 semester hours (or equivalent) of coursework, above the high school level, that is directly related to the work of this position.
+ None of the above.
+8.
+Your responses to the Announcement and Assessment Questionnaires, along with your resume and all supporting documentation are subject to evaluation and verification to ensure accuracy. Submitting false information or attempts to falsify information may be grounds for disqualifying you or for terminating you after you have been hired. Please take this opportunity to review your responses to ensure their accuracy.
+ Yes, I certify, to the best of my knowledge and belief, all the information submitted by me with my application for employment is true, complete, and made in good faith, and that I have truthfully and accurately represented my work experience, knowledge, skills, abilities and education (degrees, certifications, accomplishments, etc.). I understand that the information provided is subject to investigation. I understand that misrepresenting my experience or education, or providing false, fraudulent or inaccurate information in or with my application may be grounds for not hiring me or for terminating me after I begin work. I also understand that false or fraudulent statements may be punishable by fine or imprisonment (18 U.S.C. 1001).
+ No, I do not certify and I understand that by responding “no” to this certification that I will not receive consideration for this position.
