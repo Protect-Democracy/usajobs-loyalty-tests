@@ -1,0 +1,39 @@
+Position Title
+Data Scientist
+Agency
+Nuclear Regulatory Commission
+Announcement Number
+IMP-13117171-27-KT
+Open Period
+Nov 16, 2026 to Nov 20, 2026
+Eligibilities
+1.
+NRC Employee Are you a current Nuclear Regulatory Commission employee on a permanent appointment? To verify eligibility as a current Nuclear Regulatory Commission employee, you must submit a recent Notification of Personnel Action (SF-50) that reflects your current grade and tenure code.
+ Yes
+ No
+Preferences
+1.
+Select the location(s) you want to be considered for. You must choose at least one location.
+ Rockville, MD
+ Location Negotiable After Selection, United States
+Additional Applicant Information
+1.
+If you are, or ever were, a federal civilian employee in a permanent position, what is the highest grade level you held, excluding temporary promotions? (Please include the pay plan, e.g. GS-12, GG-11, or N/A for not applicable).
+2.
+If you are, or ever were, a federal civilian employee, please indicate the start date and end dates of the highest graded permanent positions you held, excluding temporary promotions (e.g. MM/YYYY to MM/YYYY, MM/YYYY to present, or N/A for not applicable).
+3.
+This space is available if you would like to supply any additional information to assist in evaluating you for this position. (Maximum length of 8000 characters.)
+4.
+Do you certify, to the best of your knowledge and belief, that all information submitted with your application for employment is true, complete, and made in good faith, and that you have accurately represented your work experience, knowledge, skills, abilities, and education (including degrees and accomplishments)? Do you understand that the information you provide may be investigated, and that misrepresenting your experience or education, or providing false or fraudulent information, may be grounds for not hiring you or for termination after you begin work? Additionally, do you acknowledge that false or fraudulent statements may be punishable by fine or imprisonment (18 U.S.C. 1001)?
+ Yes, I certify and acknowledge the above statements.
+ No, I do not certify or acknowledge the above statements.
+Data Scientist GG-1560-14 Min Quals
+1.
+Select the answer that best describes your education and/or experience that meets the qualification standard for the Data Science-1560 Series.
+ I have successfully completed a degree in Mathematics, Statistics, Computer Science, Data Science, or another field directly related to the position. The degree must be in a major field of study at least at the baccalaureate level and appropriate for the position.
+ I have a combination of education and experience that includes education equivalent to one of the majors shown in A above, plus additional education or appropriate experience.
+ My education and/or experience is not reflected in the above statements
+2.
+GG-14 - Select the statement that best describes your experience that demonstrates your ability to perform the work of this position at the GG/GS-14 grade level or equivalent pay band.
+ I have at least one year of specialized experience as outlined in the job announcement at the GG/GS-13 (or higher) grade level or equivalent to include: applying advanced data science, statistical, mathematical, or computer science methods to analyze large datasets; developing or using models, analytics tools, and data systems; using programming languages or visualization tools such as Python, SQL, R, Tableau, or Power BI; and communicating technical findings to support program, research, or operational decision-making.
+ I do not possess the specialized experience as outlined in the job announcement.

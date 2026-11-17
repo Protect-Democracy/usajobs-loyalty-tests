@@ -1,0 +1,163 @@
+Position Title
+IT CYBERSECURITY SPECIALIST
+Agency
+Pension Benefit Guaranty Corporation
+Announcement Number
+OIT-ECD-AAD-27-13115454
+Open Period
+Nov 16, 2026 to Nov 20, 2026
+Merit Hiring Plan Essay Questions
+.
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or Super Intelligence (SI) such as a large language model (LLM) like ChatGPT or Copilot.
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+3.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Super Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+AI Question
+1.
+Please describe your experience using super intelligence (SI) tools or technology in a professional or personal setting. Include examples of how you used SI to improve efficiency, decision-making, communication, research, analysis, or work products. Note: Your response will not be rated or used to determine your qualifications. It will be provided only to the hiring manager for consideration.
+Core Questions
+1.
+How did you find out about this vacancy announcement?
+ Facebook
+ LinkedIn
+ X (formerly Twitter)
+ word of mouth
+ USA Jobs
+ executive research firm
+ vocational rehabilitation center
+ college posting
+ Workforce Recruitment Program (WRP)
+ veterans' fair/job board
+ diversity job fair/job board
+ professsional organization
+ niche or trade job fair or board
+ efinancial.com
+ indeed.com
+ Wall Street Journal
+ veteran's disability organization
+ other
+2.
+If you answered "other" to the previous question, please provide the resource here.
+3.
+Are you currently a contractor at PBGC?
+ Yes
+ No
+PBGC Employee
+1.
+Are you a current PBGC employee? (Note: you will be required to provide an SF-50 as proof.)
+ Yes
+ No
+Vacancy Questions
+.
+Specialized Experience: Applicants must have at least one year of specialized experience equivalent to the GS-12 grade level in the Federal service or equivalent to the GS-12 grade level in the private sector (1) assessing information system security and privacy controls for compliance with Federal requirements using the Risk Management Framework (RMF); (2) applying risk analysis techniques to identify vulnerabilities and recommend mitigation or corrective actions; and (3) supporting IT security audits or assessments by reviewing and assembling supporting documentation and developing responses to findings. IT Competencies: Applicants must also have IT-related experience demonstrating each of the following: attention to detail, customer service, oral communication, and problem solving.
+.
+Select “Yes” or “No” to the following question(s).
+1.
+Do you have at least one year of specialized experience at the GS-12 grade level in the Federal service or equivalent to the GS-12 grade level in the private sector as described above?
+ Yes
+ No
+2.
+At a minimum, I can perform the actions associated with each of the four competencies listed below without assistance: 1. Attention to Detail - Is thorough when performing work and conscientious about attending to detail. 2. Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services. 3. Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately. 4. Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.
+ Yes
+ No
+.
+The following questions relate to your knowledge of Federal regulations and guidelines. For each statement below, select the option that best reflects your experience.
+.
+Select “Yes” or “No” to the following question(s).
+3.
+I have experience in providing gap analysis or assessment of policies and guidelines.
+ Yes
+ No
+4.
+I have experience in using a variety of automated tools to perform reviews and assessments.
+ Yes
+ No
+5.
+I have experience in developing recommendations for IT security programs and systems on policies and processes.
+ Yes
+ No
+6.
+I have experience in reviewing and interpreting federal guidance, regulations and processess.
+ Yes
+ No
+7.
+I have experience with the Federal Information Security Modernization Act of 2014 (FISMA), the National Institute of Standards and Technology (NIST), and the Office of Management and Budget (OMB) Directives.
+ Yes
+ No
+.
+The following questions relate to your skill in applying IT security and privacy assessments. For each statement below, select the option that best reflects your experience.
+.
+Select “Yes” or “No” to the following question(s).
+8.
+I have experience performing compliance reviews and assessments of information systems.
+ Yes
+ No
+9.
+I have experience in using automated tools to identify security and privacy risks to information systems.
+ Yes
+ No
+10.
+I have experience providing compliance recommendations to stakeholders and provide analysis of security and privacy risks.
+ Yes
+ No
+11.
+I have experience providing advice and guidance regarding remediation efforts.
+ Yes
+ No
+.
+The following questions relate to your skill in developing audit responses. For each statement below, select the option that best reflects your experience.
+.
+Select “Yes” or “No” to the following question(s).
+12.
+I have experience in utilizing any security authorization processes required for security authorization.
+ Yes
+ No
+13.
+I have experience in communicating audit requests and deadlines for responses with stakeholders.
+ Yes
+ No
+14.
+I have experience applying IT security audit or assessment processes.
+ Yes
+ No
+15.
+I have experience in developing presentations to communicate responses to audits or audit recommendations.
+ Yes
+ No
+16.
+I have experience utilizing tools to generate reports needed to support audit responses.
+ Yes
+ No
+.
+The following questions relate to your skill in communicating orally. For each statement below, select the option that best reflects your experience.
+.
+Select “Yes” or “No” to the following question(s).
+17.
+I have experience providing technical advice and guidance to Department managers and other IT Specialists on significant information security problems and issues.
+ Yes
+ No
+18.
+I have experience participating in cybersecurity-related data calls and reports.
+ Yes
+ No
+19.
+I have experience participating in discussions and negotiations with subject matter experts or officials to resolve differences of opinion on proposed information technology system improvements or plans.
+ Yes
+ No
+20.
+I have experience conducting employee awareness training.
+ Yes
+ No
+21.
+I have experience leading discussions, conducting presentations, and/or directing working groups in efforts related to IT security, compliance, and risk management.
+ Yes
+ No

@@ -1,0 +1,118 @@
+Position Title
+MILITARY AND FAMILY READINESS MANAGER (TITLE 5)
+Agency
+Army National Guard Units
+Announcement Number
+UT-26-194-AR-13118409
+Open Period
+Nov 17, 2026 to Dec 01, 2026
+Eligibilities
+.
+VETERANS PREFERENCE INSTRUCTIONS **** Any alterations in the shaded areas render the DD Form 214 void. **** Veterans' preference is not the same thing as being considered a veteran. A list of qualifying criteria can be found on the Office of Personnel Management (OPM) website at following link: OPM Guide: https://www.opm.gov/policy-data-oversight/veterans-services/vet-guide-for-hr-professionals/ **** If claiming TP -submit a copy of your DD Form 214, "Certificate of Release or Discharge from Active Duty," which must reflect dates of service, discharge; Honorable or under honorable condition, and an authorized campaign medal. **** If claiming CP or CPS - submit a copy of your DD Form 214, and you must submit a letter from the Department of Veterans Affairs reflecting your level of disability for preference eligibility. You may obtain one by visiting a VA Regional Office, contacting a VA call center, or online at www.va.gov. You will need to submit a Standard Form, SF-15, "Application for 10-point Veterans' Preference". **** If claiming XP - submit a copy of your DD form 214, and you must submit a letter from the Department of Veterans Affairs reflecting 100% disability. You will need to submit a Standard Form, SF-15, "Application for 10-point Veterans' Preference".
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+2.
+Are you a U.S. Citizen?
+ Yes
+ No
+3.
+IAW UTNGR 690-12 dated AUG 2022, Priority will be given to all current, onboard employees of the UTNG Are you currently an on-board Full Time Permanent or indefinite T32 technician or T5 employee of the Utah National Guard?
+ Yes
+ No
+4.
+Priority Placement Program, DoD Military Reserve (MR) and National Guard (NG) Technician Eligible, I am a MR or NG Reserve Technician who will lose or has lost my military membership through no fault of my own after completing at least 15 years of technician service and a minimum of 20 years of service creditable for non-regular retirement. I am exercising my preference eligibility to DoD positions within my local commuting area in accordance with Section 3329(b) of Title 5, U.S.C. This preference eligibility is valid for 1 year after separation. NOTE: By using this eligibility, you certify that you have not obtained permanent Federal employment, nor have you accepted or declined a PPP job offer. Supporting Documentation: If you indicate "yes" to this question, you must submit a copy of the Military Reserve and National Guard Technician PPP Self-Certification Checklist and copies of the appropriate documentation, such as the notification letter you received showing you are no longer eligible for military or NG membership (through no fault of your own) and that you have completed at least 15 years of technician service and a minimum of 20 years of service creditable for non-regular retirement. Are you a Priority Placement Program (PPP) DoD Military Reserve (MR) and National Guard (NG) Technician Eligible?
+ Yes
+ No
+5.
+Priority Placement Program, DoD Military Reserve (MR) and National Guard (NG) Preference Eligible Technician Receiving Disability Retirement. I am an MR or NG Technician who will be or has been involuntarily medically separated or retired due to a service-connected medical disability that disqualifies me from military membership or from holding my required military grade. I am exercising my preference eligibility to DoD positions within my local commuting area. I understand that the position for which I am applying must be at the same grade or equivalent level, tenure, and work schedule as the position held currently or upon separation. NOTE: By using this eligibility, you certify that you have not obtained permanent Federal employment, nor have you accepted or declined a PPP job offer. Supporting Documentation: If you indicate "yes" to this question, you must submit a copy of the Military Reserve and National Guard Technician Disability PPP Self-Certification Checklist and copies of the appropriate documentation, such as the notification letter you received that states you are no longer eligible for Reserve membership due to a service-connected disability. Are you a Priority Placement Program, DoD Military Reserve (MR) and National Guard (NG) Preference Eligible Technician Receiving Disability Retirement?
+ Yes
+ No
+6.
+Priority Placement Program, DoD Retained Grade Preference Eligible. I am currently on retained grade based on receiving a written RIF notification letter of a change to lower grade, or a notification letter of a classification downgrade dated within the last 2 years. I am exercising my preference eligibility to DoD positions within my local commuting area. NOTE: By using this eligibility, you certify that you have not accepted permanent Federal employment at your retained grade, nor have you accepted or declined a PPP job offer. Supporting Documentation: If you indicate "yes" for this statement, you must submit a copy of the Retained Grade PPP Self-Certification Checklist and copies of the appropriate documentation, such as a RIF change-to-lower-grade notice, and an SF-50 reflecting your RIF change to lower grade. Are you a Priority Placement Program, DoD Retained Grade Preference Eligible?
+ Yes
+ No
+Merit Hiring Plan Essay Questions
+.
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or Super Intelligence (SI) such as a large language model (LLM) like ChatGPT or Copilot.
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+3.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Super Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+GS- 0301-12-PDT5304000-UTNG
+.
+Your responses to this questionnaire, in conjunction with the other portions of your completed application, will be evaluated while making preliminary screening decisions for this position. Mark only one response for each statement. Do not overstate or understate your level of experience and capability. You should be aware that your ratings are subject to evaluation and verification. Particularly, your resume must support the response to the questions in the Occupational Questionnaire. Additional steps in the selections process are designed to verify your stated level of experience and capability which will be reviewed against the Specialized Experience on the job announcement.
+.
+Select “Yes” or “No” to the following question(s).
+1.
+MINIMUM QUALIFICATION REQUIREMENTS: Do you have experience, education or training which provided a general knowledge of principles of organization, management, and administration. Compiling reports, letters, memoranda, etc., and required person-to-person contacts to convey information. Progressively responsible experience which demonstrates the ability to provide technical guidance and assistance in the type of work or in comparable work of the position to be filled. Experience using computer and automation systems?
+ Yes
+ No
+2.
+SPECIALIZED EXPERIENCE: Do you have at least 1 year specialized experience equivalent to at least the GS-0301-11 level? *Must provide SF50 to validate response. OR Do you have do you have: Knowledge to develop and administer family readiness policies; ensure policy relates to missions, functions, organization, major issues, work processes, goals objectives and programs in order to direct, plan, develop, and implement programs designed to improve and maintain National Guard family readiness and quality of life. Knowledge of research, analytical and evaluative techniques and methods (and the ability to adapt as appropriate) to analyze reports, gather data, review suggestions, and evaluate the effectiveness and efficiency of the National Guard service member and family readiness programs sufficient to develop solutions to situations not normally encountered; to recognize and define social problems, to reach accurate conclusions, and to measure and improve human services program effectiveness and productivity, and make recommendations for program improvement. Knowledge of laws, regulations, policies, and precedents governing Service Member and Family Readiness Programs and the Child & Youth Services Program and affecting the use of resources and related support resources (money equipment, and people) to implement the these programs. Scope and depth of knowledge pertaining to human services and non-clinical case management matters and programs benefiting families, military, Title 5 civilians and Title 32 technicians, in addition to policies, practices, and procedures; local non-governmental agency resolutions including methods used to establish program objectives or performance goals and assess progress toward their achievements and the impact military and family members' readiness and quality of life. Ability to communicate effectively to develop command level briefings, provide written guidance, provide technical assistance, and communicate orally. SUPEVISORY EXPERIENCE: Do you have experience in managing the function of the work to be performed. Experience which includes leading, directing and assigning work of personnel?
+ Yes
+ No
+.
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+3.
+Knowledge of a wide range of qualitative/quantitative methods to develop data collection tools and review, evaluate and survey diversity related issues.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+4.
+Skill in performing fact-finding, analysis, and problem solving to identify and define diversity problems and to develop workable solutions.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+5.
+Knowledge of the organizational structures of Army National Guard and Air National Guard organizations including the assignment of functions to subordinate organizations, nature of their missions, and composition of the work force by occupations, grade levels, rank, race, sex, and other relevant characteristics to identify potential barriers.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+6.
+Skill, knowledge and understanding in research processes and techniques to gather facts, analyze data, draw conclusions, and develop recommendations in order to conduct studies, organizational reviews and work force statistical analyses to identify systemic diversity and inclusion barriers, such as under-representation in professional lines of work or agency policies and practices that may have a disparate impact on certain groups of people and to develop workable solutions.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+7.
+Skills in effective oral and written communication to convey sensitive information, provide clear, comprehensive advice and guidance, present detailed reports and findings, develop and conduct training seminars for managers, supervisors and guard members, present cogent and persuasive arguments for the acceptance of controversial points of view, and provide suitable recommendations to promote the overall improvement of the efficiency and effectiveness.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+8.
+Understanding of the kinds of management actions and employment practices and conditions that constitute barriers to targeted groups (e.g., minorities, women, other underrepresented community groups).
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+.
+Select “Yes” or “No” to the following question(s).
+9.
+I certify that, to the best of my knowledge and belief, all the information included in this questionnaire is true, correct and provided in good faith. I understand that if I make an intentional false statement, or commit deception or fraud in this application and its supporting materials, or in any document or interview associated with the process, I may be fined or imprisoned (18 U.S.C. 1001); my eligibilities may be cancelled, I may be denied an appointment, or I may be removed and debarred from Federal service (5 C.F.R. part 731). I understand that any information I give may be investigated. I understand that responding "No" to this item will result in my not being considered for this position.
+ Yes
+ No

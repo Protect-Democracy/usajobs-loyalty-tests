@@ -1,0 +1,76 @@
+Position Title
+IT CYBERSECURITY SPECIALIST (INFOSEC) - TITLE 5
+Agency
+Air National Guard Units
+Announcement Number
+GA-13115773-AF-27-044
+Open Period
+Nov 17, 2026 to Dec 31, 2026
+Eligibilities
+1.
+US Citizens. Are you a US Citizen?
+ Yes
+ No
+2.
+All federal re-employable eligibles. Are you eligible to be re-employed as a federal employee? To verify your eligibility, you must submit a copy of your most recent Notification of Personnel Action, Standard Form 50 (SF 50).
+ Yes
+ No
+3.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+4.
+Do you claim Veterans' Preference?
+ Yes
+ No
+Merit Hiring Plan Essay Questions
+.
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or Super Intelligence (SI) such as a large language model (LLM) like ChatGPT or Copilot.
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+3.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Super Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+2210-12-T5895000-GANG
+.
+Thank you for your interest in completing the Occupational Questionnaire. Your responses to this questionnaire, in conjunction with the other portions of your completed application, will be evaluated in making preliminary screening decisions for this position. Do not overstate or understate your level of experience and capability. You should be aware that your ratings are subject to evaluation and verification. Particularly, your resume must support the response to the questions in the Occupational Questionnaire. Additional steps in the selections process are designed to verify your stated level of experience and capability. It is important to note that all of your responses to the Assessment Questionnaire are subject to review and verification. If after reviewing your resume and/or supporting documentation a determination is made that you have overstated your qualifications and/or experience, you will be rated ineligible.
+.
+Select “Yes” or “No” to the following question(s).
+1.
+Do you have education and/or experience that demonstrates your ability to perform the work of an IT Cybersecurity Specialist (Infosec) at the GS-12 grade level or equivalent pay band in the Federal Service?
+ Yes
+ No
+2.
+Do you have experience serving as a technical expert and focal point for Information Technology (IT) security and information assurance policies, planning, programs, initiatives, certification and accreditation?
+ Yes
+ No
+3.
+Do you have experience providing advice and assistance regarding security aspects of processing, storage, retrieval, transmission, and access of classified and unclassified information?
+3a.
+Please explain your experience to the above question.
+4.
+Do you have experience administering and monitoring installation compliance with all applicable DoD, USAF, National Guard Bureau (NGB) and Air National Guard (ANG) Information Assurance regulations and policies?
+4a.
+Please explain your experience to the above question.
+5.
+Do you have experience administering and maintaining the organization certification & accreditation process for assigned SCIF(s) using the Risk Management Framework (RMF), and coordinating, compiling and maintaining all certification & accreditation documentation for appropriate accreditation authorities?
+5a.
+Please explain your experience to the above question.
+.
+Select “Yes” or “No” to the following question(s).
+6.
+CERTIFICATION: I certify that, to the best of my knowledge and belief, all of the information included in this questionnaire is true, correct, and provided in good faith. I understand that if I make an intentional false statement, or commit deception or fraud in this application and its supporting materials, or in any document or interview associated with the examination process, I may be fined or imprisoned (18 U.S.C. 1001); my eligibilities may be cancelled, I may be denied an appointment, or I may be removed and debarred from Federal service (5 C.F.R. part 731). I understand that any information I give may be investigated. I understand that responding "No" to this item will result in my not being considered for this position. Failure to agree or respond to the statement below will disqualify you from further consideration for the position. Select the most appropriate response below.
+ Yes
+ No
