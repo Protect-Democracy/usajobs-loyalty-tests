@@ -1,0 +1,79 @@
+Position Title
+PRODUCTION CONTROLLER (SCHEDULING)(TITLE 32)
+Agency
+Air National Guard Units
+Announcement Number
+UT-26-198-AF-13118923
+Open Period
+Nov 17, 2026 to Dec 17, 2026
+Preferences
+1.
+Select the lowest grade you are willing to accept for this position.
+ 7
+ 9
+2.
+Please select your status regarding applying for this position:
+ Onboard – You are a current permanent or indefinite Utah Air National Guard Federal Employee (T32 or T5).
+ UTANG Member – You are a current member of the Utah Air National Guard.
+ Public - This position requires military enlistment with the Utah Air National Guard. You are eligible and willing to immediately enlist with the Utah Air National Guard for this position.
+ Public - You are NOT eligible or willing to immediately enlist with the Utah Air National Guard.
+1152-09-D1255000-UTNG
+.
+We will evaluate your resume and responses to this questionnaire to determine if you are among the best qualified for this position. Your responses are subject to verification and must be fully supported by your resume and supporting documents.
+.
+Select “Yes” or “No” to the following question(s).
+1.
+Minimum Requirements: Do you have experience, education or training which indicates the candidate can reason in quantitative terms, communicate orally and in writing in a clear and concise manner, understanding the terminology and data pertaining to repair operations and process characteristics of the production activity.
+ Yes
+ No
+2.
+Specialized Experience GS7: Do you have at least 12 months experience working with people from various levels and backgrounds. Experience with a general knowledge of the functions and procedures of production control, records, references, and techniques for developing production control data. Experience assisting or maintaining workflow.
+ Yes
+ No
+3.
+Specialized Experience GS 09: Do you have at least 24 months experience preparing job or work orders; scheduling various phases of projects into the production facility; following up to see if work is progressing as planned and arranging for adjustments in materials, machine processes, and work sequencing allowing for changes. Experience with current automation support programs to input data, provide status of equipment, and monitor job order status, monitor work priorities, requisition repair parts, track repair parts status, etc.
+ Yes
+ No
+.
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+4.
+Ability to contacts with employees in the same unit and outside the immediate organization.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+5.
+Ability to plan, coordinate, or advise on production efforts, or to resolve production efforts/problems by influencing or motivating production or support personnel.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+6.
+Skilled to analyzes and improves repair processes, methods, procedures and standards.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+7.
+Skill in developing local procedures to ensure effective and efficient scheduling of engines, support equipment, and develops, writes, and publishes guidance for aircraft document reviews.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+8.
+Skill in developing and maintaing job standard master listings (JML) for assigned equipment in the MIS incoordination with functional work centers.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+.
+Select “Yes” or “No” to the following question(s).
+9.
+I certify that, to the best of my knowledge, all of the information on the questionnaire and documents attached to this application is true, correct, complete, and made in good faith. I understand that false or fraudulent information on the questionnaire and documents attached to this application may be grounds for non-selection or termination?
+ Yes
+ No

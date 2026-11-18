@@ -1,0 +1,93 @@
+Position Title
+IT SPECIALIST (SYSADMIN/CUSTSPT) (TITLE 32)
+Agency
+Air National Guard Units
+Announcement Number
+UT-26-174-AF-13119396
+Open Period
+Nov 17, 2026 to Dec 01, 2026
+Preferences
+1.
+Priority will be given to all current members of the UTANG. Please select your status regarding applying for this position:
+ Onboard – You are a current permanent or indefinite Utah Air National Guard Federal Employee (T32 or T5).
+ UTANG Member – You are a current member of the Utah Air National Guard.
+ Public - This position requires military enlistment with the Utah Air National Guard. You are eligible and willing to immediately enlist with the Utah Air National Guard for this position.
+ Public - You are NOT eligible or willing to immediately enlist with the Utah Air National Guard.
+Merit Hiring Plan Essay Questions
+.
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or Super Intelligence (SI) such as a large language model (LLM) like ChatGPT or Copilot.
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+3.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Super Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+2210-11/9-D1629000-UTNG
+.
+We will evaluate your resume and responses to this questionnaire to determine if you are qualified for this position. You will be removed from consideration if you do not meet the specialized experience required. Your responses are subject to verification and must be fully supported by your resume and supporting documents.
+.
+Select “Yes” or “No” to the following question(s).
+1.
+Minimum Requirements: Do you have experience, education or training that has provided a basic knowledge of data processing functions and general management principles that enabled the applicant to understand the stages required to automate a work process. Experience may have been gained in work such as computer operator or assistant, computer sales representative, program analyst, or other positions that required the use or adaptation of computer programs and systems.
+ Yes
+ No
+2.
+Specialized Experience GS-11: Do you have 1 year as a GS-2210-09? *Must provide SF50 to validate response OR Do you have the following knowledge, skills, or abilities: Knowledge of a variety of operating systems on desktops and servers. Some of the operating systems utilized involve a higher security level than that typically used in an office automation environment. These involve multiple levels of security with multiple authentication levels. Knowledge of and skill in operating a wide variety of encryption hardware and software along with the ability to integrate these items into the local communications backbone. Knowledge and skill in managing a variety of classified communications and computer hardware and software in support of an intelligence unit. Knowledge of project management techniques and tools sufficient to provide expert guidance on the implementation of emerging technologies. Knowledge of the principles and methods used for planning and managing the implementation, update, and integration of information system components. Skill in troubleshooting problems and implementing changes on multifaceted and interdependent computer platforms. Knowledge of, and skill in applying system design techniques and hardware capabilities to analyze requests for new and modified applications. Knowledge of and skill in applying storage management practices, assignment of resources, and file management techniques. Skill in using performance tuning tools and techniques that are used to optimize systems functionality in order to meet installation systems requirements. Knowledge of system diagnostic tools and structured techniques for the recovery of failed systems and data access. Knowledge of analysis and design techniques to develop system software modifications, systems administration policy and procedures for use across the organization. Knowledge of the overall architecture of the systems administered in order to install and maintain software and hardware configurations. Knowledge of state-of-art system software technology and related computer equipment to perform studies and to evaluate system changes and provide customer support to unit personnel. Knowledge of the provisions and state-of-art hardware, software, operating systems, and various approaches to networking and interfaces, as well as existing C4 infrastructure, to determine the applicability and susceptibility for use within the unit. Knowledge of a wide range of IT standards, principles, concepts, methods, policies, and authorized approaches. --Knowledge of network configuration techniques, computer equipment and assigned system software to determine source of failures. Knowledge of applications, operating systems and components, protocols, and various hardware and software used within the unit in order to conduct system administration functions. Knowledge of information technology systems security principles and methods to design, develop, implement, and manage systems, networks, and data that ensure confidentiality, integrity and availability. Knowledge of a wide variety of applications, operating systems, protocols, and equipment used in customer organizations, and methods and practices for troubleshooting, recovering, adjusting, modifying, and improving current computer systems in the unit and troubleshooting techniques for all hardware and peripherals. Knowledge of a wide range of communications concepts, principles, and practices as well as telecommunications operating techniques, digital and analog communications requirements. Skill in identification, isolation and correction of complex workstation and network system faults. Skill in identifying and resolving conflicts between workstations, network and peripheral devices; skill in adapting existing software to advanced systems; and skill in adapting multiple devices to operate from individual workstations or as network devices. OR GS-11 level, a Ph.D. or equivalent, or 3 years of progressively higher level graduate education leading to such a degree. Undergraduate or Graduate Education: Degree in computer science, engineering, information science, information systems management, mathematics, operations research, statistics, or technology management or degree that provided a minimum of 24 semester hours in one or more of the fields identified above and required the development or adaptation of applications, systems or networks. *APPLICANT MUST SUBMIT TRANSCRIPTS FOR VERIFICATION OF REQUIREMENTS.*
+ Yes
+ No
+.
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+3.
+Knowledge and skill in managing a variety of classified communications and computer hardware and software in support of an intelligence unit.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+4.
+Knowledge of communications systems and network systems technology and operations, sufficient to design, plan, manage, install, integrate, test, maintain, and/or execute telecommunications and network systems, services, or operations needed to satisfy the mission requirements.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+5.
+Skill in troubleshooting problems and implementing changes on multifaceted and interdependent computer platforms.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+6.
+Knowledge of, and skill in applying system design techniques and hardware capabilities to analyze requests for new and modified applications.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+7.
+Knowledge of system diagnostic tools and structured techniques for the recovery of failed systems and data access.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+8.
+Knowledge of state-of-art system software technology and related computer equipment to perform studies and to evaluate system changes and provide customer support to unit personnel.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+.
+Select “Yes” or “No” to the following question(s).
+9.
+I certify that, to the best of my knowledge, all of the information on the questionnaire and documents attached to this application is true, correct, complete, and made in good faith. I understand that false or fraudulent information on the questionnaire and documents attached to this application may be grounds for non-selection or termination.
+ Yes
+ No
