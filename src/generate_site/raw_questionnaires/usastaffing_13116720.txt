@@ -1,0 +1,51 @@
+Position Title
+IT SPECIALIST (SYSTEMS ADMINISTRATION)
+Agency
+Army National Guard Units
+Announcement Number
+OH-13116720-AR-26-410-T
+Open Period
+Nov 17, 2026 to Dec 02, 2026
+Preferences
+1.
+Would you accept a temporary appointment?
+ Yes
+ No
+Area of Consideration
+1.
+Are you a current member of the Ohio Army National Guard?
+ Yes
+ No
+2.
+Are you within the Grade of E-4 through E-7?
+ Yes
+ No
+2210-GS11-D2489P01-OHARNG
+.
+We will evaluate your resume and responses to this assessment questionnaire to determine if you are among the best qualified for this position. Your responses are subject to verification and must be supported by your resume and supporting documents.
+.
+Select “Yes” or “No” to the following question(s).
+1.
+Do you possess IT-related experience demonstrating each of the four competencies listed below. Attention to Detail - Is thorough when performing work and conscientious about attending to detail. Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services. Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately. Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations. AND Do you possess experience, education, and/or training that has provided a basic knowledge of data processing functions and general management principles that enabled you to understand the stages required to automate a work process? Experience may have been gained in work such as computer operator or assistant, computer sales representative, program analyst, or other positions that required the use or adaptation of computer programs and systems.
+ Yes
+ No
+2.
+Do you possess 1-year specialized experience that has equipped you with the particular competencies/knowledge, skills, and abilities to successfully perform the duties of the position and is typically in or related to the work of the position to be filled; experience includes experience, education, or training that approaches techniques and requirements appropriate to an assigned computer applications area or computer specialty area in an organization; experience planning the sequence of actions necessary to accomplish the assignment where this entailed coordination with others outside the organizational unit and development of project controls; experience that required adaptations of guidelines or precedents to meet the needs of the assignment; experience preparing documentation on cost/benefit studies where is involved summarizing the material and organizing it in a logical fashion?
+ Yes
+ No
+.
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+3.
+. Manages all assigned servers and server resources, analyzing and defining requirements; analyzing workload; monitoring capacity and performance; diagnosing and resolving problems; and developing backup and recovery procedures. Installs, configures, and maintains servers and server resources in support of business processing requirements and ensures that servers are tested for stability. Installs and upgrades operating systems and layered software packages, ensuring compatibility with Army standards prior to installation of upgrade or new release. Develops and maintains database of hardware and software configurations. Conducts hardware and software audits to ensure compliance with Army and DOD standards and maintains system configurations. Monitors and manages the performance, capacity, availability, serviceability, and recoverability of installed servers and associated server resources. Implements security procedures and tools. Resolves hardware/software interface and interoperability problems, and ensures Server functionality, integrity, and efficiency.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+4.
+Resolves inquiries and problems concerning access, use, and availability of datacenter technologies. Provides technical assistance to current and potential users to minimize disruptions of computer operations. Provides formal or informal training so users understand the relationships of the system and are able to work with the system without undue interruption. Tests and analyzes system malfunctions to resolve physical and logical processing problems. Analyzes, evaluates, and resolves malfunctions by adjusting equipment configurations, realigning port allocations, recommending appropriate acquisitions, and distinguishing between equipment, software, and operation problems. Assists in solving problems associated with deliveries in support of individual hardware or software orders. Documents program purposes, methods, assumptions, and conclusions. Leads or participates in on-site surveys and/or reviews program information to determine status of the function and adequacy and quality of services. Documents findings and ensures recommendations are relevant to actual operating environments. Directs preparation or prepares a variety of program reports.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.

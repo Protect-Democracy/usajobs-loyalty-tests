@@ -1,0 +1,86 @@
+Position Title
+IT SPECIALIST (CUSTOMER SUPPORT) (TITLE 32)
+Agency
+Army National Guard Units
+Announcement Number
+UT-26-201-AR-13118748
+Open Period
+Nov 17, 2026 to Dec 01, 2026
+Preferences
+1.
+Select the lowest grade you are willing to accept for this position.
+ 9
+ 11
+2.
+IAW UTNGR 690-12 dated AUG 2022, Priority will be given to all current, onboard employees of the UTARNG Please select your status regarding applying for this position:
+ Onboard – You are a current permanent or indefinite Utah Army National Guard Federal Employee (T32 or T5).
+ UTARNG Member – You are a current member of the Utah Army National Guard.
+ Public - This position requires military enlistment with the Utah Army National Guard. You are eligible and willing to immediately enlist with the Utah Army National Guard for this position.
+ Public- You ARE NOT eligible or willing to immediately enlist with the Utah Army National Guard.
+2210-11/9-D1629000-UTNG
+.
+We will evaluate your resume and responses to this questionnaire to determine if you are among the best qualified for this position. Your responses are subject to verification and must be fully supported by your resume and supporting documents.
+.
+Select “Yes” or “No” to the following question(s).
+1.
+Minimum Requirements: Do you have experience, education or training that has provided a basic knowledge of data processing functions and general management principles that enabled the applicant to understand the stages required to automate a work process. Experience may have been gained in work such as computer operator or assistant, computer sales representative, program analyst, or other positions that required the use or adaptation of computer programs and systems.
+ Yes
+ No
+2.
+Specialized Experience GS-09: Do you have at least 24 months experience, education, or training in analysis of the interrelationship of pertinent components of the system. Experience planning the sequence of actions necessary to accomplish the assignment. Experience scheduling the sequence of programs to be processed by computers where alternatives had to be weighed with a view to production efficiency. OR At the GS-9 level, a masters or equivalent graduate degree or 2 full years of progressively higher level graduate education leading to such a degree may be substituted. Undergraduate or Graduate Education: Degree in computer science, engineering, information science, information systems management, mathematics, operations research, statistics, or technology management or degree that provided a minimum of 24 semester hours in one or more of the fields identified above and required the development or adaptation of applications, systems or networks. *APPLICANT MUST SUBMIT TRANSCRIPTS FOR VERIFICATION OF REQUIREMENTS.*
+ Yes
+ No
+3.
+Specialized Experience GS-11: Do you have at least 36 months experience, education, or training that approaches techniques and requirements appropriate to an assigned computer applications area or computer specialty area in an organization. Experience planning the sequence of actions necessary to accomplish the assignment where this entailed coordination with others outside the organizational unit and development of project controls. Experience that required adaptations of guidelines or precedents to meet the needs of the assignment. Experience preparing documentation on cost/benefit studies where is involved summarizing the material and organizing it in a logical fashion. OR GS-11 level, a Ph.D. or equivalent, or 3 years of progressively higher level graduate education leading to such a degree. Undergraduate or Graduate Education: Degree in computer science, engineering, information science, information systems management, mathematics, operations research, statistics, or technology management or degree that provided a minimum of 24 semester hours in one or more of the fields identified above and required the development or adaptation of applications, systems or networks. *APPLICANT MUST SUBMIT TRANSCRIPTS FOR VERIFICATION OF REQUIREMENTS.*
+ Yes
+ No
+.
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+4.
+Ability to addresses problems; installs, configures, troubleshoots, and provides maintenance and training in response to customer requirements or inquiries (e.g., tiered-level customer support).
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+5.
+Ability to detects damaged or lost files, optimizes disk management, measures system performance, controls system security, and/or extends system capabilities to support local requirements.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+6.
+Able to trouble-shoot and repair IT systems and related components, (software & hardware) implementing Army standards and accepted practices.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+7.
+Able to provide support and guidance on installing, and operating personal computers, peripheral equipment, and associated software.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+8.
+Able to supports users on equipment and software; custom installation and maintenance of hardware and software.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+9.
+Assists in solving problems associated with delivery of hardware and software orders.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+.
+Select “Yes” or “No” to the following question(s).
+10.
+I certify that, to the best of my knowledge, all of the information on the questionnaire and documents attached to this application is true, correct, complete, and made in good faith. I understand that false or fraudulent information on the questionnaire and documents attached to this application may be grounds for non-selection or termination?
+ Yes
+ No
