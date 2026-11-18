@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "finished": false,
-  "summary": "stopped at 13,120,994: USAStaffing refused requests (403) {'missing': 3006, 200: 621, 403: 63}",
-  "new": 621
+  "finished": true,
+  "summary": "scanned to 13,120,612: {'missing': 2247}",
+  "new": 0
 }
