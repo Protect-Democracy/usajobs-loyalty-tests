@@ -1,0 +1,42 @@
+Position Title
+IT SPECIALIST (INFOSEC/NETWORK)
+Agency
+Air National Guard Units
+Announcement Number
+OH-13116688-AF-26-453-T
+Open Period
+Nov 19, 2026 to Nov 24, 2026
+Area of Consideration
+1.
+Are you currently in the grade of E5?
+ Yes
+ No
+2.
+Are you a current member of the Ohio Air National Guard?
+ Yes
+ No
+2210-GS11-D2341000-T
+.
+We will evaluate your resume and responses to this assessment questionnaire to determine if you are among the best qualified for this position. Your responses are subject to verification and must be supported by your resume and supporting documents.
+.
+Select “Yes” or “No” to the following question(s).
+1.
+Do you posses 1 year of specialized experience which includes experience, education, or training that approaches techniques and requirements appropriate to an assigned computer applications area or computer specialty area in an organization; experience planning the sequence of actions necessary to accomplish the assignment where this entailed coordination with others outside the organizational unit and development of project controls; experience that required adaptations of guidelines or precedents to meet the needs of the assignment; experience preparing documentation on cost/benefit studies where is involved summarizing the material and organizing it in a logical fashion?
+ Yes
+ No
+.
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+2.
+Describe your experience performing analysis and design of automated and manual systems related to the network; providing data for intrusion detection analysis; determines applicability of established methods; providing technical advice to users; examining and evaluates alternative means of satisfying user requirements; suggesting technically feasible approaches and makes recommendations regarding the most effective countermeasures.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+3.
+Describe your experience performing cyberspace operations that protect and defend (or assess the capability to protect and defend) information and information systems by ensuring their availability, integrity, authentication, confidentiality, and non-repudiation; providing for mission assurance of information systems by incorporating protection, detection, and reaction capabilities; conducting risk and vulnerability assessments of DoD information systems to identify associated vulnerabilities, nsks and protection needs.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
