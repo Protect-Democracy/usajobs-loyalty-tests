@@ -1,0 +1,84 @@
+Position Title
+Supervisory Information Technology Specialist (Service Operations Manager)
+Agency
+Office of Inspector General
+Announcement Number
+IG-27-13119320-BC-IMP
+Open Period
+Nov 19, 2026 to Nov 27, 2026
+Eligibilities
+.
+Please read the following eligibility questions and carefully-Mark "YES" to ALL eligibility options below for which you wish to be considered. Eligibility options claimed must be supported with proper documentation by the closing date of the announcement. Please reference the required documents section listed in the vacancy announcement. Failure to select at least one eligibility below and provide documentation proof of such eligibility will result in your application being ineligible for further consideration. If you are unsure how to answer the eligibility questions, please email the HR help desk two days before the closing date of this vacancy at DOIOIG_VACANCIES@DOIOIG.GOV .
+1.
+Are you a current employee of the Department of the Interior, Office of Inspector General with career or career-conditional tenure in the competitive service? If yes, you must submit an SF-50 verifying that you hold or previously held a permanent Federal position.
+ Yes
+ No
+2.
+Are you a current or former federal employee displaced from the agency hiring for this position? If yes, confirm: you are located in the same local commuting area of the vacancy your grade is equivalent to or below the grade level of the vacancy AND your last performance rating of record is at least fully successful or the equivalent. You will be required to submit supporting documentation to validate your claim of CTAP eligibility such as a Reduction in Force (RIF) separation notice or a Proposed Removal/Separation notice and a copy of your latest Notification of Personnel Action, Standard Form 50. For more information, review the USAJOBS Resource Center.
+ Yes
+ No
+Preferences
+1.
+In the last five years, based on the closing date of this announcement, have you served or are you currently serving as an Executive Branch political, Schedule C, or Non-career SES appointee? You can find out if you have held one of these appointment types by looking at your Standard Form 50s in your Electronic Official Personnel Folder (eOPF), in Section 5 where the legal authorities are listed. A political appointee is an appointment made by the President without confirmation by the Senate (5 CFR 213.3102(c)) OR an assistant position to a top-level federal official if filled by a person designated by the President as a White House Fellow (5 CFR 213.3102(z)). A Schedule C appointee occupies a position excepted from the competitive service by the President, or by the Director of OPM, because of the confidential or policy-determining nature of the position duties (5 CFR 213.3301 and 5 CFR 213.3302). A Non-career SES appointee is approved by the White House and serves at the pleasure of the appointing official without time limitations (5 CFR 317 Subpart F).
+ Yes
+ No
+Merit Hiring Plan Essay Questions
+.
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or Super Intelligence (SI) such as a large language model (LLM) like ChatGPT or Copilot.
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+3.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Super Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+Conditions of Employment
+1.
+This position is not a remote work position. You will be required to physically report to the duty station stated in the announcement on a regular basis. Partial work-from-home flexibilities (i.e., telework) may be authorized.
+ I understand the statement above and wish to proceed with my application.
+ I am no longer interested in this position and wish to withdraw my application.
+Min Quals
+.
+Instructions: To meet the minimum qualifications for this position, candidates must one year of specialized experience at possess equivalent to the GS-13 grade level in the Federal service or its equivalent in other organizations. Please select the answers that describe your experience at the GS-13 level. Applicants must demonstrate the required experience in their resume to support their responses, including the scope, complexity, and level of responsibility consistent with enterprise IT operational leadership. Your resume will be reviewed to confirm your responses.
+.
+Basic Requirement: Applicants must have IT-related experience demonstrating each of the competencies listed below: Attention to Detail - Is thorough when performing work and conscientious about attending to detail. Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services. Decision Making- Makes sound, well-informed, and objective decisions; perceives the impact and implications of decisions; commits to action, even in uncertain situations, to accomplish organizational goals; causes change. Information Management - Identifies a need for and knows where or how to gather information; organizes and maintains information or information management systems. Interpersonal Skills - Shows understanding, friendliness, courtesy, tact, empathy, concern, and politeness to others; develops and maintains effective relationships with others; may include effectively dealing with individuals who are difficult, hostile, or distressed; relates well to people from varied backgrounds and different situations. Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately. Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations. Teamwork- Encourages and facilitates cooperation, pride, trust, and group identity; fosters commitment and team spirit; works with others to achieve goals. Technical Competence- Uses knowledge that is acquired through formal training or on-the-job experience to perform one's job; works with, understands, and evaluates technical information related to the job; advises others on technical issues.
+1.
+Do you have experience using operational data and automated tools to support troubleshooting, reporting, or service improvement? Relevant work includes reviewing ticket metrics, system logs, or monitoring information and using or contributing to scripts, automated workflows, or comparable support tools. Prior administration of a named AIOps platform is not required.
+ Yes, for one year of longer.
+ Yes, for less than one year.
+ No.
+1a.
+Please indicate where in your resume your experience can be located.
+2.
+Do you have experience assessing customer support resource needs and contributing to requirements or recommendations that consider cost or utilization? Relevant work includes equipment, licensing, staffing, support tools, resource estimates, or lifecycle needs. Comparable technology resource management is creditable; prior ownership of a formal FinOps program is not required.
+ Yes, for one year of longer.
+ Yes, for less than one year.
+ No.
+2a.
+Please indicate where in your resume your experience can be located.
+3.
+3. Do you have experience coordinating a customer support deployment or improvement and communicating technical information to stakeholders? Relevant work includes schedules, dependencies, testing, user transition, technical documentation, or status briefings for a device refresh, service desk tool, migration, or process change, coordinated with other technical groups.
+ Yes, for one year of longer.
+ Yes, for less than one year.
+ No.
+3a.
+Please indicate where in your resume your experience can be located.
+4.
+Please provide a short answer response regarding your experience and the ability to lead customer support personnel and manage workforce performance?
+5.
+Please provide a short answer response describing your experience and the ability to direct service desk operations and improve IT service management?
+6.
+Please provide a short answer response describing your experience and ability to lead support projects and communicate recommendations?
+7.
+I acknowledge that no other additional information may be submitted to determine my qualifications outside of the two-page resume and any short answer responses I provide for my application.
+ Yes, I certify that the resume and supporting documents have been submitted.
+ No, I do not certify the information provided above.
+8.
+I certify that, to the best of my knowledge and belief, all of the information included in this questionnaire is true, correct, and provided in good faith. I understand that if I make an intentional false statement or commit deception or fraud in this application and its supporting materials, or in any document or interview associated with the examination process, I may be fined or imprisoned (18 U.S.C. 1001); my eligibilities may be cancelled; I may be denied an appointment; or I may be removed and debarred from Federal service (5 C.F.R. part 731). I understand that any information I give may be investigated. I understand that responding "No" to this item will result in my not being considered for this position.
+ Yes, I certify that the information provided in this questionnaire is true, correct and provided in good faith, and I understand the information provided above.
+ No, I do not certify the information provided above.

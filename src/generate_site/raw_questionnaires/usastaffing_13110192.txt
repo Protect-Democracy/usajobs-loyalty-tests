@@ -1,0 +1,140 @@
+Position Title
+Chief Information Security Officer
+Agency
+Offices, Boards and Divisions
+Announcement Number
+DH-13110192-27-VJ
+Open Period
+Nov 19, 2026 to Nov 30, 2026
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+Preferences
+1.
+In the last five years (from the closing date of this announcement) have you served, or are you currently serving, as an Executive Branch Political, Schedule C, or Non-career Senior Executive Services appointee? You can find out if you have held one of these appointment types by looking at the SF-50s in your Electronic Official Personnel Folder (eOPF), in Section 5 where the legal authorities are listed. A political appointee is an appointment made by the President with or without confirmation by the Senate (5 CFR 213.3102(c)) OR an assistant position to a top-level federal official if filled by a person designated by the President as a White House Fellow (5 CFR 213.3102(z)). A Schedule C appointee occupies a position excepted from the competitive service because of the confidential or policy-determining nature of the position duties (5 CFR 213.3301 and 5 CFR 213.3302). A noncareer SES appointee serves at the pleasure of the appointing official without time limitations (5 CFR 317 Subpart F).
+ Yes, I have held one of the above appointment types in the last 5 years.
+ No, I have not held any of the above appointment types in the last 5 years.
+ I am uncertain if I have held any of these appointment types in the last 5 years.
+Merit Hiring Plan Essay Questions
+.
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or Super Intelligence (SI) such as a large language model (LLM) like ChatGPT or Copilot.
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+3.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Super Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+Chief Information Security Officer GS-15
+.
+Carefully read each statement and all possible answers before selecting a response. Some questions will be used to screen out ineligible applicants. Applicant errors in responses will not be corrected. You are responsible for the accuracy of your application. If you fail to provide the requested information contained in the vacancy announcement, or the information submitted is insufficient, you may lose consideration for the position.
+1.
+Select the statement that best describes your qualifications to perform work at the GS-15 level or equivalent pay band in the federal service for the Chief Information Security Officer position.
+ I have one year of specialized experience equivalent to the the GS-14 level in the Federal service performing such duties as coordinating compliance and vulnerability remediation with IT stakeholders; providing expert technical advice and guidance on cybersecurity emerging technologies and modernization programs and practices; serving as an expert advisor on cybersecurity requirements and the protection of agency information and systems; participating in component and interagency project teams; analyzing technology trends and proposing solutions for technology challenges with broad government-wide implications; planning and overseeing component-wide IT projects involving innovative concepts and approaches; leading incident response efforts and promoting a culture of security awareness within the agency; providing protection capabilities including security event monitoring and investigations.
+ I do not have the experience as described above.
+2.
+A system owner proposes deploying a cloud service before completion of the authorization process because the service will not initially store sensitive information. What is the most appropriate response?
+ Approve deployment because systems processing non-sensitive information do not require authorization.
+ Permit deployment if the system owner accepts the risk verbally.
+ Determine the applicable authorization requirements, document the risks, and require approval by the designated risk-acceptance authority before operation.
+ Permit deployment after the cloud provider submits a penetration-test summary.
+3.
+An application team claims that all security requirements are satisfied because its cloud provider maintains a current authorization. What should the cybersecurity team examine first?
+ Whether the provider’s authorization eliminates the agency’s responsibility for application security.
+ Whether inherited controls apply to the application and whether customer-responsibility controls have been implemented.
+ Whether the application is accessible outside normal business hours.
+ Whether the provider uses the same development tools as the agency.
+4.
+During an authorization review, assessors find that a required control is only partially implemented. The system supports a mission-critical litigation function. What should the CISO do or recommend?
+ Automatically deny authorization because every control must be fully implemented.
+ Ignore the deficiency because the system supports a critical mission.
+ Evaluate the resulting risk, compensating controls, remediation plan, and operational necessity before making an authorization recommendation.
+ Transfer responsibility for the control deficiency to the development contractor.
+5.
+Several agencies agree on a project's goal but use incompatible technical standards. What should the project leader prioritize?
+ Allowing each agency to implement its preferred solution without coordination
+ Establishing interoperability requirements and governance for resolving technical and architectural conflicts
+ Choosing the oldest standard because it is the most established
+ Deferring integration planning until deployment
+6.
+During a major ransomware incident, the CIO wants systems restored immediately, while the security team wants additional time to verify containment. What is the cybersecurity leader's BEST interpersonal approach?
+ Support the security team's position without discussion.
+ Authorize restoration to satisfy executive concerns.
+ Facilitate a discussion that balances business continuity needs with security risks.
+ Delay the decision until more information becomes available.
+7.
+Which leadership behavior is MOST likely to build trust between cybersecurity and business stakeholders?
+ Limiting security discussions to technical personnel.
+ Explaining risks in business terms and following through on commitments.
+ Escalating all disagreements to senior leadership.
+ Enforcing security policies without exception.
+8.
+A critical zero-day vulnerability affects an internet-facing product used by the organization. No vendor patch is available. Threat intelligence indicates active exploitation, but internal monitoring has not detected compromise. What is a CISO's BEST course of action?
+ Take no action until exploitation is confirmed internally.
+ Immediately disconnect every affected system, regardless of mission impact.
+ Evaluate exposure, implement compensating controls, and increase monitoring.
+ Accept the risk because the vendor has not released a patch.
+9.
+Cyber threat intelligence identifies active exploitation of a vulnerability affecting software widely used within the Civil Division. Several systems have not yet been patched. What should you do first?
+ Wait for a vendor advisory update.
+ Convene stakeholders and assess exposure.
+ Isolate affected Division systems.
+ Delay action pending audit review.
+10.
+A critical internet-facing system contains a vulnerability being actively exploited. A patch is available, but applying it requires an eight-hour outage during a mission-critical operational period. What should a CISO recommend?
+ Patch immediately without consulting operational leadership.
+ Delay remediation until the next scheduled maintenance window.
+ Compare exploitation likelihood and impact with outage consequences.
+ Transfer responsibility to the system owner.
+11.
+An audit of a critical financial application covers the production servers and database. The application authenticates users through a centralized identity platform and receives data from several cloud-based interfaces. The audit team excludes these dependencies because they are managed by other departments. What should the CISO do?
+ Accept the scope because the application team does not manage those services.
+ Expand or coordinate the audit to evaluate significant dependencies.
+ Audit only the application source code.
+ Transfer responsibility for the audit to the identity team.
+12.
+Senior leadership requests a briefing on the organization's cybersecurity technology modernization initiative. Which approach best ensures clear, effective communication that supports informed decision making?
+ Provide technical details to demonstrate subject matter expertise.
+ Present a high level overview and avoid discussing risks or challenges.
+ Summarize modernization goals, progress, key risks, impacts on mission delivery, and recommended next steps.
+ Share the full project documentation so leadership can review all details independently.
+13.
+The infrastructure organization prioritizes rapid cloud migration. The cybersecurity team believes security architecture reviews are being bypassed. Tensions are increasing. What is the BEST response?
+ Publicly criticize the infrastructure organization.
+ Demand authority over cloud decisions.
+ Create a joint governance approach that identifies shared success measures, accountability, and decision points.
+ Allow each office to operate independently.
+14.
+During a cybersecurity incident affecting multiple business units, senior leaders request hourly updates. What information should you provide?
+ All technical logs and forensic information available.
+ Only information that has been independently validated.
+ General statements indicating the investigation is ongoing.
+ Information requested by only the most senior executive.
+15.
+An incident dashboard shows: Security incidents decreased by 50%. Endpoint visibility fell from 98% to 72%. Log collection failures increased significantly. The SOC Director reports that security posture has improved. What should the CISO conclude?
+ Security performance has improved.
+ Attackers have reduced activity.
+ Reduced visibility may explain lower incident reporting, requiring further analysis.
+ SOC metrics are sufficient to demonstrate improvement.
+16.
+A critical emergency patch was applied successfully. Review reveals: Testing documentation is missing. Approvals occurred after deployment. No post-implementation review occurred. What detail should concern the CISO most?
+ The patch was successful.
+ Governance and risk-management safeguards were bypassed.
+ The deployment occurred quickly.
+ Emergency changes never require documentation.
+17.
+I certify that, to the best of my knowledge and belief, all of the information included in this questionnaire is true, correct and provided in good faith. I understand that if I make an intentional false statement, or commit deception or fraud in this application and its supporting materials, or in any document or interview associated with the examination process, I may be fined or imprisoned (18 5 U.S.C. 1001); my eligibilities may be canceled, I may be denied an appointment, or I may be removed and debarred from Federal service (5 C.F.R. part 731). I understand that any information I give may be investigated. I understand that responding "No" to this item will result in my not being considered for this position.
+ Yes, I certify that the information provided in this questionnaire is true, correct and provided in good faith, and I understand the information provided above.
+ No, I do not certify/understand the information provided above.

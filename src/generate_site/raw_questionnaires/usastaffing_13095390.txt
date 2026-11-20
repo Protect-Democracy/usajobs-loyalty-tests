@@ -1,0 +1,74 @@
+Position Title
+Information Technology Specialist (SYSANALYSIS)
+Agency
+Office of the Secretary of Health and Human Services
+Announcement Number
+HHS-ONC-RG-27-13095390
+Open Period
+Nov 20, 2026 to Nov 24, 2026
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+2.
+Are you a former Department of Health and Human Services (HHS) employee eligible for priority reemployment consideration under the HHS Priority Reemployment List (PRL) due to Reduction in Force (RIF)? You may be eligible for priority consideration if you are actively registered on the HHS Priority Reemployment List (PRL) for the same local commuting area, occupational job series, and grade level(s) as this vacancy announcement. If you meet these criteria, the following supporting documentation must be submitted to support your claim: copy of your last performance rating of record (if separated due to RIF); SF-50 (Notification of a Personnel Action) that shows the position, grade level and duty location of the position from which you were separated. If you did not reach your full performance level or promotion potential, you should also submit an additional SF-50 that documents that grade level. To ensure you fulfil this requirement, submit an SF-50 (Notification of a Personnel Action) that contains this information; and, Notification from the Office of Workers' Compensation Programs, Department of Labor, that injury compensation benefits have ceased or will cease (if eligible due to recovery from compensable work-related injury). Based on the above, are you eligible for PRL? If so, you must select "Yes" and provide the required documents with your application package, before the announcement closes.
+ Yes
+ No
+3.
+Are you a recent graduate who has completed, within the previous two years, a qualifying associate's, bachelors, masters, professional, doctorate, vocational or technical degree or certificate? (Veterans unable to apply within two years of receiving their degree due to military service obligation have up to six years after degree completion to apply). If eligible, submit a copy of your transcripts to support your recent graduate eligibility. If you are a veteran, please submit a copy of your latest Certificate of Release or Discharge from Active Duty, DD-214 (copy indicating character of service) or other proof of your service which includes character of service. For more information, review USAJOBS Student and Recent Graduate resources. ( https://www.usajobs.gov/StudentsAndGrads )
+ Yes
+ No
+4.
+Reasonable Accommodations for taking the online assessments are provided on a case-by-case basis only to qualified individuals with a disability covered by the Rehabilitation Act of 1973, as amended. Do you have a disability (physical or mental) that you believe will interfere with completing the online assessments and require a Reasonable Accommodation?
+ Yes
+ No
+5.
+Political, Schedule C, Non-career SES Appointee: In the last five years, based on the closing date of this announcement, have you been or are you currently an employee in the Executive Branch serving on a political, Schedule C, or Non-career SES appointment? If yes, and you are selected through this vacancy announcement, you may be required to obtain approval by the Office of Personnel Management (OPM) prior to beginning employment. A political appointee is an appointment made by the President without confirmation by the Senate (5 CFR 213.3102(c)) OR an Assistant position to a top-level Federal official if filled by a person designated by the President as a White House Fellow (5 CFR 213.3102(z)). A Non-career SES appointee is approved by the White House and serves at the pleasure of the appointing official without time limitations. A Schedule C appointee occupies a position excepted from the competitive service by the President, or by the Director, OPM, because of the confidential or policy-determining nature of the position duties.
+ Yes
+ No
+6.
+As of the closing date of this announcement, do you have less than five years of work experience in the occupation or field for which you are applying? Note: Non-paid/Paid, Internships and volunteer work should be considered experience for this question. This question will not be considered for hiring and only used for data reporting purposes.
+ Yes
+ No
+7.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+8.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+9.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+10.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+11.
+I certify that the above responses are in my own words and I did not use a consultant or Artificial Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+Preferences
+1.
+Select the location(s) you want to be considered for. You must choose at least one location.
+ San Francisco, CA
+ Denver, CO
+ Washington, DC
+ Atlanta, GA
+ Boston, MA
+ New York, NY
+ Cleveland, OH
+ Nashville, TN
+ Dallas, TX
+26AR25-GS-2210-9 ONC
+.
+We will evaluate your resume and responses to this questionnaire to determine if you are among the best qualified for this position. Your responses are subject to verification and must be fully supported by your resume and supporting documents.
+1.
+Required From the descriptions below, select the one response that best describes how your background meets the basic requirements for an IT Specialist (SYSANALYSIS) GS-2210.
+ I have IT-related experience demonstrating each of the four competencies listed: 1) Attention to Detail - Is thorough when performing work and conscientious about attending to detail. 2) Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services. 3) Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately. 4) Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.
+ I do not possess the experience described above.
+2.
+From the descriptions below, select the one which best describes your education and/or experience for IT Specialist (SYSANALYSIS), GS-2210-09.
+ I have a master's degree or equivalent graduate degree or 2 full years of progressively higher level graduate education leading to a master's degree or equivalent graduate degree in in computer science, engineering, information science, information systems management, mathematics, operations research, statistics, or technology management or degree that provided a minimum of 24 semester hours in one or more of the fields identified above and required the development or adaptation of applications, systems or networks.
+ I have at least one year of specialized experience, equivalent to the GS-07 grade level in the Federal service applying direct hands-on, experience supporting IT policies or users in a fully automated environment in one or more of the following: (1) Assisting senior level IT analysts with conducting routine studies and tests to evaluate the system, hardware, and software. (2) reviewing IT policy, standards and guidelines relating to systems, hardware, and software in order to apply current agency standards to all phases of system development life cycle.
+ I do not possess the education or experience described above.

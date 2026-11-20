@@ -1,0 +1,100 @@
+Position Title
+IT SPECIALIST (SYSADMIN) (T32)
+Agency
+Army National Guard Units
+Announcement Number
+RI-13121224-ARNG-27-009
+Open Period
+Nov 19, 2026 to Dec 03, 2026
+Eligibilities
+1.
+This position has an age requirement. Enter or select your date of birth.
+2.
+Are you a current service member of the Rhode Island Army National Guard (RIARNG)? (Note: To be considered for this position, you must meet the area of consideration above.)
+ Yes
+ No
+3.
+Do you currently hold the enlisted grade of E4 through O2? (Note: To be considered for this position, you must currently have a military grade of E4 through O2.)
+ Yes
+ No
+Preferences
+1.
+Have you ever received annuity payments from the Office of Personnel Management (OPM) or are you expecting to receive payments?
+ Yes
+ No
+2.
+Per Executive Order 14284 As a condition of employment for accepting this position, you will be required to serve a 2-year probationary period during which we will evaluate your fitness and whether your continued employment advances the public interest. In determining if your employment advances the public interest, we may consider: -your performance and conduct; -the needs and interests of the agency; -whether your continued employment would advance organizational goals of the agency or the Government; and -whether your continued employment would advance the efficiency of the Federal service. Upon completion of your trial period, your employment will be terminated unless you receive certification, in writing, that your continued employment advances the public interest.
+ Yes
+ No
+2210-11-D1618000-RIARNG-G6
+.
+We will evaluate your resume and responses to this Assessment Questionnaire to determine if you are among the best qualified for this position. Your responses are subject to verification and must be supported by your resume and supporting documentation.
+.
+Select “Yes” or “No” to the following question(s).
+1.
+Do you possess experience, education or training that has provided a basic knowledge of data processing functions and general management principles that enabled the applicant to understand the stages required to automate a work process?
+ Yes
+ No
+2.
+Do you have 1-year specialized experience at the next lower (or equivalent)?
+ Yes
+ No
+3.
+Do you possess experience, education, or training that approaches techniques and requirements appropriate to an assigned computer applications area or computer specialty area in an organization?
+ Yes
+ No
+4.
+Do you possess experience planning the sequence of actions necessary to accomplish the assignment which entailed coordination with others outside the organizational unit and development of project controls?
+ Yes
+ No
+5.
+Do you have experience that required adaptations of guidelines or precedents to meet the needs of the assignment?
+ Yes
+ No
+6.
+Do you possess experience preparing documentation on cost/benefit studies where is involved summarizing the material and organizing it in a logical fashion?
+ Yes
+ No
+.
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+7.
+Serves as a project leader for systems administration projects, develops system backup and recovery strategies
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+8.
+Ensures the installation of new systems and system changes are installed and configured to meet local state needs
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+9.
+Integrates the use of Storage Area Networks (SAN) to achieve maximum system efficiency
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+10.
+Analyzes system operations to identify bottlenecks and take corrective action to ensure optimal performance and consistency
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+11.
+Knowledge and skill of system administration principles and methods for integrating information systems components, performance tuning tools and techniques and systems diagnostic tools
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+.
+Select “Yes” or “No” to the following question(s).
+12.
+I verify that all of my responses to this questionnaire are true and accurate. I accept that if my supporting documentation and/or later steps in the selection process do not support one or more of my responses to the questionnaire that my application may be rated lower and/or I may be removed from further consideration.
+ Yes
+ No
