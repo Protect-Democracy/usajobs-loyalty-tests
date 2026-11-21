@@ -1,0 +1,72 @@
+Position Title
+Data Scientist (Direct Hire) - TERM
+Agency
+Small Business Administration
+Announcement Number
+DE-13119177-27-LDC
+Open Period
+Nov 20, 2026 to Nov 30, 2026
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+2.
+Reasonable Accommodations for taking the online assessments are provided on a case-by-case basis only to qualified individuals with a disability covered by the Rehabilitation Act of 1973, as amended. Do you have a disability (physical or mental) that you believe will interfere with completing the online assessments and require a Reasonable Accommodation?
+ Yes
+ No
+Preferences
+1.
+Would you accept a term appointment?
+ Yes
+ No
+Merit Hiring Plan Essay Questions
+.
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or Super Intelligence (SI) such as a large language model (LLM) like ChatGPT or Copilot.
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+3.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Super Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+Data Scientist (Direct Hire)
+.
+Before applying, you are encouraged to thoroughly read the Job Opportunity Announcement (JOA) for additional information regarding this vacancy. FAILURE TO RESPOND TO THESE QUESTIONS WILL RESULT IN AN INELIGIBLE RATING. You must submit the required documentation to verify your eligibility as indicated. Failure to provide the required documents WILL render you ineligible for consideration.
+.
+Select “Yes” or “No” to the following question(s).
+1.
+Are you willing to submit to an initial and periodic background investigation, including a fingerprint check and a credit check?
+ Yes
+ No
+2.
+In addition to the specialized experience requirement, this position has a positive education requirement as described in the vacancy announcement. (You MUST submit copies of your proof of education unless you currently or previously held a 1560 position; failure to submit required documents by the close of the announcement may result in an ineligible rating.) Which of the following statements best describes your qualifications?
+ I have a degree: Mathematics, statistics, computer science, data science. or another field directly related to the position. The degree must be in a major field of study (at least at the baccalaureate level) that is appropriate for the position.
+ I have a combination of at least 30 semester hours of coursework in a major field of study (as above) plus additional education or relevant experience.
+ I do not meet the basic education requirements for this position.
+.
+To qualify for the GS-14 grade level, applicants must possess at least one year of specialized experience equivalent to the GS-13 grade level in the Federal service that demonstrates experience: Applying advanced statistical, mathematical, and data science methodologies to analyze large, complex, structured and unstructured datasets to identify trends, anomalies, risks, and potential fraud indicators Developing and implementing predictive models, machine learning algorithms, data mining techniques, and analytical solutions using programming languages and tools such as Python, R, SQL, SAS, or comparable technologies; Designing and conducting complex data analyses to evaluate program operations, financial transactions, internal controls, or organizational risks and developing actionable recommendations based on analytical findings; and Communicating complex analytical findings through technical reports, data visualizations, dashboards, or presentations to support management decisions, audits, investigations, or program improvements. Applicants must demonstrate experience in all four areas.
+3.
+Which of the following responses best describe your qualifications for this position at the GS-14 level? Your resume must support your response.
+ I am qualified at the GS-14 level because I have one year (52 weeks) of specialized experience as defined above which has equipped me with the particular knowledge, skills, and abilities to successfully perform the duties of the position. (Claimed experience must be supported by your resume.)
+ I am not qualified for the GS-14 level because I do not have one year (52 weeks) of specialized experience equivalent in responsibility and scope to the next lower grade level as described under the vacancy announcement under specialized experience requirements.
+.
+To qualify for the GS-15 grade level, applicants must possess at least one year of specialized experience equivalent to the GS-14 grade level in the Federal service that demonstrates experience: Serving as a senior technical authority in planning, developing, and directing complex, organization-wide data science initiatives involving advanced statistical modeling, predictive analytics, machine learning, or artificial intelligence to address significant operational, financial, or program integrity risks; Developing innovative analytical methodologies, technical frameworks, and data science strategies to resolve unprecedented or highly complex problems involving multiple data sources, systems, and organizational functions; Establishing technical standards, evaluating analytical models and methodologies, and providing authoritative guidance on data science practices, data quality, model reliability, and the interpretation of complex analytical results; Leading or coordinating multidisciplinary analytical initiatives to identify systemic vulnerabilities, fraud risks, emerging trends, or weaknesses in program operations and internal controls; and Advising senior executives and organizational leadership on significant analytical findings, strategic risks, and recommendations that influence organizational priorities, oversight activities, policies, or resource decisions. Applicants must demonstrate experience in all five areas.
+4.
+Which of the following responses best describe your qualifications for this position at the GS-15 level? Your resume must support your response.
+ I am qualified at the GS-15 level because I have one year (52 weeks) of specialized experience as defined above which has equipped me with the particular knowledge, skills, and abilities to successfully perform the duties of the position. (Claimed experience must be supported by your resume.)
+ I am not qualified for the GS-15 level because I do not have one year (52 weeks) of specialized experience equivalent in responsibility and scope to the next lower grade level as described under the vacancy announcement under specialized experience requirements.
+5.
+I certify that, to the best of my knowledge and belief, all of the information included in this questionnaire is true, correct, and provided in good faith. I understand that if my resume does not support or substantiate my responses to the assessment questionnaire, my application will be removed from consideration. I understand that if I make an intentional false statement, or commit deception in this application and its supporting materials, or in any document or interview associated with the examination process, my rating will be lowered, my job eligibility may be canceled, I may be denied an appointment, or I may be removed from Federal service (5 C.F.R. part 731). I understand that any information I give may be investigated. I understand that responding "No" to this item will result in my not being considered for this position. An answer to this question is required.
+ Yes, I certify that the information provided in the questionnaire is true, correct and provided in good faith, and I understand the information provided.
+ No, I do not certify/understand the information provided above.
