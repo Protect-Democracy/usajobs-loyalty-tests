@@ -1,18 +1,18 @@
 {
   "metadata": {
-    "total_jobs": 330528,
+    "total_jobs": 330537,
     "cutoff_date": "2025-06-01",
-    "generation_date": "2026-11-21T10:05:55.974617"
+    "generation_date": "2026-11-22T10:38:01.600200"
   },
   "by_service_type": {
-    "Competitive": 211120,
+    "Competitive": 211129,
     "Excepted": 117521,
     "Senior Executive": 1887
   },
   "by_grade_level": {
-    "GS-12": 27777,
+    "GS-12": 27781,
     "GS-13": 25445,
-    "GS-11": 17993,
+    "GS-11": 17995,
     "VN-00": 16937,
     "GS-9": 14395,
     "GS-14": 14369,
@@ -23,7 +23,7 @@
     "GS-15": 7490,
     "GS-5": 7344,
     "WG-10": 5915,
-    "NF-2": 5067,
+    "NF-2": 5068,
     "GS-8": 4505,
     "GS-11/12": 4416,
     "GS-3/6": 4004,
@@ -56,9 +56,9 @@
   "by_agency": {
     "Department of Veterans Affairs": 107259,
     "Department of the Air Force": 37249,
-    "Department of the Navy": 36186,
+    "Department of the Navy": 36189,
     "Department of the Army": 33969,
-    "Department of Defense": 32057,
+    "Department of Defense": 32063,
     "Department of Justice": 16625,
     "Department of Homeland Security": 16141,
     "Other Agencies and Independent Organizations": 9176,
@@ -86,8 +86,8 @@
     "0679 - Medical Support Assistance": 6944,
     "1101 - General Business And Industry": 6493,
     "None - Unknown": 5566,
-    "1702 - Education And Training Technician": 5478,
-    "0189 - Recreation Aid And Assistant": 5426,
+    "1702 - Education And Training Technician": 5479,
+    "0189 - Recreation Aid And Assistant": 5428,
     "0201 - Human Resources Management": 4932,
     "0620 - Practical Nurse": 4579,
     "0801 - General Engineering": 4480,
