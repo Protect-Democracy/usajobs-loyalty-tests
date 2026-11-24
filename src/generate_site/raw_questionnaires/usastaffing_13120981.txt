@@ -1,0 +1,236 @@
+Position Title
+Machinist
+Agency
+U.S. Mint
+Announcement Number
+27-MINT-13120981-P
+Open Period
+Nov 23, 2026 to Dec 08, 2026
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+2.
+Are you a surplus or displaced Federal employee eligible under the Career Transition Assistance Plan (CTAP)? Click CTAP for eligibility and a detailed list of required documents you must submit in order to be eligible.
+ Yes
+ No
+3.
+Are you a displaced Federal employee eligible under the Interagency Career Transition Assistance Plan (ICTAP)? Click ICTAP for eligibility and a detailed list of required documents you must submit in order to be eligible.
+ Yes
+ No
+Preferences
+1.
+Are you currently serving or have served in the last five years in a Political Appointment in the Federal Government?
+ Yes
+ No
+2.
+Where did you learn about this Department of the Treasury job opportunity?
+ FedExperience website
+ USAJOBS website
+ Community Organization
+ Employment Office (Federal/State or Local)
+ Friend/Relative
+ Job Fair, Conference, or Convention
+ Magazine
+ Newspaper
+ School, College, Counselor
+ Vacancy Announcement Posting
+ Professional Organization
+ Radio/TV
+ Other
+3.
+If you were born a male after December 31, 1959, and are at least 18 years of age, have you registered with the Selective Service System (select "Not applicable" if this question does not apply to you)?
+ Yes
+ No
+ No, but I have an approved exemption
+ Not applicable
+4.
+Are you a current Federal employee?
+ Yes
+ No
+5.
+If you are, or ever were a Federal civilian employee, indicate the pay plan and grade level or pay band of the highest graded position you have ever held.
+6.
+Have you attended any of Treasury's information sessions? (Please click all that apply.)
+ Navigating USAJOBS
+ Writing Your Federal Resume
+ Interviewing Techniques
+ Early Career Programs (Students, Recent Graduates, Entry Level, Apprenticeship)
+ I have not attended any sessions.
+7.
+If you are currently employed by the U.S. Department of Treasury, please select your current bureau/agency below. If you are not a current Treasury employee, please select N/A.
+ Alcohol and Tobacco Tax and Trade Bureau (TTB)
+ Bureau of Engraving and Printing (BEP)
+ Bureau of the Fiscal Service (BFS)
+ Departmental Offices (DO)
+ Financial Crimes Enforcement Network (FinCEN)
+ Internal Revenue Service (IRS)
+ Office of Inspector General (OIG)
+ Office of the Comptroller of the Currency (OCC)
+ Treasury Inspector General for Tax Administration (TIGTA)
+ U.S. Mint
+ N/A
+8.
+When U.S. Mint completes its hiring, the remaining list of qualified candidates may be shared with hiring managers and Human Resources specialists at additional Treasury bureaus who are hiring for similar positions. Please opt-in here if you would like your name, application material, and assessment results shared with additional Treasury bureaus. There is no guarantee of further consideration, and you can continue to explore other job opportunity announcements.
+ I consent to having my name, application materials, and assessment results shared with other Treasury bureaus. I opt in to having this information shared with additional Treasury bureaus who are hiring for similar positions.
+ I only want to be considered by this Treasury bureau. I opt-out of having my name, application materials, and assessment results shared with additional Treasury bureaus.
+Merit Hiring Plan Essay Questions
+.
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or Super Intelligence (SI) such as a large language model (LLM) like ChatGPT or Copilot.
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+3.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Super Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+JAA20494
+1.
+Select the response below that best describes your skill and ability to perform the work of a Journeyman-level Computer Numerical Control (CNC) Machinist.
+ I have independently performed journeyman-level machining on CNC lathes, mills, ID/OD grinding equipment, and manual machines. I have planned and coordinated work orders, interpreted blueprints, computed missing dimensions, made programming decisions, developed special setups, maintained difficult tolerances, and selected tooling, coolants, and feed rates. My completed work is subject only to supervisory spot checks.
+ I have independently performed a full range of machining tasks on CNC and manual lathes, mills, and grinding equipment. I interpret blueprints and sketches, determine machining sequences and appropriate tooling, and maintain required tolerances. I receive technical assistance for unusual problems.
+ I have performed CNC and manual machining operations, interpreted blueprints, selected tools, and maintained specified dimensions and tolerances. I occasionally require technical guidance for difficult machining assignments.
+ I have experience working with various metals and alloys and using precision measuring instruments, including micrometers, to maintain dimensions and tolerances. I perform assignments using blueprints and instructions with supervisory checks.
+ I do not have education, training, or experience performing machinist work.
+2.
+I have served a 4 year apprenticeship, obtained comparable trade school training or received on-the-job training experience operating CNC Lathes, Mills and ID/OD Grinding equipment as a Journeyman Machinist.
+ In addition to completing a 4-year apprenticeship, obtaining comparable trade school training, or receiving extensive on-the-job training, I have at least three years Journeyman Machinist experience which demonstrates the ability to program and operate CNC Lathes, Mills and ID/OD Grinding equipment.
+ In addition to completing a 4-year apprenticeship, obtaining comparable trade school training, or receiving extensive on-the-job training, I have at least two years Journeyman Machinist experience which demonstrates the ability to program and operate CNC Lathes, Mills and ID/OD Grinding equipment.
+ In addition to completing a 4-year apprenticeship, obtaining comparable trade school training, or receiving on-the-job training I have at least two years Machinist experience which demonstrates the ability to program and operate CNC Lathes, Mills and ID/OD Grinding equipment.
+ I do not have any of the above training or experience.
+3.
+Select the duties you are proficient in.
+ I am proficient in setting up tools for CNC operation; proofing part dimensions and evaluating programming performance; machining to tolerances of ±0.0001 inch; and assisting engineering personnel in determining proper tooling for procurement.
+ I am proficient in setting up tools for CNC operation, proofing part dimensions and evaluating programming performance, and machining to tolerances of ±0.0001 inch.
+ I am proficient in setting up tools for CNC operation and proofing part dimensions and evaluating programming performance.
+ I am proficient in setting up tools for CNC operation.
+ I have no experience performing the duties listed above.
+4.
+Select the duties you are proficient in.
+ I am proficient in making necessary edits to CNC programs and adjustments to machine tools, using geometry and trigonometry to triangulate dimensions, and using formulas to compute pitch diameters for screw threads.
+ I am proficient in making edits to CNC programs and adjusting machine tools and can independently apply geometry or trigonometry to determine dimensions but require assistance with some complex calculations.
+ I am proficient in making necessary edits to CNC programs and adjustments to machine tools.
+ I have assisted with editing CNC programs, adjusting machine tools, or performing geometric calculations under supervision.
+ I have no experience performing the duties listed above.
+5.
+Choose the response that best describes the machine tools and related machines for which you have demonstrated proficiency.
+ I have demonstrated proficiency operating engine lathes, vertical milling machines, horizontal milling machines, and CNC turning centers.
+ I have demonstrated proficiency operating engine lathes, vertical milling machines, and horizontal milling machines.
+ I have demonstrated proficiency operating engine lathes and vertical milling machines.
+ I have demonstrated proficiency operating engine lathes.
+ I have no experience operating the machine tools listed above.
+6.
+Choose the response that best describes the machine tools and related machines for which you have demonstrated proficiency.
+ I have demonstrated proficiency operating both CNC milling machines and cylindrical ID/OD grinders.
+ I have demonstrated proficiency operating CNC milling machines.
+ I have independently operated CNC milling machines for routine machining operations but require assistance with complex setups or programming.
+ I have demonstrated proficiency operating cylindrical ID/OD grinders.
+ I have no experience operating either of the machine tools listed above.
+7.
+Choose the response that best describes the machine tools and related machines for which you have demonstrated proficiency.
+ I have demonstrated proficiency operating surface grinders, drill presses, and power band saws.
+ I have demonstrated proficiency operating surface grinders and drill presses and have experience assisting with power band saw operations.
+ I have demonstrated proficiency in operating surface grinders.
+ I have demonstrated proficiency operating drill presses or power band saws.
+ I have no experience operating the machine tools listed above.
+8.
+Please specify where this experience is documented in your resume (by indicating place of employment, job title and length of time performing the duties).
+9.
+Please indicate your experience working independently with production machining and maintenance machining when provided general instructions.
+ I have independently machined parts from raw materials to fill unique production orders, developed special or improvised tools, worked with engineering and planning groups to develop prototypes, machined parts involving unusual surfaces or compound angles, and determined proper running fits, clearances, and press fits.
+ I have independently machined parts from raw materials to fill unique production orders, developed special or improvised tools, worked with engineering and planning groups to develop prototypes, and machined parts involving unusual surfaces or compound angles.
+ I have independently machined parts from raw materials to fill unique production orders and developed special or improvised tools to meet machining needs.
+ I have experience machining parts from raw materials to fill production orders.
+ I have no experience performing the duties listed above.
+10.
+Please specify where this experience is documented in your resume (by indicating place of employment, job title and length of time performing the duties).
+11.
+Please choose the response that best describes the duties you have experience performing independently.
+ I have independently set up CNC machines, adjusted CNC machines, and selected the correct cutting tools or grinding wheels for machining applications.
+ I have independently set up and adjusted CNC machines and have assisted in selecting the correct cutting tools or grinding wheels.
+ I have independently set up CNC machines for machining operations.
+ I have experience adjusting CNC machines or selecting appropriate cutting tools or grinding wheels for machining applications,
+ I have no experience performing the duties listed above.
+12.
+Please choose the response that best describes the duties you have experience performing independently .
+ I have independently performed dry runs after initial CNC machine setups, programmed CNC machines, used Mastercam for programming, and edited CNC programs.
+ I have independently performed dry runs after initial CNC machine setups, programmed CNC machines, and edited CNC programs.
+ I have independently performed dry runs after initial CNC machine setups and programmed CNC machines.
+ I have independently performed dry runs after initial CNC machine setups.
+ I have no experience performing the duties listed above.
+13.
+Please choose the response that best describes the duties you have experience performing independently.
+ I have independently selected appropriate materials for machining applications, determined shaft fit and clearance specifications, determined tooling speeds for machine tools, and recommended more economical CNC machining processes.
+ I have independently selected appropriate materials for machining applications, determined shaft fit and clearance specifications, and determined tooling speeds for machine tools.
+ I have independently selected appropriate materials for machining applications and determined shaft fit and clearance specifications.
+ I have independently selected appropriate materials for machining applications.
+ I have no experience performing the duties listed above.
+14.
+Please specify where this experience is documented in your resume (by indicating place of employment, job title and length of time performing the duties).
+15.
+Have you worked in a position where you had to interpret instructions, specifications, and procedures on different types of equipment and systems using incomplete engineering and mechanical drawings or blueprints?
+ I have independently interpreted incomplete engineering and mechanical drawings, blueprints, specifications, and procedures to determine machining requirements, resolve missing information, and complete complex assignments involving different equipment and systems.
+ I have independently interpreted engineering and mechanical drawings, blueprints, specifications, and procedures, including drawings with incomplete information, and required occasional technical assistance.
+ I have interpreted engineering and mechanical drawings, blueprints, and specifications to perform machining assignments but required assistance when information was incomplete.
+ I have limited experience interpreting engineering or mechanical drawings and blueprints and require supervision or detailed instructions.
+ I have no experience interpreting engineering or mechanical drawings, blueprints, specifications, or procedures.
+16.
+Please choose the response that best describes the duties you have experience with.
+ I have experience applying Geometric Dimensioning and Tolerancing (GD&T), using geometry and trigonometry, working with mechanical drawings or AutoCAD, and interpreting blueprints and mechanical drawings with metric dimensions.
+ I have experience applying Geometric Dimensioning and Tolerancing (GD&T), using geometry and trigonometry, and working with mechanical drawings or AutoCAD.
+ I have experience applying Geometric Dimensioning and Tolerancing (GD&T) and using geometry and trigonometry.
+ I have experience applying Geometric Dimensioning and Tolerancing (GD&T).
+ I have no experience performing the duties listed above.
+17.
+Please indicate your ability to interpret instructions and specifications on different types of equipment, systems, procedures, or techniques using shop drawings and/or blueprints.
+ I independently interpret schematics, mechanical drawings, and part blueprints to manufacture, diagnose, overhaul, and repair feed systems, die sets, and various tooling.
+ With minimal supervision, I interpret schematics, mechanical drawings, and part blueprints to fabricate, overhaul, and repair die sets and tooling.
+ I interpret schematics, mechanical drawings, and blueprints to fabricate or repair die sets and tooling but require technical assistance with complex assignments.
+ Under close supervision, I use schematics, mechanical drawings, and blueprints to assist in fabricating, overhauling, or repairing die sets and tooling.
+ I have no experience reading or interpreting schematics, mechanical drawings, or blueprints.
+18.
+Which of the layout tools do you have proficiency with? Select the response that best describes your experience.
+ I have demonstrated proficiency using surface plates, height gauges, Cadillac gauges, and snap gauges.
+ I have demonstrated proficiency using surface plates, height gauges, and Cadillac gauges.
+ I have demonstrated proficiency using surface plates and height gauges.
+ I have demonstrated proficiency using surface plates
+ I have no experience using the layout tools listed above
+19.
+Which of the layout tools do you have proficiency with? Select the response that best describes your experience.
+ I have demonstrated proficiency using micrometers, indicators, and Jo blocks (gauge blocks).
+ I have demonstrated proficiency using micrometers and indicators.
+ I have demonstrated proficiency using micrometers.
+ I have demonstrated proficiency using indicators or Jo blocks.
+ I have no experience using the layout tools listed above.
+20.
+Which of the layout tools do you have proficiency with? Select the response that best describes your experience.
+ I have demonstrated proficiency using gauge pins and a Coordinate Measuring Machine (CMM) to perform precision measurements and verify machining accuracy.
+ I have demonstrated proficiency using a Coordinate Measuring Machine (CMM) to measure parts and verify dimensions.
+ I have operated a Coordinate Measuring Machine (CMM) to perform routine dimensional inspections but require assistance with complex measurements.
+ I have demonstrated proficiency using gauge pins to perform dimensional measurements.
+ I have no experience using gauge pins or a Coordinate Measuring Machine.
+21.
+Indicate which materials you have used while performing CNC machining operations.
+ I have performed CNC machining operations using alloy steel, tool steel, mild steel, and stainless steel.
+ I have performed CNC machining operations using alloy steel, tool steel, and mild steel.
+ I have performed CNC machining operations using alloy steel and tool steel.
+ I have performed CNC machining operations using alloy steel.
+ I have no experience performing CNC machining operations using the materials listed above.
+22.
+Indicate which materials you have used while performing CNC machining operations.
+ I have performed CNC machining operations using bronze, aluminum, plastics, and composite materials.
+ I have performed CNC machining operations using bronze, aluminum, and plastics.
+ I have performed CNC machining operations using bronze and aluminum.
+ I have performed CNC machining operations using bronze.
+ I have no experience performing CNC machining operations using the materials listed above.

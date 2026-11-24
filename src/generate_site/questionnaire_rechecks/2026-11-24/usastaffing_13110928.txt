@@ -1,0 +1,41 @@
+Position Title
+Senior IT Project Manager
+Agency
+Nuclear Regulatory Commission
+Announcement Number
+IMP-13110928-27-LT
+Open Period
+Nov 19, 2026 to Dec 04, 2026
+Eligibilities
+1.
+NRC Employee Are you a current Nuclear Regulatory Commission employee on a permanent appointment? To verify eligibility as a current Nuclear Regulatory Commission employee, you must submit a recent Notification of Personnel Action (SF-50) that reflects your current grade and tenure code.
+ Yes
+ No
+Preferences
+1.
+Select the location(s) you want to be considered for. You must choose at least one location.
+ Atlanta, GA
+ Naperville, IL
+ Rockville, MD
+ King of Prussia, PA
+ Arlington, TX
+Additional Applicant Information
+1.
+If you are, or ever were, a federal civilian employee in a permanent position, what is the highest grade level you held, excluding temporary promotions? (Please include the pay plan, e.g. GS-12, GG-11, or N/A for not applicable).
+2.
+If you are, or ever were, a federal civilian employee, please indicate the start date and end dates of the highest graded permanent positions you held, excluding temporary promotions (e.g. MM/YYYY to MM/YYYY, MM/YYYY to present, or N/A for not applicable).
+3.
+This space is available if you would like to supply any additional information to assist in evaluating you for this position. (Maximum length of 8000 characters.)
+4.
+Do you certify, to the best of your knowledge and belief, that all information submitted with your application for employment is true, complete, and made in good faith, and that you have accurately represented your work experience, knowledge, skills, abilities, and education (including degrees and accomplishments)? Do you understand that the information you provide may be investigated, and that misrepresenting your experience or education, or providing false or fraudulent information, may be grounds for not hiring you or for termination after you begin work? Additionally, do you acknowledge that false or fraudulent statements may be punishable by fine or imprisonment (18 U.S.C. 1001)?
+ Yes, I certify and acknowledge the above statements.
+ No, I do not certify or acknowledge the above statements.
+Sr. IT Project Manager, GG-2210-14 Assessment
+1.
+GG-14 - Select the statement that best describes your experience that demonstrates your ability to perform the work of this position at the GG/GS-14 grade level or equivalent pay band to include knowledge and experience of federal procurement laws, regulations and policies in order to supervise personnel and serve as Contracting Officer with unlimited signatory authority to support the NRC programs for acquisition management activities associated with the solicitation, negotiation, award and administration of a wide range of routine and highly complex acquisitions and financial assistance agreements.
+ I have at least one year of specialized experience as outlined in the job announcement at the GG/GS-13 (or higher) grade level or equivalent.
+ I do not possess the specialized experience as outlined in the job announcement.
+2.
+GG-14 Competencies Select the one statement below that best describes your Information Technology (IT) related experience that meets the following basic requirements: (1) Attention to Detail - Is thorough when performing work and conscientious about attending to detail; (2) Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services; (3) Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately; and (4) Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.
+ I have IT-related experience that demonstrates each of the four competencies: (1) Attention to Detail; (2) Customer Service; (3) Oral Communication; and (4) Problem Solving.
+ I do not have IT-related experience as stated above.
