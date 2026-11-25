@@ -1,0 +1,116 @@
+Position Title
+Supervisory Electronics Engineer
+Agency
+National Oceanic and Atmospheric Administration
+Announcement Number
+NWS-27-13120275-DE
+Open Period
+Nov 25, 2026 to Dec 08, 2026
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+2.
+Are you a current Department of Commerce employee who meets the definition of surplus or displaced definition of surplus or displaced from a position in the competitive service that makes you eligible under the Career Transition Assistance Plan (CTAP)? Note: You are required to submit supporting documentation as proof of eligibility. If yes, please confirm that you meet all the following eligibility requirements: This position is in the same local commuting area as the position of record from which you will be separated; and This position is at a grade level no higher than the grade of the position of record from which you will be separated; and This position has no greater promotion potential than the position of record from which you will be separated; and You have a current performance rating of record of at least fully successful or the equivalent; and You have not yet been separated.
+ Yes
+ No
+3.
+Are you a current or former employee of a Federal agency who meets the definition of surplus or displaced from a position in the competitive service from a Federal agency outside of the Department of Commerce that makes you eligible under the Interagency Career Transition Assistance Plan (ICTAP)? Note: You are required to submit supporting documentation as proof of eligibility. If yes , please confirm that you meet all the following eligibility requirements: This position is in the same local commuting area as the position of record from which you were separated; and This position is at a grade level no higher than the grade of the position of record from which you were separated; and This position has no greater promotion potential than the position of record from which you were separated; and Your last performance rating of record was at least fully successful or the equivalent; and You were separated from your position of record less than one (1) year ago.
+ Yes
+ No
+Merit Hiring Plan Essay Questions
+.
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or Super Intelligence (SI) such as a large language model (LLM) like ChatGPT or Copilot.
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+3.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Super Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+IOR and SE Questions
+1.
+Select the statement that best describes how you meet the Individual Occupational Requirement for the Professional Engineering Position Series, 0800.
+ DEGREE: I have a bachelor's or higher degree in professional Engineering from a school of engineering with at least one program accredited by the Accreditation Board for Engineering and Technology (ABET). NOTE: You must provide a copy of your transcripts.
+ DEGREE: I have a bachelor's or higher degree in professional Engineering from an accredited college or university. The course curriculum included differential & integral calculus & courses (more advanced than 1st year physics/chemistry) in 5 of the following areas of engineering science or physics: a. statics, dynamics; b. strength of materials (stress/strain); c. fluid mechanics & hydraulics; d. thermodynamics; e. electrical fields & circuits; f. nature & properties of materials; or g. any other comparable area of fundamental engineering science or physics, such as optics, heat transfer, soil mechanics or electronics. NOTE: You must provide a copy of your transcripts.
+ PROFESSIONAL REGISTRATION OR LICENSURE: I have a combination of education and experience: college-level education, training, and/or technical experience that furnished (1) a thorough knowledge of the physical and mathematical sciences underlying professional engineering, and (2) a good understanding, both theoretical and practical, of the engineering sciences and techniques and their applications to one of the branches of engineering. The adequacy of such background is demonstrated by PROFESSIONAL REGISTRATION OR LICENSURE: Current registration as an Engineer Intern (EI), Engineer in Training (EIT), or licensure as a Professional Engineer (PE) by any State, the District of Columbia, Guam, or Puerto Rico. (Absent other means of qualifying under this standard, those applicants who achieved such registration by means other than written test (e.g., State grandfather or eminence provisions) are eligible only for positions that are within or closely related to the specialty field of their registration. For example, an applicant who attains registration through a State Board's eminence provision as a manufacturing engineer typically would be rated eligible only for manufacturing engineering positions.) NOTE: You must provide a copy of your transcripts, registration, license and/or other supporting documentation.
+ WRITTEN TEST: I have a combination of education and experience: college-level education, training, and/or technical experience that furnished (1) a thorough knowledge of the physical and mathematical sciences underlying professional engineering, and (2) a good understanding, both theoretical and practical, of the engineering sciences and techniques and their applications to one of the branches of engineering. The adequacy of such background is demonstrated by WRITTEN TEST: Evidence of having successfully passed the Fundamentals of Engineering (FE) examination or any other written test required for professional registration by an engineering licensure board in the various States, the District of Columbia, Guam, and Puerto Rico. NOTE: You must provide a copy of your transcripts, certificate and/or other supporting documentation.
+ SPECIFIED ACADEMIC COURSES: I have a combination of education and experience: college-level education, training, and/or technical experience that furnished (1) a thorough knowledge of the physical and mathematical sciences underlying professional engineering, and (2) a good understanding, both theoretical and practical, of the engineering sciences and techniques and their applications to one of the branches of engineering. The adequacy of such background is demonstrated by SPECIFIED ACADEMIC COURSES: Successful completion of at least 60 semester hours of courses from an accredited college or university in the physical, mathematical, and engineering sciences and that included the courses specified in response B above (see Qualifications section). NOTE: You must provide a copy of your transcripts.
+ RELATED CURRICULUM: I have a combination of education and experience: college-level education, training, and/or technical experience that furnished (1) a thorough knowledge of the physical and mathematical sciences underlying professional engineering, and (2) a good understanding, both theoretical and practical, of the engineering sciences and techniques and their applications to one of the branches of engineering. The adequacy of such background is demonstrated by RELATED CURRICULUM: Successful completion of a curriculum leading to a bachelor's degree from an accredited college or university in an appropriate scientific field, e.g., engineering technology, physics, chemistry, architecture, computer science, mathematics, hydrology, or geology, AND at least 1 year of professional engineering experience acquired under professional engineering supervision and guidance. (Ordinarily there should be either an established plan of intensive training to develop professional engineering competence or several years of prior professional engineering-type experience, e.g., in interdisciplinary positions. The above examples of related curricula are not all-inclusive.) NOTE: You must provide a copy of your transcripts.
+ I do not meet the Individual Occupational Requirement for the Professional Engineering Positions Series, 0800.
+2.
+In addition to meeting the Individual Occupational Requirements, select the statement that best describes your experience performing the work of a Supervisory Electronics Engineer, GS-0855-13 or equivalent grade level in the Federal service.
+ I have at least one full year (52 weeks) of specialized experience equivalent to the next lower grade level (GS-12) in the Federal service which includes all of the following: Coordinating activities for a project or program related to the repair, refurbishment or recalibration of weather sensing, recording and reporting equipment; and Coordinating the acquisition of electronic or engineering equipment used in a project or program, such as planning the logistics to obtain and maintain equipment, ensuring reliability of equipment, overseeing labor, maintenance or other services, etc.
+ I do not possess the experience described above.
+JKT
+1.
+The National Reconditioning Division (NRD) identifies recurring failures in a specific NWS weather sensing equipment item. Depot failure data indicates that the failures may be related to a design limitation, and field offices are reporting increased maintenance requirements. What is the BEST action?
+ Continue repairing the equipment using existing procedures until the manufacturer issues a formal recommendation.
+ Review depot failure and reliability data, evaluate technical documentation and specifications, coordinate with engineering and operational stakeholders, and recommend appropriate equipment modifications or corrective actions.
+ Increase the inventory of replacement parts to reduce the immediate impact of equipment failures.
+ Notify senior management of the failures and defer technical analysis until additional funding becomes available.
+2.
+An employee responsible for a critical observing system misses internal deadlines, creating risks to planned service life extension project. The employee states that competing assignments and unclear priorities are contributing to the delays. What is the BEST action for the supervisor?
+ Reassign the employee's critical responsibilities to another team member without further discussion.
+ Discuss the missed deadlines with the employee, clarify priorities and performance expectations, assess workload and other contributing factors, and establish a plan with milestones to monitor improvement.
+ Remind the employee that meeting deadlines is a basic job requirement and expect immediate improvement.
+ Allow the employee to establish a new schedule independently and adjust system maintenance activities as needed.
+3.
+The Unit Chief learns that two employees are independently developing solutions to the same technical problem. Both employees have invested significant time, and the duplication is delaying other priority work. What is the MOST appropriate action?
+ Allow both employees to finish their work and select the better solution afterward.
+ Direct one employee to stop immediately without reviewing either employee's progress.
+ Assess the work already completed, clarify roles and responsibilities, coordinate a unified approach, and redirect resources to minimize duplication and protect mission priorities.
+ Assign the issue to another team to avoid further disagreement between the employees.
+4.
+Two highly experienced employees in the Unit are have an ongoing interpersonal conflict that is beginning to affect collaboration and team morale. As Unit Chief, what is the most appropriate first action?
+ Reassign one of the employees to another team to remove the conflict
+ Allow the employees to resolve the issue independently due to their seniority
+ Meet with the employees to understand the issue, reinforce expectations for professional conduct, and facilitate resolution
+ Document the conflict in their performance appraisals without discussing it directly with them
+5.
+The NRD is preparing a technical acquisition package for repair and calibration services for a critical weather sensing equipment item. The existing contract is nearing expiration, and the technical requirements do not fully address recurring equipment failures or long-term support needs. What is the MOST appropriate action?
+ Reuse the existing technical requirements to avoid delaying the acquisition and address deficiencies after award.
+ Allow the prospective repair vendor to determine the technical requirements based on its experience with the equipment.
+ Limit the acquisition package to the most frequently performed repairs to minimize cost and administrative complexity.
+ Review equipment performance and repair history, identify necessary technical and service requirements, incorporate applicable quality and performance standards, and coordinate with acquisition personnel to develop a complete technical package.
+6.
+The NRD must recommend whether to continue repairing an aging equipment item or pursue a major modification or replacement strategy. Repair costs are increasing, failures are becoming more frequent, and replacement components are increasingly difficult to obtain. What is the MOST appropriate action?
+ Evaluate reliability trends, repair and life-cycle costs, parts availability, operational impacts, technical alternatives, and long-term support requirements; then present a recommendation supported by data.
+ Recommend replacement based solely on the increasing repair costs.
+ Continue the existing repair strategy because it avoids the uncertainty associated with equipment modifications.
+ Transfer the decision to field offices because they experience the direct operational impact of equipment failures.
+7.
+The NRD uses a software-based tracking tool to monitor repair turnaround times, equipment inventory, calibration status, and maintenance trends. The tool is producing inconsistent reports because data are entered differently across activities. What is the BEST action?
+ Replace the software immediately with a commercially available product.
+ Require employees to correct the reports manually before each management briefing.
+ Assess the data and reporting deficiencies, standardize data definitions and entry procedures, validate the underlying information, and modify the software as needed to improve accuracy and performance monitoring.
+ Discontinue reporting measures that cannot be consistently calculated.
+8.
+An accountable property review identifies discrepancies between the NRD's property records and its physical inventory of repairable weather sensing equipment. Some items are awaiting repair, while others have been transferred between activities without complete documentation. What is the BEST action?
+ Adjust the property records to match the physical inventory and close the review.
+ Reconcile physical assets against property records and supporting documentation, investigate discrepancies, complete required corrective actions, and strengthen controls to prevent recurrence.
+ Direct employees to complete a new inventory annually without taking further action on the existing discrepancies.
+ Remove all equipment awaiting repair from the accountable property records because it is not currently operational.
+9.
+During a meeting with engineering representatives and a repair contractor, a proposed technical change could improve equipment reliability but may affect configuration requirements, repair procedures, costs, and field operations. The stakeholders disagree about the preferred approach, and senior management needs a recommendation. What is the BEST action?
+ Support the contractor's recommendation because it has direct experience repairing the equipment.
+ Select the least expensive option to minimize acquisition and maintenance costs.
+ Evaluate the technical merits, reliability evidence, configuration and logistics implications, costs, and operational risks of the alternatives; facilitate agreement among stakeholders and brief senior management on the recommendation and unresolved issues.
+ Defer the decision to senior management without providing an independent technical assessment.
+.
+Select “Yes” or “No” to the following question(s).
+10.
+I certify that I did not use a consultant or artificial intelligence tool (such as a large language model) to complete the responses above. To the best of my knowledge, all information provided in my application is true and accurate. I affirm that I have truthfully and accurately represented my work experience, knowledge, skills, abilities, and education. I understand that providing false or misleading information may result in disqualification from consideration or termination of employment if hired. I further certify that I have read the entire vacancy announcement, reviewed my responses to the eligibility questions for accuracy, and understand the requirements regarding supporting documentation, including what must be submitted and applicable deadlines.
+ Yes
+ No
