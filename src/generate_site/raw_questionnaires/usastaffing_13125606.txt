@@ -1,0 +1,92 @@
+Position Title
+IT SPECIALIST (CUSTSPT)
+Agency
+Air National Guard Units
+Announcement Number
+KS-13125606-AF-27-037
+Open Period
+Nov 24, 2026 to Dec 25, 2026
+Eligibilities
+1.
+Current Army M-Day and current Air DSG members within the state for which you are applying. Are you a current Army M-Day or current Air DSG member within the state for which this position is being advertised?
+ Yes
+ No
+Preferences
+1.
+Are you a current member of the Kansas Air National Guard?
+ Yes
+ No
+2.
+Do you currently hold the rank of E-1 through E-7? ANSWER YES, if you're an enlisted applicant who holds a higher grade and will provide a statement of understanding with your application indicating a willingness to be administratively reduced in grade to the highest grade advertised, if selected for the position.
+ Yes
+ No
+2210-09/11-D2180P01-KSNG
+.
+Respond to all questions. For each, choose the response that best describes your experience and/or training. Your response should be clearly supported in your resume.
+.
+Select “Yes” or “No” to the following question(s).
+1.
+For all positions individuals must have IT-related experience demonstrating each of the four competencies listed below. Do you have experience in the following competencies? Attention to Detail - Is thorough when performing work and conscientious about attending to detail. Customer Service - Works with clients and customers (that is, any individuals who use or receive the services or products that your work unit produces, including the general public, individuals who work in the agency, other agencies, or organizations outside the Government) to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about available products and services; is committed to providing quality products and services. Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups effectively, taking into account the audience and nature of the information (for example, technical, sensitive, controversial); makes clear and convincing oral presentations; listens to others, attends to nonverbal cues, and responds appropriately. Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations. OR Undergraduate or Graduate Education: Degree in computer science, engineering, information science, information systems management, mathematics, operations research, statistics, or technology management or degree that provided a minimum of 24 semester hours in one or more of the fields identified above and required the development or adaptation of applications, systems or networks.
+ Yes
+ No
+2.
+Do you have at least 1-year specialized experience equivalent to at least the next lower grade which includes experience, education, or training that approaches techniques and requirements appropriate to an assigned computer applications area or computer specialty area in an organization. Experience planning the sequence of actions necessary to accomplish the assignment where this entailed coordination with others outside the organizational unit and development of project controls. Experience that required adaptations of guidelines or precedents to meet the needs of the assignment. Experience preparing documentation on cost/benefit studies where is involved summarizing the material and organizing it in a logical fashion?
+ Yes
+ No
+.
+Select the one statement that most accurately describes your training and experience carrying out each task using the scale provided.
+3.
+Knowledge of network principles, concepts, equipment, and tools sufficient to assist in planning and maintaining network services; to install, test, and configure workstations and peripherals; and to instruct and assist customers in accessing network services.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+4.
+Knowledge of IT concepts, principles and practices sufficient to solve complex hardware and software component issues and maintain the availability of communication lines and equipment
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+5.
+Knowledge of customer support principles sufficient to receive, responds to, and ensures resolution of problems
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+6.
+Knowledge of applying analysis concepts to IT network systems and independent IT platforms, integration methods, performance tuning methods, test and evaluation methods and procedures, IT security principles and methods plus, project management principles and methods sufficient to plan and coordinate the installation of new products or equipment
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+7.
+Ability to analyze, apply methods and practices for recovering, adjusting and modifying IT systems to solve complex problems, while improving customer support practices, that minimizes interruptions in service.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+8.
+Knowledge of the interrelationship of multiple IT systems, utilizing methods, principles, and practices covering restoral from complex computer and infrastructure system failures, recovery of systems, adjusting, modifying, and improving systems to include hardware and software components.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+9.
+Knowledge of performance measurement tools, systems testing and diagnostics, COTS products, Internet technologies, analytical methods and practices, requirements analysis techniques in order to: test and optimize the functionality of the systems, networks, and data; provide advice on a wide range of IT issues; ensure optimal use of commercially available products; represent the organization in interactions with other organizations; prepare and present reports; conduct analyses and recommend resolution of difficult issues; identify and define business requirements applied to the development, implementation management and support of systems and networks; etc.
+ I have not had education, training, or experience in performing this task.
+ I have had education or training in how to perform this task, but have not yet performed it on the job.
+ I have performed this task on the job. My work on this task was monitored closely by a supervisor or senior employee to ensure compliance with proper procedures.
+ I have performed this task as a regular part of a job. I have performed it independently and normally without review by a supervisor or senior employee.
+ I am considered an expert in performing this task. I have supervised performance of this task or am normally the person who is consulted by other workers to assist or train them in doing this task because of my expertise.
+.
+Select “Yes” or “No” to the following question(s).
+10.
+I certify that, to the best of my knowledge and belief, all of the information included in this questionnaire is true, correct and provided in good faith. &nbsp;I understand that if I make an intentional false statement or commit deception or fraud in this application or its supporting materials, or in any document or interview associated with the examination process, I may be fined or&nbsp;imprisoned (18 U.S.C 1001); my&nbsp;eligibilities&nbsp;may be&nbsp;canceled;&nbsp;I may be denied an appointment; or I may be removed and debarred from Federal Service (5 C.F.R Part 731). &nbsp;I understand that any&nbsp;information I give may be investigated. I understand that responding &quot;No&quot; to this item will result in my not being considered for this position.
+ Yes
+ No
