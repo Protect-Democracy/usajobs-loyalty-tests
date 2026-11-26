@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "finished": true,
-  "summary": "scanned to 13,124,535: {200: 274, 'missing': 1767}",
-  "new": 274
+  "summary": "scanned to 13,124,536: {'missing': 1629, 200: 139}",
+  "new": 139
 }
