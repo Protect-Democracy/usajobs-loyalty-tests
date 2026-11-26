@@ -1,0 +1,108 @@
+Position Title
+Electrical Engineer
+Agency
+Bureau of Alcohol, Tobacco, Firearms and Explosives
+Announcement Number
+27-OST-DE-13098042-JIM
+Open Period
+Nov 25, 2026 to Dec 09, 2026
+Eligibilities
+1.
+Do you claim Veterans’ Preference?
+ No, I do not claim Veterans' Preference
+ 0-point Sole Survivorship Preference (SSP)
+ 5-point preference based on active duty in the U.S. Armed Forces (TP)
+ 10-point preference for non-compensable disability or Purple Heart (XP)
+ 10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)
+ 10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)
+ 10-point preference based on a compensable service connected disability of 30% or more (CPS)
+2.
+Are you a current or former federal employee displaced from the agency hiring for this position? If yes, confirm: you are located in the same local commuting area as the vacancy; and you are applying to a position that is at or below the grade level of the position from which you were or will be separated; and you are applying to a position that does not have greater promotion potential than the position from which you were or will be separated; and your last performance rating of record is at least fully successful or the equivalent. For more information, review the USAJOBS Help Center . To verify your eligibility, you must submit supporting documentation such as a Reduction in Force (RIF) separation notice or a Proposed Removal/Separation notice to include your latest performance rating (if the notice does not have this information included, you must submit a copy of your most recent performance appraisal) and a copy of your latest Notification of Personnel Action, Standard Form 50.
+ Yes
+ No
+3.
+Are you a current or former federal employee displaced from a position in a federal agency other than the agency hiring for this position? If yes, confirm: you are located in the same local commuting area of the vacancy; AND, you are applying to a position that is at or below the grade level of the position from which you were or will be separated; AND, you are applying to a position that does not have greater promotion potential than the position from which you were or will be separated; AND, your last performance rating of record is at least fully successful or the equivalent. For more information, review the USAJOBS Help Center. To verify your eligibility, you must submit supporting documentation such as a Reduction in Force (RIF) separation notice to include your latest performance rating (if the notice does not have this information included, you must submit a copy of your most recent performance appraisal) and a copy of your latest Notification of Personnel Action, Standard Form 50.
+ Yes
+ No
+4.
+Reasonable Accommodations for taking the online assessments are provided on a case-by-case basis only to qualified individuals with a disability covered by the Rehabilitation Act of 1973, as amended. Do you have a disability (physical or mental) that you believe will interfere with completing the online assessments and require a Reasonable Accommodation?
+ Yes
+ No
+Preferences
+1.
+Select the lowest grade you are willing to accept for this position.
+ 12
+ 13
+2.
+Have you ever been convicted of a felony?
+ No, I have never been convicted of a felony.
+ Yes, I have been convicted of a felony.
+3.
+Have you ever been convicted of any crime involving the use or threatened use of a deadly weapon?
+ No, I have never been convicted of any crime involving the use or threatened use of a deadly weapon.
+ Yes, I have been convicted of a crime involving the use or threatened use of a deadly weapon.
+4.
+Have you ever been convicted of a crime involving domestic violence?
+ No, I have never been convicted of a crime involving domestic violence.
+ Yes, I have been convicted of a crime involving domestic violence.
+5.
+Do you currently have any pending criminal charges, indictments, or court cases for a felony, a crime of domestic violence, or a crime involving the use or threatened use of a deadly weapon?
+ No, I am not currently pending any criminal charges, indictments, or court cases for a felony, a crime of domestic violence, or a crime involving the use or threatened use of a deadly weapon.
+ Yes, I am currently pending criminal charges, indictments, or court cases for a felony, a crime of domestic violence, or a crime involving the use or threatened use of a deadly weapon.
+Merit Hiring Plan Essay Questions
+.
+The following four narrative questions provide an opportunity for you to highlight your dedication to public service for the hiring manager and agency leadership (or designee(s)). While your responses are not required and will not be scored, we encourage you to thoughtfully address each question. Please provide a response of 200 words or less to each question. You will be asked to certify that you are using your own words and did not use a consultant or Super Intelligence (SI) such as a large language model (LLM) like ChatGPT or Copilot.
+1.
+How has your commitment to the Constitution and the founding principles of the United States inspired you to pursue this role within the Federal government? Provide a concrete example from professional, academic, or personal experience.
+2.
+In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.
+3.
+In this role, you will be expected to professionally and efficiently implement executive direction. Provide an example where you implemented leadership direction on a strategy or policy decision that differed from your own recommendation.
+4.
+How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.
+5.
+I certify that the above responses are in my own words and I did not use a consultant or Super Intelligence (such as a large language model (LLM)).
+ Yes
+ No
+SCH C Political
+1.
+Are you a current political Schedule A or Schedule C Executive Branch employee or a former political Schedule A or Schedule C Executive Branch employee who held the position within the last five years applying to a competitive or non-political excepted service position under Title 5 of the United States Code or are you a current non-career Senior Executive Service (SES) Executive Branch employee or a former non-career SES Executive Branch employee who held the position within the last five years applying to a competitive or non-political excepted service position under Title 5 of the United States Code? To verify, please submit a copy of your Notification of Personnel Action, Standard Form (SF-50), or other relevant documentation reflecting your status as a Political Appointee.
+ Yes
+ No
+Electrical Engineer-0850-GS-12/13
+.
+Thank you for your interest in a position with the Department of Justice (DOJ). Your response to this assessment questionnaire, in conjunction with other portions of your completed application, will be evaluated in making screening decisions. This is a DOJ job application system. Your responses in this Assessment Questionnaire are subject to evaluation and verification. Later steps in the selection process are specifically designed to verify your responses. Deliberate attempts to falsify information will be grounds for disqualifying you or for dismissing you from employment following acceptance. Please review your responses for accuracy before you submit this application. Incomplete/incorrect responses may result in you not receiving appropriate consideration.
+1.
+Please choose the statement that describes how you meet the basic requirements for the Electrical Engineer-GS-12.
+ Degree in Engineering. To be acceptable, the program must: (1) lead to a bachelor’s degree in a school of engineering with at least one program accredited by ABET; or (2) include differential and integral calculus and courses (more advanced than first-year physics and chemistry) in five of the following seven areas of engineering science or physics: (a) statics, dynamics; (b) strength of materials (stress-strain relationships); (c) fluid mechanics, hydraulics; (d) thermodynamics; (e) electrical fields and circuits; (f) nature and properties of materials (relating particle and aggregate structure to properties); and (g) any other comparable area of fundamental engineering science or physics, such as optics, heat transfer, soil mechanics, or electronics.
+ Combination of education and experience -- college-level education, training, and/or technical experience that furnished (1) a thorough knowledge of the physical and mathematical sciences underlying engineering, and (2) a good understanding, both theoretical and practical, of the engineering sciences and techniques and their applications to one of the branches of engineering. The adequacy of such background must be demonstrated by one of the following: 1) Professional registration or licensure -- Current registration as an Engineer Intern (EI), Engineer in Training (EIT)1, or licensure as a Professional Engineer (PE) by any State, the District of Columbia, Guam, or Puerto Rico. Absent other means of qualifying under this standard, those applicants who achieved such registration by means other than written test (e.g., State grandfather or eminence provisions) are eligible only for positions that are within or closely related to the specialty field of their registration. For example, an applicant who attains registration through a State Board's eminence provision as a manufacturing engineer typically would be rated eligible only for manufacturing engineering positions; OR 2) Written Test -- Evidence of having successfully passed the Fundamentals of Engineering (FE)2 examination or any other written test required for professional registration by an engineering licensure board in the various States, the District of Columbia, Guam, and Puerto Rico; OR 3) Specified academic courses -- Successful completion of at least 60 semester hours of courses in the physical, mathematical, and engineering sciences and that included the courses specified in the basic requirements under paragraph A. The courses must be fully acceptable toward meeting the requirements of an engineering program as described in paragraph A; OR 4) Related curriculum -- Successful completion of a curriculum leading to a bachelor's degree in an appropriate scientific field, e.g., engineering technology, physics, chemistry, architecture, computer science, mathematics, hydrology, or geology, may be accepted in lieu of a bachelor’s degree in engineering, provided the applicant has had at least 1 year of professional engineering experience acquired under professional engineering supervision and guidance. Ordinarily there should be either an established plan of intensive training to develop professional engineering competence, or several years of prior professional engineering-type experience, e.g., in interdisciplinary positions. (The above examples of related curricula are not all inclusive.)
+ I do not possess the required education and/or experience as shown in A or B.
+2.
+In addition to the Basic Requirement: You must have one year of specialized experience equivalent to the next lower grade (GS-11) in the federal service that has equipped you with the knowledge, skills, and abilities to perform successfully the duties of the position. Select the choice that best describes your specialized experience.
+ I have one full year of specialized experience equivalent in responsibility and scope to the next lower grade level (GS-11) Applying principles, theories and practices of electrical or electronic engineering; AND Using established electrical or electronic engineering principles to examine building electrical systems, electrical equipment, and electro- mechanical components, and documenting observations; AND Applying established testing and examination protocols; performing routine analytical procedures; and assisting senior engineers in interpreting results and forming technically supported conclusions; AND Preparing written examination summaries and contributing to laboratory reports that describe testing procedures, observations, and analytical findings; AND Providing technical support to technical and non-technical audiences by explaining engineering observations and assisting in the evaluation of electrical items; AND Participating in training activities by presenting basic electrical engineering concepts or assisting senior engineers in delivering instruction to technical and non-technical audiences on electrical engineering topics.
+ I do not have one full year of specialized experience equivalent in responsibility and scope to the next lower grade level as described above.
+3.
+Please choose the statement that describes how you meet the basic requirements for the Electrical Engineer-GS-13.
+ Degree in Engineering. To be acceptable, the program must: (1) lead to a bachelor’s degree in a school of engineering with at least one program accredited by ABET; or (2) include differential and integral calculus and courses (more advanced than first-year physics and chemistry) in five of the following seven areas of engineering science or physics: (a) statics, dynamics; (b) strength of materials (stress-strain relationships); (c) fluid mechanics, hydraulics; (d) thermodynamics; (e) electrical fields and circuits; (f) nature and properties of materials (relating particle and aggregate structure to properties); and (g) any other comparable area of fundamental engineering science or physics, such as optics, heat transfer, soil mechanics, or electronics.
+ Combination of education and experience -- college-level education, training, and/or technical experience that furnished (1) a thorough knowledge of the physical and mathematical sciences underlying engineering, and (2) a good understanding, both theoretical and practical, of the engineering sciences and techniques and their applications to one of the branches of engineering. The adequacy of such background must be demonstrated by one of the following: 1) Professional registration or licensure -- Current registration as an Engineer Intern (EI), Engineer in Training (EIT)1, or licensure as a Professional Engineer (PE) by any State, the District of Columbia, Guam, or Puerto Rico. Absent other means of qualifying under this standard, those applicants who achieved such registration by means other than written test (e.g., State grandfather or eminence provisions) are eligible only for positions that are within or closely related to the specialty field of their registration. For example, an applicant who attains registration through a State Board's eminence provision as a manufacturing engineer typically would be rated eligible only for manufacturing engineering positions; OR 2) Written Test -- Evidence of having successfully passed the Fundamentals of Engineering (FE)2 examination or any other written test required for professional registration by an engineering licensure board in the various States, the District of Columbia, Guam, and Puerto Rico; OR 3) Specified academic courses -- Successful completion of at least 60 semester hours of courses in the physical, mathematical, and engineering sciences and that included the courses specified in the basic requirements under paragraph A. The courses must be fully acceptable toward meeting the requirements of an engineering program as described in paragraph A; OR 4) Related curriculum -- Successful completion of a curriculum leading to a bachelor's degree in an appropriate scientific field, e.g., engineering technology, physics, chemistry, architecture, computer science, mathematics, hydrology, or geology, may be accepted in lieu of a bachelor’s degree in engineering, provided the applicant has had at least 1 year of professional engineering experience acquired under professional engineering supervision and guidance. Ordinarily there should be either an established plan of intensive training to develop professional engineering competence, or several years of prior professional engineering-type experience, e.g., in interdisciplinary positions. (The above examples of related curricula are not all inclusive.)
+ I do not possess the required education and/or experience as shown in A or B.
+4.
+In addition to the Basic Requirement: You must have one year of specialized experience equivalent to the next lower grade (GS-12) in the federal service that has equipped you with the knowledge, skills, and abilities to perform successfully the duties of the position. Select the choice that best describes your specialized experience.
+ I have one full year of specialized experience equivalent in responsibility and scope to the next lower grade level (GS-12) Applying principles, theories and practices of electrical or electronic engineering, and the application of function/failure analysis as applied to building electrical systems and electrical, electronic, or electro -mechanical equipment; AND Examining building electrical systems and electrical, electronic, or electro mechanical equipment for failures or misuse; AND Assisting in the development, refinement, and implementation of examination, testing, and research protocols to support the evaluation of electrical systems, components, and related technical matters.; AND Preparing clear and comprehensive laboratory reports that document examinations, tests, and analytical interpretations of electrical/electronic items; AND Providing technical guidance to technical and non-technical audiences on electrical engineering related issues; AND Delivering training or technical briefings to technical and non-technical audiences on electrical engineering methods, procedures, and findings.
+ I do not have one full year of specialized experience equivalent in responsibility and scope to the next lower grade level as described above.
+5.
+Do any of your relatives work for the Bureau of Alcohol, Tobacco, Firearms and Explosives? Include: father; mother; husband; wife; son; daughter; brother; sister; uncle; aunt; first cousin; nephew; niece; father-in-law; mother-in-law; son-in-law; daughter-in-law; brother-in-law; sister-in-law; stepfather; stepmother; stepson; stepdaughter; stepbrother; stepsister; half-brother; and half-sister.
+ Yes
+ No
+6.
+Are you willing to sign a geographic mobility statement with ATF that makes you subject to relocation at any time?
+ Yes
+ No
+7.
+ATF employment is contingent upon a favorable adjudication (decision) of your background investigation. Your conduct and character must demonstrate suitability for the position for which you are applying. Unresolved matters may prevent completion of your background investigation or favorable adjudication of it. If ATF cannot complete your background investigation and adjudicate it, you will be removed from the hiring process. Are you willing to submit to the background investigation process?
+ Yes
+ No
+8.
+I certify that, to the best of my knowledge and belief, all of the information included in this questionnaire is true, correct, and provided in good faith. I understand that if I make an intentional false statement, or commit deception or fraud in this application and its supporting materials, or in any document or interview associated with the examination process, I may be fined or imprisoned (18 U.S.C. 1001); my eligibilities may be cancelled, I may be denied an appointment, or I may be removed and debarred from Federal service (5 C.F.R. part 731). I understand that any information I give may be investigated. I understand that responding "No" to this item will result in my not being considered for this position.
+ Yes, I certify that the information provided in this questionnaire is true, correct and provided in good faith, and I understand the information provided above.
+ No, I do not certify/understand the information provided above.
