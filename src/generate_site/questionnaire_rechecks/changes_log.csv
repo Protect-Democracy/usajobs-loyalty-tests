@@ -9259,3 +9259,4 @@ date,questionnaire_url,change,had_loyalty_q,has_loyalty_q,had_new_wording,has_ne
 2026-11-26,https://apply.usastaffing.gov/ViewQuestionnaire/13126378,first_seen,,False,,False,,False,questionnaire_rechecks/2026-11-26/usastaffing_13126378.txt
 2026-11-26,https://apply.usastaffing.gov/ViewQuestionnaire/13127129,first_seen,,False,,False,,False,questionnaire_rechecks/2026-11-26/usastaffing_13127129.txt
 2026-11-26,https://apply.usastaffing.gov/ViewQuestionnaire/13127158,first_seen,,False,,True,,False,questionnaire_rechecks/2026-11-26/usastaffing_13127158.txt
+2026-11-27,https://apply.usastaffing.gov/ViewQuestionnaire/13034145,changed,True,False,False,True,False,False,questionnaire_rechecks/2026-11-27/usastaffing_13034145.txt
